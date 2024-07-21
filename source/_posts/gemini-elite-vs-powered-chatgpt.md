@@ -1,0 +1,1197 @@
+---
+title: Gemini Elite Vs. Powered ChatGPT
+date: 2024-07-20T06:23:23.683Z
+updated: 2024-07-21T06:23:23.683Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Gemini Elite Vs. Powered ChatGPT
+excerpt: This Article Describes Gemini Elite Vs. Powered ChatGPT
+thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b312f2b21172b0735c2d2d47e0.jpeg
+---
+
+## Gemini Elite Vs. Powered ChatGPT
+
+### Quick Links
+
+* [User Interface](https://zonlipartnershipprogram.pxf.io/b0rbxy)
+* [How Well Can ChatGPT 4 and Gemini Advanced Answer Your Questions?](https://bluettifr.pxf.io/bax2bv)
+* [Mobile Apps Comparison](https://modlily.sjv.io/aw92wr)
+* [Computation and Reasoning](https://cowinaudio.pxf.io/pyx40e)
+* [Image Generation](https://vapordna.pxf.io/vnbxna)
+* [Pricing and Limits](https://bluettifr.pxf.io/bax2bv)
+* [ChatGPT Plus vs. Gemini Advanced: What Should You Choose?](https://engwe.pxf.io/jrkzrn)
+
+ ChatGPT and Google Gemini are very capable AI chatbots with a remarkable ability to generate text, code, and images. The free versions do basic tasks well, but the paid versions are even more capable.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ However, choosing between ChatGPT and Google Gemini isn't easy, especially as GPT-4 and Gemini Advanced (the premium large language models powering the AI chatbots) perform similarly in several areas.
+
+ So, how do you choose between ChatGPT Plus and Google Gemini Advanced?
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+## User Interface
+
+ Both have similar user interfaces, using a conversational style. Both entry-level and advanced users will find the UI easy and functional, and there is a striking resemblance between the two.
+
+Close
+
+ The style of conversing is different, though. ChatGPT outputs one word at a time, whereas Gemini churns out one line at a time. Your liking for either style is a personal choice, but I would like to see a configurable setting for this in the future. As of now, you cannot prompt and change the standard way.
+
+Close
+
+ If you're unhappy with the output and want your question answered differently, you can ask ChatGPT to **Regenerate** the output. Gemini generates a few drafts upfront, making it easy to pick.
+
+Close
+
+ Also, Gemini has a few more ready-made controls for fine-grain control over the output. You can choose the answer to be shorter, longer, more casual, or more professional. Gemini will adjust the temperature setting and generate relevant output.
+
+![Modify this response feature of Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/07.png)
+
+ You can query both for the sources of the presented information. ChatGPT will show the sources at the end of each paragraph, whereas Gemini will display the information source immediately after each sentence. This practice is a good way to credit the original creator of the content.
+
+Close
+
+ Although both interfaces are similar, the additional features give Gemini a slight advantage over ChatGPT. So, Gemini takes this round 2-1\.
+
+## How Well Can ChatGPT 4 and Gemini Advanced Answer Your Questions?
+
+ To answer a question well, GPTs need to understand it, reason about it, and construct the output. Without all three, you won't get a proper output.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
+### Generating a Webpage Summary
+
+ I asked both chatbots to summarize a page on Wikipedia, as both ChatGPT and Gemini can access external URLs, and text summarization is a strong point for both. In both cases, the summary was accurate.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Image Summarization
+
+ When asked to summarize an image, both express an inability to fetch the image over the internet. The image provided is not behind a firewall, nor is the domain set to block GPTs.
+
+Close
+
+ When the same image is uploaded as a file, both do a terrific job identifying every detail of the image.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Optical Character Recognition
+
+ The previous test shows that text can be extracted from an image. But how do both fare when presented with text of different sizes and colors?
+
+Close
+
+ Both seem to start well. ChatGPT generates a very accurate output, but Gemini drops the ball midway and starts summarizing the content in the image. Clearly, this is not a problem with the abilities, but Gemini Advanced lost a point here.
+
+### Can ChatGPT 4 & Gemini Advanced Summarize Videos?
+
+ Just like images, can you summarize videos, too? There is no provision for uploading videos to ChatGPT. When you try to add a video link, the application says it cannot provide a transcript of an online video on YouTube. However, ChatGPT has a library of third-party GPTs, and a quick search will find tools like [Full Video Transcript GPT](https://chat.openai.com/g/g-8bFoeNNre-full-video-transcript-gpt), which you can use to create a perfect text transcription.
+
+Close
+
+ On the other hand, YouTube is supposed to be Gemini's home turf, and it has a dedicated plugin for YouTube. But yet again, it veers off task and begins summarizing the video instead of providing the full-text transcript. Gemini needs to complete the answer before displaying its summarizing skills.
+
+![Transcript generation by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/14-2.png)
+
+ It is YouTube videos only, though. Neither can fetch videos from other online video services.
+
+Close
+
+ Digging deeper into how well GPTs understand video content, I asked a specific question and its timestamp. ChatGPT got the timestamp wrong, but it answered the question right. Gemini could not find the answer in the video, so ChatGPT scores another point.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Mobile Apps Comparison
+
+ Mobile phones, with their built-in cameras and microphones, allow for advanced functions within each chatbot's respective app. I am using a Google Pixel phone for these tests.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Picture Recognition
+
+ To test ChatGPT and Gemini Advanced mobile app capabilities, I grabbed a set of headphones and started to ask each app questions. First, why do the headphones have a USB port instead of a regular 3.5mm jack? Both explained it well enough and when asked how I could connect them to the phone for audio, both of them answered correctly.
+
+![Question on the photo taken answered by ChatGPT on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-1.png)
+
+![Question on the photo taken answered by Google Gemini on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Photo related question answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-1.png)
+
+![Photo related question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-2.png)
+
+Close
+
+ When asked to recognize the headphones, Gemini got the answer spot on. Furthermore, it provided the purchase links to the product. Gemini 2-1\.
+
+![Headphones recognition by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Headphones recognition by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+![Where to buy question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/29.png)
+
+Close
+
+### Speech Recognition
+
+ One important feature of the mobile app is how well it recognizes speech. ChatGPT listens till you pause and then converts it into text, and its output is accurate.
+
+![Speech recording for conversion to text by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-1.png)
+
+![Speech conversion to text in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+![Converted text from speech prompt answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-3.png)
+
+Close
+
+ Google has mastered this art, and Gemini Advanced's voice recognition is live, seamless, and accurate.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+![Speech to text conversion in Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Converted text from speech prompt answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Translation to telugu by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-3.png)
+
+Close
+
+ ChatGPT has a built-in voice conversation feature. It could speak out and translate it into the language I asked for. +1 for ChatGPT.
+
+![Voice conversations introduction page in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+![Voice Conversation in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-2.png)
+
+Close
+
+## Computation and Reasoning
+
+ The ideal use of a GPT is to solve complex problems. Feed in tons of data, and it can churn out answers at the speed of light. So, what better way to test ChatGPT Plus and Gemini Advanced than to solve problems?
+
+### A Simple Math Question
+
+ I posed the following question to both tools: "Some students planned a picnic. The budget for the food was $24\. Because four of the students failed to go, the cost of food for each student increased by $1\. How many students attended the picnic?"
+
+Close
+
+ Both ChatGPT 4 and Gemini Advanced answered 12, which is wrong. It is simple logic. If 12 people spent $2 each, it would cost them $24\. If four missed out, the other eight would spend a dollar more, $3 each. So, eight is the answer.
+
+ ChatGPT used Python code to get the answer, and Gemini used equations. In math, accuracy is the key. Neither got it right, so this is a 0-0\.
+
+ What's noteworthy is that Gemini answered eight in one of the drafts. So, it has computed and arrived at a different answer already. It should have re-checked the main answer when there was ambiguity with the drafts.
+
+**ChatGPT 4 Turbo**
+
+ However, shortly after I finished writing this article and testing both tools, ChatGPT released the newer GPT-4 Turbo. It claims to be better at math, and it sure is. It got the answer right and got a point for that.
+
+Close
+
+### Tricky Question
+
+ How about a tricky question, then? My question was about the birds sitting on a wire, and I wanted to test the ability to assess real-world implications. ChatGPT got this right, but Gemini is still in class.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Graphs
+
+ Next, I gave both chatbots data and asked them to plot it. Both ChatGPT and Gemini are accurate at plotting graphs. Gemini has some pre-built customizations to change the graph styles. You can do the same with ChatGPT too, with prompting.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Programming
+
+ Programming is the holy grail of AI, and bringing a layman's idea to life will be the pinnacle. When asked to write a code to delay the text input, both ChatGPT and Gemini Advanced did a wonderful job. It took a few more iterations to customize the code to fit the purpose, but it did work in the end. Each tool receives a point for this one.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Creative Writing
+
+ I asked both tools to write a 100-word story on AI. Most GPTs and AI tools are strong at writing creative stories, and both did well at this task.
+
+Close
+
+## Image Generation
+
+ The [image generation capabilities of GPTs](https://www.makeuseof.com/dall-e-creating-ai-images-pros-cons/) are improving all the time. Outputs look more realistic compared to the cartoon looks of previous versions. ChatGPT now has an edit tool, allowing you to select an area of interest in the generated image and modify it with prompting.
+
+Close
+
+ On the other hand, Gemini does not have such tools and generates a new set of images altogether. 2-1 for ChatGPT here.
+
+Close
+
+## Pricing and Limits
+
+ Both ChatGPT Plus and Google Gemini cost $20 per month. [ChatGPT has a limit of 40 messages every 3 hours](https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4), while Gemini allows 50\. A point here for Gemini.
+
+Close
+
+ ChatGPT allows users to create custom GPTs, which opens up the scope for improving what OpenAI has built. For example, [ChatGPT can play games](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/), but also has a [heap of games in the GPT Store](https://www.makeuseof.com/best-chatgpt-games-to-play/), too. Gemini, in contrast, has a limited number of extensions, mostly of other Google products. ChatGPT scores here.
+
+Close
+
+## ChatGPT Plus vs. Gemini Advanced: What Should You Choose?
+
+ Summing up everything, we have the final scores:
+
+| | ChatGPT 4          | Gemini Advanced |    |
+| -------------------- | --------------- | -- |
+| User Interface       | 1               | 2  |
+| Summarizing Webpages | 1               | 1  |
+| Summarizing Images   | 1               | 1  |
+| OCR                  | 2               | 1  |
+| Video Transcripts    | 2               | 1  |
+| Identifying Objects  | 1               | 2  |
+|                      |                 |    |
+| Speech Recognition   | 1               | 1  |
+| Voice Conversation   | 1               | 0  |
+| Simple Math          | 0+1             | 0  |
+| Tricky Question      | 1               | 0  |
+| Plotting Graphs      | 1               | 2  |
+| Programming          | 1               | 1  |
+| Creative Writing     | 1               | 1  |
+| Image Generation     | 2               | 1  |
+| Pricing              | 1               | 1  |
+| Message Limits       | 1               | 2  |
+| Extensions           | 2               | 1  |
+|                      |                 |    |
+| Total                | 21              | 18 |
+
+ The results speak for themselves. ChatGPT wins it, but Gemini is not far behind. On a different scale, ChatGPT's custom GPTs are alone worth more than 10 points. But, if you have to choose between them, go with ChatGPT Plus.
+
+ ChatGPT and Google Gemini are very capable AI chatbots with a remarkable ability to generate text, code, and images. The free versions do basic tasks well, but the paid versions are even more capable.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ However, choosing between ChatGPT and Google Gemini isn't easy, especially as GPT-4 and Gemini Advanced (the premium large language models powering the AI chatbots) perform similarly in several areas.
+
+ So, how do you choose between ChatGPT Plus and Google Gemini Advanced?
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## User Interface
+
+ Both have similar user interfaces, using a conversational style. Both entry-level and advanced users will find the UI easy and functional, and there is a striking resemblance between the two.
+
+Close
+
+ The style of conversing is different, though. ChatGPT outputs one word at a time, whereas Gemini churns out one line at a time. Your liking for either style is a personal choice, but I would like to see a configurable setting for this in the future. As of now, you cannot prompt and change the standard way.
+
+Close
+
+ If you're unhappy with the output and want your question answered differently, you can ask ChatGPT to **Regenerate** the output. Gemini generates a few drafts upfront, making it easy to pick.
+
+Close
+
+ Also, Gemini has a few more ready-made controls for fine-grain control over the output. You can choose the answer to be shorter, longer, more casual, or more professional. Gemini will adjust the temperature setting and generate relevant output.
+
+![Modify this response feature of Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/07.png)
+
+ You can query both for the sources of the presented information. ChatGPT will show the sources at the end of each paragraph, whereas Gemini will display the information source immediately after each sentence. This practice is a good way to credit the original creator of the content.
+
+Close
+
+ Although both interfaces are similar, the additional features give Gemini a slight advantage over ChatGPT. So, Gemini takes this round 2-1\.
+
+## How Well Can ChatGPT 4 and Gemini Advanced Answer Your Questions?
+
+ To answer a question well, GPTs need to understand it, reason about it, and construct the output. Without all three, you won't get a proper output.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+### Generating a Webpage Summary
+
+ I asked both chatbots to summarize a page on Wikipedia, as both ChatGPT and Gemini can access external URLs, and text summarization is a strong point for both. In both cases, the summary was accurate.
+
+Close
+
+### Image Summarization
+
+ When asked to summarize an image, both express an inability to fetch the image over the internet. The image provided is not behind a firewall, nor is the domain set to block GPTs.
+
+Close
+
+ When the same image is uploaded as a file, both do a terrific job identifying every detail of the image.
+
+Close
+
+### Optical Character Recognition
+
+ The previous test shows that text can be extracted from an image. But how do both fare when presented with text of different sizes and colors?
+
+Close
+
+ Both seem to start well. ChatGPT generates a very accurate output, but Gemini drops the ball midway and starts summarizing the content in the image. Clearly, this is not a problem with the abilities, but Gemini Advanced lost a point here.
+
+### Can ChatGPT 4 & Gemini Advanced Summarize Videos?
+
+ Just like images, can you summarize videos, too? There is no provision for uploading videos to ChatGPT. When you try to add a video link, the application says it cannot provide a transcript of an online video on YouTube. However, ChatGPT has a library of third-party GPTs, and a quick search will find tools like [Full Video Transcript GPT](https://chat.openai.com/g/g-8bFoeNNre-full-video-transcript-gpt), which you can use to create a perfect text transcription.
+
+Close
+
+ On the other hand, YouTube is supposed to be Gemini's home turf, and it has a dedicated plugin for YouTube. But yet again, it veers off task and begins summarizing the video instead of providing the full-text transcript. Gemini needs to complete the answer before displaying its summarizing skills.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+![Transcript generation by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/14-2.png)
+
+ It is YouTube videos only, though. Neither can fetch videos from other online video services.
+
+Close
+
+ Digging deeper into how well GPTs understand video content, I asked a specific question and its timestamp. ChatGPT got the timestamp wrong, but it answered the question right. Gemini could not find the answer in the video, so ChatGPT scores another point.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+## Mobile Apps Comparison
+
+ Mobile phones, with their built-in cameras and microphones, allow for advanced functions within each chatbot's respective app. I am using a Google Pixel phone for these tests.
+
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
+### Picture Recognition
+
+ To test ChatGPT and Gemini Advanced mobile app capabilities, I grabbed a set of headphones and started to ask each app questions. First, why do the headphones have a USB port instead of a regular 3.5mm jack? Both explained it well enough and when asked how I could connect them to the phone for audio, both of them answered correctly.
+
+![Question on the photo taken answered by ChatGPT on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-1.png)
+
+![Question on the photo taken answered by Google Gemini on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Photo related question answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-1.png)
+
+![Photo related question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-2.png)
+
+Close
+
+ When asked to recognize the headphones, Gemini got the answer spot on. Furthermore, it provided the purchase links to the product. Gemini 2-1\.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Headphones recognition by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-1.png)
+
+![Headphones recognition by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-2.png)
+
+![Where to buy question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/29.png)
+
+Close
+
+### Speech Recognition
+
+ One important feature of the mobile app is how well it recognizes speech. ChatGPT listens till you pause and then converts it into text, and its output is accurate.
+
+![Speech recording for conversion to text by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Speech conversion to text in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![Converted text from speech prompt answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-3.png)
+
+Close
+
+ Google has mastered this art, and Gemini Advanced's voice recognition is live, seamless, and accurate.
+
+![Speech to text conversion in Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+![Converted text from speech prompt answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+![Translation to telugu by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-3.png)
+
+Close
+
+ ChatGPT has a built-in voice conversation feature. It could speak out and translate it into the language I asked for. +1 for ChatGPT.
+
+![Voice conversations introduction page in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-1.png)
+
+![Voice Conversation in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-2.png)
+
+Close
+
+## Computation and Reasoning
+
+ The ideal use of a GPT is to solve complex problems. Feed in tons of data, and it can churn out answers at the speed of light. So, what better way to test ChatGPT Plus and Gemini Advanced than to solve problems?
+
+### A Simple Math Question
+
+ I posed the following question to both tools: "Some students planned a picnic. The budget for the food was $24\. Because four of the students failed to go, the cost of food for each student increased by $1\. How many students attended the picnic?"
+
+Close
+
+ Both ChatGPT 4 and Gemini Advanced answered 12, which is wrong. It is simple logic. If 12 people spent $2 each, it would cost them $24\. If four missed out, the other eight would spend a dollar more, $3 each. So, eight is the answer.
+
+ ChatGPT used Python code to get the answer, and Gemini used equations. In math, accuracy is the key. Neither got it right, so this is a 0-0\.
+
+ What's noteworthy is that Gemini answered eight in one of the drafts. So, it has computed and arrived at a different answer already. It should have re-checked the main answer when there was ambiguity with the drafts.
+
+**ChatGPT 4 Turbo**
+
+ However, shortly after I finished writing this article and testing both tools, ChatGPT released the newer GPT-4 Turbo. It claims to be better at math, and it sure is. It got the answer right and got a point for that.
+
+Close
+
+### Tricky Question
+
+ How about a tricky question, then? My question was about the birds sitting on a wire, and I wanted to test the ability to assess real-world implications. ChatGPT got this right, but Gemini is still in class.
+
+Close
+
+### Graphs
+
+ Next, I gave both chatbots data and asked them to plot it. Both ChatGPT and Gemini are accurate at plotting graphs. Gemini has some pre-built customizations to change the graph styles. You can do the same with ChatGPT too, with prompting.
+
+Close
+
+### Programming
+
+ Programming is the holy grail of AI, and bringing a layman's idea to life will be the pinnacle. When asked to write a code to delay the text input, both ChatGPT and Gemini Advanced did a wonderful job. It took a few more iterations to customize the code to fit the purpose, but it did work in the end. Each tool receives a point for this one.
+
+Close
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+### Creative Writing
+
+ I asked both tools to write a 100-word story on AI. Most GPTs and AI tools are strong at writing creative stories, and both did well at this task.
+
+Close
+
+## Image Generation
+
+ The [image generation capabilities of GPTs](https://www.makeuseof.com/dall-e-creating-ai-images-pros-cons/) are improving all the time. Outputs look more realistic compared to the cartoon looks of previous versions. ChatGPT now has an edit tool, allowing you to select an area of interest in the generated image and modify it with prompting.
+
+Close
+
+ On the other hand, Gemini does not have such tools and generates a new set of images altogether. 2-1 for ChatGPT here.
+
+Close
+
+## Pricing and Limits
+
+ Both ChatGPT Plus and Google Gemini cost $20 per month. [ChatGPT has a limit of 40 messages every 3 hours](https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4), while Gemini allows 50\. A point here for Gemini.
+
+Close
+
+ ChatGPT allows users to create custom GPTs, which opens up the scope for improving what OpenAI has built. For example, [ChatGPT can play games](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/), but also has a [heap of games in the GPT Store](https://www.makeuseof.com/best-chatgpt-games-to-play/), too. Gemini, in contrast, has a limited number of extensions, mostly of other Google products. ChatGPT scores here.
+
+Close
+
+## ChatGPT Plus vs. Gemini Advanced: What Should You Choose?
+
+ Summing up everything, we have the final scores:
+
+| | ChatGPT 4          | Gemini Advanced |    |
+| -------------------- | --------------- | -- |
+| User Interface       | 1               | 2  |
+| Summarizing Webpages | 1               | 1  |
+| Summarizing Images   | 1               | 1  |
+| OCR                  | 2               | 1  |
+| Video Transcripts    | 2               | 1  |
+| Identifying Objects  | 1               | 2  |
+|                      |                 |    |
+| Speech Recognition   | 1               | 1  |
+| Voice Conversation   | 1               | 0  |
+| Simple Math          | 0+1             | 0  |
+| Tricky Question      | 1               | 0  |
+| Plotting Graphs      | 1               | 2  |
+| Programming          | 1               | 1  |
+| Creative Writing     | 1               | 1  |
+| Image Generation     | 2               | 1  |
+| Pricing              | 1               | 1  |
+| Message Limits       | 1               | 2  |
+| Extensions           | 2               | 1  |
+|                      |                 |    |
+| Total                | 21              | 18 |
+
+ The results speak for themselves. ChatGPT wins it, but Gemini is not far behind. On a different scale, ChatGPT's custom GPTs are alone worth more than 10 points. But, if you have to choose between them, go with ChatGPT Plus.
+
+ ChatGPT and Google Gemini are very capable AI chatbots with a remarkable ability to generate text, code, and images. The free versions do basic tasks well, but the paid versions are even more capable.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ However, choosing between ChatGPT and Google Gemini isn't easy, especially as GPT-4 and Gemini Advanced (the premium large language models powering the AI chatbots) perform similarly in several areas.
+
+ So, how do you choose between ChatGPT Plus and Google Gemini Advanced?
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+## User Interface
+
+ Both have similar user interfaces, using a conversational style. Both entry-level and advanced users will find the UI easy and functional, and there is a striking resemblance between the two.
+
+Close
+
+ The style of conversing is different, though. ChatGPT outputs one word at a time, whereas Gemini churns out one line at a time. Your liking for either style is a personal choice, but I would like to see a configurable setting for this in the future. As of now, you cannot prompt and change the standard way.
+
+Close
+
+ If you're unhappy with the output and want your question answered differently, you can ask ChatGPT to **Regenerate** the output. Gemini generates a few drafts upfront, making it easy to pick.
+
+Close
+
+ Also, Gemini has a few more ready-made controls for fine-grain control over the output. You can choose the answer to be shorter, longer, more casual, or more professional. Gemini will adjust the temperature setting and generate relevant output.
+
+![Modify this response feature of Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/07.png)
+
+ You can query both for the sources of the presented information. ChatGPT will show the sources at the end of each paragraph, whereas Gemini will display the information source immediately after each sentence. This practice is a good way to credit the original creator of the content.
+
+Close
+
+ Although both interfaces are similar, the additional features give Gemini a slight advantage over ChatGPT. So, Gemini takes this round 2-1\.
+
+## How Well Can ChatGPT 4 and Gemini Advanced Answer Your Questions?
+
+ To answer a question well, GPTs need to understand it, reason about it, and construct the output. Without all three, you won't get a proper output.
+
+### Generating a Webpage Summary
+
+ I asked both chatbots to summarize a page on Wikipedia, as both ChatGPT and Gemini can access external URLs, and text summarization is a strong point for both. In both cases, the summary was accurate.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+### Image Summarization
+
+ When asked to summarize an image, both express an inability to fetch the image over the internet. The image provided is not behind a firewall, nor is the domain set to block GPTs.
+
+Close
+
+ When the same image is uploaded as a file, both do a terrific job identifying every detail of the image.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Optical Character Recognition
+
+ The previous test shows that text can be extracted from an image. But how do both fare when presented with text of different sizes and colors?
+
+Close
+
+ Both seem to start well. ChatGPT generates a very accurate output, but Gemini drops the ball midway and starts summarizing the content in the image. Clearly, this is not a problem with the abilities, but Gemini Advanced lost a point here.
+
+### Can ChatGPT 4 & Gemini Advanced Summarize Videos?
+
+ Just like images, can you summarize videos, too? There is no provision for uploading videos to ChatGPT. When you try to add a video link, the application says it cannot provide a transcript of an online video on YouTube. However, ChatGPT has a library of third-party GPTs, and a quick search will find tools like [Full Video Transcript GPT](https://chat.openai.com/g/g-8bFoeNNre-full-video-transcript-gpt), which you can use to create a perfect text transcription.
+
+Close
+
+ On the other hand, YouTube is supposed to be Gemini's home turf, and it has a dedicated plugin for YouTube. But yet again, it veers off task and begins summarizing the video instead of providing the full-text transcript. Gemini needs to complete the answer before displaying its summarizing skills.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+![Transcript generation by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/14-2.png)
+
+ It is YouTube videos only, though. Neither can fetch videos from other online video services.
+
+Close
+
+ Digging deeper into how well GPTs understand video content, I asked a specific question and its timestamp. ChatGPT got the timestamp wrong, but it answered the question right. Gemini could not find the answer in the video, so ChatGPT scores another point.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Mobile Apps Comparison
+
+ Mobile phones, with their built-in cameras and microphones, allow for advanced functions within each chatbot's respective app. I am using a Google Pixel phone for these tests.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+### Picture Recognition
+
+ To test ChatGPT and Gemini Advanced mobile app capabilities, I grabbed a set of headphones and started to ask each app questions. First, why do the headphones have a USB port instead of a regular 3.5mm jack? Both explained it well enough and when asked how I could connect them to the phone for audio, both of them answered correctly.
+
+![Question on the photo taken answered by ChatGPT on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+![Question on the photo taken answered by Google Gemini on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-2.png)
+
+![Photo related question answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-1.png)
+
+![Photo related question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-2.png)
+
+Close
+
+ When asked to recognize the headphones, Gemini got the answer spot on. Furthermore, it provided the purchase links to the product. Gemini 2-1\.
+
+![Headphones recognition by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-1.png)
+
+![Headphones recognition by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-2.png)
+
+![Where to buy question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/29.png)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Speech Recognition
+
+ One important feature of the mobile app is how well it recognizes speech. ChatGPT listens till you pause and then converts it into text, and its output is accurate.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Speech recording for conversion to text by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Speech conversion to text in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-2.png)
+
+![Converted text from speech prompt answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-3.png)
+
+Close
+
+ Google has mastered this art, and Gemini Advanced's voice recognition is live, seamless, and accurate.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+![Speech to text conversion in Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-1.png)
+
+![Converted text from speech prompt answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-2.png)
+
+![Translation to telugu by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-3.png)
+
+Close
+
+ ChatGPT has a built-in voice conversation feature. It could speak out and translate it into the language I asked for. +1 for ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![Voice conversations introduction page in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-1.png)
+
+![Voice Conversation in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-2.png)
+
+Close
+
+## Computation and Reasoning
+
+ The ideal use of a GPT is to solve complex problems. Feed in tons of data, and it can churn out answers at the speed of light. So, what better way to test ChatGPT Plus and Gemini Advanced than to solve problems?
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### A Simple Math Question
+
+ I posed the following question to both tools: "Some students planned a picnic. The budget for the food was $24\. Because four of the students failed to go, the cost of food for each student increased by $1\. How many students attended the picnic?"
+
+Close
+
+ Both ChatGPT 4 and Gemini Advanced answered 12, which is wrong. It is simple logic. If 12 people spent $2 each, it would cost them $24\. If four missed out, the other eight would spend a dollar more, $3 each. So, eight is the answer.
+
+ ChatGPT used Python code to get the answer, and Gemini used equations. In math, accuracy is the key. Neither got it right, so this is a 0-0\.
+
+ What's noteworthy is that Gemini answered eight in one of the drafts. So, it has computed and arrived at a different answer already. It should have re-checked the main answer when there was ambiguity with the drafts.
+
+**ChatGPT 4 Turbo**
+
+ However, shortly after I finished writing this article and testing both tools, ChatGPT released the newer GPT-4 Turbo. It claims to be better at math, and it sure is. It got the answer right and got a point for that.
+
+Close
+
+### Tricky Question
+
+ How about a tricky question, then? My question was about the birds sitting on a wire, and I wanted to test the ability to assess real-world implications. ChatGPT got this right, but Gemini is still in class.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Graphs
+
+ Next, I gave both chatbots data and asked them to plot it. Both ChatGPT and Gemini are accurate at plotting graphs. Gemini has some pre-built customizations to change the graph styles. You can do the same with ChatGPT too, with prompting.
+
+Close
+
+### Programming
+
+ Programming is the holy grail of AI, and bringing a layman's idea to life will be the pinnacle. When asked to write a code to delay the text input, both ChatGPT and Gemini Advanced did a wonderful job. It took a few more iterations to customize the code to fit the purpose, but it did work in the end. Each tool receives a point for this one.
+
+Close
+
+### Creative Writing
+
+ I asked both tools to write a 100-word story on AI. Most GPTs and AI tools are strong at writing creative stories, and both did well at this task.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Image Generation
+
+ The [image generation capabilities of GPTs](https://www.makeuseof.com/dall-e-creating-ai-images-pros-cons/) are improving all the time. Outputs look more realistic compared to the cartoon looks of previous versions. ChatGPT now has an edit tool, allowing you to select an area of interest in the generated image and modify it with prompting.
+
+Close
+
+ On the other hand, Gemini does not have such tools and generates a new set of images altogether. 2-1 for ChatGPT here.
+
+Close
+
+## Pricing and Limits
+
+ Both ChatGPT Plus and Google Gemini cost $20 per month. [ChatGPT has a limit of 40 messages every 3 hours](https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4), while Gemini allows 50\. A point here for Gemini.
+
+Close
+
+ ChatGPT allows users to create custom GPTs, which opens up the scope for improving what OpenAI has built. For example, [ChatGPT can play games](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/), but also has a [heap of games in the GPT Store](https://www.makeuseof.com/best-chatgpt-games-to-play/), too. Gemini, in contrast, has a limited number of extensions, mostly of other Google products. ChatGPT scores here.
+
+Close
+
+## ChatGPT Plus vs. Gemini Advanced: What Should You Choose?
+
+ Summing up everything, we have the final scores:
+
+| | ChatGPT 4          | Gemini Advanced |    |
+| -------------------- | --------------- | -- |
+| User Interface       | 1               | 2  |
+| Summarizing Webpages | 1               | 1  |
+| Summarizing Images   | 1               | 1  |
+| OCR                  | 2               | 1  |
+| Video Transcripts    | 2               | 1  |
+| Identifying Objects  | 1               | 2  |
+|                      |                 |    |
+| Speech Recognition   | 1               | 1  |
+| Voice Conversation   | 1               | 0  |
+| Simple Math          | 0+1             | 0  |
+| Tricky Question      | 1               | 0  |
+| Plotting Graphs      | 1               | 2  |
+| Programming          | 1               | 1  |
+| Creative Writing     | 1               | 1  |
+| Image Generation     | 2               | 1  |
+| Pricing              | 1               | 1  |
+| Message Limits       | 1               | 2  |
+| Extensions           | 2               | 1  |
+|                      |                 |    |
+| Total                | 21              | 18 |
+
+ The results speak for themselves. ChatGPT wins it, but Gemini is not far behind. On a different scale, ChatGPT's custom GPTs are alone worth more than 10 points. But, if you have to choose between them, go with ChatGPT Plus.
+
+ ChatGPT and Google Gemini are very capable AI chatbots with a remarkable ability to generate text, code, and images. The free versions do basic tasks well, but the paid versions are even more capable.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ However, choosing between ChatGPT and Google Gemini isn't easy, especially as GPT-4 and Gemini Advanced (the premium large language models powering the AI chatbots) perform similarly in several areas.
+
+ So, how do you choose between ChatGPT Plus and Google Gemini Advanced?
+
+## User Interface
+
+ Both have similar user interfaces, using a conversational style. Both entry-level and advanced users will find the UI easy and functional, and there is a striking resemblance between the two.
+
+Close
+
+ The style of conversing is different, though. ChatGPT outputs one word at a time, whereas Gemini churns out one line at a time. Your liking for either style is a personal choice, but I would like to see a configurable setting for this in the future. As of now, you cannot prompt and change the standard way.
+
+Close
+
+ If you're unhappy with the output and want your question answered differently, you can ask ChatGPT to **Regenerate** the output. Gemini generates a few drafts upfront, making it easy to pick.
+
+Close
+
+ Also, Gemini has a few more ready-made controls for fine-grain control over the output. You can choose the answer to be shorter, longer, more casual, or more professional. Gemini will adjust the temperature setting and generate relevant output.
+
+![Modify this response feature of Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/07.png)
+
+ You can query both for the sources of the presented information. ChatGPT will show the sources at the end of each paragraph, whereas Gemini will display the information source immediately after each sentence. This practice is a good way to credit the original creator of the content.
+
+Close
+
+ Although both interfaces are similar, the additional features give Gemini a slight advantage over ChatGPT. So, Gemini takes this round 2-1\.
+
+## How Well Can ChatGPT 4 and Gemini Advanced Answer Your Questions?
+
+ To answer a question well, GPTs need to understand it, reason about it, and construct the output. Without all three, you won't get a proper output.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### Generating a Webpage Summary
+
+ I asked both chatbots to summarize a page on Wikipedia, as both ChatGPT and Gemini can access external URLs, and text summarization is a strong point for both. In both cases, the summary was accurate.
+
+Close
+
+### Image Summarization
+
+ When asked to summarize an image, both express an inability to fetch the image over the internet. The image provided is not behind a firewall, nor is the domain set to block GPTs.
+
+Close
+
+ When the same image is uploaded as a file, both do a terrific job identifying every detail of the image.
+
+Close
+
+### Optical Character Recognition
+
+ The previous test shows that text can be extracted from an image. But how do both fare when presented with text of different sizes and colors?
+
+Close
+
+ Both seem to start well. ChatGPT generates a very accurate output, but Gemini drops the ball midway and starts summarizing the content in the image. Clearly, this is not a problem with the abilities, but Gemini Advanced lost a point here.
+
+### Can ChatGPT 4 & Gemini Advanced Summarize Videos?
+
+ Just like images, can you summarize videos, too? There is no provision for uploading videos to ChatGPT. When you try to add a video link, the application says it cannot provide a transcript of an online video on YouTube. However, ChatGPT has a library of third-party GPTs, and a quick search will find tools like [Full Video Transcript GPT](https://chat.openai.com/g/g-8bFoeNNre-full-video-transcript-gpt), which you can use to create a perfect text transcription.
+
+Close
+
+ On the other hand, YouTube is supposed to be Gemini's home turf, and it has a dedicated plugin for YouTube. But yet again, it veers off task and begins summarizing the video instead of providing the full-text transcript. Gemini needs to complete the answer before displaying its summarizing skills.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Transcript generation by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/14-2.png)
+
+ It is YouTube videos only, though. Neither can fetch videos from other online video services.
+
+Close
+
+ Digging deeper into how well GPTs understand video content, I asked a specific question and its timestamp. ChatGPT got the timestamp wrong, but it answered the question right. Gemini could not find the answer in the video, so ChatGPT scores another point.
+
+Close
+
+## Mobile Apps Comparison
+
+ Mobile phones, with their built-in cameras and microphones, allow for advanced functions within each chatbot's respective app. I am using a Google Pixel phone for these tests.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Picture Recognition
+
+ To test ChatGPT and Gemini Advanced mobile app capabilities, I grabbed a set of headphones and started to ask each app questions. First, why do the headphones have a USB port instead of a regular 3.5mm jack? Both explained it well enough and when asked how I could connect them to the phone for audio, both of them answered correctly.
+
+![Question on the photo taken answered by ChatGPT on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Question on the photo taken answered by Google Gemini on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-2.png)
+
+![Photo related question answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-1.png)
+
+![Photo related question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-2.png)
+
+Close
+
+ When asked to recognize the headphones, Gemini got the answer spot on. Furthermore, it provided the purchase links to the product. Gemini 2-1\.
+
+![Headphones recognition by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-1.png)
+
+![Headphones recognition by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-2.png)
+
+![Where to buy question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/29.png)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Speech Recognition
+
+ One important feature of the mobile app is how well it recognizes speech. ChatGPT listens till you pause and then converts it into text, and its output is accurate.
+
+![Speech recording for conversion to text by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![Speech conversion to text in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-2.png)
+
+![Converted text from speech prompt answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-3.png)
+
+Close
+
+ Google has mastered this art, and Gemini Advanced's voice recognition is live, seamless, and accurate.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Speech to text conversion in Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-1.png)
+
+![Converted text from speech prompt answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-2.png)
+
+![Translation to telugu by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-3.png)
+
+Close
+
+ ChatGPT has a built-in voice conversation feature. It could speak out and translate it into the language I asked for. +1 for ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Voice conversations introduction page in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-1.png)
+
+![Voice Conversation in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-2.png)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Computation and Reasoning
+
+ The ideal use of a GPT is to solve complex problems. Feed in tons of data, and it can churn out answers at the speed of light. So, what better way to test ChatGPT Plus and Gemini Advanced than to solve problems?
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+### A Simple Math Question
+
+ I posed the following question to both tools: "Some students planned a picnic. The budget for the food was $24\. Because four of the students failed to go, the cost of food for each student increased by $1\. How many students attended the picnic?"
+
+Close
+
+ Both ChatGPT 4 and Gemini Advanced answered 12, which is wrong. It is simple logic. If 12 people spent $2 each, it would cost them $24\. If four missed out, the other eight would spend a dollar more, $3 each. So, eight is the answer.
+
+ ChatGPT used Python code to get the answer, and Gemini used equations. In math, accuracy is the key. Neither got it right, so this is a 0-0\.
+
+ What's noteworthy is that Gemini answered eight in one of the drafts. So, it has computed and arrived at a different answer already. It should have re-checked the main answer when there was ambiguity with the drafts.
+
+**ChatGPT 4 Turbo**
+
+ However, shortly after I finished writing this article and testing both tools, ChatGPT released the newer GPT-4 Turbo. It claims to be better at math, and it sure is. It got the answer right and got a point for that.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Tricky Question
+
+ How about a tricky question, then? My question was about the birds sitting on a wire, and I wanted to test the ability to assess real-world implications. ChatGPT got this right, but Gemini is still in class.
+
+Close
+
+### Graphs
+
+ Next, I gave both chatbots data and asked them to plot it. Both ChatGPT and Gemini are accurate at plotting graphs. Gemini has some pre-built customizations to change the graph styles. You can do the same with ChatGPT too, with prompting.
+
+Close
+
+### Programming
+
+ Programming is the holy grail of AI, and bringing a layman's idea to life will be the pinnacle. When asked to write a code to delay the text input, both ChatGPT and Gemini Advanced did a wonderful job. It took a few more iterations to customize the code to fit the purpose, but it did work in the end. Each tool receives a point for this one.
+
+Close
+
+### Creative Writing
+
+ I asked both tools to write a 100-word story on AI. Most GPTs and AI tools are strong at writing creative stories, and both did well at this task.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Image Generation
+
+ The [image generation capabilities of GPTs](https://www.makeuseof.com/dall-e-creating-ai-images-pros-cons/) are improving all the time. Outputs look more realistic compared to the cartoon looks of previous versions. ChatGPT now has an edit tool, allowing you to select an area of interest in the generated image and modify it with prompting.
+
+Close
+
+ On the other hand, Gemini does not have such tools and generates a new set of images altogether. 2-1 for ChatGPT here.
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+## Pricing and Limits
+
+ Both ChatGPT Plus and Google Gemini cost $20 per month. [ChatGPT has a limit of 40 messages every 3 hours](https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4), while Gemini allows 50\. A point here for Gemini.
+
+Close
+
+ ChatGPT allows users to create custom GPTs, which opens up the scope for improving what OpenAI has built. For example, [ChatGPT can play games](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/), but also has a [heap of games in the GPT Store](https://www.makeuseof.com/best-chatgpt-games-to-play/), too. Gemini, in contrast, has a limited number of extensions, mostly of other Google products. ChatGPT scores here.
+
+Close
+
+## ChatGPT Plus vs. Gemini Advanced: What Should You Choose?
+
+ Summing up everything, we have the final scores:
+
+| | ChatGPT 4          | Gemini Advanced |    |
+| -------------------- | --------------- | -- |
+| User Interface       | 1               | 2  |
+| Summarizing Webpages | 1               | 1  |
+| Summarizing Images   | 1               | 1  |
+| OCR                  | 2               | 1  |
+| Video Transcripts    | 2               | 1  |
+| Identifying Objects  | 1               | 2  |
+|                      |                 |    |
+| Speech Recognition   | 1               | 1  |
+| Voice Conversation   | 1               | 0  |
+| Simple Math          | 0+1             | 0  |
+| Tricky Question      | 1               | 0  |
+| Plotting Graphs      | 1               | 2  |
+| Programming          | 1               | 1  |
+| Creative Writing     | 1               | 1  |
+| Image Generation     | 2               | 1  |
+| Pricing              | 1               | 1  |
+| Message Limits       | 1               | 2  |
+| Extensions           | 2               | 1  |
+|                      |                 |    |
+| Total                | 21              | 18 |
+
+ The results speak for themselves. ChatGPT wins it, but Gemini is not far behind. On a different scale, ChatGPT's custom GPTs are alone worth more than 10 points. But, if you have to choose between them, go with ChatGPT Plus.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-elite-faster-imagery-screen-reader/"><u>[New] Elite Faster Imagery Screen Reader</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-eye-catching-podcast-logos-step-by-step-creation/"><u>[New] Eye-Catching Podcast Logos  Step-by-Step Creation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-past-to-present-using-camera-roll-in-snapchats/"><u>[New] From Past To Present  Using Camera Roll in Snapchats</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-laughter-photo-maker/"><u>[Updated] Leading Laughter Photo Maker</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-clear-up-zoom-audio-troubleshoot-distortion-immediately/"><u>2024 Approved  Clear Up Zoom Audio  Troubleshoot Distortion Immediately</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-master-pip-in-google-chrome-a-comprehensive-guide/"><u>2024 Approved  How to Master PIP in Google Chrome  A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-strategies-from-palm-2-for-a-better-bard-experience/"><u>7 Strategies From PaLM 2 for a Better Bard Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abandon-chatgpt-step-by-step/"><u>Abandon ChatGPT: Step by Step</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advancing-essay-craft-with-chatgpt-expertise/"><u>Advancing Essay Craft with ChatGPT Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-art-of-prompt-engineering-job-stability-outlook/"><u>AI and the Art of Prompt Engineering: Job Stability Outlook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-website-navigation-systems/"><u>AI's Impact on Website Navigation Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/caution-your-data-and-chatgpt-on-mobile/"><u>Caution: Your Data & ChatGPT on Mobile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-secure-customized-workout-routines-by-chatgpt/"><u>Crafting Secure, Customized Workout Routines by ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-dialogues-separating-fact-from-fiction-in-ai-bot-world/"><u>Decoding Dialogues: Separating Fact From Fiction in AI Bot World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-essence-of-gptzero-in-ai-detection/"><u>Dissecting the Essence of GPTZero in AI Detection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-premier-choices-beyond-chatgpt/"><u>Exploring the Premier Choices Beyond ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fact-or-fantasy-debunking-9-key-ai-chatbot-beliefs/"><u>Fact or Fantasy? Debunking 9 Key AI Chatbot Beliefs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/fcp-x-effects-for-beginners-a-quick-and-easy-3-step-process-for-2024/"><u>FCP X Effects for Beginners A Quick and Easy 3-Step Process for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/galaxy-s21-fe-5g-2023-video-recovery-recover-deleted-videos-from-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-video/"><u>Galaxy S21 FE 5G (2023) Video Recovery - Recover Deleted Videos from Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-x50-gt-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor X50 GT Through Google Earth?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-red-magic-9-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nubia Red Magic 9 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-11-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus 11 5GFRP Lock</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfectpicturefree-ultimate-erase-for-clean-bgs/"><u>In 2024, PerfectPictureFree  Ultimate Erase for Clean BGs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-iphone-and-ipad-podcast-recording-manual-for-interviews/"><u>In 2024, The Ultimate iPhone & iPad Podcast Recording Manual For Interviews</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-transform-youtube-live-with-these-must-know-secrets/"><u>In 2024, Transform YouTube Live with These Must-Know Secrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-diverse-language-settings/"><u>Integrating ChatGPT Into Diverse Language Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/"><u>Is It Wise to Delegate Money Matters to AI?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-how-to-transcribe-voice-to-written-words-for-2024/"><u>New How to Transcribe Voice to Written Words for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1714198138395-new-ultimate-aiff-converter-selection-blueprint-for-2024/"><u>New Ultimate Aiff Converter Selection Blueprint for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalize-health-and-exercise-with-choosing-8-gpts/"><u>Personalize Health & Exercise with Choosing 8 GPTs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reality-assurance-no-gpt-windows-isnt-harmful-app/"><u>Reality Assurance: No, GPT-Windows Isn't Harmful App</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-watchers-24-hrs-youtube-chart-leaders/"><u>Speed Watchers  24-Hrs YouTube Chart Leaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-content-creation-hixplusgpt-4/"><u>The Future of Content Creation: HIX+GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-healing-ais-contribution-to-medicine/"><u>The Future of Healing: AI's Contribution to Medicine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-written-work-with-gpt-4/"><u>Transform Written Work with GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-ride-gpt-steps-to-customization/"><u>Transform Your Ride: GPT Steps to Customization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-crafting-dynamic-conversations-with-chatgpt-on-github/"><u>Ultimate Guide to Crafting Dynamic Conversations with ChatGPT on GitHub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-character-potential-with-gpt-and-visionary-ai-tools/"><u>Unlocking Character Potential with GPT and Visionary AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visual-expertise-on-demand-harnessing-chatgpts-ai-scope/"><u>Visual Expertise on Demand: Harnessing ChatGPT’s AI Scope</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/which-device-delivers-top-tier-4k-visual-feast/"><u>Which Device Delivers Top-Tier 4K Visual Feast?</u></a></li>
+</ul></div>

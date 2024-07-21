@@ -1,0 +1,183 @@
+---
+title: Decoding ChatGPT-4's Dilatory Nature Vs. 3.5 Speed
+date: 2024-07-20T06:22:20.811Z
+updated: 2024-07-21T06:22:20.811Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Decoding ChatGPT-4's Dilatory Nature Vs. 3.5 Speed
+excerpt: This Article Describes Decoding ChatGPT-4's Dilatory Nature Vs. 3.5 Speed
+thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73b669ce5e25a48073077851b.jpg
+---
+
+## Decoding ChatGPT-4's Dilatory Nature Vs. 3.5 Speed
+
+ With the newest version of ChatGPT, GPT-4, released in March 2023, many are now wondering why it is so slow compared to its predecessor, GPT-3.5\. So, what's the core reason here?
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Just why is ChatGPT-4 so sluggish, and should you stick to GPT-3.5 instead?
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+## What Is ChatGPT-4?
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+![chatgpt welcome page open on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gpt-laptop-1.jpg)
+
+ ChatGPT-4 is the newest model of [OpenAI's chatbot, known generally as ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/). ChatGPT is powered by artificial intelligence, allowing it to answer your questions and prompts far better than previous chatbots. ChatGPT uses a large language model powered by a GPT (Generative Pre-trained Transformer) to provide information and content to users while also being able to converse.
+
+ ChatGPT has a wide range of capabilities, making it useful for millions. For example, ChatGPT can write stories, formulate jokes, translate text, educate users, and more. While ChatGPT can also be used for more illicit acts, such as [malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/), its versatility is somewhat revolutionary.
+
+[ChatGPT's GPT-4 model](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) was released on March 14, 2023\. This version of ChatGPT is designed to better understand emotional language through text while also better understanding different language dialects and image processing. GPT-4 can also hold longer conversations and effectively respond to longer user prompts.
+
+ Additionally, GPT-4's parameters exceed those of GPT-3.5 by a large extent. ChatGPT's parameters determine how the AI processes and responds to information. In short, parameters determine the skill the chatbot has to interact with users. While GPT-3.5 has 175 billion parameters, GPT-4 has an incredible 100 trillion to 170 trillion (rumored—OpenAI hasn't confirmed this figure).
+
+ It was OpenAI's GPT-3.5 that was used to power ChatGPT, which is now the most popular AI chatbot in the world. So, GPT-3.5 has made an undeniable mark in the AI realm. But things are always progressing in the tech industry, so it's no surprise that GPT-3.5 now has a successor in GPT-4\.
+
+ However, GPT-4 is by no means perfect. In fact, GPT-4's lengthy response times are causing quite a stir. So let's look into this issue and why it may be happening.
+
+## ChatGPT-4 Is Slow
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+![loading text and bar symbol on black exterior wall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/black-wall-loading.jpg)
+
+ Many noticed upon the release of GPT-4 that OpenAI's new chatbot was incredibly slow. This left scores of users frustrated, as GPT-4 was meant to be a step up from GPT-3.5, not backward. As a result, GPT-4 users have been taking to online platforms, such as Reddit and OpenAI's community board, to discuss the issue.
+
+ On [OpenAI's Community Forum](https://community.openai.com/t/gpt-4-extremely-slow-compared-to-3-5/106298), a number of users have come forward with their GPT-4 delay frustrations. One user stated that GPT-4 was "extremely slow" on their end and that even small requests made to the chatbot resulted in unusually long delays of over 30 seconds.
+
+ Other users were quick to share their experiences with GPT-4, with one commenting under the post that "the same call with the same data can take up to 4 times slower than 3.5 turbo."
+
+ In another [OpenAI Community Forum post](https://community.openai.com/t/chat-gpt-4-painfully-slow/117996), a user commented that their prompts are sometimes met with an "[error in body stream](https://www.makeuseof.com/what-is-chatgpt-error-in-body-stream-issue-how-fix-it/)" message, resulting in no response. In the same thread, another individual stated they couldn't get GPT-4 to "successfully respond with a complete script." Another user commented that they kept running into network errors while trying to use GPT-4\.
+
+ With delays and failed or half-baked responses, it seems that GPT-4 is littered with issues that are quickly putting users off.
+
+ So why, exactly, is this happening? Is there something wrong with GPT-4?
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Why Is GPT-4 Slow Compared to GPT-3.5?
+
+ In the OpenAI Community Forum post referenced above, one user responded suggesting that the delay was due to a "current problem with whole infrastructure overload," adding that there is a challenge posed in "tackling scalability in such a short time frame with this popularity and number of users of both chat and API."
+
+ In a [Reddit post](https://www.reddit.com/r/singularity/comments/11ujevm/what%5Fis%5Fthe%5Fsize%5Fof%5Fgpt4%5Fand%5Fwhy%5Fis%5Fit%5Fslow/) uploaded in the r/singularity subreddit, a user laid out a few possible reasons for GPT-4's slowness, starting with a larger context size. Within the GPT ecosystem, context size refers to how much information a given chatbot version can process and then produce information. While GPT-3.5's context size was 4K, GPT-4's is double that. So, having an 8K context size may be having an impact on GPT-4's overall speeds.
+
+ The Reddit author also suggested that the enhanced steerability and control of GPT-4 could play a role in the chatbot's processing times. Here, the author stated that GPT-4's greater steerability and control of hallucinations and inappropriate language might be the culprits, as these features add extra steps to GPT-4's method of processing information.
+
+ Furthermore, it was proposed that GPT-4's ability to process pictures could be slowing things down. This useful feature is loved by many but could come with a catch. Given that it has been rumored GPT-4 takes 10-20 seconds to process a provided image, there's a chance that this component is stretching out response times (though this doesn't explain the delays experienced by users providing text prompts only).
+
+ Other users have suggested that the newness of ChatGPT-4 is playing a big role in these delays. In other words, some think that OpenAI's newest chatbot needs to experience some growing pains before all flaws can be ironed out.
+
+ But the biggest reason GPT-4 is slow is the number of parameters GPT-4 can call upon versus GPT-3.5\. The phenomenal rise in parameters simply means it takes the newer GPT model longer to process information and respond accurately. You get better answers with increased complexity, but getting there takes a little longer.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+## Should You Choose GPT-3.5 Over GPT-4?
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+![digital graphic of openai logo on glass tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-ai-logo.jpg)
+
+ So, with these issues in mind, should you use [GPT-3.5 or GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/)?
+
+ At the time of writing, it seems GPT-3.5 is the snappier option over GPT-4\. So many users have experienced delays that it's likely the time issue is present across the board, not just with a few individuals. So, if ChatGPT-3.5 is currently meeting all your expectations, and you don't want to wait around for a response in exchange for extra features, it may be wise to stick to this version for now.
+
+ However, you should note that GPT-4 isn't just GPT-3.5 but slower. This version of OpenAI's chatbot has numerous advantages over its predecessor. If you're looking for a more advanced AI chatbot and don't mind waiting longer for responses, it may be worth transitioning from GPT-3.5 to GPT-4\.
+
+ Over time, GPT-4's delays may be lessened or entirely resolved, so patience could be a virtue here. Whether you try switching to GPT-4 now or wait a little longer to see how things play out with this version, you can still get a lot out of OpenAI's nifty little chatbot.
+
+## GPT-4 Is More Advanced but Comes With a Lag
+
+ While GPT-4 has numerous advanced capabilities over GPT-3.5, its significant delays and response errors have made it unusable to some. These issues may be resolved in the near future, but for now, GPT-4 certainly has some obstacles to overcome before it is accepted on a wider scale.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Just why is ChatGPT-4 so sluggish, and should you stick to GPT-3.5 instead?
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-7-best-drone-gimbals-in-the-market/"><u>[New] 2024 Approved  Top 7 Best Drone Gimbals in the Market</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-tools-for-live-gameplay-screen-grabs/"><u>[New] Best Tools for Live Gameplay Screen Grabs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-vlog-confidently-like-popular-youtubers-for-2024/"><u>[New] How to Vlog Confidently Like Popular YouTubers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-beyond-staged-success-ten-truths-about-reels-on-instagram/"><u>[New] In 2024, Beyond Staged Success  Ten Truths About Reels on Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-audiences-on-the-rise-gauge/"><u>[Updated] 2024 Approved  Audiences on the Rise Gauge</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-crafting-professional-slug-line-notations/"><u>[Updated] Expert Tips for Crafting Professional Slug Line Notations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digital-fortune-makers-top-earning-youtubers/"><u>[Updated] In 2024, Digital Fortune Makers  Top Earning YouTubers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-master-your-mobile-communications-skype-and-zoom-on-android/"><u>[Updated] In 2024, Master Your Mobile Communications  Skype & Zoom on Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-applications-for-visual-storytelling/"><u>[Updated] Premier Applications for Visual Storytelling</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>[Updated] Upgrade Your View  Enabling YouTube's High-Quality AV1 Option</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unique-video-identity-designing-personalized-thumbnails/"><u>2024 Approved  Unique Video Identity  Designing Personalized Thumbnails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assistance-in-students-essays-progress-or-setback/"><u>AI Assistance in Students' Essays: Progress or Setback?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-basics-unlocked-start-here-with-these-9-educational-hubs/"><u>AI Basics Unlocked: Start Here with These 9 Educational Hubs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-rivalry-unique-approach-to-shared-creative-task/"><u>AI Rivalry: Unique Approach to Shared Creative Task</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-unveiled-a-family-guide-to-gpt/"><u>AI Unveiled: A Family Guide to GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-enhanced-ai-tools-justified-by-costs-incurred/"><u>Are Enhanced AI Tools Justified by Costs Incurred?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-affection-chatgpts-dating-edge/"><u>Artificial Affection: ChatGPT's Dating Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-muse-reimagined-the-best-ai-writers-of-today/"><u>Artificial Muse Reimagined: The Best AI Writers of Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bard-by-google-next-chapter-in-ai-evolution-after-gpt/"><u>Bard by Google: Next Chapter in AI Evolution After GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgptplus-revolutionary-tech-for-fluent-multilingualism/"><u>ChatGPT+: Revolutionary Tech for Fluent Multilingualism</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-originality-challenges-artificial-intelligence/"><u>Content Originality Challenges Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/continuous-learning-via-chatgpt-for-all/"><u>Continuous Learning via ChatGPT for All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/duel-of-the-devices-github-copilot-vs-openais-gpt/"><u>Duel of the Devices: GitHub Copilot Vs. OpenAI's GPT</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-establish-canon-printer-link/"><u>Effortlessly Establish Canon Printer Link</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-gamers-revealed-free-pc-gaming-secrets/"><u>Elite Gamers Revealed: Free PC Gaming Secrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engage-with-gpt-3s-beta-web-integration-advances/"><u>Engage with GPT-3's Beta Web Integration Advances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-empathy-through-chatgpt-utilization/"><u>Enhancing Empathy Through ChatGPT Utilization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-codegpts-capabilities-in-tech-innovation/"><u>Examining CodeGPT's Capabilities in Tech Innovation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expertise-in-virtual-assessment-vll-of-apps/"><u>Expertise in Virtual Assessment  VLL of Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-ai-top-8-reasons-educators-should-adapt/"><u>Harnessing the Power of AI: Top 8 Reasons Educators Should Adapt</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fact-check-health-information-from-chatgpt-and-ai-sources/"><u>How to Fact-Check Health Information From ChatGPT and AI Sources</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-your-windows-photos-masterpiece-adding-filters-musical-elements/"><u>In 2024, Crafting Your Windows Photos Masterpiece  Adding Filters, Musical Elements</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pick-20-youtube-musics-elite-creators/"><u>In 2024, Pick 20  YouTube Music's Elite Creators</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/latest-top-darth-vader-voice-generators-for-all-platforms-for-2024/"><u>Latest Top Darth Vader Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-footage-to-film-the-best-software-for-burning-home-dvds/"><u>New In 2024, From Footage to Film The Best Software for Burning Home DVDs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-plots-creating-rpgs-in-the-gpt-realm/"><u>Pioneering Plots: Creating RPGs in the GPT Realm</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-networks-for-collaborative-prompt-creation/"><u>Prime Networks for Collaborative Prompt Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pushing-boundaries-in-conversational-tech/"><u>Pushing Boundaries in Conversational Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-multilingual-communication-using-chatgpt/"><u>Seamless Multilingual Communication Using ChatGPT</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamline-your-mac-audio-experience-with-audacity/"><u>Streamline Your Mac Audio Experience with Audacity</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/synchronizing-sessions-obs-timer-integration-walkthrough-for-2024/"><u>Synchronizing Sessions  OBS Timer Integration Walkthrough for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-voice-activated-chatgpt-in-cars/"><u>The Dawn of Voice-Activated ChatGPT in Cars</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-compendium-of-selecting-premium-audio-formats-for-2024/"><u>The Ultimate Compendium of Selecting Premium Audio Formats for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-uses-for-tailored-chatgpt-guidance/"><u>Top 5 Uses for Tailored ChatGPT Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-artificial-intelligence-systems-for-online-researchers/"><u>Top Artificial Intelligence Systems for Online Researchers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-pfr-rate-for-sluggish-film-speed-for-2024/"><u>Top PFR Rate for Sluggish Film Speed for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-innovation-chatgpt-meets-mindmap-techniques/"><u>Unleash Innovation: ChatGPT Meets Mindmap Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-in-chatbot-dialogue-dynamics/"><u>Unlock Your Potential in Chatbot Dialogue Dynamics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmatched-personalization-utilize-your-own-8-tailored-ais/"><u>Unmatched Personalization: Utilize Your Own 8 Tailored AIs</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-puzzle-of-production-piecing-together-roles-for-an-immersive-filming-experience/"><u>Updated The Puzzle of Production Piecing Together Roles for an Immersive Filming Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-makes-gpt-enterprises-stand-out/"><u>What Makes GPT Enterprises Stand Out?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-ais-evolution-spells-worse-cybersecurity-troubles/"><u>Why AI's Evolution Spells Worse Cybersecurity Troubles</u></a></li>
+</ul></div>

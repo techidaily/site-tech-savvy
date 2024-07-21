@@ -1,0 +1,229 @@
+---
+title: "AI-Assisted Podcast Production: An Insider's Tale"
+date: 2024-07-20T06:23:57.915Z
+updated: 2024-07-21T06:23:57.915Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes AI-Assisted Podcast Production: An Insider's Tale"
+excerpt: "This Article Describes AI-Assisted Podcast Production: An Insider's Tale"
+thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e7bac2e7594923dabb645a34.jpg
+---
+
+## AI-Assisted Podcast Production: An Insider's Tale
+
+ Generative AI and particularly ChatGPT can potentially save you a lot of time. It’s ideal for outlining, creating lists, writing emails, and much more.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ But can AI write a podcast? What happens when you ask ChatGPT to create a podcast script? To find out, MakeUseOf’s podcast team agreed to use ChatGPT to script an episode of the show.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Why We Used ChatGPT for a Podcast Script
+
+ Since the launch of ChatGPT 3.5, generative AI has become a popular topic. MakeUseOf’s [Really Useful Podcast](https://www.makeuseof.com/tag/rup/) has regularly discussed ChatGPT and other forms of AI, so it made sense to find a new way of approaching the topic.
+
+ After all, generative AI has the potential to be a powerful labor-saving tool. Risks to creative industries have been cited, but my own feeling is that this is a tool that can strengthen, rather than weaken.
+
+ But also, it’s an interesting challenge for AI. Creating a script is one thing, but can generative AI “write” something that is interesting, or will it come across as flat?
+
+ So, to frame a fresh discussion of ChatGPT, the podcast team (that’s me Christian Cawley, site editor-in-chief Ben Stegner, and Tech Explained editor Gavin Phillips) decided that it might be interesting to use the technology to script a podcast.
+
+## Integrating ChatGPT Into the Really Useful Podcast Format
+
+ The Really Useful Podcast is a weekly mix of tech news that affects everyone (e.g. changes to social media, online security issues, new iPhone or Android updates, etc.), explainers, tips and tricks, and finally recommendations.
+
+ As you can see, this is far more complicated than a show that, say, tells a story, or discusses celebrity gossip.
+
+ It immediately became clear that the team would face some challenges with getting ChatGPT to match the show’s format. Usually prepared with an outline of links and nothing more, the script would give us the most robust structure yet.
+
+ This risked making the end product sound very different to every other show, but it was worth it to find something to add to the list of [things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+## 3 Limitations With ChatGPT’s Scriptwriting Abilities
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Script by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-script.jpg)
+
+ Finding ways to pose the instructions that would create a usable script revealed various limitations to ChatGPT.
+
+### 1\. Topical Writing Isn’t Possible
+
+ ChatGPT 3.5 is unsuitable for topical writing. It has been [trained on a dataset that contains material up to September 2021](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/), so the shortcoming here is obvious.
+
+ For the Really Useful Podcast, this meant that the show’s news section would remain conversational. Instead, the introduction to the section would be created with ChatGPT.
+
+### 2\. ChatGPT Doesn’t Quite Understand
+
+ Generative AI can be a problem for editors; while some publications are replacing writers with AI, others are not. The reason? Well, it doesn’t give you the same insight a human writer can add to an explainer, guide, or set of steps.
+
+ In preparing this podcast with ChatGPT, it became apparent that asking it to re-interpret the articles we would use for our explainers, tips, and tricks section would result in dialogue that wasn’t 100% right.
+
+ Again, the solution was to rely on ChatGPT only for the introduction to podcast’s middle section.
+
+ (Of course, ChatGPT cannot understand in the human sense of the word.)
+
+### 3\. ChatGPT Does Not Recommend
+
+ In order to mitigate legal claims, ChatGPT is not able to make recommendations. Indeed, upon the first request to “introduce a podcast section on recommending technology” it responded with:
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-recommend-fail.jpg)
+
+ Variations were attempted, but all resulted in largely the same response. Unperturbed, the recorded podcast featured a shortened version of this “script.”
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How the ChatGPT-Scripted Podcast Turned Out
+
+ Recording our AI-created edition of the Really Useful Podcast required both participants (myself and Ben Stegner) to have a copy of the script. This was created by copying responses from ChatGPT into a shared Google Doc.
+
+ After the theme tune and greetings, the show kicked off with a response to this ChatGPT prompt:
+
+> _Write an intro for the podcast "The Really Useful Podcast"_
+
+ The result was quite good:
+
+> _Welcome to "The Really Useful Podcast," the show that brings you the latest and greatest in technology, productivity, and life hacks. Each episode, we'll explore innovations and techniques that can help you make the most of your digital life, whether you're looking to boost your productivity, simplify your workflow, or just stay up-to-date on the latest tech trends._
+>
+> _"The Really Useful Podcast" is your one-stop-shop for all things practical and innovative. So sit back, relax, and get ready to learn something new – because "The Really Useful Podcast" is here to help you get the most out of your digital world._
+
+ Note that I cut some text: “With expert guests, insightful interviews, and hands-on demonstrations.” While the Really Useful Podcast has featured guests in the past, this is an unusual feature of the show.
+
+ Next, I requested a disclaimer:
+
+> _Write a disclaimer saying that this week's podcast has been scripted by chatgpt_
+
+ From a very wordy response, I kept the following:
+
+> _Please note that this week's podcast episode has been scripted by chatgpt, an AI language model designed to assist with content creation._
+
+ Further, I explained in the show that each ChatGPT-scripted dialogue would be preceded with a specific sound effect.
+
+ The news section introduction was achieved with the following prompt:
+
+> _Write an introduction to news items about Elon Musk banning the NYT from a Twitter blue flag, ChatGPT being banned in Italy, and the 50th anniversary of the mobile phone_
+
+![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-news.jpg)
+
+ For the show’s middle section (explainers, tips, and tricks) the intro prompt was:
+
+> _Write an introduction to discussion about decrypting ransomware, games not working on Windows 11, and why you shouldn't pay to use Microsoft Word_
+
+![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-tips.jpg)
+
+ Finally, ChatGPT was asked to script a section on tech recommendations:
+
+> _Introduce a podcast section on recommending technology_
+
+ The result, attempted many times with much frustration, was always a variation on:
+
+> _As an AI language model, I cannot comment or recommend the creation of a podcast on behalf of individuals or organizations._
+
+ The finished Really Useful Podcast can be listened to on [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), and you can subscribe on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-really-useful-podcast/id1437847131). To give you an idea of how the scripted sections turned out, I’ve edited them into a compressed edition.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Should You Use ChatGPT to Write a Podcast?
+
+ Having used ChatGPT to write as much of this podcast as possible, I’ve come to a few conclusions.
+
+ Most importantly, and as is the case with many other written uses of generative AI, ChatGPT is great at outlining. It understands formats and can give you the structure to work with.
+
+ When it comes to topical material, insight, and recommendations, ChatGPT is unsuitable. Requesting any dialogue or prose along these lines is a waste of time.
+
+ Finally, ChatGPT has reasonably good variation in language use. There is some repetition, and parts of what it produces can be overlong and exhaustive. Overall, however, it produces enough material to use, even if you need to cut some.
+
+ As such, if you’re thinking about using ChatGPT to script your podcast, it’s worth spending some time working on some prompts. That said, I’m not planning to use it again on the Really Useful Podcast any time soon.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ But can AI write a podcast? What happens when you ask ChatGPT to create a podcast script? To find out, MakeUseOf’s podcast team agreed to use ChatGPT to script an episode of the show.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-strategies-for-clearer-facebook-live-footage-viewing-for-2024/"><u>[Updated] Strategies for Clearer Facebook Live Footage Viewing for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-inside-look-how-youtuber-shorts-work/"><u>2024 Approved  Inside Look  How Youtuber Shorts Work</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unleashing-your-gaming-potential-with-fbx/"><u>2024 Approved  Unleashing Your Gaming Potential with FBX</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-face-off-determining-which-is-superior-gpt-plus-or-perplexity/"><u>AI Face-Off: Determining Which Is Superior, GPT Plus Or Perplexity?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmenting-hr-workloads-gpts-role/"><u>Augmenting HR Workloads: GPT's Role</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/b200-issue-eliminated/"><u>B200 Issue Eliminated</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/build-a-budget-oriented-chatgpt-replica-locally/"><u>Build a Budget-Oriented ChatGPT Replica Locally</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/caution-your-data-and-chatgpt-on-mobile/"><u>Caution: Your Data & ChatGPT on Mobile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-revolutionizes-your-study-notes-strategy/"><u>ChatGPT Revolutionizes Your Study Notes Strategy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-2-unveiled-insight-into-its-purpose-and-utility/"><u>Claude 2 Unveiled: Insight Into Its Purpose and Utility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conceptual-mastery-combining-ai-and-brainstorming/"><u>Conceptual Mastery: Combining AI & Brainstorming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-construction-revolutionized-by-chatbot-innovation/"><u>Content Construction Revolutionized by Chatbot Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/context-revolution-gemini-15s-million-token-journey/"><u>Context Revolution: Gemini 1.5'S Million Token Journey</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-compelling-verses-with-ai-powered-assistance/"><u>Crafting Compelling Verses with AI-Powered Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-winning-proposals-the-chatgpt-method/"><u>Crafting Winning Proposals: The ChatGPT Method</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-through-the-chatter-debunking-nine-biggies-of-ai-dialogue/"><u>Cut Through the Chatter: Debunking Nine Biggies of AI Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-gpt4alls-functionality/"><u>Decoding GPT4All's Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-rationale-hackers-and-chatgpt/"><u>Decoding the Rationale: Hackers and ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-time-use-with-chatgpts-4-techniques/"><u>Efficient Time Use with ChatGPT's 4 Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-less-tweets-for-clarity-linuss-revealed-secrets-trojans-explained-and-ai-conversational-challenges/"><u>Emoji-Less Tweets for Clarity, Linus's Revealed Secrets, Trojans Explained, & AI Conversational Challenges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engage-anytime-anywhere-chatgpt-on-android/"><u>Engage Anytime, Anywhere: ChatGPT on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-auto-gpts-broad-potential/"><u>Exploring Auto-GPT's Broad Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-employment-preparing-for-ai-driven-transformation/"><u>Future Employment: Preparing for AI-Driven Transformation</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-11-proplus-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme 11 Pro+ by Name | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-your-youtube-experience-with-premium-subscription/"><u>In 2024, Master Your YouTube Experience with Premium Subscription</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-m4r-conversion-guide-tips-and-tricks-to-begin-with/"><u>In 2024, The Ultimate M4R Conversion Guide Tips and Tricks to Begin With</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-retro-playlist-trick-how-to-go-in-arrears/"><u>In 2024, Youtube's Retro Playlist Trick  How to Go in Arrears</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagrams-latest-trend-get-8plus-free-tools-for-cutting-and-sharing-video-content/"><u>Instagram's Latest Trend  Get 8+ Free Tools for Cutting & Sharing Video Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagrams-most-trusted-grid-creation-applications-ranked-anew/"><u>Instagram's Most Trusted Grid Creation Applications Ranked Anew</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-impressive-resumes/"><u>Leveraging ChatGPT for Impressive Resumes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/linguistic-legends-ai-translation-faceoff/"><u>Linguistic Legends: AI Translation Faceoff</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-chatgpt-interactions-with-these-5-essential-strategies/"><u>Master ChatGPT Interactions With These 5 Essential Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-machine-talk-comparing-gpt-and-bingbot/"><u>Mastering Machine Talk: Comparing GPT and BingBot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mitigating-pressure-chatgpt-techniques/"><u>Mitigating Pressure: ChatGPT Techniques</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-applying-the-effect-of-camera-shake-in-video-creation/"><u>New Applying the Effect of Camera Shake in Video Creation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/obs-audio-fix-strategies-quickly/"><u>OBS Audio Fix Strategies Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/risks-of-crafting-windows-11-keys-via-ai-bots/"><u>Risks of Crafting Windows 11 Keys via AI Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguard-digital-assets-block-ai-bots/"><u>Safeguard Digital Assets: Block AI Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sharpen-your-interview-edge-chatgpts-role-in-practice/"><u>Sharpen Your Interview Edge: ChatGPT's Role in Practice</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-hidden-stories-behind-4-major-declines-in-facebook-usage/"><u>The Hidden Stories Behind 4 Major Declines in Facebook Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-route-to-reproduce-and-store-your-gpt-powered-talks/"><u>The Route to Reproduce and Store Your GPT-Powered Talks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-c67-4g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme C67 4G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-strategies-how-ai-empowers-hackers/"><u>Top 5 Strategies: How AI Empowers Hackers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-traditional-gaming-with-innovative-ai-techniques/"><u>Transforming Traditional Gaming with Innovative AI Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-operational-dynamics-of-ai-at-edge-devices/"><u>Understanding the Operational Dynamics of AI at Edge Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-mechanics-behind-ai-chatbots/"><u>Unveiling the Mechanics Behind AI Chatbots</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-in-2024-15-top-video-to-gif-app-on-iphone-and-android/"><u>Updated In 2024, 15 Top Video to GIF App on iPhone and Android</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/viewer-growth-strategy-dynamic-description-templates-for-youtube-success/"><u>Viewer Growth Strategy  Dynamic Description Templates for YouTube Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voicecommand-power-integrating-gpt-into-android-life/"><u>VoiceCommand Power – Integrating GPT Into Android Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-a-vector-database-and-how-do-they-boost-ai/"><u>What Is a Vector Database, and How Do They Boost AI?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-the-ai-alignment-control-problem/"><u>What Is the AI Alignment Control Problem?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/you-can-now-use-bings-ai-powered-search-on-android-and-ios/"><u>You Can Now Use Bing's AI-Powered Search on Android and iOS</u></a></li>
+</ul></div>

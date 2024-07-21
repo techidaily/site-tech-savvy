@@ -1,0 +1,145 @@
+---
+title: "AI's Surge: The Quintessential Five in Cybercrime Empowerment"
+date: 2024-07-20T06:21:47.095Z
+updated: 2024-07-21T06:21:47.095Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes AI's Surge: The Quintessential Five in Cybercrime Empowerment"
+excerpt: "This Article Describes AI's Surge: The Quintessential Five in Cybercrime Empowerment"
+thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac9294944d02b8e17d908c0f4.png
+---
+
+## AI's Surge: The Quintessential Five in Cybercrime Empowerment
+
+Many tech enthusiasts are excited about the potential artificial intelligence holds, but cybercriminals are also looking to this technology to help them in their exploits. AI is a fascinating field, but it can also give us cause for concern. So in what ways can AI help cybercriminals?
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+## 1\. Writing Malware
+
+ Artificial intelligence is an advanced type of technology, so some may not find it surprising that it can be used to write malware. Malware is a term for malicious programs used (a portmanteau of the words "malicious" and "software") in hacking, and can come in many forms. But to use malware, it must first be written.
+
+ Not all cybercriminals are experienced in coding, with others simply not wanting to spend time writing new programs. This is where AI can come in handy.
+
+ In early 2023, it was noticed that [ChatGPT could be used to write malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) for illicit attacks. [OpenAI's hugely popular ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) is fueled by an AI infrastructure. This chatbot can do a lot of useful things, but is also being leveraged by illicit individuals.
+
+ In one specific case, a user posted to a hacking forum claiming that they had [written a Python-based malware program using ChatGPT](http://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/).
+
+ ChatGPT could effectively automate the process of writing malicious programs. This opens the door to rookie cybercriminals who don't have a lot of technical expertise.
+
+ ChatGPT (or at least its latest version) can only write basic, and sometimes buggy, malware programs, rather than sophisticated code that poses severe threats. However, this isn't to say that AI cannot be used to write malware. Given that a current AI chatbot can create basic malicious programs, it may not be long before we see more heinous malware originate from AI systems.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## 2\. Cracking Passwords
+
+ Passwords often stand as the one line of data protecting our accounts and devices. So, unsurprisingly, many cybercriminals try to crack passwords in order to gain access to our private data.
+
+ Password cracking is already popular in cybercrime, and there are various techniques a malicious actor can use to uncover a target's password. Different techniques have different success rates, but AI could make the chance of cracking a password that much higher.
+
+ The concept of AI password crackers are by no means science fiction. In fact, [ZDNet](https://www.zdnet.com/article/how-an-ai-tool-could-crack-your-passwords-in-seconds/) reported that cybersecurity experts found over half of the commonly-used passwords out there could be cracked in less than a minute. The article referenced a [Home Security Heroes report](https://www.homesecurityheroes.com/ai-password-cracking/), which stated that an AI-powered cracking tool called PassGAN could crack 51 percent of common passwords in under a minute, and 71 percent in less than a day.
+
+ These figures show how dangerous AI password cracking can be. With the ability to crack most regular passwords in less than 24 hours, there's no knowing what a cybercriminal could do using such a tool.
+
+## 3\. Conducting Social Engineering
+
+ The cybercrime tactic [known as social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) claims hordes of victims every week, and is a major problem in every part of the world. This method uses manipulation to corner victims into complying with the attacker's demands, often without even realizing that they're being targeted
+
+ AI could help in social engineering attacks by formulating the content used in malicious communications, such as phishing emails and texts. Even with today's level of AI advancement, it wouldn't be difficult to ask a chatbot to formulate a convincing or persuasive script, which the cybercriminal could then use against their victims. This threat hasn't gone unnoticed, and people are already concerned about the dangers to come.
+
+ In this sense, AI could also help in making malicious communications look more professional and official by ironing out spelling and grammar mistakes. Such errors are often said to be possible signs of malicious activity, so it may help cybercriminals if they can write their social engineering content more cleanly and effectively.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Finding Software Vulnerabilities
+
+ To hack software programs, cybercriminals often need to find and exploit a security vulnerability. These vulnerabilities often arise as a result of bugs in the software's code. If a bug goes unpatched, or an individual doesn't regularly update their software programs (which often irons out security flaws), vulnerabilities can pose a major risk.
+
+ Cybercriminals know this, and that's why they're on the lookout for flaws. There are already tools one can use to find vulnerabilities, such as an exploit kit. But using AI, a malicious actor may be able to highlight far more vulnerabilities, some of which could be used to cause a lot of damage.
+
+ However, this AI application could also be helpful for cybersecurity vendors, as it could [aid in finding vulnerabilities](https://www.makeuseof.com/top-vulnerability-scanning-tools/) before they are exploited. Being able to patch a flaw quickly can cut off malicious actors' ability to exploit it, mitigating attacks overall.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Analyzing Stolen Data
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Data on Laptop Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/data-files.jpg)
+
+ Data is as valuable as gold. Today, [sensitive data is sold on dark web marketplaces](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) on a constant basis, with some malicious actors willing to pay a very high price if the information is useful enough.
+
+ But for this data to become available on these marketplaces, it first needs to be stolen. Data can certainly be stolen in small amounts, especially when the attacker is targeting lone victims. But larger hacks can result in the theft of huge databases. At this point, the cybercriminal needs to determine what information in this database is valuable.
+
+ Using AI, the process of highlighting valuable information could be streamlined, cutting down the time it takes for a malicious actor to determine what is worth selling, or, on the other hand, directly exploiting by their own hand. Artificial intelligence, at its core, is all about learning, so it could one day become easy to use an AI-powered tool to pick up on valuable sensitive data.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+## AI Is Promising but Also Poses Many Threats
+
+ As is the case with most kinds of technology, artificial intelligence has been, and will continue to be, exploited by cybercriminals. With AI already having some illicit capabilities, there's really no knowing how cybercriminals will be able to advance their attacks using this technology in the near future. Cybersecurity firms may also work increasingly with AI to fight such threats, but time will tell how this one plays out.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-fixing-stuck-feeds-on-instagram-videos/"><u>[New] Fixing Stuck Feeds on Instagram Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tackling-the-challenge-of-locating-fbs-most-watched-videos-2e23/"><u>[Updated] 2024 Approved  Tackling the Challenge of Locating Fb's Most-Watched Videos (2E23)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-meme-masters-at-your-fingertips-app/"><u>[Updated] In 2024, Meme Masters at Your Fingertips (App)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-strategies-to-continue-live-video-on-facebook-for-2024/"><u>[Updated] Strategies to Continue Live Video on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-elite-makeup-vloggers-shaping-2024s-beauty-scene/"><u>[Updated] The Elite Makeup Vloggers Shaping 2024'S Beauty Scene</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-iphone-tips-for-perfecting-motion-shot-photography/"><u>2024 Approved  IPhone Tips for Perfecting Motion Shot Photography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-essential-ipv-guide-for-high-quality-instagram-mp4s/"><u>2024 Approved  The Essential IPV Guide for High-Quality Instagram MP4s</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-youtubes-potential-subscriber-triumph-tactics/"><u>2024 Approved  Unlocking YouTube's Potential  Subscriber Triumph Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-timeline-to-ais-inception/"><u>A Timeline to AI's Inception</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-content-detectors-dont-work-and-thats-a-big-problem/"><u>AI Content Detectors Don’t Work, and That’s a Big Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-unprecedented-paths-gpt-4-debut-by-openai/"><u>Charting Unprecedented Paths: GPT-4 Debut by OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-magic-how-does-predictive-ai-work/"><u>Decoding the Magic: How Does Predictive AI Work?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-g24-power-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola G24 Power?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-arcade-affordability-bar-reviews/"><u>In 2024, ARCADE AFFORDABILITY BAR  Reviews</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-engage-enchant-excel-the-quintessential-5-strategies-for-youtube-marketing/"><u>In 2024, Engage, Enchant, Excel  The Quintessential 5 Strategies for YouTube Marketing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-guide-to-the-cheapest-online-video-capture-tools/"><u>In 2024, Guide to the Cheapest Online Video Capture Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tackling-social-media-platforms-an-in-depth-look-at-igtv-and-youtube/"><u>In 2024, Tackling Social Media Platforms  An In-Depth Look at IGTV and YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unveiling-the-secrets-of-effective-screencasts/"><u>In 2024, Unveiling the Secrets of Effective Screencasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-claude-pro-a-deep-dive-into-its-capabilities/"><u>Introducing Claude Pro: A Deep Dive Into Its Capabilities</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/master-the-quick-art-of-tiktok-film-rate/"><u>Master the Quick Art of TikTok Film Rate</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-away-from-gpt-on-smartphones/"><u>Navigating Away From GPT on Smartphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outshining-gpt-claudes-four-unique-features-for-better-conversations/"><u>Outshining GPT: Claude's Four Unique Features for Better Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlined-ai-for-optimal-results-with-bing-android-edition/"><u>Streamlined AI for Optimal Results with Bing, Android Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-handyman-awakens-with-ai-breakthrough/"><u>The Handyman Awakens with AI Breakthrough</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-path-to-ingenious-visuals-mastery-over-microsofts-copilot/"><u>The Path to Ingenious Visuals: Mastery Over Microsoft's Copilot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tomorrows-threat-landscape-a-glimpse-at-7-predictions/"><u>Tomorrow's Threat Landscape: A Glimpse at 7 Predictions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-your-shots-with-ease-in-photoshop-for-2024/"><u>Transforming Your Shots with Ease in Photoshop for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-potential-of-your-cvs-use-chatgpt-for-cover-letters/"><u>Unlock the Potential of Your CVs: Use ChatGPT for Cover Letters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-power-of-chatgpt-in-multiple-languages/"><u>Unlocking the Power of ChatGPT in Multiple Languages</u></a></li>
+</ul></div>
