@@ -1,0 +1,167 @@
+---
+title: 4 Improvements to the ChatGPT Plugins Store We Want to See
+date: 2024-08-03T01:04:27.394Z
+updated: 2024-08-04T01:04:27.394Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes 4 Improvements to the ChatGPT Plugins Store We Want to See
+excerpt: This Article Describes 4 Improvements to the ChatGPT Plugins Store We Want to See
+thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146ce98f4b0e1e21a62378c3d8.jpg
+---
+
+## 4 Improvements to the ChatGPT Plugins Store We Want to See
+
+ The introduction of ChatGPT plugins is one of the best things to happen to ChatGPT. Plugins have given ChatGPT users a way to extend the functionalities of the AI chatbot, achieving a lot of what would normally be impossible to do with ChatGPT.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Unfortunately, the ChatGPT plugin store—the official catalog for selecting plugins to deploy on your ChatGPT account is not in its best shape, making the discovery and use of plugins a tedious experience. Here are four improvements that OpenAI should implement in the plugin store to help users make the most of it.
+
+ On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
+
+## 1\. Introduce a Rating System
+
+![illustration of rating in the chatgpt plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-rating.jpg)
+
+ The once sparse number of plugins in the ChatGPT plugins store has now grown into the hundreds. However, a vast number of them perform similar functions, although with varying effectiveness. Take PDF reader plugins, for instance. A quick search for "PDF" will turn up a dozen PDF reader options. Some of them work seamlessly, while others sputter and stall. You'll face a similar scenario when searching for link reader plugins. There are a lot of them, but not all work as advertised.
+
+ The entire ChatGPT plugins store is a trial-and-error terrain, with good, useful plugins scattered amidst useless gimmicks. As the ChatGPT plugins store grows, this problem will inevitably be more pronounced. One of the best ways to address this is to introduce a rating system with room for users to write a short review.
+
+ If done right, a ratings and reviews system can help ChatGPT users immediately identify useful plugins and avoid wasting time trying to try out ones that don't work as advertised. It will also be a way for users to provide feedback to plugin developers and help developers understand what's needed and how they can improve their plugins.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 2\. Introduce Plugin Categorization
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Categorization in the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/categories-1.jpg)
+
+ Right now, every plugin that makes its way to the plugin store is lumped together in one big mess. It doesn't matter what a plugin does; whether it helps you write code or it helps you summarize YouTube videos, everything is lumped together. There's really no healthy way to tell what a group of plugins does from the other. There's no grouping at all. As the number of plugins in the store keeps growing, this will eventually become a chaotic mess.
+
+ Introducing categorization will fix a lot of problems. From making it simpler for users to browse and find relevant plugins that meet their needs to helping to highlight niche plugins, there are a lot of benefits that categorization could do right now. Introducing categories will also help simplify search, highlight popular categories and perhaps most importantly, provide a much-needed organization by grouping related apps.
+
+ It's not just consumers that categorization would help. It would also help developers gain valuable market insights since the number and growth of apps in each category will highlight where demand and opportunities exist. Consequently, developers can better decide which plugins to develop and through which categories they'll need to get them in front of the right audience.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. Strict Review Process Before Accepting Plugins
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+![lens with sparkles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lens-with-sparkles.jpg)
+
+ While the rapid increase in the number of plugins in the ChatGPT plugin store is commendable, there's no argument for a bloated plugin store if the quality of plugins is poor. When we explored the plugin store to find the [best ChatGPT plugins](https://www.makeuseof.com/best-chatgpt-plugins/), we ran into many duds and gimmicks that had no business being there. Right now, it seems whatever plugin a developer throws at OpenAI is accepted, making us wonder whether there's even any form of review process in place.
+
+ This runs the risk of turning the innovative store into a collection of mediocre plugins, drowning out those that provide immense value to users. A stringent pre-publication review identifies and ensures that low-quality or buggy plugins are rejected, ensuring only stable, functioning plugins that solve a serious problem make it into the store. Overall, a strict review process will help improve user trust for plugins, reduce user risk, and benefit the entire ChatGPT plugin ecosystem.
+
+## 4\. Provide Access to More Advance Development Tools
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+![chatgpt logo alongside cogs](https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b14ea9611940de411cb7abe5.jpg)
+
+ While it's tempting to put the entire blame for low-quality plugins on developers, OpenAI isn't entirely exempted from the blame. Developers can only work within the limits of the access they're provided, and so far, the level of access is still superficial in many ways. While privacy and security remain a core concern for OpenAI's willingness to grant deeper access to their underlying AI model, without such access, the kind of plugins developers will be able to build is, unfortunately, quite limited.
+
+ For example, take OpenAI's ChatGPT's Code Interpreter plugin. It's a very powerful plugin that can perform a wide range of tasks by executing Python code in a secure sandbox. Its capabilities far outweigh almost everything currently available in the plugin store because of the level of access OpenAI has granted to its in-house developers. It is almost possible for third-party developers to replicate anything close to that because of restricted access to the model.
+
+ The solution? Improved, granular, and lower-level access to ChatGPT's underlying AI models. Granular access will allow developers to build more complex and powerful plugins that can harness the full capabilities of the model in innovative ways. And then maybe we'd be able to have plugins other than PDF readers and link readers everywhere on the plugin store.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## OpenAI Should Rectify Early Missteps
+
+ The ChatGPT plugin ecosystem holds tremendous potential, but realizing its full capabilities requires addressing a few pain points. Implementing more transparent rating systems, robust testing protocols, and advanced discovery tools would greatly improve the user experience. The store can become an even more vibrant marketplace with sound policies and smart design choices.
+
+ The onus is on all stakeholders—users, developers, and ChatGPT itself—to collaboratively guide the platform forward. By learning from early missteps, listening to feedback, and embracing positive changes, the plugin store can evolve into a premier destination for customizing ChatGPT to each user's needs.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Unfortunately, the ChatGPT plugin store—the official catalog for selecting plugins to deploy on your ChatGPT account is not in its best shape, making the discovery and use of plugins a tedious experience. Here are four improvements that OpenAI should implement in the plugin store to help users make the most of it.
+
+ On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-content-top-8-no-cost-video-editing-software/"><u>[New] 2024 Approved  Elevate Your Content  Top 8 No-Cost Video Editing Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-gameplay-reel-how-to-reviewed/"><u>[New] In 2024, Gameplay Reel  How-To Reviewed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-vlc-tutorial-the-art-of-video-angling/"><u>[New] VLC Tutorial  The Art of Video Angling</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-maximizing-screen-recording-on-xbox-for-gamers-success/"><u>[Updated] 2024 Approved  Maximizing Screen Recording on Xbox for Gamers' Success</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-audience-alchemy-converting-shorts-to-sensations-for-2024/"><u>[Updated] Audience Alchemy  Converting Shorts to Sensations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-guidebook-planning-7-funny-video-frameworks-for-2024/"><u>[Updated] Giggles Guidebook  Planning 7 Funny Video Frameworks for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-innovative-tips-producing-instagram-ready-loop-videos/"><u>[Updated] Innovative Tips  Producing Instagram-Ready Loop Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-interactive-storytelling-vrs-entertainment-potential/"><u>2024 Approved  Interactive Storytelling  VR's Entertainment Potential</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-melodies-for-memories-music-tips-for-reels-on-instagram/"><u>2024 Approved  Melodies for Memories  Music Tips for Reels on Instagram</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-navigating-vimeos-subscription-options-for-content-creators/"><u>2024 Approved  Navigating Vimeo’s Subscription Options for Content Creators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-optimize-oust-and-outperform-youtube-titles-that-dominate/"><u>2024 Approved  Optimize, Oust & Outperform  YouTube Titles That Dominate</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-srts-potential-in-subtitle-format-sub/"><u>2024 Approved  Unveiling SRT's Potential in Subtitle Format (SUB)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-techniques-to-supercharge-your-conversations-with-gpt/"><u>7 Techniques to Supercharge Your Conversations with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abandon-chatgpt-step-by-step/"><u>Abandon ChatGPT: Step by Step</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-as-therapy-the-unseen-risks-you-should-know/"><u>AI as Therapy: The Unseen Risks You Should Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-ethics-and-legal-responsibility/"><u>AI Ethics & Legal Responsibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-oversight-how-and-by-whom/"><u>AI Oversight: How & By Whom?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-approaches-to-streamline-domestic-life/"><u>AI-Driven Approaches to Streamline Domestic Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-affection-chatgpts-dating-edge/"><u>Artificial Affection: ChatGPT's Dating Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/balancing-risk-with-ais-financial-forecasts-the-challenge/"><u>Balancing Risk with AI's Financial Forecasts: The Challenge</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beginners-bliss-how-to-set-up-and-manage-a-podcast-live-stream-easily/"><u>Beginner's Bliss  How to Set Up and Manage a Podcast Live Stream Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-impact-on-modern-day-job-seekers/"><u>ChatGPT's Impact on Modern-Day Job Seekers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-compelling-verses-with-ai-powered-assistance/"><u>Crafting Compelling Verses with AI-Powered Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cybercrimes-calculated-courtship-schemes/"><u>Cybercrime’s Calculated Courtship Schemes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dodging-fraudsters-a-guide-to-genuine-vs-bogus-bingcoin-offers/"><u>Dodging Fraudsters: A Guide to Genuine vs Bogus BingCoin Offers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-less-tweets-for-clarity-linuss-revealed-secrets-trojans-explained-and-ai-conversational-challenges/"><u>Emoji-Less Tweets for Clarity, Linus's Revealed Secrets, Trojans Explained, & AI Conversational Challenges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-extensions-elevating-vs-code-with-gpt-features/"><u>Essential Extensions: Elevating VS Code with GPT Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-gpt-4-for-everyone-nonetheless-select-plus-membership-continues-to-provide-unique-services/"><u>Free GPT-4 for Everyone; Nonetheless, Select Plus Membership Continues to Provide Unique Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-one-language-to-another-utilizing-chatgpt-effectively/"><u>From One Language to Another: Utilizing ChatGPT Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/game-on-top-6-must-try-chatgpt-gaming-experiences/"><u>Game On! Top 6 Must-Try ChatGPT Gaming Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-spot-fake-chatgpt-apps-on-the-apple-app-store/"><u>How to Spot Fake ChatGPT Apps on the Apple App Store</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-infinix-smart-8-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Infinix Smart 8?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-quick-advice-preserving-gotomeetings-with-minimal-fuss/"><u>In 2024, Quick Advice  Preserving GoToMeetings with Minimal Fuss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-powerdirector-24-review-a-comprehensive-dive/"><u>In 2024, The Ultimate PowerDirector '24 Review  A Comprehensive Dive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-chatgpts-world-generating-tomorrows-ideas-today/"><u>Inside ChatGPT's World: Generating Tomorrow’s Ideas Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/machine-talk-deciphering-the-gpt-bing-divide/"><u>Machine Talk: Deciphering the GPT-Bing Divide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-creativity-with-chatgpts-advanced-image-recognition/"><u>Maximizing Creativity with ChatGPT's Advanced Image Recognition</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-retro-revival-achieve-vhs-style-in-final-cut-pro-for-2024/"><u>New Retro Revival Achieve VHS Style in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-communication-with-9-advantages-in-chatgptplus/"><u>Optimal Communication with 9 Advantages in ChatGPT+</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ranking-of-free-easy-to-use-image-overlay-apps-on-smartphones/"><u>Ranking of Free, Easy-to-Use Image Overlay Apps on Smartphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprising-connectivity-discuss-with-chatgpt/"><u>Surprising Connectivity: Discuss with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-conversation-ais-plus-plan-at-20-monthly-us-market-only/"><u>The Future of Conversation: AI's Plus Plan at $20 Monthly (US Market Only)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-non-number-registration-guide-for-telegram-and-more/"><u>The Non-Number Registration Guide for Telegram & More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ai-uprising-between-gemini-max-and-gptplusplus/"><u>The Ultimate AI Uprising: Between Gemini Max & GPT++</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-no-cost-innovative-image-design-tools/"><u>Top 5 No-Cost, Innovative Image Design Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-mechanics-behind-ai-chatbots/"><u>Unveiling the Mechanics Behind AI Chatbots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-emotional-support-guidelines-for-chatgpt-use/"><u>Virtual Emotional Support: Guidelines for ChatGPT Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voicecommand-power-integrating-gpt-into-android-life/"><u>VoiceCommand Power – Integrating GPT Into Android Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-a-vector-database-and-how-do-they-boost-ai/"><u>What Is a Vector Database, and How Do They Boost AI?</u></a></li>
+</ul></div>

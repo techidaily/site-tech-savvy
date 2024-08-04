@@ -1,0 +1,180 @@
+---
+title: 3 Chatbot Privacy Risks and Concerns You Should Know About
+date: 2024-08-03T01:00:32.369Z
+updated: 2024-08-04T01:00:32.369Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes 3 Chatbot Privacy Risks and Concerns You Should Know About
+excerpt: This Article Describes 3 Chatbot Privacy Risks and Concerns You Should Know About
+thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756c762090fd4b289d5054368b.jpg
+---
+
+## 3 Chatbot Privacy Risks and Concerns You Should Know About
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+![A padlock with keyboard keys scattered around](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cybersecurity-1.jpg)
+
+ Chatbots have been around for years, but the rise of large language models, such as ChatGPT and Google Bard, has given the chatbot industry a new lease of life.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Millions of people now use AI chatbots worldwide, but there are some important privacy risks and concerns to keep in mind if you want to try out one of these tools.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Data Collection
+
+ Most people don't use chatbots just to say hi. Modern chatbots are designed to process and respond to complex questions and requests, with users often including a lot of information in their prompts. Even if you're only asking a simple question, you don't really want it to go beyond your conversation.
+
+ According to [OpenAI's support section](https://help.openai.com/en/articles/6378407-how-to-delete-your-account), you can delete ChatGPT chat logs whenever you desire, and those logs will then be permanently expunged from OpenAI's systems after 30 days. However, the company will retain and review certain chat logs if they've been flagged for harmful or inappropriate content.
+
+ Another popular AI chatbot, Claude, also keeps track of your previous conversations. [Anthropic's support center](https://support.anthropic.com/en/articles/7996866-how-long-do-you-store-personal-data) states that Claude tracks "your prompts and outputs in the product to provide you with a consistent product experience over time in accordance with your controls." You can delete your conversations with Claude, so it forgets what you've been talking about, but this doesn't mean Anthropic will immediately delete your logs from its systems.
+
+ This, of course, begs the question: is my data being kept or not? Does ChatGPT or other chatbots use my data?
+
+ But the concerns don't stop here.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+### How Does ChatGPT Learn?
+
+ In order to provide information, large language models are trained with huge amounts of data. According to [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3), ChatGPT-4 alone was fed 300 billion words of information during its training period. This isn't taken straight from a few encyclopedias. Rather, chatbot developers use masses of information from the internet to train their models. This can include data from books, movies, articles, Wikipedia entries, blog posts, comments, and even review sites.
+
+ Keep in mind that, depending on a chatbot developer's privacy policy, some of the aforementioned sources may not be used in training.
+
+ Many have criticized ChatGPT, claiming that it is something of a nightmare in terms of privacy, that [ChatGPT cannot be trusted](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/). So, why is this the case?
+
+ This is where things get a little blurry. If you ask ChatGPT-3.5 directly whether it has access to product reviews or article comments, you'll get a firm negative. As you can see in the screenshot below, GPT-3.5 states that it wasn't given access to user article comments or product reviews in its training.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
+
+ Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
+
+ But is the case the same for GPT-4?
+
+ When we asked GPT-4, we were told that "OpenAI did not use specific user reviews, personal data, or article comments" in the chatbot's training period. Additionally, GPT-4 told us that its responses are generated from "patterns in the data \[it\] was trained on, which primarily consists of books, articles, and other text from the internet."
+
+ When we probed further, GPT-4 claimed that certain social media content may, indeed, be included in its training data, but the creators will always remain anonymous. GPT-4 specifically stated that "Even if the content from platforms like Reddit was part of the training data, \[it doesn't\] have access to specific comments, posts, or any data that can be linked back to an individual user."
+
+ Another notable part of GPT-4's response is as follows "OpenAI has not explicitly listed every data source used." Of course, it would be tough for OpenAI to list 300 billion words' worth of sources, but this does leave space for speculation.
+
+ In an [Ars Technica article](https://arstechnica.com/information-technology/2023/02/chatgpt-is-a-data-privacy-nightmare-and-you-ought-to-be-concerned/), it was stated that ChatGPT does collect "personal information obtained without consent." In the same article, contextual integrity was mentioned, a concept that refers to only using someone's information in the context it was initially used. If ChatGPT breaches this contextual integrity, people's data could be at risk.
+
+ Another point of concern here is OpenAI's compliancy with the [General Data Protection Regulation (GDPR)](https://www.makeuseof.com/what-is-gdpr/). This is a regulation enforced by the European Union in order to protect citizens' data. Various European countries, including Italy and Poland, have launched investigations into ChatGPT due to concerns around its GDPR compliance. For a short time, ChatGPT was even banned in Italy due to privacy worries.
+
+ OpenAI has threatened to pull out of the EU in the past due to planned AI regulations, but this has since been retracted.
+
+ ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
+
+## 2\. Data Theft
+
+ Like any online tool or platform, chatbots are vulnerable to cybercrime. Even if a chatbot did all it could to protect users and their data, there's always a chance that a savvy hacker will manage to infiltrate its internal systems.
+
+ If a given chatbot service were storing your sensitive info, such as payment details for your premium subscription, contact data, or similar, this could be stolen and exploited if a cyberattack were to occur.
+
+ This is especially true if you're using a less secure chatbot whose developers haven't invested in adequate security protection. Not only could the company's internal systems be hacked, but your own account stands the chance of being compromised if it doesn't have login alerts or an authentication layer.
+
+ Now that AI chatbots are so popular, cybercriminals have naturally flocked to using this industry for their scams. Fake ChatGPT websites and plugins have been a major problem since OpenAI's chatbot hit the mainstream in late 2022, with people falling for scams and giving away personal info under the guise of legitimacy and trust.
+
+ In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. Malware Infection
+
+ If you're using a shady chatbot without realizing it, you may find the chatbot providing you with links to malicious websites. Maybe the chatbot has alerted you of a tempting giveaway, or provided a source for one of its statements. If the operators of the service have illicit intentions, the entire point of the platform may be to spread malware and scams via malicious links.
+
+ Alternatively, hackers may compromise a legitimate chatbot service and use it to spread malware. If this chatbot happens to be very people, then thousands, or even millions of users will become exposed to this malware. [Fake ChatGPT apps have even been on the Apple App Store](https://www.makeuseof.com/how-to-spot-fake-chatgpt-app-on-apple-app-store/), so it's best to tread carefully.
+
+ In general, you should never click on any links a chatbot provides before [running it through a link-checking website](https://www.makeuseof.com/tag/4-quick-sites-that-let-you-check-if-links-are-safe/). This may seem irritating, but it's always best to be sure that the site you're being led to doesn't have a malicious design.
+
+ Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Chatbots Aren't Impervious to Privacy Issues
+
+ Like most online tools nowadays, chatbots have been repeatedly criticized for their possible security and privacy pitfalls. Whether it's a chatbot provider cutting corners when it comes to user safety, or the ongoing risks of cyberattacks and scams, it's crucial that you know what your chatbot service is collecting on you, and whether it's employed adequate security measures.
+
+ Chatbots have been around for years, but the rise of large language models, such as ChatGPT and Google Bard, has given the chatbot industry a new lease of life.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Millions of people now use AI chatbots worldwide, but there are some important privacy risks and concerns to keep in mind if you want to try out one of these tools.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mp4mpeg-audio-extraction-tool/"><u>[New] 2024 Approved  MP4/MPEG Audio Extraction Tool</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-tips-for-fbx-based-game-recording/"><u>[New] In 2024, Essential Tips for FBX-Based Game Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-evolution-of-video-capturing-insights-into-the-latest-apeaksoft-software/"><u>[New] The Evolution of Video Capturing  Insights Into the Latest Apeaksoft Software</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlock-the-secret-of-social-media-impact/"><u>[Updated] 2024 Approved  Unlock the Secret of Social Media Impact</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-dissecting-the-income-from-a-million-on-youtube-for-2024/"><u>[Updated] Dissecting the Income From a Million on YouTube for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-effortless-integration-uploading-and-showcasing-imovie-videos-to-vimeo/"><u>[Updated] Effortless Integration  Uploading and Showcasing iMovie Videos to Vimeo</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-video-captioning-on-youtube/"><u>2024 Approved  Mastering Video Captioning on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-finest-free-iphone-composition-and-photo-editing-tools-reviewed/"><u>2024 Approved  The Finest FREE iPhone Composition and Photo Editing Tools Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-avenues-for-state-intervention-in-ai-technologies/"><u>4 Avenues for State Intervention in AI Technologies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-face-off-determining-which-is-superior-gpt-plus-or-perplexity/"><u>AI Face-Off: Determining Which Is Superior, GPT Plus Or Perplexity?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-talent-at-mixing-the-chatgpt-challenge/"><u>AI’s Talent at Mixing: The ChatGPT Challenge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/authenticity-alert-separating-real-from-fake-bincrypt-tokens/"><u>Authenticity Alert: Separating Real From Fake BinCrypt Tokens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/caution-your-data-and-chatgpt-on-mobile/"><u>Caution: Your Data & ChatGPT on Mobile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/culinary-confidence-boost-tech-tutor-chatgpt-for-cooking/"><u>Culinary Confidence Boost: Tech Tutor (ChatGPT) for Cooking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-digital-defenses-foreseeing-7-security-trajectories/"><u>Decoding Digital Defenses: Foreseeing 7 Security Trajectories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-gamers-revealed-free-pc-gaming-secrets/"><u>Elite Gamers Revealed: Free PC Gaming Secrets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-tools-for-documenting-computer-speakers-and-mics/"><u>Essential Tools for Documenting Computer Speakers & Mics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-algorithms-to-amusement-the-evolution-of-game-design-with-ai/"><u>From Algorithms to Amusement: The Evolution of Game Design with AI</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-choosing-livestream-software-the-obs-vs-streamlabs-dilemma/"><u>In 2024, Choosing Livestream Software  The OBS Vs. Streamlabs Dilemma</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-workout-blueprinting-with-ai-partnership/"><u>Intelligent Workout Blueprinting with AI Partnership</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-mac-friendly-communication-with-gpt/"><u>Introducing Mac-Friendly Communication with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-gemini-the-future-of-ai-beyond-chatgpts-reach/"><u>Is Gemini the Future of AI Beyond ChatGPT's Reach?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/liberate-your-conversations-with-windows-freegpt/"><u>Liberate Your Conversations with Windows FreeGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meal-mastery-via-chatgpt-insights/"><u>Meal Mastery via ChatGPT Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-away-from-gpt-on-smartphones/"><u>Navigating Away From GPT on Smartphones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/no-spend-guide-to-the-best-ae-template-hits/"><u>No-Spend Guide to the Best AE Template Hits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-routine-how-chatgpt-can-transform-your-life-experience/"><u>Revolutionize Your Routine: How ChatGPT Can Transform Your Life Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-media-smarts-picking-between-snapchats-ai-and-gpt/"><u>Social Media Smarts: Picking Between Snapchat’s AI and GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-handyman-awakens-with-ai-breakthrough/"><u>The Handyman Awakens with AI Breakthrough</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-strategies-how-ai-empowers-hackers/"><u>Top 5 Strategies: How AI Empowers Hackers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-notch-game-capture-applications-outshining-fbx-capabilities-for-2024/"><u>Top-Notch Game Capture Applications Outshining FBX Capabilities for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-ride-gpt-steps-to-customization/"><u>Transform Your Ride: GPT Steps to Customization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-the-basics-of-transfer-learning/"><u>Understanding AI: The Basics of Transfer Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-in-chatbot-dialogue-dynamics/"><u>Unlock Your Potential in Chatbot Dialogue Dynamics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-the-ai-alignment-control-problem/"><u>What Is the AI Alignment Control Problem?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-bypassing-chatgpt-apps-is-prudent/"><u>Why Bypassing ChatGPT Apps Is Prudent</u></a></li>
+</ul></div>

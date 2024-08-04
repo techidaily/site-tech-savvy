@@ -1,7 +1,7 @@
 ---
 title: "Say No to GPT Dumbness: OpenAI's Rebuttal"
-date: 2024-07-20T06:22:08.231Z
-updated: 2024-07-21T06:22:08.231Z
+date: 2024-08-03T00:51:05.291Z
+updated: 2024-08-04T00:51:05.291Z
 tags:
   - chatgpt
   - open-ai
@@ -115,3 +115,56 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-guide-to-inspiring-youtube-names/"><u>[New] 2024 Approved  The Ultimate Guide to Inspiring YouTube Names</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exclusive-insights-top-30-hidden-windows-11-tips-uncovered-for-2024/"><u>[Updated] Exclusive Insights  Top 30 Hidden Windows 11 Tips Uncovered for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-expert-selections-of-innovative-vtuber-sound-tools/"><u>[Updated] Expert Selections of Innovative Vtuber Sound Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-audience-centric-strategies-for-top-facebook-listings/"><u>[Updated] In 2024, Audience-Centric Strategies for Top Facebook Listings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-influencing-instagram-step-by-step-tutorial-for-2024/"><u>[Updated] Influencing Instagram  Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-cutting-edge-psd-outlines-effects/"><u>2024 Approved  Cutting-Edge PSD Outlines Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-the-best-technology-for-crystal-clear-4k-visuals/"><u>2024 Approved  Examining the Best Technology for Crystal-Clear 4K Visuals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-3d-text-techniques-in-ai-for-2024/"><u>Advanced 3D Text Techniques in AI for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-enthusiasts-insight-into-bots-gaining-traction/"><u>AI Enthusiast's Insight Into Bots Gaining Traction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/all-encompassing-virtual-horizon-review-for-2024/"><u>All-Encompassing Virtual Horizon Review for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/blizzards-new-chapter-with-microsoft-unveils-innovative-use-of-ai-in-gaming-and-artistry-audio-analysis/"><u>Blizzard's New Chapter with Microsoft Unveils Innovative Use of AI in Gaming & Artistry [Audio Analysis]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-the-sound-barrier-gpts-quintuple-ascent-to-fame/"><u>Breaking the Sound Barrier: GPT's Quintuple Ascent to Fame</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/build-a-budget-oriented-chatgpt-replica-locally/"><u>Build a Budget-Oriented ChatGPT Replica Locally</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chapter-1-registering-for-chatgpts-latest-extensions/"><u>Chapter 1: Registering for ChatGPT's Latest Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-love-lines-a-modern-approach-to-mates/"><u>ChatGPT Love Lines: A Modern Approach to Mates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-4s-speed-a-comparative-glance-with-gpt-35/"><u>ChatGPT-4's Speed: A Comparative Glance with GPT-3.5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/collaborative-productivity-in-google-docs-and-spreadsheets-via-gpt/"><u>Collaborative Productivity in Google Docs & Spreadsheets via GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-chatgpt-4s-dilatory-nature-vs-35-speed/"><u>Decoding ChatGPT-4's Dilatory Nature Vs. 3.5 Speed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-dialogues-separating-fact-from-fiction-in-ai-bot-world/"><u>Decoding Dialogues: Separating Fact From Fiction in AI Bot World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/did-you-know-you-can-speak-to-chatgpt/"><u>Did You Know You Can Speak to ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-time-use-with-chatgpts-4-techniques/"><u>Efficient Time Use with ChatGPT's 4 Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-steps-to-install-llama-2-locally/"><u>Essential Steps to Install Llama 2 Locally</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-overlooked-gpt-features-for-innovative-dialogue/"><u>Essential, Overlooked GPT Features for Innovative Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-latency-leap-from-gpt-35-to-chatgpt-4/"><u>Exploring the Latency Leap: From GPT-3.5 to ChatGPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-typewriters-to-tablets-the-evolution-of-laptops-and-vpn-enhancements/"><u>From Typewriters to Tablets: The Evolution of Laptops and VPN Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-onlyoffice-docspace-uses-chatgpt-to-improve-your-productivity/"><u>How ONLYOFFICE DocSpace Uses ChatGPT to Improve Your Productivity</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-for-research-and-essays/"><u>How to Use ChatGPT for Research and Essays</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ideal-chatgpt-queries-to-propel-crypto-trading/"><u>Ideal ChatGPT Queries to Propel Crypto Trading</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-bring-your-videos-to-life-best-live-photo-converter-apps-and-how-tos/"><u>In 2024, Bring Your Videos to Life Best Live Photo Converter Apps and How-Tos</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-s23-ultramirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy S23 UltraMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/instant-upload-solutions-top-5-free-online-converter-services-for-2024/"><u>Instant Upload Solutions  Top 5 Free Online Converter Services for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/into-the-blueprint-cutting-edge-techniques-for-drones/"><u>Into the Blueprint  Cutting-Edge Techniques for Drones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-neural-networks-snapchat-ai-vs-gpt/"><u>Navigating Neural Networks: Snapchat AI vs GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opt-for-basic-textual-chatgpt-or-enhanced-web-integrated-version/"><u>Opt for Basic Textual ChatGPT or Enhanced Web-Integrated Version</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ranking-the-least-expensive-yet-effective-ais-like-sora/"><u>Ranking the Least Expensive, Yet Effective AIs Like Sora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721418556638-streamlined-chatgpt-chrome-extension-your-new-partner/"><u>Streamlined ChatGPT: Chrome Extension, Your New Partner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-sticker-setups-solutions-to-top-6-technical-hurdles/"><u>Streamlining Sticker Setups: Solutions to Top 6 Technical Hurdles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-talk-tech-enhancing-gpt-conversation-with-10-tweaks/"><u>Tailored Talk Tech: Enhancing GPT Conversation with 10 Tweaks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-to-you-engage-with-8-specialized-ai-tools/"><u>Tailored to You: Engage with 8 Specialized AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-chuckles-by-code-from-laptops-to-vpn-safeguarding/"><u>The Art of Chuckles by Code: From Laptops to VPN Safeguarding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-voice-activated-chatgpt-in-cars/"><u>The Dawn of Voice-Activated ChatGPT in Cars</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-dev-workflow-with-ai/"><u>The Future of Dev Workflow with AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-physical-training-through-gpt-interaction/"><u>Transforming Physical Training Through GPT Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truth-about-chatgpt-windows-apps-authenticity/"><u>Truth About ChatGPT Windows App's Authenticity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-why-hackers-go-after-chatgpt-users/"><u>Unveiling Why Hackers Go After ChatGPT Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-vector-databases-are-pivotal-for-modern-ai-systems/"><u>Why Vector Databases Are Pivotal for Modern AI Systems</u></a></li>
+</ul></div>

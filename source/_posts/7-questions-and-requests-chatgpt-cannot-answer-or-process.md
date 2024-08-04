@@ -1,0 +1,197 @@
+---
+title: 7 Questions and Requests ChatGPT Cannot Answer or Process
+date: 2024-08-03T01:00:38.204Z
+updated: 2024-08-04T01:00:38.204Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes 7 Questions and Requests ChatGPT Cannot Answer or Process
+excerpt: This Article Describes 7 Questions and Requests ChatGPT Cannot Answer or Process
+thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg
+---
+
+## 7 Questions and Requests ChatGPT Cannot Answer or Process
+
+ ChatGPT has proven itself has a highly valuable tool since its release in late 2022, but this nifty AI chatbot can't do everything. There are certain limitations to ChatGPT that you may not be aware of that could impact your experience with the tool.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ So, let's discuss what ChatGPT can't do.
+
+## ChatGPT's Code of Ethics
+
+ ChatGPT follows a strict code of ethics to keep users and others safe. When we asked ChatGPT to provide its code of ethics, we received the response below.
+
+![chatgpt chat response listing code of ethics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-ethics-1.jpg)
+
+ This code of ethics includes...
+
+* No harm to other users
+* No security or privacy breaches
+* Impartiality
+* No illegal activities
+* Transparency
+* Continual learning and improvement
+* Data limitations
+
+ Evidently, there are some boundaries that ChatGPT is designed not to cross. But how do these boundaries affect your experience? What questions and topics does ChatGPT avoid, and what can it not do?
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
+## 1\. Provide Recent Information
+
+ ChatGPT was trained on huge amounts of data, but this data only led up to September 2021\. ChatGPT has no access to information beyond this point in time, meaning it cannot answer questions on events that took place in recent years.
+
+ As you can see below, when ChatGPT was asked to list the biggest events of 2022, it confirmed that providing real-time data was not something it could do.
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![chatgpt conversation screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-2022-request.jpg)
+
+ If you're looking for recent news, weather updates, and other real-time data, ChatGPT won't be of much use. [Other AI chatbots like Claude](https://www.makeuseof.com/what-is-claude-ai-why-use-it/) have been trained with more recent information, but you still won't be able to access data less than a few months old.
+
+## 2\. Give Criminal Advice
+
+ ChatGPT follows a strict ethical code, part of which prevents the chatbot from providing criminal advice. You can't ask ChatGPT how to commit a crime, conceal evidence, lie to law enforcement, or conduct any other criminal activities. On top of this, ChatGPT won't engage with any prompts about illegal drugs.
+
+ However, ChatGPT has been coerced into writing malicious code in the past. In January 2023, an individual posted to a hacking forum claiming they had [created a Python-based malware program using ChatGPT](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/).
+
+ Since this story emerged, others have tried using ChatGPT to write malware, sometimes successfully. This fact alone has raised concerns about how AI can be abused for malicious purposes.
+
+ However, the current versions of ChatGPT only seem to be able to write simple malware programs, which can also be buggy at times. But regardless of this, [the chatbot can be exploited for malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/).
+
+## 3\. Invade Personal Privacy or Security
+
+ Since its launch in late 2022, [ChatGPT's potential as a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/) has been a point of concern. But can you use ChatGPT to invade someone else's personal boundaries?
+
+ Part of ChatGPT's code of ethics includes limitations around user privacy and security. ChatGPT stated in its code of ethics that it "respect\[s\] user privacy and confidentiality" and is designed not to store any of its own personal data. But the chatbot does clarify that "OpenAI may collect and store data as described in its Privacy Policy."
+
+ If you want ChatGPT to give you information on other people, you likely won't get far. The chatbot does not provide any personal information unless you have mentioned it during your conversation.
+
+ Even if you mention some personal information in a ChatGPT conversation, you can [delete any ChatGPT conversations](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) as and when you wish.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Give Predictions
+
+ ChatGPT knows a lot, but it cannot predict the future. This isn't just because predicting the future is a risky game. As previously discussed, ChatGPT only has access to data before September 2021, so making any predictions using this older information would be very tough.
+
+ For instance, ChatGPT can't predict how the financial market will look in the near future or how certain stocks and assets will perform because it does not have the recent data required to fulfill such a request.
+
+ In the same respect, ChatGPT also can't make political or scientific predictions with its training data. You can forget about getting any sports predictions out of ChatGPT, too.
+
+ It's better to consult dedicated websites or professionals if you're looking for solid predictions, be it in finance, politics, or sports.
+
+## 5\. Answer Bigoted or Hateful Questions
+
+ As you may have guessed, ChatGPT is strictly against engaging with bigoted or hateful prompts. Racism, misogyny, homophobia, ableism, and transphobia are all a no-go for ChatGPT.
+
+ When asked about hate speech, ChatGPT said...
+
+> I do not engage in hate speech or promote any form of harmful content. My programming strictly adheres to ethical guidelines that prioritize respect, inclusivity, and the avoidance of harmful behavior.
+
+ Additionally, ChatGPT will not engage with any prompts that promote harm to the user or others.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Provide Its Own Opinion
+
+ While ChatGPT does use artificial intelligence, it is not a sentient being. Because of this, ChatGPT cannot provide its own opinion on any topic or event.
+
+ This includes opinions on politics, social issues, celebrities, movies, and all other topics. You can't ask ChatGPT which political candidate to vote for, what music to listen to, or what decisions you should make in your career. In short, opinions aren't part of ChatGPT's infrastructure, as the chatbot is designed to remain impartial.
+
+ If you ask ChatGPT for an opinion on something, you'll likely get a similar response to that shown below.
+
+![chatgpt opinion request screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-opinion-1.jpg)
+
+ One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 7\. Look Up Web Results
+
+ ChatGPT may be a hub of knowledge, but it is not a search engine. Therefore, you cannot ask ChatGPT to look something up for you like Google or Bing would.
+
+ In fact, ChatGPT does not "look up" anything online when you ask it a question. Rather, it pulls from its training data to provide facts. You can, however, use the chatbot's browser feature available with [ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), OpenAI's premium chatbot service that uses GPT-4\.
+
+ ChatGPT Plus is a paid subscription that costs $20 monthly. If you use ChatGPT a lot and want access to all the service's features, you may want to consider upgrading to Plus.
+
+ At the time of writing, ChatGPT's browsing feature is disabled but is expected to return in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ChatGPT Isn't an All-in-One Solution
+
+ There's a lot you can do with ChatGPT, and it's this versatility that has made the chatbot so popular. But it's important to keep ChatGPT's limitations in mind so that you don't end up using it for the wrong reasons.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ So, let's discuss what ChatGPT can't do.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-video-extravaganza-the-most-advanced-fire-browser-tools-updated/"><u>[New] In 2024, Facebook Video Extravaganza  The Most Advanced Fire-Browser Tools, Updated</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unveiling-the-art-of-video-production-for-facebooks-youtube/"><u>[New] In 2024, Unveiling the Art of Video Production for Facebook's YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-key-steps-in-manipulating-song-pace-in-spotify-app/"><u>[New] Key Steps in Manipulating Song Pace in Spotify App</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-compreenasional-path-to-post-perfection-instagram-video-upload-from-pcmac/"><u>[Updated] In 2024, The Compreenasional Path to Post-Perfection  Instagram Video Upload From PC/Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-evaluating-fraps-as-a-screen-grab-pro/"><u>2024 Approved  Evaluating Fraps as a Screen Grab Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-personal-emblem-creation-fashioning-an-exaggerated-self/"><u>2024 Approved  Personal Emblem Creation  Fashioning an Exaggerated Self</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-audio-file-division-streamlined-strategies-for-independent-sections-of-sound/"><u>2024 Approved Audio File Division Streamlined Strategies for Independent Sections of Sound</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-enhanced-resume-craftsmayer-with-chatgpt-innovations/"><u>AI-Enhanced Résume Craftsmayer with ChatGPT Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-premium-convo-boost-chatgpt-plus-unveiled-at-20mo-us-only/"><u>AI's Premium Convo Boost: ChatGPT Plus Unveiled at $20/Mo (US-Only)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/archiving-made-simple-saving-chatgpt-talks/"><u>Archiving Made Simple: Saving ChatGPT Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-6-rise-of-creative-tools/"><u>Artificial Intelligence: 6 Rise of Creative Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmenting-hr-workloads-gpts-role/"><u>Augmenting HR Workloads: GPT's Role</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-users-influence-chatgpts-learning-process/"><u>Can Users Influence ChatGPT's Learning Process?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-creativity-in-3-bot-systems/"><u>Comparing Creativity in 3 Bot Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-secure-customized-workout-routines-by-chatgpt/"><u>Crafting Secure, Customized Workout Routines by ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-claude-2-an-in-depth-guide-to-its-capabilities/"><u>Demystifying Claude 2: An In-Depth Guide to Its Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-on-lifting-your-chatgpt-ban/"><u>Expert Advice on Lifting Your ChatGPT Ban</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/expert-tips-for-instagram-green-screen-shoots/"><u>Expert Tips for Instagram Green Screen Shoots</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/time-careers-meet-video-content-a-harmonious-mix/"><u>Full-Time Careers Meet Video Content  A Harmonious Mix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gemini-elite-vs-powered-chatgpt/"><u>Gemini Elite Vs. Powered ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-generative-ai-fails-in-humanized-text-conversations/"><u>How Generative AI Fails in Humanized Text Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ignite-creativity-unique-ai-art-with-the-power-of-microsofts-copilot/"><u>Ignite Creativity: Unique AI Art with the Power of Microsoft's Copilot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-to-streamline-home-device-operations/"><u>Leveraging GPT to Streamline Home Device Operations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-imaginary-realms-with-ai-dialogue/"><u>Mastering Imaginary Realms with AI Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-pathway-of-earning-through-bug-hunting-at-openai/"><u>Navigating the Pathway of Earning Through Bug Hunting at OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-world-of-public-gpt-conversations/"><u>Navigating the World of Public GPT Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-networks-for-collaborative-prompt-creation/"><u>Prime Networks for Collaborative Prompt Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reality-assurance-no-gpt-windows-isnt-harmful-app/"><u>Reality Assurance: No, GPT-Windows Isn't Harmful App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safekeeping-for-chatgpt-dialogues/"><u>Safekeeping for ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-conversations-with-ai-tech/"><u>Securing Conversations with AI Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-emerging-ai-chipsets-revolutionizing-computing/"><u>Top 5 Emerging AI Chipsets Revolutionizing Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-artificial-intelligence-systems-for-online-researchers/"><u>Top Artificial Intelligence Systems for Online Researchers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-written-work-with-gpt-4/"><u>Transform Written Work with GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-traditional-gaming-with-innovative-ai-techniques/"><u>Transforming Traditional Gaming with Innovative AI Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-software-showdown-winning-windows-10-video-grabbers/"><u>Ultimate Software Showdown  Winning Windows 10 Video Grabbers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-the-potential-perils-of-using-chatgpt-in-our-lives/"><u>Unpacking the Potential Perils of Using ChatGPT in Our Lives</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-split-screen-video-creators-web-based-and-desktop-options/"><u>Updated 2024 Approved Free Split Screen Video Creators Web-Based and Desktop Options</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-find-x6-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo Find X6 Pro</u></a></li>
+</ul></div>
