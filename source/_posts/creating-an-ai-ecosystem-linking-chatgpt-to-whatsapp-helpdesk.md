@@ -1,0 +1,288 @@
+---
+title: "Creating an AI Ecosystem: Linking ChatGPT to WhatsApp Helpdesk"
+date: 2024-08-10T02:14:56.302Z
+updated: 2024-08-11T02:14:56.302Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Creating an AI Ecosystem: Linking ChatGPT to WhatsApp Helpdesk"
+excerpt: "This Article Describes Creating an AI Ecosystem: Linking ChatGPT to WhatsApp Helpdesk"
+thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af3415416f540b09fcf25e37cb1c7dd.jpg
+---
+
+## Creating an AI Ecosystem: Linking ChatGPT to WhatsApp Helpdesk
+
+ Today’s businesses embrace messaging apps like WhatsApp to communicate with customers. This results in a surge in the automation of business customer interactions using chatbots.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Such a chatbot is ChatGPT, a large language model by OpenAI that you can integrate with WhatsApp to automate customer interactions by providing fast and accurate responses to customer queries.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+## Understanding and Accessing the ChatGPT API
+
+ Before integrating with WhatsApp, it is essential to get a [basic understanding of ChatGPT and ChatGPT API](https://www.makeuseof.com/chatgpt-api-complete-guide/). ChatGPT is a [generative large language model](https://www.makeuseof.com/what-is-generative-ai/) that receives text-based queries and returns human-like responses. OpenAI provides a simple API interface for developers to access and use ChatGPT’s GPT-3.5 and GPT-4 models.
+
+ To access ChatGPT API keys, you need to navigate to the [OpenAI API](https://platform.openai.com/) platform. After signing in, click on the profile icon. Then, click on the **View API keys** option.
+
+![OpenAI API homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-homepage.jpg)
+
+ Next, click the **Create new secret key** button to create a new API key.
+
+![OpenAI API keys creation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key.jpg)
+
+ Enter the requested details, i.e., the **name** of the key.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
+![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-name.jpeg)
+
+ A secret key will prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-prompt.jpeg)
+
+ Copy and store the key in a secure place for future use.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Setting Up a WhatsApp Business Account
+
+ To integrate ChatGPT with WhatsApp, you must set up a WhatsApp Business account. Note that [WhatsApp Business is different from regular WhatsApp](https://www.makeuseof.com/whatsapp-vs-whatsapp-business/). This account will allow you to access the [WhatsApp Business API](https://business.whatsapp.com/developers/developer-hub), which you will integrate with the ChatGPT API.
+
+ The full source code is available in a [GitHub repository](https://github.com/makeuseofcode/WhatsApp-ChatGPT-integration).
+
+ You can use a third-party service like Kommunicate, a WhatsApp chatbot, or a Python script to integrate ChatGPT with WhatsApp. This tutorial’s focus will be on integrating ChatGPT using a Python script. It will then give you an overview of integration using a WhatsApp chatbot.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Using Python Script to Integrate WhatsApp With ChatGPT API
+
+ Before you start the development, create a virtual environment for your application using **Pipenv** as follows:
+
+`pipenv install django djangorestframework openai  
+`
+
+ This command will install the **django**, **djangorestframework**, and **openai** packages.
+
+ Then, create a new Django project.
+
+`django-admin startproject whatsapp  
+`
+
+ Navigate to the created **whatsapp** directory and create a Django app named **gpt**:
+
+`py manage.py startapp gpt  
+`
+
+ In the **whatsapp/settings.py** file, add the new app, **gpt** on the installed apps list as follows:
+
+`INSTALLED_APPS = [  
+   'django.contrib.admin',  
+   'django.contrib.auth',  
+   'django.contrib.contenttypes',  
+   'django.contrib.sessions',  
+   'django.contrib.messages',  
+   'django.contrib.staticfiles',  
+   'rest_framework',  
+   'gpt',
+]`
+
+ In your **whatsapp/urls.py** file, add the **gpt** app URL. This will redirect to the URLs you will create on the **gpt** app:
+
+`from django.contrib import admin  
+from django.urls import path, include  
+  
+urlpatterns = [  
+   ...  
+   path('api/', include('gpt.urls')), # gpt app URL  
+]`
+
+ On the **gpt/views.py** file, add the following block of code to create ChatGPT API view:
+
+`from rest_framework.response import Response  
+import openai  
+from rest_framework.views import APIView  
+  
+class OpenAIGPTView(APIView):  
+  
+   def get(self, request):  
+       input = request.GET.get('q')  
+       openai.api_key = "ENTER_OPENAI_API_KEY"  
+       completion = openai.ChatCompletion.create(  
+       model="gpt-3.5-turbo",
+       messages=[{"role": "user", "content": input}]  
+       )  
+       answer = completion ['choices'][0]['message']['content']  
+       return Response(answer)`
+
+ The view [sets up an API endpoint](https://www.makeuseof.com/how-apis-work-and-how-to-use-them/) that expects a GET request with a query parameter **q** comprising the user input. It then uses OpenAI’s **gpt-3.5-turbo** model to generate a response based on the provided input and returns the response as the API’s output.
+
+ Next, create a **urls.py** file and register the API view by adding the following lines of code:
+
+`from django.urls import path  
+from .views import *  
+  
+urlpatterns = [  
+   path('chat', OpenAIGPTView.as_view()),  
+]`
+
+ Run the **migrate** and **runserver** commands as follows:
+
+`python manage.py migrate  
+python manage.py runserver`
+
+ Test the **/api/chat** endpoint by sending a GET request to **<http://localhost:8000/api/chat?q=Hello>**.
+
+ Expected output:
+
+![API endpoint test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-endpoint.jpeg)
+
+ Next, install [Go](https://go.dev/doc/install) if it is not already installed on your machine.
+
+ Clone the **Whatsmeow** client using the command below:
+
+`git clone https://github.com/Huskynarr/whatsapp-gpt.git  
+`
+
+ Navigate to the repository, **whatsapp-gpt**, and on the file, **main.go** update this line:
+
+`url := "http://localhost:5001/chat?q=" + urlEncoded  
+`
+
+ to:
+
+`url := "http://127.0.0.1:8000/api/chat?q=" + urlEncode  
+`
+
+ Save the changes and run the file:
+
+`go run main.go`
+
+ The application will prompt you with a QR code to log in to your WhatsApp account.
+
+ Expected output:
+
+![Application QR code prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-qr-code.jpeg)
+
+ Move to your WhatsApp mobile app and navigate to **Settings > QR code > Scan code** to add a new linked device and scan the popped QR code on your terminal.
+
+ After logging in, the application will start listening to incoming messages. If someone sends a message, the received message will make a GET request to API with the message as a query parameter and send the response back to the sender on WhatsApp.
+
+ Expected output:
+
+![Output of integrating chatgpt and WhatsApp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-output.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+## Using WhatsApp Chatbot to Integrate WhatsApp With ChatGPT API
+
+ Another way to integrate ChatGPT into WhatsApp messages is by using a WhatsApp chatbot.
+
+ Once you register your WhatsApp Business API, use a chat builder like OpenDialog to create a flow for the chat. You will then test your chatbot and add it to your mobile phone.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+### Integrate OpenAI API With Your WhatsApp Chatbot
+
+ To integrate your WhatsApp chatbot with OpenAI models, use the API key from OpenAI.
+
+ Integrating WhatsApp chatbots with OpenAI GPT models presents a risk of WhatsApp blocking your account on security claims.
+
+ Though this method is easier if you already have a chatbot, you should only opt for it once you’re comfortable with the risks involved.
+
+### Configuring Automated Responses
+
+ To get better customer service, configure automated responses to provide fast and accurate responses to customer messages. These responses will personalize the customer by name and provide relevant responses to customer queries.
+
+### Testing Your WhatsApp Chatbot
+
+ Like all AI API systems, testing is key before you deploy your WhatsApp chatbot. This is to ensure that it works as expected. API testing tools like Postman and Curl can help to test your chatbot’s responses.
+
+ In this case, the Django REST framework provides a browsable API to help test API requests and responses.
+
+### Measuring Success and Fine-Tuning
+
+ Once your WhatsApp chatbot is in deployment, it is crucial to measure its success and usage over time. This will help with fine-tuning it accordingly. Analytics tools like OpenDialog and Rasa can help to track metrics such as response time, retention rate, and customer satisfaction.
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Streamline Customer Support on WhatsApp With ChatGPT Integration
+
+ OpenAI’s GPT-3.5 or GPT-4 models can handle large volumes of inquiries, provide instant responses, and use advanced language processing, making it a better solution for customer service interactions. By integrating ChatGPT with WhatsApp, you can save time, improve customer satisfaction, and streamline communication. Several other large language models could also improve your chatbot’s performance.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Such a chatbot is ChatGPT, a large language model by OpenAI that you can integrate with WhatsApp to automate customer interactions by providing fast and accurate responses to customer queries.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-six-super-simple-free-fb-downloader-tools/"><u>[New] In 2024, Six Super Simple Free FB Downloader Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mood-matcher-auditory-selection-for-videos/"><u>[New] Mood Matcher  Auditory Selection for Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-mega-context-geminis-revolutionary-token-strategy/"><u>$1 Mega Context: Gemini’s Revolutionary Token Strategy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-global-ai-connoisseurs-share-outlooks-and-thoughts/"><u>10 Global AI Connoisseurs Share Outlooks and Thoughts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-tactics-to-quiet-down-distractions-during-google-meets/"><u>2024 Approved  Tactics to Quiet Down Distractions During Google Meets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/3-ways-to-use-chatgpts-wolfram-plugin/"><u>3 Ways to Use ChatGPT'S Wolfram Plugin</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-c53-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme C53 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-creative-uses-of-auto-gpt-technology/"><u>5 Creative Uses of Auto-GPT Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ways-ai-can-help-cybercriminals/"><u>5 Ways AI Can Help Cybercriminals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-ways-to-use-chatgpt-for-remote-and-freelance-work/"><u>6 Ways to Use ChatGPT for Remote and Freelance Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-creative-and-advanced-alternatives-to-chatgpt-apps/"><u>7 Creative and Advanced Alternatives to ChatGPT Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-reasons-against-using-generative-ai-in-messaging-apps/"><u>7 Reasons Against Using Generative AI in Messaging Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-ways-cybercriminals-use-ai-for-romance-scams/"><u>7 Ways Cybercriminals Use AI for Romance Scams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-ways-generative-ai-will-change-the-job-market/"><u>7 Ways Generative AI Will Change the Job Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-ai-tools-content-writers-can-use-to-improve-their-workflow/"><u>8 AI Tools Content Writers Can Use to Improve Their Workflow</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-top-innovations-outshining-mobile-openais-ai-companion/"><u>8 Top Innovations Outshining Mobile OpenAI's AI Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-reasons-you-should-upgrade-to-chatgpt-plus/"><u>9 Reasons You Should Upgrade to ChatGPT Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-walkthrough-deleting-chatgpt-history/"><u>A Comprehensive Walkthrough: Deleting ChatGPT History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-gpts-default-extensions/"><u>A Deep Dive Into GPT's Default Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-the-transformative-shifts-from-gpt-35-to-gpt-4/"><u>A Deep Dive Into the Transformative Shifts From GPT-3.5 to GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-primer-on-chatgpt-utilization/"><u>A Primer on ChatGPT Utilization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-stepwise-approach-to-saving-gpt-dialogues/"><u>A Stepwise Approach to Saving GPT Dialogues</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/dealing-with-disconnected-live-video-sessions-on-facebook/"><u>Dealing with Disconnected LIVE Video Sessions on Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721437209416-emoji-free-twitter-stream-linuss-hidden-tech-trojans-explained-and-ai-chatbot-woes/"><u>Emoji-Free Twitter Stream, Linus's Hidden Tech, Trojans Explained, & AI ChatBot Woes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721391744762-gpt-4-open-for-everyone-plus-still-boasts-6-exclusive-features/"><u>GPT-4: Open for Everyone! Plus Still Boasts 6 Exclusive Features</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721424324203-introducing-openais-customizable-cutting-edge-gpt-stores/"><u>Introducing OpenAI's Customizable, Cutting-Edge GPT Stores</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/jolly-gaming-haven-for-little-explorers-for-2024/"><u>Jolly Gaming Haven for Little Explorers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721415270731-mislead-no-more-recognize-real-and-rigged-chatgpt-apps/"><u>Mislead No More: Recognize Real and Rigged ChatGPT Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721431771457-missed-malware-alert-say-no-to-google-bard-download/"><u>Missed Malware Alert: Say No to Google Bard Download!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/soft-volume-tricks-lives-hidden-gems-for-2024/"><u>Soft Volume Tricks  Live’s Hidden Gems for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721436126988-spoofing-chatbots-how-some-apps-mislead-and-compromise-users/"><u>Spoofing ChatBots: How Some Apps Mislead & Compromise Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721406783592-steer-clear-of-scam-bots-real-vs-shadow-chatgpt/"><u>Steer Clear of Scam Bots - Real Vs. Shadow ChatGPT!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721434879771-the-dawn-of-accessible-ai-with-gpt-4-still-holding-6-strengths-for-plus-members/"><u>The Dawn of Accessible AI with GPT-4, Still Holding 6 Strengths for Plus Members.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-12-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi 12 Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721380229451-unmasking-deceptive-gpt-apps-protect-your-personal-info/"><u>Unmasking Deceptive GPT Apps: Protect Your Personal Info</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unseen-video-on-sony-a6400-whats-going-wrong/"><u>Unseen Video on Sony A6400  What's Going Wrong?</u></a></li>
+</ul></div>

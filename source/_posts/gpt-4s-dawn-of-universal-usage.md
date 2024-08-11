@@ -1,0 +1,144 @@
+---
+title: GPT-4's Dawn of Universal Usage
+date: 2024-08-10T02:10:11.276Z
+updated: 2024-08-11T02:10:11.276Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes GPT-4's Dawn of Universal Usage
+excerpt: This Article Describes GPT-4's Dawn of Universal Usage
+thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f8513d0fdf45dc77d6a53d075d.jpg
+---
+
+## GPT-4's Dawn of Universal Usage
+
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+### Quick Links
+
+* [What Is GPT-4o?](https://ship7com.pxf.io/0zwaz3)
+* [GPT-4o Live Capabilities Are Astounding](https://proteahair.pxf.io/znernm)
+* [When Does GPT-4o Launch? Is GPT-4o Free?](https://ship7com.pxf.io/0zwaz3)
+
+ ChatGPT goes from strength to strength, and its new model, GPT-4o brings a heap of new features and upgrades to the world's leading AI chatbot.
+
+ **MUO VIDEO OF THE DAY**
+
+ **SCROLL TO CONTINUE WITH CONTENT**
+
+So, what is GPT-4o?
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## What Is GPT-4o?
+
+ GPT-4o is the ChatGPT developer OpenAI's newest AI model, revealed at its early May 2024 "Spring Update" event. It will coexist with its previous top-performing model, GPT-4 Turbo, at least for now, and brings a huge number of updates to the tool.
+
+ Unlike its predecessors, GPT-4o is completely multi-modal from launch (the "o" in the model name stands for "omnimodal"). OpenAI's Spring Update event showcased GPT-4o making fluent conversation with the event hosts, chopping and changing between interactions, showcasing "personality," and illustrating how it could become the virtual assistant users have dreamed about.
+
+ It can accept combinations of audio, text, image, and video as inputs and output in text, audio, and image (no video support yet, but expect that to change once OpenAI's Sora text-to-video tool launches—at least, this is what I'm guessing will happen).
+
+ In terms of the raw numbers provided by OpenAI, GPT-4o outperforms all of its previous models, along with its nearest competitors, such as Claude 3 Opus, Gemini Pro 1.5 and Ultra 1.0, and Llama 3 400B.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![openai gpt4o peformance chart may 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/openai-gpt4o-peformance-chart-may-2024.jpg)
+
+[OpenAI](https://openai.com/index/hello-gpt-4o/)
+
+ Now, numbers are all very well and good, but what does that actually translate to? Well, again, working from OpenAI's numbers, GPT-4o "matches GPT-4 Turbo performance" for English writing and coding, is significantly faster in "non-English languages," and, most importantly, is faster and cheaper in terms of API use.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## GPT-4o Live Capabilities Are Astounding
+
+ I've worked in tech for a long time, and I've seen a lot of shiny new "game-changers" come and go. But GPT-4o's conversational speech is truly brilliant. GPT-4o can hold proper conversations with you, even allowing you to interrupt, change the conversation focus, change topics, and more, almost without skipping a beat.
+
+ Its ability to rapidly converse gives it a whole host of new applications. While ChatGPT already had a voice function, it was limited as it first had to write a response that could then be spoken to you. You could also interact with ChatGPT using your voice, but it would take time to process your request.
+
+ Now, GPT-4o's real-time voice is near-seamless. What's more, it can express emotion and specific styles, which again were impossible before this update.
+
+ This is also applicable to live translation, in which GPT-4o showed an enormous improvement. Now, I'm not well versed in any other language, but the live translation from English to Italian and back was well received; anything that makes communication easier when you're abroad will be an enormous boon, especially given the speed of translation.
+
+ I was in Morocco recently, and even with Google Translate helping get some meaning into Arabic, the full context of the translation is never completely accurate. GPT-4o's live translation would have been incredibly useful!
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Coding and Tutoring
+
+ GPT-4o also brings significant upgrades to code interpretation and assistance using its multi-modal capabilities. Similar to the other tools, yes, ChatGPT could already work with some data, but its new model drastically steps this up.
+
+ The ability to debug code using just your voice is remarkable. However, its real use will only become clear when actual programmers and developers begin using the tool. While ChatGPT's coding abilities are useful, they're only as useful as the knowledge of the user, like most generative AI tools.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+## When Does GPT-4o Launch? Is GPT-4o Free?
+
+ GPT-4o launched immediately to ChatGPT Plus subscribers paying the $20 monthly fee. But, in another enormous moment for generative AI, OpenAI revealed that GPT-4o would launch for all users—including free users—in due course.
+
+ There is no specific date for GPT-4o to hit free ChatGPT free accounts, but given the speed of other rollouts, it shouldn't take too long.
+
+ Other aspects of the new model are still unavailable, too. For example, I wanted to make a short clip of the new live voice feature for this article, but the feature hasn't launched yet (I'm a long-term ChatGPT Plus subscriber), nor has it found its way to any colleague's accounts.
+
+ GPT-4o will also bring a long-awaited ChatGPT desktop version, starting with macOS, but again, it hasn't launched yet.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-strategies-for-efficiently-configuring-facebooks-instream-ads-for-2024/"><u>[New] Strategies for Efficiently Configuring Facebook's Instream Ads for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-revenue-a-youtube-channelers-guide/"><u>[Updated] Maximizing Revenue  A YouTube Channeler’s Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-potential-with-best-free-text-psdfree/"><u>[Updated] Unlock Potential with Best Free Text PSDFree</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/11-pro-tips-to-leverage-chatgpt-in-character-creation-success/"><u>11 Pro Tips to Leverage ChatGPT in Character Creation Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/17-best-non-openai-point-of-sale-systems-for-businesses/"><u>17 Best Non-OpenAI Point-of-Sale Systems for Businesses</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-discovering-non-gopro-action-cam-options-top-15-picks/"><u>2024 Approved  Discovering Non-GoPro Action Cam Options  Top 15 Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-feathered-flamenco-flyers/"><u>2024 Approved  Feathered Flamenco Flyers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-haste-assessment-of-windows-documents/"><u>2024 Approved  Haste Assessment of Windows Documents</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-secret-capabilities-of-gpt-for-immersive-dialogue-adventures/"><u>5 Secret Capabilities of GPT for Immersive Dialogue Adventures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ways-kids-can-use-chatgpt-safely/"><u>5 Ways Kids Can Use ChatGPT Safely</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-best-extensions-to-enhance-gpt-and-vs-code/"><u>6 Best Extensions to Enhance GPT and VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-common-chatgpt-errors-and-their-fixes/"><u>6 Common ChatGPT Errors and Their Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-simple-steps-to-sidestep-gpt-dialogue-dangers/"><u>6 Simple Steps to Sidestep GPT Dialogue Dangers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-warnings-for-the-unquestioning-advocate-of-ai/"><u>6 Warnings for the Unquestioning Advocate of AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-innovative-apps-gpt-assisted-file-analysis/"><u>7 Innovative Apps: GPT-Assisted File Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-balanced-view-on-choosing-a-local-llm-model/"><u>A Balanced View on Choosing a Local LLM Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-beginners-guide-to-mastering-llama-2/"><u>A Beginner's Guide to Mastering Llama 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-guide-to-using-claude-2/"><u>A Comprehensive Guide to Using Claude 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-guide-to-efficient-user-personas-via-chatgpt-tech/"><u>A Guide to Efficient User Personas via ChatGPT Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-primer-on-claude-3s-capabilities-and-applications/"><u>A Primer on Claude 3'S Capabilities and Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721404930285-ai-hub-unveils-tailored-gpt-marketplace-your-guide/"><u>AI Hub Unveils Tailored GPT Marketplace – Your Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/basics-of-weaving-a-narrative-thread-for-2024/"><u>Basics of Weaving a Narrative Thread for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721434605372-dive-into-intelligent-data-the-new-bing-search-app/"><u>Dive Into Intelligent Data: The New Bing Search App.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721425596152-elevate-your-device-experience-smart-ai-search-from-bing/"><u>Elevate Your Device Experience: Smart AI Search From Bing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-hot-30i-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Hot 30i</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-magic-6-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Magic 6 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on Apple iPhone 6s</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-find-x7-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo Find X7 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-xr-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an iPhone XR Without Apple ID Password?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-tecno-camon-30-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Tecno Camon 30 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721372081731-no-membership-necessary-gpt-4-available-to-all-with-platinum-benefits-still-worth-it/"><u>No Membership Necessary: GPT-4 Available to All, with Platinum Benefits Still Worth It.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721420215300-step-into-ais-future-with-gpt-4-nevertheless-platinum-still-rewards-users-with-6-significant-advantages/"><u>Step Into AI's Future with GPT-4! Nevertheless, Platinum Still Rewards Users With 6 Significant Advantages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721403409382-unveiling-ultimate-chatbots-bard-and-chatbot-ranked/"><u>Unveiling Ultimate Chatbots: Bard & ChatBot Ranked!</u></a></li>
+</ul></div>

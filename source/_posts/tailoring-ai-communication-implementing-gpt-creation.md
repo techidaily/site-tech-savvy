@@ -1,0 +1,231 @@
+---
+title: "Tailoring AI Communication: Implementing GPT Creation"
+date: 2024-08-10T02:04:22.987Z
+updated: 2024-08-11T02:04:22.987Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Tailoring AI Communication: Implementing GPT Creation"
+excerpt: "This Article Describes Tailoring AI Communication: Implementing GPT Creation"
+thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e7afea427f137746eefc2011.png
+---
+
+## Tailoring AI Communication: Implementing GPT Creation
+
+ Since ChatGPT launched in November 2022, we've always wanted to fine-tune it into a custom AI built for a single purpose. Now, OpenAI has heard our calls and launched "Create a GPT," a ChatGPT Plus tool you can use to create your own version of ChatGPT.
+
+ **MUO VIDEO OF THE DAY**
+
+ **SCROLL TO CONTINUE WITH CONTENT**
+
+ Even though this is the first version of the GPT Builder, it's a very promising premise. It's chock-full of capabilities, has options to share your GPT with the public, and only takes a moment to spin up your custom GPT.
+
+## 1\. Access Create a GPT from My GPTs
+
+ The first thing you need to do is [subscribe to ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) if you haven't already. You should find the button to do so in the left-side menu of the ChatGPT interface. Once you've paid the $20 fee, follow the instructions below:
+
+1. Click**Explore** on the left-side menu. This should bring you to a My GPTs page that contains [OpenAI's custom GPT versions](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) .  
+![My GPTs in the Explore tab of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/my-gpts-in-the-explore-tab-of-chatgpt.jpg)
+2. Choose**Create a GPT** to open the GPT Builder's interface.
+
+ At the time of writing, "Create a GPT" is still in beta. This means not all features are fully online, and the product isn't finished. Bear this in mind while building your GPT and prepare to encounter issues. Also, it's possible that your finished GPT may be erased when a future update comes knocking.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
+## 2\. Give Your GPT a Primary Description and a Picture
+
+ For the sake of this piece, we'll be demonstrating how to build a Dungeons and Dragons 5th Edition dungeon master.
+
+1. Now that you're in the GPT Builder, the first question you'll get is what you want to make. You can keep this first part short and sweet and input a single sentence. In this case, we said, "Make a Dungeons & Dragons 5e dungeon master who oversees D&D campaigns."  
+![Primary description for a D&D GPT in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/primary-description-for-a-d-d-gpt-in-gpt-builder.jpg)
+2. Next, give your GPT a name. ChatGPT will suggest one for you, but you can still type in anything you want.
+3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
+
+ You can manually change the image, name, description, and instructions for your GPT by clicking**Configure** . Click the profile picture to change it, and edit the details in the**Name** **Description** and**Instructions** fields to change them without typing prompts.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Establish a Tone and Rules for Your GPT
+
+ At this stage, your GPT wants to know how it should address users. Direct it to the tone and style you want it to adopt. Here, we said, "5e Dungeon Master should use a wise, sagely tone. Use language and style commonly used in high-fantasy settings," which fits quite nicely into the fantasy nature of D&D.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+![GPT Builder setting the tone and language for The 5e Dungeon Master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-builder-setting-the-tone-and-language-for-the-5e-dungeon-master-gpt.jpg)
+
+ But, of course, if you are making a more professional GPT, ensure it uses professional language.
+
+ Now that your custom GPT has a tone, you should tell it how to behave. In our case, we want child-friendly Dungeons & Dragons campaigns that conform to PG-rated themes. We also let it have an inquisitive approach to understanding the player's actions instead of assuming what the player would do.
+
+ For a more wholesome grasp of the rules, you can open a new ChatGPT tab on your browser and research rules for your GPT. When finished, compile them into a notes app, number them, and paste them into the GPT Builder.
+
+ It's impossible to know how effective the rules you've established are without testing them in the playground on the right. Make prompts for breaking the rules and see if your GPT will prevent that from happening. This part of your GPT-making process will involve fine-tuning and testing.
+
+ For instance, The 5e Dungeon Master is supposed to strictly follow the rules of the D&D guidebook (PHB). Our test below shows how it prevents a payer from maxing out their stats and playing a potentially overpowered non-PHB race.
+
+![GPT Dungeon Master giving information on how to build a character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-dungeon-master-giving-information-on-how-to-build-a-character.jpg)
+
+ If you find that it's not fulfilling your instructions as well as you want, go back to the**Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Upload Files as a Knowledge Base
+
+ In addition to backing up your GPT with rules, you can also upload files you would like your GPT to draw information from. In our case, we uploaded copies of the Player's Handbook by Jeremy Crawford and the Dungeon Master's Guide. Both are essential D&D books.
+
+Here's how to upload source documents to your custom GPT:
+
+1. While in GPT Builder, click**Configure** .
+2. Scroll down to the section titled**Knowledge** .
+3. Click**Upload files** and add files from your computer.  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![GPT Knowledge source documents uploading in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-knowledge-source-documents-uploading-in-gpt-builder.jpg)
+
+ Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
+
+ If, for instance, you were trying to make a GPT that is an expert in Florida tax laws, you would get all the Florida tax legal documents you can find and upload them here to form a knowledge base your GPT can work with.
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Add or Remove Capabilities
+
+[With ChatGPT Plus, you get a truly enhanced AI experience](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) . These additional features include web browsing, a code interpreter, and DALL-E 3 integration. Better still, your custom-built GPT also enjoys all of these features. However, the GPT Builder gives you the option to add or remove functionalities you don't need.
+
+ All of these are enabled by default; in our example, we need all three. DALL-E 3 can create images of your characters and game scenes, the code interpreter helps it understand documents and character sheets you might upload, and you might need web-browsing to search up some general current facts.
+
+ However, a GPT like our hypothetical Florida tax lawyer may not need image creation functionality, and it might just be another useless feature.
+
+ With that in mind, here's how to tweak your GPT's capabilities:
+
+1. Click**Configure** and scroll to**Capabilities** .
+2. Toggle**Web Browsing** ,**DALL-E Image Generation** , and**Code Interpreter** on or off.  
+![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
+
+## 6\. Add APIs for Third-Party Services
+
+ For those interested in using APIs to access other third-party services in their GPTs, you'll be happy to know that it's possible.
+
+1. Go to**Configure** in GPT Builder.
+2. Click**Add actions** .
+3. Copy and paste your OpenAPI schema into the input box.
+4. **Optional:** Scroll down and enter an authentication method and privacy policy.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
+
+Go back when you're finished.
+
+ If you don't enter a valid privacy policy, you won't be allowed to share your GPT with the public.
+
+ Currently, you seem to be able to add only one action at a time. If you click the**Examples** dropdown menu, you'll see a few examples of schemas OpenAI has added to aid in creating your own schema.
+
+## 7\. Configure Conversation Starters
+
+ Now that you've gotten most of the GPT building out of the way, you can add or remove conversation starters. They help you and others using your GPT to get into the flow of things.
+
+1. Click**Configure** and scroll to**Conversation starters** . You'll notice that the AI automatically generates four of these.
+2. Go to the last empty field and type in a prompt to add a new conversation starter.
+3. Click the**X** next to a conversation starter block to remove it.  
+![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
+
+You can add more conversation starters as required.
+
+## 8\. Save and Publish Your GPT
+
+ In the future, we expect OpenAI will create a community marketplace for custom GPTs. But while a framework for it is in the works, it's not yet available. Still, you can save your GPT and view your builder profile by clicking the**Save** dropdown menu in the top-right corner.
+
+![Share dropdown menu in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/share-dropdown-menu-in-gpt-builder.jpg)
+
+ While it won't make any difference, for now, you can choose whether you'd like to publish to the public, via links, or only to yourself. None of the sharing options work, by the way. We have to wait for an update. But, if you want friends to use your AI, return to ChatGPT's home, open the GPT's chat, and copy the URL in your browser's address bar.
+
+ If you click the pencil icon in the share menu, you'll enter your builder profile, where you can change your GPT and profile options when this feature is fully released.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ChatGPT's Limitations Still Apply to GPT Builder
+
+ You might be fooled by OpenAI's new UI and custom AIs, but don't forget that its limitations still apply. Fundamentally, it's still AI and suffers from the fundamental lack of creativity only humans can display.
+
+ What's more, as this technology emerges, OpenAI might struggle to maintain access to its servers with an influx of more users. Its usage cap for GPT-4 still applies, and that might get in the way of testing your custom AI.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-live-video-quest-evaluating-the-strengths-of-obs-and-twitch-studio/"><u>[New] 2024 Approved  Live Video Quest  Evaluating the Strengths of OBS and Twitch Studio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pinnacle-selections-prolific-iphone-tone-innovators/"><u>[New] Pinnacle Selections  Prolific iPhone Tone Innovators</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-cheat-sheet-inserting-vimeo-videos-into-slides-for-2024/"><u>[New] The Ultimate Cheat Sheet  Inserting Vimeo Videos Into Slides for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-nailing-the-perfect-shot-advanced-strategies-for-instagram-video-editing/"><u>[Updated] Nailing the Perfect Shot  Advanced Strategies for Instagram Video Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-million-mark-geminis-game-changing-leap-forward/"><u>$1 Million Mark: Gemini’s Game-Changing Leap Forward</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-custom-gpts-that-actually-make-chatgpt-better/"><u>10 Custom GPTs That Actually Make ChatGPT Better</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-creating-breathtaking-slow-motion-photo-editing-techniques-explored/"><u>2024 Approved  Creating Breathtaking Slow Motion  Photo Editing Techniques Explored</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-visual-vanguard-the-ultimate-guide-to-8k-cameras/"><u>2024 Approved  Visual Vanguard  The Ultimate Guide to 8K Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-ai-story-generators-worth-trying/"><u>4 AI Story Generators Worth Trying</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-pioneering-ways-ai-elevates-study-habits/"><u>4 Pioneering Ways AI Elevates Study Habits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-easy-chatgpt-strategies-for-finding-employment/"><u>5 Easy ChatGPT Strategies for Finding Employment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-pivotal-ways-ai-enhances-digital-deceit-operations/"><u>5 Pivotal Ways AI Enhances Digital Deceit Operations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ways-students-can-use-chatgpt-in-school/"><u>5 Ways Students Can Use ChatGPT in School</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-reasons-for-skepticism-toward-automated-decision-making/"><u>6 Reasons for Skepticism Toward Automated Decision-Making</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-indispensable-qualities-in-selecting-robot-based-support/"><u>7 Indispensable Qualities in Selecting Robot-Based Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-reasons-to-consider-using-chatgpt-for-health-advice/"><u>7 Reasons to Consider Using ChatGPT for Health Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-balanced-look-at-chatgpt-upgrade-plans/"><u>A Balanced Look at ChatGPT Upgrade Plans</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-beginners-guide-to-integrating-latest-chatgpt-add-ons/"><u>A Beginner's Guide to Integrating Latest ChatGPT Add-Ons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comparative-study-the-advantages-and-disadvantages-of-local-llms/"><u>A Comparative Study: The Advantages & Disadvantages of Local LLMs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-complete-walkthrough-for-gpt-3s-beta-features/"><u>A Complete Walkthrough for GPT-3's Beta Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-guide-to-chatgpt-powered-poetic-compositions/"><u>A Guide to ChatGPT-Powered Poetic Compositions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-linguistic-enigma-solved-interpreting-chatgpts-programming-puzzle/"><u>A Linguistic Enigma Solved: Interpreting ChatGPT's Programming Puzzle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-new-era-for-ai-linguistics-with-googles-palm-2-model/"><u>A New Era for AI Linguistics with Google's PaLM 2 Model</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-google-pixel-fold-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Google Pixel Fold? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721402550569-earn-extra-cash-by-hunting-software-glitches-with-openai/"><u>Earn Extra Cash by Hunting Software Glitches with OpenAI!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721421451434-enhanced-accuracy-in-every-click-bings-ai-driven-search-on-devices/"><u>Enhanced Accuracy in Every Click: Bing’s AI-Driven Search on Devices.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721413720208-exiting-the-gpt-world-now/"><u>Exiting the GPT World – Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721423072362-free-gpt-4-available-to-everyone-dont-overlook-the-6-platinum-perks/"><u>Free GPT-4 Available to Everyone! Don't Overlook the 6 Platinum Perks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-activate-or-deactivate-local-area-connection-visibility-in-win10/"><u>How to Activate or Deactivate Local Area Connection Visibility in Win10</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-6s-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 6s to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11x-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 11X 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721436566102-intelligent-browsing-made-simple-unleash-bing-ai-on-your-devices/"><u>Intelligent Browsing Made Simple: Unleash Bing AI on Your Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721389502663-introducing-ai-search-access-bing-on-your-devices/"><u>Introducing AI Search: Access Bing on Your Devices!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721417752360-mastering-conversations-just-add-chatgpt-and-android/"><u>Mastering Conversations - Just Add ChatGPT & Android!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721384309754-no-emoji-tweets-ahead-linuss-unveiled-secrets-trojan-analysis-and-chatgpt-shortfalls/"><u>No Emoji Tweets Ahead, Linus's Unveiled Secrets, Trojan Analysis, & ChatGPT Shortfalls.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721416643292-no-emoji-tweets-linuss-disclosures-trojans-explained-and-chatgpt-faults-displayed/"><u>No Emoji Tweets, Linus's Disclosures, Trojans Explained, & ChatGPT Faults Displayed</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-fix-audacitys-device-opens-error-in-windows-1011/"><u>Steps to Fix Audacity’s Device Opens Error in Windows 10/11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-adventure-companion-unveiling-panasonic-hx-a1-actioncam-for-2024/"><u>The Adventure Companion  Unveiling Panasonic HX-A1 ActionCam for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-digital-frontier-assessing-current-vr-landscape/"><u>The Digital Frontier  Assessing Current VR Landscape</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a23-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721410547181-to-use-or-not-to-use-local-llm-heres-why/"><u>To Use or Not to Use Local LLM? Here's Why!</u></a></li>
+</ul></div>

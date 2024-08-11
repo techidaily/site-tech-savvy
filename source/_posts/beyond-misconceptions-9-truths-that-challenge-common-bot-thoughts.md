@@ -1,0 +1,203 @@
+---
+title: "Beyond Misconceptions: 9 Truths That Challenge Common Bot Thoughts"
+date: 2024-08-10T02:15:43.891Z
+updated: 2024-08-11T02:15:43.891Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Beyond Misconceptions: 9 Truths That Challenge Common Bot Thoughts"
+excerpt: "This Article Describes Beyond Misconceptions: 9 Truths That Challenge Common Bot Thoughts"
+thumbnail: https://thmb.techidaily.com/928ac16090104434fd8fc2700fac25541eeec6a6602a0ec014bb82ceeb16065a.jpg
+---
+
+## Beyond Misconceptions: 9 Truths That Challenge Common Bot Thoughts
+
+ It usually takes time for myths to perpetuate about any subject. It says much about generative AI chatbots that so many myths have arisen so quickly.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Almost in the blink of an eye, AI chatbots have become the most disruptive technology of the century. It is also a technology enveloped in controversy, and some of this is of genuine concern. But myths are at the heart of at least some of the controversy.
+
+ Let’s untangle fact and fiction as we explore the top AI chatbot myths.
+
+## 1\. AI Chatbots are Sentient
+
+ Chatbots like ChatGPT and Bing Chat may be able to generate human-like responses, but they are far from sentient. This ability is mimicry and not sentience. These tools use huge databases of text and images to create responses that mimic human responses.
+
+ It is complex, it is clever, and to some extent, you could argue the presence of intelligence—but not sentience. Any “intelligence” present in these tools is created by training them on massive amounts of data. In this sense, they are more akin to an incredibly powerful and flexible database than a sentient being.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. Chatbots Can Handle Any Type of Task or Request
+
+ While chatbots can be considered as something of a technological Swiss army knife, there are distinct limitations as to what they can achieve. This is apparent when working with complex or highly-specialized topics. But even simple tasks can throw them.
+
+ For instance, the emerging field of generative AI chatbots would be a subject that you’d think such tools would know all about, but try asking ChatGPT a question about one of its rivals and the limitations are immediately apparent:
+
+ We asked it: "What large language model does Google Bard use?"
+
+![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
+
+ Now, just to be clear, there are known limitations to ChatGPT and the age of the data it can reference. That question was deliberately set up to expose this. However, we asked Bard the same question when [comparing Google Bard vs. ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/), and it got it wrong too:
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
+
+ Chatbots may be clever, but they aren’t capable of any type of task and will sometimes fail on the simplest of questions.
+
+## 3\. Chatbots Are a Threat to Humanity
+
+ The problem here is that people are mixing up productivity tools with Robocop. Chatbots may pose a job threat to some people, and they may disrupt certain industries. But it would be an exaggeration to claim that they are a threat to humanity as a whole.
+
+ Ultimately, AI is an emerging technology that will need to be closely monitored to make sure it remains an ethical and safe technology. But chatbots are not about to rule supreme.
+
+ In this case, we couldn’t put it better than ChatGPT.
+
+![Screenshot of ChatGPT answering threat to humanity question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-threat-to-humanity-question.jpg)
+
+ But it would say that. Wouldn't it?
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+## 4\. AI Chatbots Are Infallible
+
+ Nothing could be further from the truth. As the tools themselves go to great pains to explain, they may generate incorrect information. The problem is that generative AI chatbots rely on [huge databases called large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLMs).
+
+ LLMs contain text from a vast range of sources, everything from literature to social media posts are included in LLMs. This is the repository that the chatbots reference to supply their answers. Any factual errors present in these can manifest themselves in the answers they provide.
+
+[AI hallucinations are a common form of error](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) that all too often shows just how fallible these tools are.
+
+## 5\. Chatbots Will Replace Human Interaction
+
+ The answer to this question can hark back to the section on sentience. Chatbots can mimic human responses and can certainly competently answer factual questions (mostly) and help in many ways. However, they cannot understand emotions, human experiences, and many of the nuances of conversation.
+
+ Human interaction is a complex and multileveled process that involves such elements as empathy, critical thinking, emotional understanding, and intuition. None of these attributes are present in generative AI chatbots.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+## 6\. AI Generative Chatbots Are Only Good for Text Interactions
+
+ This one has at least a ring of truth about it. However, advancements have been made in the field of AI generative chatbots to expand their capabilities beyond just text.
+
+ Recent developments have introduced multimodal chatbots that can handle not only text but also incorporate other interactions such as images, videos, and even voice commands.
+
+ The speed at which these tools are developing is part of the reason behind this myth. The boundaries of what this technology can do are being pushed at a rapid pace and the initial iterations that were primarily text-based are already considered old-fashioned.
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 7\. Chatbots Will Always Provide Unbiased Responses
+
+ Unfortunately, this is not the case. The potential for biased responses is always there with AI chatbots. The root of the problem can be traced back to the LLMs. The vast amount of data that chatbots reference does, inevitably, contain bias. These biases can include gender, race, nationality, and broader societal biases.
+
+ While developers do make efforts to minimize bias in chatbot responses, the task is incredibly challenging and biased responses do slip through the net. Inevitably, these “unbiasing” techniques will improve and the number of biased responses will decline.
+
+ However, for the moment at least, the potential for biased responses is an unresolved issue.
+
+## 8\. Chatbots Are Actually Real Humans
+
+![Picture of mechanical typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/picture-of-mechanical-typewriter.jpg)
+
+ Perhaps the most ludicrous myth is that behind every AI chatbot is a real human. This one is treading a delicate line between conspiracy theory and myth, we won’t dwell on this one other than to say that it's nonsense.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 9\. AI Chatbots Can Program Themselves
+
+ Chatbots need to be trained and programmed to perform their tasks in much the same way as any piece of software needs to be programmed to perform specific functions.
+
+ While AI chatbots utilize machine learning techniques to improve their performance, they do not possess the ability to program themselves autonomously.
+
+ The training process could be likened to the testing process of non-AI software. Training involves predefining their objectives, designing their architecture, and teaching them to generate responses based on the data in the relevant LLM. This entire progress still requires human intervention and programming expertise.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+## AI Chatbots: Separating Fact From Fiction
+
+ The rapid uptake in the use of these tools has perpetuated a whole host of myths. Some of them are absolute nonsense, and some of them have a grain or two of truth. What is clear is that there is a lot of misinformation surrounding AI chatbots that needs to be clarified.
+
+ By examining the facts and dispelling the fiction, we can gain a better understanding of the true capabilities and limitations of these powerful tools. AI Chatbots are not alone in quickly perpetuating myths, there are plenty of other myths circulating about AI in general.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Almost in the blink of an eye, AI chatbots have become the most disruptive technology of the century. It is also a technology enveloped in controversy, and some of this is of genuine concern. But myths are at the heart of at least some of the controversy.
+
+ Let’s untangle fact and fiction as we explore the top AI chatbot myths.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-comprehensive-tutorial-for-transforming-vids-into-dollars/"><u>[New] 2024 Approved  A Comprehensive Tutorial for Transforming Vids Into Dollars</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-from-large-files-to-tiny-previews-crafting-stunning-thumbnails/"><u>[Updated] 2024 Approved  From Large Files to Tiny Previews  Crafting Stunning Thumbnails</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-insiders-guide-to-professional-vsco-usage/"><u>[Updated] 2024 Approved  The Insider's Guide to Professional VSCO Usage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unifying-streams-simultaneous-capture-of-camplusscreen-for-2024/"><u>[Updated] Unifying Streams  Simultaneous Capture of Cam+Screen for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-mega-context-geminis-revolutionary-token-strategy/"><u>$1 Mega Context: Gemini’s Revolutionary Token Strategy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-global-ai-connoisseurs-share-outlooks-and-thoughts/"><u>10 Global AI Connoisseurs Share Outlooks and Thoughts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-innovative-companions-to-replace-gpt-on-your-phone/"><u>10 Innovative Companions to Replace GPT on Your Phone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-from-blank-page-to-airwaves-writing-engaging-podcast-episodes/"><u>2024 Approved  From Blank Page to Airwaves  Writing Engaging Podcast Episodes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-6-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 6 for Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-chatgpt-scams-to-watch-out-for/"><u>5 ChatGPT Scams to Watch Out For</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ways-ai-can-help-cybercriminals/"><u>5 Ways AI Can Help Cybercriminals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-advantages-adopting-chatgpt-in-professional-development/"><u>6 Advantages: Adopting ChatGPT in Professional Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-ways-to-use-chatgpt-for-remote-and-freelance-work/"><u>6 Ways to Use ChatGPT for Remote and Freelance Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-creative-and-advanced-alternatives-to-chatgpt-apps/"><u>7 Creative and Advanced Alternatives to ChatGPT Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-cybernetic-assistants-to-hone-your-prompt-proficiency/"><u>7 Cybernetic Assistants to Hone Your Prompt Proficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-reasons-against-using-generative-ai-in-messaging-apps/"><u>7 Reasons Against Using Generative AI in Messaging Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-ways-cybercriminals-use-ai-for-romance-scams/"><u>7 Ways Cybercriminals Use AI for Romance Scams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-ways-generative-ai-will-change-the-job-market/"><u>7 Ways Generative AI Will Change the Job Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-ai-tools-content-writers-can-use-to-improve-their-workflow/"><u>8 AI Tools Content Writers Can Use to Improve Their Workflow</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-top-innovations-outshining-mobile-openais-ai-companion/"><u>8 Top Innovations Outshining Mobile OpenAI's AI Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-reasons-you-should-upgrade-to-chatgpt-plus/"><u>9 Reasons You Should Upgrade to ChatGPT Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-walkthrough-deleting-chatgpt-history/"><u>A Comprehensive Walkthrough: Deleting ChatGPT History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-gpts-default-extensions/"><u>A Deep Dive Into GPT's Default Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-shared-links-in-openais-chatgpt/"><u>A Deep Dive Into Shared Links in OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-the-latency-of-chatgpt-4-and-gpt-35/"><u>A Deep Dive Into the Latency of ChatGPT-4 and GPT-3.5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-primer-on-chatgpt-utilization/"><u>A Primer on ChatGPT Utilization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-stepwise-approach-to-saving-gpt-dialogues/"><u>A Stepwise Approach to Saving GPT Dialogues</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/capturing-emotion-ensuring-authenticity-in-your-youtube-videos-for-2024/"><u>Capturing Emotion  Ensuring Authenticity in Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/change-default-backup-location-mac/"><u>Change Default Backup Location (Mac)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721399583846-chatgpt-and-ios-an-unstoppable-combo/"><u>ChatGPT and iOS: An Unstoppable Combo!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721437209416-emoji-free-twitter-stream-linuss-hidden-tech-trojans-explained-and-ai-chatbot-woes/"><u>Emoji-Free Twitter Stream, Linus's Hidden Tech, Trojans Explained, & AI ChatBot Woes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-today-the-updated-guide-for-2024/"><u>Facebook Today  The Updated Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721391744762-gpt-4-open-for-everyone-plus-still-boasts-6-exclusive-features/"><u>GPT-4: Open for Everyone! Plus Still Boasts 6 Exclusive Features</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-90-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-elevate-your-online-presence-with-this-all-inclusive-youtube-upload-manual/"><u>In 2024, Elevate Your Online Presence with This All-Inclusive YouTube Upload Manual</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-honor-90-lite-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Honor 90 Lite Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-c67-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme C67 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-rated-desktop-video-recorders-for-pcmac/"><u>In 2024, Top-Rated Desktop Video Recorders for PC/Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721415270731-mislead-no-more-recognize-real-and-rigged-chatgpt-apps/"><u>Mislead No More: Recognize Real and Rigged ChatGPT Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721431771457-missed-malware-alert-say-no-to-google-bard-download/"><u>Missed Malware Alert: Say No to Google Bard Download!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721436126988-spoofing-chatbots-how-some-apps-mislead-and-compromise-users/"><u>Spoofing ChatBots: How Some Apps Mislead & Compromise Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721406783592-steer-clear-of-scam-bots-real-vs-shadow-chatgpt/"><u>Steer Clear of Scam Bots - Real Vs. Shadow ChatGPT!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11s-complicated-update-to-v22h2-process/"><u>Tackling Windows 11'S Complicated Update to V22H2 Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721434879771-the-dawn-of-accessible-ai-with-gpt-4-still-holding-6-strengths-for-plus-members/"><u>The Dawn of Accessible AI with GPT-4, Still Holding 6 Strengths for Plus Members.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/year-of-unboxing-the-worlds-hottest-yt-channels-listed-for-2024/"><u>Year of Unboxing  The World’s Hottest YT Channels Listed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/you-can-now-fix-your-own-xbox-controller/"><u>You Can Now Fix Your Own Xbox Controller</u></a></li>
+</ul></div>
