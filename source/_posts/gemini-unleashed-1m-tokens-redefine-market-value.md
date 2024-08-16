@@ -1,0 +1,152 @@
+---
+title: Gemini Unleashed - $1M Tokens Redefine Market Value
+date: 2024-08-15T02:48:49.650Z
+updated: 2024-08-16T02:48:49.650Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Gemini Unleashed - $1M Tokens Redefine Market Value
+excerpt: This Article Describes Gemini Unleashed - $1M Tokens Redefine Market Value
+thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76eca7c3b378cb3f9eeb4c0bbe.jpg
+---
+
+## Gemini Unleashed - $1M Tokens Redefine Market Value
+
+### Quick Links
+
+* [What Is a Context Window?](https://united.elfm.net/zqobdx)
+* [Why Gemini 1.5's Context Window Is a Big Deal](https://homestyler.sjv.io/y209g3)
+* [Will Gemini 1.5 Live Up to Expectations?](https://uperfect.sjv.io/g1jgba)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+### Key Takeaways
+
+* Google Gemini 1.5 introduces a one million token context window, surpassing competitors like Claude and ChatGPT.
+* A larger context window enhances an AI model's performance and reduces errors, but may not guarantee overall success.
+* Gemini 1.5's larger context window could greatly enhance accuracy, reduce errors, and improve understanding.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Google Gemini 1.5 now comes with a massive one million token context window, dwarfing its direct competition in ChatGPT, Claude, and other AI chatbots.
+
+ It sounds like a massive upgrade and could set Gemini apart. It's a little difficult to grasp its full extent—but Gemini's enormous context window could be a game changer.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
+## What Is a Context Window?
+
+ While responding to your queries, like explaining a concept or summarizing a text, AI models have a limit on how much data they can consider to generate a response. The limit on the text size it can consider is called a context window.
+
+ Here's another way to look at it. Let's say you go to a grocery store to get groceries without your grocery list. The limit on how many groceries you remember when shopping is your context window. The more groceries you can remember, the higher the chances of not messing up your shopping plans. Similarly, the larger the context window of an AI model, the higher the chances of the model remembering everything it needs to provide you with the best results.
+
+ At the time of writing, Anthropic's Claude 2.1's 200k context window is the largest context window of any generally available AI model. This is followed by GPT-4 Turbo with a 128k context window. Google Gemini 1.5 is bringing a one million context window, four times larger than anything in the market. This leads to the big question: what's the big deal with a one million token context window?
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+## Why Gemini 1.5's Context Window Is a Big Deal
+
+![Gemini app running on an Android phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gemini-app-running-on-an-android-phone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+
+[Smartmockups](https://smartmockups.com/mockup/oiB7aZ8XtYS)
+
+ To put it in a clearer perspective, Claude AI's 200k context window means it can digest a book of around 150,000 words and provide answers to it. That's massive. But Google's Gemini 1.5 would be able to digest 700,000 words at a go!
+
+ When you feed a large text block into [AI chatbots like ChatGPT](https://www.makeuseof.com/best-alternatives-chatgpt/) or Gemini, it attempts to digest as much of the text as possible, but how much it can digest depends on its context window. So, if you have a conversation that runs into 100k words on a model that can only handle 28k and then start asking questions that require it to have complete knowledge of the entire 100k words worth of conversation, you're setting it up to fail.
+
+ Imagine only watching 20 minutes of a one-hour-long movie but being asked to explain the entire movie. How good would your results be? You either refuse to answer or simply make stuff up, which is exactly what an AI chatbot would do, leading to AI hallucinations.
+
+ Now, if you are thinking that you've never had to feed 100k words into a chatbot, that's not the whole consideration. Context window transcends just the text you feed an AI model in a single prompt. AI models consider the whole conversation you've had during a chat session to ensure their responses are as relevant as possible.
+
+ So, even though you are not feeding it a 100k word book, your back-and-forth conversations and the replies it provides all add to the context window calculation. Wondering why ChatGPT or Google's Gemini keeps forgetting the things you've told it earlier in a conversation? It likely ran out of context window space and started to forget stuff.
+
+ A larger context window is particularly important for tasks requiring a deep understanding of the context, such as summarizing long articles, answering complex questions, or maintaining a coherent narrative in the generated text. Want to write a 50k-word novel that has a consistent narrative throughout? Want a model that can "watch" and answer questions on a one-hour video file? You need a larger context window!
+
+ In short, Gemini 1.5's larger context window may significantly improve the performance of its AI model, reducing hallucination and significantly increasing accuracy and ability to follow instructions better.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+## Will Gemini 1.5 Live Up to Expectations?
+
+![gemini advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gemini-advanced.PNG)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+
+ If everything goes as planned, Gemini 1.5 could potentially outperform [the best AI models in the market](https://www.makeuseof.com/best-large-language-models/). However, considering Google's many failures at building a stable AI model, it's important to err on the side of caution. Bumping up the context window of a model alone doesn't automatically make the model better.
+
+ I've used Claude 2.1's 200k context window for months since its release, and one thing is clear to me—a larger context window can indeed improve context sensitivity, but problems with the core model performance can make larger context a problem of its own.
+
+ Will Google Gemini 1.5 give us a game-changer? Social media is currently filled with glowing reviews of Gemini 1.5 from early-access users. However, most 5-star reviews stem from rushed or simplified use cases. A good place to check how Gemini 1.5 would perform in the wild is inside Google's [Gemini 1.5 technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini%5Fv1%5F5%5Freport.pdf) \[PDF\]. The report shows that even during "controlled testing," the model couldn't retrieve all the tiny details of documents well within the size of its context window.
+
+ A one million token context window is indeed an impressive technical feat, but without being able to retrieve the details of a document reliably, then a larger context window is of little practical value and could even become a cause of declining accuracy and hallucinations.
+
+</article
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-prime-time-top-10-methods-for-flawless-cricket-broadcasts-for-2024/"><u>[New] Prime Time  Top 10 Methods for Flawless Cricket Broadcasts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-backstage-pass-creating-content-that-works/"><u>[New] The Backstage Pass  Creating Content That Works</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photoframe-prospectus-essential-list-of-software-sites-and-tools/"><u>[Updated] Photoframe Prospectus  Essential List of Software Sites & Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-battling-the-invisible-screen-on-social-media-a-chromesafari-guide/"><u>2024 Approved  Battling the Invisible Screen on Social Media  A Chrome/Safari Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/becoming-a-note-taking-whiz-chatgpts-secret/"><u>Becoming a Note-Taking Whiz - ChatGPT's Secret</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/business-owners-should-know-about-these-5-ai-tools/"><u>Business Owners Should Know About These 5 AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-android-launch-a-new-era-begins/"><u>ChatGPT's Android Launch - A New Era Begins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converging-ai-and-messaging-chatgpt-meets-whatsapp/"><u>Converging AI & Messaging: ChatGPT Meets WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creativity-vs-algorithm-the-authorship-divide/"><u>Creativity vs Algorithm: The Authorship Divide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-workout-queries-through-gpt-enhanced-talk/"><u>Elevating Workout Queries Through GPT-Enhanced Talk</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioning-a-safer-tomorrow-with-four-governmental-ai-laws/"><u>Envisioning a Safer Tomorrow with Four Governmental AI Laws</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-depth-of-digital-communication-with-palm-2/"><u>Exploring the Depth of Digital Communication with PaLM 2</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/filming-in-circle-iphone-techniques-for-facebook-integration/"><u>Filming in Circle  IPhone Techniques for Facebook Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finding-your-match-in-the-age-of-ai/"><u>Finding Your Match in the Age of AI</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-6-lite-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor Magic 6 Lite Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-30plus-metaverse-quotes-to-inspire-you-ar-and-vr-included/"><u>In 2024, 30+ Metaverse Quotes to Inspire You [AR & VR Included]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-nikon-d500-review-breaking-boundaries-in-4k/"><u>In 2024, Nikon D500 Review  Breaking Boundaries in 4K</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-an-oracle-of-accuracy/"><u>Is ChatGPT an Oracle of Accuracy?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-leaders-face-off-palm-2-vs-gpt-4-explored/"><u>Language Leaders Face Off: PaLM 2 Vs. GPT-4 Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/luster-leads-transformative-techniques-for-videos/"><u>Luster Leads  Transformative Techniques for Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/master-classroom-optimal-video-edits-on-vimeo/"><u>Master Classroom  Optimal Video Edits on Vimeo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpt-potential-today-with-gpt-4/"><u>Maximizing ChatGPT Potential Today with GPT-4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-network-issues-a-comprehensible-guide-for-windows-11-users/"><u>Navigating Network Issues: A Comprehensible Guide for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-corporate-efforts-via-api-access-to-gpt-whisper/"><u>Revolutionizing Corporate Efforts via API Access to GPT, Whisper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-win11-wi-fi-accessibility-with-9-steps/"><u>Securing Win11 Wi-Fi Accessibility with 9 Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-chatgpt-access-a-users-guide/"><u>Streamlining ChatGPT Access: A User's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-blueprint-of-openai-innovation/"><u>The Blueprint of OpenAI Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intelligent-intersection-of-bing-and-ai/"><u>The Intelligent Intersection of Bing & AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-latest-on-chatgpt-is-it-running/"><u>The Latest on ChatGPT: Is It Running?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/toms-tech-review-in-depth-analysis-of-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of Computer Components</u></a></li>
+<li><a href="https://some-skills.techidaily.com/translating-trust-the-importance-of-client-endorsements-for-2024/"><u>Translating Trust  The Importance of Client Endorsements for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-chatgpts-shared-link-system-and-functionality/"><u>Understanding ChatGPT’s Shared Link System and Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-creativity-4-ingenious-ways-to-build-a-site-with-chatgpt/"><u>Unlock Your Creativity: 4 Ingenious Ways to Build a Site with ChatGPT</u></a></li>
+</ul></div>

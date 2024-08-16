@@ -1,0 +1,180 @@
+---
+title: "From Concept to Commercial: ChatGPT's Story"
+date: 2024-08-15T02:36:34.442Z
+updated: 2024-08-16T02:36:34.442Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes From Concept to Commercial: ChatGPT's Story"
+excerpt: "This Article Describes From Concept to Commercial: ChatGPT's Story"
+thumbnail: https://thmb.techidaily.com/414457a7bef8541a22e0759e005db32e7bc53d10e956cf3519881385b0e0955c.jpg
+---
+
+## From Concept to Commercial: ChatGPT's Story
+
+ ChatGPT gained significant popularity toward the end of 2022 and the beginning of 2023\. The tool, powered by artificial intelligence (AI), gained attention for its ability to answer questions, provide creators with ideas, and much more.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ People in multiple industries have been using ChatGPT to improve their workflows and seek inspiration. If you're interested in finding out how the software is being used, you're in the right place; that's precisely what we'll discuss today.
+
+## 1\. Scripting YouTube Videos
+
+![person holding smartphone displaying youtube logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/speeds.jpg)
+
+ Regardless of whether you want to [start a YouTube channel](https://www.makeuseof.com/starting-youtube-channel-basics/) for fun or as a genuine career path, creating videos requires a lot of effort. Filming your content is only one part of the puzzle; editing takes a significant amount of time, and coming up with ideas in the first place is also a lengthy process.
+
+ When ChatGPT first began gaining awareness, popular tech YouTuber MKBHD published a video about AI in the creative sector. At the beginning of it, he read a script provided by the technology—before providing his take on AI and creativity. While MKBHD's intro was an example, and the rest of the video wasn't scripted, it shows that ChatGPT has the power to help users script their content.
+
+ Before you get excited and try to script all your videos with ChatGPT, remember that adding a human touch is still important. You should know about the topics you discuss, and you'll also need to edit the tone to fit how you authentically speak.
+
+## 2\. Brainstorming Topic Ideas
+
+![An idea symbol (lightbulb) linked to post it notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/lightbulb-with-post-its.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+
+ Even if you're required to come up with creative ideas each day, you're not always going to be able to think of new topics. You'll go through periods where you can't seem to think of anything—and if your job relies on you using your brain, this can get frustrating.
+
+ You'll find creative inspiration in plenty of places online, such as by reading the latest news in your niche and checking out your favorite creators on social media. However, you can also use AI to generate new ideas that can lead you in the right direction.
+
+ Many creators are using ChatGPT to brainstorm topic ideas. If you ask the tool to develop a list of topics, you'll probably find at least one or two that you think are worth exploring further. You can then do your own research and bring the content together in whatever form of media you'd prefer.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. Social Media Bios
+
+![Man holding phone with Instagram on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/man-holding-phone-with-instagram-on-it.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+
+ Despite the problems that social media can cause, [having a presence on platforms like Twitter](https://www.makeuseof.com/how-to-make-twitter-profile-stand-out/) and Instagram can work in your favor. For example, you can demonstrate your expertise on a topic that you're passionate about—and potentially attract employment opportunities. Moreover, you can use social media to connect with an audience of like-minded people.
+
+ Considering that social media bios typically aren't a lot of characters, it's easy to think of these as an afterthought. However, considering that you're fighting for attention with millions of other users, having something that instantly gives people an insight into who you are is crucial.
+
+ Creating a good social media bio can require a lot of thought, and you can use ChatGPT to help you create a draft. Once you've got a rough framework, you have more room to adjust everything to fit your personality.
+
+## 4\. Learning a New Language
+
+![Photo of numerous countries' flags](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/joshua-fuller-tida-geog-s-unsplash.jpg)
+
+ Learning a new language can open new doors, such as giving you the chance to make new friends and potentially gain employment in a new country. You'll find plenty of [language-learning apps, such as Duolingo and Babbel](https://www.makeuseof.com/babbel-vs-duolingo-complete-comparison/). Moreover, you can hone your skills by consuming videos, podcasts, and articles in your target language.
+
+ Knowing the most common words and phrases is a good idea when you're first learning a new language. At the very least, you should find it easier to get around when you next visit that place. And if you use ChatGPT, you've got the opportunity to make progress toward your language-learning goals.
+
+ Some users have asked ChatGPT for the most common words in their target language, and you can also ask the service how to translate certain words and phrases. On top of that, you might want to think about asking ChatGPT for a list of resources that you can add to your ecosystem.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+## 5\. Market Research
+
+![Two Work Areas at Home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/two-work-areas-at-home.jpg)
+
+ Whether you're an employee or a business owner, knowing what your customers want is crucial. Many companies make the mistake of spending a lot of time and energy creating products first, only to discover that nobody wants what they've made. However, market research can be challenging and time-consuming in equal measure.
+
+ You'll find plenty of articles online about how ChatGPT can play a key role in the future of market research. And while the tool is still in its infancy, you can use it for several purposes. For example, you can ask what the pain points of your target audience would typically be.
+
+ You can also use ChatGPT to look at what the people you want to sell to are currently interested in. While you should also use other forms of research—such as surveys—to get a clearer overall picture, ChatGPT can provide a good base level of information.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+## 6\. Finding the Answers to Questions
+
+ For most of the 21st century, we've become accustomed to [using search engines like Google, Bing, and DuckDuckGo](https://www.makeuseof.com/google-vs-bing-vs-duckduckgo-ultimate-search-engine/) to find the answers to our questions. Whether ChatGPT replaces those websites is another question for another day, but some users have turned to the tool for simple search results.
+
+ You can ask ChatGPT about multiple topics, such as [how to become a freelancer](https://www.makeuseof.com/become-successful-freelancer-essential-skills/). At the time of writing, you won't—unlike tools like Google—receive news articles. However, you will get a list of points that should give you what you're looking for.
+
+ If you need additional information, you can always turn to a search engine later.
+
+## 7\. Software Development
+
+![photo of a woman typing on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/woman-working-on-computer.jpg)
+
+ One of the most interesting ways that ChatGPT is being used is a little outside the box. As reported by [ABC News](https://www.abc.net.au/news/science/2023-01-25/chatgpt-midjourney-generative-ai-and-future-of-work/101882580), some people and companies are using the tool to help them with software development.
+
+ In the article, one student in Australia mentioned that they had used the tool to help them write code. However, they also mentioned that human input still required to ensure everything was correct.
+
+ Meanwhile, a company in Belgium mentioned that it was testing with ChatGPT to create software that would make it easier to put contracts together.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+## You'll Find Several Uses for ChatGPT
+
+ ChatGPT is an incredibly powerful tool, and you will find plenty of uses for it. From coming up with creative ideas to helping with software development, the solution looks like it'll disrupt several industries in the coming years.
+
+ You should definitely try ChatGPT and see if it can help you streamline your workflow. However, it's also worth remembering that you'll still need human input to ensure everything is accurate and fits your needs.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ People in multiple industries have been using ChatGPT to improve their workflows and seek inspiration. If you're interested in finding out how the software is being used, you're in the right place; that's precisely what we'll discuss today.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-leveraging-facebook-slides-a-beginners-handbook-for-visual-storytelling/"><u>[New] 2024 Approved  Leveraging Facebook Slides  A Beginner's Handbook for Visual Storytelling</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-video-file-processing-movs-in-windows-11-edition/"><u>[New] 2024 Approved  Mastering Video File Processing  MOVs in Windows 11 Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-editing-skills-for-professional-facebook-reels-for-2024/"><u>[New] Mastering Editing Skills for Professional Facebook Reels for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-twirl-and-relax-the-ultimate-list-of-country-tunes-on-tiktok/"><u>[New] Twirl & Relax  The Ultimate List of Country Tunes on TikTok</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-scouring-social-media-locating-facebook-videos/"><u>[Updated] 2024 Approved  Scouring Social Media  Locating Facebook Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-expert-video-downloader-kit-ideal-for-firefox-browser-users/"><u>[Updated] Expert Video Downloader Kit  Ideal for FireFox Browser Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-stabilizing-tech-for-youtube-creators-success/"><u>2024 Approved  Top 10 Stabilizing Tech for YouTube Creators' Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-there-security-flaws-in-chatgpt/"><u>Are There Security Flaws in ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmenting-dungeon-mastery-with-ai-assistance-in-dandd/"><u>Augmenting Dungeon Mastery with AI Assistance in D&D</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/benefits-vs-drawbacks-chatgpt-subscription/"><u>Benefits vs Drawbacks: ChatGPT Subscription</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-the-course-for-ethical-ai-navigation/"><u>Charting the Course for Ethical AI Navigation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comedy-codex-from-ai-unlocking-algorithmic-giggles/"><u>Comedy Codex From AI: Unlocking Algorithmic Giggles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-predictive-ai-techniques-and-processes-explained/"><u>Delving Into Predictive AI: Techniques and Processes Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-resume-game-with-ai-innovation/"><u>Elevate Your Resume Game with AI Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embark-without-worry-best-free-chatgpt-apps-crafting-your-trip/"><u>Embark Without Worry: Best Free ChatGPT Apps Crafting Your Trip</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emerging-tech-the-role-and-allure-of-chatbot-ai/"><u>Emerging Tech: The Role and Allure of Chatbot AI</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-your-digital-dialogue-the-leading-web-based-text-to-speech-apps/"><u>Enhance Your Digital Dialogue  The Leading Web-Based Text-to-Speech Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enterprise-advancement-through-expanded-api-scope-gpt-whisper/"><u>Enterprise Advancement Through Expanded API Scope: GPT, Whisper</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fourth-wave-of-innovation-under-governed-rules-in-ai/"><u>Fourth Wave of Innovation Under Governed Rules in AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-ai-systems-emulate-human-talking-patterns/"><u>How AI Systems Emulate Human Talking Patterns</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c50-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Poco C50 Phone with Broken Screen</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-expertly-ranked-online-capturing-software/"><u>In 2024, Expertly Ranked Online Capturing Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-remove-unsolicited-podcast-episodes-on-spotify-app/"><u>In 2024, Remove Unsolicited Podcast Episodes on Spotify App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insightful-interaction-how-chatgpt-revolutionizes-data-analysis/"><u>Insightful Interaction: How ChatGPT Revolutionizes Data Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-googles-data-tools/"><u>Integrating ChatGPT Into Google's Data Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-20-creative-anime-music-starts/"><u>Leading 20 Creative Anime Music Starts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-service-errors-between-chatgpt-and-plugins/"><u>Overcoming Service Errors Between ChatGPT and Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/penning-pages-gpt-3-as-your-crafting-companion/"><u>Penning Pages: GPT-3 as Your Crafting Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/showcase-of-ai-uniform-tasks-evaluation/"><u>Showcase of AI: Uniform Tasks Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-4-cutting-edge-ai-storywrights/"><u>The Ultimate List of 4 Cutting-Edge AI Storywrights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-insights-into-using-chatgpt-as-a-health-advice-partner/"><u>Top 7 Insights Into Using ChatGPT as a Health Advice Partner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uniting-giants-how-bzs-games-meet-microsofts-ai-visionaries-tech-dialogue/"><u>Uniting Giants: How BZ's Games Meet Microsoft's AI Visionaries [Tech Dialogue]</u></a></li>
+</ul></div>

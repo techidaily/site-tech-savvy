@@ -1,0 +1,192 @@
+---
+title: "Protecting Intellectual Property: Business GPT Use"
+date: 2024-08-15T02:43:01.347Z
+updated: 2024-08-16T02:43:01.347Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Protecting Intellectual Property: Business GPT Use"
+excerpt: "This Article Describes Protecting Intellectual Property: Business GPT Use"
+thumbnail: https://thmb.techidaily.com/c3cb24735a325c59b374deb74baa7c6af50100c3f603092c99cb6f1def444289.jpg
+---
+
+## Protecting Intellectual Property: Business GPT Use
+
+ ChatGPT has proven to be an invaluable tool for work. Yet, online privacy concerns highlight the need for vigilance in protecting sensitive data. Recent incidents of ChatGPT data breaches serve as a stark reminder that technology is susceptible to privacy threats. Here are some tips for using ChatGPT responsibly to protect the confidentiality of your work data.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+## 1\. Don’t Save Your Chat History
+
+ One of the simplest yet effective steps to protect your privacy is to avoid saving your chat history. ChatGPT, by default, stores all interactions between users and the chatbot. These conversations are collected to train OpenAI’s systems and are subject to inspection by moderators.
+
+ While account moderation ensures that you’re complying with Open AI’s terms and services, it also opens up security risks for the user. In fact, [The Verge](https://www.theverge.com/2023/5/19/23729619/apple-bans-chatgpt-openai-fears-data-leak) reports that companies like Apple, J.P. Morgan, Verizon, and Amazon have banned their employees from using AI tools due to fear of leaked or collected confidential information entered into these systems.
+
+ Follow these steps to disable chat history:
+
+1. Click the ellipsis or three dots beside your ChatGPT account name.
+2. Click on **Settings**.
+3. Click on **Data controls**.
+4. Toggle off **Chat history and training**.
+
+![ChatGPT showing options to disable chat history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-32.jpg)
+
+ Note that [OpenAI](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) says that even with this setting enabled, conversations are retained for 30 days with the option for moderators to review them for abuse before permanent deletion. Still, disabling chat history is one of the best things you can do if you want to continue using ChatGPT.
+
+ Tip: If you need access to your data on ChatGPT, export them first. You can also save them by taking screenshots, writing notes manually, copy-pasting them into a separate application, or using secure cloud storage.
+
+## 2\. Delete Conversations
+
+ One of the [big problems with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is potential data breaches. The ChatGPT outage that prompted an investigation by the Federal Trade Commission shows just how risky it is to use the app.
+
+ According to [OpenAI’s update on the March 20, 2023 outage](https://openai.com/blog/march-20-chatgpt-outage), a bug in an open-source library caused the incident. The leak allowed users to view the chat history titles of other users. It also exposed payment-related information of 1.2% of ChatGPT Plus subscribers, including names, credit card information, and email addresses.
+
+ Deleting your conversations helps protect your data from these possible threats. Take the following steps to delete your chats:
+
+1. Click the ellipsis or three dots beside your ChatGPT account name.
+2. Click **Settings**.
+3. Under **General**, click **Clear** to clear all chats.
+
+![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+## 3\. Don’t Feed ChatGPT Sensitive Work Information
+
+ Exercise caution and refrain from providing ChatGPT with sensitive work-related information. One of the [most common online privacy myths](https://www.makeuseof.com/online-privacy-myths-debunked/) is that companies will protect your data just because a general statement in their terms of service says so.
+
+ Avoid sharing financial records, intellectual property, customer information, and protected health information. You increase the risk of sharing confidential data with cybercriminals. This might even lead to legal problems for you and your company.
+
+ The massive ChatGPT data leak from June 2022 to May 2023 illustrates how important this point is. [Search Engine Journal](https://www.searchenginejournal.com/massive-leak-of-chatgpt-credentials-over-100000-accounts-affected/489801/#close) reports that over 100,000 ChatGPT account credentials were compromised and sold on dark web marketplaces because of the incident.
+
+ Limit interactions with ChatGPT to non-confidential queries and avoid sharing proprietary details. Moreover, apply good password hygiene and enable two-factor authentication to prevent compromising your account.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Use Data Anonymization Techniques
+
+ Data anonymization techniques help protect individual privacy while retaining insights from datasets. When using ChatGPT for work, apply these techniques to prevent any direct or indirect identification of individuals in the data.
+
+ Here are a few basic data anonymization techniques from the [Personal Data Protection Commission of Singapore](https://iapp.org/resources/article/guide-to-basic-data-anonymization-techniques/):
+
+* **Attribute Suppression**: Remove an entire part of data that isn’t needed for your query. Let’s say you need to analyze a customer’s spending patterns. You can feed ChatGPT the transaction amounts and purchase dates. But don't share the customer’s name and credit card information since these aren't necessary for the analysis.
+* **Pseudonymization**: Replace identifiable information with pseudonyms. For example, you could replace patient names in a health record with pseudonyms like “Patient001,” “Patient002,” and so on.
+* **Data Perturbation**: Slightly modify data values within a certain range. For example, when sharing patient age data, you could add small random values (e.g., ±2 years) to each individual’s actual age.
+* **Generalization**: Deliberately reduce data. For instance, instead of exposing people’s exact ages, you could generalize the data by grouping ages into broader ranges (e.g., 20-30, 31-40, etc.).
+* **Character masking**: Show only a portion of sensitive data. For example, you can type only the first three digits of a phone number and replace the rest with X (e.g., 555-XXX-XXXX).
+
+ Anonymization is not foolproof since data can be de-anonymized. Understand [de-anonymization and how to prevent it](https://www.makeuseof.com/what-is-de-anonymization/) before utilizing any of these techniques. Evaluate the risks before you release anonymized data.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+## 5\. Limit Access to Sensitive Data
+
+ Limiting access to sensitive work data is crucial when workers are allowed to use ChatGPT. If you’re working in a leadership role, restrict access to sensitive information to authorized personnel who require it for their specific roles.
+
+ Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Be Wary of Third-Party Apps
+
+[Whether third-party ChatGPT apps and browser extensions are safe](https://www.makeuseof.com/third-party-chatgpt-apps-browser-extensions-safe/) is an important question to ask. Before using any of these apps for work, carefully vet and scrutinize them. Make sure that they’re not collecting and retaining information for questionable purposes.
+
+ Don’t install shady apps that ask for random permissions on your phone. Verify their data handling practices to check if they align with your organization’s privacy standards.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+## Use ChatGPT Responsibly for Work
+
+ Maintaining privacy while using ChatGPT for work is tricky. If you absolutely must use ChatGPT to do your job, understand the privacy risks involved. There’s no fail-safe method to protect your data once you hand them over to an AI tool. But you can take steps to cut the chances of data leaks.
+
+ ChatGPT has many practical uses for work, but you should protect your company data while using it. Understanding ChatGPT’s privacy policy should help you decide if the tool is worth the risk.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-adding-soundtracks-to-shareable-fb-moments-for-2024/"><u>[New] Adding Soundtracks to Shareable FB Moments for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-2023-download-all-favorites-without-spending/"><u>[New] In 2024, 2023  Download All Favorites Without Spending</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-loom-capture-toolkit-essential-screen-casts-tips/"><u>[New] In 2024, Loom Capture Toolkit  Essential Screen Casts Tips</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-uncover-the-art-of-participating-in-tiktok-live-shows/"><u>[New] In 2024, Uncover the Art of Participating in TikTok Live Shows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-the-art-of-visual-flow-with-kinemaster/"><u>[New] Mastering the Art of Visual Flow with Kinemaster</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-simplified-methods-to-close-unused-social-media-linkedin-account-for-2024/"><u>[New] Simplified Methods to Close Unused Social Media (LinkedIn) Account for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-non-udemy-online-education-sites/"><u>[Updated] 2024 Approved  Ultimate Guide to Non-Udemy Online Education Sites</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-audiences-favorite-top-action-recording-tools-for-2024/"><u>[Updated] Audience's Favorite  Top Action Recording Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-decoding-the-average-earning-scale-for-podcasters/"><u>[Updated] Decoding the Average Earning Scale for Podcasters</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-elevating-twitter-interactions-through-personalized-video-previews-for-2024/"><u>[Updated] Elevating Twitter Interactions Through Personalized Video Previews for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-innovative-approaches-to-elevate-roi-in-your-fb-ads-with-animation/"><u>[Updated] In 2024, Innovative Approaches to Elevate ROI in Your FB Ads with Animation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-revolutionizing-broadcast-media-with-chroma-key-expertise/"><u>[Updated] Revolutionizing Broadcast Media with Chroma Key Expertise</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-comprehensive-kinetic-study-2023/"><u>2024 Approved  Comprehensive Kinetic Study 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilization-of-unused-film-clips-tips-and-tricks/"><u>2024 Approved  Utilization of Unused Film Clips  Tips and Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-gpt-vs-bing-ai-and-googles-bard-battle/"><u>AI Showdown: GPT Vs. Bing AI & Google's Bard Battle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-creation-operational-companies-and-techniques/"><u>AI-Driven Content Creation: Operational Companies & Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-deception-true-tales-of-tech-and-false-fakes/"><u>Avoid Deception: True Tales of Tech & False Fakes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-potential-impact-on-cognitive-behavioral-therapy/"><u>ChatGPT's Potential Impact on Cognitive Behavioral Therapy</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/compact-pc-mastery-minisforum-s100-features-intel-cpu-networking-and-usb-c-charging/"><u>Compact PC Mastery - Minisforum S100 Features Intel CPU, Networking & USB-C Charging</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-ai-lexicon-key-phrases-every-techie-must-grasp/"><u>Decoding AI Lexicon: Key Phrases Every Techie Must Grasp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-prompt-injection-in-ai-understanding-its-working-mechanism/"><u>Decoding Prompt Injection in AI - Understanding Its Working Mechanism</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogueclosed-timeline-for-chatgpt-revival/"><u>DialogueClosed: Timeline for ChatGPT Revival?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/directly-upload-and-share-videos-to-twitter-from-your-phone/"><u>Directly Upload and Share Videos to Twitter From Your Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-limitless-imagination-with-dall-e-3-bing/"><u>Discover Limitless Imagination with DALL-E 3 (Bing)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-have-weaknesses-to-exploit/"><u>Does ChatGPT Have Weaknesses to Exploit?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-faults-the-six-no-goes-of-ai-chatting/"><u>Eliminating Faults: The Six No-Goes of AI Chatting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-user-experience-effortless-intuitive-conversation-via-chrome/"><u>Enhance User Experience: Effortless, Intuitive Conversation via Chrome</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-data-analysis-navigating-through-bings-android-ai/"><u>Enhanced Data Analysis: Navigating Through Bing's Android AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-task-efficiency-through-gpt-3-insights/"><u>Enhancing Task Efficiency Through GPT-3 Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guarding-authenticity-openais-anti-cheat-for-gpt-text-generation/"><u>Guarding Authenticity: OpenAI's Anti-Cheat for GPT Text Generation</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-s24plus-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy S24+ Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-adventures-begin-top-10-melodies-for-podcast-intros/"><u>In 2024, Audio Adventures Begin  Top 10 Melodies for Podcast Intros</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-game-console-sound-amplification-and-modifications-for-ps4ps5/"><u>In 2024, Game Console Sound Amplification and Modifications for PS4/PS5</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-13-mini-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 13 mini? Learn All 4 Methods</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-rapid-tiktok-filming-techniques-to-enhance-frame-rate/"><u>In 2024, Rapid TikTok Filming  Techniques to Enhance Frame Rate</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instantaneous-itinerary-blueprints-the-finest-selection-of-7-budget-friendly-apps/"><u>Instantaneous Itinerary Blueprints – The Finest Selection of 7 Budget-Friendly Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-assistants-in-the-workplace-freelancers-choicebing-chat-or-chatgpt/"><u>Language Assistants in the Workplace: Freelancer's Choice—Bing Chat or ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-client-results-with-ai-driven-planning/"><u>Maximizing Client Results with AI-Driven Planning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-profits-a-guide-to-gpt-in-crypto-markets/"><u>Maximizing Profits: A Guide to GPT in Crypto Markets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-openai-under-legal-scrutiny-by-artistic-collective-leaders/"><u>Meta, OpenAI Under Legal Scrutiny by Artistic Collective Leaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-buys-blizzard-ai-art-and-translation-explored-podcast/"><u>Microsoft Buys Blizzard, AI Art and Translation Explored [Podcast]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/my-ai-assisted-adventure-in-podcast-scripting/"><u>My AI-Assisted Adventure in Podcast Scripting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-language-varieties-with-ease-via-chatgpt/"><u>Navigating Language Varieties with Ease via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-with-grok-ai-insights-from-elon-on-its-role-and-expense/"><u>New Era with Grok AI: Insights From Elon on Its Role & Expense</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-issues-the-newest-fix-for-the-acpi-drivers-in-dells-smo8-cuisine/"><u>Resolving Issues: The Newest Fix for the ACPI Drivers in Dell's SMO8 Cuisine.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-unsupported-accessory-troubleshooting-for-iphones/"><u>Solving the Issue: Unsupported Accessory Troubleshooting for iPhones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-talk-made-simple-29-essential-ai-phrases/"><u>Tech Talk Made Simple: 29 Essential AI Phrases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-fraudgpts-ploy-personal-protection-strategies/"><u>Understanding FraudGPT's Ploy: Personal Protection Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-ai-exploring-openais-shap-e-tool/"><u>Unveiling AI: Exploring OpenAI's SHAP E Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-real-users-worlds-constructive-user-personas-via-chatgpt/"><u>Unveiling Real Users' Worlds: Constructive User Personas via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/venturing-into-the-realm-of-engaging-interactive-systems/"><u>Venturing Into the Realm of Engaging Interactive Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-a-local-llm-might-be-the-right-choice-for-you/"><u>Why a Local LLM Might Be the Right Choice for You</u></a></li>
+</ul></div>

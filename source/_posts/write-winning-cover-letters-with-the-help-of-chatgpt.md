@@ -1,0 +1,213 @@
+---
+title: Write Winning Cover Letters with the Help of ChatGPT
+date: 2024-08-15T02:45:04.871Z
+updated: 2024-08-16T02:45:04.871Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Write Winning Cover Letters with the Help of ChatGPT
+excerpt: This Article Describes Write Winning Cover Letters with the Help of ChatGPT
+thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def47629f17026d118c0eda7b469c.png
+---
+
+## Write Winning Cover Letters with the Help of ChatGPT
+
+ ChatGPT is growing in popularity as artificial intelligence’s go-to for content generation. You probably have seen courses and other programs designed to help you leverage this new platform and are curious about its benefits.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Access to a platform that can create a cohesive document can be a godsend to people who dislike writing. While ChatGPT can help you increase your efficiency, you still have to review the documents it generates to ensure your cover letter gets noticed.
+
+## 1\. Open Your ChatGPT Account
+
+![Screenshot of ChatGPT homepage (updated)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-chatgpt-homepage-updated.jpg)
+
+ You can easily create one if you don’t already have an account. Go to the site [chat.openai.com](https://chat.openai.com/). Once you’re there, you’ll see a prompt to open your account or sign up. You can create a new account with your choice of email, including connecting it to an existing Gmail account.
+
+ You’ll need access to your mobile phone since you’ll receive a six-digit code sent to your phone via text to confirm your registration. Once you’ve confirmed your registration, you’re ready to get started.
+
+ When you’re in ChatGPT, you’ll see you can stay with the free version, ChatGPT 3.5, or pay for access to ChatGPT 4\. The features of ChatGPT-4 include faster responses and access to beta features like code interpreter, plug-ins, and browsing.
+
+ ChatGPT-4 has a limit of 25 messages every three hours, costing $20 monthly. If you’re wondering what other artificial intelligence options exist besides ChatGPT, you might be interested in learning about [the best alternatives to ChatGPT](https://www.makeuseof.com/best-alternatives-chatgpt/).
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+## 2\. Enter Your Custom Instructions
+
+![Screenshot of Custom Instructions for freelance writing cover letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-custom-instructions-for-freelance-writing-cover-letter.jpg)
+
+ Before you ask ChatGPT to write content for you, you need to provide custom instructions to the platform. You do this in the custom instructions; you can access it by clicking on your name.
+
+ There are two sections where you input information about yourself. The first one asks: What would you like ChatGPT to know about you to provide better responses? The second one asks: How would you like ChatGPT to respond?
+
+ The first section is where you can tell the platform where you live, what you currently do for work, your goals, and your interests. The second section is where you can talk about the tone and length of ChatGPT’s responses.
+
+ You can change the custom instructions at any time, but it will only affect the answers given after the changes are made. If you’re new to the platform, you may ask: [What is ChatGPT and what can you do with generative AI?](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/ "What Is ChatGPT and What Can You Do With Generative AI?"). We recommend checking out that guide if you're not too sure.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Submit a Job Description
+
+![Screenshot of job description provided to ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-job-description-provided-to-chatgpt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+ Once you’ve completed your custom instructions, it’s time to provide a job description that ChatGPT can refer to when creating your cover letter. Remember, the key to writing an effective cover letter is addressing all the critical needs indicated in the job description.
+
+ If you’re using the free ChatGPT 3.5 version of the platform, there’s no limit to the number of jobs you can ask it to write cover letters for! You can also ask the platform to regenerate the response if you don’t like the first one you get.
+
+ You may be wondering what ChatGPT means for the future of writers and if it means enormous unemployment lines are in your future. You might find some comfort in learning the [reasons why ChatGPT won’t take your writing job](https://www.makeuseof.com/why-chatgpt-wont-take-writing-job/ "5 Reasons Why ChatGPT Won’t Take Your Writing Job").
+
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+## 4\. Prompt ChatGPT to Write the Elements of Your Cover Letter
+
+ Once you’ve submitted the job description, the next step is to ask for a cover letter. Instead of asking it to write one document, you can ask it to focus on each part of your cover letter to create a more focused one.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+### The Introductory Paragraph
+
+![Screenshot of introductory paragraph by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-introductory-paragraph-by-chatgpt.jpg)
+
+ The first paragraph is where you provide basic details about who you are and why you want the job. You can also give a general overview of why you’re the right candidate for the job and why the position excites you.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+### Your Qualifications
+
+![Screenshot of summary of qualifications by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-summary-of-qualifications-by-chatgpt.jpg)
+
+ The next part of your cover letter summarizes your experience and qualifications and how they apply to the job you’re applying for. This is where you can include stories about relevant projects or situations to give the hiring manager or recruiter some insight into how you work.
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Explain How You Align With the Company’s Values and Goals
+
+![Screenshot of aligning with values and goals of organization by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-aligning-with-values-and-goals-of-organization-by-chatgpt.jpg)
+
+ In this section of your cover letter, you want to illustrate that you understand the company’s mission and have done your research on the company. You want to focus on how your goals align with the organization’s, and you can also include positive factors you’ve heard about the company culture.
+
+### Close With a Call to Action
+
+![Screenshot of closing paragraph with call to action by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-closing-paragraph-with-call-to-action-by-chatgpt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+
+ Your closing paragraph should be where you recap your interest in the job and suggest the next steps for proceeding with your application. Thank the reader for reviewing your application and indicating your interest in discussing the position or scheduling an interview.
+
+ This is where you can focus on the talents and skills you hope to bring to the team. If you want to learn more about the platform’s capabilities and how to generate the proper prompts, you may be interested in learning [ways to learn how to write effective ChatGPT prompts for the best AI answers](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/ "5 Ways to Learn How to Write Effective ChatGPT Prompts for the Best AI Answers").
+
+## 5\. Proofread and Review the Generated Cover Letter
+
+![Image of a math mistake](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-of-a-math-mistake.jpg)
+
+ After the AI generates the different parts of your cover letter, you can put them together and read it out loud to see if it makes sense.
+
+ Use the content ChatGPT generates as the foundation of your cover letter. You can add elements that add a personal touch to the cover letter, giving the reader an idea about your personality.
+
+ The content generated by ChatGPT can help you create a cover letter focused on what the organization hiring you is looking for. It would be best to remember that the platform is available to everyone, and you’re probably not the only one using it to help them apply for the job.
+
+ This is why adding what makes you unique to the letter ChatGPT generates can be a vital part of using the platform for job applications and getting noticed. If you enjoy using the platform, you may be interested in learning about the [amazing ChatGPT Chrome extensions for better AI prompts and answers in browsers](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/ "6 Amazing ChatGPT Chrome Extensions for Better AI Prompts and Answers in Browsers").
+
+## Work Smarter, Not Harder With ChatGPT
+
+ Using ChatGPT can help you work more efficiently, increasing your productivity. You can use AI to generate documents as the foundation for any written content you’re working on.
+
+ Whether you’re looking for help writing a resume or cover letter, AI can help you quickly generate them. Using the content “as is” isn’t recommended, but making changes and corrections is more manageable than creating original content on your own and can help ensure that you touch on the key points the reader is looking for.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Access to a platform that can create a cohesive document can be a godsend to people who dislike writing. While ChatGPT can help you increase your efficiency, you still have to review the documents it generates to ensure your cover letter gets noticed.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-crafting-compelling-stories-unveiling-the-secrets-to-winning-facebook-bios/"><u>[New] Crafting Compelling Stories  Unveiling the Secrets to Winning Facebook Bios</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-conversational-dynamics-the-evolution-of-response-mechanisms/"><u>AI Conversational Dynamics: The Evolution of Response Mechanisms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-gpt-vs-bing-ai-and-googles-bard-battle/"><u>AI Showdown: GPT Vs. Bing AI & Google's Bard Battle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-creation-operational-companies-and-techniques/"><u>AI-Driven Content Creation: Operational Companies & Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-domestic-efficiency-chatgpts-role/"><u>AI-Driven Domestic Efficiency: ChatGPT's Role?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-your-well-being-unpacked-through-7-significant-points/"><u>AI's Role in Your Well-Being: Unpacked Through 7 Significant Points</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/altman-out-does-it-perturb-the-path-of-gpt/"><u>Altman Out - Does It Perturb the Path of GPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-deception-true-tales-of-tech-and-false-fakes/"><u>Avoid Deception: True Tales of Tech & False Fakes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-ai-communication-with-chatgpt-api/"><u>Bridging Human-AI Communication with ChatGPT API</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-potential-impact-on-cognitive-behavioral-therapy/"><u>ChatGPT's Potential Impact on Cognitive Behavioral Therapy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-safety-dissecting-cybersecurity-risks/"><u>ChatGPT's Safety: Dissecting Cybersecurity Risks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conquer-pokemon-unite-with-these-essential-gameplay-techniques/"><u>Conquer Pokémon Unite with These Essential Gameplay Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copyrights-journey-through-ai-landscapes/"><u>Copyright's Journey Through AI Landscapes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-ties-with-chatgpt-your-privacy-reset-guide/"><u>Cut Ties with ChatGPT: Your Privacy Reset Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-podcasting-garageband-edition/"><u>Cutting Edge Podcasting  GarageBand Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/developer-decisions-github-copilot-versus-chatgpt-prospects/"><u>Developer Decisions: GitHub Copilot Versus ChatGPT Prospects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/developing-in-the-era-of-intelligent-tech/"><u>Developing in the Era of Intelligent Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-have-weaknesses-to-exploit/"><u>Does ChatGPT Have Weaknesses to Exploit?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-web-excellence-using-gpt-powered-tactics/"><u>Elevate Web Excellence Using GPT-Powered Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-faults-the-six-no-goes-of-ai-chatting/"><u>Eliminating Faults: The Six No-Goes of AI Chatting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-user-experience-effortless-intuitive-conversation-via-chrome/"><u>Enhance User Experience: Effortless, Intuitive Conversation via Chrome</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enter-the-realm-of-ai-with-bing-sign-up-steps/"><u>Enter the Realm of AI with Bing: Sign Up Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fighting-algorithmic-infringement-artists-sue-openai-and-meta/"><u>Fighting Algorithmic Infringement: Artists Sue OpenAI and Meta</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-secret-arsenal-5-features-underutilized-by-most-users/"><u>GPT's Secret Arsenal: 5 Features Underutilized by Most Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-lava-blaze-2-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Lava Blaze 2 Pro Is Unlocked</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XS Max Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-reverse-color-saturation-quickly/"><u>How to Reverse Color Saturation Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-with-siri-on-your-iphone/"><u>How to Use ChatGPT With Siri on Your iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-google-photos-for-organized-memories/"><u>In 2024, Harnessing Google Photos for Organized Memories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-harnessing-skypes-voice-free-mp3-exclusive/"><u>In 2024, Harnessing Skype's Voice - Free MP3 Exclusive</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-simplified-approaches-to-insta-photovideo-resharing/"><u>In 2024, Simplified Approaches to Insta Photo/Video Resharing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovate-your-cooking-routine-using-these-7-chatgpt-strategies/"><u>Innovate Your Cooking Routine Using These 7 ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-gpt4alls-operational-framework/"><u>Inside GPT4All's Operational Framework</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instantaneous-itinerary-blueprints-the-finest-selection-of-7-budget-friendly-apps/"><u>Instantaneous Itinerary Blueprints – The Finest Selection of 7 Budget-Friendly Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-assistants-in-the-workplace-freelancers-choicebing-chat-or-chatgpt/"><u>Language Assistants in the Workplace: Freelancer's Choice—Bing Chat or ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-profits-a-guide-to-gpt-in-crypto-markets/"><u>Maximizing Profits: A Guide to GPT in Crypto Markets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-buys-blizzard-ai-art-and-translation-explored-podcast/"><u>Microsoft Buys Blizzard, AI Art and Translation Explored [Podcast]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-on-device-artificial-intelligence-mechanisms/"><u>Navigating On-Device Artificial Intelligence Mechanisms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-with-grok-ai-insights-from-elon-on-its-role-and-expense/"><u>New Era with Grok AI: Insights From Elon on Its Role & Expense</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ct-size-crafting-engaging-thumbnails-for-2024/"><u>Perfect Size  Crafting Engaging Thumbnails for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagined-search-bing-embraces-ai/"><u>Reimagined Search: Bing Embraces AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-tasks-with-auto-gpt/"><u>Revolutionize Tasks with Auto-GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-agents-ai-tools-for-web-users/"><u>Streamlining Agents: AI Tools for Web Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-talk-made-simple-29-essential-ai-phrases/"><u>Tech Talk Made Simple: 29 Essential AI Phrases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-invisible-hand-deciphering-chatgpts-language-algorithm/"><u>The Invisible Hand: Deciphering ChatGPT's Language Algorithm</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-blunders-in-harnessing-chatgpt-for-writing/"><u>Top 4 Blunders in Harnessing ChatGPT for Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-fraudgpts-ploy-personal-protection-strategies/"><u>Understanding FraudGPT's Ploy: Personal Protection Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-shift-from-chatgpt-to-claudio-3s-innovations/"><u>Understanding the Shift From ChatGPT to Claudio 3'S Innovations</u></a></li>
+</ul></div>

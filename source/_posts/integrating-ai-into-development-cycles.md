@@ -1,0 +1,180 @@
+---
+title: Integrating AI Into Development Cycles
+date: 2024-08-15T02:38:38.544Z
+updated: 2024-08-16T02:38:38.544Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Integrating AI Into Development Cycles
+excerpt: This Article Describes Integrating AI Into Development Cycles
+thumbnail: https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b818d2405502179fc7ce1c3d.jpg
+---
+
+## Integrating AI Into Development Cycles
+
+ The increasing popularity of AI is undeniable, but it raises the question of how significant and relevant AI is to a developer's workflow. To shed light on this topic, Stack Overflow surveyed over 90,000 developers, seeking their views on AI. The survey yielded several noteworthy conclusions, as shown below.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+## Overall Sentiments of Developers Towards AI
+
+ As mentioned, AI is growing in popularity among developers. According to the [Stack Overflow 2023 survey](https://survey.stackoverflow.co/2023/), 70% are already using or plan to use AI tools in their development process with 44% already using the tools now and 26% planning to.
+
+ The views on AI differ based on the profession and the level of experience of the developer.
+
+### Profession
+
+ SREs, security professionals, and game developers have unfavorable views on AI. This is possible because of security concerns brought about by feeding code or sensitive information to AI systems.
+
+ Developers focused on hardware, backend systems, or applications are less likely to be using AI tools. This is because the applications are too complex, and AI tools are not able to help them.
+
+ Frontend developers, data scientists, and cloud developers are among the developer who are more likely to use AI tools. For frontend developers and backend developers, AI tools can assist by providing code snippets or scripts for certain functions.
+
+ Data scientists can leverage AI to automate data processing, model optimizations, and feature selections.
+
+ For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+### Experience
+
+ Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
+
+ On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+### Countries
+
+ Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
+## What Are the Tasks Developers Are Using AI For?
+
+ Developers are using AI for different tasks and these tasks vary between developers learning to code and professional developers.
+
+ Developers learning to code are mostly using AI to learn about the code base and write code.
+
+ The survey revealed that 86% of professional developers are using AI tools to write code and 54% are using them to debug their code. They are also interested in using AI tools to test, commit and review code, deploy and monitor applications, and document code.
+
+ It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Benefits of AI for Developers
+
+![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
+
+ AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
+
+ Professional developers saw improved productivity (37.4%) as the main benefit with greater efficiency (27.9%) and speed of learning (27.4%) being secondary.
+
+ For developers learning to code, increased speed of learning (42.4%) and increased productivity (41.4%) are the main benefits of AI while greater efficiency (33.7%) when writing code is a secondary benefit.
+
+ Only a small percentage of developers see increased accuracy as a benefit to AI tools. Experienced professional developers are more skeptical as only 14.1% consider improved accuracy as a benefit of AI compared to 23.8% of those learning to code.
+
+ The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
+
+## Popular AI Tools That Developers Are Using in 2023
+
+![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
+
+ Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
+
+ Among the AI search tools, ChatGPT is the most popular tool. 79% of developers who use it want to use it again next year. Following closely behind in popularity were Bing AI and Google Bard AI.
+
+ Google has been vocal about Bard's coding abilities, but when [compared to ChatGPT, Bard still lags behind](https://www.makeuseof.com/chatgpt-google-bard-chatbot-coding-which-better/).
+
+ Some of the other AI search tools developers reported using are WolframAlpha, Phind, and You.com.
+
+ GitHub Copilot is the most popular AI coding assistant. 70% + respondents who worked with GitHub Copilot want to work with it again. Additionally, 59%+ of Tabnine users and 50% of AWS Code Whisperer users want to use GitHub Copilot.
+
+ This slow adoption of a wide variety of AI tools can be attributed to skepticism about AI accuracy with only 2.85% of developers highly trusting AI output. This distrust can be attributed to tools like ChatGPT providing incorrect output sometimes. This output, when used, can cause significant damage to an application. When using these tools, it's always a good idea to first verify the output.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Get Started With AI in Software Development
+
+ As a software developer, you can get started with AI by incorporating code generation and editing tools in your development process. [Tools like GitHub Copilot](https://www.makeuseof.com/how-github-copilot-helps-you-code/) and Tabnine suggest code snippets based on the context as you type which can significantly cut down on development time. Additionally, ChatGPT is very useful for generating utility functions, UI components, and debugging code. With the right prompts, you can even [use ChatGPT to create web apps](https://www.makeuseof.com/chatgpt-how-build-web-app/).
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## The Future of AI-Assisted Software Development
+
+ Although many developers agree AI is a beneficial tool in their workflow, only a few are ready to fully trust AI tools to code their entire application. However, AI is certainly changing how developers build applications. By leveraging AI tools, developers can streamline different stages of development including writing code, testing, debugging, and code review. As a result, they can significantly optimize the development life cycle.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-creative-stop-motion-cinema-top-15-selections/"><u>[New] Creative Stop-Motion Cinema - Top 15 Selections</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-free-to-paid-the-transition-to-youtubes-elite-service/"><u>[New] In 2024, From Free to Paid  The Transition to YouTube's Elite Service</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-instagram-to-tiktok-the-ultimate-connector-for-2024/"><u>[New] Instagram to TikTok  The Ultimate Connector for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-proven-strategies-for-flawless-xbox-video-capture/"><u>[Updated] 2024 Approved  Proven Strategies for Flawless Xbox Video Capture</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-androids-role-in-virtual-reality-content-consumption/"><u>2024 Approved  Android's Role in Virtual Reality Content Consumption</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-video-potential-with-expert-chroma-techniques/"><u>2024 Approved  Unlock Video Potential with Expert Chroma Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/art-of-ai-interaction-top-5-online-lessons/"><u>Art of AI Interaction: Top 5 Online Lessons</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/audiovisual-conjuring-apples-artistic-blend/"><u>Audiovisual Conjuring  Apple's Artistic Blend</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoidable-slip-ups-with-neural-networks/"><u>Avoidable Slip-Ups with Neural Networks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-huggingchat-which-is-better/"><u>ChatGPT Vs. HuggingChat: Which Is Better?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-analysis-updated-s3700-bd-player/"><u>Comprehensive Analysis  Updated S3700 BD Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-eus-digital-strategy-the-potential-impact-on-chatgpt-technology/"><u>Dissecting the EU's Digital Strategy: The Potential Impact on ChatGPT Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-communities-for-artificinas-intelligentis-prompts/"><u>Elite Communities for Artificinas Intelligentis Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-ai-setup-gpt-on-pc/"><u>Embracing AI: Setup GPT on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/families-and-the-world-of-generative-ai/"><u>Families and the World of Generative AI</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-wbk-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .wbk file</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-novice-to-expert-a-telegram-web-blueprint/"><u>From Novice to Expert  A Telegram Web Blueprint</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-enhance-tv-audiences-with-fb-live-content/"><u>How to Enhance TV Audiences with FB Live Content</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c12-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C12 phone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-m6-pro-4g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco M6 Pro 4G Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-there-a-cap-on-word-or-character-count-in-gpt-responses/"><u>Is There a Cap on Word or Character Count in GPT Responses?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jokesters-of-java-ai-and-its-quest-for-chuckles/"><u>Jokesters of Java: AI and Its Quest for Chuckles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-recovery-how-to-restore-typing-capabilities-pre-login-problem/"><u>Keyboard Recovery: How to Restore Typing Capabilities Pre-Login Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/machine-learning-or-magazines-which-forecasts-life-better/"><u>Machine Learning or Magazines: Which Forecasts Life Better?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-car-ai-troubleshooting-and-fixing-6-common-mishaps/"><u>Mastering Car AI: Troubleshooting & Fixing 6 Common Mishaps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpts-error-correction-top-6-strategies-for-success/"><u>Mastering GPT's Error Correction: Top 6 Strategies for Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-ai-terrain-openai-leaders-regulatory-vision/"><u>Navigating the AI Terrain: OpenAI Leader’s Regulatory Vision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-synthetic-prose-gptzero-as-a-guide/"><u>Navigating Through Synthetic Prose: GPTZero as a Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/next-gen-options-to-record-high-quality-gaming-footage/"><u>Next Gen Options to Record High-Quality Gaming Footage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-more-engaging-shut-down-gpt/"><u>No More Engaging? Shut Down GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfecting-chatgpts-style-essential-tips-for-authenticity/"><u>Perfecting ChatGPT's Style: Essential Tips for Authenticity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prevent-data-theft-by-ai-scrappers/"><u>Prevent Data Theft by AI Scrappers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagine-ai-the-9-top-reasons-for-chatgptplus-upgrade/"><u>Reimagine AI: The 9 Top Reasons for ChatGPT+ Upgrade</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speak-smart-how-to-use-the-advanced-rtx-ai-system/"><u>Speak Smart: How to Use the Advanced RTX AI System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-writing-with-hix-and-gpt-4/"><u>Streamline Writing with HIX and GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sync-your-speech-with-chatgpts-ai-response-system/"><u>Sync Your Speech with ChatGPT's AI Response System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-textual-adventures-with-chatgpt/"><u>The Art of Textual Adventures with ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-in-chatgpt-interaction/"><u>The Hidden Dangers in ChatGPT Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-power-and-potential-of-claude-2/"><u>The Power and Potential of Claude 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-reactivating-your-msi-mystic-light-for-windows-pcs/"><u>Troubleshooting Guide: Reactivating Your MSI Mystic Light for Windows PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-multifaceted-use-of-ai-in-our-lives/"><u>Unveiling the Multifaceted Use of AI in Our Lives</u></a></li>
+</ul></div>
