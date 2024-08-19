@@ -1,7 +1,7 @@
 ---
 title: "Resolving The Issue: Understanding & Improving Your HP Laptop’s Sluggishness"
-date: 2024-08-14 21:31:59
-updated: 2024-08-16 11:10:45
+date: 2024-08-18T09:47:40.473Z
+updated: 2024-08-19T09:47:40.473Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 To address this, follow these steps:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Manually update your drivers
 
 1. Identify your graphics card model by pressing the**Windows logo + R keys** simultaneously to open the Run box. Type**taskmgr** and hit Enter to open the Task Manager.
@@ -44,6 +47,9 @@ To address this, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/how-to-identify-your-graphics-card-model-1.png)
 3. Visit the official website of your GPU manufacturer and download the latest driver suitable for your specific GPU model.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/)  
 [AMD](https://www.amd.com/en/support)  
@@ -61,6 +67,9 @@ Below is the simple three-step guide:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will proceed to download and install the latest versions of all your outdated and missing device drivers directly from the device manufacturer.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 
  To access this feature, you’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy, which offers complete support and a 30-day money-back guarantee. If you choose to upgrade by clicking on ‘Update All,’ you’ll receive a prompt. However, if you prefer to stick with the FREE version, you can still update your drivers individually by downloading them one by one and manually installing them.  
 
@@ -68,6 +77,9 @@ Below is the simple three-step guide:
 
  Should you need any assistance, feel free to contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 2\. Ensure your system is optimized
 
  While various factors can contribute to these problems, one often overlooked aspect is the operating system itself. Many users might be running outdated Windows versions, which could significantly impact their game graphics and overall performance.
@@ -81,9 +93,16 @@ Below is the simple three-step guide:
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  button. Windows will then search for available updates. If there are any updates available, it’ll automatically start to download and install it. Simply wait for the process to complete. Then restart your device.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  After the reboot, relaunch your game and check your gaming performance. If your FPS still drops bafflingly, don’t fret! Below are some other methods you can try.
 
 ## 3\. Disable background applications
@@ -101,6 +120,9 @@ Below is the simple three-step guide:
 
 Then restart your game and test your gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Scan and repair your game files
 
  Game files may get corrupted or damaged over time due to reasons like improper installations, sudden system crashes, or file conflicts. Such issues can result in performance problems during gameplay, including FPS drops and stuttering. Scanning and repairing game files can detect and fix these corrupt or missing files, restoring the game to its original state and potentially resolving performance-related problems.
@@ -134,11 +156,20 @@ To use Windowed mode and turn off Vertical Sync, take these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-menu-options.png)
 3. Under the**GRAPHICS** section, select**Windowed (Fullscreen)** from the dropdown. Then scroll down and find**Vertical Syncb** . Make sure it’s off.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-adjust-in-game-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 After applying changes, relaunch your game and check if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Enable hardware-accelerated GPU scheduling
 
  Hardware-Accelerated GPU Scheduling is a feature introduced in Windows 10 version 2004 and later. It allows the GPU to manage its video memory directly. And that can reduce the burden on the CPU and potentially improve graphics performance in games and applications.
@@ -154,6 +185,9 @@ After applying changes, relaunch your game and check if it works.
 
 Restart your computer to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 7\. Repair missing or corrupted system files
 
  If all else fails, it’s suggested that you check if any of your system files are missing or corrupted.
@@ -176,6 +210,9 @@ Restart your computer to apply the changes.
 
  While the System File Checker (SFC) is a useful built-in tool for repairing missing or corrupted system files, there are situations where it may not be sufficient. If SFC fails to resolve the issues, seeking professional help or using reputable online tools could be considered. Here you can use **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , an award-winning and user-friendly software designed to streamline PC repair. It’s legit and comes in handy when you encounter any critical issues on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Automatically scan and repair your system files
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
@@ -204,3 +241,51 @@ Restart your computer to apply the changes.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-gain-cost-free-visuals-from-selective-4-youtube-feeds/"><u>[New] 2024 Approved  Gain Cost-Free Visuals From Selective 4 YouTube Feeds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-transforming-viewers-into-fans-a-guide-to-igtv-hash-tags/"><u>[New] 2024 Approved  Transforming Viewers Into Fans  A Guide to IGTV Hash Tags</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-how-to-start-a-channel-a-beginners-guide-to-reviewing-books-and-ebooks/"><u>[New] How To Start a Channel  A Beginner's Guide to Reviewing Books & Ebooks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mastering-zoom-establishing-a-top-tier-video-conferencing-space/"><u>[Updated] 2024 Approved  Mastering Zoom  Establishing a Top-Tier Video Conferencing Space</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-game-changing-growl-techniques-in-free-fire/"><u>2024 Approved  Game-Changing Growl Techniques in Free Fire</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-seven-finest-stardew-valley-customizations-unveiled/"><u>2024 Approved  The Seven Finest Stardew Valley Customizations Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-youtube-url-your-way-easy-personalization-steps/"><u>2024 Approved  Your YouTube URL, Your Way  Easy Personalization Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boldly-entering-the-fray-googles-bard-outpaces-gpt/"><u>Boldly Entering the Fray, Google's 'Bard' Outpaces GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-expertise-and-machine-learning-with-ai-in-3d-printing/"><u>Bridging Human Expertise & Machine Learning with AI in 3D Printing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-gpt-text-length-limits/"><u>Bypassing GPT Text Length Limits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-gpts-char-count-restrictions/"><u>Bypassing GPT's Char Count Restrictions</u></a></li>
+<li><a href="https://win11.techidaily.com/calm-down-your-zooming-mouse-with-7-fixes/"><u>Calm Down Your Zooming Mouse with 7 Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/colorizing-your-folders-in-macos-a-step-by-step-guide/"><u>Colorizing Your Folders in macOS – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-legends-integrating-machine-learning-for-dandd-characters/"><u>Crafting Legends: Integrating Machine Learning for D&D Characters</u></a></li>
+<li><a href="https://windows11.techidaily.com/disable-auto-updates-in-windows-and-office-instantly/"><u>Disable Auto-Updates in Windows & Office Instantly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-threat-prompt-injection-attacks-defined/"><u>Dissecting AI Threat - Prompt Injection Attacks Defined</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diving-into-digital-dialogue-myai-vs-openais-intelligence/"><u>Diving Into Digital Dialogue: MyAI vs OpenAI's Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-creativity-with-gpt-4-and-the-power-of-dall-e/"><u>Enhancing Creativity with GPT-4 and the Power of DALL-E</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exiting-the-chatgpt-realm-top-alternatives/"><u>Exiting the ChatGPT Realm: Top Alternatives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-weak-points-demystifying-the-mechanism-behind-prompt-injection-attacks/"><u>Exploring AI Weak Points: Demystifying the Mechanism Behind Prompt Injection Attacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-dialogue-to-device-how-chatgpt-enhances-timepiece-tech/"><u>From Dialogue to Device: How ChatGPT Enhances Timepiece Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-gpt-excellence-free-enhanced-copilot-experience/"><u>Harness the Power of GPT-eXcellence: Free, Enhanced Copilot Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-8-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 8</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-y77t-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo Y77t to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-a70-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel A70 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-evolution-future-enhancements-in-gpt-5/"><u>Intelligent Evolution: Future Enhancements in GPT-5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-content-pure-openais-tool-to-verify-authenticity/"><u>Keeping Content Pure: OpenAI's Tool to Verify Authenticity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-quick-fix-ending-overwatchs-troublesome-launch-blackout-issue/"><u>Master the Quick Fix: Ending Overwatch's Troublesome Launch Blackout Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-techniques-7-proven-ai-tools/"><u>Masterful Techniques: 7 Proven AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-conversational-support-merging-gpt-with-whatsapp/"><u>Mastering Conversational Support: Merging GPT with WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-macs-efficiency-introducing-microsoft-copilot/"><u>Maximize Your Mac's Efficiency: Introducing Microsoft Copilot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-global-chatgpt-anywhere-connectivity/"><u>Navigating Global ChatGPT: Anywhere Connectivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfecting-dialogues-advanced-strategies-for-chatgpt/"><u>Perfecting Dialogues: Advanced Strategies for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-the-new-age-of-artistic-expression-via-copilot-imagery-suite/"><u>Pioneering the New Age of Artistic Expression via Copilot Imagery Suite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/productivity-unlocked-4-revolutionary-uses-of-chatgpt-for-timing/"><u>Productivity Unlocked: 4 Revolutionary Uses of ChatGPT for Timing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-the-learning-process-best-student-driven-uses-for-chatgpt/"><u>Revolutionizing the Learning Process: Best Student-Driven Uses for ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamlessly-update-wireless-network-adapters-in-windows-11-vs-windows-e-a-comprehensive-guide/"><u>Seamlessly Update Wireless Network Adapters in Windows 11 vs Windows E: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-and-simplify-a-user-friendly-approach-to-shorts-thumbnails-for-2024/"><u>Streamline & Simplify  A User-Friendly Approach to Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-game-changing-pact-blizzards-new-era-at-microsoft-with-ai-art-and-translation-insights-podcast-analysis/"><u>The Game-Changing Pact: Blizzard's New Era at Microsoft with AI Art & Translation Insights [Podcast Analysis]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ais-involvement-in-cyber-threats/"><u>Understanding AI's Involvement in Cyber Threats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-to-next-gen-search-perplexity-ai-unveiled/"><u>Upgrade to Next-Gen Search: Perplexity AI Unveiled</u></a></li>
+</ul></div>

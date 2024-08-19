@@ -1,7 +1,7 @@
 ---
 title: ASUS Laptop Touchpad Issues? Solve Problems in Windows 11 & 10 with These Fixes
-date: 2024-08-13 14:27:49
-updated: 2024-08-16 12:52:30
+date: 2024-08-18T09:51:07.819Z
+updated: 2024-08-19T09:51:07.819Z
 tags:
   - win11
   - win10
@@ -58,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
  Be sure to check your computer monitor. If your computer seems to power on but your screen stays black, ensure your monitor is powered on and that the cable connecting it to your computer’s case is plugged in securely at both ends.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Step 2: Remove External Devices
 
  1) Remove or disconnect all unnecessary discs and devices from the computer. Make sure that the computer is**off** , and then remove any discs and USB devices and the memory cards from the card reader slot. Disconnect non-essential devices such as camera, MP3-playersprinters, scanners, external hard drives etc., and leave**mouse** ,**keyboard** and**monitor** connected.
@@ -82,10 +85,16 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/please-wait-in-windows-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
  4) When the following page shows, tab or click**See advanced repair options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/recovery-it-looks-like-windows-didnt-load-correctly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  5) Choose**Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
@@ -94,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  7) Follow the on-screen instructions to continue with the system repair.
 
  8) Your computer will reboot automatically if the repair goes well. And you should be able to see the login screen when the self-repair finishes.
@@ -106,12 +118,19 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
 **NOTE** : If you have not created a restore point, or that you didn’t manually turn on the system restore point feature in Windows 10, you might see this instead:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e35e350ad6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
  In such case, you may need to use a recovery disc or a USB drive to boot, provided that you manage to get the installation files for Windows 10 from other sources.
 
 ## Step 5: Run disk check
@@ -122,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e39f67a517.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 2) In the Command Prompt window, type
 
 chkdsk c: /r /x
@@ -134,6 +157,9 @@ chkdsk c: /r /x
 
  Your PC should be able to boot now. If not, you may need to consider do a system reset or refresh.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Step 6: Refresh or Rest your computer
 
 A **refresh**  on Windows 10 will help you reinstall Windows 10\. However, it will **remove**  the applications and drivers that you have installed and your personal settings will be changed back to default as well. It will also remove applications from your computer manufacturer but the apps you installed from the Windows store will remain.
@@ -148,6 +174,9 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Press the **Reset**  button to confirm the reset process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
@@ -176,3 +205,75 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discover-10-swift-growing-youtube-sources-for-inspiration/"><u>[New] 2024 Approved  Discover 10 Swift-Growing YouTube Sources for Inspiration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-earning-predictors-for-2024/"><u>[New] Free YouTube Earning Predictors for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-techniques-for-ps3-gameplay-screencasts/"><u>[New] In 2024, Essential Techniques for PS3 Gameplay Screencasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-making-an-informed-decision-on-itops-utility/"><u>[New] Making an Informed Decision on ITop's Utility?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-15-strategies-to-supercharge-your-learning-with-podcasts/"><u>[Updated] 15 Strategies to Supercharge Your Learning with Podcasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-iphone-hacks-seamless-video-repetition/"><u>[Updated] 2024 Approved  IPhone Hacks  Seamless Video Repetition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-zippyzoom-pauseframe-playback/"><u>[Updated] 2024 Approved  ZippyZoom PauseFrame Playback</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-avatar-asymmetry-artistry-designing-your-animated-look/"><u>[Updated] Avatar Asymmetry Artistry  Designing Your Animated Look</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-broadcasting-wisdom-share-screen-seamlessly-on-fb-live-for-2024/"><u>[Updated] Broadcasting Wisdom  Share Screen Seamlessly on FB Live for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-experts-choice-top-10-high-definition-screen-recorders-for-2024/"><u>[Updated] Expert's Choice  Top 10 High-Definition Screen Recorders for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-perfect-bgms-and-images-elevating-remote-conferencing-for-2024/"><u>[Updated] Perfect BGMs & Images  Elevating Remote Conferencing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-quickest-method-to-construct-google-image-mosaics/"><u>[Updated] Unveiling the Quickest Method to Construct Google Image Mosaics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigate-meeting-arrangements-with-zoom-ease/"><u>2024 Approved  Navigate Meeting Arrangements with Zoom Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-two-keys-to-intriguing-tiktok-videos/"><u>2024 Approved  Two Keys to Intriguing TikTok Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-healthcare-how-can-chatgpt-innovate/"><u>AI and Healthcare: How Can ChatGPT Innovate?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-dictionary-at-a-glance-29-core-terms-unpacked/"><u>AI Dictionary at a Glance: 29 Core Terms Unpacked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-textual-journey-from-generation-to-corporate-application/"><u>AI's Textual Journey: From Generation to Corporate Application</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-chatgpt-as-a-threat-to-user-confidentiality/"><u>Assessing ChatGPT as a Threat to User Confidentiality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-artificial-intelligence-systems-enhancing-web-search/"><u>Best Artificial Intelligence Systems Enhancing Web Search</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-code-deciphering-gptbots-influence-on-internet-flow/"><u>Beyond Code: Deciphering GPTBot's Influence on Internet Flow</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-ai-refine-written-expressions/"><u>Can AI Refine Written Expressions?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-api-unveiled-a-step-by-step-guide/"><u>ChatGPT API Unveiled: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-enhancement-installation-of-plugins-step-by-step/"><u>ChatGPT Enhancement: Installation of Plugins Step by Step</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/computational-algebra-gpts-role/"><u>Computational Algebra: GPT's Role</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/countering-phishing-in-fake-chatgpt-websites/"><u>Countering Phishing in Fake ChatGPT Websites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-5-next-gen-ai-counselors-alleviating-stress/"><u>Discover 5 Next-Gen AI Counselors Alleviating Stress</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-gpts-preloaded-components/"><u>Discovering GPT's Preloaded Components</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowered-by-poe-to-tap-into-ai-botsllms/"><u>Empowered by PoE to Tap Into AI Bots/LLMs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-privacy-chatgpt-and-vpn-synergy/"><u>Enhancing Privacy: ChatGPT and VPN Synergy?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fact-checking-your-way-through-ai-wellness-advice/"><u>Fact-Checking Your Way Through AI Wellness Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-concept-to-screenplay-chatgpt-for-youtube-videos/"><u>From Concept to Screenplay: ChatGPT for YouTube Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grok-ai-revelations-understanding-its-significance-and-financial-implications-by-musk/"><u>Grok AI Revelations: Understanding Its Significance & Financial Implications by Musk</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-enhanced-learning-and-engagement/"><u>Harnessing ChatGPT for Enhanced Learning and Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/has-openais-command-over-chatgpt-waned/"><u>Has OpenAI's Command Over ChatGPT Waned?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-non-functional-laptop-touchpad-in-various-windows-versions-windows-1187/"><u>How to Repair a Non-Functional Laptop Touchpad in Various Windows Versions (Windows 11/8/7)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-funny-graphics-share-on-giphy-platform/"><u>In 2024, Innovate Funny Graphics, Share on Giphy Platform</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-podcast-cover-design-ten-essential-best-practices/"><u>In 2024, Podcast Cover Design  Ten Essential Best Practices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-secrets-to-pull-out-parts-from-any-youtube-clip/"><u>In 2024, Secrets to Pull Out Parts From Any YouTube Clip</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-steps-to-initiate-and-join-an-android-based-zoom-meeting/"><u>In 2024, Steps to Initiate and Join an Android-Based Zoom Meeting</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unlocking-tiktoks-secrets-to-skyrocketing-engagement/"><u>In 2024, Unlocking TikTok's Secrets to Skyrocketing Engagement</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-survival-with-gpt-powered-expedition-talks/"><u>Innovating Survival with GPT-Powered Expedition Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intellectual-ownership-of-machine-learning-outputs/"><u>Intellectual Ownership of Machine Learning Outputs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-of-communication-choose-gemini-or-plus-chatgpt/"><u>Master of Communication: Choose Gemini or Plus-ChatGPT</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-lecture-capture-a-comprehensible-methodology-for-mac-users-for-2024/"><u>Mastering Lecture Capture  A Comprehensible Methodology for Mac Users for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mimicry-ai-extension-hijacks-social-network-credentials/"><u>Mimicry AI Extension: Hijacks Social Network Credentials</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-video-translator-app-for-pc-cannot-miss/"><u>New 2024 Approved Best Video Translator App for PC Cannot Miss</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-defends-chatgpt-against-flailing-accusations/"><u>OpenAI Defends ChatGPT Against Flailing Accusations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-your-windows-10-stuck-update-dilemma-today/"><u>Overcome Your Windows 10 Stuck Update Dilemma Today!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneering-3d-design-avoiding-common-pitfalls-in-illustrator-for-2024/"><u>Pioneering 3D Design  Avoiding Common Pitfalls in Illustrator for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pivot-your-passions-learning-designing-through-gpt-my-bots-mastery/"><u>Pivot Your Passions: Learning, Designing Through GPT-My Bots Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/practical-gpt-techniques-unveiled/"><u>Practical GPT Techniques Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precision-in-conversations-6-things-not-to-do-with-gpt/"><u>Precision in Conversations: 6 Things Not To Do with GPT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-6-engagement-realms-critical-for-corporate-networks/"><u>Prime 6 Engagement Realms Critical for Corporate Networks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-tips-how-to-nullify-chatgpts-recording-function/"><u>Privacy Tips: How to Nullify ChatGPT's Recording Function</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revealing-the-concealed-logic-in-ai-black-boxes/"><u>Revealing the Concealed Logic in AI Black Boxes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sound-engineering-simplified-gradual-diminishment-in-lumafusion/"><u>Sound Engineering Simplified  Gradual Diminishment in Lumafusion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-intelligent-search-with-bing-quick-registration/"><u>Step Into Intelligent Search with Bing: Quick Registration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-icons-predicting-ais-impact-worldwide/"><u>Tech Icons Predicting AI’s Impact Worldwide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-commoners-choice-claudio-or-generative-pre-trained/"><u>The Commoner's Choice: Claudio or Generative Pre-Trained?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-tale-of-two-tech-titans-snapchats-myai-and-openais-gpt/"><u>The Tale of Two Tech Titans: Snapchat's MyAI & OpenAI’s GPT</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-redmi-13c-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi Redmi 13C Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unnoticed-online-players-handbook/"><u>The Unnoticed Online Player's Handbook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-8-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 8 Making It Possible</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-your-creativity-with-microsofts-ai-imagery-builder/"><u>Unleashing Your Creativity with Microsoft's AI Imagery Builder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-the-latest-in-machine-learning-gpt-4-vs-gpt-35/"><u>Unmasking the Latest in Machine Learning: GPT-4 Vs. GPT-3.5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-process-of-ai-prompt-hijacking/"><u>Unraveling the Process of AI Prompt Hijacking</u></a></li>
+</ul></div>

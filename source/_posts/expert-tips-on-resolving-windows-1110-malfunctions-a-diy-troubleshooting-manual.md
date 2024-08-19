@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips on Resolving Windows 11/10 Malfunctions: A DIY Troubleshooting Manual"
-date: 2024-08-15 20:18:54
-updated: 2024-08-16 10:32:11
+date: 2024-08-18T09:47:25.190Z
+updated: 2024-08-19T09:47:25.190Z
 tags:
   - win11
   - win10
@@ -50,6 +50,9 @@ To address this, follow these steps:
 [Intel](http://downloadcenter.intel.com/)
 4. Install the new driver and restart your computer to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Automatically update your drivers
 
  If you do not have the time or patience to update your drivers manually or you think it is error-prone, you can utilize an**automatic driver updater** – **[Drive Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you automatically identify any missing or outdated driver, and install the most updated one, direct from the manufacturers. With Driver Easy, having driver updates is just a matter of a few mouse clicks.
@@ -81,9 +84,15 @@ Below is the simple three-step guide:
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  button. Windows will then search for available updates. If there are any updates available, it’ll automatically start to download and install it. Simply wait for the process to complete. Then restart your device.  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After the reboot, relaunch your game and check your gaming performance. If your FPS still drops bafflingly, don’t fret! Below are some other methods you can try.
 
 ## 3\. Disable background applications
@@ -95,12 +104,18 @@ Below is the simple three-step guide:
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Click on the**Processes** tab. Observe the**CPU** and**GPU** columns to identify any processes consuming a significant amount of resources.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/close-unnecessary-processes-1.png)
 4. Right-click the applications you want to close and select**End task** .
 
 Then restart your game and test your gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 4\. Scan and repair your game files
 
  Game files may get corrupted or damaged over time due to reasons like improper installations, sudden system crashes, or file conflicts. Such issues can result in performance problems during gameplay, including FPS drops and stuttering. Scanning and repairing game files can detect and fix these corrupt or missing files, restoring the game to its original state and potentially resolving performance-related problems.
@@ -117,6 +132,9 @@ Then restart your game and test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-scan-and-repair-game-files-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If your issues persist, proceed to the next fix.
 
 ## 5\. Adjust your in-game settings
@@ -149,11 +167,20 @@ After applying changes, relaunch your game and check if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings-1.jpg)
 2. Toggle on**Hardware-accelerated GPU scheduling** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Restart your computer to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## 7\. Repair missing or corrupted system files
 
  If all else fails, it’s suggested that you check if any of your system files are missing or corrupted.
@@ -162,6 +189,10 @@ Restart your computer to apply the changes.
 
  In such a case, should repair missing or corrupted system files. You can do this using the built-in Windows utility called**System File Checker (SFC)** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Run the System File Checker
 
 1. On your keyboard, press the**Windows logo key** . Type**cmd** in the search bar. Then right-click on**Command Prompt** from the search results and select**Run as administrator** .  
@@ -171,6 +202,18 @@ Restart your computer to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sfc-scannow.jpg)
 3. The scanning process may take some time, so be patient and let it complete.
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Once the scan is finished, the Command Prompt will display the results. If any issues are found, the tool will attempt to repair the corrupted files automatically.
 5. After the repair process is complete, restart your computer to apply the changes.
 
@@ -184,6 +227,9 @@ Restart your computer to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You’ll need to have the premium package for unlimited automatic repairs. Should you require any assistance, feel free to contact the support team.
 
 ---
@@ -204,3 +250,48 @@ Restart your computer to apply the changes.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-behind-the-scenes-creating-successful-youtube-shorts-videos/"><u>[New] 2024 Approved  Behind the Scenes  Creating Successful YouTube Shorts Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-complete-visual-storytellers-guide-to-vsco-app/"><u>[New] 2024 Approved  Complete Visual Storyteller's Guide to VSCO App</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-integrating-snaps-smoothly-into-your-zoom-schedule/"><u>[New] 2024 Approved  Integrating Snaps Smoothly Into Your Zoom Schedule</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-your-media-with-vlcs-secret-features/"><u>[New] Mastering Your Media with VLC's Secret Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-premier-silent-sound-converters-for-2024/"><u>[New] Premier Silent Sound Converters for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonize-visual-and-auditory-elements-adding-filters-and-sound-to-windows-photos-app/"><u>2024 Approved  Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-creation-mastering-social-media-posts/"><u>AI-Driven Content Creation: Mastering Social Media Posts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/avoiding-common-errors-perfect-tripod-usage-in-video-production-for-2024/"><u>Avoiding Common Errors  Perfect Tripod Usage in Video Production for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-a-reliable-source-for-wellbeayer-info/"><u>ChatGPT as a Reliable Source for Wellbeayer Info</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-screen-time-with-ai-support/"><u>Crafting Personalized Screen Time with AI Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-winning-cover-letters-using-chatgpt-techniques/"><u>Crafting Winning Cover Letters Using ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-gpts-influence-on-cybercriminal-activities/"><u>Dissecting GPT's Influence on Cybercriminal Activities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/distinguished-choices-top-iphone-sound-artisans/"><u>Distinguished Choices  Top iPhone Sound Artisans</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-error-barriers-between-chatgpt-and-third-party-services/"><u>Eliminating Error Barriers Between ChatGPT & Third-Party Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-peer-relationships-with-assisted-conversation-tools/"><u>Enhancing Peer Relationships with Assisted Conversation Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-advice-getting-rid-of-stickers-on-videos-for-2024/"><u>Expert Advice  Getting Rid of Stickers on Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-vs-bert-dissecting-modern-nlp-giants-distinctions/"><u>GPT vs BERT: Dissecting Modern NLP Giants' Distinctions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-driven-strategies-for-effortless-home-life/"><u>GPT-Driven Strategies for Effortless Home Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-ai-chatbots-learn-to-communicate-like-us/"><u>How AI Chatbots Learn to Communicate Like Us</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-properly-download-and-set-up-a-mouse-driver-for-your-windows-7-system/"><u>How to Properly Download and Set Up a Mouse Driver for Your Windows 7 System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-express-humor-no-charge-with-easymeme-tools/"><u>In 2024, Express Humor, No Charge with EasyMeme Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-sonic-connector-a-casters-companion/"><u>In 2024, Seamless Sonic Connector  A Caster's Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-mechanics-of-7-apps-boosted-by-gpt-4-technology/"><u>Inside Mechanics of 7 Apps Boosted by GPT-4 Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-collaboration-chatgpt-in-google-workspace/"><u>Intelligent Collaboration: ChatGPT in Google Workspace</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-f54-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy F54 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-ai-to-transform-how-you-handle-pdfs-quickly/"><u>Leverage AI to Transform How You Handle PDFs Quickly</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-advanced-audio-synchronization-a-step-by-step-guide-to-keyframe-adjustments-in-final-cut-pro-x/"><u>New Advanced Audio Synchronization A Step-by-Step Guide to Keyframe Adjustments in Final Cut Pro X</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-tech-woes-chatgpts-repair-manual/"><u>Optimizing Tech Woes - ChatGPT's Repair Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-domestic-functionality-with-chatgpt-innovations/"><u>Reimagining Domestic Functionality with ChatGPT Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/remedy-for-exceeded-chatgpt-limit-error-win/"><u>Remedy for Exceeded ChatGPT Limit Error (Win)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/revenue-riches-masterful-methods-for-monetizing-on-mobile-youtube-for-2024/"><u>Revenue Riches  Masterful Methods for Monetizing on Mobile YouTube for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-switch-between-languages-with-the-power-of-chatgpt/"><u>Seamlessly Switch Between Languages with the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-ai-conversations-chromes-gpt-assistant-extension/"><u>Simplify AI Conversations: Chrome's GPT Assistant Extension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/talk-titans-duo-comparing-gpt-and-bings-virtual-voices/"><u>Talk Titans Duo: Comparing GPT & Bing's Virtual Voices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-accuracy-debate-chatgpt-or-lies/"><u>The Accuracy Debate: ChatGPT or Lies?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-waiting-game-why-is-chatgpt-4-lagging/"><u>The Waiting Game: Why Is ChatGPT-4 Lagging?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-smarter-ways-to-approach-writing-tasks/"><u>Top 8 Smarter Ways to Approach Writing Tasks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/twitch-facebook-synergy-broadcasting-tips-for-2024/"><u>Twitch-Facebook Synergy  Broadcasting Tips for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-claude-3-and-what-can-you-do-with-it/"><u>What Is Claude 3 and What Can You Do With It?</u></a></li>
+</ul></div>

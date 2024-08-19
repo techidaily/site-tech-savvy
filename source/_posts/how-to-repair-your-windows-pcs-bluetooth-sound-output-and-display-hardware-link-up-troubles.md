@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Windows PC's Bluetooth Sound Output and Display Hardware Link-Up Troubles
-date: 2024-08-13 21:23:55
-updated: 2024-08-16 12:24:46
+date: 2024-08-18T09:44:45.778Z
+updated: 2024-08-19T09:44:45.778Z
 tags:
   - win11
   - win10
@@ -68,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 
  When the process is finished, perform a Windows update again to see if it still takes much longer than usual. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  **Outdated or corrupted drivers on your PC can also trigger this issue** . For example, if your network driver is outdated or corrupted, it may slow down your download speed, so Windows updates may take much longer than before. To fix this issue, you need to update your drivers.
@@ -96,10 +99,16 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Reset Windows Update components
 
  This issue may occur if there’s something wrong with Windows Update components. If Windows Update components are corrupted, Windows Update may not work properly. In this case, try resetting Windows Update components. Here is how to do it:
@@ -153,6 +162,9 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /CheckHealth**
@@ -175,6 +187,9 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Run System File Checker
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. If Windows update takes so long to complete, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -183,18 +198,27 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000138.png)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) On your keyboard, type the following command and press**Enter** .
 
 **sfc /scannow**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 It may take some time for the command operation to be completed.
 
  3) When this command operation is completed, close**Command Prompt** .
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of Windows operating system. If None of the fixes above works for you, you can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually. Here is how to do it:
@@ -211,6 +235,9 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap471.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
  ii. Type the command line**systeminfo** and press **Enter** to view your system type.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472.png)
@@ -223,6 +250,9 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) In the list of search results, select the correct update for your operating system and click**Download** .
 
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
@@ -255,3 +285,48 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-elevate-your-iphone-x-experience-with-pro-animoji-use/"><u>[New] 2024 Approved  Elevate Your iPhone X Experience with Pro Animoji Use</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-exclusive-recording-gadgets-for-windows-10-gamers/"><u>[New] Exclusive Recording Gadgets for Windows 10 Gamers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-harmonic-highlights-the-right-song-for-your-ig-video-for-2024/"><u>[New] Harmonic Highlights  The Right Song for Your IG Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-views-into-cash-through-ads/"><u>[New] In 2024, How to Convert YouTube Views Into Cash Through Ads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leveraging-tags-boost-engagement-and-traffic-for-videos/"><u>[New] Leveraging Tags  Boost Engagement and Traffic for Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tep-by-step-process-to-embrace-cc-copyrights-for-2024/"><u>[New] Step-by-Step Process to Embrace CC Copyrights for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-architects-of-unique-virtual-environments/"><u>[Updated] 2024 Approved  Architects of Unique Virtual Environments</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-the-nuances-of-audio-overlap-crossfade/"><u>[Updated] Exploring the Nuances of Audio Overlap (Crossfade)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-journey-to-digital-reach-the-complete-process-of-starting-a-youtube-channel/"><u>[Updated] Journey to Digital Reach  The Complete Process of Starting a YouTube Channel</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-launch-checklist-essential-tasks-for-bringing-your-review-channel-to-life/"><u>2024 Approved  Quick Launch Checklist  Essential Tasks for Bringing Your Review Channel to Life</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-gt-neo-5-se-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme GT Neo 5 SE FRP</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/8-best-facebook-scheduler-to-improve-efficiency-for-2024/"><u>8 Best Facebook Scheduler to Improve Efficiency for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-common-blunders-for-successful-ai-discussions/"><u>Avoiding Common Blunders for Successful AI Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/blind-trust-vs-critical-assessment-why-the-balance-matters/"><u>Blind Trust Vs. Critical Assessment: Why the Balance Matters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenging-ai-the-case-for-altering-chatgpt/"><u>Challenging AI: The Case for Altering ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-a-toolkit-for-fluency-in-new-languages/"><u>ChatGPT Plus: A Toolkit for Fluency in New Languages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-beyond-standard-interactions-with-custom-instructions/"><u>ChatGPT: Beyond Standard Interactions with Custom Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatxt-influence-on-modern-media-production/"><u>ChaTxt Influence on Modern Media Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-instructions-like-a-pro-discover-the-top-7-online-aids/"><u>Craft Instructions Like a Pro: Discover the Top 7 Online Aids</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/cutting-edge-8-streaming-selectors/"><u>Cutting-Edge 8 Streaming Selectors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-why-snapchats-my-ai-is-revolutionary/"><u>Discovering Why Snapchat's My AI Is Revolutionary</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-deceptions-how-to-differentiate-real-data-from-artifico/"><u>Dissecting Deceptions: How to Differentiate Real Data From Artifico</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-impose-text-limits-for-users/"><u>Does ChatGPT Impose Text Limits for Users?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-efficiency-by-ditching-these-6-chatgpt-apps/"><u>Enhance Efficiency by Ditching These 6 ChatGPT Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/establish-an-affordable-windows-gpt-imitation-with-gpt4all/"><u>Establish an Affordable Windows GPT Imitation with GPT4All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-smooth-out-gpts-body-stream-glitches/"><u>How to Smooth Out GPT's Body Stream Glitches</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-embrace-digital-convenience-top-30-free-high-capacity-cloud-storage-choices-1tbplus/"><u>In 2024, Embrace Digital Convenience  Top 30 Free, High-Capacity Cloud Storage Choices (1TB+)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-nokia-g22-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Nokia G22 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-4-into-chatgpt-for-instant-results/"><u>Integrating GPT-4 Into ChatGPT for Instant Results</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mass-movement-mastery-the-drone-top-list/"><u>Mass Movement Mastery  The Drone Top List</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-free-whiteboard-animation-software-for-windows-and-mac-top-10-picks-for-2024/"><u>New Free Whiteboard Animation Software for Windows and Mac Top 10 Picks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-internet-ais-role-in-content-curation/"><u>Next-Gen Internet: AI's Role in Content Curation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-screen-choices-through-chatgpt-tips/"><u>Seamless Screen Choices Through ChatGPT Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-y36-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo Y36 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-generative-genius-quest-who-outperforms-notion-or-gpt-3/"><u>The Generative Genius Quest: Who Outperforms - Notion or GPT-3?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-flaws-in-machine-conversations-gpts-eight-key-problems/"><u>The Hidden Flaws in Machine Conversations: GPT's Eight Key Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quest-for-a-responsible-ai-framework/"><u>The Quest for a Responsible AI Framework</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-claude-3-4-significant-differences/"><u>Unlocking Potential with Claude 3: 4 Significant Differences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vacation-internet-tips-maximize-your-experience/"><u>Vacation Internet Tips: Maximize Your Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionary-leap-in-ai-gpt-4-rollout-by-openai/"><u>Visionary Leap in AI: GPT-4 Rollout by OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-ai-doesnt-respond-to-unauthorized-tweaks/"><u>Why AI Doesn't Respond to Unauthorized Tweaks</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Beyond Light FPS Drops"
-date: 2024-08-13 23:25:53
-updated: 2024-08-16 11:50:28
+date: 2024-08-18T09:47:42.653Z
+updated: 2024-08-19T09:47:42.653Z
 tags:
   - win11
   - win10
@@ -66,6 +66,9 @@ Here’s how:
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [**automatically**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1: Manually update your audio driver
 
  You can update your audio driver manually via Device Manager or go to your device’s manufacturer’s official website to download and install the correct driver for your system.
@@ -84,6 +87,9 @@ Here’s how it works:
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -95,6 +101,9 @@ Here’s how it works:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 3: Verify your game files
 
  If updating the audio driver didn’t help you solve the issue, it could be that your game files are corrupted. This would happen either on an update installation for Fortnite or even just when changing your rendering mode. So to ensure this isn’t the case, you should verify your game files.
@@ -109,6 +118,9 @@ Here’s how it works:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Disable fullscreen optimizations & high DPI scaling
 
  Fullscreen optimization is a Windows 10 feature designed to improve your PCs performance during gaming sessions. But there are certain games that are particularly affected by low FPS issues when players enable fullscreen optimizations. And when this feature is enabled, you may encounter other issues including the delayed audio or audio cutting out. To fix it, you should disable it.
@@ -123,6 +135,9 @@ Here’s how it works:
   
 ![disable fullscreen optimizations Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/check-disable-fullscreen-optimizations.png)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Check the option**Override high DPI scaling behavior** and then click**OK** .  
   
 ![disable high DPI scaling Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-high-DPI-scaling-behaviro.png)
@@ -135,8 +150,16 @@ Here’s how it works:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/do-the-same-with-these-applications.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Fix 5: Set priority to normal
 
  To fix the audio issues in the game, you need to ensure that Fortnite is running at a normal priority. If you set the priority to high, your game would probably be stuttering and it can induce audio dropouts. To make sure that’s not your case, take these steps:
@@ -151,10 +174,16 @@ Here’s how it works:
   
 ![set priority to high Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/set-priority-to-high.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  4) You’ll be directed to the**Details** tab and**FortniteClient-Win64** is highlighted. Right-click it and select**Set priority > Normal** .  
   
 ![set priority to normal Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/set-priority-to-normal.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Once you’ve done these, launch your game and test if this stops the delayed audio and the audio cutouts.
 
 ---
@@ -167,6 +196,9 @@ Here’s how it works:
 
 ![Fortnite Support A Creator](https://images.drivereasy.com/wp-content/uploads/2021/05/Fortnite-Support-A-Creator-1200x675.png)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Type or paste **`DRIVEREASY`**  into the dialogue box and then click**ACCEPT** .  
  That’s it! Your support is much appreciated!
 
@@ -186,3 +218,39 @@ Here’s how it works:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dive-into-gaming-how-to-build-and-prosper-on-youtube/"><u>[New] 2024 Approved  Dive Into Gaming  How to Build and Prosper on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-compelling-choices-macs-excellent-snipping-tools-for-2024/"><u>[New] Compelling Choices  Mac's Excellent Snipping Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamlining-screen-recording-with-nvidia/"><u>[New] In 2024, Streamlining Screen Recording with NVIDIA</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-guide-to-instagrams-gold-standard-six-tactics-to-attract-more-followers/"><u>[New] In 2024, The Ultimate Guide to Instagram's Gold Standard  Six Tactics to Attract More Followers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-soundscaping-stories-musical-elements-in-reels/"><u>[New] Soundscaping Stories  Musical Elements in Reels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-conclusion-mastery-customized-screens-in-focus/"><u>[Updated] 2024 Approved  Channel Conclusion Mastery  Customized Screens in Focus</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-add-transitions-on-inshot-app/"><u>[Updated] 2024 Approved  How to Add Transitions on Inshot App?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-guide-to-capturing-vr-gaming-sessions/"><u>[Updated] In 2024, Essential Guide to Capturing VR Gaming Sessions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-advice-getting-rid-of-stickers-on-videos/"><u>2024 Approved  Expert Advice  Getting Rid of Stickers on Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-governance-oversight-organizations/"><u>AI Governance: Oversight Organizations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-common-blunders-for-successful-ai-discussions/"><u>Avoiding Common Blunders for Successful AI Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/constructing-a-daily-sanctuary-through-ai-guided-reflection/"><u>Constructing a Daily Sanctuary Through AI-Guided Reflection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-ai-prompt-design-professional-trajectory-analysis/"><u>Delving Into AI Prompt Design: Professional Trajectory Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-why-snapchats-my-ai-is-revolutionary/"><u>Discovering Why Snapchat's My AI Is Revolutionary</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-impose-text-limits-for-users/"><u>Does ChatGPT Impose Text Limits for Users?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiency-leap-ai-in-dev-workflow/"><u>Efficiency Leap: AI in Dev Workflow</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-therapists-with-ai-driven-cbt-techniques/"><u>Empowering Therapists with AI-Driven CBT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-business-strategies-with-chatgpt-insights-and-ideas/"><u>Enhancing Business Strategies with ChatGPT Insights and Ideas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/establish-an-affordable-windows-gpt-imitation-with-gpt4all/"><u>Establish an Affordable Windows GPT Imitation with GPT4All</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-upgraded-gopro-sessions-for-2024/"><u>Exploring the Upgraded GoPro Sessions for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/from-phones-to-cameras-a-guide-to-diy-video-capturing-for-2024/"><u>From Phones to Cameras  A Guide to DIY Video Capturing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gateway-to-advanced-ai-without-expenditure-4-methods/"><u>Gateway to Advanced AI Without Expenditure: 4 Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oneplus-ace-2-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your OnePlus Ace 2 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715701134356-infinite-jest-joyride-top-kids-game-lineup/"><u>Infinite Jest Joyride - Top Kids' Game Lineup!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-internet-ais-role-in-content-curation/"><u>Next-Gen Internet: AI's Role in Content Curation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pros-cons-ai-driven-creative-writing-tools/"><u>Pros, Cons: AI-Driven Creative Writing Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-screen-choices-through-chatgpt-tips/"><u>Seamless Screen Choices Through ChatGPT Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swiftly-cancel-gpt-interaction/"><u>Swiftly Cancel GPT Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-perils-of-using-ai-for-obtaining-windows-11-keys/"><u>The Perils of Using AI for Obtaining Windows 11 Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/theoretical-inquiry-into-comparative-models-of-accessibility-in-digital-knowledge-bases-the-case-of-the-internet/"><u>Theoretical Inquiry Into Comparative Models of Accessibility in Digital Knowledge Bases: The Case of the Internet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-the-future-the-leading-5-hardware-advancements-in-ai-sector/"><u>Transforming the Future: The Leading 5 Hardware Advancements in AI Sector</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-claude-3-4-significant-differences/"><u>Unlocking Potential with Claude 3: 4 Significant Differences</u></a></li>
+</ul></div>

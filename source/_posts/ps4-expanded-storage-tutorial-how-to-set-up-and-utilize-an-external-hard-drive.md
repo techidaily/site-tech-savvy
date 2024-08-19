@@ -1,7 +1,7 @@
 ---
 title: "PS4 Expanded Storage Tutorial: How to Set Up and Utilize an External Hard Drive"
-date: 2024-08-15 18:20:51
-updated: 2024-08-16 11:44:35
+date: 2024-08-18T09:52:14.446Z
+updated: 2024-08-19T09:52:14.446Z
 tags:
   - win11
   - win10
@@ -75,10 +75,17 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593773e4925a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  2) Go to the**Startup** tab, and click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6dd70a1b9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
  3) Click the programs you don’t want to start when Windows starts, and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6db59ff85.png)
@@ -109,10 +116,16 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d72ba99bb5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Click**Extensions** and**Plugins** on the left side of the window to see all your add-ons, select the ones you don’t need and click**Disable** or**Remove** to disable or uninstall them.
 
 ![Disable or remove Firefox add-on](https://images.drivereasy.com/wp-content/uploads/2017/06/Disable-or-remove-Firefox-add-on.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ---
 
 ## Fix 4: Turn off unnecessary animations
@@ -127,6 +140,9 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0f9f99e1800.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ---
 
 ## Fix 5: Check your antivirus schedule
@@ -169,6 +185,10 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-740.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
  4) When the update finishes, you’ll be prompted to restart your computer. After restarting, check to see if your PC is running faster.
 
 ---
@@ -181,10 +201,16 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![Add or remove programs](https://images.drivereasy.com/wp-content/uploads/2017/06/Add-or-remove-programs.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
  2) Click to highlight a program you no longer need and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59377f32f1230.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
  3) Wait for the uninstall to finish, then highlight and uninstall the next program you don’t use.
 
  4) Repeat until you’ve uninstalled all programs you don’t need.
@@ -211,6 +237,9 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e96992db13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
  4) It could take up to a few minutes for all these files to be deleted – especially if many of them are large. If you’re clearing your temp files regularly, though, it should take only a few seconds.
 
  5) Restart your computer and see if it’s running any faster.
@@ -231,6 +260,9 @@ Here’s how to add more virtual memory:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d4b15900.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Go to the**Advanced** tab, and click**Change.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d6d0a83c.png)
@@ -248,10 +280,16 @@ Here’s how to add more virtual memory:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ebee6a3d27.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6) Restart your computer and see if your PC is still running slow.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Fix 11: Cool your computer down
 
  If your computer is overheating, it will definitely slow down. But unless you track your PC’s temperature with a program like CAM, it can be difficult to tell if it’s overheating. Here are some typical warning signs:
@@ -272,6 +310,9 @@ To reduce the temperature of your computer, you can:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Fix 12: Verify the integrity of your hard disk
 
  When a hard disk ages, it can develop faults and errors in its file system. This can slow the drive significantly, which makes Windows take much longer when it opens and saves files.
@@ -282,6 +323,9 @@ To reduce the temperature of your computer, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fd0ef57747.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When prompted to provide administrator permission, click**Yes** to continue.
 
  2) In the black window, type**chkdsk** and press the**Enter** key on your keyboard. The disk scan will then start.
@@ -312,16 +356,25 @@ To reduce the temperature of your computer, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fb9a304288.png)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Select the drive you want to defragment, and click**Optimize** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fcf8b6a57b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  4) The defrag will take anywhere from a few minutes to a couple of hours to finish, depending on the type of disk and the data you have on it.
 
  When it finishes, restart your computer and see if it’s now performing better.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 14: Upgrade or reset Windows
 
  If you’re still using Windows XP, Windows Vista, Windows 7 or Windows 8, your computer is very likely to be sluggish. These versions of Windows are now outdated and were not designed to work with most of the software designed today.
@@ -340,10 +393,16 @@ To reduce the temperature of your computer, you can:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Fix 16: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
  Now that we have the internet, fast connection speeds, free cloud storage, and endless web apps (like Gmail, Google Docs, Slack, Facebook, Dropbox and Spotify), the entire Windows way of doing things – with locally installed programs and local file storage – is totally outdated.
@@ -386,3 +445,52 @@ And that’s just the start of the benefits…
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-beyond-youtube-elite-video-sharing-hubs-revealed/"><u>[New] 2024 Approved  Beyond YouTube  Elite Video Sharing Hubs Revealed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-iphones-best-camera-combo-utilities/"><u>[New] 2024 Approved  IPhone's Best Camera Combo Utilities</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-windowsmac-meeting-record-skype-guide/"><u>[New] In 2024, Windows/Mac Meeting Record - Skype Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-facebooks-auto-play-feature-for-youtube-clips/"><u>[New] Unleashing Facebook's Auto-Play Feature for YouTube Clips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-a-swift-guide-to-faster-more-engaging-tiktoks/"><u>[Updated] 2024 Approved  A Swift Guide to Faster, More Engaging TikToks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-discover-these-eight-handy-apps-to-upload-reels-on-instagram/"><u>[Updated] 2024 Approved  Discover These Eight Handy Apps to Upload Reels on Instagram</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-flavorful-fun-on-tiktok-15-must-try-quick-meals-for-2024/"><u>[Updated] Flavorful Fun on TikTok  15 Must-Try Quick Meals for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-14-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 14 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-governance-oversight-organizations/"><u>AI Governance: Oversight Organizations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-common-blunders-for-successful-ai-discussions/"><u>Avoiding Common Blunders for Successful AI Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/blind-trust-vs-critical-assessment-why-the-balance-matters/"><u>Blind Trust Vs. Critical Assessment: Why the Balance Matters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-a-toolkit-for-fluency-in-new-languages/"><u>ChatGPT Plus: A Toolkit for Fluency in New Languages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-beyond-standard-interactions-with-custom-instructions/"><u>ChatGPT: Beyond Standard Interactions with Custom Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatxt-influence-on-modern-media-production/"><u>ChaTxt Influence on Modern Media Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-instructions-like-a-pro-discover-the-top-7-online-aids/"><u>Craft Instructions Like a Pro: Discover the Top 7 Online Aids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-why-snapchats-my-ai-is-revolutionary/"><u>Discovering Why Snapchat's My AI Is Revolutionary</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-deceptions-how-to-differentiate-real-data-from-artifico/"><u>Dissecting Deceptions: How to Differentiate Real Data From Artifico</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-impose-text-limits-for-users/"><u>Does ChatGPT Impose Text Limits for Users?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-efficiency-by-ditching-these-6-chatgpt-apps/"><u>Enhance Efficiency by Ditching These 6 ChatGPT Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-business-strategies-with-chatgpt-insights-and-ideas/"><u>Enhancing Business Strategies with ChatGPT Insights and Ideas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/establish-an-affordable-windows-gpt-imitation-with-gpt4all/"><u>Establish an Affordable Windows GPT Imitation with GPT4All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gateway-to-advanced-ai-without-expenditure-4-methods/"><u>Gateway to Advanced AI Without Expenditure: 4 Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-c53-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme C53 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gotorhythms-top-pick-for-hearing-westerosi-songs/"><u>GoToRhythms  Top Pick for Hearing Westerosi Songs</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xr-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XR without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-smooth-out-gpts-body-stream-glitches/"><u>How to Smooth Out GPT's Body Stream Glitches</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-depth-tutorial-for-immaculate-3d-shapes-perfect-circles-spheres-for-2024/"><u>In-Depth Tutorial for Immaculate 3D Shapes  Perfect Circles, Spheres for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-4-into-chatgpt-for-instant-results/"><u>Integrating GPT-4 Into ChatGPT for Instant Results</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-sending-virtual-hugs-a-guide-to-typing-a-heart-emoji/"><u>Mastering the Art of Sending Virtual Hugs: A Guide to Typing a Heart Emoji</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-internet-ais-role-in-content-curation/"><u>Next-Gen Internet: AI's Role in Content Curation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-11-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 11 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-troubles-solve-ark-survival-evolveds-constant-crashes-with-our-top-9-fixes/"><u>PC Troubles? Solve ARK: Survival Evolved's Constant Crashes with Our Top 9 Fixes!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pros-cons-ai-driven-creative-writing-tools/"><u>Pros, Cons: AI-Driven Creative Writing Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-screen-choices-through-chatgpt-tips/"><u>Seamless Screen Choices Through ChatGPT Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swiftly-cancel-gpt-interaction/"><u>Swiftly Cancel GPT Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-generative-genius-quest-who-outperforms-notion-or-gpt-3/"><u>The Generative Genius Quest: Who Outperforms - Notion or GPT-3?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-flaws-in-machine-conversations-gpts-eight-key-problems/"><u>The Hidden Flaws in Machine Conversations: GPT's Eight Key Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quest-for-a-responsible-ai-framework/"><u>The Quest for a Responsible AI Framework</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-downfalls-of-implementing-generative-ai-technology-in-chat-platforms/"><u>Top 7 Downfalls of Implementing Generative AI Technology in Chat Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-tier-eighth-edition-of-image-blender-tool/"><u>Top Tier  Eighth Edition of Image Blender Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-claude-3-4-significant-differences/"><u>Unlocking Potential with Claude 3: 4 Significant Differences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vacation-internet-tips-maximize-your-experience/"><u>Vacation Internet Tips: Maximize Your Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionary-leap-in-ai-gpt-4-rollout-by-openai/"><u>Visionary Leap in AI: GPT-4 Rollout by OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-ai-doesnt-respond-to-unauthorized-tweaks/"><u>Why AI Doesn't Respond to Unauthorized Tweaks</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Restore Sound on Your PC by Reinstalling the Realtek Audio Manager for Windows 1Ve
-date: 2024-08-13 16:17:23
-updated: 2024-08-16 10:33:13
+date: 2024-08-18T09:50:19.975Z
+updated: 2024-08-19T09:50:19.975Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-command-prompt-as-admin.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 2) Copy this command:
 
 **bcdedit /set {default} bootmenupolicy legacy**
@@ -61,6 +65,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/bcdedit-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 4) Reboot your PC.
 
 ### Now you can start Safe Mode using the F8 key
@@ -91,6 +98,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/preparing-automatic-repair-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 3) Wait for Windows to diagnose your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/diagnose-your-pc-1.jpg)
@@ -103,6 +113,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
  6) Click**Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
@@ -111,10 +124,16 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/startup-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
  8) Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/restart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your computer will restart and present a list of different startup options.
 
  9) On your keyboard, press the number**4** key to enter Safe Mode without internet access or the number**5** key to enter Safe Mode with internet access:
@@ -133,6 +152,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Select the **Boot**  tab, then check **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot.jpg)
@@ -153,12 +175,18 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into normal mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 4: Start Safe Mode from the login screen
 
 If you can boot to the login screen, you can enter Safe Mode from there:
@@ -169,6 +197,9 @@ If you can boot to the login screen, you can enter Safe Mode from there:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/login-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The Windows RE (Recovery environment) screen will then display.
 
  3) Click **Troubleshoot** :
@@ -179,10 +210,16 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-options-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  5) Click **Startup Settings** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart.jpg)
@@ -193,8 +230,15 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/enable-safe-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Can’t solve the problem? Try Driver Easy
 
  If you couldn’t solve your computer problem in Safe Mode but you can still run Windows normally, give **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  a try.
@@ -217,6 +261,9 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58febfb1a2a71.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -233,3 +280,43 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-ace-your-youtube-livestreams-mastering-broadcast-techniques-using-wirecast/"><u>[New] 2024 Approved  Ace Your Youtube Livestreams  Mastering Broadcast Techniques Using WireCast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-a-step-by-step-approach-to-mastering-free-youtube-video-transcription/"><u>[New] In 2024, A Step-by-Step Approach to Mastering Free YouTube Video Transcription</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-editing-on-sierra-with-1-5-tools/"><u>[New] Master the Art of Editing on Sierra with #1-#5 Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premier-ios-devices-to-play-psp-games-in-high-fidelity-2023-edition-for-2024/"><u>[New] Premier iOS Devices to Play PSP Games in High Fidelity, 2023 Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-pull-mp3-tracks-from-your-fb-video-watchlist/"><u>[New] Pull MP3 Tracks From Your FB Video Watchlist</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-becoming-an-ig-star-essential-management-tools-reviewed/"><u>[Updated] Becoming an IG Star  Essential Management Tools Reviewed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-final-cuts-vertical-voyage-editing-for-the-modern-instagram-reader/"><u>2024 Approved  Final Cut's Vertical Voyage  Editing for the Modern Instagram Reader</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/5-critical-points-to-ponder-prior-to-acquiring-a-wearable-exercise-monitor/"><u>5 Critical Points to Ponder Prior to Acquiring a Wearable Exercise Monitor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/addressing-excessive-load-warning-windows-chatgpt/"><u>Addressing Excessive Load Warning: Windows ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-alternatives-for-profit-and-tech-advice/"><u>AI Alternatives for Profit & Tech Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-illustration-journey-merging-dall-e-and-gpt-4-capabilities/"><u>AI Illustration Journey: Merging DALL-E & GPT-4 Capabilities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/auditory-capture-techniques-for-professional-note-takers-for-2024/"><u>Auditory Capture Techniques for Professional Note-Takers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/banks-vs-ai-are-your-assets-safe-from-gpt-inspired-cyberthreats/"><u>Banks vs AI: Are Your Assets Safe From GPT-Inspired Cyberthreats?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-we-trust-cgp-for-health-insights/"><u>Can We Trust CGP for Health Insights?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clause-by-clause-using-anthropics-claude-3/"><u>Clause by Clause: Using Anthropic's Claude 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-complexity-with-easy-auto-gpt-setup/"><u>Conquer Complexity with Easy Auto-GPT Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-predictive-ai-insights-into-its-operation/"><u>Deciphering Predictive AI: Insights Into Its Operation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-ai-enigma-advantages-and-dangers-known/"><u>Decoding the AI Enigma: Advantages and Dangers Known</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unparalleled-query-optimization-with-perplexity-ai/"><u>Experience Unparalleled Query Optimization with Perplexity AI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-3d-text-designing-in-ai-for-2024/"><u>Expert Tips for 3D Text Designing in AI for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-missing-location-feature-on-an-iphone-a-step-by-step-guide/"><u>Fixing the Missing Location Feature on an iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-assistance-in-smarter-hr-processing/"><u>GPT Assistance in Smarter HR Processing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/implement-a-free-personalized-windows-gpt-replica/"><u>Implement a Free, Personalized Windows GPT Replica</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improve-ai-dialogues-7-chrome-extension-picks/"><u>Improve AI Dialogues: 7 Chrome Extension Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-the-professional-landscape-top-6-reasons-for-mastering-chatgpt/"><u>Innovating the Professional Landscape: Top 6 Reasons for Mastering ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opting-for-local-llm-benefits-vs-limitations/"><u>Opting for Local LLM: Benefits vs Limitations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/philosophical-underpinnings-and-societal-impacts-of-comparing-the-internet-with-a-public-library-model/"><u>Philosophical Underpinnings and Societal Impacts of Comparing the Internet with a Public Library Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/refining-copywriting-skills-sidestep-chatgpts-common-fails/"><u>Refining Copywriting Skills - Sidestep ChatGPT's Common Fails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reliable-recognition-validating-chatgpt-apps-on-itunes/"><u>Reliable Recognition: Validating ChatGPT Apps on iTunes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scriptwriting-simplified-your-guide-to-using-chatgpt/"><u>Scriptwriting Simplified: Your Guide to Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-7-best-ai-prompt-marketplaces/"><u>The 7 Best AI Prompt Marketplaces</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-impact-of-artificial-intelligence-on-modern-gaming-dynamics/"><u>The Impact of Artificial Intelligence on Modern Gaming Dynamics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-showdown-exploring-key-divergences-between-macs-and-pcs/"><u>The Ultimate Showdown: Exploring Key Divergences Between Macs and PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-open-source-vision-for-visual-creators/"><u>Top Open-Source Vision for Visual Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitter-trap-chatgpt-revealed/"><u>Twitter Trap! ChatGPT Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-ai-chatgpts-role-in-advanced-3d-printing/"><u>Utilizing AI: ChatGPT's Role in Advanced 3D Printing</u></a></li>
+</ul></div>

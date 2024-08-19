@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Undetected AMD GPU Drivers on Your PC's Device List [Fixed]
-date: 2024-08-14 13:10:17
-updated: 2024-08-16 11:39:32
+date: 2024-08-18T09:46:52.081Z
+updated: 2024-08-19T09:46:52.081Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ Have you ever found yourself in a frustrating situation where your camera is not
 
  The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Fix 1\. Allow your device to access your camera
 
 1. On your keyboard, press the Windows logo key and type **camera privacy settings** .
@@ -55,6 +58,9 @@ Have you ever found yourself in a frustrating situation where your camera is not
 2. Select**Cameras** (or Imaging devices/ USB devices) and click**Action** \>**Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.jpg)
 3. If your webcam shows up, this means the driver has been successfully detected. Restart your computer for the changes to take full effect.
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 
  If scanning for hardware changes didn’t do the trick for you, you can try the next fix below.
 
@@ -62,6 +68,9 @@ Have you ever found yourself in a frustrating situation where your camera is not
 
  The first thing is to make sure all your device drivers are up to date. Since you can’t update the driver right from the Device Manager ([learn why you can’t rely on Windows…](https://tools.techidaily.com/drivereasy/download/) ), you’ll need to visit the manufacturer’s website and install the latest webcam drivers (along with other device drivers).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Option 1 – Manually
 
 Let’s take Dell computers for an example:
@@ -69,12 +78,22 @@ Let’s take Dell computers for an example:
 1. Go to the[Dell Support](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fen-us%3Fapp%3Dproducts) page. Then enter your product model to get all the related drivers in**Drivers & Downloads** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/Delldownload-1.jpg)
 2. Download the driver you need and follow the onscreen instructions to complete the installation.  
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/driver.jpg)
 
  Of course, you can use their **[SupportAssist](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fcontents%2Fen-us%2Farticle%2Fproduct-support%2Fself-support-knowledgebase%2Fsoftware-and-downloads%2Fsupportassist)**  to get the latest drivers and fix hardware issues, but this software can take up a lot of CPU, thus slowing down your PC.
 
  Driver downloads center for other brands:[Asus](https://www.asus.com/support/Download-Center/) |[HP](https://support.hp.com/us-en/drivers) |[Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fsupport.lenovo.com%2Fus%2Fen%2F) |[Acer](https://www.acer.com/ac/en/IN/content/drivers)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Option 2 – Automatically (Recommended)
 
  If you don’t have the time, patience, or computer skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -87,6 +106,9 @@ Let’s take Dell computers for an example:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/integrated-camera.png)
@@ -95,6 +117,9 @@ Let’s take Dell computers for an example:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Fix 4\. Add a legacy camera driver
 
  If all drivers are up to date but the camera is still missing in Device Manager, you can try adding a camera manually:
@@ -108,6 +133,9 @@ Let’s take Dell computers for an example:
 5. Choose**Cameras** and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/camera-driver.jpg)
 6. If a webcam driver is listed here, you can select the device and click**Next** . (You can select**Have Disk** if you have downloaded a driver for your webcam.)
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. If there’s no device selected, you can go back to the last window, and select**Imaging devices** \>**Next** .
 8. Select a device from the list and click**Next** .
 
@@ -122,13 +150,22 @@ Let’s take Dell computers for an example:
 2. Type and copy this command`**msdt.exe -id DeviceDiagnostic**` and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/command.jpg)
 3. Once the troubleshooter displays, you can click **Next** to run this tool.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/image-12.png)
 4. Click **Apply this fix** when the troubleshooter finds a fix for you.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/image-13.png)
 5. You may need to restart your PC for the changes to take full effect.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Did the Hardware and Devices Troubleshooter solve the problem? If the camera is still missing in Device Manager, don’t worry. We have a few more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Fix 6\. Run the System File Checker
 
  In case some system files related to your camera get corrupted, you can try restoring the file using one of the following methods:
@@ -144,6 +181,9 @@ Let’s take Dell computers for an example:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -165,6 +205,9 @@ Let’s take Dell computers for an example:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -231,3 +274,45 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-insights-where-to-invest-in-youtube-creator-revenue/"><u>[New] 2024 Approved  Expert Insights  Where to Invest in YouTube Creator Revenue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-erasing-extra-borders-for-smooth-youtube-playback-for-2024/"><u>[New] Erasing Extra Borders for Smooth YouTube Playback for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-pixizs-tools-for-photo-video-craftsmanship/"><u>[New] In 2024, Navigating Pixiz's Tools for Photo-Video Craftsmanship</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unlocking-the-power-of-in-stream-ads-strategy-and-metrics-guide-for-2024/"><u>[New] Unlocking the Power of In-Stream Ads  Strategy & Metrics Guide for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-techniques-for-documenting-youtube-videos/"><u>[Updated] 2024 Approved  Quick Techniques for Documenting YouTube Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-master-the-art-of-pc-game-memories-with-these-6-steps/"><u>[Updated] In 2024, Master the Art of PC Game Memories with These 6 Steps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-12-essential-metaverse-prototypes-demystifying-vr/"><u>2024 Approved  12 Essential Metaverse Prototypes Demystifying VR</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-bridging-the-gap-connecting-instagram-to-your-facebook-account/"><u>2024 Approved  Bridging the Gap  Connecting Instagram to Your Facebook Account</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-strategies-for-achieving-desired-career/"><u>AI-Powered Strategies for Achieving Desired Career</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alert-on-mimicry-genuine-ai-apps-versus-fake-ones/"><u>Alert on Mimicry: Genuine AI Apps Versus Fake Ones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-authenticity-beyond-plagiarism-fears/"><u>ChatBot Authenticity: Beyond Plagiarism Fears</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-evolved-discover-the-features-that-matter-most/"><u>ChatGPT Evolved: Discover the Features That Matter Most!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-meets-android-unleash-voicepower/"><u>ChatGPT Meets Android: Unleash VoicePower</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-comedy-craft-does-ai-bring-laughter-to-life/"><u>ChatGPT's Comedy Craft: Does AI Bring Laughter to Life?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-language-bots-for-work-bing-chat-or-chatgpt-9-factors/"><u>Choosing Language Bots for Work: Bing Chat or ChatGPT? 9 Factors</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nubia-z50s-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Nubia Z50S Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deepen-relationships-with-emotional-intelligence-assistance/"><u>Deepen Relationships with Emotional Intelligence Assistance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-zero-to-meme-hero-crafting-engaging-gifs-for-2024/"><u>From Zero to Meme Hero  Crafting Engaging GIFs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-end-psd-lighting-tweaks-for-2024/"><u>High-End PSD Lighting Tweaks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-usechatgpts-co-pilot-expands-ai-capabilities-in-conversations/"><u>How UseChatGPT's Co-Pilot Expands AI Capabilities in Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hugging-face-breakdown-meaning-and-uses/"><u>Hugging Face Breakdown: Meaning & Uses</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-effective-strategies-for-twitter-marketing/"><u>In 2024, Effective Strategies for Twitter Marketing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-sony-xperia-1-v-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Sony Xperia 1 V Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-motorola-moto-g73-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Motorola Moto G73 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-learn-to-leverage-telegram-a-comprehensive-online-tutorial/"><u>In 2024, Learn to Leverage Telegram  A Comprehensive Online Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-art-gpt-powered-image-creation/"><u>Mastering AI Art: GPT-Powered Image Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-smarts-outsmarting-a-machine-oracle/"><u>Redefining Smarts: Outsmarting a Machine Oracle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-rides-mercedes-benz-infuses-cars-with-chatgpt/"><u>Revolutionizing Rides: Mercedes-Benz Infuses Cars with ChatGPT</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/snort-spree-twitters-funniest-humor-chronicles-for-2024/"><u>Snort Spree  Twitter’s Funniest Humor Chronicles for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-and-science-of-paperclip-optimization-in-ais-ecosystem/"><u>The Art and Science of Paperclip Optimization in AI's Ecosystem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-saving-chatgpt-messages-incognito/"><u>The Art of Saving ChatGPT Messages Incognito</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-poco-m6-pro-4g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Poco M6 Pro 4G Location | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-virtual-gadgets-for-excelling-at-instruction-design/"><u>Top 7 Virtual Gadgets for Excelling at Instruction Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-ideas-into-engaging-presentations-via-chatgpt/"><u>Transform Your Ideas Into Engaging Presentations via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-industries-through-chatgpt-and-whisper-apis/"><u>Transforming Industries Through ChatGPT and Whisper APIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-effective-chatgpt-use-on-macs/"><u>Unleashing Potential: Effective ChatGPT Use on Macs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wwdc-2025-highlights-apples-newest-tech-reveals-and-industry-insights/"><u>WWDC 2025 Highlights: Apple's Newest Tech Reveals and Industry Insights</u></a></li>
+</ul></div>

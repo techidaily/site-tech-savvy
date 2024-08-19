@@ -1,7 +1,7 @@
 ---
 title: How to Fix and Speedy Up Your Windows 10/11 Startup
-date: 2024-08-15 10:38:45
-updated: 2024-08-16 10:58:12
+date: 2024-08-18T09:54:23.123Z
+updated: 2024-08-19T09:54:23.123Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 5. **[Update device drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Run the Windows Update Troubleshooter
 
  The Update troubleshooter is a Windows built-in utility that can help resolve common issues with downloading and installing Windows updates.
@@ -48,6 +51,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-144.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 **2)** Select**Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
@@ -56,10 +62,16 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-171.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4)** Follow the on-screen instructions to fix your problem.
 
  If the tool didn’t detect any issues, don’t worry! There are still 5 more fixes to try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Disable third-party startups
 
  Some third-party applications may conflict with Windows update and cause disruptions to the process. To see if that’s the problem for you, follow the instructions below to disable auto startups on your PC:
@@ -84,9 +96,15 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
@@ -122,6 +140,10 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/uninstall-program.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
  This could help free up lots of space if you have many unused programs on your computer.
 
 #### Free up your space with the Disk Cleanup tool
@@ -148,6 +170,9 @@ If your problem persists, then move on to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Fix 5: Update your device drivers
 
  Outdated or faulty hardware drivers can also trigger PC issues. To keep your computer running smoothly, it’s essential that you have the latest correct drivers at all times.
@@ -168,6 +193,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-157.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -194,6 +222,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
@@ -210,6 +241,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
  If running the System File Checker didn’t help resolve your problem, try using the DISM tool to update your system files and correct your problem.
 
 #### Run the DISM command tool
@@ -218,14 +252,23 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-161.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 **3)** Type**dism.exe /online /cleanup-image /startcomponentcleanup** , then press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4)** Type**dism.exe /online /cleanup-image /restorehealth** , then press the**Enter** key on your keyboard.
 
  This could take several minutes. Wait for the DISM tool to update your system files automatically.
@@ -253,3 +296,66 @@ If your problem persists, then move on to the next fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-customized-obs-guide-for-budget-builds/"><u>[New] 2024 Approved  Customized OBS Guide for Budget Builds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earn-while-playing-games-online/"><u>[New] 2024 Approved  Earn While Playing Games Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-cameraphone-trackers-precision-power-performance/"><u>[New] 2024 Approved  Top Camera/Phone Trackers  Precision, Power, Performance</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-videos-making-a-statement-on-instagram/"><u>[New] 2024 Approved  YouTube Videos  Making a Statement on Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-broadcasting-strategies-for-youtube-facebook-twitch-and-others-for-2024/"><u>[New] Broadcasting Strategies for YouTube, Facebook, Twitch, and Others for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-prime-fareless-streaming-and-recording-software/"><u>[New] In 2024, Prime Fareless Streaming & Recording Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-stand-out-in-the-crowd-logo-creation-for-podcasts/"><u>[New] In 2024, Stand-Out in the Crowd  Logo Creation for Podcasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-maximizing-zoom-video-details-step-by-step-methods-for-2024/"><u>[New] Maximizing Zoom Video Details  Step-by-Step Methods for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-swipe-right-to-fb-vids-swipe-left-for-mp4s/"><u>[New] Swipe Right to FB Vids, Swipe Left for MP4s</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-engaging-youtube-viewers-effective-interaction-strategies/"><u>[Updated] 2024 Approved  Engaging YouTube Viewers  Effective Interaction Strategies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-pop-culture-reflections-latest-snapchat-augments-and-filters-for-2024/"><u>[Updated] Pop Culture Reflections  Latest Snapchat Augments & Filters for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pro-free-mac-screen-logger-for-2024/"><u>[Updated] Pro-Free Mac Screen Logger for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-secure-story-spectatorship-techniques-for-desktopandroidios-devices-at-no-cost-for-2024/"><u>[Updated] Secure Story Spectatorship Techniques for Desktop/Android/iOS Devices (At No Cost) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-steps-to-modify-playback-rate-of-songs-in-spotify/"><u>2024 Approved  Prime Steps to Modify Playback Rate of Songs in Spotify</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-creation-mastering-social-media-posts/"><u>AI-Driven Content Creation: Mastering Social Media Posts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-animation-studios-for-pc-and-mac-top-picks-for-pros-for-2024/"><u>Best Animation Studios for PC and Mac Top Picks for Pros for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boss-and-educator-ai-diagnostics-four-top-chatgpt-tools/"><u>Boss & Educator AI Diagnostics: Four Top ChatGPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-algorithms-tackle-math-questions/"><u>Can Algorithms Tackle Math Questions?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-companions-are-they-lifesavers-in-natures-realm/"><u>Chatbot Companions: Are They Lifesavers in Nature's Realm?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-a-reliable-source-for-wellbeayer-info/"><u>ChatGPT as a Reliable Source for Wellbeayer Info</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-screen-time-with-ai-support/"><u>Crafting Personalized Screen Time with AI Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-winning-cover-letters-using-chatgpt-techniques/"><u>Crafting Winning Cover Letters Using ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-myths-ais-real-role-in-mental-healthcare/"><u>Debunking Myths: AI’s Real Role in Mental Healthcare</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-sony-xperia-5-v-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Sony Xperia 5 V Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-claude-3-features-and-uses/"><u>Discovering Claude 3: Features & Uses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-gpts-influence-on-cybercriminal-activities/"><u>Dissecting GPT's Influence on Cybercriminal Activities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-error-barriers-between-chatgpt-and-third-party-services/"><u>Eliminating Error Barriers Between ChatGPT & Third-Party Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-peer-relationships-with-assisted-conversation-tools/"><u>Enhancing Peer Relationships with Assisted Conversation Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-legitimacy-of-truthgpt-tokens/"><u>Evaluating the Legitimacy of TruthGPT Tokens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-strategies-separating-real-from-fake-apps/"><u>Expert Strategies: Separating Real From Fake Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-vs-bert-dissecting-modern-nlp-giants-distinctions/"><u>GPT vs BERT: Dissecting Modern NLP Giants' Distinctions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-driven-strategies-for-effortless-home-life/"><u>GPT-Driven Strategies for Effortless Home Life</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 Plus To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972903579-hp-photosmart-c7520-printer-software-setup-get-your-free-drivers-here/"><u>HP Photosmart C7520 Printer Software Setup – Get Your Free Drivers Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/idea-storming-guide-mindmaps-gpt-3-partnership/"><u>Idea Storming Guide: Mindmaps, GPT-3 Partnership</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-amplify-your-contents-reach-with-optimal-publishing-days/"><u>In 2024, Amplify Your Content's Reach with Optimal Publishing Days</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-x-fold-2-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo X Fold 2 Pattern Lock Screen</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free/"><u>In 2024, From Buffer to Broadcast  Learn How to Convert Your YouTube Viewing Into a Screenshot for Free.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-pixels-to-blockchain-gold-choosing-the-right-nft-engines/"><u>In 2024, From Pixels to Blockchain Gold  Choosing the Right NFT Engines</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-c53-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme C53 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-collaboration-chatgpt-in-google-workspace/"><u>Intelligent Collaboration: ChatGPT in Google Workspace</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/2023-update-youtube-audio-to-mp3-step-by-step-for-2024/"><u>Mac's 2023 Update  YouTube Audio to MP3 Step-by-Step for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-5-udemy-subtitle-translator-auto-translation/"><u>New Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-tech-woes-chatgpts-repair-manual/"><u>Optimizing Tech Woes - ChatGPT's Repair Manual</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-silent-mode-issues-fix-an-iphone-when-the-ringsilent-toggle-fails/"><u>Overcoming Silent Mode Issues: Fix an iPhone When the Ring/Silent Toggle Fails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-domestic-functionality-with-chatgpt-innovations/"><u>Reimagining Domestic Functionality with ChatGPT Innovations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-how-to-fix-the-absence-of-a-coprocessor-driver-in-windows-10/"><u>Resolved: How to Fix the Absence of a Coprocessor Driver in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-approach-to-proposal-writing-chatgpt-edition/"><u>Revolutionize Your Approach to Proposal Writing - ChatGPT Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-roleplay-6-gpt-strategies-for-flawless-dandd-guidance/"><u>Revolutionizing Roleplay: 6 GPT Strategies for Flawless D&D Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-switch-between-languages-with-the-power-of-chatgpt/"><u>Seamlessly Switch Between Languages with the Power of ChatGPT</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/soft-volume-tricks-lives-hidden-gems-for-2024/"><u>Soft Volume Tricks  Live’s Hidden Gems for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/talk-titans-duo-comparing-gpt-and-bings-virtual-voices/"><u>Talk Titans Duo: Comparing GPT & Bing's Virtual Voices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-accuracy-debate-chatgpt-or-lies/"><u>The Accuracy Debate: ChatGPT or Lies?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-gamers-choice-a-detailed-review-of-alienware-aurora-r11/"><u>The Ultimate Gamers' Choice: A Detailed Review of Alienware Aurora R11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-waiting-game-why-is-chatgpt-4-lagging/"><u>The Waiting Game: Why Is ChatGPT-4 Lagging?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-smarter-ways-to-approach-writing-tasks/"><u>Top 8 Smarter Ways to Approach Writing Tasks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-employment-10-strategies-for-gaining-linkedin-opportunities/"><u>Unlocking Employment: 10 Strategies for Gaining LinkedIn Opportunities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-ai-guiding-chatgpt-for-synth-creation-in-daws/"><u>Utilizing AI: Guiding ChatGPT for Synth Creation in DAWs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-claude-3-and-what-can-you-do-with-it/"><u>What Is Claude 3 and What Can You Do With It?</u></a></li>
+</ul></div>

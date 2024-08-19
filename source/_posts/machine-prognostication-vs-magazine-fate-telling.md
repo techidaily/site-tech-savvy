@@ -1,0 +1,174 @@
+---
+title: Machine Prognostication Vs. Magazine Fate-Telling
+date: 2024-08-18T10:04:53.120Z
+updated: 2024-08-19T10:04:53.120Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Machine Prognostication Vs. Magazine Fate-Telling
+excerpt: This Article Describes Machine Prognostication Vs. Magazine Fate-Telling
+thumbnail: https://thmb.techidaily.com/54fd3e003b786647a6f1d7a89a0a9ff3e56e44f972b8ef6e36ebd7fc54a18cb3.jpg
+---
+
+## Machine Prognostication Vs. Magazine Fate-Telling
+
+ Horoscopes are big business, and millions of people across the world consult newspapers and websites to find out what's in store for them over the next day, week, month, or year.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Large language models such as ChatGPT are able to explain what horoscopes are and how they work. But can it go further than that and look into its own crystal ball? We asked ChatGPT to look into the stars and untangle the threads of destiny and fate.
+
+## Customize Your ChatGPT Fortune-Teller…
+
+![Hands Over Fortune Telling Crystal Ball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hands-over-fortune-telling-crystal-ball.jpg)
+
+ Fortune-tellers have a particular mystique about them, which you'll instantly recognize from the movies.
+
+ There's a darkened tent at the fairground, decks of Tarot cards lying around, star charts hanging from the ropes, spooky magic mirrors, and of course, the obligatory crystal ball. There should also be skulls used as utilitarian yet exotic and disturbing candleholders.
+
+ Before you start, you need to tell ChatGPT who it's supposed to be. You'll know you got it right when you read a response along the lines of:
+
+> "Greetings, dear seeker of knowledge. I am Agnes, a wise fortune teller, here to unravel the mysteries that lie before you. Ask your question, and I shall peer into the veiled realm of destiny to provide you with the guidance you seek."
+
+ Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
+
+## Choose Your ChatGPT Fortune Telling Questions Wisely
+
+![Fortune Teller doing a Reading for a Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fortune-teller-doing-a-reading-for-a-client-1.jpg)
+
+ Another thing we've learned from movies is that knowing the future is a dangerous thing. As a large language model which has already ingested and digested most of the internet, ChatGPT, or Agnes, as she now calls herself, could possibly make reliable predictions of when and how you're going to die. You probably don't want to know, so don't ask.
+
+ Hoping to keep things general, on June 1st, 2023, we gave Agnes the date and asked what was in store for us over the next fortnight.
+
+ What follows is her prediction and how it played out in real life.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+## How Well Did ChatGPT Predict the Future?
+
+![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
+
+ Ah, my dear, the cosmic dance of time brings us to the beginning of June 2023\. A month filled with possibilities and transformations awaits you. Let us unveil the whispers of fate and explore what lies ahead on your journey. In matters of the heart, a gentle breeze of romance stirs in the air. Open your heart to new connections, for love may find its way to you when you least expect it. Existing relationships shall deepen and evolve, fostering a stronger bond based on trust and understanding. Remember to nurture the flame of love with tenderness and sincerity.
+
+ As a long-term married man, I was a little worried about love finding its way to me when I least expected it, but happy to hear about the evolution of existing relationships. My wife was pleased, too, and we nurtured the flames of love over a tenderly and sincerely prepared brisket cooked in an [outdoor electric smoker](https://www.makeuseof.com/best-electric-smokers/).
+
+ In the stifling heat, a breeze of anything would have been welcome.
+
+ Agnes continued:
+
+ In the realm of career and ambitions, opportunities shimmer on the horizon. Seize them with confidence and determination. Your talents and skills shall be recognized, leading to professional growth and success. Stay focused and persevere, for your efforts shall bear fruit in due time.
+
+ As a freelance writer, [career development](https://www.makeuseof.com/make-career-roadmap-with-templates/) is always a worry, and it set my mind at ease to hear about the imminent [professional growth and success](https://www.makeuseof.com/use-80-20-rule-personal-development/)—although it seems my efforts at "confident and determined" are being misinterpreted as "arrogant and abrasive" by colleagues.
+
+ Will my efforts bear fruit in due time? It's probably too early to tell.
+
+ However, do not let ambition overshadow self-care. The journey ahead may present challenges and demands. Take moments of respite to restore your energy and maintain a harmonious balance. Your well-being is paramount on this transformative path.
+
+ Agnes was 100% spot on with this part of the fortune, and you should never neglect self-care.
+
+ Although it's only late spring in the UK, it's baking hot. Instead of sitting sweltering in an increasingly uncomfortable room, I decided to take a shower and felt much better afterward.
+
+ With my energy restored, I was spurred on to [do more productive work](https://www.makeuseof.com/working-from-home-productivity-tips/)!
+
+ As you traverse the realm of finance, tread with caution. Exercise prudence and wise judgment in your monetary dealings. Seek advice from those with knowledge and experience, for their wisdom shall guide you toward stability and prosperity.
+
+ If only I'd paid attention to this part of Agnes's prediction. Having spent a substantial sum on outdoor cooking equipment, an [electric motorbike](https://www.makeuseof.com/buying-an-electric-motorbike-considerations/), and some [cool electric motorcycle accessories](https://www.makeuseof.com/best-accessories-for-electric-motorcycles/) this month, I realized that I had miscalculated the date and wouldn't be paid for another two days.
+
+ Using [a good calendar app](https://www.makeuseof.com/tag/best-free-calendar-app-android-compare-best/) could have prevented this situation. In the meantime, there are apps that can help me to [buy good food for less](https://www.makeuseof.com/too-good-to-go-app/).
+
+ Remember, my dear seeker, that destiny is not a fixed path but a tapestry woven by your choices. Embrace the opportunities that arise, heed the lessons of the past, and trust in your own intuition. The stars align in your favor, and your journey holds great potential. Be courageous, be patient, and embrace the magic of this June. May your path be illuminated with blessings and your spirit be filled with purpose. Until we meet again, may the tapestry of your life unfold with beauty and fulfillment.
+
+ As inspirational as Agnes' predictions and sentiment is, I couldn't help but think that it's a fleshed-out rephrasing of Terminator 2's famous, "The future's not set. There's no fate but what we make for ourselves." John Connor said it best.
+
+ Anyway, it was time to thank Agnes for the predictions and insight into my future.
+
+ You are most welcome, dear one. May the wisdom and guidance bestowed upon you serve you well on your journey. Remember, the power to shape your destiny resides within you. Walk forth with confidence and embrace the wonders that await.
+
+![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
+
+ Horoscopes contain the details you want them to contain, and if you're looking for deeper meaning, you'll find it simply because you want to find it. You could read the horoscope for any of the star signs and find a meaning attached because the writing is meant to be general and apply to as many people as possible.
+
+ So can ChatGPT predict the future?
+
+ Why don't you ask your own fortune teller?
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Large language models such as ChatGPT are able to explain what horoscopes are and how they work. But can it go further than that and look into its own crystal ball? We asked ChatGPT to look into the stars and untangle the threads of destiny and fate.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-understanding-the-algorithm-maximizing-earning-potential-on-youtube/"><u>[New] 2024 Approved  Understanding the Algorithm  Maximizing Earning Potential on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-perfecting-video-frames-for-instagram-shares/"><u>[New] In 2024, Perfecting Video Frames for Instagram Shares</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-screen-logger-suite/"><u>[New] In 2024, Ultimate Screen Logger Suite</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-8-virtual-reality-vr-gaming-accessories-for-2024/"><u>[New] Top 8 Virtual Reality (VR) Gaming Accessories for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-ace-editing-essential-10-final-cut-pro-extensions/"><u>[Updated] Ace Editing  Essential 10 Final Cut Pro Extensions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unified-video-ventures-selecting-an-mcn/"><u>[Updated] In 2024, Unified Video Ventures  Selecting an MCN</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/8-mistakes-to-avoid-as-a-new-youtuber/"><u>8 Mistakes to Avoid as a New Youtuber</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adaptive-learning-how-ai-modifies-web-pages/"><u>Adaptive Learning: How AI Modifies Web Pages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-content-duplication-in-language-bots/"><u>Avoiding Content Duplication in Language Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/biodiversity-losses-linked-to-climate-or-just-a-coincidence/"><u>Biodiversity Losses Linked to Climate, or Just a Coincidence?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-analysis-of-chatgpt-unveiling-the-8-main-issues/"><u>Critical Analysis of ChatGPT: Unveiling the 8 Main Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deep-dive-into-rising-risks-how-generative-ais-security-problems-are-set-to-intensify/"><u>Deep Dive Into Rising Risks: How Generative AI's Security Problems Are Set to Intensify</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-identity-creation-no-number-needed-for-services/"><u>Digital Identity Creation: No Number Needed for Services</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-6-social-channels-for-enterprise-leadership/"><u>Essential 6 Social Channels for Enterprise Leadership</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-sons-of-the-forest-glitches-for-smooth-gaming-on-your-computer/"><u>Fixing Sons of the Forest Glitches for Smooth Gaming on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-data-to-decisions-the-journey-of-ai-through-transfer-learning/"><u>From Data to Decisions: The Journey of AI Through Transfer Learning</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-excel-at-pokemon-a-guide-for-ios-gamers/"><u>How to Excel at Pokémon: A Guide for iOS Gamers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easy-video-editing-on-mac-with-avs-editor/"><u>In 2024, Easy Video Editing on Mac with AVS Editor</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-study-simplified-hdr-mastery-for-2024/"><u>In-Depth Study  Simplified HDR Mastery for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/loves-future-chatgpt-revolutionizing-relationships/"><u>Love's Future: ChatGPT Revolutionizing Relationships</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/marchs-ultimate-guide-to-scoring-great-apple-watch-discounts/"><u>March's Ultimate Guide to Scoring Great Apple Watch Discounts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-network-neutrality-predictions-for-security/"><u>Navigating Network Neutrality: Predictions for Security</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sam-altman-steps-aside-does-it-change-gpt-landscape/"><u>Sam Altman Steps Aside; Does It Change GPT Landscape?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-complexity-openais-ai-evolution-gpt-14/"><u>Simplifying Complexity: OpenAI's AI Evolution (GPT-1–4)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slow-response-analyzing-chatgpt-4-against-gpt-35s-agility/"><u>Slow Response: Analyzing ChatGPT-4 Against GPT-3.5's Agility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-essays-with-ai-assistance-gpt-methods/"><u>Tailoring Essays with AI Assistance: GPT Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-dual-life-of-a-professional-youtuber-and-employee-for-2024/"><u>The Dual Life of a Professional YouTuber & Employee for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-writing-aids-with-ai-integration/"><u>Transformative Writing Aids with AI Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-turings-assessment-and-challengers-in-limelight/"><u>Understanding Turing's Assessment & Challengers in Limelight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-potential-of-written-expression/"><u>Unleash the Potential of Written Expression</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-generative-ai-its-impact-and-promise/"><u>Unraveling Generative AI: Its Impact and Promise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unreliable-summings-think-twice-before-using-gpt-powered-bots/"><u>Unreliable Summings: Think Twice Before Using GPT-Powered Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-googles-gemini-the-evolution-of-its-ai-quest/"><u>Unveiling Google's Gemini: The Evolution of Its AI Quest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-model-clarity-with-openais-shap-e/"><u>Unveiling Model Clarity with OpenAI's SHAP E</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-exploring-the-sound-emission-from-button-activation/"><u>Updated 2024 Approved Exploring the Sound Emission From Button Activation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vanguard-technologies-this-years-most-promising-ai-chips-and-processors/"><u>Vanguard Technologies: This Year's Most Promising AI Chips and Processors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wild-encounters-tamed-by-ai-dialogue-support/"><u>Wild Encounters Tamed by AI Dialogue Support</u></a></li>
+</ul></div>

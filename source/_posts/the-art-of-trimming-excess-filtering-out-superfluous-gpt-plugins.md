@@ -1,0 +1,197 @@
+---
+title: "The Art of Trimming Excess: Filtering Out Superfluous GPT Plugins"
+date: 2024-08-18T10:05:24.239Z
+updated: 2024-08-19T10:05:24.239Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes The Art of Trimming Excess: Filtering Out Superfluous GPT Plugins"
+excerpt: "This Article Describes The Art of Trimming Excess: Filtering Out Superfluous GPT Plugins"
+thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad30482eb61cfe64caa3b5caa7.jpg
+---
+
+## The Art of Trimming Excess: Filtering Out Superfluous GPT Plugins
+
+ The launch of the ChatGPT plugin store was supposed to radically improve the ChatGPT ecosystem. The idea was to open up ChatGPT's immense capabilities to third-party developers, who would then innovate and build even more powerful tools by leveraging the AI chatbot.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ However, several months along the line, the launch of ChatGPT plugins hasn't really had the impact observers believed it would. Instead, poorly built plugins that aren't extending the chatbot's capabilities in any meaningful way litter the store. Have an important task at hand? Skip these ChatGPT plugins that make big promises but come up short on delivery.
+
+ On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
+
+## 1\. I Am Rich
+
+![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
+
+ The "I Am Rich" plugin is one of the most confusing plugins on the ChatGPT platform. If you're ever curious about what it does and go poking around—you're probably already wasting your time because the plugin does absolutely nothing. And this is not an exaggeration.
+
+ To trigger the plugin, you're supposed to activate it, and then include the text "I am rich" in your prompt. What happens when you do this? Well, ChatGPT is supposed to load an image of a crystal with a glow around it. What purpose does the image serve? Unless you value it as "artwork," there's really nothing else it does.
+
+ Years ago, there was an app on the Apple Store that cost around $999.99 which did the same thing. Once you installed the app, the only thing it did was show you the image. The only value it offered was showing people that you were rich enough to afford it.
+
+ The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
+
+## 2\. Aaron Web Browser
+
+![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
+
+ “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
+
+ For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to [scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/)? Maybe ChatGPT plugins are not the right tool.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. AppyPie App Builder
+
+![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+ AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
+
+ Considering such a reputation, when AppyPie's plugin popped up in the ChatGPT plugins store, it seemed like you'd be able to build apps on demand by simply describing what you want in plain language. Just type in a prompt describing the kind of app you want and have the plugin build it immediately.
+
+ The plugin itself is self-described as a "text-to-app" plugin, which sort of fits our expectations. Unfortunately, AppyPie's ChatGPT plugin is anything but that. Irrespective of how detailed or shallow you get with your description, it simply tells you the app is ready, presents a link to customize the app and that's about all you get.
+
+ The link leads to the AppyPie website, but there's actually no app waiting to be customized. You'll end up being prompted to register and subscribe to its no-code app-building platform. It's an annoying attempt at advertisement.
+
+ Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+## 4\. AI Agents
+
+![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
+
+ It, at least in theory, is supposed to be able to do something akin to [what AutoGPT does](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/). Unfortunately, irrespective of the complexity of the task we set for it, the plugin couldn't deliver anything.
+
+ It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
+
+## 5\. A Movie Please (FilmFindr)
+
+![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
+
+ Once you've provided a description of the kind of movie you want, the plugin only ever recommends movies that are available on Amazon's Prime streaming service. If you have a niche taste in movies, you'll find the recommendations to be mediocre at best.
+
+ For quality movie suggestions, you're better off prompting the base ChatGPT model directly [to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/). By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+## 6\. ABC Website Maker
+
+![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
+
+ The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
+
+ However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
+
+## ChatGPT's Plugin Store: Quantity Over Quality?
+
+ Rather than hastening progress, the "quantity over quality" trajectory that the ChatGPT plugin store seems to be towing is promoting lacklustre plugins that clutter the store. These plugins divert attention from other more promising tools that could truly push ChatGPT to new heights. Nonetheless, we hope that as the plugin store matures, higher-quality offerings will surface.
+
+ Once developers dig deeper into ChatGPT's capabilities and innovate at its edges, we may finally see plugins that unlock the AI's full power. But for now, relying on the base ChatGPT model or proven third-party tools is a better bet for most tasks. Our verdict? The ChatGPT plugin gold rush has yet to strike gold.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ However, several months along the line, the launch of ChatGPT plugins hasn't really had the impact observers believed it would. Instead, poorly built plugins that aren't extending the chatbot's capabilities in any meaningful way litter the store. Have an important task at hand? Skip these ChatGPT plugins that make big promises but come up short on delivery.
+
+ On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-dive-into-instagram-live-without-hesitation/"><u>[New] Dive Into Instagram Live Without Hesitation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-action-cams-face-off-black-and-star-for-2024/"><u>[New] Ultimate Action Cams Face-Off  Black & Star for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unlocking-the-power-of-videos-to-drive-fb-traffic/"><u>[New] Unlocking the Power of Videos to Drive FB Traffic</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-videos-enhance-your-watch-time/"><u>[Updated] 2024 Approved  Instagram Videos  Enhance Your Watch Time</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-enhancing-photos-through-smart-dynamic-range-methods-for-2024/"><u>[Updated] Enhancing Photos Through Smart Dynamic Range Methods for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-beginners-bane-the-top-8-youtube-errors-you-shouldnt-commit/"><u>[Updated] In 2024, Beginner's Bane  The Top 8 Youtube Errors You Shouldn't Commit</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-from-followers-to-fans-a-strategic-approach-to-instagram-brand-alliances/"><u>[Updated] In 2024, From Followers to Fans  A Strategic Approach to Instagram Brand Alliances</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-iphone-user-guide-to-hdr-image-creation/"><u>[Updated] In 2024, IPhone User Guide to HDR Image Creation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mastering-youtube-traffic-growth-the-ultimate-list-of-keyword-analyzers-for-2024/"><u>[Updated] Mastering YouTube Traffic Growth  The Ultimate List of Keyword Analyzers for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-understanding-the-shift-navigating-posting-in-an-algorithm-world/"><u>[Updated] Understanding the Shift  Navigating Posting in an Algorithm World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-mac-strategies-for-effective-gpt-use/"><u>Advanced Mac Strategies for Effective GPT Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-human-touch-what-attracts-us-to-bot-conversations/"><u>AI and the Human Touch: What Attracts Us to Bot Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-storytelling-assistants-unveiled/"><u>AI-Powered Storytelling Assistants Unveiled</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/all-in-one-tech-on-your-wrist-in-depth-analysis-of-samsung-gear-s3-frontier-features-and-functionality/"><u>All-in-One Tech on Your Wrist: In-Depth Analysis of Samsung Gear S3 Frontier Features and Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-these-8-chatgpt-affiliate-jobs-worth-your-time-for-extra-income/"><u>Are These 8 ChatGPT Affiliate Jobs Worth Your Time for Extra Income?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-of-gpt-4-in-7-tech-marvels/"><u>Behind the Scenes of GPT-4 in 7 Tech Marvels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-machine-bonds-with-sentiment-analysis/"><u>Bridging Human-Machine Bonds with Sentiment Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-vs-gpt-a-deep-dive-into-4-crucial-enhancements-for-users/"><u>Claude vs GPT: A Deep Dive Into 4 Crucial Enhancements for Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/command-your-conversations-leading-apps-to-share-chatgpt-logs/"><u>Command Your Conversations - Leading Apps to Share ChatGPT Logs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-security-lapses-in-chatgpt/"><u>Decoding the Security Lapses in ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-update-instructions-bring-your-computer-to-peak-performance-with-the-latest-intel-wireless-ac-3160-driver/"><u>Easy Update Instructions: Bring Your Computer to Peak Performance with the Latest Intel Wireless-AC 3160 Driver</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-email-subject-lines-the-chatgpt-way/"><u>Enhancing Email Subject Lines: The ChatGPT Way</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-social-interaction-with-chatgpt-features/"><u>Enhancing Social Interaction with ChatGPT Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/excellence-in-broadcasted-theatrical-skits-for-2024/"><u>Excellence in Broadcasted Theatrical Skits for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-advanced-electronics-with-toms-equipment-chronicles/"><u>Explore Advanced Electronics with Tom's Equipment Chronicles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-world-of-machine-learning-with-shap-e/"><u>Exploring the World of Machine Learning with SHAP E</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-techkey-bluetooth-adapter-up-and-running-on-windows-download-drivers-for-win11win7win8/"><u>Get Your Techkey Bluetooth Adapter Up and Running on Windows: Download Drivers for Win11/Win7/Win8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/getting-to-know-gpt-4-without-spending-money/"><u>Getting to Know GPT-4 Without Spending Money</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-palm-2-versus-openais-visionary-gpt-4/"><u>Google's PaLM 2 Versus OpenAI's Visionary GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4o-brings-gpt-4-to-everyone-and-this-is-how-it-works/"><u>GPT-4o Brings GPT-4 to Everyone, and This Is How It Works</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guard-your-data-countering-fraudgpt-intrusion/"><u>Guard Your Data: Countering FraudGPT Intrusion</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-se-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone SE</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hugging-face-a-deep-dive-into-its-uses-and-functionality/"><u>Hugging Face: A Deep Dive Into Its Uses and Functionality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-a-step-by-step-guide-to-mastering-magix-video-pro-x/"><u>In 2024, A Step-by-Step Guide to Mastering Magix Video Pro X</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-v29-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo V29 FRP Without Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovate-with-personal-gpts/"><u>Innovate with Personal GPTs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-at-claude-pro-versus-enhanced-chatgptplus/"><u>Inside Look at Claude Pro Versus Enhanced ChatGPT+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-ai-disrupting-traditional-seo/"><u>Is AI Disrupting Traditional SEO?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-getting-dumber-openai-says-no/"><u>Is ChatGPT Getting Dumber? OpenAI Says No</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-gpt-plus-a-worthy-investment-for-you/"><u>Is GPT Plus a Worthy Investment for You?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpt-functionality-via-plugin-addition/"><u>Maximizing ChatGPT Functionality via Plugin Addition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-potential-ais-contributions-towards-optimal-paperclip-arrangement/"><u>Maximizing Potential: AI's Contributions Towards Optimal Paperclip Arrangement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mystic-ciphers-and-clues-play-through-4-ai-driven-puzzles/"><u>Mystic Ciphers and Clues: Play Through 4 AI-Driven Puzzles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/night-shots-pro-tips-for-iphone-enthusiasts-for-2024/"><u>Night Shots Pro Tips for iPhone Enthusiasts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-pc-communication-leveraging-rtx-ai-assistant/"><u>Optimize PC Communication: Leveraging RTX AI Assistant</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimized-writing-techniques-with-chatgpt-aide/"><u>Optimized Writing Techniques with ChatGPT Aide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outdated-plugins-for-modern-chatgpt-usage/"><u>Outdated Plugins for Modern ChatGPT Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outmoded-or-overlooked-shifting-views-on-turings-test/"><u>Outmoded Or Overlooked? Shifting Views on Turing's Test</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pace-profiles-analyzing-chatgpt-4-and-its-predecessor-35/"><u>Pace Profiles: Analyzing ChatGPT-4 and Its Predecessor, 3.5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/responsible-study-practices-in-the-digital-age/"><u>Responsible Study Practices in the Digital Age</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secrets-dont-fly-with-gpt-keep-them-close/"><u>Secrets Don't Fly with GPT; Keep Them Close</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sports-nutritionists-guide-to-ai-interactions/"><u>Sports Nutritionists' Guide to AI Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-at-your-fingertips-introducing-ai-in-bing-search/"><u>The Future at Your Fingertips: Introducing AI in Bing Search</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-process-of-bot-human-dialogue-emulation/"><u>The Process of Bot-Human Dialogue Emulation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-plan-for-streaming-google-meet-on-youtube/"><u>The Ultimate Plan for Streaming Google Meet on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-strategies-for-human-authors-surpassing-ai-composition/"><u>Top Strategies for Human Authors Surpassing AI Composition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-power-of-ai-crafting-compelling-business-proposals-with-gpt/"><u>Unlock the Power of AI: Crafting Compelling Business Proposals with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-risks-can-your-job-be-threatened-by-chatgpt/"><u>Unveiling the Risks: Can Your Job Be Threatened by ChatGPT?</u></a></li>
+</ul></div>

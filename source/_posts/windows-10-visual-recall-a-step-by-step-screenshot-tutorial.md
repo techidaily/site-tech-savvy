@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Visual Recall: A Step-by-Step Screenshot Tutorial"
-date: 2024-08-15 19:14:13
-updated: 2024-08-16 10:17:25
+date: 2024-08-18T09:49:10.261Z
+updated: 2024-08-19T09:49:10.261Z
 tags:
   - win11
   - win10
@@ -40,6 +40,9 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 
  You can download and install the drivers manually if you know what you’re doing. Both PC manufacturers and device manufacturers provide drivers. If you’re using a prebuilt desktop or a laptop, it’s recommended you go to the PC manufacturer’s website, as they will customize the driver. If you built the desktop on your own or if the PC manufacturer doesn’t provide the new video drivers you need, you can download the drivers from the graphics card manufacturer.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Download the video drivers from PC manufacturers
 
  To download the correct drivers from PC manufacturers, you need to get the PC model name and the Specific Operating System (Windows 10 32-bit or Windows 10 64-bit ). Then you can download the drivers from the**SUPPORT** page of the website.
@@ -51,8 +54,14 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. The**System Model** is the PC model name. In my case, the PC model is Vostro 3900.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Download the video drivers from graphics card manufacturers
 
  To download the correct drivers from the graphics card manufacturer, you need to know the graphics card model and the specific Windows version. Then you can download the drivers from the**SUPPORT** page.
@@ -62,8 +71,16 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Method 3: Update video drivers automatically
 
  If you don’t have the time, patience, or computer skills to video drives manually in Windows 10, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -76,6 +93,9 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
@@ -102,3 +122,52 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-kickstart-your-youtube-journey-with-the-best-tools/"><u>[New] 2024 Approved  Kickstart Your YouTube Journey with the Best Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ootball-film-study-premier-insights-infographic/"><u>[New] Football Film Study  Premier Insights Infographic</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/1716483955689-new-in-2024-how-to-join-someones-live-on-tiktok-as-a-guest/"><u>[New] In 2024, How to Join Someone’s Live on TikTok as a Guest</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-iconic-instagram-aesthetics-compilation/"><u>[New] In 2024, Iconic Instagram Aesthetics Compilation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tips-for-unmuting-missing-facebook-audio/"><u>[New] In 2024, Tips for Unmuting Missing Facebook Audio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mix-like-a-pro-with-20-no-cost-luts-from-dji-devices/"><u>[New] Mix Like a Pro with 20 No-Cost LUTs From DJI Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-eliminating-watermarks-from-your-stock-collections/"><u>[Updated] Eliminating Watermarks From Your Stock Collections</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-pinpoint-premium-video-keywords-on-youtube-for-2024/"><u>[Updated] How to Pinpoint Premium Video Keywords on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-10-video-card-selections-for-peak-streaming-performance/"><u>[Updated] In 2024, Best 10 Video Card Selections for Peak Streaming Performance</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-beginners-guide-to-pro-youtube-tech/"><u>2024 Approved  Beginner's Guide to Pro YouTube Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-celebrating-cinemas-most-uplifting-scenes-and-stories/"><u>2024 Approved  Celebrating Cinema's Most Uplifting Scenes & Stories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-vector-graphics-the-ultimate-10-site-list/"><u>2024 Approved  Premium Vector Graphics  The Ultimate 10 Site List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolutionized-by-vector-data-structures/"><u>AI Revolutionized by Vector Data Structures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-gpt-3-vs-bard-who-leads-the-way/"><u>AI Showdown: GPT-3 Vs. Bard – Who Leads the Way?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analysis-of-virtual-conversations-gpt-and-bing-compared/"><u>Analysis of Virtual Conversations: GPT & Bing Compared</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clearing-the-path-solutions-for-4-common-gpt-3-bans/"><u>Clearing the Path: Solutions for 4 Common GPT-3 Bans</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craftsmanship-meets-artificial-intelligence-next/"><u>Craftsmanship Meets Artificial Intelligence Next</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-free-gaming-experience-achieved-with-recent-fixes-for-insurgency-sandstorm/"><u>Crash-Free Gaming Experience Achieved with Recent Fixes for 'Insurgency: Sandstorm'</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crypto-expectations-vs-chatgpt-realities-key-differences/"><u>Crypto Expectations Vs. ChatGPT Realities: Key Differences</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-se-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone SE Safe and Legal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-intelligence-discovering-this-years-top-5-technological-frontiers/"><u>Elevating Intelligence: Discovering This Year's Top 5 Technological Frontiers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-dialogue-support-merging-gpt-3-with-whatsapp/"><u>Enhanced Dialogue Support: Merging GPT-3 with WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-checkpoints-integrating-ai-assisted-mental-support-via-chatgpt/"><u>Essential Checkpoints: Integrating AI-Assisted Mental Support via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-tips-for-unrestricted-gpt-access-worldwide/"><u>Exclusive Tips for Unrestricted GPT Access Worldwide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-effortless-living-with-these-9-ai-solutions/"><u>Experience Effortless Living with These 9 AI Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ais-role-in-content-innovation-industry-insights/"><u>Generative AI's Role in Content Innovation: Industry Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-innovations-potential-se-engine-counterparts/"><u>GPT Innovations: Potential SE Engine Counterparts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a1x-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo A1x 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-must-have-top-skins-themes-and-backgrounds-for-laptops/"><u>In 2024, Must-Have  Top Skins, Themes & Backgrounds for Laptops</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-essential-snapshot-strategies-snapchat-boomerangs-unveiled/"><u>In 2024, The Essential Snapshot Strategies  Snapchat Boomerangs Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insider-tips-for-spotting-real-chatbot-ios-products/"><u>Insider Tips for Spotting Real ChatBot iOS Products</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intellectual-abilities-of-chatgpt-upheld/"><u>Intellectual Abilities of ChatGPT Upheld</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-enthusiasts-discover-the-latest-chatgpt-app/"><u>IOS Enthusiasts, Discover the Latest ChatGPT App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-revolutionized-with-chatgpt-innovation/"><u>IOS Revolutionized with ChatGPT Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/questioning-ai-trust-zerogpts-shortcomings/"><u>Questioning AI Trust: ZeroGPT’s Shortcomings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/setting-up-a-flawless-stream-on-macos-with-mixer-for-2024/"><u>Setting Up a Flawless Stream on macOS with Mixer for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-basics-of-aspect-ratio-compliance-on-twitter/"><u>The Basics of Aspect Ratio Compliance on Twitter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-frontier-of-tech-ai-grasping-the-spectrum-of-emotion/"><u>The Frontier of Tech: AI Grasping the Spectrum of Emotion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-role-of-chatgpt-in-routine-mindfulness-exercises/"><u>The Role of ChatGPT in Routine Mindfulness Exercises</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-comparison-chatbot-face-off-between-gpt-and-huggingchat/"><u>The Ultimate Comparison: Chatbot Face-Off Between GPT & HuggingChat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-chrome-addons-with-smart-ai-integration-for-efficiency/"><u>Top 8 Chrome Addons with Smart AI Integration for Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/universal-chatgpt-open-doors-worldwide-communication/"><u>Universal ChatGPT: Open Doors, Worldwide Communication</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-professional-goals-ais-contribution-to-employment/"><u>Unlocking Professional Goals: AI's Contribution to Employment</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-srt-secrets-comprehensive-knowledge-guide/"><u>Unlocking SRT Secrets  Comprehensive Knowledge Guide</u></a></li>
+</ul></div>
