@@ -1,7 +1,7 @@
 ---
 title: Efficient Invoice Handling Streamlined with ABBYY Solutions at Adactus Housing Group
-date: 2024-08-19 14:22:38
-updated: 2024-08-22 12:33:23
+date: 2024-08-21T15:29:43.862Z
+updated: 2024-08-22T15:29:43.862Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b1c96fbfb8d71b7193c17bd8.jpg
@@ -63,10 +63,16 @@ Adactus Housing owns and manages over 12,600 homes across 25 local authority are
 
 paper invoices are normally received each year
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **24** suppliers
 
 represent 50% of the transactions stream
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### **4** full time staff
 
 minimum intervention in invoice processing
@@ -113,14 +119,23 @@ The benefit of introducing this solution is a slicker way of working which limit
 
 [![FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Accounts Payable Automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static1.abbyy.com/abbyycommedia/14325/1a-adactus-1-real-estate-en_small.jpg)](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") [PDF version](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [read more](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
 
 ###### Like, share or repost
@@ -131,6 +146,10 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -151,3 +170,39 @@ We'd love to help you along your automation journey.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-your-personal-playlist-on-the-go/"><u>[Updated] 2024 Approved  Your Personal Playlist On-the-Go</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-achieving-top-quality-on-youtube-video-enhancement-fundamentals-for-2024/"><u>[Updated] Achieving Top Quality on YouTube  Video Enhancement Fundamentals for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-understanding-and-utilizing-facebooks-updated-marketing-techniques/"><u>[Updated] In 2024, Understanding & Utilizing Facebook’s Updated Marketing Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alpha-vs-bravo-top-ai-chatbots-comparison/"><u>Alpha Vs. Bravo: Top AI Chatbots Comparison</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/av1s-edge-in-efficiency-over-vp9/"><u>AV1's Edge in Efficiency Over VP9</u></a></li>
+<li><a href="https://article-files.techidaily.com/beneath-the-oceans-veil-tips-for-recording-top-notch-underwater-gopro-videos/"><u>Beneath the Ocean’s Veil  Tips for Recording Top-Notch Underwater GoPro Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bot-privacy-hazards-essential-3-insights-to-consider/"><u>Bot Privacy Hazards: Essential 3 Insights to Consider</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-ai-transform-how-we-interpret-search-results/"><u>Can AI Transform How We Interpret Search Results?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-to-bypassing-useless-gpt-plugins/"><u>Essential Guide to Bypassing Useless GPT Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-cost-free-ai-companions-similar-to-sora/"><u>Exploring Cost-Free, AI Companions Similar to Sora</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2022-pc-freezing-issues-quick-fixes-and-solutions/"><u>Football Manager 2022 PC Freezing Issues: Quick Fixes and Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/halt-comparative-analysis-siri-vs-chatgpts-divergence/"><u>Halt Comparative Analysis: Siri Vs. ChatGPT's Divergence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-proficient-is-chatgpt-at-making-drinks/"><u>How Proficient Is ChatGPT at Making Drinks?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pixelpun-factory/"><u>In 2024, PixelPun Factory</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-web-picks-for-stylish-3d-sparkling-text/"><u>In 2024, Prime Web Picks for Stylish 3D Sparkling Text</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-8-gpt-directives-for-diminishing-online-disturbances/"><u>Leading 8 GPT Directives for Diminishing Online Disturbances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-tough-emails-leveraging-chatgpt-at-your-desk/"><u>Mastering Tough Emails: Leveraging ChatGPT at Your Desk</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-rhythmic-editing-made-easy-aligning-video-and-sound-in-adobe-premiere-pro/"><u>New 2024 Approved Rhythmic Editing Made Easy Aligning Video and Sound in Adobe Premiere Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/practicality-meets-potential-in-chatgpt-applications/"><u>Practicality Meets Potential in ChatGPT Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prioritize-wisdom-over-waste-forget-these-gpt-tools/"><u>Prioritize Wisdom over Waste: Forget These GPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rejecting-mobile-apps-for-gpt-avoidance/"><u>Rejecting Mobile Apps for GPT Avoidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-solutions-to-the-most-frequent-chatgpt-setbacks/"><u>Swift Solutions to the Most Frequent ChatGPT Setbacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-for-free-4-tactics-to-utilize-gpt-4/"><u>Tech for Free: 4 Tactics to Utilize GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-surviving-the-rise-of-ai-at-work/"><u>The Future Is Now: Surviving the Rise of AI at Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-vector-databases-and-machine-learning/"><u>The Intersection of Vector Databases and Machine Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-textual-data-chatgpts-4-reading-approaches/"><u>Transforming Textual Data: ChatGPT's 4 Reading Approaches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-codegpt-can-this-ai-truly-compose-functional-software-on-demand/"><u>Understanding CodeGPT - Can This AI Truly Compose Functional Software on Demand?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-llama-2-usage-guide-essentials/"><u>Understanding Llama 2 - Usage Guide Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-the-rapid-rise-chatgpts-prime-mover-factors/"><u>Unleashing the Rapid Rise: ChatGPT's Prime Mover Factors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-deceptive-gpt-apps-protect-your-personal-info/"><u>Unmasking Deceptive GPT Apps: Protect Your Personal Info!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-s17-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo S17 Pro? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>

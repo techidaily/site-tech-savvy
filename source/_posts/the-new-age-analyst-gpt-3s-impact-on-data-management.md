@@ -1,0 +1,333 @@
+---
+title: "The New Age Analyst: GPT-3's Impact on Data Management"
+date: 2024-08-21T15:39:39.516Z
+updated: 2024-08-22T15:39:39.516Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes The New Age Analyst: GPT-3's Impact on Data Management"
+excerpt: "This Article Describes The New Age Analyst: GPT-3's Impact on Data Management"
+thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0eb3993597fb253da585f204.jpg
+---
+
+## The New Age Analyst: GPT-3's Impact on Data Management
+
+ Over the past few months, there has been a rise in the number of artificial intelligence tools being released. One such powerful tool is ChatGPT, an advanced LLM capable of understanding and holding human-like text conversations.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Though ChatGPT has been proven to generate conversational text, it has been a valuable asset for people across various industries. For data analysts, ChatGPT can be used to enhance their analytical capabilities and handle complex data challenges. Let’s look at some ways data analysts can use ChatGPT to be more productive in their day-to-day work.
+
+## 1\. Refine Ideas About a Task
+
+ Data analysts can leverage the capabilities of ChatGPT to refine and brainstorm about a task or case study. Since [ChatGPT](https://chat.openai.com/) can generate conversational text, you can engage it and explore various perspectives by asking questions.
+
+![The response from ChatGPT on a prompt that ask it how to segment customer data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image3-v1.jpg)
+
+ Suppose you want to write a script to automate a business process. You can ask ChatGPT for ideas on how to get started. All you have to do is ask it for a prompt via the chat and wait for its response. You can ask further questions or alternative viewpoints from the response.
+
+> **Case Study:** I have a business problem. I want to [create a dashboard in Excel](https://www.makeuseof.com/create-interactive-excel-dashboard/) to segment and track the behavior of my customer. I currently run a coffee shop, and a few make orders via my e-commerce website.
+>
+> What kind of information should I collect from my customers? What key performance indicators should I measure? Which tool and type of visualization should I use? Also, what kind of cohort analysis, and what will you recommend I incorporate for my user segmentation?
+
+## 2\. Fixing Bugs and Troubleshooting
+
+ You encounter bugs in your code, formula, or script during your day-to-day work as a data analyst. A conversational encounter with ChatGPT can provide debugging strategies, a fresh perspective, or even code solutions to the bugs.
+
+ ChatGPT can explain why your code threw the issue in the first place if you provide a prompt and the error message.
+
+> **My prompt**: I want this DAX formula to return a value based on the selected date on my filter. Year and month considered. However, the formula below returned an error.
+
+`Customer Espresso and Cappuccino=
+  
+CALCULATE(  
+  
+           SUM('Sales Data'[Amount]), ,
+  
+           KEEPFILTERS('Sales Data'[Product Type] ="Espresso" and 'Sales Data'[Product Type] ="Cappuccino")`
+
+![A prompt response from ChatGPT about a debugging task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image1-v1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+## 3\. To Interpret Data and Explain Complex Code
+
+![A prompt from ChatGPT that displays the explaination of a code block](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image6-v1.jpg)
+
+ ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 4\. To Write, Edit and Generate Codes, Formula, and Syntax
+
+ In the same way that ChatGPT may be used to interpret complex coding. You can request that it create the code or syntax for you.
+
+> **Case Study:** You have a [Python if statement with a for Loop](https://www.makeuseof.com/python-if-statement/). Your current code only checks if the length of myList is precisely 3 and loops through it if the statement is true. Otherwise, it executes the else statement and outputs each item in myList2\. However, you would like to modify it to print all items in either list with exactly four letters instead.
+>
+> **My prompt:** can you modify this Python code to print all items in either list with exactly four letters instead:
+
+`myList = ['Python', 'MUO', 'Hello']  
+  
+myList2 = ["Fish", "Gold", "Bag"]  
+  
+if len(myList) == 3:  
+  
+   for items in myList:  
+  
+       print(items)  
+  
+else:  
+  
+   for items2 in myList2:  
+  
+       print(items2)`
+
+![A prompt that display clearly written code by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image4-v1.jpg)
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Learning New Skills
+
+ We have an article on how you can [add a static date and time in Google Sheets](https://www.makeuseof.com/add-static-date-time-google-sheets/). You can use ChatGPT to learn more about this topic or how to do something similar in a different application. For example, how to add a static date and time in Tableau.
+
+![A prompt that show how to add a static date and time in Tableau.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image5-v1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ By writing a prompt, you can learn about new features and skills, or how to use a specific function in your favorite analytical tool.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Document Your Codes
+
+ Codes that have comments are easier to read. But you can admit that everyone finds the process boring and monotonous. ChatGPT can perform this task effortlessly and with great accuracy and efficiency.
+
+ Ask it a question, and it will provide you with fully commented code you can copy and paste in response.
+
+> **My Prompt:** Can you add comments to this SQL code:
+
+`SELECT  
+  
+ e.employee_id AS "Employee #"  
+  
+ , e.first_name || ' ' || e.last_name AS "Name"  
+  
+ , e.email AS "Email"  
+  
+ , e.phone_number AS "Phone"  
+  
+ , TO_CHAR(e.hire_date, 'MM/DD/YYYY') AS "Hire Date"  
+  
+ , TO_CHAR(e.salary, 'L99G999D99', 'NLS_NUMERIC_CHARACTERS = ''.,'' NLS_CURRENCY = ''
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+'') AS "Salary"  
+  
+ , e.commission_pct AS "Comission %"  
+  
+ , 'works as ' || j.job_title || ' in ' || d.department_name || ' department (manager: '  
+  
+   || dm.first_name || ' ' || dm.last_name || ') and immediate supervisor: ' || m.first_name || ' ' || m.last_name AS "Current Job"  
+  
+ , TO_CHAR(j.min_salary, 'L99G999D99', 'NLS_NUMERIC_CHARACTERS = ''.,'' NLS_CURRENCY = ''
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+'') || ' - ' ||  
+  
+     TO_CHAR(j.max_salary, 'L99G999D99', 'NLS_NUMERIC_CHARACTERS = ''.,'' NLS_CURRENCY = ''
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+'') AS "Current Salary"  
+  
+ , l.street_address || ', ' || l.postal_code || ', ' || l.city || ', ' || l.state_province || ', '  
+  
+   || c.country_name || ' (' || r.region_name || ')' AS "Location"  
+  
+ , jh.job_id AS "History Job ID"  
+  
+ , 'worked from ' || TO_CHAR(jh.start_date, 'MM/DD/YYYY') || ' to ' || TO_CHAR(jh.end_date, 'MM/DD/YYYY') ||  
+  
+   ' as ' || jj.job_title || ' in ' || dd.department_name || ' department' AS "History Job Title"  
+  
+FROM employees e  
+  
+-- to get title of current job_id  
+  
+ JOIN jobs j
+  
+   ON e.job_id = j.job_id  
+  
+-- to get name of current manager_id  
+  
+ LEFT JOIN employees m
+  
+   ON e.manager_id = m.employee_id  
+  
+-- to get name of current department_id  
+  
+ LEFT JOIN departments d
+  
+   ON d.department_id = e.department_id  
+  
+-- to get name of manager of current department  
+  
+-- (not equal to current manager and can be equal to the employee itself)  
+  
+ LEFT JOIN employees dm
+  
+   ON d.manager_id = dm.employee_id  
+  
+-- to get name of location  
+  
+ LEFT JOIN locations l  
+  
+   ON d.location_id = l.location_id  
+  
+ LEFT JOIN countries c  
+  
+   ON l.country_id = c.country_id  
+  
+ LEFT JOIN regions r  
+  
+   ON c.region_id = r.region_id  
+  
+-- to get job history of employee  
+  
+ LEFT JOIN job_history jh  
+  
+   ON e.employee_id = jh.employee_id  
+  
+-- to get title of job history job_id  
+  
+ LEFT JOIN jobs jj  
+  
+   ON jj.job_id = jh.job_id  
+  
+-- to get namee of department from job history  
+  
+ LEFT JOIN departments dd  
+  
+   ON dd.department_id = jh.department_id  
+  
+ORDER BY e.employee_id;`
+
+![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Data Analysts Can Use ChatGPT in Their Work
+
+ Powerful AI solutions like ChatGPT boost everyone's productivity, even data analysts. Using ChatGPT's natural language processing capabilities and asking the right prompt, data analysts can quickly and accurately get ideas and insight into their tasks.
+
+ However, while ChatGPT can be a collaborator in your work, it's vital to critically evaluate and test its feedback. So explore this fantastic technology, integrate it into your workflow, and let me know your thoughts.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Though ChatGPT has been proven to generate conversational text, it has been a valuable asset for people across various industries. For data analysts, ChatGPT can be used to enhance their analytical capabilities and handle complex data challenges. Let’s look at some ways data analysts can use ChatGPT to be more productive in their day-to-day work.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-page-fault-in-nonpaged-area-error-in-windows-10/"><u>[Fixed] Page Fault In Nonpaged Area Error in Windows 10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-best-youtube-video-marketing-strategies-for-2024/"><u>[New] 5 Best YouTube Video Marketing Strategies for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-xbox-expansion-top-5-external-hard-drives-ranked/"><u>[Updated] In 2024, Xbox Expansion  Top 5 External Hard Drives Ranked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infinite-storage-pathways-select-services-showcase/"><u>[Updated] Infinite Storage Pathways  Select Services Showcase</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-craft-your-vision-best-cameras-for-video-creators/"><u>2024 Approved  Craft Your Vision  Best Cameras for Video Creators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-crop-companion-chronicles-best-agricultural-titles-with-pals/"><u>2024 Approved  Crop Companion Chronicles  Best Agricultural Titles with Pals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-code-companion-github-copilot-versus-chatgpt/"><u>Choosing Your Code Companion: GitHub Copilot Versus ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-ai-responses-top-tips-for-writing-effective-chatbot-prompts/"><u>Conquer AI Responses: Top Tips For Writing Effective Chatbot Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-nutritional-plans-with-chatai/"><u>Crafting Personalized Nutritional Plans with ChatAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-user-experience-via-ai-search-tech/"><u>Enhancing User Experience via AI Search Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/expert-tips-on-ipad-screen-casts-for-2024/"><u>Expert Tips on iPad Screen Casts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-chatgpts-inbuilt-plugins-and-uses/"><u>Exploring ChatGPT’s Inbuilt Plugins and Uses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guard-your-content-against-ai-harvesters/"><u>Guard Your Content Against AI Harvesters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-sound-compilation-premium-download-locales-for-2024/"><u>Ideal Sound Compilation  Premium Download Locales for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lenovo-thinkphone-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Lenovo ThinkPhone Phone without PIN</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instant-success-code-five-keys-of-chatgpts-triumph/"><u>Instant Success Code: Five Keys of ChatGPT's Triumph</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-5-pioneering-ai-helpers-for-mind-care/"><u>Introducing 5 Pioneering AI Helpers for Mind Care</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-3-python-implementation-guide/"><u>Mastering GPT-3: Python Implementation Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-job-landscape-6-chatgpt-techniques-for-success/"><u>Navigate Job Landscape: 6 ChatGPT Techniques for Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-post-altman-predicted-shift-for-gpt-users/"><u>New Era Post-Altman: Predicted Shift for GPT Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/petcube-reveals-an-exceptional-price-to-performance-petcam/"><u>Petcube Reveals an Exceptional Price-to-Performance Petcam</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserving-privacy-saving-chatgpt-dialogues-secretly/"><u>Preserving Privacy: Saving ChatGPT Dialogues Secretly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-collection-of-best-ai-phone-apps-android-plus-ios/"><u>Prime Collection of Best AI Phone Apps (Android + iOS)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-4-bungles-that-impact-content-quality-via-chatgpt/"><u>The 4 Bungles That Impact Content Quality via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-artifical-tears-and-smiles-might-machines-be-empathetic/"><u>The Artifical Tears and Smiles: Might Machines Be Empathetic?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-ai-crafting-custom-guidance-in-chatgpt/"><u>The Evolution of AI: Crafting Custom Guidance in ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-googles-gemini-and-its-battle-against-chatgpt/"><u>The Rise of Google's Gemini and Its Battle Against ChatGPT</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-language-test-mastering-the-most-difficult-ones/"><u>The Ultimate Language Test: Mastering the Most Difficult Ones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/theoretical-framework-understanding-the-internet-as-a-costless-and-open-access-information-hub/"><u>Theoretical Framework: Understanding the Internet as a Costless and Open-Access Information Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-prompts-for-limiting-social-media-interruptions-via-gpt/"><u>Top 8 Prompts for Limiting Social Media Interruptions via GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-how-educators-can-thrive-with-ai-integration/"><u>Top 8: How Educators Can Thrive with AI Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-browsing-a-guide-to-agentgpts-ais/"><u>Transform Your Browsing - A Guide to AgentGPT's AIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-edge-compute-ai-at-hardware-level/"><u>Understanding Edge Compute: AI at Hardware Level</u></a></li>
+</ul></div>

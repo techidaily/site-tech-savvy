@@ -1,0 +1,207 @@
+---
+title: "OpenAI APIs Explained: Actions and Applications"
+date: 2024-08-21T15:36:52.364Z
+updated: 2024-08-22T15:36:52.364Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes OpenAI APIs Explained: Actions and Applications"
+excerpt: "This Article Describes OpenAI APIs Explained: Actions and Applications"
+thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a5e0550c353e9047546c19d2.jpg
+---
+
+## OpenAI APIs Explained: Actions and Applications
+
+ ChatGPT's generative power has caused a frenzy in the tech world since it launched. To share the AI's intuition, OpenAI released the ChatGPT and Whisper APIs on March 1, 2023, for developers to explore and consume in-app.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ OpenAI's APIs feature many valuable endpoints that make AI integration easy. Let's explore the power of OpenAI APIs to see how they can benefit you.
+
+## What Can the OpenAI API Do?
+
+ The [OpenAI API](https://platform.openai.com/) packs in a bunch of utilities for programmers. If you intend to deliver in-app AI daily, OpenAI will make your life easier with the following abilities.
+
+### Chat
+
+ The OpenAI API chat completion endpoint helps the end user to spin up a natural, human-friendly interactive session with a virtual assistant using the GPT-3.5-turbo model.
+
+ Backstage, the API call uses a message array of roles and content. On the user side, content is a set of instructions for the virtual assistant, which engages the user, while for the model, content is its response.
+
+ The top-level role is the system, where you define the overall function of the virtual assistant. For instance, when the programmer tells the system something like "you are a helpful virtual assistant," you expect it to respond to various questions within its learning capacity.
+
+ After telling it to be "a helpful virtual assistant," here's how one of our command-line chats went with the GPT-3.5-turbo model:
+
+![Chat completion chat CLI logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chat-completion-chat-cli-logs.jpg)
+
+ You can even improve the model's performance by supplying parameters like temperature, presence-penalty, frequency-penalty, and more. If you've ever used ChatGPT, you already know how OpenAI's chat completion model work.
+
+### Text Completion
+
+ The text completion API provides conversational, text insertion, and text completion functionalities based on advanced GPT-3.5 models.
+
+ The champion model in the text completion endpoint is text-davinci-003, which is considerably more intuitive than GPT-3 natural language models. The endpoint accepts a user prompt, allowing the model to respond naturally and complete simple to complex sentences using human-friendly text.
+
+ Although the text-completion endpoint isn't as intuitive as the chat endpoint, it gets better—as you increase the text tokens supplied to the text-davinci-003 model.
+
+ For instance, we got some half-baked completions when we placed the model on a max\_tokens of seven:
+
+![Text completion model test via CLI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli.jpg)
+
+ However, increasing the max\_tokens to 70 generated more coherent thoughts:
+
+![Text completion model test via CLI more complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli-more-complete.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### Speech-to-Text
+
+ You can transcribe and translate audio speech using the OpenAI transcription and translation endpoints. The speech-to-text endpoints are based on the Whisper v2-large model, developed through large-scale weak supervision.
+
+ However, OpenAI says there's no difference between its Whisper model and the one in open-source. So it offers endless opportunities for integrating a multilingual transcriber and translator AI into your app at scale.
+
+ The endpoint usage is simple. All you have to do is to supply the model with an audio file and call the **openai.Audio.translate** or **openai.Audio.transcribe** endpoint to translate or transcribe it respectively. These endpoints accept a maximum file size of 25 MB and support most audio file types, including mp3, mp4, MPEG, MPGA, m4a, wav, and webm.
+
+### Text Comparison
+
+ OpenAI API text comparison endpoint measures the relationship between texts using the text-embedding-ada-002 model, a second-generation embedding model. The embedding API uses this model to evaluate the relationship between texts based on the distance between two vector points. The wider the difference, the less related the texts under comparison are.
+
+ The embedding endpoint features text clustering, differences, relevance, recommendations, sentiments, and classification. Plus, it charges per token volume.
+
+ Although the OpenAI documentation says you can use the other first-generation embedding models, the former is better with a cheaper price point. However, OpenAI warns that the embedding model might show social bias towards certain people, as proven in tests.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+### Code Completion
+
+ The code completion endpoint is built on the OpenAI Codex, a set of models trained using natural language and billions of code lines from public repositories.
+
+ The endpoint is in limited beta and free as of writing, offering support for many modern programming languages, including JavaScript, Python, Go, PHP, Ruby, Shell, TypeScript, Swift, Perl, and SQL.
+
+ With the code-davinci-002 or code-cushman-001 model, the code completion endpoint can auto-insert code lines or spin up code blocks from a user's prompt. While the latter model is faster, the former is the powerhouse of the endpoint, as it features code insertions for code auto-completion.
+
+ For instance, you can generate a code block by sending a prompt to the endpoint in the target language comment.
+
+ Here are some responses we got when we tried generating some code blocks in Python and JavaScript via the terminal:
+
+![OpenAI code completion command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-code-completion-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Image Generation
+
+ This is one of the most intuitive features of the OpenAI API. Based on the DALL.E image model, the OpenAI API's image functionality features endpoints for generating, editing, and creating image variations from natural language prompts.
+
+ Although it doesn't yet have advanced features like upscaling as it's still in beta, its unscaled outputs are more impressive than those of generative [art models like Midjourney](http://www.makeuseof.com/how-to-use-midjourney-create-ai-art/) and Stable Diffusion.
+
+ While hitting the image generation endpoint, you only need to supply a prompt, image size, and image count. But the image editing endpoint requires you to include the image you wish to edit and an RGBA mask marking the edit point in addition to the other parameters.
+
+ The variation endpoint, on the other hand, only requires the target image, the variation count, and the output size. At the time of writing, OpenAI's beta image endpoints can only accept square frames in the range 256x256, 512x512, and 1024x1024 pixels.
+
+ We created a simple image generation application using this endpoint, and though it missed some details, it gave an incredible result:
+
+![Image generation test for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/image-generation-test-for-openai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+## How to Use the OpenAI API
+
+![OpenAI API secret key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-api-secret-key-page.jpg)
+
+ ​​​​​ The OpenAI API usage is simple and follows the conventional API consumption pattern.
+
+1. Install the **openai** package using pip: **pip install openai**.If using Node instead, you can do so using npm: **npm install openai**.
+2. **Grab your API keys**: Log into your OpenAI dashboard and click your profile icon at the top right. Go to **View API Keys** and click **Create new secret key** to generate your API secret key.
+3. Make API calls to your chosen model endpoints via a server-side language like Python or JavaScript (Node). Feed these to your custom APIs and test your endpoints.
+4. Then [fetch custom APIs via JavaScript](http://www.makeuseof.com/how-to-consume-apis-in-react-using-fetch-and-axios/) frameworks like React, Vue, or Angular.
+5. Present data (user requests and model responses) in a visually appealing UI, and your app is ready for real-world use.
+
+## What Can You Create With the OpenAI API?
+
+ The OpenAI APIs create entry points for real-life usage of machine learning and reinforcement learning. While opportunities for creativity abound, here are a few of what you can build with the OpenAI APIs:
+
+1. Integrate an intuitive virtual assistant chatbot into your website or application using the chat completion endpoint.
+2. Create an image editing and manipulation app that can naturally insert an object into an image at any specified point using the image generation endpoints.
+3. Build a custom machine learning model from the ground up using OpenAI's model fine-tune endpoint.
+4. Fix subtitles and translations for videos, audio, and live conversations using the speech-to-text model endpoint.
+5. Identify negative sentiments in your app using the OpenAI embedding model endpoint.
+6. Create programming language-specific code completion plugins for code editors and integrated development environments (IDEs).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Build Endlessly With the OpenAI APIs
+
+ Our daily communication often involves the exchange of written content. The OpenAI API only extends its creative tendencies and potential, with seemingly limitless natural language use cases.
+
+ It’s still early days for the OpenAI API. But expect it to evolve with more features as time passes.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ OpenAI's APIs feature many valuable endpoints that make AI integration easy. Let's explore the power of OpenAI APIs to see how they can benefit you.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-from-screens-to-stories-vertical-video-mastery-with-fcpx/"><u>[Updated] 2024 Approved  From Screens to Stories  Vertical Video Mastery with FCPX</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-curated-igtv-channels-that-matter-today-for-2024/"><u>[Updated] Curated IGTV Channels That Matter Today for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-art-of-visual-branding-with-professional-grade-fb-covers/"><u>[Updated] In 2024, The Art of Visual Branding with Professional-Grade FB Covers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-insiders-look-at-the-most-effective-instagram-tags-for-growth/"><u>[Updated] In 2024, The Insider's Look at the Most Effective Instagram Tags for Growth</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximize-your-access-to-fb-videos-with-our-top-5-picks/"><u>[Updated] Maximize Your Access to FB Videos with Our Top 5 Picks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlocking-the-art-of-pc-games-screen-capture-for-2024/"><u>[Updated] Unlocking the Art of PC Games Screen Capture for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/11-fixes-if-windows-10-cant-detect-a-wi-fi-network/"><u>11 Fixes if Windows 10 Can’t Detect a Wi-Fi Network</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advance-your-conversations-key-strategies-to-enhance-ai-responses/"><u>Advance Your Conversations: Key Strategies to Enhance AI Responses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-gpt-app-addons-reliable-for-safe-use/"><u>Are GPT App Addons Reliable for Safe Use?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bards-new-ai-capabilities-the-seven-highlights-from-google-io-2023/"><u>Bard's New AI Capabilities: The Seven Highlights From Google I/O 2023</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/barricade-web-from-robotic-crawlers/"><u>Barricade Web From Robotic Crawlers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-ai-chat-and-android-enhancing-text-input-experience/"><u>Bing AI Chat and Android: Enhancing Text Input Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-androids-typing-efficiency-with-bing-ai-chat-functionality/"><u>Boost Your Android's Typing Efficiency with Bing AI Chat Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-claims-chatgpt-app-on-windows-not-so-fast/"><u>Debunking Claims: ChatGPT App on Windows? Not So Fast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elon-musks-grok-explanation-decoding-its-essence-and-price-tag/"><u>Elon Musk's Grok Explanation - Decoding Its Essence and Price Tag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embrace-conversation-chatgpt-for-android-users/"><u>Embrace Conversation: ChatGPT for Android Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forging-magical-companions-chatgpt-and-dall-e-for-dandd-rpgs/"><u>Forging Magical Companions: ChatGPT and DALL-E for D&D RPGs</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-g2-by-fonelab-android-recover-data/"><u>How to retrieve lost files from G2?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-8-subtitle-transformers-seamless-switch-from-sub-to-srtr-in-seconds-on-windowsmacos/"><u>In 2024, Best 8 Subtitle Transformers  Seamless Switch From SUB to SRTR in Seconds on Windows/MacOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-ai-chatbots-popularity-and-their-functionality/"><u>Navigating Through AI Chatbots' Popularity and Their Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-launches-game-changing-gpt-4-artificial-intelligence-model/"><u>OpenAI Launches Game-Changing GPT-4 Artificial Intelligence Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-personalized-ais-crafting-your-own-chatgpt/"><u>Pioneering Personalized AIs: Crafting Your Own ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-paranoia-the-risks-of-sharing-with-chatgpt/"><u>Privacy Paranoia: The Risks of Sharing with ChatGPT</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sculpt-individualized-language-models/"><u>Sculpt Individualized Language Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-the-turing-test-can-it-ever-be-overtaken/"><u>Simplifying the Turing Test: Can It Ever Be Overtaken?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-fixing-chatgpt-plugin-miscommunication/"><u>Strategies for Fixing ChatGPT Plugin Miscommunication</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-5-pivotal-reasons-companies-want-to-limit-ai-assistants/"><u>The 5 Pivotal Reasons Companies Want to Limit AI Assistants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-fact-files-on-fictional-ai-bots-top-9-reality-checks/"><u>The Fact Files on Fictional AI Bots - Top 9 Reality Checks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-gateway-to-gpt-4-opening-the-door-for-everyone/"><u>The Gateway to GPT-4: Opening the Door for Everyone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-12-pro-max-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 12 Pro Max</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-world-betrayals-activisions-tale/"><u>Virtual World Betrayals: Activision's Tale</u></a></li>
+</ul></div>

@@ -1,0 +1,266 @@
+---
+title: Ubuntu Bash Scripts to Converse with ChatGPT
+date: 2024-08-21T15:40:44.152Z
+updated: 2024-08-22T15:40:44.152Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Ubuntu Bash Scripts to Converse with ChatGPT
+excerpt: This Article Describes Ubuntu Bash Scripts to Converse with ChatGPT
+thumbnail: https://thmb.techidaily.com/063f04ddcc12d7ad0c40343a71ed623fbddb1ebfb8c3b581a5d414d7d362a54b.jpg
+---
+
+## Ubuntu Bash Scripts to Converse with ChatGPT
+
+ Artificial intelligence has emerged as a new-age sensation, leaving everything behind in the dust. With new additions daily, there is a lot to look forward to.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ People use this multi-faceted, ubiquitous tool to crack jokes, write codes and even answer the most random questions. It’s easy to use ChatGPT on other OSes, so, as a Linux user, why should you stay behind?
+
+ You too can enjoy ChatGPT’s Linux avatar, ShellGPT. Here's how to install and use the AI tool from your Ubuntu terminal in a few easy steps.
+
+## What’s ShellGPT, ChatGPT’s Equivalent Linux Namesake?
+
+ ShellGPT, as it is more commonly known, is ChatGPT’s command-line equivalent, through which users can use and engage with the AI chatbot via their Linux terminal. The chatbot draws power from OpenAI’s Large Language Model, providing intelligent user recommendations.
+
+ Large Language Models (LLMs) are becoming a hot topic of discussion since you can easily [run LLM-enabled chatbots on your Raspberry Pi](https://www.makeuseof.com/raspberry-pi-large-language-model/).
+
+ Sounds intriguing, doesn’t it?
+
+ If you have experience interacting with ChatGPT, you will love this alternate Linux shell version.
+
+ What’s the benefit of installing ShellGPT on your machine? It’s simple; you don’t need to type in unnecessary long commands or head to your browser. Instead, you can perform all possible tasks from the comfort of your Linux terminal.
+
+ Before installing ShellGPT on your Ubuntu machine, here are a few prerequisites to take care of.
+
+## Step 1: Install Python and PIP on Your Machine
+
+ Like most artificial intelligence-enabled tools, even ShellGPT runs on Python. While Python is usually installed by default on most Linux distros, you can check its installation via its version information. If Python isn’t available on your machine, you must install it before moving on to the next steps.
+
+ Open a terminal and type in the following commands to check Python’s version:
+
+`python3 --version`
+
+ If the command returns a numeric version output, you can safely assume you’re rearing and ready to go. However, if you encounter any errors, you should [install Python on Ubuntu](https://www.makeuseof.com/install-python-ubuntu/), before installing PIP.
+
+ Now that you have Python installed on your machine, it’s time to install PIP, Python’s native package manager.
+
+ Even though PIP is usually pre-installed with the Python bundle, it’s best to check the version beforehand to know its installation status. Run the following command to check if it is installed on your machine:
+
+`pip --version`
+
+ If you get the following error post-execution, you need to install the package manager:
+
+`Command 'pip' not found, but can be installed with:  
+`
+
+ You can use the following command to install it:
+
+`sudo apt install python3-pip`
+
+![Ubuntu terminal window with code snippets with installation codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-pip-on-ubuntu.jpg)
+
+ After installation, you can again use the **\--version** command to check if the installation was successful.
+
+## Step 2: Install and Set Up a Virtual Environment Using Python
+
+ Now that Python and PIP are ready, you can set up Python's virtual environment to make the machine environment conducive for installing and running ShellGPT. Virtual environments are ideal for running isolated programs since they can avoid library conflicts.
+
+ With a virtual environment in tow, you can limit the interactions between your system's and virtual environment's programs while performing different executions in silos.
+
+ Using a virtual environment is an optional step, to avoid any unforeseen mishaps while installing and using Python libraries.
+
+ To create a virtual environment using Python, you need to install the **venv** module:
+
+`sudo apt install python3-venv -y`
+
+![Ubuntu terminal window code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-virtual-environment-module-in-ubuntu.jpg)
+
+### Set Up the Virtual Environment
+
+ Once you've installed the virtual environment, you can set it up, so that it can facilitate ShellGPT's commands seamlessly.
+
+ First, create a new directory to organize and host the files. You can use the **mkdir** command, followed by the directory name, as follows:
+
+`mkdir cli-shellgpt`
+
+ Navigate to this newly created directory with [the cd command](https://www.makeuseof.com/cd-command-in-linux/):
+
+`cd cli-shellgpt`
+
+ Then, create a new virtual environment with the **venv** command, followed by an environment name:
+
+`python3 -m venv cli-shellgpt`
+
+ Since the virtual environment isn't enabled by default, you must enable it manually with the **activate** script:
+
+`source cli-shellgpt/bin/activate`
+
+ As soon as you execute the above command, you will notice the default Linux shell prompt changes, as shown below:
+
+`(cli-shellgpt) sahil@vm:`
+
+![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-virtual-environment-for-shellgpt-in-ubuntu-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Step 3: Generate an OpenAPI Key
+
+ Since the virtual environment is ready, you must connect the OpenAI services and your Ubuntu machine to run ShellGPT. For this purpose, you must navigate to [OpenAI's website](https://openai.com/) and create an account there.
+
+ If you have an existing account, you can log in with your credentials and navigate to your profile image, located on the top right-hand side of the website.
+
+ Click on **View API Keys**, followed by **Create new secret key**.
+
+![OpenAI website interface showing a drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-api-keys-on-openai-website.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Do not share this key with anyone since the connection is private and should be used on your machine only.
+
+ Copy the API key from the dialog box, and save it somewhere, since you won't be able to review the same key again.
+
+![OpenAI's secret key website page with an open dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/generate-api-secret-key.jpg)
+
+ To establish a connection on your Ubuntu machine, create an environment variable with the **export** command:
+
+`export OPENAI_API_KEY=<paste key details here>`
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Add and Verify the API Key Into a Virtual Environment Variable
+
+ When you execute the API key in this manner, Linux will use it only for a single instance. However, if you want to make the execution permanent, save it in the **.bashrc** file.
+
+ All you have to do is type in the first command and enter the subsequent command within the text editor:
+
+`nano ./bashrc  
+export OPENAI_API_KEY=<paste key details here>`
+
+![Ubuntu terminal window with code snippets to create and save an environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-an-environment-variable-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+ Save and exit the editor. Then, use the source command to enable the changes.
+
+`source ./bashrc`
+
+ Finally, verify the API key with the **env** command.
+
+`env`
+
+![List of variables in a linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-secret-key-in-env-list.jpg)
+
+ Your **OPENAI\_API\_KEY** environment variable should be listed in the output.
+
+## Step 5: Install ShellGPT on Ubuntu
+
+ Once all the installation formalities are complete, you can simply move on to the best part, the ShellGPT installation. The installation steps are quite straightforward, and you can install the tool with the following command:
+
+`pip3 install shell-gpt`
+
+![Installation snippet on ubuntu's terminal screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-shell-gpt-on-ubuntu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+ Let the installation finish; meanwhile, you can check out some interesting ways to use the AI tool via your terminal window.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Using ShellGPT for Running Queries via the Terminal
+
+ The entire purpose of installing ShellGPT is to make your life easier. To use the terminal as a search engine and run some queries, you can use the **sgpt** command, followed by your query within quotes:
+
+`sgpt "How many galaxies exist within the universe"`
+
+![Ubuntu terminal interface with a query response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-query-reponse.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+## Using ShellGPT for Generating Code
+
+ You can use your ShellGPT for generating code as well. You can do it by passing the right command with the **sgpt** command:
+
+`sgpt --code "print the Fibonacci series"`
+
+![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-code-reponse.jpg)
+
+ The output consists of code you can execute within Python to generate the Fibonacci series.
+
+## Using ShellGPT Within Ubuntu’s Terminal
+
+ Linux commands become easy, especially when everything is available within your terminal window. From running shell commands to using your terminal as a search engine, you can do it all with ShellGPT.
+
+ But since ShellGPT is based on the same concept as ChatGPT, it has its own set of problems, which might take a while to perfect. Until you can download the new bug-free version, it's best to continue working with the tool's imperfections and make your life easier with ShellGPT's automated commands.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ People use this multi-faceted, ubiquitous tool to crack jokes, write codes and even answer the most random questions. It’s easy to use ChatGPT on other OSes, so, as a Linux user, why should you stay behind?
+
+ You too can enjoy ChatGPT’s Linux avatar, ShellGPT. Here's how to install and use the AI tool from your Ubuntu terminal in a few easy steps.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-engaging-audiences-crafting-youtube-trailers-via-filmora/"><u>[New] 2024 Approved  Engaging Audiences  Crafting YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-blending-past-and-present-film-aesthetics-for-2024/"><u>[New] Blending Past and Present Film Aesthetics for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-digital-capture-delight-discover-the-leading-free-options-for-2024/"><u>[Updated] Digital Capture Delight  Discover the Leading Free Options for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-growth-hurdle-cleared-500-subscribers-win-for-2024/"><u>[Updated] Growth Hurdle Cleared  500 Subscribers Win for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-understanding-vr-technology/"><u>[Updated] Step-by-Step Guide to Understanding VR Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/0x80070005-access-is-denied-update-error-on-windows-fixed/"><u>0X80070005 Access Is Denied Update Error on Windows [Fixed]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/achieving-peak-engagement-with-strategic-reddit-posting-for-2024/"><u>Achieving Peak Engagement with Strategic Reddit Posting for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/busting-the-bottleneck-managing-excessive-disk-load-on-windows-11-pcs/"><u>Busting the Bottleneck: Managing Excessive Disk Load on Windows 11 PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-s24-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy S24?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cutting-ties-with-paramountplus-easy-steps-to-discontinue-your-subscription/"><u>Cutting Ties with Paramount+: Easy Steps to Discontinue Your Subscription</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808153847-enhance-visual-experience-resetting-the-gpu-driver-across-various-windows-operating-systems/"><u>Enhance Visual Experience: Resetting the GPU Driver Across Various Windows Operating Systems.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-artificial-intelligence-for-insights-and-predictions/"><u>Harnessing Artificial Intelligence for Insights and Predictions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-innovative-screen-capture-on-mac-top-5-methods/"><u>In 2024, Innovative Screen Capture on Mac, Top 5 Methods</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-quick-and-easy-incorrante-audio-into-fb-profiles-ios-android/"><u>In 2024, Quick & Easy  Incorrante Audio Into FB Profiles (iOS, Android)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-the-purpose-and-function-of-facebooks-status-emoji/"><u>In 2024, Unlocking the Purpose and Function of Facebook's Status Emoji</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ram-availability/"><u>RAM Availability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reinstallreset-windows-11-step-by-step/"><u>Reinstall/Reset Windows 11 [Step By Step]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-setup-pairing-personal-computers-with-external-projection-units/"><u>Seamless Setup: Pairing Personal Computers with External Projection Units</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-steps-how-to-turn-off-automatic-windows-11-update-installations/"><u>Simple Steps: How to Turn Off Automatic Windows 11 Update Installations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solution-steps-for-overcoming-windows-11s-sleep-cycle-problems/"><u>Solution Steps for Overcoming Windows 11'S Sleep Cycle Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speedy-driver-updates-on-windows-1-a-simple-process-for-users/"><u>Speedy Driver Updates on Windows 1지 - A Simple Process for Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-accessing-the-windows-11-control-panel/"><u>Step-by-Step Guide: Accessing the Windows 11 Control Panel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-and-resolving-0x80248007-error-during-windows-11-updates-tips-and-tricks/"><u>Troubleshooting and Resolving 0X80248007 Error During Windows 11 Updates: Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turbocharge-firefox-in-minutes-10-quick-adjustments-for-a-5x-speed-boost/"><u>Turbocharge Firefox in Minutes: 10 Quick Adjustments for a 5X Speed Boost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-boosting-your-fortnite-performance-with-optimal-mouse-settings/"><u>Ultimate Guide: Boosting Your Fortnite Performance with Optimal Mouse Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-step-by-step-process-app-removal-techniques-on-windows-11-devices/"><u>Ultimate Step-by-Step Process: App Removal Techniques on Windows 11 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-writing-windows-11-iso-image-onto-a-usb-for-instant-installation/"><u>Ultimate Tutorial: Writing Windows 11 ISO Image Onto a USB for Instant Installation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808341447-usb-tethering-on-windows-11-easily/"><u>USB Tethering on Windows 11 Easily!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-11-how-to-the-ultimate-guide-to-taking-efficient-screengrabs/"><u>Windows 11 How-To: The Ultimate Guide to Taking Efficient Screengrabs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wireless-networking-made-simple-linking-windows-11-devices-to-a-wi-fi-router/"><u>Wireless Networking Made Simple: Linking Windows 11 Devices to a Wi-Fi Router</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wireless-vs-wired-a-step-by-step-guide-to-connecting-your-laptop-to-a-printer/"><u>Wireless Vs. Wired: A Step-by-Step Guide to Connecting Your Laptop to a Printer</u></a></li>
+</ul></div>

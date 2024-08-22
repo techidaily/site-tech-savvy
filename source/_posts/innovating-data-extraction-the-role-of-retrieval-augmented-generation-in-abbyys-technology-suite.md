@@ -1,7 +1,7 @@
 ---
 title: "Innovating Data Extraction: The Role of Retrieval-Augmented Generation in ABBYY's Technology Suite"
-date: 2024-08-20 20:12:55
-updated: 2024-08-22 12:19:16
+date: 2024-08-21T15:31:30.262Z
+updated: 2024-08-22T15:31:30.262Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f57907497c693bf48b201e0ff.jpg
@@ -168,6 +168,9 @@ The effectiveness of RAG and similar generative Al initiatives rely on the under
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/rag/diagram-2_4.png) ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/rag/diagram-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
   
 [Request demo](https://tools.techidaily.com/abbyy/products/)
 
@@ -187,6 +190,17 @@ We’ve developed state-of-the-art AI techniques to understand your documents, i
 
 ![ds-598_red_shutterstock_1443633284](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/rag/overview_1.jpg?h=675&iar=0&w=1200)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### Why ABBYY?
 
 ![ChatHeart](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_chatheart-128.svg?h=128&iar=0&w=128)
@@ -203,6 +217,9 @@ We’re skilled in augmenting customer experiences, optimizing processes, and un
 
 ![Rocket](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_rocket-128.svg?h=128&iar=0&w=128)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Innovation partner
 
 Join us on a journey to a more intelligent, interconnected future. We work with you to make the most of your data, from comprehension to delivery. The outcome is optimized data that delivers tangible value for your business.
@@ -241,6 +258,10 @@ Purpose-built AI processes current, real-time market data. Improving the accessi
 
 ![overview image 1-1](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/financial-services/overview-image-1-1.jpg?h=716&iar=0&w=1272)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##### Healthcare
 
 Purpose-built AI puts a vast bank of healthcare information at medical professionals' fingertips. Access to credible health research and case histories can support diagnoses and treatment of complex medical cases. 
@@ -257,6 +278,9 @@ Drawing from global teaching material can help education professionals create ta
 
 ![Overview image](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/education/overview-image.jpg?h=716&iar=0&w=1272)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ##### Financial services
 
 Purpose-built AI processes current, real-time market data. Improving the accessibility and relevance of this information can aid financial analysts in making prompt, well-informed decisions. Purpose-built AI can also support fraud detection by analyzing transaction data and highlighting potential fraud risks.
@@ -295,12 +319,18 @@ The RAG model gathers data from various external sources, such as APIs, database
 
 ![RAG-step01-1](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/rag/steps/rag-step01-1.png?h=442&iar=0&w=1200)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 #### Retrieve relevant information
 
 The user's query is converted into a vector and compared with the vector databases to find the most relevant information. It uses mathematical vector calculations to assess the relevance of information.
 
 ![RAG_diagram-step02](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/rag/steps/rag_diagram-step02.svg?iar=0)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Improve the LLM input
 
 The system integrates relevant retrieved data into the user’s input to enhance LLM understanding. It uses prompt engineering techniques to ensure the generated response is clear and communicated effectively.
@@ -315,6 +345,9 @@ We've developed an integrated portfolio of purpose-built AI solutions to protect
   
 ![soc-logo-service-organization-154](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/trust/soc-logo-service-organization-154.png?h=120&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 
 
 [Learn more](https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services)
@@ -333,6 +366,9 @@ We've developed an integrated portfolio of purpose-built AI solutions to protect
 
 ![fsqs-logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/trust/fsqs-logo.png?h=120&iar=0&w=98)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 #### 
 
 [Learn more](https://content.abbyy.com/-/media/Project/Abbyy/Abbyy/Company/Trust/fsqs-certificate-abbyy-uk-ltd.pdf)
@@ -347,6 +383,9 @@ Learn new skills and earn certifications to boost your career with our catalog o
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/assets-thumbnails/abbyy_placeholder_thumbnails_743x418-1.jpg?h=418&iar=0&w=743)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [](https://www.youtube.com/watch?v=c4K-DRuANPg)
 
 [Vantage tutorial](https://www.youtube.com/watch?v=c4K-DRuANPg)
@@ -363,6 +402,9 @@ Learn new skills and earn certifications to boost your career with our catalog o
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/timeline/video-module/video-image-tab-1-2.jpeg?h=418&iar=0&w=743)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [AI-Pulse Podcast Tune in for episodes about AI, intelligent automation, and business.![](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/timeline/video-module/video-image-tab-1-3.jpeg?h=418&iar=0&w=743)](https://www.youtube.com/watch?v=xpxn7NJ%5FeF8&list=PLcawcg-HXtXeE7L%5FeP5yIE8vg64jhaUXj)
 
 ##### ABBYY University 
@@ -391,6 +433,9 @@ Learn new skills and earn certifications to boost your career with our catalog o
 
 [AI-Pulse Podcast Tune in for episodes about AI, intelligent automation, and business.![](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/timeline/video-module/video-image-tab-1-3.jpeg?h=418&iar=0&w=743)](https://www.youtube.com/watch?v=xpxn7NJ%5FeF8&list=PLcawcg-HXtXeE7L%5FeP5yIE8vg64jhaUXj)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ##### ABBYY University 
 
 Learn new skills and earn certifications to boost your career with our catalog of courses. Choose from on-demand or instructor-led courses to upskill on your own schedule.  
@@ -399,6 +444,10 @@ Learn new skills and earn certifications to boost your career with our catalog o
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/assets-thumbnails/abbyy_placeholder_thumbnails_743x418-1.jpg?h=418&iar=0&w=743)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 [](https://www.youtube.com/watch?v=c4K-DRuANPg)
 
 [Vantage tutorial](https://www.youtube.com/watch?v=c4K-DRuANPg)
@@ -415,8 +464,15 @@ Learn new skills and earn certifications to boost your career with our catalog o
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/timeline/video-module/video-image-tab-1-2.jpeg?h=418&iar=0&w=743)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 [AI-Pulse Podcast Tune in for episodes about AI, intelligent automation, and business.![](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/timeline/video-module/video-image-tab-1-3.jpeg?h=418&iar=0&w=743)](https://www.youtube.com/watch?v=xpxn7NJ%5FeF8&list=PLcawcg-HXtXeE7L%5FeP5yIE8vg64jhaUXj)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### Unlock your AI potential with ABBYY
 
 With more than 35 years of experience, we’re experts in [intelligent document processing](https://tools.techidaily.com/abbyy/products/). We've perfected the development, implementation, and innovation of advanced algorithms and machine learning models. Our singular focus is to help you turn your inaccessible data into invaluable insights.
@@ -537,3 +593,39 @@ Captcha Score
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-insights-how-to-use-it-for-beginners-easily/"><u>[New] In 2024, Facebook Insights  How to Use It for Beginners Easily</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-streamline-projects-with-free-video-intros/"><u>[New] In 2024, Streamline Projects with Free Video Intros</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-screen-capture-tools/"><u>[New] In 2024, The Ultimate Guide to Screen Capture Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-zooming-elevate-your-tiktok-videos/"><u>[New] The Art of Zooming  Elevate Your TikTok Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bluetooth-range-improvement-techniques-for-microsoft-windows-11-users/"><u>Bluetooth Range Improvement Techniques for Microsoft Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808332655-bluetooth-speaker-connection-woes-fix-them-with-this-guide-for-windows-users/"><u>Bluetooth Speaker Connection Woes? Fix Them with This Guide for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-games-in-windows-11-using-the-latest-nvidia-drivers-a-step-by-step-guide/"><u>Boost Your Games in Windows 11 Using the Latest NVIDIA Drivers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/change-google-password-what-should-i-do/"><u>Change Google Password – What Should I Do?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dealing-with-the-mysterious-hxtrsrexe-in-windows-10-tips-and-solutions-revealed/"><u>Dealing with the Mysterious hxtrsr.exe in Windows 10 - Tips and Solutions Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/duo-monitor-integration-for-laptops-a-comprehensive-guide/"><u>Duo Monitor Integration for Laptops - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-solutions-for-dealing-with-excessively-growth-of-pagefilesys/"><u>Effective Solutions for Dealing with Excessively Growth of Pagefile.sys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-freeing-up-storage-on-your-windows-10-pc/"><u>Effective Strategies for Freeing Up Storage on Your Windows 10 PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-for-beginners-a-comprehensive-guide-to-creating-stunning-reaction-videos/"><u>Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-y100-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo Y100 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808204180-how-to-start-windows-10-in-safe-mode-4-different-methods-with-screenshots/"><u>How to Start Windows 10 in Safe Mode - 4 Different Methods (with Screenshots)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elevating-trailers-through-musical-integration/"><u>In 2024, Elevating Trailers Through Musical Integration</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-s18e-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo S18e to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-to-stunning-snaps-with-snapseed/"><u>In 2024, Step-by-Step to Stunning Snaps with Snapseed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-the-problem-what-to-do-when-you-see-missing-cddvd-drive-device-driver-message/"><u>Solving the Problem: What To Do When You See 'Missing CD/DVD Drive Device Driver' Message</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-installing-your-realtek-device-drivers/"><u>Step-by-Step Guide: Installing Your Realtek Device Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-restoring-realtek-hd-audio-on-microsofts-latest-operating-systems/"><u>Step-by-Step Guide: Restoring Realtek HD Audio on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-reverting-back-to-previous-graphics-card-drivers-on-windows-10/"><u>Step-by-Step Guide: Reverting Back to Previous Graphics Card Drivers on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-setting-up-genesis-addon-in-kodi/"><u>Step-by-Step Guide: Setting Up Genesis Addon in Kodi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-a2-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi A2 FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshoot-and-restore-sound-on-your-pc-by-reinstalling-the-realtek-audio-manager-for-windows-1ve/"><u>Troubleshoot and Restore Sound on Your PC by Reinstalling the Realtek Audio Manager for Windows 1Ve</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-connecting-your-seagate-external-to-win-10/"><u>Troubleshooting Guide: Connecting Your Seagate External to Win 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-steps-for-unrecognized-hdds-on-windows-10-systems/"><u>Troubleshooting Steps for Unrecognized HDDs on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-setting-up-and-using-remote-desktop-features-in-windows-10/"><u>Ultimate Tutorial: Setting Up and Using Remote Desktop Features in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncovering-the-secrets-of-lawful-and-gratuitous-phone-number-tracking/"><u>Uncovering the Secrets of Lawful and Gratuitous Phone Number Tracking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-of-windows-7-a-step-by-step-guide-to-revealing-concealed-data-and-images/"><u>Unlocking the Secrets of Windows 7: A Step-by-Step Guide to Revealing Concealed Data and Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808315510-windows-11-black-and-white-screen-issue-solved/"><u>Windows 11 Black & White Screen Issue – Solved</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wireless-wonders-how-to-set-up-a-bluetooth-device-with-your-pc-or-laptop/"><u>Wireless Wonders: How to Set Up a Bluetooth Device with Your PC or Laptop</u></a></li>
+</ul></div>

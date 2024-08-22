@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Unveils Revolutionary Digital Intelligence Tools at the ABBYY Reimagine Event: Insights From Our Latest Blog Post"
-date: 2024-08-20 17:18:12
-updated: 2024-08-22 12:14:42
+date: 2024-08-21T15:30:08.924Z
+updated: 2024-08-22T15:30:08.924Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d9e5776de3811350c1a1e02825a34775cfed017b7d72a415b115da4cadd107c4.jpg
@@ -60,10 +60,16 @@ Find out how it can improve customer journey visibility, reduce time and manual 
 
 Visit the FlexiCapture web page for more information about the [Timeline for FlexiCapture](https://tools.techidaily.com/abbyy/products/) solution.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **ABBYY partner ecosystem promotes hyperautomation, value for customers**
 
 ABBYY will have several technology partners share how they integrate ABBYY Digital Intelligence to achieve intelligent automation leveraging multiple tools ranging from machine learning, analytics, process mining, business intelligence, and RPA. The integrated approach promotes what Gartner refers to as hyperautomation using best-in-breed technology. Partners presenting during ABBYY Reimagine sessions include Gold sponsors EXL, Blue Prism, and Alteryx, as well as other technology partners PwC and Capitalize Analytics.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **ABBYY partners with Capitalize Analytics to deliver end-to-end process insight to achieve operational excellence**
 
 ABBYY has partnered with Capitalize Analytics, a business intelligence and consulting firm that specializes in leveraging data automation and monitorization tools to provide end-to-end process understanding of organizations’ operations. Capitalize Analytics provides consulting services to companies that leverage various platforms such as ABBYY Timeline, Tableau, Power BI, and UiPath and is an Alteryx North American Partner of the Year.
@@ -72,6 +78,9 @@ Capitalize leverages industry-leading solutions to enable companies to make bett
 
 ![digital transformation technology](https://static1.abbyy.com/abbyycommedia/32426/b-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 During the ABBYY Reimagine Reveal session, Capitalize demonstrates using the Alteryx platform to analyze and monitor data from multiple sources. It starts with data incoming from unstructured invoices via ABBYY Vantage, customer information sourced from Salesforce, and purchase order information pulled from Microsoft Dynamics and shows how the various data can be fed into ABBYY Timeline for process understanding and also into Excel, Power BI, and Tableau Dashboard for additional analytics information.
 
 A more detailed technical demonstration will be shown during a session with ABBYY, Alteryx, and Capitalize during Day 2\. Information about combining Process Intelligence with analytics can be found at [ABBYY+Alteryx](https://tools.techidaily.com/abbyy/products/) solution page.
@@ -84,6 +93,9 @@ If you are unable to join us live, ABBYY Reimagine sessions will be available on
 
 ![Bruce Orcutt ABBYY](https://static5.abbyy.com/abbyycommedia/25719/bruceorcutt-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bruce Orcutt
 
 Senior Vice President of Product Marketing at ABBYY
@@ -92,6 +104,9 @@ Bruce Orcutt is a veteran Product Marketing and Product Management professional 
 
 Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -154,3 +169,65 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-essential-errors-to-dodge-beginner-youtubers-guide/"><u>[New] 2024 Approved  Essential Errors to Dodge  Beginner YouTuber's Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-mastering-anime-aesthetics-in-viral-tiktoks/"><u>[New] 2024 Approved  Mastering Anime Aesthetics in Viral TikToks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-screencast-strategies-unleashed-powerful-ideas-inside/"><u>[New] 2024 Approved  Screencast Strategies Unleashed  Powerful Ideas Inside</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-extensive-movement-review-2023/"><u>[New] Extensive Movement Review 2023</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10/"><u>[New] In 2024, Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamline-video-calls-using-google-hangouts-efficiently/"><u>[New] Streamline Video Calls  Using Google Hangouts Efficiently</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-cameo-review-video-editor-and-movie-maker-for-iphone/"><u>[New] Vimeo Cameo Review-Video Editor & Movie Maker for iPhone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-win-10s-best-recording-software-10-picks-for-2024/"><u>[New] Win 10'S Best Recording Software - 10 Picks for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-cost-effective-cloud-strategies-unveiled/"><u>[Updated] Cost-Effective Cloud Strategies Unveiled</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-capturing-moments-expert-tips-on-downloading-social-media-lives/"><u>[Updated] In 2024, Capturing Moments  Expert Tips on Downloading Social Media Lives</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-crafting-eye-catching-instagram-story-previews/"><u>[Updated] In 2024, Crafting Eye-Catching Instagram Story Previews</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-enhance-imagery-in-canva-the-ultimate-10-guide/"><u>[Updated] In 2024, Enhance Imagery in Canva - The Ultimate 10 Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-inside-outlooks-of-instagram-stories-consumers/"><u>[Updated] In 2024, Inside Outlooks of Instagram Stories Consumers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-revolutionize-social-sagas-no-cost-for-online-and-mobile-excellence/"><u>[Updated] In 2024, Revolutionize Social Sagas – No Cost for Online & Mobile Excellence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-5-filters-boosting-oceanic-imaging/"><u>[Updated] Premium 5 Filters Boosting Oceanic Imaging</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-beginners-pathway-to-exceptional-gopro-adventures-for-2024/"><u>A Beginner's Pathway to Exceptional GoPro Adventures for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-innovations-boosting-scholarly-exploration/"><u>AI Innovations: Boosting Scholarly Exploration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-dialogues-bots-approach-to-human-talking/"><u>AI-Driven Dialogues: Bot's Approach to Human Talking</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-infinix-hot-40i-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Infinix Hot 40i? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-talk-revolutionizing-generative-tech/"><u>Beyond Talk: Revolutionizing Generative Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-ai-make-jokes-plus-the-history-of-laptops-and-how-vpns-have-improved/"><u>Can AI Make Jokes? PLUS: The History of Laptops and How VPNs Have Improved</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-recipe-success-rate-in-mixology/"><u>ChatGPT's Recipe Success Rate in Mixology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/curating-cinema-lists-through-chatgpt-dialogues/"><u>Curating Cinema Lists Through ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-mechanics-of-claude-pro-compared-to-gptplusplus/"><u>Deciphering the Mechanics of Claude Pro Compared to GPT+Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detailed-musk-explanation-of-grok-ai-its-significance-use-and-expense/"><u>Detailed Musk Explanation of Grok AI: Its Significance, Use & Expense</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-top-ai-gemini-enhanced-or-gptplusplus/"><u>Discovering the Top AI: Gemini Enhanced or GPT++?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-deep-utilizing-chatgpts-my-bot-for-board-games-and-artistry/"><u>Dive Deep: Utilizing ChatGPT's My Bot for Board Games and Artistry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-your-conversations-advanced-prompting-strategies-for-ai/"><u>Elevating Your Conversations: Advanced Prompting Strategies for AI</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-video-file-performance/"><u>Enhancing Video File Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-your-options-with-a-focus-on-local-llm-benefits-and-challenges/"><u>Exploring Your Options with a Focus on Local LLM Benefits & Challenges</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-hardwaredriver-not-supported-messages-for-a-smooth-rainbow-six-extraction-gaming-experience/"><u>Fixing 'Hardware/Driver Not Supported' Messages for a Smooth Rainbow Six Extraction Gaming Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forging-ethical-boundaries-in-the-ai-landscape/"><u>Forging Ethical Boundaries in the AI Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-optimal-pc-visuals-with-new-nvidia-geforce-980-ti-driver-update-no-cost/"><u>Get Optimal PC Visuals with New NVIDIA GeForce 980 Ti Driver Update - No Cost!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-integrate-chatgpt-with-whatsapp-for-customer-support/"><u>How to Integrate ChatGPT With WhatsApp for Customer Support</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/1716399047161-how-to-remove-background-noise-from-your-youtube-video/"><u>How To Remove Background Noise From Your YouTube Video</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-s18e-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo S18e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-motorola-moto-g14-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Motorola Moto G14 online without jailbreak</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/initiate-dialogue-with-ai-using-bash-and-shellgpt-for-chatgpt/"><u>Initiate Dialogue with AI: Using Bash and ShellGPT for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-yourself-to-ai-bing-search-registration-process/"><u>Introducing Yourself to AI Bing Search: Registration Process</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/masterful-strategies-for-saving-lol-rounds-for-2024/"><u>Masterful Strategies for Saving LOL Rounds for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-resilience-overcoming-chatgpt-login-hurdles/"><u>Mastering Resilience: Overcoming ChatGPT Login Hurdles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/on-device-intelligence-explained-concepts-and-mechanisms/"><u>On-Device Intelligence Explained: Concepts & Mechanisms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-communication-gaps-fixing-service-disconnect-in-chatgpt/"><u>Overcoming Communication Gaps: Fixing Service Disconnect in ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfecting-your-craft-the-role-of-chatgpt-in-freelance-writing-success/"><u>Perfecting Your Craft: The Role of ChatGPT in Freelance Writing Success</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-installing-linksys-ae120-operating-system-with-speed-driver-downloads-at-hand/"><u>Quick Guide: Installing Linksys AE120^ Operating System with Speed! Driver Downloads at Hand</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-with-the-power-of-vector-databases/"><u>Revolutionizing AI with the Power of Vector Databases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shaping-an-ai-that-walks-the-human-morality-line/"><u>Shaping an AI that Walks the Human Morality Line</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-your-life-with-winchatgpt-app/"><u>Simplify Your Life with WinChatGPT App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-integrating-gpt-3-in-daily-work-life/"><u>The Ultimate Guide to Integrating GPT-3 in Daily Work Life</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-list-of-free-green-screen-apps-for-mobile-video-editing-for-2024/"><u>The Ultimate List of Free Green Screen Apps for Mobile Video Editing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-enhancements-for-optimizing-gpt-plugin-marketplace-usage/"><u>Top 3 Enhancements for Optimizing GPT-Plugin Marketplace Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transparency-in-ai-generated-dialogues-origins/"><u>Transparency in AI-Generated Dialogues' Origins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/triple-use-cases-for-chatgpts-integration-with-wolframalpha/"><u>Triple Use Cases for ChatGPT's Integration with WolframAlpha</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/true-or-false-unmasking-gpt-myths/"><u>True or False? Unmasking GPT Myths</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-current-availability-of-chatgpt/"><u>Understanding Current Availability of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-the-impact-of-ai-on-digital-playgrounds/"><u>Unleashing Potential: The Impact of AI on Digital Playgrounds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-impostors-the-role-of-attention-notation-in-ai-dialogue/"><u>Unmasking Impostors: The Role of Attention Notation in AI Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-step-by-step-guide-to-global-chatgpt-connectivity/"><u>Your Step-by-Step Guide to Global ChatGPT Connectivity</u></a></li>
+</ul></div>

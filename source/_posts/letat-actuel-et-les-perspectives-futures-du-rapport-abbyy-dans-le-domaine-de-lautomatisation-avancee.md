@@ -1,7 +1,7 @@
 ---
 title: L'état Actuel Et Les Perspectives Futures Du Rapport ABBYY Dans Le Domaine De L'automatisation Avancée
-date: 2024-08-19 10:58:47
-updated: 2024-08-22 10:57:34
+date: 2024-08-21T15:29:55.188Z
+updated: 2024-08-22T15:29:55.188Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070677e69a7cb579139c188cc2.jpg
@@ -51,14 +51,24 @@ Pour plus de détails sur les investissements dans l'IA, le ROI attendu et attei
 
 Cette étude a été menée par Sapio Research en juillet 2023 pour le compte d'ABBYY. 1000 décideurs informatiques issus de 17 secteurs, notamment les services financiers, la santé, le transport/la logistique/la supply chain, l'assurance, le retail, le secteur gouvernemental/public ont été interrogés à travers les États-Unis, le Royaume-Uni, l'Allemagne et la France pour comprendre comment la stagnation économique mondiale actuelle a un impact sur les investissements dans l’intelligente automation, si et quelles technologies les organisations qu'ils prévoient d'adopter dans un avenir proche.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### À PROPOS D’ABBYY
 
 ABBYY transforme vos données pour les mettre au service de l'entreprise. Nous combinons l'innovation et l'expérience pour transformer les informations issues de documents stratégiques en résultats exploitables et pertinents, dans plus de 200 langues et en temps réel. Nous permettons à plus de 10 000 entreprises dans le monde, y compris de nombreuses entreprises du classement Fortune 500, d'avoir un impact majeur là où cela compte le plus : l'expérience client, l'excellence opérationnelle et la compétitivité. ABBYY est une entreprise mondiale dont le siège social se trouve à Milpitas, en Californie, et qui dispose de bureaux dans 14 pays. ABBYY est le partenaire [officiel d’intelligente automation du club de football féminin d'Arsenal](https://tools.techidaily.com/abbyy/products/). Pour plus d'informations, consultez le site www.abbyy.com/company et rejoignez-nous sur [LinkedIn](https://www.linkedin.com/company/abbyy), [Twitter](https://twitter.com/ABBYY%5FSoftware?ref%5Fsrc=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) et [Facebook](https://www.facebook.com/ABBYYsoft/?locale=fr%5FFR).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Contact presse
 
 ![Bianca 110X110](https://static2.abbyy.com/abbyycommedia/36222/bianca-110x110.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 #### Bianca Stupp
 
 _ABBYY_
@@ -81,3 +91,60 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-web-supplement-fb-stories-downloader-for-2024/"><u>[New] Web Supplement  FB Stories Downloader for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-compreranzo-il-background-ottenere-video-piu-chiaro-su-youtube/"><u>[Updated] Compreranzo Il Background  Ottenere Video Più Chiaro Su YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-verification-how-to-verify-facebook-page-easily/"><u>[Updated] In 2024, Facebook Verification  How to Verify Facebook Page Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-guide-to-vegas-pros-latest-features-in-21/"><u>[Updated] In 2024, The Ultimate Guide to Vegas Pro's Latest Features in '21</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reviewing-microsoft-hololens-the-3d-interactive-future/"><u>[Updated] Reviewing Microsoft HoloLens  The 3D Interactive Future</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhance-customer-engagement-with-strategic-language/"><u>2024 Approved  Enhance Customer Engagement with Strategic Language</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-media-matrix-the-battle-of-podcasts-vs-youtube/"><u>2024 Approved  Media Matrix  The Battle of Podcasts Vs. YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-budget-friendly-apps-revolutionizing-smartphone-imagery/"><u>2024 Approved  Top 10 Budget-Friendly Apps Revolutionizing Smartphone Imagery</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/connecting-your-ps3-gamepad-to-a-pc-a-no-motioninjoy-method/"><u>Connecting Your PS3 Gamepad to a PC: A No-MotioninJoy Method</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-guide-step-by-step-installation-process-for-your-epson-printer/"><u>Easy Guide: Step-by-Step Installation Process for Your Epson Printer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-remedies-for-restoring-windows-computer-health-evaluation-software-performance/"><u>Effective Remedies for Restoring Windows Computer Health Evaluation Software Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-solutions-for-managing-excessive-cpu-consumption-caused-by-dwmexe-on-windows-exp/"><u>Effective Solutions for Managing Excessive CPU Consumption Caused by dwm.exe on Windows eXP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-installation-guide-for-the-celebratory-version-of-windows-10-os-upgrade/"><u>Effortless Installation Guide for the Celebratory Version of Windows 10 OS Upgrade</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-scosches-dual-powerhouse-the-unseen-strength-of-low-profile-racing-bikes/"><u>Evaluating Scosche's Dual Powerhouse: The Unseen Strength of Low Profile Racing Bikes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/evaluating-the-superiority-of-splitcams-recording/"><u>Evaluating the Superiority of SplitCam's Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-breathtaking-gameplay-fluidity-in-skyrim-special-editions-latest-fps-refresh/"><u>Experience Breathtaking Gameplay Fluidity in Skyrim Special Edition's Latest FPS Refresh</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixed-repairing-disk-errors-on-windows-11/"><u>Fixed: Repairing Disk Errors on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-cannot-log-into-account-errors-on-windows-10-solutions-explored/"><u>Fixing 'Cannot Log Into Account' Errors on Windows 10 - Solutions Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-the-pure-monochrome-display-a-guide-to-resolving-windows-10s-black-and-white-screen-issue/"><u>Fixing the Pure Monochrome Display: A Guide to Resolving Windows 10'S Black and White Screen Issue</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/headphone-jack-not-working-easy-fixes/"><u>Headphone Jack Not Working [Easy Fixes]</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-mdm-on-iphone-12-pro-max-with-ease-via-third-tools-by-drfone-ios-unlock-ios-unlock/"><u>How to Bypass MDM on iPhone 12 Pro Max with Ease Via third Tools?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-the-printer-cannot-be-removed-error-in-windows-complete-solution/"><u>How To Fix the 'Printer Cannot Be Removed' Error in Windows (Complete Solution)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-mods-for-fallout-4-on-your-pc-beginners-guide/"><u>How to Install Mods for Fallout 4 on Your PC - Beginner’s Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-recover-vanished-desktop-icons-on-your-windows-11-machine-solution/"><u>How to Recover Vanished Desktop Icons on Your Windows 11 Machine (Solution)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-y78plus-t1-edition-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Y78+ (T1) Edition with Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-hot-40-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Hot 40 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-13-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 13 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/journey-back-in-time-with-these-top-5-gba-console-emulators-for-pcs-for-2024/"><u>Journey Back in Time with These Top 5 GBA Console Emulators for PCs for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-basics-of-pc-drivers-proven-methods-for-correcting-windows-driver-glitches/"><u>Mastering the Basics of PC Drivers: Proven Methods for Correcting Window's Driver Glitches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-windows-11s-reset-this-pc-best-practices-for-timing-and-execution/"><u>Mastering Windows 11'S 'Reset This PC': Best Practices for Timing and Execution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-your-gaming-experience-the-definitive-guide-to-boosting-fps-in-counter-strike-global-offensive/"><u>Maximizing Your Gaming Experience: The Definitive Guide to Boosting FPS in Counter-Strike: Global Offensive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolved-how-to-fix-the-snipping-tool-malfunction-in-windows-10-and-11/"><u>Resolved: How to Fix the Snipping Tool Malfunction in Windows 10 and 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-discord-connectivity-problems-during-live-streaming/"><u>Resolving Discord Connectivity Problems During Live Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-lag-issues-effective-strategies-to-eliminate-frame-rate-drops-in-apex-legends-on-your-computer/"><u>Resolving Lag Issues: Effective Strategies to Eliminate Frame Rate Drops in Apex Legends on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/set-up-your-iphone-hotspot-as-a-wi-fi-hotspot/"><u>Set Up Your iPhone Hotspot as a Wi-Fi Hotspot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solution-uncover-the-reasons-behind-your-sluggish-hp-notebook/"><u>Solution: Uncover the Reasons Behind Your Sluggish HP Notebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solved-navigating-windows-11s-boot-configuration-for-beginners/"><u>Solved: Navigating Windows 11'S Boot Configuration for Beginners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-the-problem-what-to-do-when-you-see-missing-cddvd-drive-device-driver-message/"><u>Solving the Problem: What To Do When You See 'Missing CD/DVD Drive Device Driver' Message</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-to-get-your-corsair-hsnano-mic-working-again/"><u>Step-by-Step Fixes to Get Your Corsair HSnano Mic Working Again</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-installing-your-realtek-device-drivers/"><u>Step-by-Step Guide: Installing Your Realtek Device Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-removing-applications-from-your-pc-using-windows-11/"><u>Step-by-Step Guide: Removing Applications From Your PC Using Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-restoring-realtek-hd-audio-on-microsofts-latest-operating-systems/"><u>Step-by-Step Guide: Restoring Realtek HD Audio on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-reverting-back-to-previous-graphics-card-drivers-on-windows-10/"><u>Step-by-Step Guide: Reverting Back to Previous Graphics Card Drivers on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-setting-up-genesis-addon-in-kodi/"><u>Step-by-Step Guide: Setting Up Genesis Addon in Kodi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshoot-and-restore-sound-on-your-pc-by-reinstalling-the-realtek-audio-manager-for-windows-1ve/"><u>Troubleshoot and Restore Sound on Your PC by Reinstalling the Realtek Audio Manager for Windows 1Ve</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-connecting-your-seagate-external-to-win-10/"><u>Troubleshooting Guide: Connecting Your Seagate External to Win 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-steps-for-unrecognized-hdds-on-windows-10-systems/"><u>Troubleshooting Steps for Unrecognized HDDs on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-setting-up-and-using-remote-desktop-features-in-windows-10/"><u>Ultimate Tutorial: Setting Up and Using Remote Desktop Features in Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-upgrade-to-scythes-mugen-series-models-6-and-6-black-for-optimal-silent-operation-without-breaking-the-bank/"><u>Why Upgrade to Scythe's Mugen Series (Models 6 & 6 Black) for Optimal Silent Operation Without Breaking the Bank?</u></a></li>
+</ul></div>

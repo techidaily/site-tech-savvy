@@ -1,7 +1,7 @@
 ---
 title: 中小企業救済：銀行でSBA PPPローンをBlue Prismが自動化して85,000件以上の雇用保護に成功
-date: 2024-08-19 21:42:26
-updated: 2024-08-22 11:57:34
+date: 2024-08-21T15:30:52.978Z
+updated: 2024-08-22T15:30:52.978Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18de62989f967049cc703431b5.jpg
@@ -80,3 +80,50 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ispring-screen-recorder-review/"><u>[New] The iSpring Screen Recorder Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-maximize-impact-mastering-instagram-video-transforms-into-mp4/"><u>[Updated] In 2024, Maximize Impact  Mastering Instagram Video Transforms Into MP4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-guide-to-upgrading-your-systems-bios-on-windows-11/"><u>A Comprehensive Guide to Upgrading Your System's BIOS on Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/boosting-visual-appeal-in-tiktok-videos-for-2024/"><u>Boosting Visual Appeal in TikTok Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/classroom-vids-essential-editing-strategies/"><u>Classroom Vids  Essential Editing Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-enabling-minecraft-singleplayer-mode-in-windows-11/"><u>Complete Guide: Enabling Minecraft Singleplayer Mode in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-vpns-understanding-their-role-in-protecting-your-digital-life/"><u>Demystifying VPNs: Understanding Their Role in Protecting Your Digital Life</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-repair-tips-for-when-your-surface-pro-loses-its-wi-fi-signal/"><u>DIY Repair Tips for When Your Surface Pro Loses Its Wi-Fi Signal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-and-complete-instructions-on-upgrading-to-the-latest-windows-operating-system/"><u>Easy & Complete Instructions on Upgrading to the Latest Windows Operating System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-installation-guide-for-directx-on-windows-11-and-10-quickly-done/"><u>Easy Installation Guide for DirectX on Windows 11 & 10 – Quickly Done</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-steps-to-clear-temp-files-in-windows-11-complete-guide/"><u>Effective Steps to Clear Temp Files in Windows 11 - Complete Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-cross-platform-play-a-quick-guide-to-enjoying-ps4-titles-on-your-android-device-in-three-easy-steps/"><u>Effortless Cross-Platform Play: A Quick Guide to Enjoying PS4 Titles on Your Android Device in Three Easy Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-setup-how-to-pair-your-bluetooth-speaker-with-a-laptop-in-minutes/"><u>Effortless Setup: How to Pair Your Bluetooth Speaker with a Laptop in Minutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-online-anonymity-with-tor-on-windows-11-a-comprehensive-guide/"><u>Enhancing Online Anonymity with Tor on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-tips-access-and-interpret-windows-system-crash-log-files/"><u>Expert Tips: Access and Interpret Windows System Crash Log Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixed-errsslversionorciphermismatch-on-windows/"><u>Fixed: Err_SSL_Version_or_Cipher_Mismatch on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-asus-aura-pc-customization-tool-for-windows-11-users/"><u>Get Your Hands on ASUS AURA PC Customization Tool for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-connect-bluetooth-headphones-to-windows-10-pc/"><u>How to Connect Bluetooth Headphones to Windows 10 PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-delete-windowsold-in-windows-10-solved/"><u>How to Delete Windows.old in Windows 10 [Solved]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-repair-your-windows-pcs-bluetooth-sound-output-and-display-hardware-link-up-troubles/"><u>How to Repair Your Windows PC's Bluetooth Sound Output and Display Hardware Link-Up Troubles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immediate-fixes-for-the-camera-not-found-issue-on-your-pc-guide-updated/"><u>Immediate Fixes for the 'Camera Not Found' Issue on Your PC – Guide Updated</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-tecno-spark-10-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Tecno Spark 10 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-11-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 11 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-narzo-60-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme Narzo 60 5G Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/make-your-iphone-work-like-a-home-wi-fi-network-a-complete-tutorial/"><u>Make Your iPhone Work Like a Home Wi-Fi Network: A Complete Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-steps-resetting-your-yahoo-account-password-seamlessly/"><u>Quick & Simple Steps: Resetting Your Yahoo Account Password Seamlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/restored-my-desktop-icons-learn-how-to-solve-the-mystery-of-lost-icons-in-windows-10/"><u>Restored My Desktop Icons! Learn How to Solve the Mystery of Lost Icons in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/say-goodbye-to-windows-11s-troublesome-error-0x80-grog-your-ultimate-fix-guide/"><u>Say Goodbye to Windows 11'S Troublesome Error 0X80 Grog - Your Ultimate Fix Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sd-card-not-showing-up-discover-easy-fixes-to-restore-access/"><u>SD Card Not Showing Up? Discover Easy Fixes to Restore Access</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-print-connection-on-windows-10-a-comprehensive-tutorial/"><u>Seamless Print Connection on Windows 10 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-steps-to-reset-your-snapchat-passkey-in-a-flash/"><u>Simple Steps to Reset Your Snapchat Passkey in a Flash</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplified-instructions-to-get-started-with-your-brother-printer-asap/"><u>Simplified Instructions to Get Started with Your Brother Printer ASAP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solve-skype-connection-issues-in-windows-nanduity-10-using-these-5-simple-methods/"><u>Solve Skype Connection Issues in Windows Nanduity 10 Using These 5 Simple Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-power-on-without-monitor-display-in-computers-expert-advice/"><u>Solving Power On Without Monitor Display in Computers: Expert Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-accessing-disk-management-on-windows-11/"><u>Step-by-Step Guide: Accessing Disk Management on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steps-to-follow-if-you-encounter-a-stopped-working-error-on-google-chrome-browser/"><u>Steps to Follow If You Encounter a ‘Stopped Working’ Error on Google Chrome Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-solutions-how-to-overcome-windows-11s-error-0x800f0922-during-updates/"><u>Top Solutions: How to Overcome Windows 11'S Error 0X800F0922 During Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808348973-windows-11-compatibility-easy-steps-to-connect-your-printer-today/"><u>Windows 11 Compatibility: Easy Steps to Connect Your Printer Today</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->

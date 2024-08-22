@@ -1,7 +1,7 @@
 ---
 title: "Dévoilant Les Secrets Des Systèmes D'Intelligence De Traitement: Perspectives Innovantes Avec ABBYY"
-date: 2024-08-21 18:54:46
-updated: 2024-08-22 12:25:55
+date: 2024-08-21T15:28:50.835Z
+updated: 2024-08-22T15:28:50.835Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7b970dc3ae9c242e74e0d377.jpg
@@ -33,6 +33,9 @@ Passer à :
 
 **La Process intelligence est une combinaison de fonctionnalités reposant sur les données, dédiée à l’analyse et à l’amélioration des opérations de l’entreprise.** Elle utilise les données tirées des propres systèmes d’information de l’entreprise pour dévoiler des schémas et des renseignements qui indiquent la voie vers une nouvelle efficacité opérationnelle. **Les cinq piliers essentiels d’une process intelligence soutenable sont la découverte des processus (process discovery), l’analyse des processus (process analysis), le suivi des processus (process monitoring), la prédiction des résultats des processus (process prediction), et la simulation des processus (process simulation).**  Les entreprises peuvent utiliser ces renseignements pour découvrir, comprendre et gérer plus efficacement l’exécution de leurs processus.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Les cinq piliers de la process intelligence
 
 #### 1\. Découverte des processus (Process Discovery)
@@ -73,6 +76,9 @@ En tirant le meilleur parti de la process intelligence, les entreprises peuvent 
 
 **Économies.** En identifiant et en éliminant les inefficacités des processus, les organisations peuvent faire baisser leurs frais de fonctionnement. La Process intelligence permet d’allouer les ressources de façon rentable et d’éviter les dépenses inutiles liées aux interventions manuelles ou aux erreurs.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Exemples d’utilisation de la process intelligence
 
 Dans tout secteur d’activité, incorporer la [process intelligence à la stratégie de transformation numérique](https://tools.techidaily.com/abbyy/products/) permet aux organisations d’évaluer le futur impact des changements proposés, de gérer les transitions plus efficacement, de garantir la performance des étapes d’automatisation mises en place et de mettre en place une boucle de rétroaction pour une amélioration continue. Les entreprises, quel que soit leur secteur d’activité, utilisent la process intelligence pour booster leurs résultats dans de nombreuses situations.
@@ -85,10 +91,16 @@ Les hôpitaux et d’autres prestataires de santé peuvent tirer le meilleur par
 
 La Process intelligence permet aux banques et autres institutions financières de piloter leur transformation numérique et de gérer les risques et les priorités de conformité réglementaire. Elles peuvent analyser les données des transactions quasiment en temps réel pour améliorer le service aux clients, accroître la précision du reporting, et réduire les risques d’erreurs coûteuses. Le suivi des processus les aide à garantir que le niveau de service (SLA), les exigences de conformité et les exigences législatives sont maintenus, ce qui limite les risques d’erreurs coûteuses qui pourraient autrement être négligées.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Assurance
 
 Les compagnies d’assurance peuvent utiliser l’analyse prédictive pour entreprendre une évaluation et une sélection des risques, ainsi que pour faire des arbitrages. Elles peuvent améliorer leur conformité grâce au suivi automatisé et aux mesures de remédiation. Elles peuvent en même temps gagner en productivité grâce au traitement direct des données. La Process analytics permet de dégager de la valeur commerciale, pour le personnel en interne, pour les experts, pour les organismes tiers d’assistance et pour les autres partenaires.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Associer la process intelligence à l’automatisation intelligente des processus
 
 La transformation numérique est l’intégration de la technologie numérique à tous les aspects de l’activité de l’entreprise, ce qui modifie fondamentalement la façon dont elle fonctionne et dont elle crée de la valeur pour ses clients. Pour que ces efforts portent leurs fruits, il faut radicalement repenser la façon dont l’entreprise emploie la technologie, les ressources humaines et les processus afin de vraiment influer sur sa performance. L'[IPA (automatisation intelligente des processus)](https://www.abbyy.com/fr/solutions/intelligent-process-automation-ipa/?itm%5Fsource=corpblog-fr) est au cœur de cette transformation. Elle combine l’intelligence artificielle (IA) à l’automatisation, pour créer des processus métier intelligents, pouvant s’adapter et évoluer au fil du temps.
@@ -113,6 +125,9 @@ Dans le monde entier, des organisations automatisent les processus métier chron
 
 [Demander une démo](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Foire aux questions
 
 [Qu’est-ce qu’une stratégie de process intelligence ?](https://tools.techidaily.com/abbyy/products/)
@@ -135,6 +150,9 @@ Pour réussir l’automatisation d’un processus, il faut d’abord le comprend
 
 ![Scott Opitz ABBYY](https://static1.abbyy.com/abbyycommedia/25562/02a-scottopitz-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Scott Opitz
 
 Chief Technology Officer at ABBYY
@@ -207,3 +225,54 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-anonymous-artifacts-auction-2023-the-quest-for-digital-secrecy-for-2024/"><u>[New] Anonymous Artifacts Auction-2023  The Quest for Digital Secrecy for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-skyline-of-success-stardews-top-7-upgrades-review-for-2024/"><u>[New] Skyline of Success  Stardew's Top 7 Upgrades Review for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-slow-mo-techniques-on-instagram-reels-for-2024/"><u>[New] Step-by-Step Guide to Slow Mo Techniques on Instagram Reels for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-adding-effects-in-tiktok-videos/"><u>[New] The Ultimate Guide to Adding Effects in TikTok Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-streamlining-presentations-in-microsoft-teams-through-snap-capture-for-2024/"><u>[Updated] Streamlining Presentations in Microsoft Teams Through Snap Capture for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/banishing-your-digital-conversations/"><u>Banishing Your Digital Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-gpts-effectiveness-with-these-7-prompting-methods/"><u>Boost GPT's Effectiveness with These 7 Prompting Methods</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/breathing-new-life-into-anime-with-impactful-tiktoks/"><u>Breathing New Life Into Anime with Impactful TikToks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-a-bot-master-mathematics/"><u>Can a Bot Master Mathematics?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-hiccups-top-ios-solutions-for-swift-recovery/"><u>ChatGPT Hiccups: Top iOS Solutions for Swift Recovery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-on-mobile-embrace-voicecontrol/"><u>ChatGPT on Mobile: Embrace VoiceControl</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-all-the-openai-gpt-series/"><u>Comparing All: The OpenAI GPT Series</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-altitudes-copilot-for-beginners-and-professionals/"><u>Comparing Altitudes: CoPilot for Beginners and Professionals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-miracast-on-windows-7-essential-information-revealed/"><u>Comprehensive Guide: Miracast on Windows 7 – Essential Information Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-the-art-of-effective-chatgpt-top-tips-and-tricks/"><u>Conquer the Art of Effective ChatGPT: Top Tips & Tricks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cutting-edge-techniques-for-youtube-video-edits-via-wm-maker/"><u>Cutting-Edge Techniques for YouTube Video Edits via WM Maker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-jesters-from-notebooks-to-vpn-guardians-in-action/"><u>Digital Jesters: From Notebooks to VPN Guardians in Action</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-vigilance-compromised-by-ai-limitations/"><u>Digital Vigilance Compromised by AI Limitations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-artificial-intelligence-6-keys-to-a-flourishing-career/"><u>Embracing Artificial Intelligence: 6 Keys to a Flourishing Career</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-companies-with-unprecedented-api-capabilities-of-gpt-whisper/"><u>Empowering Companies with Unprecedented API Capabilities of GPT, Whisper</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exciting-news-chatgpt-on-iphone/"><u>Exciting News: ChatGPT on iPhone!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-text-tools-for-you-openais-gpt-tailored-marketplace/"><u>Exclusive Text Tools for You: OpenAI’s GPT Tailored Marketplace</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-dark-side-of-language-models-on-code/"><u>Exploring the Dark Side of Language Models on Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-entry-to-next-gen-ai-gpt-4s-secrets-unveiled/"><u>Free Entry to Next-Gen AI: GPT-4's Secrets Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-visuals-the-dynamic-duo-of-gpt-4-and-dall-e/"><u>From Text to Visuals: The Dynamic Duo of GPT-4 & DALL-E</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6s-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 6s Plus to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-brand-visualization-inserting-watermarks-and-logos-into-youtube-media/"><u>In 2024, Brand Visualization  Inserting Watermarks and Logos Into YouTube Media</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nubia-red-magic-8s-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nubia Red Magic 8S Pro online without jailbreak</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-interactivity-6-ways-chatgpt-redefines-scriptwriting/"><u>Innovating Interactivity: 6 Ways ChatGPT Redefines Scriptwriting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-ai-in-the-realm-of-literary-creation/"><u>Introducing AI in the Realm of Literary Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/journey-through-quora-to-discover-botsllms/"><u>Journey Through Quora to Discover Bots/LLMs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-wars-gpt-3-versus-translate-pros-and-cons/"><u>Language Wars: GPT-3 Versus Translate Pros & Cons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leadership-in-learning-validating-chatgpts-educational-use/"><u>Leadership in Learning: Validating ChatGPT’s Educational Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/legal-frameworks-for-ais-future/"><u>Legal Frameworks for AI's Future</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/machine-prognostication-vs-magazine-fate-telling/"><u>Machine Prognostication Vs. Magazine Fate-Telling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-tech-talk-diving-deep-into-toms-hardware-secrets/"><u>Mastering Tech Talk: Diving Deep Into Tom's Hardware Secrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-crafted-gpt-commands-for-custom-tasks/"><u>Mastering the Art of Crafted GPT Commands for Custom Tasks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mercedes-benz-introduces-chatgpt-with-voice-control-to-its-vehicles/"><u>Mercedes-Benz Introduces ChatGPT With Voice Control to Its Vehicles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-conversations-is-claude-the-new-leader/"><u>Pioneering Conversations: Is Claude the New Leader?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-content-creation-using-gpt-4/"><u>Revolutionize Content Creation Using GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-latest-in-mobile-internet-for-holiday-goers/"><u>The Latest in Mobile Internet for Holiday Goers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-9-benefits-switching-to-chatgptplus-membership/"><u>Top 9 Benefits: Switching to ChatGPT+ Membership</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-imagery-from-ai-the-gpt-guide/"><u>Unleashing Imagery From AI: The GPT Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-poco-c51-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Poco C51 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-machine-potential-understanding-ai-transfer-learning/"><u>Unlocking Machine Potential: Understanding AI Transfer Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-top-6-ios-exclusive-gpt-benefits/"><u>Unveiling Top 6 iOS-Exclusive GPT Benefits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-chatgpt-for-professional-cover-letter-writing/"><u>Utilizing ChatGPT for Professional Cover Letter Writing</u></a></li>
+</ul></div>

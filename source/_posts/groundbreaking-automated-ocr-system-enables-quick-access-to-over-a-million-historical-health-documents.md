@@ -1,7 +1,7 @@
 ---
 title: Groundbreaking Automated OCR System Enables Quick Access to Over a Million Historical Health Documents
-date: 2024-08-19 22:15:22
-updated: 2024-08-22 11:57:33
+date: 2024-08-21T15:32:35.068Z
+updated: 2024-08-22T15:32:35.068Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e5643a5ff8d74b4fe59c3561d40554a2f62dd894777e476ebe9274260c57e1be.jpg
@@ -61,10 +61,16 @@ Jeghers Medical Index comprises over one million medical journal articles, the v
 
 ###### SEE HOW ABBYY CAN HELP
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### over **5,000,000**
 
 pages to process
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### a **108**\-page
 
 project plan developed
@@ -125,14 +131,23 @@ Gawdyda concludes, “We are very pleased. And DocuSyst was very customer orient
 
 [![ABBYY Recognition Server has rebranded as ABBYY FineReader Server](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (now FineReader Server)](https://tools.techidaily.com/abbyy/products/) ") 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![Healthcare](https://static2.abbyy.com/abbyycommedia/14360/10-healthcare.jpg)](https://tools.techidaily.com/abbyy/products/) [Healthcare](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static2.abbyy.com/abbyycommedia/15759/jeghers1.png)](https://static3.abbyy.com/abbyycommedia/1222/rs%5Fjeghers%5Feducation%5F2014.pdf "PDF version") [PDF version](https://static3.abbyy.com/abbyycommedia/1222/rs%5Fjeghers%5Feducation%5F2014.pdf "PDF version") 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 [read more](https://static3.abbyy.com/abbyycommedia/1222/rs%5Fjeghers%5Feducation%5F2014.pdf "PDF version") 
 
 ###### Like, share or repost
@@ -143,6 +158,9 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -163,3 +181,70 @@ We'd love to help you along your automation journey.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-makeovers-made-easy-top-10-online-tools-for-artists/"><u>[New] 2024 Approved  Channel Makeovers Made Easy - Top 10 Online Tools for Artists</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-tips-for-high-quality-discord-recordings/"><u>[New] Essential Tips for High-Quality Discord Recordings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-reviews-top-15-android-emulation-software-for-2024/"><u>[Updated] Expert Reviews  Top 15 Android Emulation Software for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-optimal-video-recording-for-instructors/"><u>[Updated] In 2024, Optimal Video-Recording for Instructors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unprecedented-capacity-choices-elite-cloud-services/"><u>[Updated] Unprecedented Capacity Choices  Elite Cloud Services</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-crafting-instagram-reels-like-professionals-top-10-tools/"><u>2024 Approved  Crafting Instagram Reels Like Professionals - Top 10 Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-film-titles-that-spur-positive-change-and-action-steps/"><u>2024 Approved  Film Titles That Spur Positive Change & Action Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/algorithmic-insights-understanding-gpts-interpretation-engine/"><u>Algorithmic Insights: Understanding GPT's Interpretation Engine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-ai-explained-in-simple-terms/"><u>Artificial Intelligence (AI) Explained in Simple Terms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-ai-chat-and-android-enhancing-text-input-experience/"><u>Bing AI Chat and Android: Enhancing Text Input Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-writing-barriers-with-ai-insights/"><u>Breaking Writing Barriers with AI Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/budget-phones-and-cybersecurity-decrypting-lecture/"><u>Budget Phones and Cybersecurity Decrypting Lecture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-computers-decipher-difficult-equations/"><u>Can Computers Decipher Difficult Equations?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clarity-chatgpt-is-definitely-malware-for-win-users/"><u>Clarity: ChatGPT Is Definitely Malware for Win Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-overcoming-destiny-2s-centipede-glitch/"><u>Comprehensive Guide to Overcoming Destiny 2'S Centipede Glitch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/context-upturn-how-gemini-15s-million-tokens-reshaped-market/"><u>Context Upturn: How Gemini 1.5'S Million Tokens Reshaped Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-compelling-narratives-a-task-for-humans-only/"><u>Crafting Compelling Narratives: A Task for Humans Only</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/crafting-effective-in-stream-ad-campaigns-on-facebook-a-comprehensive-guide/"><u>Crafting Effective In-Stream Ad Campaigns on Facebook  A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deathloop-not-launched-heres-how-you-can-solve-it/"><u>Deathloop Not Launched? Here’s How You Can Solve It!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-claims-chatgpt-app-on-windows-not-so-fast/"><u>Debunking Claims: ChatGPT App on Windows? Not So Fast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-how-large-scale-models-interpret-texts/"><u>Demystifying How Large-Scale Models Interpret Texts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/do-ai-output-sizes-have-a-predefined-character-limit/"><u>Do AI Output Sizes Have a Predefined Character Limit?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-and-deploy-llama-2-an-easy-to-follow-manual/"><u>Download & Deploy Llama 2: An Easy-to-Follow Manual</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-canon-printer-drivers-mf743cdw-series-compatible-software-for-windows/"><u>Download Canon Printer Drivers - MF743CDW Series: Compatible Software for Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-chatgpt-prompts-to-cut-down-on-cyber-distractions/"><u>Essential ChatGPT Prompts to Cut Down on Cyber Distractions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-checklist-evaluating-ai-as-a-tool-in-mental-health-interventions/"><u>Essential Checklist: Evaluating AI as a Tool in Mental Health Interventions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/foster-fresh-thinking-the-best-5-ai-text-generators/"><u>Foster Fresh Thinking: The Best 5 AI Text Generators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/geminis-1m-tokens-transformation-market-spearheaded/"><u>Gemini's $1M Tokens Transformation - Market Spearheaded</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-explained-for-families/"><u>Generative AI Explained for Families</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125171231-get-set-to-print-like-never-before-creality-releases-launch-date-cost-and-full-specs-of-their-latest-k1c-masterpiece/"><u>Get Set to Print Like Never Before: Creality Releases Launch Date, Cost and Full Specs of Their Latest K1C Masterpiece</u></a></li>
+<li><a href="https://some-skills.techidaily.com/harmony-in-handhelds-disabling-cross-device-ringing-for-ipads-and-iphones/"><u>Harmony in Handhelds: Disabling Cross-Device Ringing for iPads & iPhones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/identifying-false-chatgpt-sites-guidelines-for-safety/"><u>Identifying False ChatGPT Sites: Guidelines for Safety</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-guide-easy-to-install-vrecorder/"><u>In 2024, Essential Guide  Easy-to-Install VRecorder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-innovative-tools-in-live-encoding-technology/"><u>In 2024, Innovative Tools in Live Encoding Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-hiring-methods-discovering-6-chatgpt-approaches/"><u>Innovative Hiring Methods: Discovering 6 ChatGPT Approaches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-image-synthesis-using-microsoft-copilot-technology/"><u>Innovative Image Synthesis Using Microsoft Copilot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-googles-gemini-the-vision-behind-the-artificial-intelligence-pursuit/"><u>Inside Google's Gemini: The Vision Behind the Artificial Intelligence Pursuit</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-82579v-chipset-support-pack-complimentary-instant-downloads-available/"><u>Intel 82579V Chipset Support Pack: Complimentary, Instant Downloads Available</u></a></li>
+<li><a href="https://win-forum.techidaily.com/locating-your-active-powershell-version-with-ease-tips-for-windows-11-users/"><u>Locating Your Active PowerShell Version with Ease: Tips for Windows 11 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-personalization-tips-how-to-modify-the-color-of-file-directories/"><u>Mac Personalization Tips: How to Modify the Color of File Directories</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-amd-radeon-wattman-overcoming-configuration-setbacks-and-resets/"><u>Mastering AMD Radeon Wattman: Overcoming Configuration Setbacks & Resets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-complexities-of-ai-and-its-threats/"><u>Navigating the Complexities of AI and Its Threats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-deterioration-in-chatgpt-ai-says-openai/"><u>No Deterioration in ChatGPT AI, Says OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-launches-game-changing-gpt-4-artificial-intelligence-model/"><u>OpenAI Launches Game-Changing GPT-4 Artificial Intelligence Model</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-techniques-for-altering-song-pace-on-spotify-for-2024/"><u>Optimal Techniques for Altering Song Pace on Spotify for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/projections-in-machine-learning-when-will-gpt-5-emerge/"><u>Projections in Machine Learning: When Will GPT-5 Emerge?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-task-execution-ais-role-in-hr/"><u>Quick Task Execution: AI's Role in HR</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-samsung-galaxy-a05-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Samsung Galaxy A05</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/self-reflection-and-insight-the-gpt-way/"><u>Self-Reflection and Insight: The GPT Way</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplified-guide-to-understanding-langchain/"><u>Simplified Guide to Understanding LangChain</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solve-cybercrimes-engage-in-4-innovative-ai-puzzle-games/"><u>Solve Cybercrimes: Engage in 4 Innovative AI Puzzle Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamed-audiovideo-crafts-meetup-for-2024/"><u>Streamed Audio/Video Crafts Meetup for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-browsers-ai-dialogues-our-picks/"><u>Streamline Your Browser's AI Dialogues: Our Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/syntax-savants-showdown-gpt-3-vs-bards-brilliance/"><u>Syntax Savants Showdown: GPT-3 Vs. Bard’s Brilliance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-day-to-day-duel-claude-and-gpts-efficiency-face-off/"><u>The Day-to-Day Duel: Claude & GPT's Efficiency Face-Off</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-fact-files-on-fictional-ai-bots-top-9-reality-checks/"><u>The Fact Files on Fictional AI Bots - Top 9 Reality Checks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-futures-here-with-gpt-4-but-dont-miss-the-platinum-plans-6-distinguished-benefits/"><u>The Future's Here with GPT-4; But Don't Miss the Platinum Plan’s 6 Distinguished Benefits</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oneplus-nord-3-5g-by-drfone-android/"><u>Three Ways to Sim Unlock OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transcending-the-turing-test-in-modern-ai-scrutiny/"><u>Transcending the Turing Test in Modern AI Scrutiny</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-storytelling-with-ai-partnership/"><u>Transformative Storytelling with AI Partnership</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-phasmophobia-game-crashes/"><u>Ultimate Guide to Resolving Phasmophobia Game Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-are-large-language-models-llms-and-how-do-they-work/"><u>What Are Large Language Models (LLMs) and How Do They Work?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-writers-shouldnt-panic-the-5-limits-of-ai-in-publishing-field/"><u>Why Writers Shouldn't Panic: The 5 Limits of AI in Publishing Field</u></a></li>
+</ul></div>

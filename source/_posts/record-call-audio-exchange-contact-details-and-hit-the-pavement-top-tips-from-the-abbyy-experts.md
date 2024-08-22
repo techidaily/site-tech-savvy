@@ -1,7 +1,7 @@
 ---
 title: "Record Call Audio, Exchange Contact Details & Hit The Pavement: Top Tips From the ABBYY Experts"
-date: 2024-08-20 22:56:50
-updated: 2024-08-22 11:16:59
+date: 2024-08-21T15:32:50.767Z
+updated: 2024-08-22T15:32:50.767Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/130efd155dd3113027502bebb58cb6e6e0e86e94cc569dcea85fd93839ec481a.jpg
@@ -43,12 +43,18 @@ What makes Android so versatile is the infinite number of apps on Google Play th
 
 ![Automatic Call Recorder app android](https://static1.abbyy.com/abbyycommedia/26259/automatic-call-recorder-android.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Besides saving your calls as audio files locally, you can also save them to Dropbox or Google Drive. This is handy if you want to be able to access these files from other devices as well. You can save to 3GP, AMR or WAV.
 
 1. **Google Voice**
 
 ![google voice record talk android](https://static1.abbyy.com/abbyycommedia/26260/google-voice.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 Be warned: Google Voice is only available within the US. The service allows you to record incoming calls. It’s free of charge, but you will need to register with a Google account.
 
 1. **Cube Call Recorder ACR**
@@ -61,6 +67,9 @@ By default, Cube Call Recorder ACR will record all calls, but you can add phone 
 
 Please remember to inform the other party that you’re going to record the call.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **ABBYY Tip: iMessage for BCR**
 
 Did you know that you could send your business card from [BCR iOS](http://qrs.ly/ip56xfe) to new contacts using iMessage? When using iMessage for this purpose for the very first time, you’ll have to tweak a few settings:
@@ -73,6 +82,9 @@ Did you know that you could send your business card from [BCR iOS](http://qrs.ly
 
 ![ABBYY iMessage for BCR card scanner](https://static1.abbyy.com/abbyycommedia/26262/bcr-imessage.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now when you want to send a business card using iMessage:
 
 1. Go to the conversation, tap the App Store button next to the text box, and select BCR.
@@ -98,6 +110,9 @@ _By Sofiya Semenova, Head of Internal Communication and CSR_
 
 ![Sofiya](https://static1.abbyy.com/abbyycommedia/26264/sofiya.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 Spring is in the air and we are all tempted to spend more time outdoors. No more excuses for staying in. Why not mix fitness with pleasure, then? Jogging may be an ideal outdoor sport for many, as there’s no initial outlay on expensive sports gear and you can jog almost anywhere you like. Perhaps the hardest thing for many is making their first steps. But it’s not that hard, really. All you need is… well, run.
 
 Now you have firmly decided to take up jogging you will obviously have some questions to ask.
@@ -164,6 +179,9 @@ If you are too bored jogging on your own, find some company or join a jogging gr
 
 ![abbyy sport jogging healthy life](https://static1.abbyy.com/abbyycommedia/26265/legs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You may get an extra kick out of tracking your progress and analyzing your results. There are lots of mobile apps that will help you keep a diary and gather meaningful statistics.
 
 For the environmentally conscious, plogging may be the right kind of sport (the term is a blend of _jogging_ and _plocka upp,_ a Swedish word for ‘picking up litter’). It was invented in Sweden in 2016 and has become popular in many countries where citizens are concerned about plastic pollution. There are dozens of plogging communities on social media. Plogging is good old jogging enhanced with some litter picking exercises like bending, squatting, lunging, and stretching. You will also need a bin liner.
@@ -239,3 +257,40 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-instant-access-extract-and-save-fb-videos-as-mp4s/"><u>[New] 2024 Approved  Instant Access  Extract and Save FB Videos as MP4s</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-deep-dive-into-acid-pro-functionality-and-alternatives-for-2024/"><u>[New] Deep Dive Into ACID Pro Functionality & Alternatives for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-of-macapps-gpt-lures-hidden-dangers-revealed/"><u>Beware of MacApp's GPT Lures - Hidden Dangers Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bootstrap-a-free-locally-hosted-chatgpt-relative-on-windows/"><u>Bootstrap a Free, Locally Hosted ChatGPT Relative on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-create-a-breakthrough-in-health-tech/"><u>Can ChatGPT Create a Breakthrough in Health Tech?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-explained-the-tech-thats-shaping-interactive-futures/"><u>Chatbots Explained: The Tech That's Shaping Interactive Futures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-action-building-dynamic-and-intelligent-websites/"><u>ChatGPT in Action: Building Dynamic and Intelligent Websites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-prescription-for-peacefulness/"><u>ChatGPT’s Prescription for Peacefulness</u></a></li>
+<li><a href="https://facebook.techidaily.com/demystifying-digital-dialogues-busting-10-popular-facebook-myths/"><u>Demystifying Digital Dialogues: Busting 10 Popular Facebook Myths</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-giants-face-off-understanding-the-impact-of-facebook-twitter-instagram-vs-youtube/"><u>Digital Giants Face-Off: Understanding the Impact of Facebook, Twitter, Instagram vs YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-conversations-the-compelling-case-for-chatgptplus-upgrade/"><u>Elevate Conversations - The Compelling Case for ChatGPT+ Upgrade</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-tips-genuine-gpt-practices/"><u>Expert Tips: Genuine GPT Practices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-elite-art-tools-top-5-drawing-tablets-dominating-2024-market/"><u>Explore Elite Art Tools: Top 5 Drawing Tablets Dominating 2024 Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-redefining-professional-roles/"><u>Generative AI: Redefining Professional Roles</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-7-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 7 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-explore-top-10-free-video-calls-highest-rated-and-easy-to-use/"><u>In 2024, Explore Top 10 Free Video Calls - Highest Rated & Easy to Use</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-redmi-note-13-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi Redmi Note 13 Pro 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-honor-magic-v2-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Honor Magic V2 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-g34-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto G34 5G Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-applications-maximizing-chatgpts-vision-capabilities/"><u>Innovative Applications: Maximizing ChatGPT's Vision Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instructions-for-auto-gpt-installation/"><u>Instructions for Auto-GPT Installation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jumping-to-ais-next-chapter-gpt-4-vs-gpt-35/"><u>Jumping to AI's Next Chapter: GPT-4 Vs. GPT-3.5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/questioning-the-reliability-of-zerogpt-and-similar-tech-tools/"><u>Questioning the Reliability of ZeroGPT & Similar Tech Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-world-examples-the-impact-of-gpt-today/"><u>Real-World Examples: The Impact of GPT Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/running-freechat-on-win-a-freedomgpt-guide/"><u>Running FreeChat on Win: A FreedomGPT Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-communication-with-bing-ai-chat-on-your-android-keyboard/"><u>Swift Communication with Bing AI Chat on Your Android Keyboard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-digital-dialogue-mastering-the-art-of-custom-chatgpt-instructions/"><u>The Future of Digital Dialogue: Mastering the Art of Custom ChatGPT Instructions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-nokia-150-2023-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Nokia 150 (2023) Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-connecting-your-ps4-controller-seamlessly/"><u>Ultimate Guide: Connecting Your PS4 Controller Seamlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-palm-2-googles-enhanced-ai-linguistic-powerhouse/"><u>Unveiling PaLM 2: Google's Enhanced AI Linguistic Powerhouse</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-anthropics-new-claude-prompts/"><u>Utilizing Anthropic's New Claude Prompts</u></a></li>
+</ul></div>
