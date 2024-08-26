@@ -1,0 +1,173 @@
+---
+title: "Peering Through the Lens: How Predictive AI Functions"
+date: 2024-08-25T17:35:07.086Z
+updated: 2024-08-26T17:35:07.086Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Peering Through the Lens: How Predictive AI Functions"
+excerpt: "This Article Describes Peering Through the Lens: How Predictive AI Functions"
+thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dded56c51fea507b1e98fc61ee.jpg
+---
+
+## Peering Through the Lens: How Predictive AI Functions
+
+### Quick Links
+
+* [What Is Predictive AI, and How Does It Work?](https://proteahair.pxf.io/znernm)
+* [Examples of Predictive AI](https://martinic.evyy.net/m5azrm)
+* [How Is Predictive AI Different From Generative AI?](https://review-au.sjv.io/wqnrq3)
+
+### Key Takeaways
+
+* Predictive AI makes projections using past data, like weather forecasts and stock market trends.
+* Examples of predictive AI include predictive text, security threat identification, and app suggestions.
+* Predictive AI uses data to make predictions, whereas generative AI uses information to create content.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ You've probably heard of generative AI, but how much do you know about predictive AI? They sound similar, but have some key differences, along with a heap of ways you're probably already using it!
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+## What Is Predictive AI, and How Does It Work?
+
+ Predictive AI uses information from things that have already happened to make predictions and projections for what might happen in the future. To be used successfully, it requires access to high-quality data and subject matter expertise from humans to correctly identify trends.
+
+ These algorithms collect data from multiple points of information. For example, to measure how a sports team might perform over the whole season, predictive AI could gather information from essential success metrics like chances created, chances faced, and performances against certain teams.
+
+ Once predictive AI models have gathered the information they need, users can make decisions and conduct further research if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+## Examples of Predictive AI
+
+ Predictive AI is already used in multiple industries, and you may even have experienced this technology in action yourself. For example, companies use predictive AI to detect potential data breaches, and smartphone providers can help you type more accurately.
+
+ Below are some of the best examples of predictive AI in action.
+
+### 1\. Predictive Text
+
+Close
+
+ Predictive text is one of the best examples of predictive AI in action. Based on analysis of the language you're typing in and your past behavior, predictive text will guess what you're going to type next. Predictive text can also help you correct common errors, and Apple, in particular, has made huge strides with this. In fact, inline text is one of the [iOS 17 features that requires an iPhone 12 or later](https://www.makeuseof.com/ios-17-features-require-iphone-12-or-later/).
+
+ Besides analyzing your past typing habits, predictive text can also use the context of your conversations or documents to provide better typing and spelling recommendations. You can [disable inline predictive text on your Mac](https://www.makeuseof.com/disable-inline-predictive-text-on-mac/) if you own an Apple computer, and it's also possible to [turn on predictive text suggestions on Android](https://www.makeuseof.com/how-to-turn-on-predictive-text-android/).
+
+### 2\. Identifying Potential Security Threats
+
+![facebook unusual login email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/facebook-unusual-login.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Cybersecurity is one of the most important areas in which predictive AI is prominent, and [predictive analytics can help solve cybercrime in many ways](https://www.makeuseof.com/predictive-analytics-combat-cybercrime/). One example where you may have experienced predictive AI in security is when signing into an account or trying to use your bank card in an unfamiliar location.
+
+ You'll often receive an email or text message warning you of an unusual sign-in and prompting you to take action if needed. Requesting to change your password can also prompt such notifications. To ensure that you don't fall victim to security breaches, it's worth learning about [takeover fraud and how to prevent these threats](https://www.makeuseof.com/what-is-account-takeover-fraud/).
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3\. App and Content Suggestions
+
+![Spotify's niche mixes are playlists made for you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/spotify-niche-mixes-desktop.png)
+
+ Your smartphones and apps are becoming much better at offering recommendations, largely because of predictive AI. For example, if you use Google Drive, you may see a "You often open around this time" message on your main documents. You'll also see "Based on past activity" or "You've opened frequently."
+
+ If you use your smartphone, you'll often see that recommendations for opening apps and other actions change depending on your habits at each time of the day. Apps also use your consumption behaviors to deliver better recommendations; for example, [Spotify uses AI](https://www.makeuseof.com/how-spotify-uses-ai/) to recommend (and create) playlists.
+
+### 4\. Economic Projections
+
+ Predictive AI is also prominent in the world of finance, and it can help economists consider how financial markets will change over time. For example, based on historical data and current global affairs, predictive AI can determine whether certain currency exchange rates will increase or decrease. Since predictive AI is also good at identifying consumer behaviors, it's possible to use the tool to determine how industry trends will change.
+
+ This technology can also predict stock market movements and cryptocurrency price changes. If you plan on trading with AI, it's worth checking out these [AI-based crypto tools](https://www.makeuseof.com/top-ai-based-crypto-tools/) as a starting point.
+
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+### 5\. Weather Forecasts
+
+ Predicting the weather has always been difficult, but meteorologists will likely be able to lean on AI for more assistance in the future. Although the tool is relatively new in this space, Google AI Research Program Manager Abdoulaye Diack suggests that GraphCast can predict the weather up to 10 days in advance better than standard forecasting methods.
+
+ Predictive AI can measure more weather data in shorter periods. Being able to better predict the weather in the short term is nice on a personal level, as it means you'll know exactly what to wear outside. But if we zoom out and look at the bigger picture, predictive AI could also be a valuable tool for helping to innovate in climate change initiatives and predict major storms.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 6\. Business Decisions
+
+ Companies use predictive AI to make better decisions and projections for the coming year. Since predictive AI is very good at measuring consumer behaviors, businesses can accurately determine the success of their current products and offerings over 6-12 months. To fill gaps in the market, they can also use the information they gather to launch and test new products.
+
+ With predictive AI, businesses can also decide what to include in advertising campaigns. Moreover, they can determine where they should allocate their budgets more effectively. We've written a round-up of [essential AI tools for business owners to know about](https://www.makeuseof.com/ai-tools-for-business-owners/) if you're interested in learning more.
+
+## How Is Predictive AI Different From Generative AI?
+
+ Predictive and generative AI both use machine learning, but generative AI analyzes available information to create new content rather than draw conclusions.
+
+ Generative AI and predictive AI can work together. For example, an economist could use predictive AI to determine an upcoming recession or market crash. Meanwhile, they can use generative AI to help produce research papers or other content about what to do if that happens (or how to make the most of it).
+
+ Predictive AI is more present in many of our lives than we may initially think, and its use will increase as it becomes more accurate.
+
+</article
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/2024-approved-essential-guide-for-the-finest-travel-movie-tools/"><u>2024 Approved  Essential Guide for the Finest Travel Movie Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-framed-in-perfection-the-1-10-camera-lens-list-for-stunning-photography/"><u>2024 Approved  Framed in Perfection  The #1-10 Camera Lens List for Stunning Photography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-in-action-comparing-githubs-copilot-and-chatgpt/"><u>AI in Action: Comparing GitHub's Copilot and ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-love-the-modern-hackers-playbook/"><u>Artificial Love: The Modern Hacker's Playbook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-meets-android-revolutionize-your-communication-on-the-go/"><u>ChatGPT Meets Android: Revolutionize Your Communication On-the-Go!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rt-audio-online-mp3-to-youtube-live-upload-guide/"><u>Convert Audio  Online MP3 to YouTube Live Upload Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-on-a-local-llm-understanding-its-strengths-and-weaknesses/"><u>Deciding on a Local LLM: Understanding Its Strengths and Weaknesses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dynamic-dreaming-ai-mindmaps-for-inspiration/"><u>Dynamic Dreaming: AI, Mindmaps for Inspiration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-confidentiality-preventing-gpt-from-keeping-notes/"><u>Ensuring Confidentiality: Preventing GPT From Keeping Notes</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-functionality-a-comprehensive-guide-to-keyboard-resets/"><u>Expert Tips for Restoring Functionality - A Comprehensive Guide to Keyboard Resets</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/facebook-live-mastery-a-recording-journey-for-2024/"><u>Facebook Live Mastery  A Recording Journey for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-13-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 13 Passcode not Working?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-leverage-llama-2s-power-tools/"><u>How to Leverage Llama 2'S Power Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-enhance-obs-transcoding-troubleshooting-guide/"><u>In 2024, Enhance OBS Transcoding  Troubleshooting Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-recommended-6-online-apps-to-delete-background-perfectly/"><u>In 2024, Expert-Recommended 6 Online Apps to Delete Background Perfectly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-into-predictive-ai-written-in-code/"><u>Insights Into Predictive AI' Written in Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-it-safe-for-chatgpt-to-control-your-house-gadgets/"><u>Is It Safe for ChatGPT to Control Your House Gadgets?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-criteria-for-optimal-ai-chatbot-subscriptions/"><u>Key Criteria for Optimal AI Chatbot Subscriptions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigated-error-code-45-successfuly/"><u>Navigated Error Code 45, Successfuly!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nine-pathways-ais-journey-in-content-creation/"><u>Nine Pathways: AI's Journey in Content Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nutrition-blueprints-via-ai-gpt-tips/"><u>Nutrition Blueprints via AI: GPT Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-retro-gaming-and-pc-building-insights/"><u>Reviving Retro Gaming & PC Building Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safe-psychological-dialogues-gpt-enhanced-therapy/"><u>Safe Psychological Dialogues: GPT-Enhanced Therapy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/talking-with-precision-exclusive-chatgpt-plus-plan-for-us-at-20mth/"><u>Talking with Precision: Exclusive ChatGPT Plus Plan for US at $20/Mth</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-insiders-guide-to-publicizing-chatgpt-dialogues/"><u>The Insider's Guide to Publicizing ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quintessence-of-quick-growth-chatgpts-pivotal-points/"><u>The Quintessence of Quick Growth: ChatGPT’s Pivotal Points</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-showdown-vlc-versus-mpc-in-video-viewing-for-2024/"><u>The Ultimate Showdown  VLC Versus MPC in Video Viewing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unearthed-secret-chat-with-chatgpt-easily/"><u>Unearthed Secret: Chat With ChatGPT Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-potential-in-additive-layered-manufacturing-via-chatgpt/"><u>Unlock Potential in Additive Layered Manufacturing via ChatGPT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unplugging-pauses-from-social-streams-a-2023-approach-to-fixing-livestream-issues/"><u>Unplugging Pauses From Social Streams  A 2023 Approach to Fixing Livestream Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-ai-understanding-prompt-injections-and-their-mechanism/"><u>Unveiling AI: Understanding Prompt Injections & Their Mechanism</u></a></li>
+</ul></div>

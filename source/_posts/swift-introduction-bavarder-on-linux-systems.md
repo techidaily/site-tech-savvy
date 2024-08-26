@@ -1,0 +1,142 @@
+---
+title: "Swift Introduction: Bavarder on Linux Systems"
+date: 2024-08-25T17:33:07.800Z
+updated: 2024-08-26T17:33:07.800Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Swift Introduction: Bavarder on Linux Systems"
+excerpt: "This Article Describes Swift Introduction: Bavarder on Linux Systems"
+thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9c0efe0117a4ed53ffe45b35.jpg
+---
+
+## Swift Introduction: Bavarder on Linux Systems
+
+ ChatGPT is available through a website that requires creating an account. That leaves some of us feeling uncomfortable. Do we want our every query tied to our identity? Others may simply find opening a web browser to be inconvenient.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ If you are a privacy-conscious Linux user looking for a little convenience, it's now possible to use ChatGPT from a native desktop app, with no account required. The app's name is Bavarder.
+
+## What Is ChatGPT?
+
+ Okay, let's back up. Maybe you aren't yet familiar with ChatGPT. It's a chatbot that you can communicate with by typing into a window in your web browser. You can raise questions or make requests, such as [ask ChatGPT what to watch next on Netflix](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) or [have the chatbot help you with your job search](https://www.makeuseof.com/practical-ways-to-use-chatgpt-job-search/).
+
+ ChatGPT is a type of artificial intelligence, and it's available to use free of charge from OpenAI. In exchange, you must create an account and permit ChatGPT to log and learn from whatever you type.
+
+ ChatGPT's intelligence comes from the large language model that it learns from. ChatGPT was originally based on OpenAI's GPT 3.5 model, though this is no longer the newest version. GPT stands for "generative pre-trained transformer" and refers to this particular type of large language model.
+
+## What Is Bavarder?
+
+![The Linux Bavarder chatbot desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/linux-bavarder-chatbot-app.jpg)
+
+ Bavarder is an app that enables you to "chit-chat" with artificial intelligence. Bavarder is built specifically for GNOME, [the most widely-used interface on Linux PCs](https://www.makeuseof.com/ways-gnome-is-best-linux-desktop/). But Bavarder works on other desktop environments as well.
+
+ The name "Bavarder" is a French word referring to talking about things that don't matter or having an informal conversation about things that are not important. This implies that you probably shouldn't take the responses too seriously or turn to Bavarder for serious work.
+
+ Bavarder doesn't actually utilize ChatGPT directly. Instead, Bavarder works with various language models that utilize the OpenAI API. Default providers include BAI Chat, CatGPT, OpenAI's own GPT 3.5 Turbo, and others.
+
+ Some of the providers utilize the same learning models as ChatGPT, but that doesn't mean you can expect them to generate the same results as ChatGPT would. But to the average person, BAI Chat probably comes off as close enough to the same thing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Download Bavarder
+
+ Bavarder is available in [a universal package format known as flatpak](https://www.makeuseof.com/flatpak-for-beginners/) that works across most versions of Linux. You can download Bavarder from Flathub.
+
+**Download:**[Bavarder](http://flathub.org/apps/io.github.Bavarder.Bavarder)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Use Bavarder on Linux
+
+ Like many GNOME apps, there isn't much to see when you first open Bavarder. There is an input field labeled "Message" at the top and a second input field labeled "Response" at the bottom. You ask your question or give your command in the top field and Bavarder will give you the output in the bottom.
+
+ Each field has a copy button in the bottom right so that you can quickly send the text somewhere useful. Of course, **Ctrl + C** works as well.
+
+ You may need to configure sources to change the type or quality of the response. You can do this by clicking on the hamburger menu and selecting **Preferences**. To change the provider currently in use, select **Providers** instead.
+
+![Selecting a provider in the Bavarder Linux chatbot app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bavarder-linux-chatbot-providers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+ The app may seem to load for quite a while before providing a response. If you were to use BAI chat via [chatbot.theb.ai](http://chatbot.theb.ai/#/chat) in a browser, you would see your answer arrive a few words at a time as though the chatbot were typing.
+
+ Bavarder only delivers the answer all at once, so you have to wait for the AI to finish "thinking" rather than watch it think in real time.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+## Should You Use Bavarder on Linux?
+
+ There are ethical questions to wrestle with when using ChatGPT and similar chatbots. Do you trust one company collecting that much information? Are you concerned about putting people out of jobs? Do you think people should think creatively for themselves instead of outsourcing that task to machines?
+
+ If you land on the side of trusting this kind of software, then Bavarder is one of the easiest and quickest ways to make use of it. Though if you are more of a command-line person, there is a way to use ChatGPT from a terminal as well.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ If you are a privacy-conscious Linux user looking for a little convenience, it's now possible to use ChatGPT from a native desktop app, with no account required. The app's name is Bavarder.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-high-fidelity-world-of-samsungs-4k-s8/"><u>[New] Exploring the High-Fidelity World of Samsung's 4K S8</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-budget-friendly-vlogging-cameras-unveiled-our-picks/"><u>[Updated] Budget-Friendly Vlogging Cameras Unveiled  Our Picks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-skyrocketing-your-youtube-business-the-famebit-approach-to-sponsorships/"><u>2024 Approved  Skyrocketing Your YouTube Business  The FameBit Approach to Sponsorships</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-techniques-for-streaming-past-video-live-on-facebook-platform/"><u>2024 Approved  Techniques for Streaming Past Video Live on Facebook Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-in-the-written-word-7-insights/"><u>Artificial Intelligence in the Written Word: 7 Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-ai-and-sensitive-data-dont-mix/"><u>Beware: AI and Sensitive Data Don't Mix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bringing-advanced-search-to-your-fingers-bings-ai-for-smartphones/"><u>Bringing Advanced Search to Your Fingers: Bing’s AI for Smartphones.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-enhanced-excel-streamlining-complex-tasks-and-processes/"><u>ChatGPT-Enhanced Excel: Streamlining Complex Tasks and Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-dissection-gpt-vs-bingbots-10-key-dichotomies/"><u>Dialogue Dissection: GPT Vs. BingBot's 10 Key Dichotomies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-android-devices-incor-cookie-dough-ratio/"><u>Empower Android Devices: Incor Cookie Dough Ratio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelance-breakthroughs-unleash-potential-using-chatgpts-top-6-strategies/"><u>Freelance Breakthroughs: Unleash Potential Using ChatGPT's Top 6 Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-to-know-gptzero-the-definitive-guide-for-distinguishing-ai-creations/"><u>Get to Know GPTZero: The Definitive Guide for Distinguishing AI Creations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/idea-fountainheads-blending-mindmaps-with-ai/"><u>Idea Fountainheads: Blending Mindmaps with AI</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-worldbuilding-chatgpts-magic-touch/"><u>Interactive Worldbuilding: ChatGPT's Magic Touch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/natures-edge-is-chatbot-support-crucial-for-survival/"><u>Nature's Edge: Is Chatbot Support Crucial for Survival?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-googles-ai-ambitions-an-exploration-of-gemini-project/"><u>Navigating Through Google's AI Ambitions – An Exploration of Gemini Project</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-dawn-deciphering-twitters-metasig-phenomenon/"><u>New Era Dawn! Deciphering Twitter's Metasig Phenomenon</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-essential-guide-to-implementing-lame-for-high-quality-auditory-outputs-in-audacity/"><u>New The Essential Guide to Implementing Lame for High-Quality Auditory Outputs in Audacity</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/re-no-cost-visual-aids-from-prominent-4-youtube-feeds-for-2024/"><u>Procure No-Cost Visual Aids From Prominent 4 Youtube Feeds for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/salvaging-silenced-chatgpt-tracks/"><u>Salvaging Silenced ChatGPT Tracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-for-gpts-new-browsing-features/"><u>Step-by-Step Guide for GPT's New Browsing Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-rebuilding-your-pc-with-a-windows-7-factory-reset-no-cd-required/"><u>Step-by-Step Guide: Rebuilding Your PC with a Windows 7 Factory Reset, No CD Required</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-ai-understanding-chatgpts-co-pilot-extension/"><u>The Evolution of AI: Understanding ChatGPT's Co-Pilot Extension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-mechanics-behind-bot-success-and-their-appeal/"><u>The Mechanics Behind Bot Success and Their Appeal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-chatbot-question-gpt-pluses-or-perplexities/"><u>The Ultimate Chatbot Question: GPT Pluses or Perplexities?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-smart-chrome-tools-enhanced-with-ai-technology/"><u>Top 8 Smart Chrome Tools Enhanced with AI Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trustworthiness-of-ai-enhancements-gpt-apps-reviewed/"><u>Trustworthiness of AI Enhancements: GPT Apps Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-ai-interactions-via-quora-poe-access/"><u>Unlocking AI Interactions via Quora PoE Access</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-ais-purpose-prospects-and-pitfalls/"><u>Unraveling AI's Purpose, Prospects, and Pitfalls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-chatgpt-enterprise-potential/"><u>Unveiling ChatGPT Enterprise Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-openais-tool-for-transparent-ai-insight/"><u>Unveiling OpenAI's Tool for Transparent AI Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-ai-divide-shared-versus-exclusive-models/"><u>Unveiling the AI Divide: Shared Versus Exclusive Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-best-of-ai-file-analysis-via-gpt/"><u>Unveiling the Best of AI: File Analysis via GPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-best-nvidia-rtx-2060-super-driver-download-compatible-with-windows-10-and-11/"><u>Upgrade to the Best: NVIDIA RTX 2060 Super Driver Download Compatible with Windows 10 & 11</u></a></li>
+</ul></div>
