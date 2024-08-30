@@ -1,0 +1,145 @@
+---
+title: Securing Your Creative Legacy with Nightshade's Protective Measures
+date: 2024-08-29T19:48:12.693Z
+updated: 2024-08-30T19:48:12.693Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Securing Your Creative Legacy with Nightshade's Protective Measures
+excerpt: This Article Describes Securing Your Creative Legacy with Nightshade's Protective Measures
+thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52db2ee85035878ab4d903ee2.jpg
+---
+
+## Securing Your Creative Legacy with Nightshade's Protective Measures
+
+### Quick Links
+
+* [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
+* [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
+
+### Key Takeaways
+
+* Nightshade is an AI tool that "poisons" digital art, making it unusable for training AI models.
+* The tool alters digital artwork in a way that appears unchanged to humans but confuses AI algorithms.
+* Nightshade provides a way for digital creators to protect their work from being used in AI datasets without consent.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ AI tools are revolutionary and can now hold conversations, generate human-like text, and create images based on a single word. However, the training data these AI tools use often comes from copyrighted sources, especially when it comes to text-to-image generators like DALL-E, Midjourney, and others.
+
+ Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## What Is AI Poisoning?
+
+ AI poisoning is the act of "poisoning" the training dataset of an AI algorithm. This is similar to providing wrong information to the AI on purpose, resulting in the trained AI malfunctioning or failing to detect an image. Tools like Nightshade alter the pixels in a digital image in such a manner that it appears to be completely different to the AI training on it, but largely unchanged from the original to the human eye.
+
+![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
+
+ For example, if you upload a poisoned image of a car to the internet, it will look the same to us humans, but an AI attempting to train itself to identify cars by looking at images of cars on the internet will see something completely different.
+
+ A large enough sample size of these fake or poisoned images in an AI's training data can damage its ability to generate accurate images from a given prompt as the AI's understanding of the object is compromised.
+
+ There are still a few questions on [what the future holds for Generative AI](https://www.makeuseof.com/going-beyond-chatgpt-what-does-the-future-hold-for-generative-ai-chatbots/), but protecting original digital work is a definite priority. This can even damage future iterations of the model as the training data upon which the model's foundation is built isn't 100% correct.
+
+ Using this technique, digital creators who do not consent for their images to be used in AI datasets can [protect them from being fed to generative AI without permission](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/). Some platforms provide creators the option to opt out of including their artwork in AI training datasets. However, such opt-out lists have been disregarded by AI model trainers in the past and continue to be disregarded with little to no consequence.
+
+ Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+## How to Use Nightshade
+
+ While the creator of the tool recommends Nightshade be used alongside Glaze, it can also be used as a standalone tool to protect your artwork. Using the tool is also fairly easy, considering there are only three steps to protecting your images with Nightshade.
+
+ However, there are a few things you need to keep in mind before getting started.
+
+* Nightshade is only available for Windows and MacOS with limited GPU support and a minimum of 4GB VRAM required. Non-Nvidia GPUs and Intel Macs aren't supported at the moment. Here's a [list of supported Nvidia GPUs](https://developer.nvidia.com/cuda-gpus) according to the Nightshade team (the GTX and RTX GPUs are found in the "CUDA-Enabled GeForce and TITAN Products" section). Alternatively, you can run Nightshade on your CPU, but it'll result in slower performance.
+* If you have a GTX 1660, 1650, or 1550, a bug in the PyTorch library can prevent you from launching or using Nightshade properly. The team behind Nightshade may fix it in the future by moving from PyTorch to Tensorflow, but there are no workarounds at the moment. The issue also extends to the Ti variants of these cards. I launched the program by providing administrator access on my Windows 11 PC and waiting a few minutes for it to open. Your mileage may vary.
+* If your artwork has lots of solid shapes or backgrounds, you may experience some artifacts. This can be countered by using a lower intensity of "poisoning."
+
+ As far as protecting your images with Nightshade goes, here's what you need to do. Keep in mind that this guide uses the Windows version, but these steps also apply to the macOS version.
+
+1. Download the Windows or macOS version from the [Nightshade download page](https://nightshade.cs.uchicago.edu/downloads.html).
+2. Nightshade downloads as an archived folder with no installation required. Once the download is complete, extract the ZIP folder and double-click **Nightshade.exe** to run the program.
+3. Select the image you want to protect by clicking the **Select** button in the top-left. You can also select multiple images at once for batch processing.  
+![nightshade-program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nightshade-program.jpg)
+4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
+6. Click the **Run Nightshade** button at the bottom to run the program and poison your images.
+
+ Optionally, you can also select a poison tag. Nightshade will automatically detect and suggest a single word tag if you don't, but you can change it if it's incorrect or too general. Keep in mind this setting is only available when you process a single image in Nightshade.
+
+ If all goes well, you should get an image that looks identical to the original one to the human eye but completely different to an AI algorithm—protecting your artwork from generative AI.
+
+</article
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-negative-playback-on-your-instagram-feed/"><u>[New] Mastering Negative Playback on Your Instagram Feed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-step-by-step-approach-to-crafting-shareable-facebook-slideshows/"><u>[Updated] 2024 Approved  Step-by-Step Approach to Crafting Shareable Facebook Slideshows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-foremost-12-gps-enabled-cctv-cameras-for-motion-recording-for-2024/"><u>[Updated] Foremost 12 GPS-Enabled CCTV Cameras for Motion Recording for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-encompass-entire-webpage-in-view/"><u>[Updated] In 2024, Encompass Entire Webpage in View</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-how-ai-restrictions-mould-our-digital-interactions/"><u>Analyzing How AI Restrictions Mould Our Digital Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-in-the-written-word-7-insights/"><u>Artificial Intelligence in the Written Word: 7 Insights</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-avi-videos-on-the-go-best-mobile-and-online-video-cutters/"><u>Edit AVI Videos on the Go Best Mobile and Online Video Cutters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-android-devices-incor-cookie-dough-ratio/"><u>Empower Android Devices: Incor Cookie Dough Ratio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-workings-of-massive-language-architectures/"><u>Exploring the Workings of Massive Language Architectures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-ordinary-to-extraordinary-harnessing-ai-for-personal-growth/"><u>From Ordinary to Extraordinary: Harnessing AI for Personal Growth</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-a-check-for-updates-context-menu-option-in-windows-11-and-11/"><u>How to Add a Check for Updates Context Menu Option in Windows 11 and 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-focus-on-the-frame-master-logitech-cam-edits/"><u>In 2024, Focus on the Frame  Master Logitech Cam Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-photo-perfection-discover-our-6-best-background-erasers/"><u>In 2024, Ultimate Photo Perfection – Discover Our 6 Best Background Erasers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-worldbuilding-chatgpts-magic-touch/"><u>Interactive Worldbuilding: ChatGPT's Magic Touch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/natures-edge-is-chatbot-support-crucial-for-survival/"><u>Nature's Edge: Is Chatbot Support Crucial for Survival?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-googles-ai-ambitions-an-exploration-of-gemini-project/"><u>Navigating Through Google's AI Ambitions – An Exploration of Gemini Project</u></a></li>
+<li><a href="https://article-tips.techidaily.com/pinnacle-of-1980s-movie-magic-in-editing-for-2024/"><u>Pinnacle of 1980S Movie Magic in Editing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proofread-with-chatgpt-effectiveness/"><u>Proofread with ChatGPT Effectiveness?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/salvaging-silenced-chatgpt-tracks/"><u>Salvaging Silenced ChatGPT Tracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/supercharge-chatgpt-conversations-discover-our-top-7-plugins/"><u>Supercharge ChatGPT Conversations: Discover Our Top 7 Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/superior-spaces-for-ai-driven-innovation-dialogues/"><u>Superior Spaces for AI-Driven Innovation Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-ai-understanding-chatgpts-co-pilot-extension/"><u>The Evolution of AI: Understanding ChatGPT's Co-Pilot Extension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-mechanics-behind-bot-success-and-their-appeal/"><u>The Mechanics Behind Bot Success and Their Appeal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-chatbot-question-gpt-pluses-or-perplexities/"><u>The Ultimate Chatbot Question: GPT Pluses or Perplexities?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-ai-interactions-via-quora-poe-access/"><u>Unlocking AI Interactions via Quora PoE Access</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-gpt-4s-potential-with-a-copilot-buddy/"><u>Unlocking GPT-4's Potential with a Copilot Buddy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-ais-purpose-prospects-and-pitfalls/"><u>Unraveling AI's Purpose, Prospects, and Pitfalls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-ais-role-in-propagating-fakes/"><u>Unraveling AI’s Role in Propagating Fakes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-ai-divide-shared-versus-exclusive-models/"><u>Unveiling the AI Divide: Shared Versus Exclusive Models</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-vocal-variety-made-easy-implementing-voice-changer-plus-on-your-iphone-device-for-2024/"><u>Updated Vocal Variety Made Easy Implementing Voice Changer Plus on Your iPhone Device for 2024</u></a></li>
+</ul></div>

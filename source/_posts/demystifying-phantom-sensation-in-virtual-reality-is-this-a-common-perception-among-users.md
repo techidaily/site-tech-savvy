@@ -1,7 +1,7 @@
 ---
 title: Demystifying Phantom Sensation in Virtual Reality – Is This a Common Perception Among Users?
-date: 2024-08-26 18:40:22
-updated: 2024-08-29 12:51:49
+date: 2024-08-29T19:38:22.675Z
+updated: 2024-08-30T19:38:22.675Z
 tags:
   - cutting-edge
 categories:
@@ -28,10 +28,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  For many VR users, this type of 'bonus" immersion is desirable, so many of those aforementioned forum posts are actually about how to induce phantom sense, with different VR fans offering a variety of advice on how to make it happen. Whether any of those methods work is debatable, but can something like "phantom sense" really happen, and how does it even work?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Perception Is "Top-Down" and "Bottom-Up"
 
 ![Illustration of a man's silhouette with his brain highlighted and an array casting out from his eyes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/man-silhouette-brain-perception.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 _[BNP Design Studio/Shutterstock.com](https://www.shutterstock.com/image-vector/illustration-man-silhouette-brain-rays-coming-1173096928)_
 
  Humans and other living things "perceive" the world around us with sense organs. In school, you're taught that there are five senses, but the truth is that you have many different senses that give your brain information about the outside world and the state of your body.
@@ -40,6 +46,13 @@ _[BNP Design Studio/Shutterstock.com](https://www.shutterstock.com/image-vector/
 
  Top-down aspects of perception are things like your previous experience and what you've learned about the world. Your expectations and prior knowledge let your brain automatically fill in the blanks or predict what it thinks you should be seeing. Magic tricks and optical illusions often take advantage of your expectations and how they influence what we see and hear. It's most likely between these two types of perceptual processing that phantom sense happens.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ##  Phantom Sense in the Lab
 
  The phantom sense that people report experiencing in VR is most likely a form of "body transference". Body transference happens when someone takes "ownership" of something as part of their own body when it isn't. The classic experiment involves a rubber arm attached to the subject so that it's in the position you expect your real arm to be.
@@ -48,6 +61,9 @@ _[BNP Design Studio/Shutterstock.com](https://www.shutterstock.com/image-vector/
 
  Adding on to this, VR has been deliberately used to induce body transference. Researchers have determined that a person's VR body induces the same [threat response](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010564) as it would in real life. In other words, under the right conditions, the brain accepts ownership of the virtual body, and the radical body transference illusion occurs. This might explain why some VR users experience phantom senses.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  What Does This Mean for VR?
 
  Much of our media depends on our perceptual systems' ability to fill in the gaps. That's why you perceive motion instead of scrolling still images in a movie theater or only need the simplified suggestion of something in a painting to perceive the whole picture.
@@ -72,3 +88,39 @@ _[BNP Design Studio/Shutterstock.com](https://www.shutterstock.com/image-vector/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-reel-relationships-establishing-a-strong-social-media-presence-with-memes/"><u>[New] 2024 Approved  Reel Relationships  Establishing a Strong Social Media Presence with Memes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-5-android-screen-recorders-essential-app-selection/"><u>[Updated] Top 5 Android Screen Recorders  Essential App Selection</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-15-tools-for-boosting-fb-sales-through-data-analysis/"><u>2024 Approved  Top 15 Tools for Boosting FB Sales Through Data Analysis</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bard-the-next-frontier-for-google-to-conquer-ai-market/"><u>Bard: The Next Frontier for Google to Conquer AI Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-employment-risks-the-potential-firing-scenarios/"><u>ChatGPT Employment Risks: The Potential Firing Scenarios</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-pro-merits-vs-costs/"><u>ChatGPT Pro: Merits Vs. Costs?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-text-limit-characterswords-counted/"><u>ChatGPT's Text Limit: Characters/Words Counted?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-keyspace-perfection-on-windows-11/"><u>Configuring Keyspace Perfection on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dodge-these-pitfalls-chatgpt-mobile-downloads/"><u>Dodge These Pitfalls: ChatGPT Mobile Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-interactivity-top-5-personalized-gpt-3-directive-strategies/"><u>Elevating Interactivity: Top 5 Personalized GPT-3 Directive Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-client-outcomes-through-chatgpt-insights/"><u>Enhancing Client Outcomes Through ChatGPT Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exposing-fps-fantasies-mechanical-marvels/"><u>Exposing FPS Fantasies, Mechanical Marvels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-unleashed-a-treasure-trove-of-innovative-additions-revealed/"><u>GPT Unleashed: A Treasure Trove of Innovative Additions Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-potential-role-in-cyber-threat-evolution/"><u>GPT's Potential Role in Cyber Threat Evolution</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-samsung-galaxy-a14-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Samsung Galaxy A14 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-apple-iphone-13-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Methods to Turn off Life 360 On Apple iPhone 13 Pro Max without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-6-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 6</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-into-ai-its-uses-and-dangers-revealed/"><u>Insight Into AI: Its Uses and Dangers Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-siri-chatgpt-integration-on-iphones/"><u>Mastering Siri-ChatGPT Integration on iPhones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/modern-measures-of-machine-minds-after-the-turing-test/"><u>Modern Measures of Machine Minds: After The Turing Test</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/natural-selection-and-climate-change-a-separate-issue/"><u>Natural Selection and Climate Change: A Separate Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-complex-world-of-ai-as-a-mental-health-aide/"><u>Navigating the Complex World of AI as a Mental Health Aide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/neural-network-vulnerability-a-defensive-guide/"><u>Neural Network Vulnerability: A Defensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-ai-conversation-with-alternatives/"><u>Redefining AI Conversation with Alternatives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/samsung-ue590-unveiled-ultra-hd-4k-and-freesync-edition/"><u>Samsung UE590 Unveiled  Ultra HD 4K & FreeSync Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speeding-up-hr-operations-with-gpt-prompts/"><u>Speeding Up HR Operations with GPT Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-seamless-transition-from-browser-to-agent-gpt/"><u>The Seamless Transition: From Browser to Agent GPT</u></a></li>
+<li><a href="https://fox-links.techidaily.com/total-motion-systems-scrutiny-report-for-2024/"><u>Total Motion Systems Scrutiny Report for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-ai-terms-29-essentials-everyone-should-know/"><u>Unraveling AI Terms: 29 Essentials Everyone Should Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whats-behind-chatgpt-unleashing-limitless-creative-outputs/"><u>What's Behind ChatGPT? Unleashing Limitless Creative Outputs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-reno-10-proplus-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo Reno 10 Pro+ 5G? Fixed | Dr.fone</u></a></li>
+</ul></div>

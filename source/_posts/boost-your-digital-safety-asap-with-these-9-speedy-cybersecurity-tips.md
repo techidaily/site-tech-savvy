@@ -1,7 +1,7 @@
 ---
 title: Boost Your Digital Safety ASAP with These 9 Speedy Cybersecurity Tips!
-date: 2024-08-26 22:54:14
-updated: 2024-08-29 11:48:25
+date: 2024-08-29T19:36:46.256Z
+updated: 2024-08-30T19:36:46.256Z
 tags:
   - web
 categories:
@@ -39,6 +39,9 @@ Dibakar Ghosh / How-To Geek
 
  Typically, 2FA involves receiving a code via SMS or an authenticator app. While SMS is better than nothing, I'd recommend using an authenticator app like Google Authenticator or Authy for added security. It takes just a few minutes to set up, and it's one of the most effective ways to protect your accounts.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Use Hardware Security Keys
 
 ![The Yubico Yubikey 5CI laying on a notebook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/the-yubico-yubikey-5ci-laying-on-a-notebookjpg_52637983037_o.jpg) 
@@ -53,6 +56,9 @@ _Hannah Stryker / How-To Geek_
 
 ![Windows 11 Updated](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-windows-11-updated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  All of our apps and even the operating systems we use have bugs and vulnerabilities—it’s just the world we live in. Developers are constantly searching for these weak points and releasing updates with bug fixes to prevent hackers from exploiting these vulnerabilities.
 
  As such, it’s crucial that you routinely update your apps and operating system (OS) to access all the latest security patches. Ideally, automatic updates are the most convenient option, but it can sometimes be a problem, especially if an app or the OS decides to update itself in the middle of your work.
@@ -65,12 +71,18 @@ _Hannah Stryker / How-To Geek_
 
 ![A lock in a circuit type structure representing encryption](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-a-lock-in-a-circuit-type-structure-representing-encryption.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  This option might not be that useful for desktop PC owners, but it’s a must-have for portable devices like laptops or smartphones. This is because small portable devices have a higher chance of getting stolen. And you don’t want the thief to have access to your personal files, photos, and other sensitive information, do you?
 
  Most modern operating systems offer [built-in encryption tools](https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-g54-5g-drfone-by-drfone-virtual-android/): on Windows, it's called BitLocker, on macOS, it's FileVault, and on Linux, you can use LUKS. There are also third-party options, like VeraCrypt, that can be used to [encrypt your drives on most major operating systems.](https://facebook-video-footage.techidaily.com/new-exploring-platform-variations-youtube-vs-dailymention-for-2024/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5  Use a VPN, Especially When Accessing Public Wi-Fi 
 
 ![proton vpn running on phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/proton-vpn-running-on-phone.jpg) 
@@ -81,10 +93,16 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  Now, there are dozens of VPN service providers, and picking the [perfect VPN for your needs and budget](https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/) can be a bit daunting. Personally, I subscribe to [Mullvad VPN](https://sound-issues.techidaily.com/windows-11-audio-upgrade-how-to-elevate-speaker-volume-with-ease/) because it’s one of the most secure options, albeit a bit pricey.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6  Set Up a Secure DNS Server 
 
 ![A server room in neon lights](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-a-server-room-in-neon-lights.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Without getting too technical, by default, your internet service provider (ISP) handles all your[Domain Name System (DNS) requests](https://video-capture.techidaily.com/new-2024-approved-quick-tips-for-ios-screen-record/). This means your ISP can see every website you are trying to visit—and potentially, can even sell your browsing data. If you don’t want prying eyes over your internet traffic, you should consider [switching to a more secure DNS server](https://common-error.techidaily.com/fixing-network-issues-a-guide-to-dealing-with-unavailable-dhcp-servers/).
@@ -101,12 +119,18 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![Bitwarden Login Attempt Alert](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-bitwarden-login-attempt-alert-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
  You could ignore this email if you (or someone you allowed) logged in. However, if you find the activity suspicious and don’t know who made the login, you can deauthorize the device or IP from your account, and then quickly change your password to protect your account.
 
 ## 8  Take Routine Backups (Consider Cloud Backups Wisely) 
 
 ![A laptop with a USB drive and an external hard drive next to it and a backup icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-laptop-with-a-usb-drive-and-an-external-hard-drive-next-to-it-and-a-backup-icon.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Lucas Gouveia / How-To Geek | [Anton Marchenkov](https://www.shutterstock.com/en/image-photo/flash-drive-external-hard-open-laptop-1033175755) / Shuttterstock
 
  One of the major security threats is [ransomware attacks](https://fox-info.techidaily.com/updated-in-2024-changing-video-pace-on-your-instagram-feed/), where a hacker or virus will lock all data on your system, then threaten to delete everything unless you pay the “ransom”.
@@ -143,3 +167,49 @@ Dibakar Ghosh / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-social-medias-highest-wave-instagrams-thousand-strong-fanbase/"><u>[New] In 2024, Mastering Social Media's Highest Wave - Instagram’s Thousand-Strong Fanbase</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-new-age-of-entertainment-tiktok-vs-snap-in-the-spotlight/"><u>[New] In 2024, The New Age of Entertainment  TikTok Vs Snap in the Spotlight</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-the-top-10-stealthy-story-audiences/"><u>[New] In 2024, Unveiling the Top 10 Stealthy Story Audiences</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-voice-clarity-overcoming-skype-noise-issues/"><u>[Updated] 2024 Approved  Voice Clarity  Overcoming Skype Noise Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-a-comparative-analysis-of-macs-best-snipping-tools-for-2024/"><u>[Updated] A Comparative Analysis of Mac's Best Snipping Tools for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-creating-heartfelt-youtube-journeys/"><u>[Updated] Creating Heartfelt YouTube Journeys</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fundamentals-of-hue-adjustments-in-photoshop/"><u>[Updated] Fundamentals of Hue Adjustments in Photoshop</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-enhance-engagement-select-best-fonts-for-your-thumbnails/"><u>[Updated] In 2024, Enhance Engagement  Select Best Fonts for Your Thumbnails</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instavision-twists-the-art-of-creating-instagram-loops/"><u>[Updated] In 2024, InstaVision Twists  The Art of Creating Instagram Loops</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revolutionizing-cinematography-with-advanced-3d-luts/"><u>[Updated] Revolutionizing Cinematography with Advanced 3D LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-for-efficient-zoom-meeting-arrangements-on-android/"><u>[Updated] Tips for Efficient Zoom Meeting Arrangements on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ace-exams-easily-with-gpt-powered-notetaking/"><u>Ace Exams Easily with GPT-Powered Notetaking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-new-wave-of-search-at-microsofts-bing/"><u>AI & The New Wave of Search at Microsoft's Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-content-creation-where-it-falls-short/"><u>AI's Role in Content Creation - Where It Falls Short</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audience-friendly-guide-to-dji-inspire-2-for-2024/"><u>Audience-Friendly Guide to DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-revolution-mercedes-benzs-ai-chatgpt-meets-vehicle-control/"><u>Auto Revolution: Mercedes-Benz's AI ChatGPT Meets Vehicle Control</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-ai-and-mobile-how-to-utilize-bings-android-app/"><u>Bridging AI and Mobile: How to Utilize Bing's Android App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/career-evolution-what-changes-with-gpts-rise/"><u>Career Evolution: What Changes with GPT's Rise?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-termination-dissecting-10-potential-firing-scenarios/"><u>ChatGPT and Termination: Dissecting 10 Potential Firing Scenarios</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-gpt-alerts-to-spot-phony-bot-interactions/"><u>Crafting GPT Alerts to Spot Phony Bot Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-productivity-the-finest-pdf-apps-by-ai/"><u>Cutting Edge Productivity: The Finest PDF Apps by AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-scope-of-googles-ai-gemini-venture/"><u>Decoding the Scope of Google's AI Gemini Venture</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discerning-language-focused-computational-methods/"><u>Discerning Language-Focused Computational Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-proposals-a-guide-to-using-gpt-3/"><u>Enhancing Your Proposals: A Guide to Using GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-tips-for-setting-up-auto-gpt-in-ubuntu/"><u>Essential Tips for Setting Up Auto-GPT in Ubuntu</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fact-vs-fiction-debunking-gpt-windows-claims/"><u>Fact vs Fiction: Debunking GPT Windows Claims</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-a-step-by-step-approach-to-infusing-conversations-with-gifs-on-snapchat/"><u>In 2024, A Step-by-Step Approach to Infusing Conversations with GIFs on Snapchat</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-p40-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel P40 Fingerprint Lock</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x100-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X100 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ios-android-unite-how-to-download-and-make-your-own-whatsapp-tones/"><u>In 2024, IOS, Android Unite  How to Download and Make Your Own WhatsApp Tones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-methods-for-scavenging-free-frame-videos/"><u>In 2024, Quick Methods for Scavenging Free Frame Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ais-language-through-prompt-crafting-and-workforce-insights/"><u>Mastering AI's Language Through Prompt Crafting & Workforce Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-the-ultimate-freelancers-toolkit-for-writer-excellence/"><u>Mastering ChatGPT: The Ultimate Freelancer's Toolkit for Writer Excellence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ordinary-operations-which-bot-leads-the-charge/"><u>Ordinary Operations: Which Bot Leads the Charge?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-analysis-unveil-the-power-of-chatgpt/"><u>Revolutionizing Analysis: Unveil the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unbridled-future-of-gpt-without-limits/"><u>The Unbridled Future of GPT Without Limits?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-conversations-enhanced-gpt-plus-available-to-us-us20mo/"><u>Transform Conversations: Enhanced GPT-Plus Available to US (US$20/Mo)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitters-emoji-free-zone-linuss-secrets-trojan-breakdown-and-ai-chatgpt-faults-revealed/"><u>Twitters Emoji-Free Zone, Linus's Secrets, Trojan Breakdown, & AI ChatGPT Faults Revealed.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oneplus-ace-2-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends OnePlus Ace 2 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-full-potential-of-mixer-streaming-on-macos/"><u>Unlocking Full Potential of Mixer Streaming on macOS</u></a></li>
+</ul></div>

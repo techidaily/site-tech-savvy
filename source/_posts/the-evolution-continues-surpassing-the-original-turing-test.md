@@ -1,0 +1,177 @@
+---
+title: "The Evolution Continues: Surpassing the Original Turing Test"
+date: 2024-08-29T19:51:23.957Z
+updated: 2024-08-30T19:51:23.957Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes The Evolution Continues: Surpassing the Original Turing Test"
+excerpt: "This Article Describes The Evolution Continues: Surpassing the Original Turing Test"
+thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab95893a75ab576300b01cddc62fb.jpg
+---
+
+## The Evolution Continues: Surpassing the Original Turing Test
+
+ Is it possible for artificial intelligence to match human intelligence? It's a tricky question involving philosophy, psychology, computer science, and every topic. Whenever there's talk about human-level machine intelligence, the Turing Test is never too far behind.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ In 2014, Internet journalists exploded in a frenzy of excitement when a London-based computer program named Eugene Goostman seemingly passed the Turing Test. In 2022 Google's LaMDA reportedly did the same, but what happened? Did they pass the test? What do artificial intelligence advancements mean for the Turing Test?
+
+## What Is the Turing Test?
+
+![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
+
+ Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
+
+ The Turing Test is a set of guidelines meant to determine whether a machine is indistinguishable from a human. It tries to answer the question, "Can machines think?" Turing believed it was possible and designed something that could be resembled as a kind of game.
+
+ Here is the standard interpretation of the Turing Test:
+
+* You are interrogating two people
+* Person A is a machine, whereas Person B is a human.
+* You can only communicate with them using text.
+* By asking questions, determine which one is a machine and which one is a human.
+
+ The standard game length for the test can range from a few minutes to several hours. The quality and content of the conversation are large factors in the duration. A fixed-duration test can also be administered; the standard duration is usually five minutes.
+
+ The conventional criteria for passing the test is subjective but, as a general understanding, requires the machine to fool at least 30% of all human interrogators. Turing predicted that any machine to do that could be "smart" enough to be labeled as a "thinking machine."
+
+![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
+
+### Drawbacks of the Turing Test
+
+ Although the Turing Test aims to find if machines can think, there are some drawbacks.
+
+ The main drawback to the Turing Test is that a machine being indistinguishable from a human does not necessarily indicate intelligence. In other words, does the Turing Test prove a machine's ability to think for itself or a machine's ability to imitate human behavior? It's a subtle difference with huge implications. After all, a chatbot with enough lines of code could conceivably imitate human conversation without ever being truly intelligent. This brings up a subsequent question. Is external behavior enough to indicate internal thoughts?
+
+ Another major drawback to note is the lack of a control group. By definition, the Turing Test results are based on a group of interrogators, but not everyone is equal. Though Turing specifies that the criteria are only relevant to "average interrogators." The term "average" by definition is not specific, and therefore, different interrogators will yield varied and inconsistent results.
+
+ Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Did Eugene Goostman or LaMBDA Pass the Turing Test?
+
+![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ In the last ten years, there have been two main claims that the Turing Test has been passed.
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Eugene Goostman
+
+ In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
+
+ Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
+
+ By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Google's LaMBDA
+
+ So Eugene Goostman may not have passed the Turing test, but how about Google's LaMDA?
+
+ In 2022 a Google engineer named Blake Lemoine claimed one of the company's artificial intelligence language models, known as [LaMDA (Language Models for Dialogue Applications)](https://www.makeuseof.com/what-is-google-lamda-ai/), had successfully passed the Turing Test. Lemoine also claimed that LaMDA was sentient. He then went public with the information, sharing the text-based interactions between him and the AI language model, after which he was placed on paid leave and eventually fired, per [The Guardian](https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient).
+
+ Lemoine gave particular focus to an instance where he asked: "What does the word 'soul' mean to you?" Google's LaMDA answered, "To me, the soul is a concept of the animating force behind consciousness and life itself."
+
+ Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Advancement of Computer Intelligence
+
+ In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore, [Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/). This is currently available to users in the UK and the United States.
+
+ Computer intelligence focuses on deep learning technologies, natural language processing, reinforcement learning, generative adversarial networks, and edge computing with IoT integration. All of which have seen significant advancements in the past five years. These areas continue to evolve at an incredible rate thanks to computer intelligence being used to improve itself.
+
+ Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
+
+### ChatGPT
+
+ ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
+
+ Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
+
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Turing Test Has Not Been Definitively Passed
+
+ Artificial intelligence continues to grow, and although there have been several claims, there is still no definitive agreed industry agreement that the Turing Test has been beaten. This is largely due to the subjective nature of what constitutes "intelligence" and the limitations of the Turing Test parameters.
+
+ The Turing Test is believed by many to only encourage human imitation rather than true thinking intelligence. In fact, other AI tests have been designed in recent years that are more sophisticated and specific. Perhaps as artificial intelligence gets better at human imitation, the only true way to measure machine intelligence is to use a different test.
+
+ The Turing Test might be iconic, but maybe it's time that we shelve it and move on.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ In 2014, Internet journalists exploded in a frenzy of excitement when a London-based computer program named Eugene Goostman seemingly passed the Turing Test. In 2022 Google's LaMDA reportedly did the same, but what happened? Did they pass the test? What do artificial intelligence advancements mean for the Turing Test?
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-best-storytelling-youtube-channels-to-follow-this-year-for-2024/"><u>[New] Best Storytelling YouTube Channels to Follow This Year for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-seamless-edits-start-on-all-your-tech-for-2024/"><u>[New] Seamless Edits Start on All Your Tech for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-multi-screen-browsing-in-chrome-using-pip/"><u>[New] Seamless Multi-Screen Browsing in Chrome Using PIP</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-webcam-recording-guide-for-hp-and-chromebook-users/"><u>[New] Webcam Recording Guide for HP & Chromebook Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-put-emojis-in-discord-status-for-2024/"><u>[Updated] How to Put Emojis in Discord Status for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44ox44ot44k744k544oe44kk44ol44oz44kw44gu6kmz57sw6kej6kqs77ya44gp44gg44gx44gm6yen6kab44gl77yf44cn/"><u>「プロセスマイニングの詳細解説：どうして重要か？」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-abbyy-flexicapture-enhances-trn-groups-invoicing-efficiency-through-automation/"><u>1. ABBYY FlexiCapture Enhances TRN Group's Invoicing Efficiency Through Automation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-enhanced-traffic-insights-with-our-state-of-the-art-cookiebot-technology/"><u>1. Enhanced Traffic Insights with Our State-of-the-Art Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-blog-the-five-biggest-challenges-facing-developers-with-receipt-ocr-technology/"><u>ABBYY Blog: The Five Biggest Challenges Facing Developers with Receipt OCR Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-enhances-eucon-efficiency-through-advanced-automatic-document-handling/"><u>ABBYY Enhances Eucon Efficiency Through Advanced Automatic Document Handling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-textgrabber-on-android-now-features-live-translation-available-at-no-cost/"><u>ABBYY TextGrabber on Android Now Features Live Translation, Available at No Cost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerate-success-with-six-essential-steps-for-launching-a-process-mining-project-insights-from-the-abbyy-team/"><u>Accelerate Success with Six Essential Steps for Launching a Process Mining Project - Insights From the ABBYY Team</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-a-robust-supply-network-the-role-of-intelligent-processes-in-blueprints-expert-advice-from-abbyy-experts/"><u>Building a Robust Supply Network: The Role of Intelligent Processes in Blueprints | Expert Advice From ABBYY Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/capacitez-votre-main-doeuvre-digitale-en-utilisant-les-competences-cognitives-dabbyy-vantage/"><u>Capacitez Votre Main-D'oeuvre Digitale en Utilisant Les Compétences Cognitives D'ABBYY Vantage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/carlsberg-partners-with-abbyy-to-speed-up-global-launch-of-premium-brews/"><u>Carlsberg Partners with ABBYY to Speed Up Global Launch of Premium Brews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-analytics-unleashing-the-full-potential-of-your-digital-marketing/"><u>Cookiebot-Driven Analytics: Unleashing the Full Potential of Your Digital Marketing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-website-optimization-boosting-your-digital-footprint/"><u>Cookiebot-Driven Website Optimization: Boosting Your Digital Footprint</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-personalization-enhancing-your-digital-marketing/"><u>Cookiebot-Enabled Personalization: Enhancing Your Digital Marketing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-boost-your-sites-performance-and-analytics/"><u>Cookiebot-Enabled: Boost Your Site's Performance and Analytics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-competencies-needed-for-success-in-abbyys-transportation-and-logistics-sector/"><u>Essential Competencies Needed for Success in ABBYY's Transportation and Logistics Sector</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-unlimited-data-plans-with-metro-by-t-mobiles-nationwide-wi-fi-and-cellular-roaming-options/"><u>Exploring Unlimited Data Plans with Metro by T-Mobile's Nationwide Wi-Fi and Cellular Roaming Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-of-banking-how-digital-intelligence-shapes-tomorrows-leading-financial-institutions-insights-from-abbyy/"><u>Future of Banking: How Digital Intelligence Shapes Tomorrow's Leading Financial Institutions – Insights From ABBYY</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone XR</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ative-ideas-to-make-your-youtube-shorts-exceptional/"><u>Innovative Ideas to Make Your YouTube Shorts Exceptional</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-cookiebot-technology-for-advanced-website-analytics-and-personalization/"><u>Leverage Cookiebot Technology for Advanced Website Analytics and Personalization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-cookiebot-technology-for-enhanced-search-engine-visibility-and-performance/"><u>Leveraging Cookiebot Technology for Enhanced Search Engine Visibility and Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-of-collaboration-as-abbyy-extends-distribution-network-with-sigma-software-ally/"><u>New Era of Collaboration as ABBYY Extends Distribution Network with Sigma Software Ally</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ntt-docomo-endorsed-abbyy-app-with-ocr-technology-for-seamless-multi-language-text-conversion/"><u>NTT DOCOMO Endorsed ABBYY App with OCR Technology for Seamless Multi-Language Text Conversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-information-retrieval-session-elevating-company-knowledge-with-advanced-mining-methods/"><u>Strategic Information Retrieval Session: Elevating Company Knowledge with Advanced Mining Methods</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-tcl-32s325-roku-experience-a-blend-of-smart-technology-and-stylish-design-as-explored-in-our-comprehensive-2019-review/"><u>The TCL 32S325 Roku Experience - A Blend of Smart Technology and Stylish Design, as Explored in Our Comprehensive 2019 Review!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-paperwork-into-digital-format-using-ocr-ios-solution-by-finereader-pdf-app/"><u>Transform Your Paperwork Into Digital Format Using OCR - iOS Solution by FineReader PDF App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-why-robotic-process-automation-has-ceos-and-c-level-managers-hooked-perspectives-by-abbyy/"><u>Unpacking Why Robotic Process Automation Has CEOs and C-Level Managers Hooked - Perspectives by ABBYY</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win711-hp-printer-network-recovery-tips/"><u>Win7/11 HP Printer Network Recovery Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-abbyy2020/"><u>デジタルインテリジェンスとその6つの魅力的な物語 - ABBYYブログで読むべき2020年</u></a></li>
+</ul></div>

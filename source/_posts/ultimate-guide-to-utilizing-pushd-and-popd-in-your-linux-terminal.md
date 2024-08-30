@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Utilizing Pushd and Popd in Your Linux Terminal
-date: 2024-08-26 22:23:16
-updated: 2024-08-29 11:16:27
+date: 2024-08-29T19:37:45.668Z
+updated: 2024-08-30T19:37:45.668Z
 tags:
   - desktop
 categories:
@@ -66,6 +66,9 @@ pushd ~
 
  Note also that the left-most entry in the stack, which is most recently added entry, is your current directory.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ##  The dirs Command
 
  You can use the `dirs` command, as shown below, to display the directory stack:
@@ -88,6 +91,9 @@ dirs -v -l
 
 ![dirs -v -l in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/4-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ##  Adding a Directory to the Stack
 
  As we've seen, when you use the `pushd` command, it does three things: changes your directory, adds the new directory to the stack, and displays the stack for you. You can use the `-n` (no rotation) option to add a directory to the stack without changing the current directory.
@@ -124,6 +130,9 @@ pushd +3
 
 ![pushd +3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/7-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The directories in the stack above the directory we've chosen are moved to the bottom of the stack. Our chosen directory now occupies the top position and we're moved into that directory.
 
  If we want to change into the directory at the bottom of the stack, we can use the following command:
@@ -132,8 +141,14 @@ pushd -0
 
 ![pushd -0 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/8-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
  The last directory is moved to the first slot, and all the others are moved down in the stack. We're changed to the `~/Pictures` directory.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  The popd Command
 
  You can use the `popd` command to remove directories from the stack.
@@ -154,6 +169,9 @@ popd -0
 
 ![popd -0 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The `~/Music` directory is removed from the last position in the stack.
 
  To change the directory, do something, and then hop back to the previous directory, you can use `pushd` and `popd` together.
@@ -168,6 +186,9 @@ popd
 
 ![pushd ~ in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/11-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
  We started in the `~/Projects` directory, `pushd` to the home directory, and then `popd` back to the `~/Projects` directory.
 
 ##  Rotating Through the Entire Stack
@@ -192,6 +213,9 @@ dirs -v -l
 
 ![pushd ~/Projects in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/12-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  When you repeatedly issue `pushd +1` commands, you can cycle round and round through the stack of directories. If you do this often, `pushd +1` would be a good candidate for an [alias](https://hardware-help.techidaily.com/download-the-latest-logitech-camera-drivers-at-no-cost-for-windows-users/).
 
  Type the following:
@@ -200,6 +224,9 @@ pushd +1
 
 ![pushd +1 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/13-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Stamping Over the Stack
 
  It's easy to revert to old habits and use `cd` to change directory. If you do that, you'll stamp over the first directory in the stack. This is inevitable, as the first slot is reserved for the current working directory—none of the others change position.
@@ -214,6 +241,10 @@ dirs -v -l
 
 ![dirs -v -l in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ---
 
  After you get used to the `pushd` and `popd` commands (and, perhaps, use them to create a few aliases), you'll have a super-fast way to hop between directories.
@@ -240,3 +271,54 @@ dirs -v -l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/expert-ideal-approaches-to-correct-iphone-hdr-overexposure-in-adobe-premiere-for-2024/"><u>[Expert] Ideal Approaches to Correct iPhone HDR Overexposure in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-secrets-of-saving-youtube-thumbnails-in-various-formats/"><u>[New] In 2024, Secrets of Saving Youtube Thumbnails in Various Formats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-recording-wonders-the-best-screenshot-tools-for-2024/"><u>[New] Recording Wonders  The Best Screenshot Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unleash-new-sounds-top-7-voice-transformation-android-apps-for-2024/"><u>[New] Unleash New Sounds  Top 7 Voice Transformation Android Apps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-eyecatch-protector-cam-cover/"><u>[Updated] In 2024, Eyecatch Protector Cam Cover</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-master-your-download-installation-and-usage-of-ez-grabber-for-2024/"><u>[Updated] Master Your Download  Installation and Usage of EZ Grabber for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skyward-elite-unified-ultra-hd-multi-touch-panels/"><u>2024 Approved  Skyward Elite  Unified, Ultra HD Multi-Touch Panels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-quest-for-superior-video-playback-software/"><u>2024 Approved  The Quest for Superior Video Playback Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-artist-copyright-issues-and-responsibilities/"><u>AI Artist: Copyright Issues & Responsibilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bards-launch-googles-answer-to-the-challenge-from-chatgpt/"><u>Bard's Launch: Google's Answer to the Challenge From ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-demystified-how-it-stacks-up-to-chatgptplus/"><u>Claude Pro Demystified: How It Stacks Up to ChatGPT+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/directing-bavarder-installation-with-ease-linux/"><u>Directing Bavarder Installation with Ease (Linux)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-7-exclusive-tools-to-surpass-chatgpt-in-coding/"><u>Discover 7 Exclusive Tools to Surpass ChatGPT in Coding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emotional-assistance-responsible-ai-application/"><u>Emotional Assistance: Responsible AI Application</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioned-visions-painting-with-chatgpt-and-ai-magic/"><u>Envisioned Visions: Painting with ChatGPT & AI Magic</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evasive-writing-escaping-ai-generated-narratives/"><u>Evasive Writing: Escaping AI-Generated Narratives</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-best-sites-for-free-book-downloads-a-comprehve-list-of-17-options/"><u>Explore the Best Sites for FREE Book Downloads - A Comprehve List of 17 Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ais-role-in-making-money-chagpts-guideposts/"><u>Exploring AI's Role in Making Money: ChaGPT’s Guideposts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/first-to-successfully-unlock-encrypted-hard-drives-stellars-milestone/"><u>First to Successfully Unlock Encrypted Hard Drives - Stellar's Milestone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-gamepad-driver-for-xbox-360-controllers/"><u>Free Download: Gamepad Driver for Xbox 360 Controllers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-demystified-concepts-made-clear/"><u>Generative AI Demystified: Concepts Made Clear</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guard-against-deception-the-hidden-dangers-of-googles-bard-update/"><u>Guard Against Deception: The Hidden Dangers of Google’s Bard Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-did-italy-execute-an-ai-based-language-model-ban/"><u>How Did Italy Execute an AI-Based Language Model Ban?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-tecno-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Tecno Without PUK Codes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/illuminating-artificial-intelligences-shadows-black-boxes-exposed/"><u>Illuminating Artificial Intelligence's Shadows: Black Boxes Exposed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-honor-x9bs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor X9bs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/incorporating-ai-discussions-for-improved-task-flow/"><u>Incorporating AI Discussions for Improved Task Flow</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-enthusiasts-meet-your-new-chatbuddy/"><u>IOS Enthusiasts, Meet Your New ChatBuddy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-list-elite-call-alert-engineers-for-2024/"><u>Leading List  Elite Call Alert Engineers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-online-marketplaces-for-ai-content-creation/"><u>Leading Online Marketplaces for AI Content Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-efficiency-essential-tips-for-leveraging-the-chatgpt-wolfram-plugin-combo/"><u>Maximize Efficiency: Essential Tips for Leveraging the ChatGPT-Wolfram Plugin Combo</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-ballad-barren-builder-create-personal-accompaniment-music/"><u>New In 2024, Ballad Barren Builder Create Personal Accompaniment Music</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-membership-necessary-gpt-4-available-to-all-with-platinum-benefits-still-worth-it/"><u>No Membership Necessary: GPT-4 Available to All, with Platinum Benefits Still Worth It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/renewable-energy-cant-replace-fossil-fuels-overnight/"><u>Renewable Energy Can't Replace Fossil Fuels Overnight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revealing-codegpts-mechanisms-ai-and-its-coding-prowess/"><u>Revealing CodeGPT's Mechanisms: AI and Its Coding Prowess</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-ai-dialogue-pivotal-features-of-the-future-gpt-5/"><u>Revolutionary AI Dialogue: Pivotal Features of the Future GPT-5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-web-thwart-ai-bots-from-data-scavenging/"><u>Securing Web: Thwart AI Bots From Data Scavenging</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sharpening-reality-of-ai-conclusions-with-6-precision-prompts/"><u>Sharpening Reality of AI Conclusions with 6 Precision Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-you-count-on-computers-for-cash-counseling/"><u>Should You Count on Computers for Cash Counseling?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-introduction-bavarder-on-linux-systems/"><u>Swift Introduction: Bavarder on Linux Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/techniques-to-curtail-ai-fictional-responses/"><u>Techniques to Curtail AI Fictional Responses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-how-forefront-ai-measures-up-to-chatgpt/"><u>The Future Is Now – How Forefront AI Measures Up to ChatGPT?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-nba-2k21-emerald-gaffe-solved-techniques-for-gamers/"><u>The NBA 2K21 Emerald Gaffe: Solved Techniques for Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-11-gpt-challenges-for-crafting-dynamic-book-characters/"><u>Top 11 GPT Challenges for Crafting Dynamic Book Characters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-6-heavies-massive-language-models-triumph/"><u>Ultimate 6 Heavies: Massive Language Models Triumph</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-googles-new-palm-2-large-language-model/"><u>What Is Google's New PaLM 2 Large Language Model?</u></a></li>
+</ul></div>

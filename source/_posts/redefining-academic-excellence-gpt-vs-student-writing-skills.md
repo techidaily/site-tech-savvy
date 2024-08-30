@@ -1,0 +1,215 @@
+---
+title: "Redefining Academic Excellence: GPT Vs. Student Writing Skills?"
+date: 2024-08-29T19:41:32.368Z
+updated: 2024-08-30T19:41:32.368Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Redefining Academic Excellence: GPT Vs. Student Writing Skills?"
+excerpt: "This Article Describes Redefining Academic Excellence: GPT Vs. Student Writing Skills?"
+thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff740a914248fee4864660d3de9.jpg
+---
+
+## Redefining Academic Excellence: GPT Vs. Student Writing Skills?
+
+ ChatGPT is a powerful large language model that will pretty much answer almost anything. But because of its power, many students use it to solve their homework, especially essays.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ So, has ChatGPT rendered student essays dead? Should educational institutions find a new way to gauge subject competence?
+
+## What Is the Purpose of the Student Essay?
+
+ According to the [Merriam-Webster dictionary](https://www.merriam-webster.com/dictionary/essay), an essay is "an analytic or interpretative literary composition usually dealing with its subject from a limited or personal point of view." And by going through the word's history, we find that essay derives from the old Frech word _essai_, which itself is from the Latin _exagium_, which means the act of weighing.
+
+ So, by this definition, an essay is a written piece wherein the writer—the student—analyzes or weighs a particular subject. So, in an essay, the writer gathers information on the topic they're covering; then, they'll digest the material and write an argument on their understanding of the case.
+
+![student thinking about what to write on their essay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-thinking-about-what-to-write-on-their-essay.jpg)
+
+ Furthermore, the [Western Sydney University Library](https://www.westernsydney.edu.au/%5F%5Fdata/assets/pdf%5Ffile/0005/1082498/Essay%5FPurpose.pdf) (PDF) states that an essay's purpose is to "persuade the reader that your position is credible (i.e., believable and reasonable)." This means that a student shouldn't just argue their case in an essay, but they should do so in a logical way.
+
+ So, for many professors, the student essay is an excellent tool for developing critical thinking. It's also not as taxing for the students since most essays are take-home assignments.
+
+## Libraries, Internet Search, and Analytical Thinking vs. ChatGPT
+
+ Before the proliferation of the internet, students had to exert double effort to research and write their essays. So, their critical and analytical thinking skills are exercised in multiple ways—searching for related literature to their topic, analysis of existing data, and how they write and present and their learnings.
+
+![a library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-library.jpg)
+
+ When online search peaked, research became much easier for students. They no longer had to go through tons of books, magazines, and articles across different libraries—type in some choice keywords and separate the wheat from the chaff in the results.
+
+ But even with the faster search results, they still had to use their critical thinking skills to analyze the data and write what they learned. And while it's easier to plagiarize now, as you just have to copy and paste the data from your browser to your word processor, teachers can easily catch this form of cheating.
+
+ So, although Google made it easier to write essays, it also meant that students could now access more information than ever before. Because of this, the student essay became a more powerful learning tool.
+
+ However, when ChatGPT launched, students discovered it was more than just a research and summarizing tool. ChatGPT uses natural language processing (NLP—[what is NLP?](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/)) to understand your search intent, and then it conversationally answers your question.
+
+![chatgpt site open on desktop monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-pc.jpg)
+
+ This is the basic gist of [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/): when you ask ChatGPT anything, it doesn't send you to an article or a website. Instead, it goes through all its stored information and recognizes patterns based on what it has learned. From there, it will return an answer it predicts will satisfy your need.
+
+ ChatGPT and generative AI generally do not analyze information for you. However, it will deliver results that previous writers have already processed. And, based on your question, it can also give you related results.
+
+## AI as a Learning Tool: Harnessing ChatGPT to Improve Understanding
+
+ As we've discussed above, AI is a powerful tool for learning. Moreover, because it understands the nuances of language, it can deliver far more accurate results. For example, we asked Google and ChatGPT the following question:
+
+ "Was Google Search controversial in the academe when it first launched?"
+
+ With Google search, the top three results showed an article about Google Books in The New York Times, Google's Wikipedia page, and an article on [The Guardian](https://www.theguardian.com/technology/2016/dec/04/google-democracy-truth-internet-search-facebook) called "Google, democracy and the truth about internet search."
+
+ On the other hand, the free version of ChatGPT gave a comprehensive answer—albeit without sources.
+
+![was google search controversial chatgpt question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/was-google-search-controversial-chatgpt-question.jpg)
+
+ This result shows how AI and ChatGPT can make research faster and easier for students. And although ChatGPT did not reveal its sources, I can use its results as a springboard for further investigation.
+
+ In a conversation with my colleagues, one of MUO's writers, [Garling Wu](https://www.makeuseof.com/author/garling-wu/), said this about using ChatGPT in the academe:
+
+ It would come down to how they are using it. It could be to re-write a paragraph, edit for grammar, or ask it to explain how a concept works and use that text as it is in their essay or paraphrase. In another scenario, you could copy the text you found via research through Google, then ask ChatGPT to summarise the key points.
+
+ In short, AI is a powerful learning tool, but it's just a tool nonetheless. Students must still use their critical thinking to produce their final output. So, whether you're a student or a professional, you must ensure that you use ChatGPT ethically—and here are some [ways writers and editors can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/).
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+## AI as a Cheating Tool: Making Plagiarism Much Easier and Harder to Detect
+
+![student cheating on an exam with their phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-cheating-on-an-exam-with-their-phone-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
+ However, as with any new technology, some students misuse it. Because ChatGPT answers questions by predicting the correct response, it will paraphrase its sources. So, it's tempting for many to copy and paste what ChatGPT regurgitated from the internet.
+
+ And because ChatGPT's results are mostly unique, it isn't easy to spot them. And although [OpenAI launched a detection tool](https://www.makeuseof.com/openai-launches-ai-detector-counter-chatgpt/) to counter ChatGPT-generated text, it isn't as effective at detecting them. We've already read a report from [The Washington Post](https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/) where a ChatGPT detector returned a false positive, and [The Conversation](https://theconversation.com/we-pitted-chatgpt-against-tools-for-detecting-ai-written-text-and-the-results-are-troubling-199774) published a piece on how AI detectors are easily outsmarted.
+
+ Garling Wu added this in our conversation about AI:
+
+ The problem is, with ChatGPT around, it could be challenging to assess someone's knowledge on a topic using an essay, making the whole point of essays in the first place a bit redundant. Some people could use ChatGPT to understand a topic better, while others will use it to pretend that they learned what a class was teaching, or some mix in between.
+
+ Because of this, educators must find ways to make student essays more robust. For example, they can no longer assign general topics—like a book report on The Great Gatsby—because it's easy for students to ask ChatGPT or any other generative AI tool to write it for them.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+## How Student Essays Need to Evolve to Survive AI
+
+ So, how can teachers, professors, and educators change the student essay to make it evolve with AI?
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+### Make the Questions More Pointed or Personal
+
+ The biggest thing that generative AI like ChatGPT cannot do is write about personal experience. After all, a student's life isn't generally available online, so generative AI cannot predict that student's life.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Write Essay Questions in the Context of Current Events
+
+![news and current affairs on a newspaper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/news-and-current-affairs-on-a-newspaper.jpg)
+
+ The free version of ChatGPT, the most popular generative AI today, is only updated up to September 2021 at the time of writing. So, it would help to ask essay questions relating to events that happened in the past three months.
+
+ However, students with access to ChatGPT Plus or GPT-4 get a fully updated version of ChatGPT. So, as part of checking essays, the teacher should also quiz the student on what they wrote.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Students Should Present Their Essays as Reports
+
+ Instead of assigning the same topic to all students, educators can give different subjects to students or groups of students. And once they've written or prepared their essay, they could present it to the class.
+
+ This ensures that the students are truly knowledgeable in their assigned topic. And to further the discussion, the professor should encourage the student audience to ask questions. This will help the reporting student or group and the rest of the class think analytically.
+
+### Essays Should Be Written Offline During Class or Exams
+
+ If an essay is the best way to determine a student's understanding of a topic, then it should be limited in the classroom during on-paper exams. That way, the student must rely solely on their knowledge to explain a topic.
+
+![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
+
+## Essays Can Still Gauge Student Knowledge and Competence
+
+ As previously defined, an essay is designed so students can develop their critical thinking skills and knowledge on a specific topic. And even though ChatGPT can make writing essays easier, it still hasn't made the student essay obsolete.
+
+ After all, if a student does not possess the necessary knowledge to defend their essay, it would show. The crux now lies on the educators—they should ask essay questions that make it difficult for students to answer just ChatGPT. Or they should make the essay complex enough to require critical thinking—even with AI.
+
+ And if they suspect that a student used AI, they shouldn't automatically fail that student—instead, they should give the student an oral exam based on their essay to gauge their knowledge accurately. After all, if they just used ChatGPT to get a good essay grade, they probably don't understand their output and will fail the oral test.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ So, has ChatGPT rendered student essays dead? Should educational institutions find a new way to gauge subject competence?
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-how-to-rotate-a-video-on-vlc-media-player/"><u>[New] 2024 Approved  How to Rotate A Video on VLC Media Player</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-mirthful-media-youtubes-top-20-for-a-chuckle/"><u>[New] 2024 Approved  Mirthful Media  YouTube's Top 20 for a Chuckle</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-assessing-mr-beasts-monetary-trajectory/"><u>[Updated] 2024 Approved  Assessing Mr. Beast’s Monetary Trajectory</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-viewers-to-vips-ajays-strategy-for-sustainable-income-streams/"><u>[Updated] 2024 Approved  From Viewers to VIPs  Ajay's Strategy for Sustainable Income Streams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-top-25-instagram-hashtags-to-get-more-likes-and-followers-for-2024/"><u>[Updated] Top 25 Instagram Hashtags to Get More Likes and Followers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-huawei-p10-review/"><u>2024 Approved  Huawei P10 Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-leader-replaced-impact-on-gpts-future/"><u>AI Leader Replaced: Impact on GPT's Future</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-le-chat-ai-against-gpt-3s-prowess/"><u>Assessing Le Chat AI Against GPT-3's Prowess</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-between-board-games-and-artistry-with-chatgpts-my-bot-insights/"><u>Bridging the Gap Between Board Games & Artistry with ChatGPT's My Bot Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-the-allure-of-a-chatgpt-app-factor/"><u>Bypassing the Allure of a ChatGPT App Factor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenging-belief-in-zerogpts-reliability/"><u>Challenging Belief in ZeroGPT's Reliability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-tweaks-are-they-safe/"><u>ChatGPT Tweaks: Are They Safe?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claim-your-edge-with-claude-top-tier-ai-for-competitive-advantage/"><u>Claim Your Edge with Claude: Top-Tier AI for Competitive Advantage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cross-language-chatgpt-usage-simplified/"><u>Cross-Language ChatGPT Usage Simplified</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-mirage-identifying-pretend-predictions-in-artificial-intelligence/"><u>Deciphering the Mirage: Identifying Pretend Predictions in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/default-plugins-for-chatgpt-explored/"><u>Default Plugins for ChatGPT Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-ai-interactions-with-top-5-techniques-for-superior-chatgpt-prompts/"><u>Elevate AI Interactions with Top 5 Techniques for Superior ChatGPT Prompts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-realme-11x-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Realme 11X 5G Phones with/without a PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-cyberpunk-2077s-stutter-and-crash-issues-on-windows/"><u>How to Resolve Cyberpunk 2077'S Stutter and Crash Issues on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-m14-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy M14 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-engineering-responsive-prompts-a-sustainable-career/"><u>Is Engineering Responsive Prompts a Sustainable Career?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mending-common-faults-a-guide-to-fixing-6-gpt-issues/"><u>Mending Common Faults: A Guide to Fixing 6 GPT Issues</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/prioritize-privacy-in-conversations-the-best-10-free-secure-mobile-calling-apps-for-iosandroid-for-2024/"><u>Prioritize Privacy in Conversations – The Best 10 Free, Secure Mobile Calling Apps for iOS/Android for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quintuple-facilitators-ais-acceleration-of-cybercriminal-endeavors/"><u>Quintuple Facilitators: AI's Acceleration of Cybercriminal Endeavors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snapchats-my-ai-6-reasons-to-take-seriously/"><u>Snapchat's My AI: 6 Reasons to Take Seriously</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tracing-the-origins-and-aims-of-nlp-and-ml/"><u>Tracing the Origins and Aims of NLP & ML</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-censorship-mechanisms-in-your-virtual-assistants/"><u>Understanding the Censorship Mechanisms in Your Virtual Assistants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-vs-code-potential-with-codegpt/"><u>Unlocking VS Code Potential with CodeGPT</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-if-you-are-a-fan-of-electronic-noise-and-other-experimental-genres-of-music-that-emerged-in-the-early-and-mid-1990s-then-you-probably-/"><u>Updated 2024 Approved If You Are a Fan of Electronic, Noise and Other Experimental Genres of Music that Emerged in the Early and Mid-1990s, Then You Probably Already Know What Glitch Art Is. If You Would Like to Create Gli</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-oneplus-12r-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your OnePlus 12R Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/winning-job-applications-with-advanced-ai-for-resumes/"><u>Winning Job Applications with Advanced AI for Resumes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/zen-5-revolution-unveiling-the-power-of-amds-ryzen-5-9600x-and-ryzen-pressing-7-9700x/"><u>Zen 5 Revolution: Unveiling the Power of AMD's Ryzen 5 9600X & Ryzen Pressing 7 9700X</u></a></li>
+</ul></div>

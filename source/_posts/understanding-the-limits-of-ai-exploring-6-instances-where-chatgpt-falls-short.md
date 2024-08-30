@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Limits of AI: Exploring 6 Instances Where ChatGPT Falls Short"
-date: 2024-08-27 22:29:55
-updated: 2024-08-29 11:35:27
+date: 2024-08-29T19:39:08.919Z
+updated: 2024-08-30T19:39:08.919Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 
  For an AI that supposedly knows so much, it can be tricky to get the answers you need from this chatbot, but before you run back to Google search, here are some issues you can address to get better answers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Your Prompts Are Too Short
 
  Since [ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/) is (notionally) a chatbot, you may have the preconceived idea that your prompts should be short and conversational. While there's nothing wrong with that, of course, consider that you may not be giving ChatGPT enough information for it to give you the responses you want.
@@ -34,6 +37,9 @@ Related: [ChatGPT vs. Bing Chat AI: Which Is Better?](https://extra-skills.techi
 
  Go into detail and really explain what it is you want (positive prompts) and what you don't want (negative prompts), while painting a broader picture for the AI to work with. It's better to err on the side of writing a prompt that's longer and more detailed than you think is necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ##  You're Not Being Specific
 
  Large Language Models (LLMs) like ChatGPT are packed with an unimaginable amount of knowledge and data, which makes it extremely hard to give you the output you actually wanted if your questions are too broad.
@@ -68,6 +74,9 @@ Related: [ChatGPT vs. Bing Chat AI: Which Is Better?](https://extra-skills.techi
 
  By asking specific questions, you'll get [much better responses](https://fox-http.techidaily.com/mastering-the-use-and-maintenance-of-m1-max-clips-for-2024/), and the more specific you get, the better they'll be in most cases.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Ambiguous Prompts
 
  One of the main reasons LLMs are so amazing is that human language is complicated, and that's the understatement of the century! Unfortunately, that complexity also means it's easy to have lots of ambiguity in your prompts.
@@ -80,6 +89,9 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
 
  If, on the other hand, you asked "What's the best way to cook chicken for my health?" you'd narrow things down, and if you asked "What's the best way to cook chicken for someone with diabetes?" you'd really be zeroing in on what you actually need.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Lack of Context
 
  Ambiguous prompts mainly suffer from a lack of context, but almost any type of prompt for ChatGPT will benefit from adding more context. ChatGPT is highly sensitive to contextual cues, so the more context you provide, the better your results will be.
@@ -92,6 +104,9 @@ Related: [How to Save and Share Your ChatGPT Conversations](https://some-guidanc
 
  These are simple examples, but ChatGPT can pick up on nuanced contextual clues, so it's a good idea to get into the habit of elaborating and describing what you want to with terms and keywords that give the software clues as to what you're trying to get from it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  It Doesn't Have the Right Information
 
  While LLMs like ChatGPT have a lot of data to work with, they have clear limits to what they know or can know. Apart from ChatGPT's (current) training data limit of September 2021, there are some things it just can't know.
@@ -102,6 +117,9 @@ Related: [How to Save and Share Your ChatGPT Conversations](https://some-guidanc
 
  Also, don't forget that ChatGPT can make things up, give you illogical or incorrect information, and generally act like an unreliable source!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  You Need to Have a Back-and-Forth Conversation
 
  ChatGPT's ability to remember the entire chat history and use it as context to interpret subsequent prompts is one of its most powerful features. It also means that you can iterate what you want based on its responses to you.
@@ -130,3 +148,47 @@ Related: [Don't Trust ChatGPT to Do Math](https://win-blog.techidaily.com/172299
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-logitechs-secret-weapon-video-recordings-unveiled-for-2024/"><u>[New] Logitech's Secret Weapon  Video Recordings Unveiled for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-camera-kings-picks-selecting-the-very-best-6-4k-dslrs-for-2024/"><u>[Updated] Camera Kings' Picks  Selecting the Very Best 6 4K DSLRs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-experts-handbook-elevating-screencasting-proficiency-using-mobizen-technology/"><u>[Updated] Expert's Handbook  Elevating Screencasting Proficiency Using Mobizen Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerated-productivity-with-the-top-8-ai-apps-on-your-phone/"><u>Accelerated Productivity with the Top 8 AI Apps on Your Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/android-speech-activation-your-gateway-to-chatgpt-control/"><u>Android Speech Activation – Your Gateway to ChatGPT Control</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beneath-the-surface-a-deep-dive-into-gpts-code-comprehension/"><u>Beneath the Surface: A Deep Dive Into GPT's Code Comprehension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choose-your-sidekick-snapchats-myai-vs-openai-gpt/"><u>Choose Your Sidekick: Snapchat’s MyAI vs OpenAI GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversation-champions-which-ai-triumphs-gpt-or-bard/"><u>Conversation Champions: Which AI Triumphs, GPT or Bard?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-examination-of-the-conceptual-parallels-between-traditional-libraries-and-online-information-systems/"><u>Critical Examination of the Conceptual Parallels Between Traditional Libraries and Online Information Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-titles-pitting-googles-translation-against-ai/"><u>Dialogue Titles: Pitting Google's Translation Against AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-chatgpts-new-horizon-android-platform/"><u>Discover ChatGPT's New Horizon - Android Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-bing-chat-face-off-for-ultimate-ai-conversation/"><u>GPT and Bing Chat Face-Off for Ultimate AI Conversation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-your-writings-new-best-friend/"><u>GPT-4: Your Writing's New Best Friend</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-samsung-galaxy-m14-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Samsung Galaxy M14 5G?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-expertise-guide-for-effective-text-overlays-on-images/"><u>In 2024, Expertise Guide for Effective Text Overlays on Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-a-source-of-unwavering-honesty/"><u>Is ChatGPT a Source of Unwavering Honesty?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-enhanced-player-experiences-in-games/"><u>Leveraging AI for Enhanced Player Experiences in Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-turbo-minimize-cost-with-copilot/"><u>Maximize Turbo, Minimize Cost with Copilot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-copilot-setup-guide-for-mac-users/"><u>Microsoft Copilot Setup Guide for Mac Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/non-disclosive-keeping-ai-dialogues-undetectable/"><u>Non-Disclosive Keeping: AI Dialogues Undetectable</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/onestream-integration-tips-for-seamless-livestreaming/"><u>OneStream Integration Tips for Seamless Livestreaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pinnacle-of-generative-tech-notion-vs-chatgpt-analysis/"><u>Pinnacle of Generative Tech: Notion Vs. ChatGPT Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pre-interview-edge-utilizing-chatgpts-artificial-intelligence/"><u>Pre-Interview Edge: Utilizing ChatGPT's Artificial Intelligence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/preventing-auto-lock-on-android-devices-effective-strategies/"><u>Preventing Auto-Lock on Android Devices: Effective Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-intelligence-evaluation-beyond-the-classic-trial/"><u>Redefining Intelligence Evaluation Beyond the Classic Trial</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-securing-dialogues-against-gpt-retention/"><u>Strategies for Securing Dialogues Against GPT' Retention</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/superior-8-chatgpt-questions-for-reducing-technological-interruptions/"><u>Superior 8 ChatGPT Questions for Reducing Technological Interruptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-counterfeit-corner-of-creative-writing-ai-detection-tips/"><u>The Counterfeit Corner of Creative Writing: AI Detection Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-unveiled-by-advanced-ai-systems/"><u>The Hidden Dangers Unveiled by Advanced AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-key-to-unprecedented-visuals-harnessing-microsofts-copilot-abilities/"><u>The Key to Unprecedented Visuals: Harnessing Microsoft's Copilot Abilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-right-tools-for-your-youtube-journey-camera-lenses-explained-for-2024/"><u>The Right Tools For Your YouTube Journey - Camera Lenses Explained for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-ai-how-vector-databases-contribute-to-progress/"><u>Transforming AI: How Vector Databases Contribute to Progress</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitters-without-smiles-linuss-leaked-knowledge-trojan-deconstruction-and-gpt-shortcomings-explored/"><u>Twitters Without Smiles, Linus’s Leaked Knowledge, Trojan Deconstruction, & GPT Shortcomings Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-its-role-rewards-and-risks-unveiled/"><u>Understanding AI: Its Role, Rewards & Risks Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-selective-ai-apps-for-writers/"><u>Unleashing Potential: Selective AI Apps for Writers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-potential-4-ways-to-overcome-gpt-3-holds/"><u>Unlock the Potential: 4 Ways to Overcome GPT-3 Holds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-of-tailored-ai-interactions-with-chatgpt/"><u>Unlocking the Potential of Tailored AI Interactions with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-gptzero-how-to-use-it-to-detect-ai-generated-text/"><u>What Is GPTZero? How to Use It to Detect AI-Generated Text</u></a></li>
+</ul></div>

@@ -1,0 +1,254 @@
+---
+title: "Crafting Next-Gen Web Interfaces: The GPT Way"
+date: 2024-08-29T19:41:10.641Z
+updated: 2024-08-30T19:41:10.641Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Crafting Next-Gen Web Interfaces: The GPT Way"
+excerpt: "This Article Describes Crafting Next-Gen Web Interfaces: The GPT Way"
+thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f5343bae186756d50b06815cf1.jpg
+---
+
+## Crafting Next-Gen Web Interfaces: The GPT Way
+
+ One of the biggest claims of the hype surrounding ChatGPT is that it can be an effective programming tool. The idea goes as follows: you describe what you want in natural language; the chatbot generates code that does just that. But how good actually is ChatGPT at doing this?
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ What better way to find out than putting it to the test? We asked ChatGPT to build a simple web app from scratch. Here's the result of our test and the steps you can use to build a website from scratch using ChatGPT.
+
+## Step 1: Generating the Blueprint for Your Web App
+
+ Just like you'd do when building a web app with any tool, you'd need to lay out the blueprint of what you want your app to look like and the steps you'll need to build it before letting ChatGPT run the show.
+
+ For our first task, we asked ChatGPT to develop a blueprint for a simple chat app. To do this, we described the requirements for our web app and then asked the chatbot to detail a plan for developing the app.
+
+![ChatGPT prompt to develop blueprint for web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-to-develop-blueprint-for-web-app.jpg)
+
+ After using the prompt above, here's the result we got:
+
+![Flowchart or blueprint of web app developed by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/flowchart-or-blueprint-of-web-app-developed-by-chatgpt.jpg)
+
+ You'd need to have the "Show Me" plugin enabled on your ChatGPT account to generate a flowchart like ours above. You can [install and use ChatGPT plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) in just a few steps, although you will need a premium subscription.
+
+ Without the plugin, you'll get a text-based blueprint or an ASCII-art flowchart. That's still okay. Even without the plugin, ChatGPT should still provide a clear blueprint of the app like the example below.
+
+![text-based breakdown of web app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/text-based-breakdown-of-web-app-by-chatgpt.jpg)
+
+## Step 2: Splitting the Blueprint Into Smaller Modules
+
+ Now that we have the big picture laid out, we asked ChatGPT for help in splitting the app into smaller components that we can develop separately and then integrate to form the complete web app. ChatGPT suggested breaking it into three components:
+
+1. Registration module
+2. Login module
+3. Chat module
+
+ We had other ideas, but the goal here is to let ChatGPT call the shots.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 1\. Building the Registration Component
+
+ We jumped right into building the registration component. We asked ChatGPT to draw out an appropriate algorithm. Here we intervened by specifying we needed only the user's username, email, and avatar for registration. Here's the prompt:
+
+![Prompt for building the registration component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-for-building-the-registration-component.jpg)
+
+ And here's the result:
+
+![Algorithm for user registration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/algorithm-for-user-registration.jpg)
+
+ Up next, we prompted ChatGPT to build the registration component.
+
+![prompt to generate the registration component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-to-generate-the-registration-component-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Although we didn't include the password field as part of the registration process, ChatGPT made the right call by including it in the generated HTML code. We copied the code without any modifications, and here's how it looks on a browser.
+
+![Registration page generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/registration-page-generated-by-chatgpt.jpg)
+
+ Up next, we prompted ChatGPT to generate the PHP registration script. At first, we prompted with "Write a PHP code for the server-side logic for handling the form submission." Although the generated script worked fine, it had a lot of vulnerabilities.
+
+ There was no password hashing, no error handling, and was prone to SQL injection—ChatGPT did only the bare minimum. Fixing this was relatively easy. We simply asked ChatGPT to "identify everything wrong with the code you just generated, and then use the identified points to optimize the code." With that, our PHP registration script was ready to go.
+
+ The wording of your prompt matters. You need to be very clear and specific with what you need ChatGPT to do. When we simply asked it to "fix the problem with this code," it didn't fix most of what we had hoped it would fix. For more guidance on writing ChatGPT prompts, here are [some places to learn how to write effective prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/).
+
+ Up next, we asked ChatGPT to "**Write an SQL code to create a database for the data captured in the PHP script.**" Here's the resulting SQL code:
+
+![Generated SQL code for the creating database by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/generated-sql-code-for-the-creating-database-by-chatgpt.jpg)
+
+ And here's the table created by executing the SQL:
+
+![Database created by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/database-created-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ With the database set up, we tried our first registration, and it worked without any errors.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+### 2\. Building the Login Component
+
+ With the registration component out of the way, we took on the Login component. Surprisingly, it was the easiest to build despite the additional logic of session management.
+
+![Prompt to generate login script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/prompt-to-generate-login-script.jpg)
+
+ Here's the generated login page. A key highlight is that it uses the same color options as the registration page.
+
+![ChatGPT-generated login page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-generated-login-page.jpg)
+
+ After creating a "server.login.php" file as instructed by ChatGPT and adding the generated PHP script, we made our first successful login without any modifications or debugging.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### 3\. Building the Chat Component
+
+ Building the chat component was the final—and probably toughest part—of our little experiment. At first, we simply asked ChatGPT to write out the code for the chat component. Needless to say, it was a colossal failure. For more complex components of anything you want to create, you'll need to split it up into smaller components and tackle them one after another.
+
+ We asked ChatGPT for suggestions on splitting up the chat component, and it suggested we create three pages:
+
+1. Chat.php
+2. Send-messages.php
+3. Fetch-messages.php
+
+ When ChatGPT suggests a file name, using a different name in your project might inadvertently cause problems as the chatbot will reference the same name in all the code it creates throughout the project. We found out the hard way. Don't make the same mistake.
+
+### Creating the Chat.php Page
+
+ To start, we gave ChatGPT detailed instructions on how we wanted the chat interface to look.
+
+![ChatGPT prompt to generate HTML for the Chat interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-to-generate-html-for-the-chat-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+ After running the generated HTML code, we had a chat interface without a message input box. To fix this, we simply prompted ChatGPT to "**rewrite the code to include a message input box and a send button.**" Here's how the generated code looks on a browser on the second trial.
+
+![sample chat interface generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sample-chat-interface-generated-by-chatgpt.jpg)
+
+ Whenever generated code fails to give the desired results or omits an important component, simply prompt ChatGPT to rewrite the last code. Tell it to include the component or do whatever wasn't done in the initial code. Here are [some tips on how to use ChatGPT for programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/).
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+### Creating the "send-messages.php" and "Fetch-messages" Page
+
+ Satisfied with the interface, we proceeded to build the script to handle the chatting logic. To be able to send and fetch messages from the database, ChatGPT rightly highlighted that we'll be needing a "messages" table. We asked the chatbot to create an SQL for the messages table.
+
+![SQL to create chat messages table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sql-to-create-chat-messages-table.jpg)
+
+ After generating an SQL code, we asked the chatbot to generate a PHP script to handle the messaging logic.
+
+![ChatGPT prompts to send and receive messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompts-to-send-and-receive-messages.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+ ChatGPT generated the script for both the "send-messages.php" and the "fetch-messages.php" pages. On running both scripts, we finally had our very first error (which was oddly satisfying). Getting this far into the project without debugging a single line of code seemed a bit too good to be true, despite its relative simplicity.
+
+ It turns out the error was caused by ChatGPT introducing a check for an undeclared session variable (**$\_SESSION\['user\_id'\]**) into our script. We suspect this was a result of taking a rather long break from the project resulting in ChatGPT forgetting some of the contexts and names of the variables used in the project.
+
+ When using ChatGPT to build an app, ensure to use the same chat thread and try to complete related components as soon as possible. Using a new chat thread or taking a long break might introduce inconsistencies. ChatGPT tends to forget some details of the current project (e.g. the color scheme) if you take long breaks between coding sessions.
+
+ That said, we fixed the bug and deployed the code. We registered, logged in, and tried the chat feature. While we were able to send messages from one registered user to another, the color and arrangement of the message bubbles were a bit off. However, for an app that took an hour and 23 minutes to complete, we won't judge it too harshly.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+## ChatGPT: An Excellent Coding Assistant
+
+ ChatGPT is clearly a powerful coding assistant. That the chatbot can turn up impressive code from simple, and sometimes not-so-clear, instructions is a testament to its coding prowess.
+
+ Sure, it still has a lot of flaws. The issue with a limited context window and its ability to tie together the logic from multiple independently built components is a major problem. However, the chatbot can help you build fairly complex web apps rapidly if you know your way around.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ What better way to find out than putting it to the test? We asked ChatGPT to build a simple web app from scratch. Here's the result of our test and the steps you can use to build a website from scratch using ChatGPT.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-teachers-guide-to-enhancing-learning-through-youtube-videos-for-2024/"><u>[New] A Teacher's Guide to Enhancing Learning Through YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-record-a-twitch-gameplay-stream/"><u>[New] In 2024, How to Record a Twitch Gameplay Stream</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-time-plan-and-record-slack-plus-filmora-meetings/"><u>[New] In 2024, Mastering Time  Plan & Record Slack + Filmora Meetings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-maximizing-your-investment-high-roi-tactics-for-fb-animatons/"><u>[New] In 2024, Maximizing Your Investment  High-ROI Tactics for FB Animatons</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-user-interface-of-the-syma-x8c-drone/"><u>[New] The User Interface of the Syma X8C Drone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-proven-strategies-for-saving-your-digital-discussions-google-meets/"><u>[Updated] 2024 Approved  Proven Strategies for Saving Your Digital Discussions (Google Meets)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-proven-techniques-to-enhance-engagement-and-interaction/"><u>[Updated] 2024 Approved  Proven Techniques to Enhance Engagement and Interaction</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-builds-for-maximum-mc-safety/"><u>[Updated] In 2024, Top Builds for Maximum MC Safety</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-navigating-the-decision-to-adopt-itop-recording/"><u>[Updated] Navigating the Decision to Adopt ITop Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-parable-pioneers-guild-premier-peak/"><u>[Updated] Parable Pioneers Guild – Premier Peak</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unveiling-the-art-of-written-visual-narratives-a-guide-on-docuscripts-for-2024/"><u>[Updated] Unveiling the Art of Written Visual Narratives  A Guide on Docuscripts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adjusting-the-lock-screen-interval-on-windows-11-made-easy/"><u>Adjusting the Lock Screen Interval on Windows 11 Made Easy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-ais-rising-tide-of-security-issues/"><u>Advanced AI's Rising Tide of Security Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-rog-phone-8-pro-messages-recovery-recover-deleted-messages-from-asus-rog-phone-8-pro-by-fonelab-android-recover-messages/"><u>Asus ROG Phone 8 Pro Messages Recovery - Recover Deleted Messages from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bards-clash-with-gpt-vs-online-sheep-best-ai-ranked/"><u>Bards Clash with GPT, vs Online Sheep - Best AI Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-human-intelligence-surpassing-the-turing-scale/"><u>Beyond Human Intelligence: Surpassing the Turing Scale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bringing-out-your-best-in-digital-discourse-top-5-tailored-gpt-instructions/"><u>Bringing Out Your Best in Digital Discourse: Top 5 Tailored GPT Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-ipad-chatgpt-problems-9-techniques-to-try/"><u>Bypassing iPad ChatGPT Problems: 9 Techniques to Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-just-got-ios-friendly/"><u>ChatGPT Just Got iOS-Friendly!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-explained-comparative-examination-with-chatgptplus/"><u>Claude Pro Explained: Comparative Examination with ChatGPT+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/coding-excellence-with-chatgpt-and-vs-code-synergy/"><u>Coding Excellence with ChatGPT & VS Code Synergy</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-samsung-galaxy-m14-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-achieving-a-minimal-startup-environment-with-windows-11/"><u>Complete Tutorial: Achieving a Minimal Startup Environment with Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-gentle-volume-declines-using-logic-pro-for-2024/"><u>Crafting Gentle Volume Declines Using Logic Pro for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customize-your-windows-11-lock-screen-duration-tips-and-tricks/"><u>Customize Your Windows 11 Lock Screen Duration: Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-reality-through-artificial-dreams/"><u>Decoding Reality Through Artificial Dreams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-winchatgpt-app-claims-and-deceptions/"><u>Demystifying WinChatGPT App Claims and Deceptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-windows-10-insider-preview-build-easily-without-the-error-of-staying-at-initializing-step-by-step-guide-fixed/"><u>Download Windows 10 Insider Preview Build Easily without the Error of Staying At 'Initializing' - Step-by-Step Guide [Fixed]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-how-to-manage-and-remove-browser-history-and-cookies-in-google-chrome/"><u>Easy Steps: How to Manage and Remove Browser History & Cookies in Google Chrome</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engage-gpt-leveraging-bash-for-openais-chatbot/"><u>Engage GPT: Leveraging Bash for OpenAI's Chatbot</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-lag-problems-in-guilty-gear-strive-comprehensive-solutions/"><u>Fixing Lag Problems in Guilty Gear Strive: Comprehensive Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flight-frontier-forward-why-upgrade-to-copilot-pro/"><u>Flight Frontier Forward: Why Upgrade to Copilot Pro?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-unlimited-the-mass-adoption-guide/"><u>GPT-4 Unlimited: The Mass Adoption Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-ai-for-seamless-pc-troubleshooting/"><u>Harness AI for Seamless PC Troubleshooting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-resources-elevated-leveraging-gpt-prompts/"><u>Human Resources Elevated: Leveraging GPT Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/identifying-fake-gpt-binco-coins-a-guide-to-recognizing-scams/"><u>Identifying Fake GPT-Binco Coins: A Guide to Recognizing Scams</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-apps-for-editing-vertical-videos-on-your-smartphone/"><u>In 2024, Best Apps for Editing Vertical Videos on Your Smartphone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-8-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone 8 Activation Lock</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/infusing-youtube-soundtracks-within-multimedia-for-2024/"><u>Infusing YouTube Soundtracks Within Multimedia for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-the-auto-gpt-installer/"><u>Navigate the Auto-GPT Installer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-gpt-tailor-your-own-model/"><u>New GPT: Tailor Your Own Model</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-leading-11-ios-and-android-tools-for-professional-sound-engineering/"><u>New In 2024, Leading 11 iOS and Android Tools for Professional Sound Engineering</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-hold-on-chatgpt-weakens/"><u>OpenAI's Hold on ChatGPT Weakens?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-new-frontiers-in-art-with-microsofts-copilot-imagery-engine/"><u>Pioneering New Frontiers in Art with Microsoft's Copilot Imagery Engine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/predicting-the-unpredictable-chatgpt-vs-astrology/"><u>Predicting the Unpredictable: ChatGPT Vs. Astrology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prevent-bot-data-exposure-with-caution/"><u>Prevent Bot Data Exposure with Caution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-setting-up-chatgpt-on-android/"><u>Quick Guide: Setting Up ChatGPT on Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supreme-session-naming-service-for-2024/"><u>Supreme Session Naming Service for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-dialogue-engineers-personalizing-chatgpt-with-create-a-gpt/"><u>Tailored Dialogue Engineers: Personalizing ChatGPT with Create a GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/take-gpt-to-new-heights-explore-the-best-9-plug-ins-today/"><u>Take GPT to New Heights: Explore the Best 9 Plug-Ins Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-path-to-a-perfect-life-integrating-chatgpt-techniques/"><u>The Path to a Perfect Life: Integrating ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-reasons-giving-ios-an-edge-in-chatgpt-realm/"><u>Top 6 Reasons: Giving iOS an Edge in ChatGPT Realm</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tier-ai-driven-online-research-tools/"><u>Top-Tier AI-Driven Online Research Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-inner-peace-ai-guided-journeys-to-meditation/"><u>Unleashing Inner Peace: AI-Guided Journeys to Meditation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-gpt4alls-working-principles/"><u>Unraveling GPT4All's Working Principles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-every-aspect-of-living-with-the-help-of-ai-insights/"><u>Upgrade Every Aspect of Living with the Help of AI Insights</u></a></li>
+</ul></div>

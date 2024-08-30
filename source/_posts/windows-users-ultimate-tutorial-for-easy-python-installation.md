@@ -1,7 +1,7 @@
 ---
 title: Windows Users' Ultimate Tutorial for Easy Python Installation
-date: 2024-08-27 10:54:10
-updated: 2024-08-29 10:17:16
+date: 2024-08-29T19:38:20.887Z
+updated: 2024-08-30T19:38:20.887Z
 tags:
   - deals
 categories:
@@ -30,12 +30,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  First released in 1991, Python is a popular high-level programming language used for general purpose programming. Thanks to a design philosophy that emphasizes readability it has long been a favorite of hobby coders and serious programmers alike. Not only is it an easy language (comparatively speaking, that is) to pick up but you'll find thousands of projects online that require you have Python installed to use the program.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Which Python Version Should You Use?
 
  In general, you should just download and install the [latest version of Python](https://www.python.org/downloads/). You'll see a big banner at the top indicating the latest version of Python on the main download page. Click "Download Python 3.x.x."
 
 ![The latest download available for Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/Download-Python-at-the-top.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Unfortunately, there was a significant update to Python several years ago that created a big split between Python versions. This can make things a bit confusing to newcomers, but here is what you need to know.
 
  There were two versions of Python maintained concurrently for many years: Python 2 and Python 3\. Python 2 is officially deprecated. and [has been since 2020](https://www.python.org/doc/sunset-python-2/). You'll still find loads of older projects that use it scattered around the internet, though the overwhelming majority of new projects opt for Python 3 since it is still receiving updates.
@@ -50,6 +56,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  This installer will install the appropriate 32-bit or 64-bit version on your computer automatically (here's [some further reading](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/) if you want to know more about the differences between the two).
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Install Python 3
 
  First, download the latest [version of Python 3](https://www.python.org/downloads/windows/) if you haven't already, then run the executable.
@@ -60,6 +69,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Ensure &quot;Add Python to PATH&quot; is ticked, then click &quot;Install Now.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/Install-Python-3.11.2-to-path.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, you have a decision to make. Clicking the "Disable path length limit" option removes the limitation on the MAX\_PATH variable. This change won't break anything, but will allow Python to use long path names. Since many Python programmers are working in Linux and other \*nix systems where path name length isn't an issue, turning this on in advance can help smooth over any path-related issues you might have while working in Windows.
 
  We recommend go ahead and selecting this option. If you know you don't want to disable the path length limit, you can just click "Close" to finish the installation. And, if you want to read more about the issue before committing to the change, [read up here](https://youtube-zero.techidaily.com/nleash-hd-playback-with-av1-on-youtube/).
@@ -68,6 +80,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Enter &quot;python --version&quot; in Command Prompt, PowerShell, or Windows Terminal to verify that Python was correctly added to the path.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/2023-04-04_09h40_13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If that doesn't work, you probably forgot to tick the box next to "Add Python.exe to PATH" during installation. No big deal—we'll show you how to add it manually in the next section.
 
 ##  Add Python to PATH Manually
@@ -82,6 +97,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Select &quot;Path,&quot; then click &quot;Edit.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/path-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
  If Python is on your PATH, you should see two entries as shown in the image below. The first entry on our list—the scripts subfolder—adds pip to the PATH. [Pip is Python's built-in package manager](https://pip.pypa.io/en/stable/user%5Fguide/) and is essential if you want Python to work correctly.
 
  The second entry contains the actual Python executable, plus a few others that are important.
@@ -126,3 +144,55 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-beam-your-best-selecting-the-stirring-photos-on-instagram/"><u>[New] 2024 Approved  Beam Your Best  Selecting the Stirring Photos on Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-blend-visuals-and-soundtracks-for-movie-making/"><u>[New] Blend Visuals and Soundtracks for Movie Making</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-brief-overview-of-the-quickest-chroma-key-tricks-for-2024/"><u>[New] Brief Overview of the Quickest Chroma Key Tricks for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-rotational-photography-versus-3d-scanning/"><u>[New] Full-Rotational Photography versus 3D Scanning</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-visual-storytelling-editing-techniques-for-educators/"><u>[New] In 2024, Visual Storytelling  Editing Techniques for Educators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-beginners-handbook-to-instagrams-most-popular-feature-reels/"><u>[Updated] In 2024, The Beginner’s Handbook to Instagram’s Most Popular Feature – Reels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ppro-fs-insights-a-compreran-guide/"><u>[Updated] PPro FS Insights  A Compreran Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-perfect-path-from-instagram-to-tiktok-for-2024/"><u>[Updated] The Perfect Path  From Instagram to TikTok for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-masterpieces-in-editing-filmoras-loved-features/"><u>2024 Approved  Masterpieces in Editing - Filmora's Loved Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-interactive-learning-with-chatgptplus-for-languages/"><u>Advanced Interactive Learning with ChatGPT+ for Languages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/articulating-imagination-chatgpts-creative-edge/"><u>Articulating Imagination: ChatGPT's Creative Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/astounding-revelation-communicate-with-ai-powered-gpt/"><u>Astounding Revelation: Communicate with AI-Powered GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-bots-outshining-chatgpt/"><u>Best Bots Outshining ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-4-the-metasig-revolution-in-social-networking/"><u>ChatGPT 4: The Metasig Revolution in Social Networking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-demystified-how-it-stacks-up-to-chatgptplus/"><u>Claude Pro Demystified: How It Stacks Up to ChatGPT+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/constructing-fitness-goals-leveraging-ai-insight/"><u>Constructing Fitness Goals: Leveraging AI Insight</u></a></li>
+<li><a href="https://video-capture.techidaily.com/crafting-compelling-obs-livestreams-for-facebook-fans/"><u>Crafting Compelling OBS Livestreams for Facebook Fans</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-on-bilingual-ai-help-should-you-use-bing-or-chatgpt-10-factors/"><u>Deciding on Bilingual AI Help: Should You Use Bing or ChatGPT? 10 Factors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-mend-your-nonworking-hp-laptop-keys-one-step-at-a-time-how-to-guide-tech-talker-358-chars/"><u>Easy Steps to Mend Your Nonworking HP Laptop Keys, One Step at a Time – How-To Guide | Tech Talker 358 Chars</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioned-visions-painting-with-chatgpt-and-ai-magic/"><u>Envisioned Visions: Painting with ChatGPT & AI Magic</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-7-mirror-flip-mistake/"><u>Fixing Windows 7 Mirror Flip Mistake</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-vs-local-llms-a-compreayers-guide-to-choosing-rightly/"><u>Global vs Local LLMs – A Compreayer's Guide to Choosing Rightly</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-samsung-galaxy-a15-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy A15 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-and-install-llama-2-locally/"><u>How to Download and Install Llama 2 Locally</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-peeling-back-layers-what-hides-beneath-each-snapchat-emoji/"><u>In 2024, Peeling Back Layers  What Hides Beneath Each Snapchat Emoji?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-into-grok-ai-from-elon-musk-purpose-functionality-and-costing-details/"><u>Insight Into Grok AI From Elon Musk - Purpose, Functionality & Costing Details</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-enthusiasts-meet-your-new-chatbuddy/"><u>IOS Enthusiasts, Meet Your New ChatBuddy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-14-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 14 Pro in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-story-structures-with-ais-assistive-chatgpt/"><u>Masterful Story Structures with AI's Assistive ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mercedes-innovation-blending-gpt-tech-with-car-voices/"><u>Mercedes' Innovation: Blending GPT Tech with Car Voices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-privacy-in-a-world-of-chatgpt/"><u>Navigating Privacy in a World of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-chatgpt-access-roadblocks/"><u>Navigating Through ChatGPT Access Roadblocks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-guide-to-audio-based-text-extraction-techniques/"><u>New The Ultimate Guide to Audio-Based Text Extraction Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-ai-markets-for-creativity-exchange/"><u>Prime AI Markets for Creativity Exchange</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/renewable-energy-cant-replace-fossil-fuels-overnight/"><u>Renewable Energy Can't Replace Fossil Fuels Overnight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strengthening-support-bonding-chatgpt-with-whatsapp/"><u>Strengthening Support: Bonding ChatGPT with WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-introduction-bavarder-on-linux-systems/"><u>Swift Introduction: Bavarder on Linux Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-downsides-7-cases-against-ai-messaging/"><u>The Downsides: 7 Cases Against AI Messaging</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-science-of-deforestation-and-climate-interaction/"><u>The Science of Deforestation and Climate Interaction</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-zte-nubia-flip-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About ZTE Nubia Flip 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transforming-your-channel-url-step-by-step-instructions/"><u>Transforming Your Channel URL  Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitter-strips-emojis-linuss-secrets-exposed-trojan-threats-unveiled-and-chatbot-pitfalls/"><u>Twitter Strips Emojis, Linus's Secrets Exposed, Trojan Threats Unveiled, & ChatBot Pitfalls.</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-list-of-leading-rechargeable-laptop-docks-and-adapters-2024-edition/"><u>Ultimate List of Leading Rechargeable Laptop Docks and Adapters - 2024 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-chatgpts-power-in-android-with-simple-steps/"><u>Unlock ChatGPT's Power in Android with Simple Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-chatgpt-and-creative-output/"><u>Unlocking Potential: ChatGPT and Creative Output</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionaries-collide-blizzards-tech-allegiance-with-microsoft-redefines-ai-horizons-interview-special/"><u>Visionaries Collide: Blizzard's Tech Allegiance with Microsoft Redefines AI Horizons [Interview Special]</u></a></li>
+</ul></div>

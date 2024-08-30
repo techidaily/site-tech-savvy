@@ -1,0 +1,159 @@
+---
+title: "ChatGPT Accounts: A Cybercriminal's Playground?"
+date: 2024-08-29T19:50:14.456Z
+updated: 2024-08-30T19:50:14.456Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes ChatGPT Accounts: A Cybercriminal's Playground?"
+excerpt: "This Article Describes ChatGPT Accounts: A Cybercriminal's Playground?"
+thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e1285ed40b4bdaada044e82ad5.jpg
+---
+
+## ChatGPT Accounts: A Cybercriminal's Playground?
+
+ A working phone number, an email, and an internet connection. That’s all you need to create an OpenAI ChatGPT account. The process is quick and simple, and you can create multiple accounts if you want to. But hackers are putting in enormous resources to steal ChatGPT accounts, even the free ones.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ So what for? Why are ChatGPT accounts becoming a major attraction for hackers? What’s the reason behind the sudden surge in stolen ChatGPT accounts?
+
+## Why Are ChatGPT Accounts Being Hacked?
+
+ An [investigation report](https://www.group-ib.com/media-center/press-releases/stealers-chatgpt-credentials/) by cybersecurity research firm, Group-IB has revealed that over 100,000 ChatGPT accounts have been compromised at the time of writing, and are being pawned off in covert black markets. The accounts which were stolen in a non-selective hacking campaign are typically compromised by threat actors using info stealer malware, some of which has been sitting in their victim’s computers even before the launch of ChatGPT.
+
+ So why are hackers going after ChatGPT accounts, and why are people willing to pay for these stolen accounts?
+
+### Stealing Sensitive Information
+
+![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
+
+ At first, losing your ChatGPT account doesn’t seem like something you should be worried about. But it is. Sure, if you lose a free account, you can create another within a few minutes. But what about the data it contains?
+
+ Remember that time you asked ChatGPT to suggest a strong password for your Gmail account? Or that time you used ChatGPT to process a confidential work document? How about the numerous times that you’ve asked the chatbot personal questions that can reveal a lot about your identity?
+
+ ChatGPT accounts may contain sensitive information that could be dangerous in the hands of malicious actors. As the chatbot becomes intricately woven into almost every aspect of our digital life, it becomes much more of a gold mine of personal data. This is one of the reasons hackers are gunning for as many of them as they can get their hands on. At the very least, this could lead to phishing attacks; it could lead to more serious issues, however, like identity theft.
+
+ Aware of such threats, companies like Google and Samsung—as well as Microsoft, a major backer of OpenAI—have all either warned or explicitly banned their staff from sharing company data with the AI chatbot. The fact that these companies are issuing such warnings means that mistakes might already be happening.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+### Reselling ChatGPT Accounts
+
+ While most of the world can access the ChatGPT website, some countries are officially banned from the platform. At the time of writing, China, with more than a billion potential users, is on this list. While residents from banned countries can use a VPN and other measures to bypass this restriction, buying cheap, stolen premium accounts is also appealing. This naturally creates a market for stolen [ChatGPT Plus accounts](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), some of which are auctioned off to more than one user. With a readily available market, hackers are naturally incentivized to steal ChatGPT accounts.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
+## How to Protect Your ChatGPT Account
+
+ Since ChatGPT accounts have become a prime target for hackers, how can you protect your ChatGPT account? Here are two ways to stay safe.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+### 1\. Set Up Two-Factor Authentication (2FA) on Your Account
+
+[Multi-factor authentication like 2FA](https://www.makeuseof.com/what-is-multi-factor-authentication/) is the gold standard for securing your online accounts; your ChatGPT account is no exception. Here's how to set up 2FA for your ChatGPT account:
+
+1. Tap your account name in the bottom right of your ChatGPT chat interface.  
+![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/setting-up-2fa-on-chatgpt.jpg)
+2. Tap **Settings > Data controls** and then **Enable** beside **Enable two-factor authentication** to turn on the feature for your account  
+![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+ Unfortunately, at the time of writing, the 2FA feature has been temporarily disabled. If you can access the feature at the time of reading this, turn it on. If not, check back and turn it on whenever OpenAI restores this vital feature.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Clear Your ChatGPT Conversations
+
+ As secure as it is, two-factor authentication is not a fool-proof security measure. To ensure that the sensitive information you've shared in your ChatGPT conversations doesn't fall into the wrong hands, regularly clear your [saved ChatGPT conversations](https://www.makeuseof.com/save-chatgpt-chats/). To do this:
+
+1. Tap your account name in the bottom left corner of your ChatGPT interface.
+2. Go to **Clear Conversations > Confirm clear conversations** to delete all your saved conversations.
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+## Protect Your ChatGPT Accounts From Hackers
+
+ While the threat of losing your ChatGPT account might not seem like something to lose sleep over, losing it to malicious actors could be a big problem. ChatGPT should receive the same level of attention you give to other sensitive accounts like your email, especially if you use it for a wide range of personal tasks. Don't be caught unaware: take the necessary steps to protect your ChatGPT account and yourself.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ So what for? Why are ChatGPT accounts becoming a major attraction for hackers? What’s the reason behind the sudden surge in stolen ChatGPT accounts?
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-renowned-experts-exquisite-insta-highlight-creators/"><u>[New] 2024 Approved  Renowned Experts  Exquisite Insta Highlight Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-crafting-compelling-content-strategies-for-snapbiz/"><u>[New] Crafting Compelling Content  Strategies for SnapBiz</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guide-on-purging-stored-videos-from-youtube-watchlater-for-2024/"><u>[New] Guide on Purging Stored Videos From YouTube Watchlater for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-professional-meeting-aesthetics-blur-backgrounds-tips/"><u>[New] In 2024, Professional Meeting Aesthetics  Blur Backgrounds Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-color-coding-in-the-digital-world-srgb-vs-rgb/"><u>[Updated] 2024 Approved  Color Coding in the Digital World  Srgb vs Rgb</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-achieve-pristine-sound-in-recordings-free-tutorial-paid-tools/"><u>[Updated] Achieve Pristine Sound in Recordings (Free Tutorial, Paid Tools)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-memories-facebook-look-back-editing-steps-for-2024/"><u>[Updated] Unlocking Memories  Facebook Look Back Editing Steps for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerated-productivity-with-the-top-8-ai-apps-on-your-phone/"><u>Accelerated Productivity with the Top 8 AI Apps on Your Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/android-speech-activation-your-gateway-to-chatgpt-control/"><u>Android Speech Activation – Your Gateway to ChatGPT Control</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beneath-the-surface-a-deep-dive-into-gpts-code-comprehension/"><u>Beneath the Surface: A Deep Dive Into GPT's Code Comprehension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversation-champions-which-ai-triumphs-gpt-or-bard/"><u>Conversation Champions: Which AI Triumphs, GPT or Bard?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-examination-of-the-conceptual-parallels-between-traditional-libraries-and-online-information-systems/"><u>Critical Examination of the Conceptual Parallels Between Traditional Libraries and Online Information Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-titles-pitting-googles-translation-against-ai/"><u>Dialogue Titles: Pitting Google's Translation Against AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-chatgpts-new-horizon-android-platform/"><u>Discover ChatGPT's New Horizon - Android Platform</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ngs-insights-for-video-content-surpassing-1-million-views-for-2024/"><u>Earnings Insights for Video Content Surpassing 1 Million Views for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-bing-chat-face-off-for-ultimate-ai-conversation/"><u>GPT and Bing Chat Face-Off for Ultimate AI Conversation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-your-writings-new-best-friend/"><u>GPT-4: Your Writing's New Best Friend</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-a-source-of-unwavering-honesty/"><u>Is ChatGPT a Source of Unwavering Honesty?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/t-on-youtube-income-framework/"><u>Latest on YouTube Income Framework</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-enhanced-player-experiences-in-games/"><u>Leveraging AI for Enhanced Player Experiences in Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-turbo-minimize-cost-with-copilot/"><u>Maximize Turbo, Minimize Cost with Copilot</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximizing-blog-revenue-with-effective-ad-campaigns-on-buyselladscom/"><u>Maximizing Blog Revenue with Effective Ad Campaigns on buySELLads.com</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-copilot-setup-guide-for-mac-users/"><u>Microsoft Copilot Setup Guide for Mac Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pinnacle-of-generative-tech-notion-vs-chatgpt-analysis/"><u>Pinnacle of Generative Tech: Notion Vs. ChatGPT Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-intelligence-evaluation-beyond-the-classic-trial/"><u>Redefining Intelligence Evaluation Beyond the Classic Trial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/superior-8-chatgpt-questions-for-reducing-technological-interruptions/"><u>Superior 8 ChatGPT Questions for Reducing Technological Interruptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-counterfeit-corner-of-creative-writing-ai-detection-tips/"><u>The Counterfeit Corner of Creative Writing: AI Detection Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-unveiled-by-advanced-ai-systems/"><u>The Hidden Dangers Unveiled by Advanced AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-key-to-unprecedented-visuals-harnessing-microsofts-copilot-abilities/"><u>The Key to Unprecedented Visuals: Harnessing Microsoft's Copilot Abilities</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-google-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Google Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitters-without-smiles-linuss-leaked-knowledge-trojan-deconstruction-and-gpt-shortcomings-explored/"><u>Twitters Without Smiles, Linus’s Leaked Knowledge, Trojan Deconstruction, & GPT Shortcomings Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-its-role-rewards-and-risks-unveiled/"><u>Understanding AI: Its Role, Rewards & Risks Unveiled</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-poco-c51-by-drfone-android/"><u>Universal Unlock Pattern for Poco C51</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-selective-ai-apps-for-writers/"><u>Unleashing Potential: Selective AI Apps for Writers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-potential-4-ways-to-overcome-gpt-3-holds/"><u>Unlock the Potential: 4 Ways to Overcome GPT-3 Holds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-of-tailored-ai-interactions-with-chatgpt/"><u>Unlocking the Potential of Tailored AI Interactions with ChatGPT</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-steady-the-best-free-video-stabilization-websites/"><u>Updated Get Steady The Best Free Video Stabilization Websites</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-chapter-how-to-add-chapters-to-vimeo-video-for-2024/"><u>Vimeo Chapter  How to Add Chapters to Vimeo Video for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-honor-90-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Honor 90 Pro Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-gptzero-how-to-use-it-to-detect-ai-generated-text/"><u>What Is GPTZero? How to Use It to Detect AI-Generated Text</u></a></li>
+</ul></div>
