@@ -1,0 +1,636 @@
+---
+title: Unleashing the Power of Llama 2 for Creative Endeavors
+date: 2024-09-02T20:47:40.570Z
+updated: 2024-09-03T20:47:40.570Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Unleashing the Power of Llama 2 for Creative Endeavors
+excerpt: This Article Describes Unleashing the Power of Llama 2 for Creative Endeavors
+thumbnail: https://thmb.techidaily.com/f55f35329f28573e49eb2c54e3ad586424ba4a61048c3f39de5943b637615a77.jpg
+---
+
+## Unleashing the Power of Llama 2 for Creative Endeavors
+
+### Key Takeaways
+
+* Llama 2, an open-source language model, outperforms other major open-source models like Falcon or MBT, making it one of the most powerful in the market today.
+* Compared to ChatGPT and Bard, Llama 2 shows promise in coding skills, performing well in functional tasks but struggling with more complex ones like creating a Tetris game.
+* While Llama 2 falls behind ChatGPT in terms of creativity, math skills, and commonsense reasoning, it shows significant potential and has solved problems that ChatGPT and Bard couldn't in their earliest iterations.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ From OpenAI's GPT-4 to Google's PalM 2, large language models dominate tech headlines. Each new model promises to be better and more powerful than the previous, sometimes exceeding any existing competition.
+
+ However, the number of existing models hasn't slowed the emergence of new ones. Now, Facebook's parent company, Meta, has released Llama 2, a powerful new language model. But what's unique about Llama 2? How is it different from the likes of GPT-4, PaLM 2, and Claude 2, and why should you care?
+
+## What Is Llama 2?
+
+![Llama illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/llama-illustration.jpg)
+
+ Llama 2, a large language model, is a product of an uncommon alliance between Meta and Microsoft, two competing tech giants at the forefront of artificial intelligence research. It is a successor to Meta's Llama 1 language model, released in the first quarter of 2023\.
+
+ You can say it is Meta's equivalent of [Google's PaLM 2](https://www.makeuseof.com/what-is-google-palm-2/), OpenAIs GPT-4, and [Anthropic's Claude 2](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/). It has been trained on a vast dataset of publicly available internet data, enjoying the advantage of a dataset both more recent and more diverse than that used to train Llama 1\. Llama 2 was trained with 40% more data than its predecessor and has double the context length (4k).
+
+ If you've had the opportunity to interact with Llama 1 in the past but weren't too impressed with its output, Llama 2 outperforms its predecessor and might just be what you need. But how does it fare against outside competition?
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How Does Llama 2 Stack Up Against The Competition?
+
+![Illustration of ChatGPT vs. Bing AI vs. Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/jpg_20230401_123755_0000.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+ Well, it depends on the competition it is up against. Firstly, Llama 2 is an open-source project. This means Meta is publishing the entire model, so anyone can use it to build new models or applications. If you compare Llama 2 to other major open-source language models like Falcon or MBT, you will find it outperforms them in several metrics. It is safe to say Llama 2 is one of the most powerful open-source [large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) in the market today. But How does it stack up against juggernauts like OpenAI's GPT and Google's PalM line of AI models?
+
+ We assessed ChatGPT, Bard, and Llama 2 on their performance on tests of creativity, mathematical reasoning, practical judgment, and coding skills.
+
+### 1\. Creativity
+
+ To test its creativity and sense of humor, we gave it our signature creativity and sarcasm test. We asked the Llama 2 AI model to simulate a conversation between two people arguing about the merits of going to space, and here are the results.
+
+![Hugging face LlaMA Sarcastic argument about space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hugging-face-llama-sarcastic-argument-about-space.jpg)
+
+ Followed by:
+
+![Hugging face LlaMA Sarcastic argument about space 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hugging-face-llama-sarcastic-argument-about-space-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ And finally:
+
+![Hugging face LlaMA Sarcastic argument about space 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hugging-face-llama-sarcastic-argument-about-space-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+ Judging from the results of our [comparison of ChatGPT, Bing AI, and Google](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/), where we also used the same test, only ChatGPT's response is noticeably better than Llama 2's response. Llama 2's response seems to be fairly better than Google's Bard. After putting the chatbots through several creative tasks, it's clear that ChatGPT is still the top dog in terms of creativity, but Llama is not far behind the rest of the pack.
+
+### 2\. Coding Skills
+
+ When we compared Llama 2's coding abilities to ChatGPT and Bard, Llama 2 showed great promise. We asked all three AI chatbots to generate a functional to-do list app, write a simple Tetris game, and create a secure authentication system for a website. While ChatGPT delivered almost perfectly on all three tasks, Bard and Llama 2 performed similarly, with both only able to provide functional code for a to-do list and authentication system but failed with the Tetris game. Below is a screenshot of Llama 2's to-do app.
+
+![todo app created by Llama 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/todo-app-created-by-llama-2.jpg)
+
+### 3\. Math Skills
+
+ In math skills, Llama 2 also showed promise compared to Bard but was far outperformed by ChatGPT in the algebra and logic math problems we used for our test. Interestingly, Llama 2 solved many of the math problems that both ChatGPT and Bard failed to solve in their earliest iterations. It's safe to say that Llama 2 is inferior to ChatGPT in math skills but shows significant promise.
+
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+### 4\. Commonsense and Logical Reasoning
+
+ Commonsense is an area a lot of chatbots are still struggling with, even the established ones like ChatGPT. We tasked ChatGPT, Bard, and Llama 2 with solving a set of commonsense and logical reasoning problems. Once again, ChatGPT significantly exceeded both Bard and Llama 2\. The competition was between Bard and Llama 2, and Bard had a marginal edge over Llama 2 in our test.
+
+ It's clear that Llama 2 is not there yet. However, in its defense, Llama 2 is relatively new, mostly a "foundational model" and not a "fine-tune." Foundational models are large language models built with possible future adaptations in mind. They are not fine-tuned to any specific domain but are built to deal with a broad range of tasks, although sometimes with limited abilities.
+
+ On the other hand, a fine-tuned model is a foundational model tuned to increase its efficiency in a specific domain. It's like taking a foundational model like GPT and fine-tuning it into ChatGPT so the public can use it in chat applications.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Use Llama 2 Right Now
+
+ The easiest way to use Llama 2 is through Quora's Poe AI platform or a Hugging Face cloud-hosted instance. You can also get your hands on the model by downloading a copy of it and running it locally.
+
+### Access Llama on Quora Poe
+
+ To access Llama on Quora's Poe AI platform:
+
+1. Visit [poe.com](https://poe.com/login) and sign up for a free account.
+2. Log into your account to reveal the AI model selection interface.  
+![Poe.com chat interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/poe-com-chat-interface.jpg)
+3. Click on the **More** icon just above the input field to reveal the available AI models.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+![Selecting a model on Quora's poe.com](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/selecting-a-model-on-quora-s-poe-com.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Choose any of the Llama 2 models available and start prompting.
+
+### Access Llama on Hugging Face
+
+ To access Llama on Hugging Face, open the link to the corresponding Llama 2 models below and start prompting the AI chatbot.
+
+1. [7B parameters Llama-2 chat](https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat)
+2. [13B parameters Llama-2 chat](https://huggingface.co/spaces/huggingface-projects/llama-2-13b-chat)
+3. [70B parameters Llama-2 chat](https://huggingface.co/spaces/ysharma/Explore%5Fllamav2%5Fwith%5FTGI)
+
+ The Llama models above and those on the Poe platform have been fine-tuned for conversation applications, so it is the closest to ChatGPT you'll get for a Llama-2 model. Not sure which version to try? We recommend option three, the [70B parameters Llama-2 chat](https://huggingface.co/spaces/ysharma/Explore%5Fllamav2%5Fwith%5FTGI). You can still play around with all three models to see which one works best for your unique needs.
+
+ Although we advise starting with the largest available model to take full advantage of the remote computing power when using HuggingFace or Poe, for those intending to run Llama 2 locally, we encourage beginning with the 7B parameter model, as it has the lowest hardware requirements.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Hardware Requirements to Run Llama 2 Locally
+
+ For optimal performance with the 7B model, we recommend a graphics card with at least 10GB of VRAM, although people have reported it works with 8GB of RAM. When running locally, the next logical choice would be the 13B parameter model. For this, you can go for high-end consumer GPUs like the RTX 3090 or RTX 4090 to enjoy their abilities. However, you can still rig up your mid-tier Windows machine or a MacBook to run this.
+
+ Should you want to go full throttle, you can go for the largest model. However, this will require enterprise-grade hardware for a blissful performance. By enterprise-grade, we are talking hardware in the ballpark of an NVIDIA A100 with 80GB of memory. The 70B parameter model requires exceptionally powerful, specialized hardware for responsive execution. Once again, clarifying that you can still run this model on a less powerful machine setup is important. However, response time might be agonizingly slow, running into several minutes per prompt. Carefully consider the GPU and memory requirements before selecting the appropriate model for your needs. Or, use the HuggingFace instance.
+
+ If you have the hardware and technical depth to run the Llama 2 model locally on your machine, you can request access to the model using [Meta's Llama access request form](https://ai.meta.com/resources/models-and-libraries/llama-downloads/). After providing a name, email, location, and the name of your organization, Meta will review your application, after which access will either be denied or granted access within a window spanning a few minutes to two days. My access was granted in minutes, so hopefully, you get lucky as well.
+
+## Llama 2: An Important First Step
+
+ Llama 2 may not be the most sophisticated language model available, but by virtue of being open source, it represents an important first step towards transparent and progressive AI development.
+
+ While the likes of OpenAI GPT currently have better performance, OpenAI's walled-garden approach to development means the company controls the growth and pace of development of the model. With an open-source model like Llama, the wider open-source community can iteratively innovate to build new products that might not be possible within a walled garden system.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ From OpenAI's GPT-4 to Google's PalM 2, large language models dominate tech headlines. Each new model promises to be better and more powerful than the previous, sometimes exceeding any existing competition.
+
+ However, the number of existing models hasn't slowed the emergence of new ones. Now, Facebook's parent company, Meta, has released Llama 2, a powerful new language model. But what's unique about Llama 2? How is it different from the likes of GPT-4, PaLM 2, and Claude 2, and why should you care?
+
+## What Is Llama 2?
+
+![Llama illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/llama-illustration.jpg)
+
+ Llama 2, a large language model, is a product of an uncommon alliance between Meta and Microsoft, two competing tech giants at the forefront of artificial intelligence research. It is a successor to Meta's Llama 1 language model, released in the first quarter of 2023\.
+
+ You can say it is Meta's equivalent of [Google's PaLM 2](https://www.makeuseof.com/what-is-google-palm-2/), OpenAIs GPT-4, and [Anthropic's Claude 2](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/). It has been trained on a vast dataset of publicly available internet data, enjoying the advantage of a dataset both more recent and more diverse than that used to train Llama 1\. Llama 2 was trained with 40% more data than its predecessor and has double the context length (4k).
+
+ If you've had the opportunity to interact with Llama 1 in the past but weren't too impressed with its output, Llama 2 outperforms its predecessor and might just be what you need. But how does it fare against outside competition?
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How Does Llama 2 Stack Up Against The Competition?
+
+![Illustration of ChatGPT vs. Bing AI vs. Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/jpg_20230401_123755_0000.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+ Well, it depends on the competition it is up against. Firstly, Llama 2 is an open-source project. This means Meta is publishing the entire model, so anyone can use it to build new models or applications. If you compare Llama 2 to other major open-source language models like Falcon or MBT, you will find it outperforms them in several metrics. It is safe to say Llama 2 is one of the most powerful open-source [large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) in the market today. But How does it stack up against juggernauts like OpenAI's GPT and Google's PalM line of AI models?
+
+ We assessed ChatGPT, Bard, and Llama 2 on their performance on tests of creativity, mathematical reasoning, practical judgment, and coding skills.
+
+### 1\. Creativity
+
+ To test its creativity and sense of humor, we gave it our signature creativity and sarcasm test. We asked the Llama 2 AI model to simulate a conversation between two people arguing about the merits of going to space, and here are the results.
+
+![Hugging face LlaMA Sarcastic argument about space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hugging-face-llama-sarcastic-argument-about-space.jpg)
+
+ Followed by:
+
+![Hugging face LlaMA Sarcastic argument about space 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hugging-face-llama-sarcastic-argument-about-space-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ And finally:
+
+![Hugging face LlaMA Sarcastic argument about space 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hugging-face-llama-sarcastic-argument-about-space-3.jpg)
+
+ Judging from the results of our [comparison of ChatGPT, Bing AI, and Google](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/), where we also used the same test, only ChatGPT's response is noticeably better than Llama 2's response. Llama 2's response seems to be fairly better than Google's Bard. After putting the chatbots through several creative tasks, it's clear that ChatGPT is still the top dog in terms of creativity, but Llama is not far behind the rest of the pack.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Coding Skills
+
+ When we compared Llama 2's coding abilities to ChatGPT and Bard, Llama 2 showed great promise. We asked all three AI chatbots to generate a functional to-do list app, write a simple Tetris game, and create a secure authentication system for a website. While ChatGPT delivered almost perfectly on all three tasks, Bard and Llama 2 performed similarly, with both only able to provide functional code for a to-do list and authentication system but failed with the Tetris game. Below is a screenshot of Llama 2's to-do app.
+
+![todo app created by Llama 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/todo-app-created-by-llama-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+### 3\. Math Skills
+
+ In math skills, Llama 2 also showed promise compared to Bard but was far outperformed by ChatGPT in the algebra and logic math problems we used for our test. Interestingly, Llama 2 solved many of the math problems that both ChatGPT and Bard failed to solve in their earliest iterations. It's safe to say that Llama 2 is inferior to ChatGPT in math skills but shows significant promise.
+
+### 4\. Commonsense and Logical Reasoning
+
+ Commonsense is an area a lot of chatbots are still struggling with, even the established ones like ChatGPT. We tasked ChatGPT, Bard, and Llama 2 with solving a set of commonsense and logical reasoning problems. Once again, ChatGPT significantly exceeded both Bard and Llama 2\. The competition was between Bard and Llama 2, and Bard had a marginal edge over Llama 2 in our test.
+
+ It's clear that Llama 2 is not there yet. However, in its defense, Llama 2 is relatively new, mostly a "foundational model" and not a "fine-tune." Foundational models are large language models built with possible future adaptations in mind. They are not fine-tuned to any specific domain but are built to deal with a broad range of tasks, although sometimes with limited abilities.
+
+ On the other hand, a fine-tuned model is a foundational model tuned to increase its efficiency in a specific domain. It's like taking a foundational model like GPT and fine-tuning it into ChatGPT so the public can use it in chat applications.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Use Llama 2 Right Now
+
+ The easiest way to use Llama 2 is through Quora's Poe AI platform or a Hugging Face cloud-hosted instance. You can also get your hands on the model by downloading a copy of it and running it locally.
+
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Access Llama on Quora Poe
+
+ To access Llama on Quora's Poe AI platform:
+
+1. Visit [poe.com](https://poe.com/login) and sign up for a free account.
+2. Log into your account to reveal the AI model selection interface.  
+![Poe.com chat interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/poe-com-chat-interface.jpg)
+3. Click on the **More** icon just above the input field to reveal the available AI models.  
+![Selecting a model on Quora's poe.com](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/selecting-a-model-on-quora-s-poe-com.jpg)
+
+ Choose any of the Llama 2 models available and start prompting.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Access Llama on Hugging Face
+
+ To access Llama on Hugging Face, open the link to the corresponding Llama 2 models below and start prompting the AI chatbot.
+
+1. [7B parameters Llama-2 chat](https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat)
+2. [13B parameters Llama-2 chat](https://huggingface.co/spaces/huggingface-projects/llama-2-13b-chat)
+3. [70B parameters Llama-2 chat](https://huggingface.co/spaces/ysharma/Explore%5Fllamav2%5Fwith%5FTGI)
+
+ The Llama models above and those on the Poe platform have been fine-tuned for conversation applications, so it is the closest to ChatGPT you'll get for a Llama-2 model. Not sure which version to try? We recommend option three, the [70B parameters Llama-2 chat](https://huggingface.co/spaces/ysharma/Explore%5Fllamav2%5Fwith%5FTGI). You can still play around with all three models to see which one works best for your unique needs.
+
+ Although we advise starting with the largest available model to take full advantage of the remote computing power when using HuggingFace or Poe, for those intending to run Llama 2 locally, we encourage beginning with the 7B parameter model, as it has the lowest hardware requirements.
+
+## Hardware Requirements to Run Llama 2 Locally
+
+ For optimal performance with the 7B model, we recommend a graphics card with at least 10GB of VRAM, although people have reported it works with 8GB of RAM. When running locally, the next logical choice would be the 13B parameter model. For this, you can go for high-end consumer GPUs like the RTX 3090 or RTX 4090 to enjoy their abilities. However, you can still rig up your mid-tier Windows machine or a MacBook to run this.
+
+ Should you want to go full throttle, you can go for the largest model. However, this will require enterprise-grade hardware for a blissful performance. By enterprise-grade, we are talking hardware in the ballpark of an NVIDIA A100 with 80GB of memory. The 70B parameter model requires exceptionally powerful, specialized hardware for responsive execution. Once again, clarifying that you can still run this model on a less powerful machine setup is important. However, response time might be agonizingly slow, running into several minutes per prompt. Carefully consider the GPU and memory requirements before selecting the appropriate model for your needs. Or, use the HuggingFace instance.
+
+ If you have the hardware and technical depth to run the Llama 2 model locally on your machine, you can request access to the model using [Meta's Llama access request form](https://ai.meta.com/resources/models-and-libraries/llama-downloads/). After providing a name, email, location, and the name of your organization, Meta will review your application, after which access will either be denied or granted access within a window spanning a few minutes to two days. My access was granted in minutes, so hopefully, you get lucky as well.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Llama 2: An Important First Step
+
+ Llama 2 may not be the most sophisticated language model available, but by virtue of being open source, it represents an important first step towards transparent and progressive AI development.
+
+ While the likes of OpenAI GPT currently have better performance, OpenAI's walled-garden approach to development means the company controls the growth and pace of development of the model. With an open-source model like Llama, the wider open-source community can iteratively innovate to build new products that might not be possible within a walled garden system.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ From OpenAI's GPT-4 to Google's PalM 2, large language models dominate tech headlines. Each new model promises to be better and more powerful than the previous, sometimes exceeding any existing competition.
+
+ However, the number of existing models hasn't slowed the emergence of new ones. Now, Facebook's parent company, Meta, has released Llama 2, a powerful new language model. But what's unique about Llama 2? How is it different from the likes of GPT-4, PaLM 2, and Claude 2, and why should you care?
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+## What Is Llama 2?
+
+![Llama illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/llama-illustration.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+ Llama 2, a large language model, is a product of an uncommon alliance between Meta and Microsoft, two competing tech giants at the forefront of artificial intelligence research. It is a successor to Meta's Llama 1 language model, released in the first quarter of 2023\.
+
+ You can say it is Meta's equivalent of [Google's PaLM 2](https://www.makeuseof.com/what-is-google-palm-2/), OpenAIs GPT-4, and [Anthropic's Claude 2](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/). It has been trained on a vast dataset of publicly available internet data, enjoying the advantage of a dataset both more recent and more diverse than that used to train Llama 1\. Llama 2 was trained with 40% more data than its predecessor and has double the context length (4k).
+
+ If you've had the opportunity to interact with Llama 1 in the past but weren't too impressed with its output, Llama 2 outperforms its predecessor and might just be what you need. But how does it fare against outside competition?
+
+## How Does Llama 2 Stack Up Against The Competition?
+
+![Illustration of ChatGPT vs. Bing AI vs. Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/jpg_20230401_123755_0000.jpg)
+
+ Well, it depends on the competition it is up against. Firstly, Llama 2 is an open-source project. This means Meta is publishing the entire model, so anyone can use it to build new models or applications. If you compare Llama 2 to other major open-source language models like Falcon or MBT, you will find it outperforms them in several metrics. It is safe to say Llama 2 is one of the most powerful open-source [large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) in the market today. But How does it stack up against juggernauts like OpenAI's GPT and Google's PalM line of AI models?
+
+ We assessed ChatGPT, Bard, and Llama 2 on their performance on tests of creativity, mathematical reasoning, practical judgment, and coding skills.
+
+### 1\. Creativity
+
+ To test its creativity and sense of humor, we gave it our signature creativity and sarcasm test. We asked the Llama 2 AI model to simulate a conversation between two people arguing about the merits of going to space, and here are the results.
+
+![Hugging face LlaMA Sarcastic argument about space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hugging-face-llama-sarcastic-argument-about-space.jpg)
+
+ Followed by:
+
+![Hugging face LlaMA Sarcastic argument about space 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hugging-face-llama-sarcastic-argument-about-space-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ And finally:
+
+![Hugging face LlaMA Sarcastic argument about space 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hugging-face-llama-sarcastic-argument-about-space-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+ Judging from the results of our [comparison of ChatGPT, Bing AI, and Google](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/), where we also used the same test, only ChatGPT's response is noticeably better than Llama 2's response. Llama 2's response seems to be fairly better than Google's Bard. After putting the chatbots through several creative tasks, it's clear that ChatGPT is still the top dog in terms of creativity, but Llama is not far behind the rest of the pack.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+### 2\. Coding Skills
+
+ When we compared Llama 2's coding abilities to ChatGPT and Bard, Llama 2 showed great promise. We asked all three AI chatbots to generate a functional to-do list app, write a simple Tetris game, and create a secure authentication system for a website. While ChatGPT delivered almost perfectly on all three tasks, Bard and Llama 2 performed similarly, with both only able to provide functional code for a to-do list and authentication system but failed with the Tetris game. Below is a screenshot of Llama 2's to-do app.
+
+![todo app created by Llama 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/todo-app-created-by-llama-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3\. Math Skills
+
+ In math skills, Llama 2 also showed promise compared to Bard but was far outperformed by ChatGPT in the algebra and logic math problems we used for our test. Interestingly, Llama 2 solved many of the math problems that both ChatGPT and Bard failed to solve in their earliest iterations. It's safe to say that Llama 2 is inferior to ChatGPT in math skills but shows significant promise.
+
+### 4\. Commonsense and Logical Reasoning
+
+ Commonsense is an area a lot of chatbots are still struggling with, even the established ones like ChatGPT. We tasked ChatGPT, Bard, and Llama 2 with solving a set of commonsense and logical reasoning problems. Once again, ChatGPT significantly exceeded both Bard and Llama 2\. The competition was between Bard and Llama 2, and Bard had a marginal edge over Llama 2 in our test.
+
+ It's clear that Llama 2 is not there yet. However, in its defense, Llama 2 is relatively new, mostly a "foundational model" and not a "fine-tune." Foundational models are large language models built with possible future adaptations in mind. They are not fine-tuned to any specific domain but are built to deal with a broad range of tasks, although sometimes with limited abilities.
+
+ On the other hand, a fine-tuned model is a foundational model tuned to increase its efficiency in a specific domain. It's like taking a foundational model like GPT and fine-tuning it into ChatGPT so the public can use it in chat applications.
+
+## How to Use Llama 2 Right Now
+
+ The easiest way to use Llama 2 is through Quora's Poe AI platform or a Hugging Face cloud-hosted instance. You can also get your hands on the model by downloading a copy of it and running it locally.
+
+### Access Llama on Quora Poe
+
+ To access Llama on Quora's Poe AI platform:
+
+1. Visit [poe.com](https://poe.com/login) and sign up for a free account.
+2. Log into your account to reveal the AI model selection interface.  
+![Poe.com chat interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/poe-com-chat-interface.jpg)
+3. Click on the **More** icon just above the input field to reveal the available AI models.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+![Selecting a model on Quora's poe.com](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/selecting-a-model-on-quora-s-poe-com.jpg)
+
+ Choose any of the Llama 2 models available and start prompting.
+
+### Access Llama on Hugging Face
+
+ To access Llama on Hugging Face, open the link to the corresponding Llama 2 models below and start prompting the AI chatbot.
+
+1. [7B parameters Llama-2 chat](https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat)
+2. [13B parameters Llama-2 chat](https://huggingface.co/spaces/huggingface-projects/llama-2-13b-chat)
+3. [70B parameters Llama-2 chat](https://huggingface.co/spaces/ysharma/Explore%5Fllamav2%5Fwith%5FTGI)
+
+ The Llama models above and those on the Poe platform have been fine-tuned for conversation applications, so it is the closest to ChatGPT you'll get for a Llama-2 model. Not sure which version to try? We recommend option three, the [70B parameters Llama-2 chat](https://huggingface.co/spaces/ysharma/Explore%5Fllamav2%5Fwith%5FTGI). You can still play around with all three models to see which one works best for your unique needs.
+
+ Although we advise starting with the largest available model to take full advantage of the remote computing power when using HuggingFace or Poe, for those intending to run Llama 2 locally, we encourage beginning with the 7B parameter model, as it has the lowest hardware requirements.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
+## Hardware Requirements to Run Llama 2 Locally
+
+ For optimal performance with the 7B model, we recommend a graphics card with at least 10GB of VRAM, although people have reported it works with 8GB of RAM. When running locally, the next logical choice would be the 13B parameter model. For this, you can go for high-end consumer GPUs like the RTX 3090 or RTX 4090 to enjoy their abilities. However, you can still rig up your mid-tier Windows machine or a MacBook to run this.
+
+ Should you want to go full throttle, you can go for the largest model. However, this will require enterprise-grade hardware for a blissful performance. By enterprise-grade, we are talking hardware in the ballpark of an NVIDIA A100 with 80GB of memory. The 70B parameter model requires exceptionally powerful, specialized hardware for responsive execution. Once again, clarifying that you can still run this model on a less powerful machine setup is important. However, response time might be agonizingly slow, running into several minutes per prompt. Carefully consider the GPU and memory requirements before selecting the appropriate model for your needs. Or, use the HuggingFace instance.
+
+ If you have the hardware and technical depth to run the Llama 2 model locally on your machine, you can request access to the model using [Meta's Llama access request form](https://ai.meta.com/resources/models-and-libraries/llama-downloads/). After providing a name, email, location, and the name of your organization, Meta will review your application, after which access will either be denied or granted access within a window spanning a few minutes to two days. My access was granted in minutes, so hopefully, you get lucky as well.
+
+## Llama 2: An Important First Step
+
+ Llama 2 may not be the most sophisticated language model available, but by virtue of being open source, it represents an important first step towards transparent and progressive AI development.
+
+ While the likes of OpenAI GPT currently have better performance, OpenAI's walled-garden approach to development means the company controls the growth and pace of development of the model. With an open-source model like Llama, the wider open-source community can iteratively innovate to build new products that might not be possible within a walled garden system.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ From OpenAI's GPT-4 to Google's PalM 2, large language models dominate tech headlines. Each new model promises to be better and more powerful than the previous, sometimes exceeding any existing competition.
+
+ However, the number of existing models hasn't slowed the emergence of new ones. Now, Facebook's parent company, Meta, has released Llama 2, a powerful new language model. But what's unique about Llama 2? How is it different from the likes of GPT-4, PaLM 2, and Claude 2, and why should you care?
+
+## What Is Llama 2?
+
+![Llama illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/llama-illustration.jpg)
+
+ Llama 2, a large language model, is a product of an uncommon alliance between Meta and Microsoft, two competing tech giants at the forefront of artificial intelligence research. It is a successor to Meta's Llama 1 language model, released in the first quarter of 2023\.
+
+ You can say it is Meta's equivalent of [Google's PaLM 2](https://www.makeuseof.com/what-is-google-palm-2/), OpenAIs GPT-4, and [Anthropic's Claude 2](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/). It has been trained on a vast dataset of publicly available internet data, enjoying the advantage of a dataset both more recent and more diverse than that used to train Llama 1\. Llama 2 was trained with 40% more data than its predecessor and has double the context length (4k).
+
+ If you've had the opportunity to interact with Llama 1 in the past but weren't too impressed with its output, Llama 2 outperforms its predecessor and might just be what you need. But how does it fare against outside competition?
+
+## How Does Llama 2 Stack Up Against The Competition?
+
+![Illustration of ChatGPT vs. Bing AI vs. Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/jpg_20230401_123755_0000.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+ Well, it depends on the competition it is up against. Firstly, Llama 2 is an open-source project. This means Meta is publishing the entire model, so anyone can use it to build new models or applications. If you compare Llama 2 to other major open-source language models like Falcon or MBT, you will find it outperforms them in several metrics. It is safe to say Llama 2 is one of the most powerful open-source [large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) in the market today. But How does it stack up against juggernauts like OpenAI's GPT and Google's PalM line of AI models?
+
+ We assessed ChatGPT, Bard, and Llama 2 on their performance on tests of creativity, mathematical reasoning, practical judgment, and coding skills.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+### 1\. Creativity
+
+ To test its creativity and sense of humor, we gave it our signature creativity and sarcasm test. We asked the Llama 2 AI model to simulate a conversation between two people arguing about the merits of going to space, and here are the results.
+
+![Hugging face LlaMA Sarcastic argument about space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hugging-face-llama-sarcastic-argument-about-space.jpg)
+
+ Followed by:
+
+![Hugging face LlaMA Sarcastic argument about space 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hugging-face-llama-sarcastic-argument-about-space-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+ And finally:
+
+![Hugging face LlaMA Sarcastic argument about space 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hugging-face-llama-sarcastic-argument-about-space-3.jpg)
+
+ Judging from the results of our [comparison of ChatGPT, Bing AI, and Google](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/), where we also used the same test, only ChatGPT's response is noticeably better than Llama 2's response. Llama 2's response seems to be fairly better than Google's Bard. After putting the chatbots through several creative tasks, it's clear that ChatGPT is still the top dog in terms of creativity, but Llama is not far behind the rest of the pack.
+
+### 2\. Coding Skills
+
+ When we compared Llama 2's coding abilities to ChatGPT and Bard, Llama 2 showed great promise. We asked all three AI chatbots to generate a functional to-do list app, write a simple Tetris game, and create a secure authentication system for a website. While ChatGPT delivered almost perfectly on all three tasks, Bard and Llama 2 performed similarly, with both only able to provide functional code for a to-do list and authentication system but failed with the Tetris game. Below is a screenshot of Llama 2's to-do app.
+
+![todo app created by Llama 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/todo-app-created-by-llama-2.jpg)
+
+### 3\. Math Skills
+
+ In math skills, Llama 2 also showed promise compared to Bard but was far outperformed by ChatGPT in the algebra and logic math problems we used for our test. Interestingly, Llama 2 solved many of the math problems that both ChatGPT and Bard failed to solve in their earliest iterations. It's safe to say that Llama 2 is inferior to ChatGPT in math skills but shows significant promise.
+
+### 4\. Commonsense and Logical Reasoning
+
+ Commonsense is an area a lot of chatbots are still struggling with, even the established ones like ChatGPT. We tasked ChatGPT, Bard, and Llama 2 with solving a set of commonsense and logical reasoning problems. Once again, ChatGPT significantly exceeded both Bard and Llama 2\. The competition was between Bard and Llama 2, and Bard had a marginal edge over Llama 2 in our test.
+
+ It's clear that Llama 2 is not there yet. However, in its defense, Llama 2 is relatively new, mostly a "foundational model" and not a "fine-tune." Foundational models are large language models built with possible future adaptations in mind. They are not fine-tuned to any specific domain but are built to deal with a broad range of tasks, although sometimes with limited abilities.
+
+ On the other hand, a fine-tuned model is a foundational model tuned to increase its efficiency in a specific domain. It's like taking a foundational model like GPT and fine-tuning it into ChatGPT so the public can use it in chat applications.
+
+## How to Use Llama 2 Right Now
+
+ The easiest way to use Llama 2 is through Quora's Poe AI platform or a Hugging Face cloud-hosted instance. You can also get your hands on the model by downloading a copy of it and running it locally.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+### Access Llama on Quora Poe
+
+ To access Llama on Quora's Poe AI platform:
+
+1. Visit [poe.com](https://poe.com/login) and sign up for a free account.
+2. Log into your account to reveal the AI model selection interface.  
+![Poe.com chat interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/poe-com-chat-interface.jpg)
+3. Click on the **More** icon just above the input field to reveal the available AI models.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+![Selecting a model on Quora's poe.com](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/selecting-a-model-on-quora-s-poe-com.jpg)
+
+ Choose any of the Llama 2 models available and start prompting.
+
+### Access Llama on Hugging Face
+
+ To access Llama on Hugging Face, open the link to the corresponding Llama 2 models below and start prompting the AI chatbot.
+
+1. [7B parameters Llama-2 chat](https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat)
+2. [13B parameters Llama-2 chat](https://huggingface.co/spaces/huggingface-projects/llama-2-13b-chat)
+3. [70B parameters Llama-2 chat](https://huggingface.co/spaces/ysharma/Explore%5Fllamav2%5Fwith%5FTGI)
+
+ The Llama models above and those on the Poe platform have been fine-tuned for conversation applications, so it is the closest to ChatGPT you'll get for a Llama-2 model. Not sure which version to try? We recommend option three, the [70B parameters Llama-2 chat](https://huggingface.co/spaces/ysharma/Explore%5Fllamav2%5Fwith%5FTGI). You can still play around with all three models to see which one works best for your unique needs.
+
+ Although we advise starting with the largest available model to take full advantage of the remote computing power when using HuggingFace or Poe, for those intending to run Llama 2 locally, we encourage beginning with the 7B parameter model, as it has the lowest hardware requirements.
+
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+## Hardware Requirements to Run Llama 2 Locally
+
+ For optimal performance with the 7B model, we recommend a graphics card with at least 10GB of VRAM, although people have reported it works with 8GB of RAM. When running locally, the next logical choice would be the 13B parameter model. For this, you can go for high-end consumer GPUs like the RTX 3090 or RTX 4090 to enjoy their abilities. However, you can still rig up your mid-tier Windows machine or a MacBook to run this.
+
+ Should you want to go full throttle, you can go for the largest model. However, this will require enterprise-grade hardware for a blissful performance. By enterprise-grade, we are talking hardware in the ballpark of an NVIDIA A100 with 80GB of memory. The 70B parameter model requires exceptionally powerful, specialized hardware for responsive execution. Once again, clarifying that you can still run this model on a less powerful machine setup is important. However, response time might be agonizingly slow, running into several minutes per prompt. Carefully consider the GPU and memory requirements before selecting the appropriate model for your needs. Or, use the HuggingFace instance.
+
+ If you have the hardware and technical depth to run the Llama 2 model locally on your machine, you can request access to the model using [Meta's Llama access request form](https://ai.meta.com/resources/models-and-libraries/llama-downloads/). After providing a name, email, location, and the name of your organization, Meta will review your application, after which access will either be denied or granted access within a window spanning a few minutes to two days. My access was granted in minutes, so hopefully, you get lucky as well.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+## Llama 2: An Important First Step
+
+ Llama 2 may not be the most sophisticated language model available, but by virtue of being open source, it represents an important first step towards transparent and progressive AI development.
+
+ While the likes of OpenAI GPT currently have better performance, OpenAI's walled-garden approach to development means the company controls the growth and pace of development of the model. With an open-source model like Llama, the wider open-source community can iteratively innovate to build new products that might not be possible within a walled garden system.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-apeak-soft-recording-performance-and-reliability-assessed/"><u>[New] Apeak Soft Recording  Performance and Reliability Assessed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-instant-media-transformation-enhance-fb-videos-to-hdmp4-on-the-fly/"><u>[New] Instant Media Transformation  Enhance FB Videos to HD/MP4 on the Fly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-discovering-windows-best-snipping-and-cropping-software/"><u>[Updated] 2024 Approved  Discovering Windows' Best Snipping and Cropping Software</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-discovering-the-excellent-10-yoga-programs-for-better-wellness/"><u>[Updated] Discovering the Excellent 10 Yoga Programs for Better Wellness</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-essential-streaming-on-discord-devices/"><u>[Updated] Essential Streaming on Discord Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-boosting-social-reach-top-facebook-video-engagement-techniques/"><u>[Updated] In 2024, Boosting Social Reach  Top Facebook Video Engagement Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-precise-speech-to-text-the-google-standard/"><u>[Updated] In 2024, Precise Speech to Text  The Google Standard</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-instant-recording-tips-for-facetime-chats/"><u>[Updated] Instant Recording Tips for FaceTime Chats</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-logo-magic-sprucing-up-your-podcasts-visual-appeal/"><u>[Updated] Logo Magic  Sprucing Up Your Podcast's Visual Appeal</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-optimizing-screencapture-techniques-for-maximum-results-for-2024/"><u>[Updated] Optimizing ScreenCapture Techniques for Maximum Results for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-soundtrack-strategy-addmpy-in-videos-on-fb-for-2024/"><u>[Updated] The Soundtrack Strategy  Addmpy in Videos on FB for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44ox44ot44k744k544oe44kk44ol44oz44kw44gu6kmz57sw6kej6kqs77ya44gp44gg44gx44gm6yen6kab44gl77yf44cn/"><u>「プロセスマイニングの詳細解説：どうして重要か？」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-abbyy-flexicapture-enhances-trn-groups-invoicing-efficiency-through-automation/"><u>1. ABBYY FlexiCapture Enhances TRN Group's Invoicing Efficiency Through Automation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-enhanced-traffic-insights-with-our-state-of-the-art-cookiebot-technology/"><u>1. Enhanced Traffic Insights with Our State-of-the-Art Cookiebot Technology</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-mastering-focus-and-depth-with-videoleaps-zoom-feature/"><u>2024 Approved  Mastering Focus and Depth with Videoleap's Zoom Feature</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-honor-magic-5-lite-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Honor Magic 5 Lite? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-x9a-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor X9a Unlock Without Password</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-blog-the-five-biggest-challenges-facing-developers-with-receipt-ocr-technology/"><u>ABBYY Blog: The Five Biggest Challenges Facing Developers with Receipt OCR Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-enhances-eucon-efficiency-through-advanced-automatic-document-handling/"><u>ABBYY Enhances Eucon Efficiency Through Advanced Automatic Document Handling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-textgrabber-on-android-now-features-live-translation-available-at-no-cost/"><u>ABBYY TextGrabber on Android Now Features Live Translation, Available at No Cost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerate-success-with-six-essential-steps-for-launching-a-process-mining-project-insights-from-the-abbyy-team/"><u>Accelerate Success with Six Essential Steps for Launching a Process Mining Project - Insights From the ABBYY Team</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-a-robust-supply-network-the-role-of-intelligent-processes-in-blueprints-expert-advice-from-abbyy-experts/"><u>Building a Robust Supply Network: The Role of Intelligent Processes in Blueprints | Expert Advice From ABBYY Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/capacitez-votre-main-doeuvre-digitale-en-utilisant-les-competences-cognitives-dabbyy-vantage/"><u>Capacitez Votre Main-D'oeuvre Digitale en Utilisant Les Compétences Cognitives D'ABBYY Vantage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/carlsberg-partners-with-abbyy-to-speed-up-global-launch-of-premium-brews/"><u>Carlsberg Partners with ABBYY to Speed Up Global Launch of Premium Brews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-analytics-unleashing-the-full-potential-of-your-digital-marketing/"><u>Cookiebot-Driven Analytics: Unleashing the Full Potential of Your Digital Marketing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-website-optimization-boosting-your-digital-footprint/"><u>Cookiebot-Driven Website Optimization: Boosting Your Digital Footprint</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-personalization-enhancing-your-digital-marketing/"><u>Cookiebot-Enabled Personalization: Enhancing Your Digital Marketing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-boost-your-sites-performance-and-analytics/"><u>Cookiebot-Enabled: Boost Your Site's Performance and Analytics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customizable-with-cookiebot-your-ultimate-solution-for-personalized-experiences/"><u>Customizable with Cookiebot: Your Ultimate Solution for Personalized Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customized-user-experience-with-advanced-cookiebot-technology/"><u>Customized User Experience with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-smart-document-automation-system-the-premier-industry-choice-elevates-its-capabilities/"><u>Cutting-Edge Smart Document Automation System - The Premier Industry Choice Elevates Its Capabilities</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-free-mcb-skin-designs-for-2024/"><u>Download Free MCB Skin Designs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/drive-engagement-and-analytics-using-the-cookiebot-platform/"><u>Drive Engagement and Analytics Using the Cookiebot Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-conversion-optimization-with-the-help-of-cookiebot-technology/"><u>Efficient Conversion Optimization with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-financial-expertise-with-abbyys-content-intelligence-for-accounting-professionals/"><u>Elevate Your Financial Expertise with ABBYY's Content Intelligence for Accounting Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-online-presence-innovative-solutions-from-cookiebots-expertise/"><u>Elevate Your Online Presence: Innovative Solutions From Cookiebot's Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-website-engagement-using-cookiebots-innovative-solutions/"><u>Elevate Your Website Engagement Using Cookiebot's Innovative Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-user-experience-with-cookiebots-advanced-tracking-and-privacy-tools/"><u>Enhance User Experience with Cookiebot's Advanced Tracking & Privacy Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-conversion-rates-with-leadboxes-cookiebot-technology/"><u>Enhanced Conversion Rates with LeadBoxes' Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-online-performance-through-advanced-analytics-harness-the-potential-of-our-cookiebot-solution/"><u>Enhanced Online Performance Through Advanced Analytics: Harness the Potential of Our Cookiebot Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-user-experience-with-the-assistance-of-cookiebot-technology/"><u>Enhanced User Experience with the Assistance of Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-marketing-strategies-through-innovative-cookiebot-solutions/"><u>Enhancing Your Marketing Strategies Through Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-11-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme 11 Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expand-your-circle-of-acquaintances-5-innovative-apps-to-make-connections/"><u>Expand Your Circle of Acquaintances: 5 Innovative Apps to Make Connections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-tailored-results-through-cookiebot-integration/"><u>Experience Tailored Results Through Cookiebot Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-cookiebot-technology-for-optimized-engagement/"><u>Harnessing the Power of Cookiebot Technology for Optimized Engagement</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-7-plus-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 7 Plus Apple ID on MacBook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-motorola-moto-g24-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Motorola Moto G24 Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-honor-90-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Honor 90 for Free? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-budget-friendly-chinese-vr-gear/"><u>In 2024, Budget-Friendly Chinese VR Gear</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-note-30-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Note 30 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-handheld-shots-no-tripod-necessary/"><u>In 2024, Mastering Handheld Shots  No Tripod Necessary</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-backwards-youtubes-way-to-rearrange-watch-queue/"><u>In 2024, Navigating Backwards  YouTube’s Way to Rearrange Watch Queue</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-secrets-to-flawless-photo-cropping-online/"><u>In 2024, Professional Secrets to Flawless Photo Cropping Online</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-6s-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 6s Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-data-extraction-the-role-of-retrieval-augmented-generation-in-abbyys-technology-suite/"><u>Innovating Data Extraction: The Role of Retrieval-Augmented Generation in ABBYY's Technology Suite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-document-scanning-and-conversion-utilize-finereader-pdfs-ocr-for-precise-pdfjpg-book-digitization/"><u>IPhone Document Scanning & Conversion: Utilize FineReader PDF's OCR for Precise PDF/JPG Book Digitization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/james-ritter-named-abbyys-next-chief-financial-officer-in-latest-leadership-update/"><u>James Ritter Named ABBYY's Next Chief Financial Officer in Latest Leadership Update</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-free-mp4-video-trimmers-top-picks/"><u>New 2024 Approved Free MP4 Video Trimmers Top Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ntt-docomo-endorsed-abbyy-app-with-ocr-technology-for-seamless-multi-language-text-conversion/"><u>NTT DOCOMO Endorsed ABBYY App with OCR Technology for Seamless Multi-Language Text Conversion</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/sony-xperia-10-v-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 10 V Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-information-retrieval-session-elevating-company-knowledge-with-advanced-mining-methods/"><u>Strategic Information Retrieval Session: Elevating Company Knowledge with Advanced Mining Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-fallacy-of-relying-on-ai-for-safe-key-crafting/"><u>The Fallacy of Relying on AI for Safe Key Crafting</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-15-facebook-videograbber-add-ons-compatible-with-firefox/"><u>Top 15 Facebook Videograbber Add-Ons, Compatible with FireFox</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-paperwork-into-digital-format-using-ocr-ios-solution-by-finereader-pdf-app/"><u>Transform Your Paperwork Into Digital Format Using OCR - iOS Solution by FineReader PDF App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-why-robotic-process-automation-has-ceos-and-c-level-managers-hooked-perspectives-by-abbyy/"><u>Unpacking Why Robotic Process Automation Has CEOs and C-Level Managers Hooked - Perspectives by ABBYY</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-abbyy2020/"><u>デジタルインテリジェンスとその6つの魅力的な物語 - ABBYYブログで読むべき2020年</u></a></li>
+</ul></div>
