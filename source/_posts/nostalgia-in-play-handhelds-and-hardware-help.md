@@ -1,7 +1,7 @@
 ---
 title: "Nostalgia in Play: Handhelds & Hardware Help"
-date: 2024-09-02T20:45:08.623Z
-updated: 2024-09-03T20:45:08.623Z
+date: 2024-09-06T23:30:20.936Z
+updated: 2024-09-07T23:30:20.936Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Nostalgia in Play: Handhelds & Hardware Help"
 thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081fae25bd46e53089bd06505df.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Nostalgia in Play: Handhelds & Hardware Help
 
  ChatGPT has been presented as the ultimate artificial intelligence breakthrough, but can it make you money? That question, and others, are tackled in this week's tech podcast for technophobes, the Really Useful Podcast.
@@ -23,48 +29,11 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
-## Shownotes
-
- This week, we've got the following tech news:
-
-* [Zoom Chief Says Video Calling Is Bad for Creativity](https://www.msn.com/en-us/money/companies/video-calling-is-bad-for-creativity-says-zoom-chief/ar-AA1fIP69)
-* [Did Cyber Attack Cause UK Air Traffic Control Chaos?](https://www.msn.com/en-gb/news/other/government-can-t-rule-out-cyber-attack-caused-air-traffic-chaos/ar-AA1fTpa8)
-
- We've also got these tips and explainers:
-
-* [Reasons Why Gamers Should Buy a Retro Handheld](https://www.makeuseof.com/gamers-should-buy-a-retro-handheld-reasons-why/)
-* [Are ChatGPT Side Gigs Legit Money-Making Opportunities?](https://www.makeuseof.com/chatgpt-side-gigs-are-they-legit/)
-* [How to Use DOSBox to Play Retro PC Games on Any Device](https://www.makeuseof.com/tag/play-retro-games-dosbox/)
-* [Ways to Check If Your PC Parts Are Compatible Before You Buy](https://www.makeuseof.com/ways-check-pc-parts-compatible-before-buy/)
-
- Christian Cawley, Gavin Phillips, and Ben Stegner host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey), [@gavinspavin](https://twitter.com/gavinspavin), and [@stegnersaurus](https://twitter.com/stegnersaurus), with your suggestions for future topics.
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-## Shownotes
-
- This week, we've got the following tech news:
-
-* [Zoom Chief Says Video Calling Is Bad for Creativity](https://www.msn.com/en-us/money/companies/video-calling-is-bad-for-creativity-says-zoom-chief/ar-AA1fIP69)
-* [Did Cyber Attack Cause UK Air Traffic Control Chaos?](https://www.msn.com/en-gb/news/other/government-can-t-rule-out-cyber-attack-caused-air-traffic-chaos/ar-AA1fTpa8)
-
- We've also got these tips and explainers:
-
-* [Reasons Why Gamers Should Buy a Retro Handheld](https://www.makeuseof.com/gamers-should-buy-a-retro-handheld-reasons-why/)
-* [Are ChatGPT Side Gigs Legit Money-Making Opportunities?](https://www.makeuseof.com/chatgpt-side-gigs-are-they-legit/)
-* [How to Use DOSBox to Play Retro PC Games on Any Device](https://www.makeuseof.com/tag/play-retro-games-dosbox/)
-* [Ways to Check If Your PC Parts Are Compatible Before You Buy](https://www.makeuseof.com/ways-check-pc-parts-compatible-before-buy/)
-
- Christian Cawley, Gavin Phillips, and Ben Stegner host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey), [@gavinspavin](https://twitter.com/gavinspavin), and [@stegnersaurus](https://twitter.com/stegnersaurus), with your suggestions for future topics.
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Shownotes
 
@@ -87,7 +56,80 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Shownotes
+
+ This week, we've got the following tech news:
+
+* [Zoom Chief Says Video Calling Is Bad for Creativity](https://www.msn.com/en-us/money/companies/video-calling-is-bad-for-creativity-says-zoom-chief/ar-AA1fIP69)
+* [Did Cyber Attack Cause UK Air Traffic Control Chaos?](https://www.msn.com/en-gb/news/other/government-can-t-rule-out-cyber-attack-caused-air-traffic-chaos/ar-AA1fTpa8)
+
+ We've also got these tips and explainers:
+
+* [Reasons Why Gamers Should Buy a Retro Handheld](https://www.makeuseof.com/gamers-should-buy-a-retro-handheld-reasons-why/)
+* [Are ChatGPT Side Gigs Legit Money-Making Opportunities?](https://www.makeuseof.com/chatgpt-side-gigs-are-they-legit/)
+* [How to Use DOSBox to Play Retro PC Games on Any Device](https://www.makeuseof.com/tag/play-retro-games-dosbox/)
+* [Ways to Check If Your PC Parts Are Compatible Before You Buy](https://www.makeuseof.com/ways-check-pc-parts-compatible-before-buy/)
+
+ Christian Cawley, Gavin Phillips, and Ben Stegner host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey), [@gavinspavin](https://twitter.com/gavinspavin), and [@stegnersaurus](https://twitter.com/stegnersaurus), with your suggestions for future topics.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Shownotes
+
+ This week, we've got the following tech news:
+
+* [Zoom Chief Says Video Calling Is Bad for Creativity](https://www.msn.com/en-us/money/companies/video-calling-is-bad-for-creativity-says-zoom-chief/ar-AA1fIP69)
+* [Did Cyber Attack Cause UK Air Traffic Control Chaos?](https://www.msn.com/en-gb/news/other/government-can-t-rule-out-cyber-attack-caused-air-traffic-chaos/ar-AA1fTpa8)
+
+ We've also got these tips and explainers:
+
+* [Reasons Why Gamers Should Buy a Retro Handheld](https://www.makeuseof.com/gamers-should-buy-a-retro-handheld-reasons-why/)
+* [Are ChatGPT Side Gigs Legit Money-Making Opportunities?](https://www.makeuseof.com/chatgpt-side-gigs-are-they-legit/)
+* [How to Use DOSBox to Play Retro PC Games on Any Device](https://www.makeuseof.com/tag/play-retro-games-dosbox/)
+* [Ways to Check If Your PC Parts Are Compatible Before You Buy](https://www.makeuseof.com/ways-check-pc-parts-compatible-before-buy/)
+
+ Christian Cawley, Gavin Phillips, and Ben Stegner host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey), [@gavinspavin](https://twitter.com/gavinspavin), and [@stegnersaurus](https://twitter.com/stegnersaurus), with your suggestions for future topics.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Shownotes
 

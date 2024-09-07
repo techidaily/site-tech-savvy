@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Decision: Which Bot Will Triumph?"
-date: 2024-09-02T20:44:16.420Z
-updated: 2024-09-03T20:44:16.420Z
+date: 2024-09-06T23:30:21.791Z
+updated: 2024-09-07T23:30:21.791Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes The Ultimate Decision: Which Bot Will Triumph?"
 thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5ad463dfb82faf3689dc358c1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Ultimate Decision: Which Bot Will Triumph?
 
  Most of the credit for the boom in artificial intelligence goes to OpenAI, as it has opened the doors for other companies. Perplexity is based on OpenAI's GPT technology but is trained specifically as a chatbot.
@@ -23,6 +29,12 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
  With that in mind, let's pit the two against each other across various categories (like base technology, response quality, and stability) to determine which is better trained to be your virtual chatting/research assistant.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Technology (GPT-3 vs. GPT-4)
 
  The difference in language models is immediately where things get interesting. ChatGPT's free version gives you access to GPT-3.5, the large language model that most of us are familiar with now. Upgrading to the Plus version gives you access to GPT-4, [a more impressive language model than its predecessor](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/).
@@ -31,6 +43,12 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
  This **Copilot** mode is powered by GPT-4, but you are limited to five prompts every four hours. ChatGPT Plus has a similar restriction, as you are limited to 25 prompts every three hours.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Functionality
 
 ![ChatGPT plugin gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins.jpg)
@@ -41,6 +59,12 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
 ![Perplexity homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Perplexity AI is more of a search engine that provides suggestions and sources in response to your queries. It is designed to search the web in real-time to provide up-to-date information on various topics. The new GPT-4 powered Copilot feature is also useful as it can guide your search experience with interactive inputs to tailor personalized responses.
 
  Both of them are useful AI tools for entirely different purposes. Perplexity is a great free tool for conducting research, while ChatGPT can help you summarize that research and make it presentable.
@@ -53,6 +77,12 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
  Then again, [ChatGPT Plus is still well worth the money](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), especially if you want access to GPT-4 and priority access to new features. There's no clear winner here, as Perplexity is also worth trying out, considering it's free.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Responses
 
  To compare the performance in terms of responses, we conducted a series of tests between the two chatbots. We presented the same questions to both language models for a better analysis.
@@ -60,15 +90,15 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 ![ChatGPT 4 response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-4-response.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The tests revealed that ChatGPT Plus consistently outperformed Perplexity by providing detailed and clear responses. In addition, it demonstrated a superior ability to provide well-reasoned and elaborative answers.
 
 ![Perplexity AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-response.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Perplexity produced responses of decent quality but lacked the level of clarity and detail exhibited by ChatGPT Plus. However, while the answers might not be elaborate, they are accurate. You'll often find that Perplexity is great at finding sources that help you find the right answers.
 
 ## 5\. Supported Platforms
@@ -81,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
 ![Perplexity AI Chat Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-chat-interface.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Perplexity AI Popular Topics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-popular-topics.PNG)
 
 Close
@@ -94,10 +121,6 @@ Close
 
 ![ChatGPT Models Speed and Stability](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-models-speed-and-stability.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Perplexity AI is noticeably faster than any other chatbot or AI search engine. The GPT-3 version quickly searches the web and curates a response inspired by different sources. This ability to access real-time information makes it faster than ChatGPT.
 
  However, the default GPT-3.5 model in ChatGPT Plus isn't slow by any means. [It's faster than the GPT-4 model](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) and much quicker than the legacy GPT-3.5 model in the free version. Either way, neither chatbot will bother you regarding speed unless you're using GPT-4\. The newest LLM is inherently slow right now, regardless of the platform.
@@ -105,8 +128,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Both of these chatbots are also matched in terms of stability. OpenAI gives priority access to Plus subscribers, so you can access the service even during peak usage hours. Perplexity AI has a relatively smaller user base, and stability issues aren't something to worry about.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Comparison With Bing
 
@@ -117,7 +148,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Unfortunately, it still feels like a beta version at the moment. Microsoft is being cautious with its approach, and this means that Bing Chat simply won't respond to prompts it considers "controversial." However, it's still worth trying out as it's free.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## ChatGPT Plus vs. Perplexity: Two Impressively Different Chatbots
 

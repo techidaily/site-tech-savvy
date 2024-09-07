@@ -1,7 +1,7 @@
 ---
 title: "Bard Emerges: Google's Latest AI to Rival ChatGPT"
-date: 2024-09-02T20:45:45.669Z
-updated: 2024-09-03T20:45:45.669Z
+date: 2024-09-06T23:30:20.347Z
+updated: 2024-09-07T23:30:20.347Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,18 @@ excerpt: "This Article Describes Bard Emerges: Google's Latest AI to Rival ChatG
 thumbnail: https://thmb.techidaily.com/41df33583a82ea2d9923ca08fb1de828ddad2dc59980553349e15164e2adbb30.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bard Emerges: Google's Latest AI to Rival ChatGPT
 
  The launch of ChatGPT rattled several tech companies. Google, whose revenue is heavily dependent on its search business—something ChatGPT could eventually threaten—has particularly been concerned.Now, less than three months into ChatGPT's existence, Google has announced the launch of a ChatGPT-styled AI called Bard to take on the seemingly unchallenged reign of ChatGPT. But how will Bard work? Will Bard be better than ChatGPT? Here's everything we know so far.
@@ -21,6 +33,12 @@ thumbnail: https://thmb.techidaily.com/41df33583a82ea2d9923ca08fb1de828ddad2dc59
 
  **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Google's Bard AI?
 
  Bard is a Google-owned experimental AI language model capable of generating human-sounding responses to prompts or inputs given. It is built on top of Google's powerful conversational language model, LaMDA (Language Model for Dialogue Applications).
@@ -29,14 +47,32 @@ thumbnail: https://thmb.techidaily.com/41df33583a82ea2d9923ca08fb1de828ddad2dc59
 
 ![google bard on smartphone example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-bard-on-smartphone-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Image Credit:[Google](https://blog.google/technology/ai/bard-google-ai-search-updates/)
 
  Unlike ChatGPT, Sundar Pichai explained that Bard will initially only be available to a few trusted testers, with plans to scale to more users. The announcement also showcased what the initial release would look like with several examples—some of which look strikingly similar to what ChatGPT would do. So, is Bard going to be just another ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Google Bard Could Be Better Than ChatGPT
 
 ![An illustration of an AI bot performing meeting analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/AI-Meeting-Assistant-for-Online-Meetings-Featured-Image.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ChatGPT was released on November 30, 2022, after a lengthy development period. The entire development process, including the base technology that powers it, spanned several years. At first glance, this would mean Google had less than three months to build a product to rival ChatGPT, a product built on years of evolving technology.
 
  However, the reality is different. Google has invested heavily in Artificial Intelligence fields like [Natural Language Processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) for several years. In a seeming twist of fate, while Google is trying to rival ChatGPT, the very [technology architecture that powers ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) , known as the Transformer architecture, is a brainchild of Google's research. In other words, Google is now trying to outcompete a business threat that is technically built on Google technology.
@@ -49,18 +85,12 @@ thumbnail: https://thmb.techidaily.com/41df33583a82ea2d9923ca08fb1de828ddad2dc59
 
  In simpler terms, this would mean Google's Bard would be able to provide fresh, up-to-date responses while ChatGPT would, unfortunately, be limited to information relating to events, not beyond 2021 (ChatGPT's current data training cut-off).
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Will Google Bard Work?
 
  From the demonstrations Google has provided, it's not entirely clear whether Bard will exist as a standalone prompt-response web interface like ChatGPT "after the initial testing phase."
 
  However, in typical Google fashion, Google will almost certainly push to deeply integrate Bard into most of its products, including Google Search, akin to what Microsoft is trying to do with Bing and other Microsoft products using ChatGPT technology.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Google's Bard Demonstration Features Factual Issues
 
  But despite the interest and understandable hype with Google's Bard announcement, its first demonstration didn't go well. Eagle-eyed astronomers quickly pointed out that at least one of the "facts" delivered by Bard was completely wrong. For example, Bard stated that the James Webb Space Telescope "took the very pictures of a planet outside of our own solar system," but the European Very Large Telescope accomplished that accolade in 2004.
@@ -68,7 +98,16 @@ thumbnail: https://thmb.techidaily.com/41df33583a82ea2d9923ca08fb1de828ddad2dc59
  Bard is still in its very early stages, but its false statement was a clear indicator of the issues of integrating conversational AI technology deeper into general internet search, where many will trust what is written.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Will Google's Bard AI Be Better Than ChatGPT?
 

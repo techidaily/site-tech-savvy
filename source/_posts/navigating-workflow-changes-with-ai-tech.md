@@ -1,7 +1,7 @@
 ---
 title: Navigating Workflow Changes with AI Tech
-date: 2024-09-02T20:47:49.058Z
-updated: 2024-09-03T20:47:49.058Z
+date: 2024-09-06T23:30:18.319Z
+updated: 2024-09-07T23:30:18.319Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: This Article Describes Navigating Workflow Changes with AI Tech
 thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4ec8b02f27cbade364686f12.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Navigating Workflow Changes with AI Tech
 
  The increasing popularity of AI is undeniable, but it raises the question of how significant and relevant AI is to a developer's workflow. To shed light on this topic, Stack Overflow surveyed over 90,000 developers, seeking their views on AI. The survey yielded several noteworthy conclusions, as shown below.
@@ -21,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Overall Sentiments of Developers Towards AI
 
  As mentioned, AI is growing in popularity among developers. According to the [Stack Overflow 2023 survey](https://survey.stackoverflow.co/2023/), 70% are already using or plan to use AI tools in their development process with 44% already using the tools now and 26% planning to.
@@ -39,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Experience
 
  Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
@@ -63,16 +72,15 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
  It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Benefits of AI for Developers
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
 
  Professional developers saw improved productivity (37.4%) as the main benefit with greater efficiency (27.9%) and speed of learning (27.4%) being secondary.
@@ -83,15 +91,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Popular AI Tools That Developers Are Using in 2023
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
@@ -106,12 +114,27 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  This slow adoption of a wide variety of AI tools can be attributed to skepticism about AI accuracy with only 2.85% of developers highly trusting AI output. This distrust can be attributed to tools like ChatGPT providing incorrect output sometimes. This output, when used, can cause significant damage to an application. When using these tools, it's always a good idea to first verify the output.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Get Started With AI in Software Development
 
  As a software developer, you can get started with AI by incorporating code generation and editing tools in your development process. [Tools like GitHub Copilot](https://www.makeuseof.com/how-github-copilot-helps-you-code/) and Tabnine suggest code snippets based on the context as you type which can significantly cut down on development time. Additionally, ChatGPT is very useful for generating utility functions, UI components, and debugging code. With the right prompts, you can even [use ChatGPT to create web apps](https://www.makeuseof.com/chatgpt-how-build-web-app/).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Future of AI-Assisted Software Development
 
  Although many developers agree AI is a beneficial tool in their workflow, only a few are ready to fully trust AI tools to code their entire application. However, AI is certainly changing how developers build applications. By leveraging AI tools, developers can streamline different stages of development including writing code, testing, debugging, and code review. As a result, they can significantly optimize the development life cycle.

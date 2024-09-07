@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Privacy: Email Change via ProtonBrowser"
-date: 2024-09-02T20:49:08.844Z
-updated: 2024-09-03T20:49:08.844Z
+date: 2024-09-06T23:30:17.135Z
+updated: 2024-09-07T23:30:17.135Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Enhancing Privacy: Email Change via ProtonBrows
 thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8dcd59101ee95e0bac57c052.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhancing Privacy: Email Change via ProtonBrowser
 
  Join us for a chat about the week's important tech news that matters, along with tips and tricks concerning keylogger malware, and a ChatGPT scam that can fool anyone. We've also got the lowdown on how to change your email address--it's tougher than you think...
@@ -23,58 +29,11 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
-## Shownotes
-
- This week, we chat about the following tech news that matters:
-
-* [MiniDisc Connected to Nintendo Wii U](https://youtu.be/X1djSzam50g)
-* [Proton VPN Launches Browser Extension](https://www.makeuseof.com/protonvpn-launches-browser-extensions/)
-* [Acronis Denies Large Data Breach](https://www.theregister.com/2023/03/10/acronis%5Fdata%5Fbreach/)
-
- We've got these tips and explainers:
-
-* [What Is Snake Keylogger?](https://www.makeuseof.com/what-is-snake-keylogger-and-are-you-at-risk/)
-* [How to Change Your Email Address](https://www.makeuseof.com/how-to-change-your-email-address-without-losing-important-data/)
-* [There Is No ChatGPT Windows Client](https://www.makeuseof.com/chatgpt-windows-client-malware/)
-
- We finish the show with the following recommendations:
-
-* [Firewalla Purple SE](https://www.makeuseof.com/firewalla-purple-se-review/)
-* [Final ZE8000 earbuds](https://www.makeuseof.com/final-ze8000-review/)
-
- Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-## Shownotes
-
- This week, we chat about the following tech news that matters:
-
-* [MiniDisc Connected to Nintendo Wii U](https://youtu.be/X1djSzam50g)
-* [Proton VPN Launches Browser Extension](https://www.makeuseof.com/protonvpn-launches-browser-extensions/)
-* [Acronis Denies Large Data Breach](https://www.theregister.com/2023/03/10/acronis%5Fdata%5Fbreach/)
-
- We've got these tips and explainers:
-
-* [What Is Snake Keylogger?](https://www.makeuseof.com/what-is-snake-keylogger-and-are-you-at-risk/)
-* [How to Change Your Email Address](https://www.makeuseof.com/how-to-change-your-email-address-without-losing-important-data/)
-* [There Is No ChatGPT Windows Client](https://www.makeuseof.com/chatgpt-windows-client-malware/)
-
- We finish the show with the following recommendations:
-
-* [Firewalla Purple SE](https://www.makeuseof.com/firewalla-purple-se-review/)
-* [Final ZE8000 earbuds](https://www.makeuseof.com/final-ze8000-review/)
-
- Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Shownotes
 
@@ -102,8 +61,84 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Shownotes
+
+ This week, we chat about the following tech news that matters:
+
+* [MiniDisc Connected to Nintendo Wii U](https://youtu.be/X1djSzam50g)
+* [Proton VPN Launches Browser Extension](https://www.makeuseof.com/protonvpn-launches-browser-extensions/)
+* [Acronis Denies Large Data Breach](https://www.theregister.com/2023/03/10/acronis%5Fdata%5Fbreach/)
+
+ We've got these tips and explainers:
+
+* [What Is Snake Keylogger?](https://www.makeuseof.com/what-is-snake-keylogger-and-are-you-at-risk/)
+* [How to Change Your Email Address](https://www.makeuseof.com/how-to-change-your-email-address-without-losing-important-data/)
+* [There Is No ChatGPT Windows Client](https://www.makeuseof.com/chatgpt-windows-client-malware/)
+
+ We finish the show with the following recommendations:
+
+* [Firewalla Purple SE](https://www.makeuseof.com/firewalla-purple-se-review/)
+* [Final ZE8000 earbuds](https://www.makeuseof.com/final-ze8000-review/)
+
+ Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Shownotes
+
+ This week, we chat about the following tech news that matters:
+
+* [MiniDisc Connected to Nintendo Wii U](https://youtu.be/X1djSzam50g)
+* [Proton VPN Launches Browser Extension](https://www.makeuseof.com/protonvpn-launches-browser-extensions/)
+* [Acronis Denies Large Data Breach](https://www.theregister.com/2023/03/10/acronis%5Fdata%5Fbreach/)
+
+ We've got these tips and explainers:
+
+* [What Is Snake Keylogger?](https://www.makeuseof.com/what-is-snake-keylogger-and-are-you-at-risk/)
+* [How to Change Your Email Address](https://www.makeuseof.com/how-to-change-your-email-address-without-losing-important-data/)
+* [There Is No ChatGPT Windows Client](https://www.makeuseof.com/chatgpt-windows-client-malware/)
+
+ We finish the show with the following recommendations:
+
+* [Firewalla Purple SE](https://www.makeuseof.com/firewalla-purple-se-review/)
+* [Final ZE8000 earbuds](https://www.makeuseof.com/final-ze8000-review/)
+
+ Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Shownotes
 

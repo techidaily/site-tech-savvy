@@ -1,7 +1,7 @@
 ---
 title: AI Transformation and Governance - OpenAI's Executive Viewpoint
-date: 2024-09-02T20:43:48.575Z
-updated: 2024-09-03T20:43:48.575Z
+date: 2024-09-06T23:30:22.169Z
+updated: 2024-09-07T23:30:22.169Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: This Article Describes AI Transformation and Governance - OpenAI's Exec
 thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad27ec5fc1142917a3643401d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI Transformation and Governance - OpenAI's Executive Viewpoint
 
  With the incredible success of OpenAI's chatbot tool, ChatGPT, many are excited to see what the company will do next. But OpenAI's CEO has now called for further regulation surrounding AI. So, why is this the case, what effect will it have, and is there a motive here for OpenAI?
@@ -25,6 +31,12 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
 
  Sam Altman is the CEO of OpenAI, the company behind the [ChatGPT language processing tool](https://www.makeuseof.com/ways-ai-change-job-market/). ChatGPT has become a worldwide sensation, but despite its success, Altman is now pushing for further AI regulation.
@@ -41,6 +53,12 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
  So, it's evident that industry professionals and lawmakers are concerned about AI and its future impact. But what effect will further regulation have on the AI industry? Will it be a good or bad thing?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Will More Regulation Benefit the AI Industry?
 
  There are a couple of reasons why AI regulation could be an advantage, both for developers and consumers.
@@ -54,14 +72,20 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Some also feel that it's far too soon to be talking about AI regulation, though the presence of AI in so many industries today would seem to contradict that view.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Is AI Regulation Good News for OpenAI?
 
 ![openai logo on smartphone place on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-ai-phone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Sam Altman's call for more AI regulation has raised questions about whether such constraints will actually benefit OpenAI.
 
@@ -72,8 +96,10 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  It isn't surprising that Altman has something of a bias here, as ChatGPT is the brainchild of the company he runs. But further regulation could lead to larger, pre-established AI companies having an advantage over smaller organizations, especially if licenses, permits, and long testing periods are made a legal requirement (as this could incur more costs and require more personnel).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## AI Regulation Is a Point of Contention
 

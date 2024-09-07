@@ -1,7 +1,7 @@
 ---
 title: "Making MacGPT Choices: The Smart Decision Guide"
-date: 2024-09-02T20:49:02.378Z
-updated: 2024-09-03T20:49:02.378Z
+date: 2024-09-06T23:30:17.224Z
+updated: 2024-09-07T23:30:17.224Z
 tags:
   - chatgpt
   - open-ai
@@ -23,12 +23,24 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
  However, there seem to be doubts about using ChatGPT on a Mac. Most people search for ChatGPT on the Mac App Store and install one of the initial results. But, as recent reports suggest, it's a habit you must stay away from.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shady ChatGPT Apps Are Flooding the App Store
 
  Apple recommends the Mac App Store as one of the safest ways to download and install apps. It is true most of the time as well. However, following the dramatic popularity of ChatGPT, developers are flooding the Mac App Store with shady and buggy ChatGPT apps. Many of these apps also have elements that are frequently used to scam users.
 
 ![ChatGPT results on Mac App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-results-on-mac-app-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This problematic side of the Mac App Store was unearthed in [Alex Kleber's Medium post](https://privacyis1st.medium.com/the-dark-side-of-the-mac-app-store-how-scam-apps-and-shady-developers-are-preying-on-users-b28062642e6). The author discovered that the popular results for terms like ChatGPT and OpenAI are fraudulent apps that do not deliver what they promise.
 
  For instance, many apps are either blocked by a paywall or do not work whatsoever. While some apps work for the first few minutes, you are presented with an in-app purchase pop-up on the screen.
@@ -44,7 +56,16 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
  Despite the abundance of shady ChatGPT apps, there are two ways to access ChatGPT from your Mac safely.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. Use the Web Interface
 
@@ -55,14 +76,18 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 ![ChatGPT web interface on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-web-interface-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You need to register for an account if you don't already have one. OpenAI also lets you [choose between the free and paid versions of ChatGPT](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/).
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Use MacGPT
 
@@ -71,7 +96,10 @@ The powerful video editing program for your Windows PC</a>
 ![MacGPT running on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macgpt-running-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  This menu bar interface will help you interact with ChatGPT without needing to open a separate browser window. The same app enables you to seek the help of ChatGPT with various text fields and even the Spotlight Search interface. With just a trigger word, you can let ChatGPT do all the typing.
 
@@ -81,9 +109,6 @@ The powerful video editing program for your Windows PC</a>
 
 **Download:**[MacGPT](https://www.macgpt.com/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use ChatGPT on Your Mac the Right Way
 
  There is no doubt that ChatGPT can help you increase productivity and simplify your workflow. And that's exactly why you may want a convenient way to access it on your Mac. But it's important you understand the different aspects of the AI service, including the privacy implications, before jumping in.

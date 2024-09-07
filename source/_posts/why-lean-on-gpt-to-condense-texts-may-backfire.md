@@ -1,7 +1,7 @@
 ---
 title: Why Lean on GPT to Condense Texts May Backfire?
-date: 2024-09-02T20:48:51.668Z
-updated: 2024-09-03T20:48:51.668Z
+date: 2024-09-06T23:30:17.381Z
+updated: 2024-09-07T23:30:17.381Z
 tags:
   - chatgpt
   - open-ai
@@ -13,8 +13,32 @@ excerpt: This Article Describes Why Lean on GPT to Condense Texts May Backfire?
 thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cbaa69a714d4a27725179f8ad.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Lean on GPT to Condense Texts May Backfire?
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [ChatGPT Can Ignore or Misunderstand Your Prompt](https://dreoaffiliateprogram.pxf.io/k0ezjl)
@@ -35,6 +59,12 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 
  There are limits to what ChatGPT knows. And its programming forces it to deliver what you ask for, even if the result is wrong. This means ChatGPT makes mistakes, and moreover, there are some common mistakes it makes, especially when it’s summarizing information and you’re not paying attention.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Ignore or Misunderstand Your Prompt
 
  If you give the chatbot lots of data to sort through, even a complex prompt, it’s likely to deviate from your instructions and follow its own interpretation of them.
@@ -45,18 +75,23 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 
 ![ChatGPT Misintepreting a Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-misintepreting-a-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The chatbot merged both answers into one paragraph. A follow-up prompt with clearer instructions asked it to dip into its knowledge pool, too.
 
 ![ChatGPT Breaking Down Information as Instructed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-breaking-down-information-as-instructed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This is why you should keep your instructions precise, provide context when necessary, and keep an eye on ChatGPT’s results. If you flag up any mistake immediately, the chatbot can produce something more accurate.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## ChatGPT Can Omit Information You Provide
 
@@ -72,14 +107,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![ChatGPT Omitting Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-omitting-information.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If left to its own devices, there’s no guarantee that ChatGPT will use the details you expect. So, plan and phrase your prompts carefully to ensure the chatbot’s summary is spot on.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Can Use Wrong or False Alternatives
 
  OpenAI has updated GPT-4o with data available up to October 2023, while GPT-4 Turbo's cut-off is December of the same year. However, the algorithm’s knowledge isn’t infinite or reliable with real-time facts—it doesn’t know everything about the world. Furthermore, it won’t always reveal that it lacks data on a particular subject unless you ask it directly.
@@ -90,11 +119,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![ChatGPT Getting a Name Wrong While Translating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-getting-a-name-wrong-while-translating.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Company names, books, awards, research links, and other elements can disappear or be altered in the chatbot’s summary. To avoid major mistakes, be aware of [ChatGPT’s content creation limits](https://www.makeuseof.com/mistakes-to-avoid-using-chatgpt-content-creation/) .
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Get Facts Wrong
 
  It’s important to learn all you can about [how to avoid mistakes with generative AI tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) . As the example above demonstrates, one of the biggest problems with ChatGPT is that it lacks certain facts or has learned them wrong. This can then affect any text it produces.
@@ -109,11 +147,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![ChatGPT Explaining a TikTok Trend Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explaining-a-tiktok-trend-wrong.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  The best solution is to not blindly trust AI chatbots with your text. Even if ChatGPT compiled information you provided yourself, make sure you edit everything it produces, check its descriptions and claims, and make a note of any facts it gets wrong. Then, you’ll know how to structure your prompts for the best results.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Get Word or Character Limits Wrong
 
  As much as [OpenAI enhances ChatGPT with new features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) , it still seems to struggle with basic instructions, such as sticking to a specific word or character limit.
@@ -122,6 +163,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![ChatGPT Trying to Stick to Word Count Instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-trying-to-stick-to-word-count-instructions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It’s not the worst mistake to expect from ChatGPT. But it’s one more factor to consider when proofreading the summaries it creates.
 
  Be specific about how long you want the content to be. You may need to add or delete some words here and there. It’s worth the effort if you’re dealing with projects with strict word count rules.

@@ -1,0 +1,243 @@
+---
+title: Discovering AI Dominance - Generative Chatbot Showdown
+date: 2024-09-06T23:31:35.386Z
+updated: 2024-09-07T23:31:35.386Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Discovering AI Dominance - Generative Chatbot Showdown
+excerpt: This Article Describes Discovering AI Dominance - Generative Chatbot Showdown
+thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d9a8038ff04440aee38e00e3.jpg
+---
+
+## Discovering AI Dominance - Generative Chatbot Showdown
+
+ Bing Chat and ChatGPT are the two public faces of artificial intelligence chatbots. Although the generative AI tools are similar and both use OpenAI's GPT AI model, distinct differences exist between the two.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ As more platforms adopt GPT, the diversity of the technology will widen. So, looking at the early adopters and identifying how they're already differentiating is interesting.
+
+ So, what's the difference between Microsoft's Bing Chat and OpenAI's ChatGPT, and which generative AI chatbot should you use?
+
+## How to Use Bing Chat and ChatGPT
+
+ The first difference between Bing Chat and ChatGPT is in how you access each tool.
+
+ To access Bing Chat, you need the latest version of Microsoft Edge and have it logged onto a Microsoft account. Your computer should automatically update Edge to the latest version, but there are [some ways you can force Windows to update](https://www.makeuseof.com/update-windows-manually/) if it doesn't.
+
+ Once this is done, you will see a prompt similar to the one below. The Bing Chat waiting list is now discontinued, but you may still see a prompt. The next step is to press the **Chat now** button, and that's it!
+
+![Screenshot of New Bing Introduction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-new-bing-introduction.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ The process with ChatGPT is even simpler. First, you will need to create an [OpenAI](https://chat.openai.com/auth/login) account. Once created, you can use ChatGPT from any supported browser. This multi-browser compatibility marks the first notable difference. Bing Chat does offer a form of multi-browser support but with limited functionality.
+
+![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Comparing the Language Models of Bing Chat and ChatGPT
+
+ One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
+
+ Bing Chat uses the latest version of the language model, GPT-4\. However, there are some [key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/):
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Creativity
+
+ Both have levels of creativity that are testimony to the heights that AI has reached. However, creativity is a difficult metric to measure, and the tests we tried showed GPT-3.5 is close to GPT-4 in simple creative tasks.
+
+ For example, below is Bing Chat's effort at a simple limerick.
+
+![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
+
+![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Safety
+
+ Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
+
+### Image Processing and Accuracy
+
+ The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
+
+## How Accurate Are Bing Chat and ChatGPT
+
+ Both platforms go to pains to make users aware that the models may generate responses that contain incorrect information. This is clearly displayed on both interfaces.
+
+![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
+
+ Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
+
+ Unlike testing the difference in creativity, testing this was easy. The results were comprehensive, with Bing Chat returning the most impressive answer to a straightforward question, "How many tons of plastic were recycled in 2020?"
+
+![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
+
+ By contrast, the ChatGPT response was to admit its limitations.
+
+![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
+
+ The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
+
+## Comparing the Interfaces of ChatGPT and Bing Chat
+
+ There are similarities across both interfaces, which reflects their shared pedigree. For example, both have a simple search box and offer the option to regenerate a response after providing an answer.
+
+ However, ChatGPT adheres more strictly to the traditional sense of chatbots by not providing prompts that encourage follow-up questions. In contrast, Bing Chat offers recommendations for further information with each search result and options to obtain more creative, balanced, or precise chat responses.
+
+ Another significant difference is that scrolling down past the "Chat" section of the Bing website takes you to the Bing search engine, which also uses GPT-4\. This makes Bing Chat an excellent choice for hybrid searching, where access to search engines and chatbots is necessary.
+
+ For instance, if you're searching for a list of online resources, Bing Chat provides links to the listed websites, while ChatGPT compiles a similar list of results without links. Furthermore, in Bing Chat, scrolling down to the search section provides a link to pursue your search further.
+
+![Screenshot of Bing Chat response to education query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-chat-response-to-education-query.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
+
+![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Which Is Best: Bing Chat or Chat GPT?
+
+ There is no straightforward answer, as both tools are incredibly impressive.
+
+ A good analogy is to compare ChatGPT to a blank canvas, with Bing Chat being compared to paint with numbers. Bing Chat will take a more guiding role to get you to where you want. On the other hand, ChatGPT leaves more to your imagination and relies on user input to reach a desired result.
+
+ In these terms, both perform superbly. However, there are plus and negative sides to both platforms that can help you decide.
+
+ Bing Chat is the best option for those looking for up-to-date information and to assist with follow-on responses. Thanks to its more proactive approach, it is also a better option if online safety is a concern. However, there are plenty of ways that [kids can safely use ChatGPT](https://www.makeuseof.com/ways-kids-can-use-chatgpt-safely/).
+
+ The downside is the need to use the latest version of Edge. There is also a 15-chat limit per session with a 2000-character limit on searches, which may be restrictive to some users.
+
+ Despite ChatGPT using GPT-3.5, we still found it better for tasks like creative writing. GPT's blank canvas approach and heavier focus on "chatting" were more useful.
+
+ Additionally, the ability to run on browsers other than Edge may make it more appealing to some.
+
+ Ultimately, this is a case of choosing the right tool for the job. The beauty of this is that both platforms are free, so trying them both is quick and easy.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Chatbots Are Here to Stay
+
+ As AI chatbots become more widespread, the differences between these early adopters will only continue to widen. However, by understanding the unique features of each platform, users can choose the chatbot that best suits their needs.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ As more platforms adopt GPT, the diversity of the technology will widen. So, looking at the early adopters and identifying how they're already differentiating is interesting.
+
+ So, what's the difference between Microsoft's Bing Chat and OpenAI's ChatGPT, and which generative AI chatbot should you use?
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-budget-friendly-sponsorship-blueprint-for-youtube-enthusiasts/"><u>[New] Budget-Friendly Sponsorship Blueprint for YouTube Enthusiasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nveiling-the-most-honest-youtube-growth-services/"><u>[New] Unveiling the Most Honest Youtube Growth Services</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-seamless-instagram-story-layering-techniques-for-2024/"><u>[Updated] Seamless Instagram Story Layering Techniques for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-strategies-to-enhance-your-viewing-experience-on-facebook/"><u>[Updated] Strategies to Enhance Your Viewing Experience on Facebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-vlogging-vs-micro-video-which-outperforms-for-2024-youtubes-shorts-or-tiktoks/"><u>[Updated] Vlogging Vs. Micro-Video Which Outperforms for 2024 YouTubes Shorts or TikToks?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-ace-video-acquisition-strategies-for-savvy-software-and-no-software-use/"><u>2024 Approved Ace Video Acquisition Strategies for Savvy Software & No-Software Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-law-the-future-intersection/"><u>AI and Law: The Future Intersection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-not-your-keymaster-why-leave-sensitive-info-out/"><u>AI Not Your Keymaster: Why Leave Sensitive Info Out?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-assistants-transforming-the-editors-workspace/"><u>AI-Powered Assistants Transforming the Editor's Workspace</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-mastery-reimagined-with-artificial-intelligence/"><u>Content Mastery Reimagined with Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-digital-helpers-to-sharpen-prompt-engineering/"><u>Essential Digital Helpers to Sharpen Prompt Engineering</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fact-check-for-fit-sifting-through-chatgpts-health-info/"><u>Fact-Check for Fit: Sifting Through ChatGPT's Health Info</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-turbo-momentum-boosted-by-the-helping-hand-of-copilot/"><u>Free Turbo Momentum Boosted by the Helping Hand of Copilot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-logic-to-lore-the-8-key-ai-shifts/"><u>From Logic to Lore: The 8 Key AI Shifts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gemini-takes-on-chatgpt-who-wins/"><u>Gemini Takes on ChatGPT – Who Wins?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screen-capture-without-a-penny-the-top-apps-reviewed/"><u>In 2024, Screen Capture Without a Penny The Top Apps Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-out-how-artificial-intelligence-black-boxes-operate/"><u>Inside Out: How Artificial Intelligence Black Boxes Operate</u></a></li>
+<li><a href="https://fox-access.techidaily.com/leading-slow-motions-camera-edition/"><u>Leading Slow-Motions Camera Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/lost-oversight-chatgpts-new-era/"><u>Lost Oversight: ChatGPT's New Era</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-noise-to-notes-dawnenas-daw-with-chatgpt/"><u>Navigating Noise to Notes: Dawn'enas DAW with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-anthropic-claude-3-ecosystem/"><u>Navigating the Anthropic Claude 3 Ecosystem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pivoting-to-perfection-fixing-plugin-link-errors-with-chatgpt/"><u>Pivoting to Perfection: Fixing Plugin Link Errors with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/public-private-personal-ai-understanding-distinctions/"><u>Public, Private, Personal AI: Understanding Distinctions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/raise-the-decibels-custom-sound-adjustments-on-a-windows-10-machine/"><u>Raise the Decibels: Custom Sound Adjustments on a Windows 10 Machine</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/recording-success-with-top-software-choices/"><u>Recording Success with Top Software Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/search-giants-face-off-google-bard-vs-bing-chat/"><u>Search Giants Face Off: Google Bard Vs. Bing Chat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/side-tech-businesses-and-vintage-console-trends/"><u>Side Tech Businesses & Vintage Console Trends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-contrast-of-ais-capability-and-impact-on-emotional-health/"><u>The Contrast of AI's Capability and Impact on Emotional Health</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-decision-which-bot-will-triumph/"><u>The Ultimate Decision: Which Bot Will Triumph?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-jackery-energy-station-evaluating-its-integrated-ac-receptacle-functionality/"><u>The Ultimate Guide to the Jackery Energy Station - Evaluating Its Integrated AC Receptacle Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-ai-customized-chatbot-via-gpt-techniques/"><u>Transformative AI: Customized ChatBot via GPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-edge-based-machine-learning-deployments/"><u>Understanding Edge-Based Machine Learning Deployments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-does-chatgpt-mean-a-journey-through-generative-ai/"><u>What Does ChatGPT Mean? A Journey Through Generative AI</u></a></li>
+</ul></div>

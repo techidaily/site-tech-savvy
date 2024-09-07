@@ -1,7 +1,7 @@
 ---
 title: What Are the Implications of Altering ChatGPT?
-date: 2024-09-02T20:42:33.976Z
-updated: 2024-09-03T20:42:33.976Z
+date: 2024-09-06T23:30:23.277Z
+updated: 2024-09-07T23:30:23.277Z
 tags:
   - chatgpt
   - open-ai
@@ -58,29 +58,35 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
  What does this mean? It means OpenAI will let you jailbreak ChatGPT if you don't do dangerous things with it.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Pros and Cons of ChatGPT Jailbreaks
 
 ![A close up view of a computer with "ChatGPT Prompts" written on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-prompt-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  ChatGPT jailbreaks aren't easy to build. Sure, you can go online and copy-paste ready-made ones, but there's a good chance that the jailbreak will be patched by OpenAI shortly after it goes public.
 
  Patches are even much faster if it's dangerous, like the infamous DAN jailbreak. So why do people go through the stress of crafting jailbreaks anyway? Is it just for the thrill of it, or are there practical benefits to it? What could go wrong if you choose to use a ChatGPT jailbreak? Here are the pros and cons of jailbreaking ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### The Pros of Using ChatGPT Jailbreaks
 
 ![A happy woman listening to headphones while using a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-happy-woman-listening-to-headphones-while-using-a-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While we can't rule out the simple thrill of doing the forbidden, ChatGPT jailbreaks have many benefits. Because of the very tight restrictions that OpenAI has put on the chatbot, the ChatGPT can sometimes appear neutered.
 
  Let's say you're using ChatGPT to write a book or a movie script. If there's a scene in your script or book that would describe something like a fight scene, maybe an intimate emotional exchange, or say something like armed robbery, ChatGPT might outrightly refuse to help with that.
@@ -94,27 +100,45 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
  This leads to inaccuracies or slumps in creative responses. Jailbreaks smash these restrictions and let the chatbot go full throttle, improving accuracy and creativity.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### The Cons of Using ChatGPT Jailbreaks
 
 ![Image of a man with his face in his hands beside a white question mark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-of-a-man-with-his-face-in-his-hands-beside-a-white-question-mark.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Jailbreaking is a double-edged sword. While it can sometimes improve accuracy, it can also significantly increase inaccuracies and [cases of AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). One of the core elements of a ChatGPT jailbreak is an instruction to the chatbot not to refuse to answer a question.
 
  While this ensures that ChatGPT answers even the most unethical of questions, it also means that the chatbot will make up responses that have no roots in facts or reality to obey the instruction of "not refusing to answer." Consequently, using jailbreaks significantly increases the chances of being fed misinformation by the chatbot.
 
  That's not all. In the hands of minors, jailbreaks can be very harmful. Think of all the "forbidden knowledge" you wouldn't want your child to read. Well, a jailbroken instance of ChatGPT wouldn't have a hard time sharing that with minors.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Should You Use ChatGPT Jailbreaks?
 
  While ChatGPT jailbreaks might be okay when trying to get a few annoying restrictions out of the way, it is important to understand that using jailbreaks is an unethical way to use the AI chatbot. Moreso, there's a good chance that a jailbreak could violate OpenAI's terms of use, and your account might be suspended if not outrightly banned.
 
  In light of this, avoiding jailbreaks might be a good idea. However, just like OpenAI's stance on the issue, we neither explicitly encourage nor strictly discourage trying a relatively safe jailbreak if the need arises.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## An Exciting Tool You Should Probably Avoid
 
  ChatGPT jailbreaks are enticing and provide a sense of control over the AI chatbot. However, they come with unique risks. Using such tools can result in a loss of trust in the AI's capabilities and damage the reputation of the companies and individuals involved.

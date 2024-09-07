@@ -1,7 +1,7 @@
 ---
 title: "Transformative AI: Customized ChatBot via GPT Techniques"
-date: 2024-09-02T20:44:21.747Z
-updated: 2024-09-03T20:44:21.747Z
+date: 2024-09-06T23:30:21.725Z
+updated: 2024-09-07T23:30:21.725Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,18 @@ excerpt: "This Article Describes Transformative AI: Customized ChatBot via GPT T
 thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a4d33d69cb3dc289d466caa6.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transformative AI: Customized ChatBot via GPT Techniques
 
  Since ChatGPT launched in November 2022, we've always wanted to fine-tune it into a custom AI built for a single purpose. Now, OpenAI has heard our calls and launched "Create a GPT," a ChatGPT Plus tool you can use to create your own version of ChatGPT.
@@ -23,6 +35,12 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  Even though this is the first version of the GPT Builder, it's a very promising premise. It's chock-full of capabilities, has options to share your GPT with the public, and only takes a moment to spin up your custom GPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Access Create a GPT from My GPTs
 
  The first thing you need to do is [subscribe to ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) if you haven't already. You should find the button to do so in the left-side menu of the ChatGPT interface. Once you've paid the $20 fee, follow the instructions below:
@@ -33,6 +51,12 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  At the time of writing, "Create a GPT" is still in beta. This means not all features are fully online, and the product isn't finished. Bear this in mind while building your GPT and prepare to encounter issues. Also, it's possible that your finished GPT may be erased when a future update comes knocking.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Give Your GPT a Primary Description and a Picture
 
  For the sake of this piece, we'll be demonstrating how to build a Dungeons and Dragons 5th Edition dungeon master.
@@ -40,9 +64,21 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 1. Now that you're in the GPT Builder, the first question you'll get is what you want to make. You can keep this first part short and sweet and input a single sentence. In this case, we said, "Make a Dungeons & Dragons 5e dungeon master who oversees D&D campaigns."  
 ![Primary description for a D&D GPT in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/primary-description-for-a-d-d-gpt-in-gpt-builder.jpg)
 2. Next, give your GPT a name. ChatGPT will suggest one for you, but you can still type in anything you want.
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can manually change the image, name, description, and instructions for your GPT by clicking **Configure**. Click the profile picture to change it, and edit the details in the **Name** **Description** and **Instructions** fields to change them without typing prompts.
 
 ## 3\. Establish a Tone and Rules for Your GPT
@@ -51,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
 ![GPT Builder setting the tone and language for The 5e Dungeon Master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-builder-setting-the-tone-and-language-for-the-5e-dungeon-master-gpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  But, of course, if you are making a more professional GPT, ensure it uses professional language.
 
  Now that your custom GPT has a tone, you should tell it how to behave. In our case, we want child-friendly Dungeons & Dragons campaigns that conform to PG-rated themes. We also let it have an inquisitive approach to understanding the player's actions instead of assuming what the player would do.
@@ -66,6 +99,12 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
 ![GPT Dungeon Master giving information on how to build a character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-dungeon-master-giving-information-on-how-to-build-a-character.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you find that it's not fulfilling your instructions as well as you want, go back to the **Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
 
 ## 4\. Upload Files as a Knowledge Base
@@ -79,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 3. Click **Upload files** and add files from your computer.  
 ![GPT Knowledge source documents uploading in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-knowledge-source-documents-uploading-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
 
  If, for instance, you were trying to make a GPT that is an expert in Florida tax laws, you would get all the Florida tax legal documents you can find and upload them here to form a knowledge base your GPT can work with.
@@ -101,7 +137,10 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 ![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Add APIs for Third-Party Services
 
@@ -113,15 +152,18 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 4. **Optional:** Scroll down and enter an authentication method and privacy policy.
 5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Go back when you're finished.
 
  If you don't enter a valid privacy policy, you won't be allowed to share your GPT with the public.
 
  Currently, you seem to be able to add only one action at a time. If you click the **Examples** dropdown menu, you'll see a few examples of schemas OpenAI has added to aid in creating your own schema.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Configure Conversation Starters
 
  Now that you've gotten most of the GPT building out of the way, you can add or remove conversation starters. They help you and others using your GPT to get into the flow of things.
@@ -132,12 +174,18 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 ![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can add more conversation starters as required.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8\. Save and Publish Your GPT
 
@@ -149,9 +197,6 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  If you click the pencil icon in the share menu, you'll enter your builder profile, where you can change your GPT and profile options when this feature is fully released.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## ChatGPT's Limitations Still Apply to GPT Builder
 
  You might be fooled by OpenAI's new UI and custom AIs, but don't forget that its limitations still apply. Fundamentally, it's still AI and suffers from the fundamental lack of creativity only humans can display.

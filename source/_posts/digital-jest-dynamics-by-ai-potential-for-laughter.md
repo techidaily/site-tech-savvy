@@ -1,7 +1,7 @@
 ---
 title: "Digital Jest Dynamics by AI: Potential for Laughter?"
-date: 2024-09-02T20:42:08.542Z
-updated: 2024-09-03T20:42:08.542Z
+date: 2024-09-06T23:30:23.626Z
+updated: 2024-09-07T23:30:23.626Z
 tags:
   - chatgpt
   - open-ai
@@ -23,10 +23,22 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
 
  But can it make us laugh? Laughter is a base human response to emotional stimuli. This makes it a perfect test for AIs continuing development. So, let's put AI under the spotlight and see if it can generate more than just words but an emotional response in the form of laughter.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Does ChatGPT Generate Comedy?
 
 ![Screenshot of AI Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-ai-joke.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Laughter is all about fun. So, let's have a little fun as we go. At the end of each section, we will list two jokes. One will be our corny attempt at humor, and the other will be an AI-generated joke. But will you be able to tell the difference?
 
  At the end of the article, all will be revealed.
@@ -42,6 +54,12 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
 * **Joke One:** A snake walks into a bar – The barman says to it, "how did you do that?"
 * **Joke Two:** A man walks into a bar with a piece of asphalt under his arm. He says to the bartender, "I'll take a beer and one for the road."
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Can ChatGPT Do?
 
 ![Screenshot of ChatGPT Knock Knock Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-knock-knock-joke.jpg)
@@ -58,16 +76,15 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
 * **Joke Four:** Knock Knock! _Who's there?_ Boo. _Boo who_? Don't cry, it's just a computer program making jokes!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Can't ChatGPT Do?
 
 ![Screenshot ChatGPT Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-chatgpt-joke.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When it comes to comedy and laughter, there is still plenty that AI can't do. For instance, human nature means that we often laugh at things that shouldn't be funny. A browse through "fail videos" on YouTube illustrates this point perfectly.
 
  This is the crux of the matter; there are still plenty of limitations when it comes to AI making us laugh. For example, would AI think someone crashing a tree down on their house was funny? Not yet, as there are contextual problems here that AI still hasn't overcome. Here are some of the laughter-related things that AI can't do.
@@ -82,20 +99,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * **Joke Six:** I saw this advert in a window that said: "Television for sale, $1, volume stuck on full." I thought, "I can't turn that down."
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Is the Future of AI In Comedy?
 
 ![Screenshot AI Joke about the future of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-ai-joke-about-the-future-of-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are moral and ethical implications to consider here. However, these fall outside the scope of the question that this article poses: Can AI make us laugh?
 
  AI is being used to create artwork, music, and text. Many of the limitations that AI is experiencing in these fields are magnified in comedy. Comedy has subtleties that perhaps a nice melody or a pretty picture doesn't. Granted, there is subtlety in all forms of artwork that determine the success or failure of the piece, but comedy requires a deeper understanding of humanity's response to situations.
@@ -110,7 +122,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * **Joke Eight:** Why did the computer go to the doctor? Because it had a virus!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The Last Laugh
 

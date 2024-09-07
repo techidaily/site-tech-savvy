@@ -1,7 +1,7 @@
 ---
 title: "True Insights: Free PC Game Guide"
-date: 2024-09-02T20:49:17.861Z
-updated: 2024-09-03T20:49:17.861Z
+date: 2024-09-06T23:30:16.971Z
+updated: 2024-09-07T23:30:16.971Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,18 @@ excerpt: "This Article Describes True Insights: Free PC Game Guide"
 thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4e17b1b94150ffa9569118d6.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## True Insights: Free PC Game Guide
 
  Has Elon Musk gone too far with the new Twitter verification program? And what did police find when they raided Mullvad VPN? We've got the answers to these questions and a list of the best free PC games. PLUS: how do mechanical keyboards work, and do you need one?
@@ -23,58 +35,11 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
-## Shownotes
-
- This week, we chat about the following tech news that matters:
-
-* [Elon Musk Threatens to Sue Microsoft](https://www.bbc.com/news/business-65332207)
-* [Elon Musk Pays for Celebrity Blue Ticks](https://www.theguardian.com/technology/2023/apr/21/elon-musk-pays-stephen-king-lebron-james-keep-twitter-blue-ticks)
-* [TruthGPT Announced by Elon Musk](https://www.makeuseof.com/what-is-truthgpt/)
-* [Mullvad VPN Raided by Police](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
-
- We've got these tips and explainers:
-
-* [Best Free PC Games](https://www.makeuseof.com/tag/best-free-pc-games/)
-* [How Does a Mechanical Keyboard Work?](https://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/)
-
- We finish the show with the following recommendations:
-
-* [Monty Python Fluxx](https://www.looneylabs.com/games/monty-python-fluxx)
-* [Drop+ Lord of the Rings Mechanical Keyboard](https://drop.com/featured/lotr)
-
- Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-## Shownotes
-
- This week, we chat about the following tech news that matters:
-
-* [Elon Musk Threatens to Sue Microsoft](https://www.bbc.com/news/business-65332207)
-* [Elon Musk Pays for Celebrity Blue Ticks](https://www.theguardian.com/technology/2023/apr/21/elon-musk-pays-stephen-king-lebron-james-keep-twitter-blue-ticks)
-* [TruthGPT Announced by Elon Musk](https://www.makeuseof.com/what-is-truthgpt/)
-* [Mullvad VPN Raided by Police](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
-
- We've got these tips and explainers:
-
-* [Best Free PC Games](https://www.makeuseof.com/tag/best-free-pc-games/)
-* [How Does a Mechanical Keyboard Work?](https://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/)
-
- We finish the show with the following recommendations:
-
-* [Monty Python Fluxx](https://www.looneylabs.com/games/monty-python-fluxx)
-* [Drop+ Lord of the Rings Mechanical Keyboard](https://drop.com/featured/lotr)
-
- Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Shownotes
 
@@ -102,7 +67,78 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Shownotes
+
+ This week, we chat about the following tech news that matters:
+
+* [Elon Musk Threatens to Sue Microsoft](https://www.bbc.com/news/business-65332207)
+* [Elon Musk Pays for Celebrity Blue Ticks](https://www.theguardian.com/technology/2023/apr/21/elon-musk-pays-stephen-king-lebron-james-keep-twitter-blue-ticks)
+* [TruthGPT Announced by Elon Musk](https://www.makeuseof.com/what-is-truthgpt/)
+* [Mullvad VPN Raided by Police](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
+
+ We've got these tips and explainers:
+
+* [Best Free PC Games](https://www.makeuseof.com/tag/best-free-pc-games/)
+* [How Does a Mechanical Keyboard Work?](https://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/)
+
+ We finish the show with the following recommendations:
+
+* [Monty Python Fluxx](https://www.looneylabs.com/games/monty-python-fluxx)
+* [Drop+ Lord of the Rings Mechanical Keyboard](https://drop.com/featured/lotr)
+
+ Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Shownotes
+
+ This week, we chat about the following tech news that matters:
+
+* [Elon Musk Threatens to Sue Microsoft](https://www.bbc.com/news/business-65332207)
+* [Elon Musk Pays for Celebrity Blue Ticks](https://www.theguardian.com/technology/2023/apr/21/elon-musk-pays-stephen-king-lebron-james-keep-twitter-blue-ticks)
+* [TruthGPT Announced by Elon Musk](https://www.makeuseof.com/what-is-truthgpt/)
+* [Mullvad VPN Raided by Police](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
+
+ We've got these tips and explainers:
+
+* [Best Free PC Games](https://www.makeuseof.com/tag/best-free-pc-games/)
+* [How Does a Mechanical Keyboard Work?](https://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/)
+
+ We finish the show with the following recommendations:
+
+* [Monty Python Fluxx](https://www.looneylabs.com/games/monty-python-fluxx)
+* [Drop+ Lord of the Rings Mechanical Keyboard](https://drop.com/featured/lotr)
+
+ Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Shownotes
 

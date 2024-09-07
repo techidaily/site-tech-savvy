@@ -1,7 +1,7 @@
 ---
 title: Essential Digital Helpers to Sharpen Prompt Engineering
-date: 2024-09-02T20:44:34.280Z
-updated: 2024-09-03T20:44:34.281Z
+date: 2024-09-06T23:30:21.518Z
+updated: 2024-09-07T23:30:21.518Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,18 @@ thumbnail: https://thmb.techidaily.com/f0dc51740b5d64f8e45bae652924b8d0b0eb3f851
 
 ![Generating an Image of a Dog Eating Hotdogs on Playground AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/playground-ai-generating-images.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Although Midjourney is a reliable text-to-image generator, it’s quite pricey. Aspiring prompt engineers might not want to buy tools they’ll rarely use.
 
  If you’re just studying AI art, try Playground AI. The platform lets you generate 1,000 images with Stable Diffusion 1.5, Stable Diffusion 2.1, and Playground V1 daily. You can also adjust output parameters, e.g., prompt guidance and seed.
@@ -49,6 +61,12 @@ thumbnail: https://thmb.techidaily.com/f0dc51740b5d64f8e45bae652924b8d0b0eb3f851
 
 ![Using GPTtools Comparison Tool to Compare Q&A on LLMs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gpttools-comparison-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  While OpenAI Playground lets you test different GPT-3 models, it has a plain interface. Scrolling up and down makes data comparison challenging. Reading more than three outputs wastes much time because they’re listed vertically.
 
  For easy results analyses, try Comparison Tool by GPTtools. Like OpenAI Playground, it lets you adjust the key parameters of output generation, e.g., GPT-3 models, stop sequence, and temperature. You can also select sample inputs.
@@ -58,15 +76,21 @@ thumbnail: https://thmb.techidaily.com/f0dc51740b5d64f8e45bae652924b8d0b0eb3f851
  Since lengthy reports might take days to track, organize them properly. [Create an OpenAI account](https://www.makeuseof.com/openai-api-guide-what-can-you-do/), generate API keys, and sort them according to their project types.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. PromptBase
 
 ![Searching for AI Prompts on Promptbase Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/promptbase-marketplace-all-results.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  AI has significantly advanced over the past years, but the industry is still evolving. Global tech leaders have just started releasing AI-driven tools. Aspiring prompt engineers might not find many openings yet, especially among smaller tech startups.
 
  To make extra money writing prompts, sign up for PromptBase. It’s one of the most established prompt marketplaces online—you’ll find hundreds of thousands of paid prompts. You can start selling after making an account.
@@ -75,13 +99,27 @@ thumbnail: https://thmb.techidaily.com/f0dc51740b5d64f8e45bae652924b8d0b0eb3f851
 
  Also, sell prompts that solve problems. Identify what AI users commonly complain about, create ways to overcome these roadblocks, then market the prompts online.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. GitHub
 
 ![Searching Github Repositories for ChatGPT Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt-prompts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Anyone interested in AI needs a GitHub account. It features a massive database of LLMs, programming, coding, and prompt engineering resources. You’ll find infinite repositories discussing these topics.
 
@@ -94,7 +132,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Searching for Dog Pictures on Google With Find Anything Extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/find-anything-extension-on-google-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Text-to-image generators](https://www.makeuseof.com/ai-text-to-art-generators/) help you visualize concepts, but their output doesn’t follow standard copyright laws. You can’t [claim ownership of AI-generated art](https://www.makeuseof.com/copyright-rules-ai-art/). AI tools pull elements from existing content, many of which might be copyright-protected.
 
@@ -105,12 +152,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Or better yet, solely use Find Anything for art inspiration. Running it requires less technical know-how than Midjourney—beginners can practice testing text-to-image prompts here.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Eye for AI
 
 ![Generating Skull and Flower Image on EyeforAi Image Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/eyeforai-image-generator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you need an affordable Midjourney alternative, try Eye for AI. It uses the Stable Diffusion 1.5 model by default, and you can start generating images right from the get-go. Just input your text prompts. You could also select helpful descriptors to improve output accuracy.
 
  Although convenient, we discourage running text-to-image prompts on Eye for AI’s default settings. Otherwise, you’ll generate distorted, inaccurate images. Train the platform yourself to maximize its full potential.
@@ -119,9 +175,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Please use AI image generators responsibly. Creating deepfakes to spread misinformation and damage a person’s reputation has legal consequences.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Write Better Prompts With the Right Tools
 
  Prompt engineering is an art and a science. Good communication skills help you convey vague, ambiguous ideas clearly, but you can’t solely rely on them. Coming up with great prompt ideas takes time. If you hit a creative block, keep the process going by studying language models, reading other prompts, and testing various AI platforms.

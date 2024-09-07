@@ -1,7 +1,7 @@
 ---
 title: "Generative AI Simplified: Core Ideas Exposed"
-date: 2024-09-02T20:51:28.987Z
-updated: 2024-09-03T20:51:28.987Z
+date: 2024-09-06T23:30:14.446Z
+updated: 2024-09-07T23:30:14.446Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,12 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
  One of the most fascinating aspects of using a [generative AI tool like ChatGPT or Google's Bard AI](https://www.makeuseof.com/chatgpt-vs-google-bard/) is the ability of these tools to generate content that matches your request. You ask ChatGPT to write a poem in the style of William Shakespeare, and you get something strikingly similar to Shakespeare's work. You ask it to create a speech in the style of Donald Trump, and you'd get something that impressively mimics the tone of the former US president. So, how is this possible? How is generative AI able to pull off such a fascinating feat?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Generative AI Works
 
  The working mechanism of a generative AI model involves a complex interplay of various deep-learning techniques and algorithms. The exact details of how a generative model works depend on its goals and the underlying architecture. For instance, a generative model for generating audio snippets will have a different working mechanism from one meant for generating videos or text.
@@ -42,35 +48,53 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  So if you want to create a generative AI model that generates pictures of cars, you'd have to feed the model a huge dataset of car images. To create an impressive model, you'd need to feed it pictures of as many car brands and models as you can think of. With enough training, the algorithm will learn what each car brand or model looks like, and we'll be able to create images of almost any car you can think of on demand.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Popular Generative AI Models
 
  There are hundreds of generative AI models currently in development or already being deployed in the consumer AI market. Some of the popular ones you should know of include:
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Generative Pre-Trained Transformer (GPT)
 
 ![chatgpt 4 answer question on number of data points june 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-4-answer-question-on-number-of-data-points-june-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  GPT, developed by OpenAI, is among the most recognizable names in the generative AI space. Its popularity hinges on its effectiveness as a conversational AI model and the viral success of the ChatGPT chatbot, which uses GPT as its underlying technology. It is a large language model designed to generate human-like text when prompted. Typical of any generative AI model, [all iterations of the GPT model](https://www.makeuseof.com/gpt-models-explained-and-compared/) have been trained on a massive amount of diverse text data.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Pathways Language Model (PaLM)
 
  PaLM, an experimental large language model by Google, is a powerful generative AI model capable of performing a large range of tasks like creative writing, code generation, language translation, and a number of other text-based natural language tasks. Like GPT, PaLM was trained on a large corpus of text data sourced from a wide array of sources across the web. It is [the AI model that powers Google's Bard AI](https://www.makeuseof.com/what-is-google-palm-2/).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Music Language Model (MusicLM)
 
  MusicLM is another generative AI model from Google. It is designed to generate "high-fidelity" music from simple text prompts. Trained on thousands of hours of music across various genres, the generative model can create unique music by using simple descriptions of the music you need as inputs. If you're wondering how good it is, here's [our review of the MusicLM model](https://www.makeuseof.com/google-musiclm-overview-how-to-use/).
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. DALL-E
 
 [DALL-E is OpenAI's AI image generation model](http://www.makeuseof.com/what-is-dall-e-ai-image-generator/) designed to create multiple styles of unique imagery from text prompts. It is a multimodal implementation of the GPT model, trained on numerous text-image pairs from various sources across the internet.
@@ -78,7 +102,10 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  Beyond generative AI models, you'll also find generative AI products like Midjourney, DALL-E image generator, Stable Diffusion image generator, Hugging Chat, and several other impressive AI products powered by generative AI models.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Why Has Generative AI Exploded In Popularity?
 
@@ -90,10 +117,6 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
  Generative AI tools such as Bing AI, Google's Bard, DALL-E, ChatGPT, and Midjourney have seamlessly woven themselves into the fabric of our daily lives, constantly presenting us with their remarkable creations. Whether it's the captivating write-ups crafted by ChatGPT or the astonishingly lifelike images conjured by Midjourney, generative AI has become an ever-present companion, accompanying us day in and day out. This is the genesis of the recent popularity of generative AI.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Embrace Generative AI
 
  The popularity of generative AI tools is not a fad. Unlike some recent technological trends that gained popularity and fizzled away with time, generative AI is a technology that holds actual practical benefits. As this resurgent technology niche snuggles its way into almost all aspects of our digital life, it's best to seek out ways to make the best use of the technology rather than being puzzled about it.

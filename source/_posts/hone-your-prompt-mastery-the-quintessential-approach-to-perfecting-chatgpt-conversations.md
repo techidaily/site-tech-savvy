@@ -1,7 +1,7 @@
 ---
 title: "Hone Your Prompt Mastery: The Quintessential Approach to Perfecting ChatGPT Conversations"
-date: 2024-09-02T20:50:49.044Z
-updated: 2024-09-03T20:50:49.044Z
+date: 2024-09-06T23:30:15.368Z
+updated: 2024-09-07T23:30:15.368Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
 
  While ChatGPT is intelligent, its responses are dictated by the question or prompt you've entered. And like learning Google search operators to get the best search results, you'll need to learn how to frame prompts for ChatGPT to give you the best responses, also known as Prompt Engineering (PE). It can be a little complicated for beginners, but that's why several experienced users online share how to write ChatGPT prompts for the best answers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1. Prompts.Chat
 
 ![Prompts.Chat is a collection of the best ChatGPT prompts for myriad uses, which you can edit on the site for your specific query and then copy-paste into the AI tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-prompts-chat-advanced.jpg)
@@ -33,10 +39,28 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
 
  Akin has also written a free (or pay-what-you-want) ebook for beginners called [The Art of ChatGPT Prompting](https://fka.gumroad.com/l/art-of-chatgpt-prompting) . It takes you step-by-step through the ChatGPT process of understanding what the AI does, why prompts are essential, and the principles of good PE. Akin also shares his "Act as…" hack for making ChatGPT behave the way you want without overloading it with too much information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. QuickRef ChatGPT Cheat Sheets
 
 ![QuickRef's ChatGPT cheat sheet offers free examples and templates of prompts for ChatGPT across various categories and uses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-quickref-cheat-sheets.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  QuickRef is a website with cheat sheets for different apps or programming languages, like Google Search, Sheets, Excel, JavaScript, Python, etc. These are added mainly by regular users from the community. The latest cheat sheet in its impressive lineup is ChatGPT, with a series of prompts and tips for the AI. You won't learn the process of PE here, but it's a good reference when you're stuck.
 
  QuickRef's ChatGPT cheat sheet is divided into several categories: General, Coding, Email, Spreadsheets, Social Media, Reading, Design, Analyzing Data, Paid ads, Amazon FBA, Writing / Blogging, Teachers / Course Creators, YouTube, and Research. Each prompt has a basic headline telling you what it will do, followed by the prompt you can copy-paste into ChatGPT.
@@ -44,33 +68,21 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
  Multiple words or phrases of each prompt are replaceable to customize it for your query. The must-fill parts are marked in brackets for you to replace the original text, while optional replacements are colored red or blue.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3. Adrian Twarog
 
 ![Adrian Twarog's "Ultimate ChatGPT Resource Guide" is the best free series of YouTube lessons to learn how to write ChatGPT prompts and then use it in advanced applications, or even to make your own ChatGPT clone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-adrian-twarog.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  YouTuber Adrian Twarog has quite a following for his how-to and tutorial videos on myriad topics like web development, apps, and AI. He deep-dived into the system and has already made videos on creating a ChatGPT clone or making your Discord bot with the OpenAI models. Naturally, this requires understanding the core principles of how ChatGPT works, and he's imparting all that knowledge in a series of YouTube videos.
 
  In the Ultimate ChatGPT Resource Guide, Twarog explains what ChatGPT is in a quick five-minute video before moving on to a 35-minute crash course on how to use ChatGPT. In the second video, Twarog covers a lot on how to use prompts, focusing on use-case scenarios like summarization, templates, short stories, JavaScript, resumes, and blogging or editing. You'll need to go through both of these to understand the basics before moving on in the series.
 
  The third video, titled Advanced ChatGPT Guide, is the one you want to pay particular attention to if you want to understand advanced prompts. Twarog goes into details of prompt engineering with a series of examples. Even if the examples aren't what you want to do with ChatGPT, go through these as an exercise to truly understand the finer points of composing a prompt.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4. Micah Johns
 
  Twarog's series is definitely the best if you want to deep-dive into how ChatGPT works and its advanced uses. But if you're only going to use it for more practical day-to-day stuff for your job or hobbies, the YouTube series by Micah Johns is a more beginner-friendly way to learn PE for ChatGPT.
@@ -82,16 +94,21 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
  Micah's larger [How to Use ChatGPT playlist](https://www.youtube.com/playlist?list=PLRc1YiX2Z0mpeXlmv6n7ZsVPVn-2etOua) has several other real-world applications for ChatGPT. For example, you'll learn how to write a 5-page essay in 10 minutes with AI or make your superhero comic with ChatGPT and Midjourney, one of the [best free AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5. Learn Prompting
 
 ![Learn Prompting is a free online course for beginner, intermediate, or advanced AI users to learn all aspects of prompt engineering](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-learn-prompting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  Learn Prompting is a free online course to understand how to write prompts for any AI app, not just ChatGPT. Sander Schulhoff, a computer science student at the University of Maryland, designed it. It caters to a range of users, from complete novices to those with domain expertise or programming knowledge.
 
  The course is entirely text-based, with chapters that take you through different aspects of AI prompting. Schulhoff defines PE as "How to talk to AI to get it to do what you want." The Basics and Intermediate chapters will take you through the founding principles of PE with theory, tricks and tips, and examples.
@@ -99,8 +116,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  The course then goes into advanced practices like applied prompting (contributed by users), fine-tuning, images, and more, where you'll learn techniques like Chain of Thought, Self Consistency, etc. It might sound like a lot of jargon, but it'll be clear and easy to understand if you go through the course step-by-step.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Start Learning ChatGPT With a Personal Project
 

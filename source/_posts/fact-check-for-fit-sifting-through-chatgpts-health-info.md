@@ -1,7 +1,7 @@
 ---
 title: "Fact-Check for Fit: Sifting Through ChatGPT's Health Info"
-date: 2024-09-02T20:44:30.333Z
-updated: 2024-09-03T20:44:30.333Z
+date: 2024-09-06T23:30:21.597Z
+updated: 2024-09-07T23:30:21.597Z
 tags:
   - chatgpt
   - open-ai
@@ -21,12 +21,24 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Contact a Physician
 
  For any serious or recurring issues, contact your physician or set up a telemedicine appointment. While [ChatGPT can offer reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), it can't replace a medical professional's evaluation of your particular issue.
 
 ![ChatGPT health information caveat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-health-information-caveat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When prompted, the chatbot itself will even reiterate this idea. Although [AI technology will affect the future of healthcare](https://www.makeuseof.com/ai-will-power-future-healthcare/) in a number of ways, it isn't likely to replace the human component in the near future. For the most important medical questions, continue to rely on your personal physician or healthcare provider.
 
 ## 2\. Rely on Established Medical Resources
@@ -42,7 +54,10 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
  In addition, many hospital websites also provide general medical information. If you need to fact-check any medical advice from ChatGPT or similar AI chatbots, then these trusted websites can help you learn more about nearly any health-related topic.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Be Wary of Commercial Sites
 
@@ -50,18 +65,8 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 
 ![screenshot NHS website physical activity guidelines](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-nhs-website-physical-activity-guidelines.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Those that end in .com, or commercial sites, may also provide helpful information. In many instances, however, these sites are more focused on selling you something, according to the [National Institute on Aging](https://www.nia.nih.gov/health/how-find-reliable-health-information-online). If you're trying to fact-check other information, then a nonprofit or educational site may offer more neutral facts.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 4\. Use Apps With Care
 
  When it comes to health apps, exercising caution is crucial. While official apps from hospitals and medical facilities are generally considered trustworthy, apps from companies or individuals may not always provide the most accurate or reliable information.
@@ -71,7 +76,10 @@ No advertising on the website.
  In general, health apps should complement professional medical advice—not replace it. In this instance, they may not provide the best way to fact-check information from other sources.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Take Care With Personal Sites, Influencers, and Other Individuals
 
@@ -86,7 +94,10 @@ No advertising on the website.
  If you’re trying to double-check information from ChatGPT or similar sources, however, then this may not be the best avenue in general.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Trust Your Gut
 
@@ -97,7 +108,10 @@ No advertising on the website.
  In these events, take extra care to run the provided information by a trusted medical resource (or your own physician).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Use Trusted Resources to Double-Check Health Information From ChatGPT
 

@@ -1,7 +1,7 @@
 ---
 title: Decoding the Dawn of Artificocal Intelligence
-date: 2024-09-02T20:47:26.081Z
-updated: 2024-09-03T20:47:26.081Z
+date: 2024-09-06T23:30:18.732Z
+updated: 2024-09-07T23:30:18.732Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
 ![Old, Ancient Books in Dirt and With Yellow Pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-books-yellow-pages.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Computers emerged in the mid-70s](https://www.makeuseof.com/who-built-the-first-personal-computer-and-how-does-it-compare-with-your-pc-or-laptop/), but historians trace the earliest references to AI back to the late middle ages. Scholars often wondered about future innovations. Of course, they lacked the technological resources and skills to materialize ideas.
 
 * **1305:** Theologian and Catalan mystic Ramon Llull wrote Ars Magna in the early 1300s. It details mechanical techniques for logical interreligious dialogues. The last section of Ars Magna, the Ars Generalis Ultima, explains a diagram for deriving propositions from existing information. It bears semblance to AI training.
@@ -36,6 +42,12 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
  Although the first period looking at the roots of AI covers a vast period, there are some key moments.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1900-1950: The Dawn of Modern AI
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
@@ -50,15 +62,15 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
  The dawn of modern AI fitting accumulates with Alan Turing's paper and the [Turing Test, which attempts to answer the question](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/), "Can machines think?"
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 1951-2000: Exploring the Applications of AI Technologies
 
 ![An Old and Large Supercomputer Display at the Museum](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-super-computer-display.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:CDC%5F6600%5F-%5FComputer%5FHistory%5FMuseum%5F%2830614723650%29.jpg)
 
  The term "artificial intelligence" was coined during this period. After laying the groundwork for AI, researchers began exploring use cases. Various sectors experimented with it. The technology wasn't commercially available yet—researchers focused on medical, industrial, and logistical applications.
@@ -69,13 +81,16 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 
  The middle period of AI development saw one of the most important moments of all: the coining of the term "artificial intelligence."
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2001-2010: Integrating AI Into Modern Technologies
 
 ![The Black First Generation iPhone on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/original-iphone-first-gen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone%5FFirst%5FGeneration%5F8GB%5F%283680455198%29.jpg)
 
  Consumers gained access to innovative, groundbreaking technologies that made their lives more convenient. They slowly adopted these new gadgets. The iPod replaced the Sony Walkman, gaming consoles put arcades out of business, and Wikipedia beat Encyclopædia Britannica.
@@ -89,15 +104,15 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
  Interestingly, despite this period featuring some of the most iconic tech from recent decades, AI wasn't fully on the radar for most consumers, with personal and home assistant tools like Siri and Alexa only appearing in the next period.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2011-2020: The Spread and Development of AI-Driven Applications
 
 ![Camera, Smartphone, Keyboard, an Laptop on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/various-gadgets-on-table.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Companies began developing stable AI-driven solutions during this period. They integrate AI into various software and hardware systems, like virtual assistants, grammar checkers, laptops, smartphones, and [augmented reality apps](https://www.makeuseof.com/tag/best-augmented-reality-apps-android/).
 
 * **2011:** IBM developed Watson, a question-answering computer system. The company pitted it against two former champions in Jeopardy to demonstrate its capabilities—Watson the computer won.
@@ -108,6 +123,12 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
  During this period, consumers were likely to use AI applications without even realizing it, even though visual and voice recognition tools (for most consumers) were still young. Towards the end of the decade, AI development kicked up a notch, but still not as dramatically as what was to come.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2021-Present: Global Tech Leaders Kick off the Great AI Race
 
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
@@ -120,7 +141,10 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
  There are also numerous [other AI web apps](https://www.makeuseof.com/best-ai-web-apps/) and [AI-based health apps](https://www.makeuseof.com/best-ai-apps-monitor-your-health/) available for use or in development, and so many more to come.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How AI Will Shape the Future
 

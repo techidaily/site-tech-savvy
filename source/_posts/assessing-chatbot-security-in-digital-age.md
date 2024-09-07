@@ -1,7 +1,7 @@
 ---
 title: Assessing Chatbot Security in Digital Age
-date: 2024-09-02T20:44:40.879Z
-updated: 2024-09-03T20:44:40.879Z
+date: 2024-09-06T23:30:21.401Z
+updated: 2024-09-07T23:30:21.401Z
 tags:
   - chatgpt
   - open-ai
@@ -23,12 +23,24 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
  AI chatbots aren’t perfect, but you don’t have to avoid them altogether. Here’s everything you should know about how crooks abuse ChatGPT and what you can do to stop them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Will ChatGPT Compromise Your Personal Information?
 
  Most front-end security concerns about ChatGPT stem from speculations and unverified reports. The platform only launched in November 2022, after all. It’s natural for new users to have misconceptions about the privacy and security of unfamiliar tools.
 
  According to [OpenAI’s terms of use](https://openai.com/policies/terms-of-use), here’s how ChatGPT handles the following data:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Personally Identifiable Information
 
  Rumors say that ChatGPT sells [personally identifiable information](https://www.makeuseof.com/what-is-personally-identifiable-information/) (PII).
@@ -38,7 +50,10 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
  Moreover, ChatGPT asks for minimal information. You can create an account with just your name and email address.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Conversations
 
@@ -46,17 +61,27 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
  However, OpenAI can only monitor convos for research purposes. Distributing or selling them to third parties violates its own terms of use.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Public Information
 
  According to the [BBC](https://www.sciencefocus.com/future-technology/gpt-3/), OpenAI trained ChaGPT on 300 billion words. It collects data from public web pages, like social media platforms, business websites, and comment sections. Unless you’ve gone off the grid and erased your digital footprint, ChatGPT likely has your information.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Security Risks Does ChatGPT Present?
 
@@ -72,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
  Learn to spot hacking attempts. Although email providers filter spam messages, some crafty ones could fall through the cracks. You should still know what phishing messages look like.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Data Theft
 
  ChatGPT uses an open-source LLM, which anyone can modify. Coders proficient in large language models (LLM) and machine learning often integrate pre-trained AI models into their legacy systems. Training AI on new datasets alters functionality. For instance, ChatGPT becomes a pseudo-fitness expert if you feed it recipes and exercise routines.
@@ -88,7 +110,10 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 ![Lines of Codes With Different Colors on a Black Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/lines-of-code-on-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  ChatGPT writes usable code snippets in different programming languages. Most samples require minimal modifications to function properly, especially if you structure a concise prompt. You could leverage this feature to develop apps and sites.
 
@@ -99,15 +124,15 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 ![ChatGPT Refusing to Write Code for the Trojan Virus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-trojan-virus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Meanwhile, the below photo shows that ChatGPT will give you harmful information if you phrase your prompts correctly.
 
 ![ChatGPT Writing a Code Snippet for Viruses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-code-snippet.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Intellectual Property Theft
 
  Unethical bloggers spin content using ChatGPT. Since the platform runs on advanced LLMs, it can quickly rephrase thousands of words an avoid plagiarism tags.
@@ -116,6 +141,18 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
 ![ChatGPT Paraphrasing Text to Avoid Plagiarism](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-paraphrasing.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Of course, spinning still classifies as plagiarism. Paraphrased AI articles sometimes rank by chance, but Google generally prefers original content from reputable sources. Cheap tricks and SEO hacks can’t beat high-quality, evergreen writing.
 
  Also, Google releases multiple core updates annually. It will soon focus on removing lazy, unoriginal AI-generated pieces from SERPs.
@@ -130,18 +167,24 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
 ![Asking ChatGPT to Produce Harmful Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bypassing-chatgpt-limits.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  The good news is [OpenAI hasn’t lost control of ChatGPT](https://www.makeuseof.com/openai-lost-control-chatgpt/). Its ongoing efforts in tightening restrictions stop ChatGPT from producing unethical responses, regardless of user input. Jailbreaking won’t be as easy moving forward.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Quid Pro Quo
 
 ![Searching ChatGPT on Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-play-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The rapid growth of new, unfamiliar technologies like ChatGPT creates opportunities for quid pro quo attacks. They’re social engineering tactics wherein crooks lure victims with fake offers.
 
  Most people haven’t explored ChatGPT yet. And hackers exploit the confusion by spreading misleading promotions, emails, and announcements.

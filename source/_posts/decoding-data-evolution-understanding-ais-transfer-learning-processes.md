@@ -1,7 +1,7 @@
 ---
 title: "Decoding Data Evolution: Understanding AI's Transfer Learning Processes"
-date: 2024-09-02T20:42:49.211Z
-updated: 2024-09-03T20:42:49.211Z
+date: 2024-09-06T23:30:22.992Z
+updated: 2024-09-07T23:30:22.992Z
 tags:
   - chatgpt
   - open-ai
@@ -27,12 +27,24 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 
 ![Finetuning pre-trained model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pre-trained-model.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Transfer learning is the idea of taking a pre-trained model such as BERT or one of the [different GPT models](https://www.makeuseof.com/gpt-models-explained-and-compared/) and training it on a custom dataset to work on tasks it wasn't necessarily trained to tackle.
 
  For example, you can take a pre-trained model for classifying different cat species and train it to classify dogs. Through transfer learning, training your dog-classifying model should take significantly less time and resources to become as reliable as the original cat-classifying model.
 
  This works since cats and dogs share many traits the pre-trained model can already identify. Since the cat-classifying model can identify the various traits of a cat, such as having four legs, fur coats, and prominent snouts, the dog-classifying model can skip all the training to identify those traits and inherit them from the original model. After inheriting all those neural networks, you then cut off the last layers of the trained model used to identify the more specific traits of a cat and replace them with a dataset specific to dogs.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What AI Models Can You Use for Transfer Learning?
 
  To use transfer learning, you'll need a pre-trained model. A pre-trained model is commonly known as an AI model trained for the purpose of gaining general knowledge on a particular subject or idea. These types of pre-trained models are purposely made for people to fine-tune and make more application-specific models. Some of the most popular pre-trained models are for NLP, like [BERT and GPT](https://www.makeuseof.com/gpt-vs-bert/), and computer vision, such as VGG19 and Inceptionv3\.
@@ -42,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
  You can get publicly available pre-trained models from places like TensorFlow Hub, Hugging Face, and the OpenAI model marketplace.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Benefits of Using AI Transfer Learning
 
@@ -64,15 +70,15 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
  Training an AI model from scratch is possible, but you need greater resources to do so.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How Does Transfer Learning Work?
 
 ![Transfer-Learning-Illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/final.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  In essence, there are three stages when it comes to transfer learning.
 
 * **Selecting a Pre-Trained Model:** A pre-trained model undergoes initial training using a sizable dataset from a source task, such as ImageNet, or a large collection of text. This initial training phase enables the model to acquire knowledge of general features and patterns found in the dataset. The amount of time and resources you save from transfer learning will depend on the similarities between the pre-trained model and the model you are trying to build.
@@ -82,7 +88,16 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
  There is more to it than the three stages, but this outline details roughly how the AI transfer learning process works, with some fine-tuning.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Limitations to AI Transfer Learning
 
@@ -95,7 +110,10 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
  So while transfer learning is a handy AI learning technique, limitations exist, and it isn't a silver bullet.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Should You Use Transfer Learning?
 

@@ -1,7 +1,7 @@
 ---
 title: "Interactive Bots & Your Rights: Understanding the Top 3 Concerns"
-date: 2024-09-02T20:43:43.187Z
-updated: 2024-09-03T20:43:43.187Z
+date: 2024-09-06T23:30:22.246Z
+updated: 2024-09-07T23:30:22.246Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,18 @@ excerpt: "This Article Describes Interactive Bots & Your Rights: Understanding t
 thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a663fa0800cea00c3335313c9.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Interactive Bots & Your Rights: Understanding the Top 3 Concerns
 
 ![A padlock with keyboard keys scattered around](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cybersecurity-1.jpg)
@@ -25,6 +37,12 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  Millions of people now use AI chatbots worldwide, but there are some important privacy risks and concerns to keep in mind if you want to try out one of these tools.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Data Collection
 
  Most people don't use chatbots just to say hi. Modern chatbots are designed to process and respond to complex questions and requests, with users often including a lot of information in their prompts. Even if you're only asking a simple question, you don't really want it to go beyond your conversation.
@@ -37,6 +55,12 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  But the concerns don't stop here.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How Does ChatGPT Learn?
 
  In order to provide information, large language models are trained with huge amounts of data. According to [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3), ChatGPT-4 alone was fed 300 billion words of information during its training period. This isn't taken straight from a few encyclopedias. Rather, chatbot developers use masses of information from the internet to train their models. This can include data from books, movies, articles, Wikipedia entries, blog posts, comments, and even review sites.
@@ -49,6 +73,12 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
 
  But is the case the same for GPT-4?
@@ -68,7 +98,16 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Data Theft
 
@@ -82,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Malware Infection
 
  If you're using a shady chatbot without realizing it, you may find the chatbot providing you with links to malicious websites. Maybe the chatbot has alerted you of a tempting giveaway, or provided a source for one of its statements. If the operators of the service have illicit intentions, the entire point of the platform may be to spread malware and scams via malicious links.
@@ -96,7 +132,10 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Chatbots Aren't Impervious to Privacy Issues
 

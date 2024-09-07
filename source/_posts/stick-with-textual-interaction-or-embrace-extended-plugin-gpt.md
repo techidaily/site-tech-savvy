@@ -1,7 +1,7 @@
 ---
 title: Stick with Textual Interaction or Embrace Extended Plugin GPT
-date: 2024-09-02T20:44:56.674Z
-updated: 2024-09-03T20:44:56.674Z
+date: 2024-09-06T23:30:21.148Z
+updated: 2024-09-07T23:30:21.148Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,12 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Are There Different Versions of ChatGPT?
 
  Anyone who wants to access ChatGPT uses the ChatGPT website or the mobile app. They are technically accessing the same product. However, we don't necessarily interact with the same version of the product. While there aren't drastic differences between all available versions, each one is optimized for certain tasks and may provide very different responses.
@@ -37,6 +43,12 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  So why did the first version work and the second didn't? What is the difference between the first and the second? If you haven't figured it out yet, the secret is the GPT model involved and the extra tools it can use. Beyond the name, below are some of the ChatGPT versions you should know.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The 4 ChatGPT Versions You Should Know
 
  The four ChatGPT versions you should familiarize yourself with are:
@@ -55,7 +67,10 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 ![ChatGPT running on the default GPT-3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-on-the-default-gpt-3-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  GPT-3.5 is the default version used by both free and paid-tier ChatGPT users. It can do most of what you'd expect in any version of ChatGPT. This variant, solely powered by the GPT-3.5 turbo model, is the base version of ChatGPT and has the least capabilities of all the available models.
 
@@ -63,28 +78,36 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  The ChatGPT GPT-4 model has a limit of 25 messages every three hours (although OpenAI is experimenting with this figure, and some users report up to 50 or even 100 messages every three hours). If you're planning a long prompting session spanning several hours, you might be better off using the GPT-3.5 model, which has no message limit. Although you might not enjoy as much creativity as on the GPT-4 powered ChatGPT models, you'll only notice differences in select tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. ChatGPT Running Default GPT-4
 
 ![Default ChatGPT GPT-4 model version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-chatgpt-gpt-4-model-version.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  ChatGPT using GPT-4 is superior to any ChatGPT version that runs on GPT-3.5, as it is the most advanced GPT model currently integrated with ChatGPT. GPT-4 gives ChatGPT more creativity and improved reasoning and mathematics abilities.
 
  It is perfect for tasks requiring better mathematical abilities or enormous creativity, like writing a book, crafting unique jokes, or writing a speech. It also has improved programming abilities. For example, if you write code, you can fall back to this version if you have programming-related challenges.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 3\. ChatGPT Running GPT-4 Plus Web Browsing
 
 ![ChatGPT with web browising powered by Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-with-web-browising-powered-by-bing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  ChatGPT with web browsing inherits all the abilities of the default GPT-4 version with the additional ability to access the internet. With this version, you can access and use data anywhere on the internet in real time, giving you access to information beyond ChatGPT's knowledge base. This allows ChatGPT to significantly expand the number of topics it can handle, far beyond the limits of its training data.
 
  When should you use this version of ChatGPT? [Turning on ChatGPT's browsing abilities](https://www.makeuseof.com/how-to-turn-on-chatgpt-new-web-browsing-and-plugins-feature/) opens up the chatbot to endless possibilities. One of the key use cases is whenever you need to complete a task that needs access to up-to-date and factual information. Also, if you also need sources to be cited in your ChatGPT responses, this version can handle that.
@@ -92,7 +115,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  In July 2023, due to abuse, OpenAI temporarily disabled the browsing feature.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. ChatGPT Running GPT-4 with Plugins
 
@@ -103,7 +129,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  From everything like [using ChatGPT to chat with a PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) to creating memes, you'll find a host of ChatGPT Plugins on the plugin store that does much of what you want to achieve. The list of available plugins is actively growing, and with it, the list of new things you can achieve with this version of ChatGPT. Here are some of [the best ChatGPT plugins you can try right now](https://www.makeuseof.com/best-chatgpt-plugins/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Which ChatGPT Version Is the Best?
 

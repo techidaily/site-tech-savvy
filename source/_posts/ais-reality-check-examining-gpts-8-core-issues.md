@@ -1,7 +1,7 @@
 ---
 title: "AI's Reality Check: Examining GPT’s 8 Core Issues"
-date: 2024-09-02T20:50:09.146Z
-updated: 2024-09-03T20:50:09.146Z
+date: 2024-09-06T23:30:16.134Z
+updated: 2024-09-07T23:30:16.134Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes AI's Reality Check: Examining GPT’s 8 Core Is
 thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4fbcec56dcebaeb9d186f784.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI's Reality Check: Examining GPT’s 8 Core Issues
 
  ChatGPT is a powerful AI chatbot that is quick to impress, yet plenty of people have pointed out that it has some serious pitfalls.
@@ -25,6 +31,12 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
  With no sign of AI development slowing down, the problems with ChatGPT are even more important to understand. With ChatGPT set to change our future, here are some of the biggest issues.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is ChatGPT?
 
  ChatGPT is a large language model designed to produce natural human language. Much like conversing with someone, you can talk to ChatGPT, and it will remember things you have said in the past while also being capable of correcting itself when challenged.
@@ -45,6 +57,12 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![Three open padlocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/security-lock-privacy-breach.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The watchdog organization suspected that European privacy regulations were being breached. After investigating the issue, it requested that OpenAI meet several demands to reinstate the chatbot.
 
  OpenAI eventually resolved the issue with regulators by making several significant changes. For a start, an age restriction was added, limiting the use of the app to people 18+ or 13+ with guardian permission. It also made its Privacy Policy more visible and provided an [opt-out Google form](https://docs.google.com/forms/d/e/1FAIpQLScrnC-%5FA7JFs4LbIuzevQ%5F78hVERlNqqCPCt3d8XqnKOfdRdQ/viewform) for users to exclude their data from its training or [delete ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) entirely.
@@ -54,7 +72,10 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
  You might not think that you would share your personal details so easily, but we're all susceptible to a slip of the tongue, and a good example of this is how a [Samsung employee shared company information with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Concerns Over ChatGPT Training and Privacy Issues
 
@@ -70,13 +91,16 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
  Unless OpenAI publishes its training data, the lack of transparency makes it difficult to know whether it was done lawfully. We don't know the details about how ChatGPT is trained, what data was used, where the data comes from, or what the system's architecture looks like in detail.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Generates Wrong Answers
 
 ![A sheep in front of a blackboard with a wrong math equation displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wrong-math-answer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It fails at basic math, can't seem to answer simple logic questions, and will even go as far as to argue completely incorrect facts. As people across social media will attest, ChatGPT can get it wrong multiple times.
 
 [OpenAI](https://openai.com/blog/chatgpt/) knows about this limitation, writing that: "ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers." This "hallucination" of fact and fiction, as it's been referred to, is especially dangerous regarding things like medical advice or getting the facts right on key historical events.
@@ -91,9 +115,6 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
  You can see more hilarious hallucinations in our comparison between [ChatGPT vs. Microsoft Bing AI vs. Google Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/). It's not hard to imagine people using ChatGPT to get quick facts and information, expecting those results to be true. But so far, ChatGPT can't get it right, and teaming up with an equally inaccurate Bing search engine only made things worse.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 4\. ChatGPT Has Bias Baked Into Its System
 
  ChatGPT was trained on the collective writing of humans across the world, past and present. Unfortunately, this means that the same biases in the real world can also appear in the model.
@@ -109,7 +130,16 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
  By contrast, a similar AI chatbot called Sparrow—owned by Google's parent company, Alphabet—was released in September 2022\. However, it was purposely kept behind closed doors because of similar safety concerns. Around the same time, Facebook released an AI language model called Galactica, intended to help with academic research. However, it was rapidly recalled after many people criticized it for outputting wrong and biased results related to scientific research.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. ChatGPT Might Take Jobs From Humans
 
@@ -149,6 +179,12 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![Close-up of computer code on a screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-scammers-malware.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The rate at which ChatGPT can produce information has already caused problems for Stack Exchange, a website dedicated to providing correct answers to everyday questions. Soon after ChatGPT was released, users flooded the site with answers they asked ChatGPT to generate.
 
  Without enough human volunteers to sort through the backlog, it would be impossible to maintain a high level of quality answers. Not to mention, many of the answers were incorrect. To avoid the website being damaged, a ban was placed on all answers generated using ChatGPT.
@@ -156,8 +192,10 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
  The spread of fake information is a serious concern, too. The scale at which ChatGPT can produce text, coupled with the ability to make even incorrect information sound convincingly right, makes everything on the internet questionable. It's a critical combination that amplifies [the dangers of deepfake technology](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8\. OpenAI Holds All the Power
 
@@ -170,29 +208,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![ChatGPT explains whether AI code should be made open source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-ai-chat-gpt-open-source.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  While OpenAI considers safety a high priority, there is a lot that we don't know about how the models themselves work, for better or worse. At the end of the day, the only choice we have is to unquestioningly trust that OpenAI will research, develop, and use ChatGPT responsibly.
 
  Whether we agree with its methods or not, it's worth remembering that OpenAI is a private company that will continue developing ChatGPT according to its own goals and ethical standards.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Tackling AI's Biggest Problems
 
  There is a lot to be excited about with ChatGPT, but beyond its immediate uses, there are some serious problems.

@@ -1,7 +1,7 @@
 ---
 title: Unveiling My Podcast Story with Text Mentorship
-date: 2024-09-02T20:44:57.951Z
-updated: 2024-09-03T20:44:57.951Z
+date: 2024-09-06T23:30:21.131Z
+updated: 2024-09-07T23:30:21.131Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/7bb012b92de4ee113b8b2224a3e1b18d05f55b62d
 
  But can AI write a podcast? What happens when you ask ChatGPT to create a podcast script? To find out, MakeUseOf’s podcast team agreed to use ChatGPT to script an episode of the show.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why We Used ChatGPT for a Podcast Script
 
  Since the launch of ChatGPT 3.5, generative AI has become a popular topic. MakeUseOf’s [Really Useful Podcast](https://www.makeuseof.com/tag/rup/) has regularly discussed ChatGPT and other forms of AI, so it made sense to find a new way of approaching the topic.
@@ -43,24 +49,36 @@ thumbnail: https://thmb.techidaily.com/7bb012b92de4ee113b8b2224a3e1b18d05f55b62d
 
  This risked making the end product sound very different to every other show, but it was worth it to find something to add to the list of [things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 3 Limitations With ChatGPT’s Scriptwriting Abilities
 
 ![Script by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-script.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Finding ways to pose the instructions that would create a usable script revealed various limitations to ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### 1\. Topical Writing Isn’t Possible
 
  ChatGPT 3.5 is unsuitable for topical writing. It has been [trained on a dataset that contains material up to September 2021](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/), so the shortcoming here is obvious.
 
  For the Really Useful Podcast, this meant that the show’s news section would remain conversational. Instead, the introduction to the section would be created with ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. ChatGPT Doesn’t Quite Understand
 
  Generative AI can be a problem for editors; while some publications are replacing writers with AI, others are not. The reason? Well, it doesn’t give you the same insight a human writer can add to an explainer, guide, or set of steps.
@@ -72,12 +90,10 @@ thumbnail: https://thmb.techidaily.com/7bb012b92de4ee113b8b2224a3e1b18d05f55b62d
  (Of course, ChatGPT cannot understand in the human sense of the word.)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. ChatGPT Does Not Recommend
 
@@ -85,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/7bb012b92de4ee113b8b2224a3e1b18d05f55b62d
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-recommend-fail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  Variations were attempted, but all resulted in largely the same response. Unperturbed, the recorded podcast featured a shortened version of this “script.”
 
 ## How the ChatGPT-Scripted Podcast Turned Out
@@ -123,7 +136,10 @@ thumbnail: https://thmb.techidaily.com/7bb012b92de4ee113b8b2224a3e1b18d05f55b62d
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-news.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  For the show’s middle section (explainers, tips, and tricks) the intro prompt was:
 
@@ -131,9 +147,6 @@ thumbnail: https://thmb.techidaily.com/7bb012b92de4ee113b8b2224a3e1b18d05f55b62d
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-tips.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  Finally, ChatGPT was asked to script a section on tech recommendations:
 
 > _Introduce a podcast section on recommending technology_
@@ -144,6 +157,12 @@ thumbnail: https://thmb.techidaily.com/7bb012b92de4ee113b8b2224a3e1b18d05f55b62d
 
  The finished Really Useful Podcast can be listened to on [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), and you can subscribe on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-really-useful-podcast/id1437847131). To give you an idea of how the scripted sections turned out, I’ve edited them into a compressed edition.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Should You Use ChatGPT to Write a Podcast?
 
  Having used ChatGPT to write as much of this podcast as possible, I’ve come to a few conclusions.

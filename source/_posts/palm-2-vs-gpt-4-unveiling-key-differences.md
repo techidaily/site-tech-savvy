@@ -1,7 +1,7 @@
 ---
 title: "PaLM 2 Vs. GPT-4: Unveiling Key Differences"
-date: 2024-09-02T20:49:51.454Z
-updated: 2024-09-03T20:49:51.454Z
+date: 2024-09-06T23:30:16.411Z
+updated: 2024-09-07T23:30:16.411Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes PaLM 2 Vs. GPT-4: Unveiling Key Differences"
 thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b79a76b01e4834ddb01328ea.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PaLM 2 Vs. GPT-4: Unveiling Key Differences
 
  Google unveiled the next generation of its Pathways Language Model (PaLM 2) on May 10, 2023, at Google I/O 2023\. Its new large language model (LLM) boasts a lot of improvement over its predecessor (PaLM) and might finally be ready to take on its biggest rival, OpenAI's GPT-4\.
@@ -23,6 +29,12 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 
  But just how much improvement has Google made? Is PaLM 2 the difference maker Google hopes it will be, and more importantly, with so many similar capabilities, how is PaLM 2 different from OpenAI's GPT-4?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PaLM 2 vs. GPT-4: Performance Overview
 
 [PaLM 2 is packed with new and improved capabilities](https://www.makeuseof.com/what-is-google-palm-2/) over its predecessor. One of the unique advantages PaLM 2 has over GPT-4 is that it's available in smaller sizes specific to certain applications that do not have as much onboard processing power.
@@ -31,6 +43,12 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 
 ![Neon Pink Brain Image on a Black Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/neon-pink-brain-image-on-a-black-background.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Google also claims an improvement in reasoning capabilities over GPT-4 in WinoGrande and DROP, with the former pulling a narrow margin in ARC-C. However, there's significant improvement across the board regarding PaLM and SOTA.
 
  PaLM 2 is also better at math, according to Google's 91-page [PaLM 2 research paper](https://ai.google/static/documents/palm2techreport.pdf) \[PDF\]. However, the way Google and OpenAI have structured their test results makes it difficult to compare the two models directly. Google also omitted some comparisons, likely because PaLM 2 didn't perform nearly as well as GPT-4\.
@@ -55,15 +73,18 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 
 ![the ChatGPT logo over a photograph of an essay written on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-chatgpt-logo-over-a-photograph-of-an-essay-written-on-a-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When GPT-4 is asked a question, it can produce a wide variety of responses, not all of which might be relevant to your query. To align it with the user's intent, OpenAI fine-tuned the model's behavior using reinforcement learning with human feedback.
 
  While we may not know the exact training data either of these models were trained on, we know that the training intent was very different. We'll have to wait and see how this difference in training intent differentiates between the two models in a real-world deployment.
 
  That said, the sheer volume of training data used for GPT-4 means that it has an advantage when it comes to understanding the nuances of language and should theoretically generate higher-quality outputs. However, this also means that OpenAI needs to put stronger restrictions in place to keep the model from going haywire, something that Google can avoid, considering it left potentially toxic sources out of the training data.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## PaLM 2 and GPT-4 Chatbots and Services
 
  The first portal to access both the LLMs is using their respective chatbots, PaLM 2's Bard and GPT-4's ChatGPT. That said, GPT-4 is behind a paywall with ChatGPT Plus, and free users only get access to GPT-3.5\. Bard, on the other hand, is free for all and available across 180 countries.
@@ -73,7 +94,10 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 ![Setting an emoji wallpaper on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/emoji-wallpapers-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Google I/O 2023 was filled with announcements about how PaLM 2 and generative AI integration will improve the Google Workspace experience with AI features coming to Google Docs, Sheets, Slides, Gmail, and just about every service the search giant offers. In addition, Google has confirmed that PaLM 2 has already been integrated into over 25 Google products, including Android and YouTube.
 
@@ -84,7 +108,16 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 ![A screenshot of Microsoft's Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  That's not to say that developers won't be switching to or at least trying out PaLM 2, but Google still has to play catch-up with OpenAI on that front. The fact that PaLM 2 is open-source, instead of being locked behind a paid API, means it has the potential to be more widely adopted than GPT-4\.
 
@@ -92,20 +125,12 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 
  You also get the option of double-checking Bard's responses with Google searches. However, on the performance front, the model still takes longer to generate responses as compared to the GPT-4 powered ChatGPT or Bing Chat.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Can PaLM 2 Take on GPT-4?
 
  PaLM 2 is still very new, so the answer to whether or not it can take on GPT-4 remains to be answered. However, with everything that Google is promising and the aggressive manner it has decided to use to propagate it, it does look like PaLM 2 can give GPT-4 a run for its money. With Google's ongoing development of a multimodal AI model called Gemini also in the works, it's about time for OpenAI to get on its toes.
 
  However, GPT-4 is still quite a capable model and, as mentioned before, beats PaLM 2 in quite a few comparisons. That said, PaLM 2's multiple smaller models give it an irrefutable edge. Gecko itself is so lightweight that it can work on mobile devices, even when offline. This means that PaLM 2 can support an entirely different class of products and devices that might struggle to use GPT-4\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## The AI Race Is Heating Up
 
  With the launch of PaLM2, the race for AI dominance has heated up, as this might just be the first worthy opponent to go against GPT-4\. With a newer multimodal AI model called "Gemini" also in training, Google isn't showing any signs of slowing down here.

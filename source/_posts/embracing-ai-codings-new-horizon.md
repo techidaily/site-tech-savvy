@@ -1,7 +1,7 @@
 ---
 title: "Embracing AI: Coding's New Horizon"
-date: 2024-09-02T20:48:41.918Z
-updated: 2024-09-03T20:48:41.918Z
+date: 2024-09-06T23:30:17.519Z
+updated: 2024-09-07T23:30:17.519Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Embracing AI: Coding's New Horizon"
 thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f00271cab6e02272f4110e26d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Embracing AI: Coding's New Horizon
 
  The increasing popularity of AI is undeniable, but it raises the question of how significant and relevant AI is to a developer's workflow. To shed light on this topic, Stack Overflow surveyed over 90,000 developers, seeking their views on AI. The survey yielded several noteworthy conclusions, as shown below.
@@ -21,12 +27,24 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Overall Sentiments of Developers Towards AI
 
  As mentioned, AI is growing in popularity among developers. According to the [Stack Overflow 2023 survey](https://survey.stackoverflow.co/2023/), 70% are already using or plan to use AI tools in their development process with 44% already using the tools now and 26% planning to.
 
  The views on AI differ based on the profession and the level of experience of the developer.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Profession
 
  SREs, security professionals, and game developers have unfavorable views on AI. This is possible because of security concerns brought about by feeding code or sensitive information to AI systems.
@@ -39,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Experience
 
  Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
@@ -52,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Are the Tasks Developers Are Using AI For?
 
  Developers are using AI for different tasks and these tasks vary between developers learning to code and professional developers.
@@ -65,12 +77,27 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Benefits of AI for Developers
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
 
@@ -83,15 +110,15 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Popular AI Tools That Developers Are Using in 2023
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
  Among the AI search tools, ChatGPT is the most popular tool. 79% of developers who use it want to use it again next year. Following closely behind in popularity were Bing AI and Google Bard AI.
@@ -104,9 +131,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  This slow adoption of a wide variety of AI tools can be attributed to skepticism about AI accuracy with only 2.85% of developers highly trusting AI output. This distrust can be attributed to tools like ChatGPT providing incorrect output sometimes. This output, when used, can cause significant damage to an application. When using these tools, it's always a good idea to first verify the output.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Get Started With AI in Software Development
 
  As a software developer, you can get started with AI by incorporating code generation and editing tools in your development process. [Tools like GitHub Copilot](https://www.makeuseof.com/how-github-copilot-helps-you-code/) and Tabnine suggest code snippets based on the context as you type which can significantly cut down on development time. Additionally, ChatGPT is very useful for generating utility functions, UI components, and debugging code. With the right prompts, you can even [use ChatGPT to create web apps](https://www.makeuseof.com/chatgpt-how-build-web-app/).

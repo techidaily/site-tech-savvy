@@ -1,7 +1,7 @@
 ---
 title: "Refining AI Communication: Top Prompting Methods for Better Outputs"
-date: 2024-09-02T20:49:32.767Z
-updated: 2024-09-03T20:49:32.767Z
+date: 2024-09-06T23:30:16.749Z
+updated: 2024-09-07T23:30:16.749Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,12 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 ![Screenshot of ChatGPT response to an unframed question about the sun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-response-to-an-unframed-question-about-the-sun.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The answer goes into some detail about atomic nuclei and the process of fusion. But what if your target audience was a class full of five-year-olds? This is where assigning a role can help. Let’s try it again and this time assign it the role of a teacher.
 
  The technique is simple, start by assigning a role. In this case, we told ChatGPT to assume the role of a primary school teacher.
@@ -45,6 +51,12 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
  The only limit is your imagination, and it's a fun thing to try too.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Define Your Communication Channel and Target Audience
 
  If you are looking for ChatGPT to produce some creative writing, then you can achieve far more impressive results by giving it relevant information. In this instance, you can refine the output by supplying information about the intended use of the output and some demographics of the target audience.
@@ -57,10 +69,19 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 ![Screenshot of ChatGPT response to refined needlework prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-response-to-refined-needlework-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The generated response was much more precisely tailored to suit the required output.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Chained Prompts
 
@@ -74,15 +95,30 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 ![Screenshot of ChatGPT prompt for headings and subheadings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-ot-chatgpt-prompt-for-headings-and-subheadings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  Now, we can chain our prompts to generate content for each heading. In this case, we asked for a short paragraph and three bullet points, and we also asked for the inclusion of some keywords. As you can see the response remembered that the content was for a Michigan-based company.
 
 ![Screenshot of follow up question to ChatGPT homepage headers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-follow-up-question-to-chatgpt-homepage-headers.jpg)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Using the chaining technique allows you to precisely tailor responses for more relevant results.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Format Your Output in Markdown
 
  Unless instructed to do otherwise, ChatGPT responses are generated in plain text. However, it can also handle the markup language called markdown, and if requested it will produce the requested output in this format.
@@ -93,29 +129,38 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 ![Screenshot of ChatGPT response to basic solar system article request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-response-to-basic-solar-system-article-request.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Next, we reframed the question to output the result in markdown language and to include headings and a table summarizing some of the information:
 
 ![Screenshot of ChatGPT using Markup language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-using-markup-language.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The output included a heading and subheading for each planet as we requested.
 
 ![Screenshot of ChatGPT headings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-headings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  It also included the requested table in the conclusion.
 
 ![Screenshout of ChatGPT Table of information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshout-of-chatgpt-table-of-information.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  This is a powerful way to get better-formatted output, it also works well when used in conjunction with chained prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Use ChatGPT to Generate Its Own Prompts
 
  The AI that underlies ChatGPT is incredibly powerful. So powerful, that with a few instructions, it can generate its own prompts and offer you a choice of routes for your research to go down.
@@ -124,13 +169,16 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 ![Screenshot of ChatGPT answering question about creating prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-answering-question-about-creating-prompts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ChatGPT then asked us for more detail about the purpose of the prompts. Obviously, the more detail you provide here, the more accurate the response will be. But for the sake of brevity, we kept it short and sweet.
 
 ![Screenshot of ChatGPT generating prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-generating-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  Once ChatGPT has created relevant prompts, you can use the prompt simply by referring to its number:
 
 ![Screenshot of ChatGPT exanding on a numbered prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-exanding-on-a-numbered-prompt.jpg)
@@ -145,22 +193,18 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 ![Screenshot of ChatGPT response to write 100 words on fiscal procurement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-response-to-write-100-words-on-fiscal-procurement.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Well done if you managed to stay awake when reading the response. Let’s see if we can spice it up a bit. This time we asked it to write it in a lighthearted manner and include some dry humor.
 
 ![Screenshot of lighthearted ChatGPT response on Fiscal Procurement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-lighthearted-chatgpt-response-on-fiscal-procurement.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now, while it may not have your audience rolling on the floor in laughter, it is a far more interesting reply than the previous one.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 7\. Chain-of-Thought Prompting
 
  Chain-of-Thought (CoT) prompting could be likened to a student in an exam showing their workings. It involves starting with a seed question or idea and then using the model's responses to further refine and develop the topic.
@@ -170,12 +214,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Screenshot of CoT Basic Answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-cot-basic-answer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now we can repeat the process and add some detail to the seed question:
 
 ![Screenshot of CoT ChatGPT Answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-cot-chatgpt-answer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As you can see, ChatGPT will respond and show the chain of thought that generated the correct answer.
 
 ## Using Prompt Techniques to Improve the Response From ChatGPT

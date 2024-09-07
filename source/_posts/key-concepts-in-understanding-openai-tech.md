@@ -1,7 +1,7 @@
 ---
 title: Key Concepts in Understanding OpenAI Tech
-date: 2024-09-02T20:43:13.876Z
-updated: 2024-09-03T20:43:13.876Z
+date: 2024-09-06T23:30:22.628Z
+updated: 2024-09-07T23:30:22.628Z
 tags:
   - chatgpt
   - open-ai
@@ -46,14 +46,20 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 [Crunchbase reports](https://www.crunchbase.com/organization/openai/company%5Ffinancials) that OpenAI LP has amassed over $11.3B in funding over five rounds from its founders and contributors in addition to a $1 billion investment from Microsoft in 2019\. So it's no surprise that this research company has covered huge milestones.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. ChatGPT
 
 ![ChatGPT Plus Open On a Computer Monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/andrew-neel-elegvhbtbb4-unsplash.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [ChatGPT (Chat Generative Pre-trained Transformer)](http://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) was launched on November 30, 2022\. It can be used for text generation and translation, content creation, and even casual communication.
 
@@ -63,26 +69,38 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
  The latest generation, ChatGPT-4, has 45 billion parameters, which means it has been trained in a more extensive dataset of text and code than its predecessor, making it more accurate, creative, and fluent.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. DALL-E
 
 ![DALL-E Playground Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dall-e-playground-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [DALL-E is a generative AI model](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) capable of generating images from text descriptions. It was created in January 2021 and has since undergone several improvements.
 
  The initial models could only generate images with a resolution of 256x256 megapixels and were heavily criticized and shunned for their inaccurate and blurry images. However, DALL-E 2, released in April 2022 and made public in July 2022, could create images of 1024x1024 megapixels and is more accurate and realistic than its predecessor.
 
  This AI model can generate visual content like paintings and memes for product designs, fliers, commercial and campaign posters, research, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Codex
 
 ![codex js sandbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/codex-js-sandbox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Released in 2021, Codex was based on the language model GPT-3 family—an AI model that can generate code. It could create code that is as good, or even better, than those written by human programmers.
 
  Codex was able to generate code in various programming languages, including Python and Java. It could also translate over 200 languages, text, and code, and even translate between different programming languages.
@@ -94,7 +112,16 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
  OpenAI was founded to advance AI research and prevent its monopolization. But the research company faces challenges on different fronts.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. Regulatory Issues
 
@@ -104,20 +131,28 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
  OpenAI has begun creating regulatory measures trying to prevent these scenarios. But some of these measures have also prevented the use of the models, even within normal parameters.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Secrecy vs. Openness
 
  OpenAI’s mission is to make AI accessible to all. Initially, they stuck to their mantra, publishing all of their research and advancements.
 
  However, as AI advances, so do its applications and chances of being used for malicious purposes. This has led OpenAI to try to find a balance between hiding and sharing research, despite the former going against their mission.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Ethical Issues
 
  There have been cases where [OpenAI’s models have shown biased content](https://www.makeuseof.com/does-chatgpt-lie/) due to the type of training data they were built with. Addressing this problem is complicated as it will need a lot of fine-tuning and comprehensive data selection. And even at that, it would be almost impossible to eradicate biased results.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### 4\. Competition
 
  OpenAI has numerous for-profit competitors, such as DeepMind (a subsidiary of Alphabet Inc.) and NVIDIA Corporation, which is also developing AI solutions. For OpenAI to remain at the forefront, there must be continued innovations and collaborations. This has led them to move from their non-profit declaration to a hybrid that welcomes funding.

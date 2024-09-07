@@ -1,7 +1,7 @@
 ---
 title: "Crafting AI: The Essentials of Prompt Engineering and Job Security"
-date: 2024-09-02T20:50:43.483Z
-updated: 2024-09-03T20:50:43.483Z
+date: 2024-09-06T23:30:15.464Z
+updated: 2024-09-07T23:30:15.464Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Crafting AI: The Essentials of Prompt Engineeri
 thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854aa08d5996bdfaffcb47f66d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Crafting AI: The Essentials of Prompt Engineering and Job Security
 
  AI prompt engineering has become one of the hottest jobs in the market. But is it a stable career path or just a short-lived hype? If you're interested in becoming an AI prompt engineer, read on, and learn about AI prompt engineering as an occupation.
@@ -44,12 +50,42 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![AI prompt example asking for content strategy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-26.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Notice that the example provides context along with the instruction. When asking complex questions, going direct to the question or instruction without providing the proper context won't usually give you the best output.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Does an AI Prompt Engineer Do?
 
 ![binary code background showing a woman face to face with a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As an AI prompt engineer or "AI whisperer," your task is to develop a set of inputs that an AI model can use to generate the most desirable output. As we have seen, the prompt's quality significantly affects an AI model's performance.
 
  To help an AI system give the most accurate responses to problems, AI prompt engineers train the AI with prompts. They design prompts to get the best results. As an AI Prompt Engineer, you should be able to understand the problem and select the best data sources to do these tasks.
@@ -58,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![online conversation with a customer service AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-11-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  AI prompt engineering creates more accurate and efficient language models that help people work efficiently. It's a legitimate career that helps develop the most [impressive web apps you can try right now](https://www.makeuseof.com/best-ai-web-apps/).
 
  You can train AI bots as Anna Bernstein does with Copy.ai, as shared with [Business Insider](https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3). Riley Goodside has a similar job with Scale AI, as mentioned in [The Washington Post](https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/). Here are some other ways other users have used AI prompt engineering:
@@ -72,8 +105,10 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
  There are multiple [practical uses of ChatGPT in Programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/) and other [creative ways to use ChatGPT by OpenAI](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/). But generating successful results requires knowledge of AI prompt engineering.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Is AI Prompt Engineering a Stable Career Path?
 
@@ -86,8 +121,10 @@ The ultimate burning program for all your needs!</a>
 ![screenshot of Anthropic Prompt Engineer Job Opening](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-5-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  AI prompt engineering is necessary for companies and businesses looking to leverage AI. The AI revolution has just started, so you can safely assume there will be a growing demand for AI prompt engineers as long as people use AI tools.
 
@@ -95,10 +132,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  You don't need coding skills, a tech background, or experience with AI to become an AI prompt engineer. For example, Anna Bernstein, previously mentioned in this article, is an English major and former freelance writer. To succeed in this role:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Develop Your AI Prompt Engineering Skills
 
 ![Webpage of ChatGPT, a prototype AI chatbot, is seen on the website of OpenAI, on iPhone or smartphone](https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c595922f616f6d67ab2cd3c7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This non-exhaustive skills list will be helpful for your AI career:
 
 * **Adaptability**: A person who is adaptable shows flexibility when change happens. They are also proactive in finding solutions to anticipated changes.
@@ -118,34 +167,34 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  That said, an AI prompt engineering career requires continuous learning and practice. Learning the principles while mastering the technology will help you become an AI prompt engineer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Build Your AI Prompt Engineering Portfolio
 
 ![AI prompt engineer portfolio built on Canva](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-8-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To highlight your prompt engineering skills, build an online portfolio on a website builder like Canva. Include the prompts you designed, and any other projects related to technology and AI. A strong portfolio will help you position yourself as an AI prompt engineer professional.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Start Networking and Building Your Credibility
 
 ![Five people standing and talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/people-networking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now is the best time to learn from other professionals and build credibility as an AI prompt engineer. Search online for tech industry networking events, and connect with those experimenting with generative AI. You can also use LinkedIn and YouTube to show your skills and help aspiring AI prompt engineers.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Look and Apply for Jobs
 
 ![screenshot of Joblist.ai website showing AI prompt engineering jobs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  AI prompt engineering is a new career path. But you can already start looking for jobs on these websites:
 
 * [Joblist.ai](https://www.joblist.ai/roles/prompt-engineering)

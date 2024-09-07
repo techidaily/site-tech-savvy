@@ -1,7 +1,7 @@
 ---
 title: Unlocking OpenAI's AI Secure Communication
-date: 2024-09-02T20:50:28.053Z
-updated: 2024-09-03T20:50:28.053Z
+date: 2024-09-06T23:30:15.770Z
+updated: 2024-09-07T23:30:15.770Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
 
  AI chatbots aren’t perfect, but you don’t have to avoid them altogether. Here’s everything you should know about how crooks abuse ChatGPT and what you can do to stop them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Will ChatGPT Compromise Your Personal Information?
 
  Most front-end security concerns about ChatGPT stem from speculations and unverified reports. The platform only launched in November 2022, after all. It’s natural for new users to have misconceptions about the privacy and security of unfamiliar tools.
@@ -43,24 +49,30 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
 
  However, OpenAI can only monitor convos for research purposes. Distributing or selling them to third parties violates its own terms of use.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Public Information
 
  According to the [BBC](https://www.sciencefocus.com/future-technology/gpt-3/), OpenAI trained ChaGPT on 300 billion words. It collects data from public web pages, like social media platforms, business websites, and comment sections. Unless you’ve gone off the grid and erased your digital footprint, ChatGPT likely has your information.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Security Risks Does ChatGPT Present?
 
  While ChatGPT isn’t inherently dangerous, the platform still presents security risks. Crooks can bypass restrictions to execute various cyberattacks.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Convincing Phishing Emails
 
 ![Making ChatGPT Write a Spam Email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/spam-email-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Instead of spending hours writing emails, crooks use ChatGPT. It’s fast and accurate. Advanced language models (such as GPT-3.5 and GPT-4) can produce hundreds of coherent, convincing phishing emails within minutes. They even adopt unique tones and writing styles.
 
  Since ChatGPT makes it harder to spot hacking attempts, [take extra care before answering emails](https://www.makeuseof.com/chatgpt-cybersecurity-threat/). As a general rule, avoid divulging information. Note that legitimate companies and organizations rarely ask for confidential PII through random emails.
@@ -75,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
 
  Remember: you have no control over how crooks operate. The best approach is to contact the Federal Trade Commission (FTC) once you notice [signs of identity theft](https://www.makeuseof.com/what-is-identity-theft/).
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Malware Production
 
 ![Lines of Codes With Different Colors on a Black Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/lines-of-code-on-screen.jpg)
@@ -91,17 +100,32 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
 ![ChatGPT Refusing to Write Code for the Trojan Virus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-trojan-virus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Meanwhile, the below photo shows that ChatGPT will give you harmful information if you phrase your prompts correctly.
 
 ![ChatGPT Writing a Code Snippet for Viruses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-code-snippet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Intellectual Property Theft
 
@@ -115,6 +139,12 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
 
  Also, Google releases multiple core updates annually. It will soon focus on removing lazy, unoriginal AI-generated pieces from SERPs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Generating Unethical Responses
 
  AI language models have no biases. They provide answers by analyzing user requests and pulling data from their existing database.
@@ -128,12 +158,21 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
  The good news is [OpenAI hasn’t lost control of ChatGPT](https://www.makeuseof.com/openai-lost-control-chatgpt/). Its ongoing efforts in tightening restrictions stop ChatGPT from producing unethical responses, regardless of user input. Jailbreaking won’t be as easy moving forward.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Quid Pro Quo
 
 ![Searching ChatGPT on Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-play-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The rapid growth of new, unfamiliar technologies like ChatGPT creates opportunities for quid pro quo attacks. They’re social engineering tactics wherein crooks lure victims with fake offers.
 
  Most people haven’t explored ChatGPT yet. And hackers exploit the confusion by spreading misleading promotions, emails, and announcements.
@@ -145,7 +184,16 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
  To combat quid pro quo attempts, avoid third-party apps. OpenAI never released an authorized mobile app, computer program, or browser extension for ChatGPT. Anything claiming as such is a scam.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Use ChatGPT Safely and Responsibly
 

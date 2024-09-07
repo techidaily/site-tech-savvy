@@ -1,7 +1,7 @@
 ---
 title: "Statecraft in Silicon: Four Modalities for AI Oversight"
-date: 2024-09-02T20:47:13.955Z
-updated: 2024-09-03T20:47:13.955Z
+date: 2024-09-06T23:30:19.003Z
+updated: 2024-09-07T23:30:19.003Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
  If left unchecked, AI technologies can negatively disrupt our way of life and threaten our existence. But how can governments navigate the labyrinth of challenges that comes with this rapidly evolving field?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Data Privacy and Protection Regulations
 
 ![a lock in a blue digital field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/privacy-lock-mac.jpg)
@@ -44,6 +50,12 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
 ![binary code background showing a woman face to face with a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  AI companies frequently boast about their commitment to ethical guidelines in developing AI systems. At least on paper, they are all proponents of responsible AI development. In the media, Google execs have emphasized how the company takes AI safety and ethics seriously. Similarly, "Safe and ethical AI" is a mantra for OpenAI's CEO, Sam Altman. These are quite applaudable.
 
  But who's making the rules? Who decides which AI ethical guidelines are good enough? Who decides what safe AI development looks like? Right now, every AI company seems to have its own spin on responsible and ethical AI development. OpenAI, Anthropic, Google, Meta, Microsoft, everyone. Simply relying on AI companies to do the right thing is dangerous.
@@ -56,15 +68,15 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 * That humans retain ultimate control of AI systems and their decision-making transparently.
 * AI systems are intentionally limited in ways that are advantageous to humans.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 3\. Dedicated Regulatory Agency
 
 ![engineer monitoring ssh logins on linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/engineer_monitoring_ssh_logins.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Owing to its potential impact on human civilization, discussion around AI safety typically draws parallel to the risk of a health crisis or a nuclear disaster. Avoiding potential nuclear incidents necessitates a dedicated agency like the US's NRC (Nuclear Regulatory Commission). Avoiding the risk of dangerous health crises necessitates the establishment of the FDA (Food and Drug Administration)
 
@@ -78,15 +90,20 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 * Collaboration and cross-country cooperation on AI safety and ethics
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Addressing Copyright and Intellectual Property Concerns
 
 ![An illustration of copyright thief](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/copyright-protected-illustration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Existing copyright laws and legal frameworks crumble in the face of Artificial Intelligence. The way AI tools, especially generative AI tools, are designed makes them seem like a publicly endorsed copyright infringement machine that you can't do anything about.
 
@@ -104,11 +121,10 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 * Clear pathways for collaboration with right holders. If AI systems are going to use people's intellectual property anyway, there should be clear pathways or frameworks for AI developers and rights-owners to collaborate, especially in terms of financial compensations, if the derivative work of such intellectual properties is commercialized.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## AI Regulation Is a Desperately Needed Fix
 

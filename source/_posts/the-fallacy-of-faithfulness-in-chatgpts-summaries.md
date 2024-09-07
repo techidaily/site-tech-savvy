@@ -1,7 +1,7 @@
 ---
 title: The Fallacy of Faithfulness in ChatGPT's Summaries
-date: 2024-09-02T20:48:26.164Z
-updated: 2024-09-03T20:48:26.164Z
+date: 2024-09-06T23:30:17.762Z
+updated: 2024-09-07T23:30:17.762Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,12 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
  There are limits to what ChatGPT knows. And its programming forces it to deliver what you ask for, even if the result is wrong. This means ChatGPT makes mistakes, and moreover, there are some common mistakes it makes, especially when it’s summarizing information and you’re not paying attention.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Ignore or Misunderstand Your Prompt
 
  If you give the chatbot lots of data to sort through, even a complex prompt, it’s likely to deviate from your instructions and follow its own interpretation of them.
@@ -46,17 +52,29 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 ![ChatGPT Misintepreting a Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-misintepreting-a-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The chatbot merged both answers into one paragraph. A follow-up prompt with clearer instructions asked it to dip into its knowledge pool, too.
 
 ![ChatGPT Breaking Down Information as Instructed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-breaking-down-information-as-instructed.jpg)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This is why you should keep your instructions precise, provide context when necessary, and keep an eye on ChatGPT’s results. If you flag up any mistake immediately, the chatbot can produce something more accurate.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Can Omit Information You Provide
 
  ChatGPT is smart, but it’s not a good idea to bombard it with details about a particular topic without specifying what is or isn’t important.
@@ -67,18 +85,29 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 ![ChatGPT Summarizing Holiday Destinations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-summarizing-holiday-destinations.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When asked if it omitted details, it admitted that, yes, it left certain information out, such as specific attractions and transportation options. Conciseness was its goal.
 
 ![ChatGPT Omitting Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-omitting-information.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  If left to its own devices, there’s no guarantee that ChatGPT will use the details you expect. So, plan and phrase your prompts carefully to ensure the chatbot’s summary is spot on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## ChatGPT Can Use Wrong or False Alternatives
 
@@ -91,10 +120,19 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![ChatGPT Getting a Name Wrong While Translating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-getting-a-name-wrong-while-translating.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Company names, books, awards, research links, and other elements can disappear or be altered in the chatbot’s summary. To avoid major mistakes, be aware of [ChatGPT’s content creation limits](https://www.makeuseof.com/mistakes-to-avoid-using-chatgpt-content-creation/) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Get Facts Wrong
 
  It’s important to learn all you can about [how to avoid mistakes with generative AI tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) . As the example above demonstrates, one of the biggest problems with ChatGPT is that it lacks certain facts or has learned them wrong. This can then affect any text it produces.
@@ -105,6 +143,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![ChatGPT Creating a Summary of TikTok Trends](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-creating-a-summary-of-tiktok-trends.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Most of the explanations were slightly wrong or lacked specifics about what posters must do. The description of the UMG Music trend was especially misleading. The trend changed after the catalogue’s removal from TikTok, and users now post videos to criticize, not support UMG, something which ChatGPT doesn’t know.
 
 ![ChatGPT Explaining a TikTok Trend Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explaining-a-tiktok-trend-wrong.jpg)
@@ -119,9 +163,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![ChatGPT Trying to Stick to Word Count Instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-trying-to-stick-to-word-count-instructions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  It’s not the worst mistake to expect from ChatGPT. But it’s one more factor to consider when proofreading the summaries it creates.
 
  Be specific about how long you want the content to be. You may need to add or delete some words here and there. It’s worth the effort if you’re dealing with projects with strict word count rules.

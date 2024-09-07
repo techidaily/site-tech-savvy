@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Instructions Tinkering: 7 Web-Based Tools"
-date: 2024-09-02T20:50:03.875Z
-updated: 2024-09-03T20:50:03.875Z
+date: 2024-09-06T23:30:16.207Z
+updated: 2024-09-07T23:30:16.207Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![Generating Results on OpenAI Playground Different GPT-3 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-playground-gpt-models.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Avoid recycling prompts when testing multiple AI systems. Since they use different language models and datasets, they might not yield the same results. Blindly copy-pasting prompts will only cause inconsistencies.
 
  To understand how AI models react, try your prompts on OpenAI Playground. It’s a customizable AI bot. Unlike the more popular ChatGPT, it lets you adjust the key parameters that affect output generation, including:
@@ -45,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
  Playground AI is in no way related to the OpenAI Playground. Please don’t confuse the two.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. GPTtools
 
 ![Using GPTtools Comparison Tool to Compare Q&A on LLMs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gpttools-comparison-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While OpenAI Playground lets you test different GPT-3 models, it has a plain interface. Scrolling up and down makes data comparison challenging. Reading more than three outputs wastes much time because they’re listed vertically.
 
  For easy results analyses, try Comparison Tool by GPTtools. Like OpenAI Playground, it lets you adjust the key parameters of output generation, e.g., GPT-3 models, stop sequence, and temperature. You can also select sample inputs.
@@ -63,12 +63,27 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
  Since lengthy reports might take days to track, organize them properly. [Create an OpenAI account](https://www.makeuseof.com/openai-api-guide-what-can-you-do/), generate API keys, and sort them according to their project types.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. PromptBase
 
 ![Searching for AI Prompts on Promptbase Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/promptbase-marketplace-all-results.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  AI has significantly advanced over the past years, but the industry is still evolving. Global tech leaders have just started releasing AI-driven tools. Aspiring prompt engineers might not find many openings yet, especially among smaller tech startups.
 
@@ -78,19 +93,34 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
  Also, sell prompts that solve problems. Identify what AI users commonly complain about, create ways to overcome these roadblocks, then market the prompts online.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. GitHub
 
 ![Searching Github Repositories for ChatGPT Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt-prompts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Anyone interested in AI needs a GitHub account. It features a massive database of LLMs, programming, coding, and prompt engineering resources. You’ll find infinite repositories discussing these topics.
 
  You can expand your knowledge of AI by studying various resources, but you could also focus on writing prompts. In fact, there are several [unique, effective ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/). Search whatever task you want—you’ll likely find a few formulas showing you how to execute it.
 
  To further improve your skills, collaborate with other users. Free accounts get about 2,000 minutes of Actions and 120 core hours of Codespaces a month. Play around with the site a bit. You can consider upgrading to a Pro account as you take on bigger projects.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Find Anything
 
 ![Searching for Dog Pictures on Google With Find Anything Extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/find-anything-extension-on-google-images.jpg)
@@ -103,13 +133,21 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
  Or better yet, solely use Find Anything for art inspiration. Running it requires less technical know-how than Midjourney—beginners can practice testing text-to-image prompts here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Eye for AI
 
 ![Generating Skull and Flower Image on EyeforAi Image Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/eyeforai-image-generator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you need an affordable Midjourney alternative, try Eye for AI. It uses the Stable Diffusion 1.5 model by default, and you can start generating images right from the get-go. Just input your text prompts. You could also select helpful descriptors to improve output accuracy.
 
@@ -120,7 +158,16 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
  Please use AI image generators responsibly. Creating deepfakes to spread misinformation and damage a person’s reputation has legal consequences.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Write Better Prompts With the Right Tools
 

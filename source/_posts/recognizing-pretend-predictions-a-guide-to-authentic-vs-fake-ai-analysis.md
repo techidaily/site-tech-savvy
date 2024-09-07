@@ -1,7 +1,7 @@
 ---
 title: "Recognizing Pretend Predictions: A Guide to Authentic Vs. Fake AI Analysis"
-date: 2024-09-02T20:47:08.264Z
-updated: 2024-09-03T20:47:08.264Z
+date: 2024-09-06T23:30:19.094Z
+updated: 2024-09-07T23:30:19.094Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Recognizing Pretend Predictions: A Guide to Aut
 thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e642ab24591a56b8d090783a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Recognizing Pretend Predictions: A Guide to Authentic Vs. Fake AI Analysis
 
  Artificial Intelligence (AI) hallucination sounds perplexing. You're probably thinking, "Isn't hallucination a human phenomenon?" Well, yes, it used to be a solely-human phenomenon until AI began exhibiting human characteristics like facial recognition, self-learning, and speech recognition.
@@ -23,12 +29,30 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 
  Unfortunately, AI took on some negative attributes, including hallucinations. So, is AI hallucination similar to the kind of hallucination humans experience?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is AI Hallucination?
 
  Artificial intelligence hallucination occurs when an AI model generates outputs different from what is expected. Note that some AI models are trained to intentionally generate outputs unrelated to any real-world input (data).
 
  For example, [top AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/), such as DALL-E 2, can creatively generate novel images we can tag as "hallucinations" since they are not based on real-world data.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### AI Hallucination in Large Language Processing Models
 
  Let's consider what AI hallucination would look like in a large language processing model such as ChatGPT. A ChatGPT hallucination would result in the bot giving you an incorrect fact with some assertion, such that you would naturally take such facts as truth.
@@ -42,7 +66,10 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![A ChatGPT prompt further querying where elon musk's factory is at in brazil](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181530.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### AI Hallucination in Computer Vision
 
@@ -53,12 +80,27 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![A 4x4 montage of BBQ potato chips and leaves](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-17-233958.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Here's another montage with a mix of poodle and pork floss bun images. A computer would most likely be unable to differentiate between them, therefore mixing the images.
 
 ![A 4x4 montage of poodle and pork floss bun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-17-234559.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Does AI Hallucination Occur?
 
  AI hallucination can occur due to adversarial examples—input data that trick an AI application into misclassifying them. For example, when training AI applications, developers use data (image, text, or others); if the data is changed or distorted, the application interprets the input differently, giving a wrong output.
@@ -77,15 +119,15 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 
 ![Screenshot of ChatGPT giving wrong responses to a question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/revolt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  On further probing, it kept giving wrong answers, with a high level of confidence.
 
 ![Screenshot of ChatGPT giving multiple wrong answers to a prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wrong-answer.jpg)
 
 <!-- affiliate ads begin -->
-
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  So why is ChatGPT unable to give an accurate answer to these prompts?
 
@@ -97,9 +139,6 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 
  Here are some ways to spot AI hallucinations while using common AI applications:
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Large Language Processing Models
 
 ![Picture showing Bing Chat and ChatGPT on arrowed sigsn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-showing-bing-chat-and-chatgpt-on-arrowed-sigsn.jpg)
@@ -112,15 +151,18 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As a branch of artificial intelligence, machine learning, and computer science, computer vision empowers computers to recognize and process images like human eyes. Using [convolutional neural networks](https://www.makeuseof.com/convolutional-neural-network-explained/), they rely on the incredible amount of visual data used in their training.
 
  A deviation from the patterns of the visual data used in training will result in hallucinations. For example, if a computer was not trained with images of a tennis ball, it could identify it as a green orange. Or if a computer recognizes a horse beside a human statue as a horse beside a real human, then an AI hallucination has occurred.
 
  So to spot a computer vision hallucination, compare the output generated to what a \[normal\] human is expected to see.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 3\. Self-Driving Cars
 
 ![Ford Blue Cruise 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ford-blue-cruise-2.jpg)
@@ -132,7 +174,10 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
  If you own one of such cars, you would want to know if your AI car is hallucinating. One sign will be if your vehicle seems to be deviating from its normal behavior patterns while driving. For example, if the vehicle brakes or swerves suddenly without any obvious reason, your AI vehicle might be hallucinating.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## AI Systems Can Hallucinate Too
 

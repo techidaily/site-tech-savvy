@@ -1,7 +1,7 @@
 ---
 title: "From Code to Conversation: AI' Written Tales"
-date: 2024-09-02T20:45:56.160Z
-updated: 2024-09-03T20:45:56.160Z
+date: 2024-09-06T23:30:20.210Z
+updated: 2024-09-07T23:30:20.210Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,12 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 
 ## From Code to Conversation: AI' Written Tales
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Mistral AI's Le Chat?](https://funwhole.sjv.io/9groge)
@@ -58,10 +64,22 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 
 ![ChatGPT describes itself-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-describes-itself-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And here's how Le Chat would describe itself as well:
 
 ![Le Chat Mistral describes itself](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-describes-itself.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Both responses were appropriate in their own unique ways. ChatGPT was more invested in using vivid imagery and metaphors to describe itself, demonstrating creative flair. On the other hand, Le Chat's response is very informational and focused on describing its essence as an AI chatbot. Some may say it lacks the creative flair and artistic approach that ChatGPT's response exhibits. However, I'll go out on a limb to say I prefer Le Chat's easier-to-imagine response to ChatGPT's abstract description.
 
  I then asked ChatGPT and Le Chat to write a rap song about becoming rich from growing cucumbers—a tricky request we've used to test the creativity of other chatbots. How many rap songs can you find about cucumbers on the web?
@@ -70,15 +88,15 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 
 ![ChatGPT writes rap about cocumbers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-rap-about-cocumbers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  And here's Le Chat's response:
 
 ![Le Chat Mistral writes song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-writes-song.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  It might be a subjective issue, but ChatGPT's response seemed like the better option here. Le Chat's lyrics seemed quite wordy and didn't really read like something a rapper would put out. To test how both lyrics would sound if they were to be made into music, we used [Suno AI music generator to generate music](https://www.makeuseof.com/suno-ai-make-music-from-text-prompt/) from the lyrics. Three out of three trials, ChatGPT's lyrics sounded way better. Below are two samples from both AI chatbots, you can be the judge of which chatbot did better.
 
@@ -96,6 +114,18 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 
  I tried a few other creative tasks, like poems, article writing, and drafting tricky work emails with the AI chatbots. Despite showing great promise, Le Chat was clearly outdone by ChatGPT in all instances. It's important to point out that one area Le Chat was particularly strong in was crafting articles, although with some tricky prompting styles. However, in terms of all-round creativity, the medal goes to ChatGPT.
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Le Chat vs. ChatGPT: Programming Skills
 
  Proficiency in coding has become a key requirement for major AI chatbots. Writing decent code is a baseline skill, but to truly stand out among the elite, an AI chatbot must demonstrate its prowess in crafting code that can effectively solve a diverse array of complex problems. We've previously [built an entire web app from scratch using ChatGPT](https://www.makeuseof.com/chatgpt-how-build-web-app/) which demonstrates its remarkable abilities as a programming tool. But how good is Le Chat at writing code?
@@ -104,9 +134,6 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  Each time we repeated the prompt, ChatGPT created a functional to-do list app using different styles. In no instance did the generated code fail to work.
 
  When I tried the same prompt with Le Chat, it generated what appeared to be intelligible code, but when we tried running it on a browser, it wasn't functional. After repeating the prompt three times, no instance produced code that could complete the set task. It failed in one of the most basic coding tasks—red flag!
@@ -126,15 +153,20 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 ![logical and commonsense problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/logical-and-commonsense-problem.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Le Chat tried the same task and was able to solve the problem, although using a different approach.
 
 ![Le Chat Mistral logical reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-logical-reasoning.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Both chatbots performed comparably on this test.
 
@@ -149,7 +181,10 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 ![Le Chat Mistral answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-answers-trick-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  I tried more trick questions, and it seemed both ChatGPT and Le Chat are quite adept at dealing with commonsense and logical reasoning prompts. However, with more complex logic questions, only ChatGPT could provide the right responses.
 

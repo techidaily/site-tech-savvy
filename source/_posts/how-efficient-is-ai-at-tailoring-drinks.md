@@ -1,7 +1,7 @@
 ---
 title: How Efficient Is AI at Tailoring Drinks?
-date: 2024-09-02T20:49:23.697Z
-updated: 2024-09-03T20:49:23.697Z
+date: 2024-09-06T23:30:16.904Z
+updated: 2024-09-07T23:30:16.904Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
  Years on, and with generative AI and large language models all the rage, I wanted to see if ChatGPT could be used as a virtual bartender. This meant typing various prompts into ChatGPT before sampling the cocktails it suggested I make. Making this a really difficult article to write for obvious reasons. Here's what I found...
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Cocktails and Why ChatGPT?
 
  Anyone can pour themselves a glass of beer or wine. But cocktails are generally more difficult to get right. Hence the need for either experience in making cocktails, formal lessons teaching you the craft, or a book packed full of recipes and techniques.
@@ -31,6 +37,12 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
  As long as your prompts are sound, the AI chatbot should deliver. So, let's test that theory.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing ChatGPT's Abilities as a Bartender
 
  I started out with a simple request before moving on to more difficult requests. And the results were interesting, to say the least. I have paraphrased the prompts used as there was often a back-and-forth needed to get ChatGPT to deliver.
@@ -41,18 +53,26 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
 
  You can choose any cocktail you want, but I chose the Old-Fashioned, my favorite cocktail in the world. The problem here is that ChatGPT just gave me the core, world-renowned recipe for an Old-Fashioned. So, while it was a very nice cocktail, if you already know how to make a cocktail (or know [how to search online for recipes](https://www.makeuseof.com/recipe-search-engines-based-on-time-budget-ingredients/)), this prompt is a bit of a letdown.
 
 ![ultimate-old-fashioned-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/ultimate-old-fashioned-cocktail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  I did follow up by asking for some tweaks I could make, resulting in some ideas for variations on the Old-Fashioned for another time. This included using maple syrup instead of simple syrup (as Canadians do), using flavored whiskies rather than straight bourbon or rye, and adding smoked ingredients such as oak chips.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Prompt 3: "Please Tweak a Classic Cocktail to Make It Even Better."
 
  There are dozens of classic cocktails served in bars worldwide. And while the quality of ingredients and methods vary, the core is always the same. So I wanted to see if ChatGPT could offer a twist on a classic. I chose the Pina Colada, probably my second favorite cocktail behind the Old-Fashioned. But you can choose any classic cocktail you want.
@@ -64,14 +84,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![pina-colada-with-a-twist-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pina-colada-with-a-twist-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Prompt 4: "Please Create a New, Wholly Original Cocktail."
 
  While classic cocktails have stood the test of time for a reason, plenty of new combinations of ingredients are still waiting to be discovered. Bartenders the world over try to create new cocktails with the hopes that one of their creations will prove to be so popular that it, and they, become famous.
@@ -87,7 +106,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
 
@@ -97,24 +131,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## So, Is ChatGPT Good at Making Cocktails?
 
  In a word, yes. But as with everything related to ChatGPT and [generative AI as a whole](https://www.makeuseof.com/what-is-generative-ai/), the key is providing the correct prompts and parameters. If you just want a classic cocktail recipe to follow, you can just type that into Google Search. However, ChatGPT comes into its own when you ask it to adapt cocktails or suggest small tweaks to improve the standard recipes.
 
  Every single one of its combinations worked in broad terms. There wasn't a single blend of ingredients that it suggested that led me to throw the cocktail down the sink. And that is a great start. As someone who has experimented with combining flavors, I can tell you that it's very easy to get cocktails wrong.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Three Big Takeaways From This Experiment
 
  The three things that stood out from this experiment are:
@@ -125,9 +159,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The first takeaway doesn't particularly matter (you can always make up a name afterward), and the second should be adjusted to your taste (and tolerance!). But the third is an important note concerning ChatGPT; it's only as good as the prompts it receives.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Who Needs a Mixologist When You Have ChatGPT on Hand?
 
  Ultimately, I discovered that ChatGPT is more than capable of helping you make cocktails at home. It knows what ingredients pair well together, can tweak recipes based on conversational prompts, and even create new and original cocktails.

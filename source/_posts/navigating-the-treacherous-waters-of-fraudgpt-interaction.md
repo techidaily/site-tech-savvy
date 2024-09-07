@@ -1,7 +1,7 @@
 ---
 title: Navigating the Treacherous Waters of FraudGPT Interaction
-date: 2024-09-02T20:43:21.701Z
-updated: 2024-09-03T20:43:21.701Z
+date: 2024-09-06T23:30:22.525Z
+updated: 2024-09-07T23:30:22.525Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: This Article Describes Navigating the Treacherous Waters of FraudGPT In
 thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Navigating the Treacherous Waters of FraudGPT Interaction
 
  The rise of artificial intelligence (AI) is a double-edged sword. Like every transformative technology, AI offers immense potential but also enormous risks. Despite the emphatic push to regulate AI, threat actors seem to have gotten ahead of the curve.
@@ -23,10 +29,22 @@ thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8
 
  A new ChatGPT-styled tool, FraudGPT, is gaining traction among cybercriminals, allowing them to automate and better execute a large part of their fraud operations. Anyone can become a victim, so it is important to stay informed. Here's everything we know about FraudGPT so far.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is FraudGPT?
 
 ![A scammer using a fishing rod to steal data from a person’s laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scammer-using-a-fishing-rod-to-steal-data.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  FraudGPT is an AI tool powered by a large language model that is particularly fine-tuned to help cyber criminals commit cybercrime. The subscription-based AI tool allows threat actors to facilitate their criminal activities like carding, phishing, and malware creation.
 
  Although details about the tool remain very limited, researchers from Netenrich, a security research firm, have uncovered several ads on the dark web advertising the tool. According to the [research report from Netenrich](https://netenrich.com/blog/fraudgpt-the-villain-avatar-of-chatgpt), the subscription fees range between $200 per month to $1,700 yearly.
@@ -37,6 +55,12 @@ thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8
 
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
 
  At its core, FraudGPT is not significantly different from any tool that is powered by a large language model. In other words, the tool itself is an interactive interface for criminals to access a special kind of language model that has been tuned for committing cyber crimes.
@@ -52,20 +76,15 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How Can You Protect Yourself From FraudGPT?
 
 ![worrying about red flags online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/thinking-person-using-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Despite being a new kind of tool, the threat posed by FraudGPT is not fundamentally different. You could say it introduces more automation and efficiency to already established methods of executing cybercrime.
 
  Criminals using the tool would, at least theoretically, be able to write more convincing phishing emails, better plan scams, and create more effective malware, but they'd mostly still rely on the established ways of executing their nefarious plans. As a result, the established ways to protect yourself still apply:
@@ -80,8 +99,16 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Stay Informed to Protect Yourself
 

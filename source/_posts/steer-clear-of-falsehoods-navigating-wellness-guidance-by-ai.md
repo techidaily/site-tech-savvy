@@ -1,7 +1,7 @@
 ---
 title: "Steer Clear of Falsehoods: Navigating Wellness Guidance by AI"
-date: 2024-09-02T20:45:16.262Z
-updated: 2024-09-03T20:45:16.262Z
+date: 2024-09-06T23:30:20.829Z
+updated: 2024-09-07T23:30:20.829Z
 tags:
   - chatgpt
   - open-ai
@@ -21,14 +21,38 @@ thumbnail: https://thmb.techidaily.com/476c827c9a85439232c4139c83a2305fa9ac69841
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Contact a Physician
 
  For any serious or recurring issues, contact your physician or set up a telemedicine appointment. While [ChatGPT can offer reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), it can't replace a medical professional's evaluation of your particular issue.
 
 ![ChatGPT health information caveat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-health-information-caveat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When prompted, the chatbot itself will even reiterate this idea. Although [AI technology will affect the future of healthcare](https://www.makeuseof.com/ai-will-power-future-healthcare/) in a number of ways, it isn't likely to replace the human component in the near future. For the most important medical questions, continue to rely on your personal physician or healthcare provider.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Rely on Established Medical Resources
 
  Many medical resources available online provide reliable, reputable, evidence-based information. Even better, they present the facts in a straightforward way, making them more accessible to people from all sorts of backgrounds (not only medical professionals). These are some examples:
@@ -42,7 +66,10 @@ thumbnail: https://thmb.techidaily.com/476c827c9a85439232c4139c83a2305fa9ac69841
  In addition, many hospital websites also provide general medical information. If you need to fact-check any medical advice from ChatGPT or similar AI chatbots, then these trusted websites can help you learn more about nearly any health-related topic.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Be Wary of Commercial Sites
 
@@ -50,14 +77,8 @@ thumbnail: https://thmb.techidaily.com/476c827c9a85439232c4139c83a2305fa9ac69841
 
 ![screenshot NHS website physical activity guidelines](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-nhs-website-physical-activity-guidelines.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Those that end in .com, or commercial sites, may also provide helpful information. In many instances, however, these sites are more focused on selling you something, according to the [National Institute on Aging](https://www.nia.nih.gov/health/how-find-reliable-health-information-online). If you're trying to fact-check other information, then a nonprofit or educational site may offer more neutral facts.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 4\. Use Apps With Care
 
  When it comes to health apps, exercising caution is crucial. While official apps from hospitals and medical facilities are generally considered trustworthy, apps from companies or individuals may not always provide the most accurate or reliable information.
@@ -66,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/476c827c9a85439232c4139c83a2305fa9ac69841
 
  In general, health apps should complement professional medical advice—not replace it. In this instance, they may not provide the best way to fact-check information from other sources.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Take Care With Personal Sites, Influencers, and Other Individuals
 
  When it comes to the question of whether [health and fitness influencers are beneficial or harmful to your health](https://www.makeuseof.com/health-fitness-influencers-beneficial-harmful-health/), there isn't a straightforward answer. In general, exercising caution is a smart idea.
@@ -82,7 +100,10 @@ thumbnail: https://thmb.techidaily.com/476c827c9a85439232c4139c83a2305fa9ac69841
  If you’re trying to double-check information from ChatGPT or similar sources, however, then this may not be the best avenue in general.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Trust Your Gut
 
@@ -93,7 +114,16 @@ thumbnail: https://thmb.techidaily.com/476c827c9a85439232c4139c83a2305fa9ac69841
  In these events, take extra care to run the provided information by a trusted medical resource (or your own physician).
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Use Trusted Resources to Double-Check Health Information From ChatGPT
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding Predictive AI - A Simplified Overview
-date: 2024-09-02T20:48:04.832Z
-updated: 2024-09-03T20:48:04.832Z
+date: 2024-09-06T23:30:18.080Z
+updated: 2024-09-07T23:30:18.080Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,30 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 ## Understanding Predictive AI - A Simplified Overview
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Predictive AI, and How Does It Work?](https://proteahair.pxf.io/znernm)
 * [Examples of Predictive AI](https://martinic.evyy.net/m5azrm)
 * [How Is Predictive AI Different From Generative AI?](https://review-au.sjv.io/wqnrq3)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Predictive AI makes projections using past data, like weather forecasts and stock market trends.
@@ -33,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
  You've probably heard of generative AI, but how much do you know about predictive AI? They sound similar, but have some key differences, along with a heap of ways you're probably already using it!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Predictive AI, and How Does It Work?
 
  Predictive AI uses information from things that have already happened to make predictions and projections for what might happen in the future. To be used successfully, it requires access to high-quality data and subject matter expertise from humans to correctly identify trends.
@@ -44,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
  Once predictive AI models have gathered the information they need, users can make decisions and conduct further research if necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Examples of Predictive AI
 
  Predictive AI is already used in multiple industries, and you may even have experienced this technology in action yourself. For example, companies use predictive AI to detect potential data breaches, and smartphone providers can help you type more accurately.
@@ -54,7 +66,10 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
  Below are some of the best examples of predictive AI in action.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. Predictive Text
 
@@ -65,7 +80,10 @@ Close
  Besides analyzing your past typing habits, predictive text can also use the context of your conversations or documents to provide better typing and spelling recommendations. You can [disable inline predictive text on your Mac](https://www.makeuseof.com/disable-inline-predictive-text-on-mac/) if you own an Apple computer, and it's also possible to [turn on predictive text suggestions on Android](https://www.makeuseof.com/how-to-turn-on-predictive-text-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Identifying Potential Security Threats
 
@@ -79,6 +97,18 @@ Close
 
 ![Spotify's niche mixes are playlists made for you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/spotify-niche-mixes-desktop.png)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your smartphones and apps are becoming much better at offering recommendations, largely because of predictive AI. For example, if you use Google Drive, you may see a "You often open around this time" message on your main documents. You'll also see "Based on past activity" or "You've opened frequently."
 
  If you use your smartphone, you'll often see that recommendations for opening apps and other actions change depending on your habits at each time of the day. Apps also use your consumption behaviors to deliver better recommendations; for example, [Spotify uses AI](https://www.makeuseof.com/how-spotify-uses-ai/) to recommend (and create) playlists.
@@ -89,15 +119,18 @@ Close
 
  This technology can also predict stock market movements and cryptocurrency price changes. If you plan on trading with AI, it's worth checking out these [AI-based crypto tools](https://www.makeuseof.com/top-ai-based-crypto-tools/) as a starting point.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Weather Forecasts
 
  Predicting the weather has always been difficult, but meteorologists will likely be able to lean on AI for more assistance in the future. Although the tool is relatively new in this space, Google AI Research Program Manager Abdoulaye Diack suggests that GraphCast can predict the weather up to 10 days in advance better than standard forecasting methods.
 
  Predictive AI can measure more weather data in shorter periods. Being able to better predict the weather in the short term is nice on a personal level, as it means you'll know exactly what to wear outside. But if we zoom out and look at the bigger picture, predictive AI could also be a valuable tool for helping to innovate in climate change initiatives and predict major storms.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 6\. Business Decisions
 
  Companies use predictive AI to make better decisions and projections for the coming year. Since predictive AI is very good at measuring consumer behaviors, businesses can accurately determine the success of their current products and offerings over 6-12 months. To fill gaps in the market, they can also use the information they gather to launch and test new products.
@@ -105,7 +138,10 @@ Close
  With predictive AI, businesses can also decide what to include in advertising campaigns. Moreover, they can determine where they should allocate their budgets more effectively. We've written a round-up of [essential AI tools for business owners to know about](https://www.makeuseof.com/ai-tools-for-business-owners/) if you're interested in learning more.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How Is Predictive AI Different From Generative AI?
 

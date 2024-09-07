@@ -1,7 +1,7 @@
 ---
 title: "AI Not Your Keymaster: Why Leave Sensitive Info Out?"
-date: 2024-09-02T20:44:13.797Z
-updated: 2024-09-03T20:44:13.797Z
+date: 2024-09-06T23:30:21.829Z
+updated: 2024-09-07T23:30:21.829Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes AI Not Your Keymaster: Why Leave Sensitive Info
 thumbnail: https://thmb.techidaily.com/64727a6fb30fc85eb70a4052d7d6ea68ac41c9b68c8e82ebf0f07967ea3707f2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI Not Your Keymaster: Why Leave Sensitive Info Out?
 
  ChatGPT is become a major security and privacy issue because too many of us are absentmindedly sharing our private information on it. ChatGPT logs every conversation you have with it, including any personal data you share. Still, you wouldn’t know this unless you’ve dug through OpenAI's privacy policy, terms of service, and FAQ page to piece it together.
@@ -23,6 +29,12 @@ thumbnail: https://thmb.techidaily.com/64727a6fb30fc85eb70a4052d7d6ea68ac41c9b68
 
  It’s dangerous enough to leak your own information, but given that huge companies are using ChatGPT to process information every day, this could be the start of a data leak disaster.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Samsung Leaked Confidential Information Via ChatGPT
 
  According to [Gizmodo](https://gizmodo.com/chatgpt-ai-samsung-employees-leak-data-1850307376), Samsung's employees mistakenly leaked confidential information via ChatGPT on three separate occasions in the span of 20 days. This is just one example of how easy it is for companies to compromise private information.
@@ -33,10 +45,28 @@ thumbnail: https://thmb.techidaily.com/64727a6fb30fc85eb70a4052d7d6ea68ac41c9b68
 
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do ChatGPT Data Leaks Happen?
 
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
 
  It is highly unlikely that the employees have done this on purpose, but that’s the scary part. [Most data breaches are caused by human error](https://www.makeuseof.com/people-weakest-link-in-cybersecurity/). Often, this is because the company has failed to educate its staff about the privacy risks of using tools like AI.
@@ -44,7 +74,16 @@ thumbnail: https://thmb.techidaily.com/64727a6fb30fc85eb70a4052d7d6ea68ac41c9b68
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
 

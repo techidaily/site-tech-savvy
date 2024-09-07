@@ -1,7 +1,7 @@
 ---
 title: Empowering User Needs via AI in Microsoft's Bing
-date: 2024-09-02T20:45:06.420Z
-updated: 2024-09-03T20:45:06.420Z
+date: 2024-09-06T23:30:20.976Z
+updated: 2024-09-07T23:30:20.976Z
 tags:
   - chatgpt
   - open-ai
@@ -23,12 +23,24 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 
  More importantly, we need to look ahead and decode how our experience with the search engines we’ve acquainted ourselves with for so many years will change in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is the Microsoft Prometheus Model?
 
  Microsoft has branded Bing and the Edge browser as your AI copilot for the web. Undoubtedly, the new [AI-powered Bing packs some huge upgrades](http://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , but it’s essential to understand how they’re made possible.
 
 ![OpenAI logo up-close on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-ai-web-apps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Microsoft Prometheus is a specialized artificial intelligence model for superior web searching and querying and is fundamentally based on OpenAI’s GPT3.5 and ChatGPT models. Its capabilities are optimized for rapidly fetching relevant and accurate search results without compromising user safety.
 
  The Prometheus model powers the new Bing to deliver summarized search results that are more relevant and can even answer composite search queries.
@@ -41,12 +53,27 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 
 ![Google app on the home screen of a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-google-fi-phones.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the AI-powered Bing, you can specifically query it to give you a list of important points related to your Science class, and Bing will provide you with precisely that. You won’t have to explore multiple retrieved search results. Instead, you can rest assured that Bing has all the correct answers you need, thanks to its AI-powered search algorithm.
 
  You can also use Bing as your AI chatbot and query it for simple questions like “What’s the weather going to be like in two weeks?” and even complex queries such as “I enjoyed Coachella, what similar music festivals should I visit?”. If you’re not satisfied with Bing’s answer, you can ask it to refine the response per your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## A New Era for Web Browsers as Well?
 
@@ -55,14 +82,20 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 ![Icons of multiple web browsers on a wooden board background](https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b7932652ed0826ec0104cd05df9774.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  While we’re certainly still a long way from seeing web browsers go obsolete, but we can expect functional upgrades that make it easy to access AI-powered web searching and content generation. Perhaps other browsers, such as Chrome and Opera, will adopt something similar to Edge’s new AI sidebar.
 
 [Google is expected to release its Bard competitor](https://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) to Microsoft’s AI-powered Bing very soon. Once it’s launched and possibly integrated with Google Chrome, we’ll have a better idea of how web browsers will evolve in the coming future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Bing Redefines Searching Using AI
 

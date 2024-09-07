@@ -1,7 +1,7 @@
 ---
 title: Crafting Compelling Video Storylines with ChatGPT Script Help
-date: 2024-09-02T20:45:03.776Z
-updated: 2024-09-03T20:45:03.776Z
+date: 2024-09-06T23:30:21.017Z
+updated: 2024-09-07T23:30:21.017Z
 tags:
   - chatgpt
   - open-ai
@@ -37,13 +37,16 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
  Lastly, you don’t want to run into grammatical errors while you’re following along with the script when you’re recording—you’ll find yourself fumbling a lot, which will lead to more editing time later. [ChatGPT works great as a proofreader](https://www.makeuseof.com/can-chatgpt-be-used-as-proofreader/). Just make sure to tell it what you want it to look for, like grammar, punctuation, or tenses.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use ChatGPT to Write a YouTube Script
 
  When you use ChatGPT to write a YouTube script, you can’t simply expect the AI to create something that will go along with your niche. You have to learn to work together with ChatGPT to receive the best results possible.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Set the Premise
 
  The first thing you are going to want to do is explain to ChatGPT exactly what you need from it. Simply saying you need a script about what to look for in a suitable off-grid campsite in the backwoods of Colorado isn’t enough.
@@ -54,15 +57,15 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
 ![Establishing the premise with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/establishing-the-premise-with-chatgpt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Just make sure that before pressing send, you let the AI know not to start spitting out a script yet. You just want to make sure it understands the overall assignment before giving it more details about the interworkings of the script.
 
 ![ChatGPT's answer for establishing the premise of writing a script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-s-answer-for-establishing-the-premise.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Give as Much Information as Possible
 
@@ -70,11 +73,14 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
 ![Explaining what should be in the script to ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/explaining-what-should-be-in-the-script-to-chatgpt.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For the example above, the video needs to explain that the site should be accessible by vehicle or hike, near running water, in a remote location, on public land, and on suitable terrain. Letting ChapGPT know these script requirements will help you not have to do so much editing later.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Review the First Draft
 
  After ChatGPT gives you your first draft, make sure to review it. It may be set up in a way that doesn’t flow with your style of videos, or the information isn’t explained very well.
@@ -84,7 +90,10 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
  In the example, ChatGPT did add timing for the introductions for each section. For the purpose of the video, the timing is a bit long, but that can be easily ignored. However, in the public land section, there should be more information regarding the rules.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 4\. Customize to Your Preferences
 
@@ -92,33 +101,37 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
 ![ChatGPT adding publish land rules to script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/adding-publish-land-rules-to-script.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It may take a couple of times for ChatGPT to get it right, though. However, if you give ChatGPT enough information from the beginning, there shouldn’t be too much editing and customization that has to be done.
 
 ![Asking ChatGPT to add public land rules to script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asking-chatgpt-to-add-public-land-rules-to-script.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## ChatGPT YouTube Script Observations
 
  ChatGPT did a well enough job of piecing together a short script. It added segments for b-roll and explained when the narrator should be in front of the camera and when there should be a voice-over instead.
 
 ![ChatGPT's script overview for a script about off-grid camping elements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-s-script-overview.jpeg)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Additionally, each point that was originally requested received its own section with guidance on what kind of shots should be taken while the voice-over explained the key points, which ChatGPT gave as well.
 
 ![ChatGPT's script overview for a script about off-grid camping elements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/another-chatgpt-script-overview.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  There are areas that do need a more innovative touch—but in the end, you are the creator. It’s completely up to you what parts of the script should be changed to fit the voice of your channel and help entice your viewers to watch your videos.
 
@@ -126,10 +139,25 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
 ![Laptop open on table with ChatGPT open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/laptop-open-on-table-with-chatgpt-open.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now that you know how to use ChatGPT to help you write a script, here are a few tips to keep in mind during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. Use ChatGPT as an Assistant, Not a Replacement
 
@@ -137,16 +165,40 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
  ChatGPT’s intent is to be an assistant—it’s supposed to guide you in making your scripts. Sure, you can ask it for a rough draft, but you can’t take what it gives you at face value. Make sure to proofread and add personal touches to ensure the script is right for your viewing audience and your channel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Be Aware of Outdated Information
 
  ChatGPT does make mistakes. It’s important to stay aware of the fact that as of September 2023, ChatGPT’s knowledge cutoff day is September 2021\. This means that if your script needs facts from after that time period, you are going to need to do the research to make sure the information is accurate.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Stay Creatively Open-minded
 
  As a creator, you may go head first into a project thinking that you know exactly what you want. However, it’s important to always keep an open mind. Remember, you’re using ChatGPT as an assistant, so why not consider some of the ideas that it comes up with?
 
  Not only will you find the opportunity to open yourself up to more creative styles to work with, but you may also find a new way of expressing yourself on camera. Working with ChatGPT is the same as working in a group dynamic. It’s wise to take other opinions into consideration.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Generate Effective YouTube Scripts With ChatGPT in Minutes
 
  Creating a script for your next YouTube video can be a breeze if you learn to work with ChatGPT and utilize its capabilities properly.

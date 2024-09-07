@@ -1,7 +1,7 @@
 ---
 title: "Love Engineered: AI's Role in Dating Frauds"
-date: 2024-09-02T20:45:37.785Z
-updated: 2024-09-03T20:45:37.785Z
+date: 2024-09-06T23:30:20.503Z
+updated: 2024-09-07T23:30:20.503Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
  And with the proliferation of generative AI tools, romance scams are becoming even easier to execute. They lower the barriers to entry. Here are seven common ways romance scammers exploit AI—plus how you can protect yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Sending AI-Generated Emails en Masse
 
  Spam emails are getting harder to filter. Romance scammers abuse generative AI tools to write misleading, convincing messages and create multiple accounts within hours. They approach hundreds almost instantly.
@@ -43,33 +49,45 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
  Know when you’re talking to a bot. Although AI uses a natural, conversational tone, its dialogue still sounds monotonous and awkward. After all, chatbots merely follow patterns. It might produce similar responses to different questions, statements, and requests.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 3\. Creating Multiple Identities From Stolen Images
 
 ![Creating a Fake Profile With a Stolen Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fake-profile-on-bumble.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Using Stolen Images to Create a Profile on Bumble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uploading-stolen-images-on-bumble.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
 [AI art generators](https://www.makeuseof.com/ai-text-to-art-generators/) manipulate images. Take the below demonstration as an example. We fed Playground AI a candid photograph of a famous singer—the platform produced three variations within seconds.
 
 ![Generating Three Images from One Image of a Girl](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ai-generated-image-of-girls-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  Yes, they have flaws. But note that we used a free tool running an outdated text-to-image model. Scammers produce more realistic output with sophisticated iterations. They can quickly render hundreds of customized, manipulated photos from just a few samples.
 
  Unfortunately, AI images are hard to detect. Your best bet would be to do a [reverse image search](https://www.makeuseof.com/tag/reverse-image-search-apps/) and sift through relevant results.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Building Deceptively Authentic-Looking Profiles
 
@@ -80,16 +98,37 @@ Close
 ![Asking ChatGPT to Write Hobbies for a Dating Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-suggesting-good-hobbies.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  And here’s ChatGPT writing an entire biography for your dating profile.
 
 ![Asking ChatGPT to Create a Dating Profile for a Female](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-creating-dating-profile-bio.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Since this process consumes so much time, it also requires a bigger payoff. So, scammers tend to ask for more. Once they earn your trust, they’ll ask for help with various “problems,” like hospital bills, loan payments, or tuition fees. Some will even claim to visit you if you shoulder their ticket.
 
  These cybercriminals are skilled at manipulating victims. The best tactic is to avoid engaging with them right from the get-go. Don’t let them say anything. Otherwise, you might gradually fall for their deception and gaslighting methods.
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Exploiting Deepfake Technology for Sexual Extortion
 
  AI advanced deepfake tools at an alarmingly fast rate. New technologies reduce [minor imperfections in deepfake videos](https://www.makeuseof.com/how-do-deepfakes-work-and-who-is-using-them/), like unnatural blinking, uneven skin tones, distorted audio, and inconsistent elements.
@@ -102,6 +141,12 @@ Close
 
  Don’t cave in if you get targeted. Call 1-800-CALL-FBI, send an FBI tip, or visit your local FBI field office should you find yourself in this situation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Integrating AI Models With Brute-Force Hacking Systems
 
  While open-source language models support some AI advancements, they’re also prone to exploitation. Criminals will take advantage of anything. You can’t expect them to ignore the algorithm behind highly sophisticated language models like [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) and [OpenAssistant](https://huggingface.co/OpenAssistant).
@@ -118,10 +163,6 @@ Close
 
  Protect yourself from AI voice clone scams by studying how synthesized outputs sound. Explore these generators. They merely create near-identical clones—you’ll still spot some imperfections and inconsistencies.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Protect Yourself Against AI Dating Scammers
 
  As generative AI tools advance, romance scammers will develop new ways to exploit them. Developers can’t stop these criminals. Take a proactive role in fighting cybercrimes instead of just trusting that security restrictions work. You can still use dating apps. But make sure you know the person on the other side of the screen before engaging with them.

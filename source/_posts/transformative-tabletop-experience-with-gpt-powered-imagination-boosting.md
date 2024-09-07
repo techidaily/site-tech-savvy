@@ -1,7 +1,7 @@
 ---
 title: Transformative Tabletop Experience with GPT-Powered Imagination Boosting
-date: 2024-09-02T20:42:35.304Z
-updated: 2024-09-03T20:42:35.304Z
+date: 2024-09-06T23:30:23.256Z
+updated: 2024-09-07T23:30:23.256Z
 tags:
   - chatgpt
   - open-ai
@@ -31,12 +31,30 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 
 ![ChatGPT cloud city prompt and its results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-cloud-city-prompt-and-its-results.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can use this as a good premise to build your own lore and create a plot hook your players can use to get into the campaign.
 
  Also, you can use it to answer impromptu questions about the story players might ask, which you didn’t prepare for. For example, one of the players in our campaign asked an elder about the people who founded the city. It was just a matter of inputting that question into ChatGPT and making the answer part of the lore.
 
 ![ChatGPT answering question on the history of Sky City](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-answering-question-on-the-history-of-sky-city.jpeg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  However, ChatGPT isn’t very good with original creativity and won’t be good with naming things. You should come up with names yourself if you wish for more original names.
 
 ## ChatGPT Is Good at Descriptions
@@ -67,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 
 ![Five D&D 5e items generated as loot by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/five-d-d-5e-items-generated-as-loot-by-chatgpt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Helps With Rule Lawyering
 
  Even the most experienced D&D game masters don’t know all the game's rules. There are so many classes, subclasses, spells, abilities, and items that it might be impossible to internalize all the rules. You can use ChatGPT to search for and settle debates on rules that pop up while playing a game.
@@ -79,13 +94,18 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 ![ChatGPT suggesting to use an Investigation roll for a D&D scenario](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-suggesting-to-use-an-investigation-roll-for-a-d-d-scenario.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In the image above, ChatGPT resolved a scenario where the players had to find a handprint stain in a burgled room as an Investigation roll, not a Perception roll. Additionally, it also gave its reasons why, which could be a great explanation for players who would like to argue.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Calculations and Simulating Results
 
@@ -97,11 +117,14 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![ChatGPT calculating the distance an arrow has to travel to hit its target](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-calculating-the-distance-an-arrow-has-to-travel-to-hit-its-target.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It’s still worth noting that sometimes the AI may generate wrong results, as that’s one of the [issues with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). You should still use your discretion as a game master and a human to make the right calls.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## For More Immersive NPC Dialogues
 
  Some games can get pretty immersive, and as a game master, you can use ChatGPT to keep up. Players can get lost in character and begin to ask very specific questions to NPCs.
@@ -111,24 +134,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![ChatGPT answering the question on how a bard should string their lute](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-answering-the-question-on-how-a-bard-should-string-their-lute.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## There’s More AI Can Do in Your Games
 

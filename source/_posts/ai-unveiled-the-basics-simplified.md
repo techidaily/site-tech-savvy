@@ -1,7 +1,7 @@
 ---
 title: "AI Unveiled: The Basics Simplified"
-date: 2024-09-02T20:46:15.382Z
-updated: 2024-09-03T20:46:15.382Z
+date: 2024-09-06T23:30:19.903Z
+updated: 2024-09-07T23:30:19.903Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,12 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
 
 ## AI Unveiled: The Basics Simplified
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [The Simplest Explanation of AI](https://mindmanager.sjv.io/anq2nj)
@@ -22,6 +28,12 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
 * [How Is AI Being Used Today?](https://aligracehair.sjv.io/y209r3)
 * [The Future of AI](https://mindmanager.sjv.io/anq2nj)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * AI is like teaching computers to learn like humans by looking at data and making decisions, but it lacks common sense and emotions.
@@ -44,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
 
  But even with all this, computers still can't fully think or understand like humans. Modern AI systems don't have common sense, emotions, or consciousness.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI in More Detail
 
 ![chatgpt read aloud feature smartphone screen with chatgpt logo blur](https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg)
@@ -55,15 +64,18 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  Artificial intelligence (AI) is a branch of computer science aiming to build machines capable of mimicking human intelligence. It involves creating algorithms that allow computers to learn from and make decisions or predictions based on data rather than following only explicitly programmed instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Machine Learning (ML)
 
  Machine learning (ML), a subset of AI, involves systems that can "learn" from data. These algorithms improve their performance as the number of datasets they learn from increases.
 
  Deep learning, a further subset of machine learning, uses artificial neural networks to make decisions and predictions. It is designed to mimic how a human brain learns and makes decisions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Natural Language Processing (NLP)
 
  Natural language processing (NLP) is another important aspect of AI, dealing with the interaction between computers and humans using natural language.
@@ -93,12 +105,21 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  AI has potential and applications that stretch far beyond the tech realm alone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Chatbots
 
 ![chatgpt dalle logo creation on smartphone screen](https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc239157d241009df908a14c3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Gavin Phillips/MakeUseOf
 
@@ -115,7 +136,10 @@ Gavin Phillips/MakeUseOf
  AI systems can more effectively detect trends, patterns, and inconsistencies than a typical computer (or human, for that matter). For example, an AI system could more distinctly highlight less obvious user habits or preferences for social media platforms, allowing it to show more personalized advertisements.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Production and Design
 
@@ -123,15 +147,15 @@ Gavin Phillips/MakeUseOf
 
  Because AI can learn and discover new things based on the information it is given, it can be used to carve out more cost-effective and sustainable materials and production practices for businesses. For instance, an AI system could list more eco-friendly materials that could be used in a product's battery given a comprehensive data set to work from.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### 4\. Art Creation
 
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [AI-generated art](https://www.makeuseof.com/ways-ai-generated-art-changing-future-of-art/) took the world by storm in 2022, with products like DALL-E, Stable Diffusion, and Midjourney becoming extremely popular. These AI text-to-image tools [take a text-based prompt and generate an art piece](https://www.makeuseof.com/ai-text-to-art-generators/) based on the request.
 
@@ -139,13 +163,16 @@ Gavin Phillips/MakeUseOf
 
 ![microsoft image creator purple sunset on moon example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-image-creator-purple-sunset-on-moon-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Microsoft Image Creator/MakeUseOf
 
 [Some artists have rejected AI art generators](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/), as they are trained on pre-existing online art to learn how to create their prompted pieces. Artists claim this is a breach of copyright and contributes to the theft of original art, an issue that already spans the web.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Future of AI
 
  AI is already being used to develop new medicines, highlight more sustainable business practices, and even make our day-to-day lives easier by performing mundane tasks like cooking or cleaning.

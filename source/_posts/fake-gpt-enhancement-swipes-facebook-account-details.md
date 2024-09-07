@@ -1,7 +1,7 @@
 ---
 title: "Fake GPT Enhancement: Swipes Facebook Account Details"
-date: 2024-09-02T20:49:30.136Z
-updated: 2024-09-03T20:49:30.136Z
+date: 2024-09-06T23:30:16.782Z
+updated: 2024-09-07T23:30:16.782Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Fake GPT Enhancement: Swipes Facebook Account D
 thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc56f71395b32e950e225dc939.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fake GPT Enhancement: Swipes Facebook Account Details
 
 A malicious Chrome extension using ChatGPT's name is being used to steal users' Facebook logins for malicious advertising.
@@ -21,6 +27,12 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
 
  Facebook and Chrome users are being targeted by a malicious browser extension using the well-known name of the [AI-powered chatbot ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/).
@@ -35,6 +47,12 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably [sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
@@ -42,14 +60,26 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## ChatGPT's Name Is Consistently Used by Scammers
 

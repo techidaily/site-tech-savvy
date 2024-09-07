@@ -1,7 +1,7 @@
 ---
 title: Unlocking ChatGPT Potential with Intelligent Folder Systems
-date: 2024-09-02T20:46:17.650Z
-updated: 2024-09-03T20:46:17.650Z
+date: 2024-09-06T23:30:19.866Z
+updated: 2024-09-07T23:30:19.866Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: This Article Describes Unlocking ChatGPT Potential with Intelligent Fol
 thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60abbc500be807cdf0c4c1fe06.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unlocking ChatGPT Potential with Intelligent Folder Systems
 
  ChatGPT's conversation memory is one of the generative AI chatbot's most useful features. Every time you start a new conversation and ask ChatGPT a question or provide a prompt, it's recorded for you to refer back to.
@@ -31,6 +37,18 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  The [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) Chrome extension addresses this problem directly, adding support for folders, subfolders, pinning, bulk conversation deletion, and the option to [share your ChatGPT conversations](https://www.makeuseof.com/apps-extensions-export-share-chatgpt-history/). Now, I imagine OpenAI will add all of these features to ChatGPT in the future ([ChatGPT link sharing is already enabled](https://www.makeuseof.com/share-chatgpt-chats-links/)). But the future isn't now, and ChatGPT Folders is delivering the goods.
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Download and Install ChatGPT Folders
 
  First up, head to [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) while using the Chrome browser, then select **Add to Chrome**.
@@ -38,12 +56,10 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  Launch ChatGPT to check ChatGPT Folders installed correctly. You should now find a new toolbar atop your ChatGPT conversation history with options to create a New Conversation and, most importantly, a New Folder. You'll also note that a tree structure now exists alongside your ChatGPT conversations, which you can use to select specific chats you want to move into a folder, delete, and so on.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Create a New Folder, Add Your Conversations
 
@@ -51,24 +67,32 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ![adding chatgpt conversations to folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adding-chatgpt-conversations-to-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 1. From the top bar, select **New Folder**. Give it a name.
 2. Now, select any ChatGPT conversations you want to add by selecting the check box.
 3. You can either drag and drop the selected folders into your new folder or right-click and select **Move to > New Folder**.  
 ![moving chatgpt conversations to new folder chatgpt folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/moving-chatgpt-conversations-to-new-folder-chatgpt-folders.jpg)
 4. Select your folder. It will open using the same tree structure, where you'll find your grouped conversations.
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. **Optional**: Inside your new folder, select the **New Folder** button once more to create a subfolder. Use the same steps as before to transfer ChatGPT conversations to the subfolder.
 
 ![chatgpt folders with nested conversations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-with-nested-conversations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. How to Delete a Folder and Reset Your Conversations
 
@@ -80,14 +104,8 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ![chatgpt folders reset conversations and folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-reset-conversations-and-folders.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select the three-line button at the top of the ChatGPT history, then **Reset folders and conversations**. Doing so will remove all of the ChatGPT Folders you've created and return your ChatGPT conversations to their original state. Note that this isn't the same as [deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Are ChatGPT Folders the ChatGPT Future?
 
  The additional functionality ChatGPT Folders brings to ChatGPT is most welcome.

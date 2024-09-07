@@ -1,7 +1,7 @@
 ---
 title: How Does GPT4All Achieve Its Results?
-date: 2024-09-02T20:51:45.128Z
-updated: 2024-09-03T20:51:45.128Z
+date: 2024-09-06T23:30:14.207Z
+updated: 2024-09-07T23:30:14.207Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,12 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 ![Man thinking deeply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bruce-mars-xj8qrwvuoes-unsplash-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Image Credit:bruce mars/[Unsplash](https://unsplash.com/photos/xj8qrWvuOEs)
 
  There are several reasons why you might want to use GPT4All over ChatGPT.
@@ -47,7 +53,10 @@ Image Credit:bruce mars/[Unsplash](https://unsplash.com/photos/xj8qrWvuOEs)
 * **Free and Open Source:** Several LLMs provided by GPT4All are licensed under GPL-2\. This allows anyone to fine-tune and integrate their own models for commercial use without needing to pay for licensing.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How GPT4All Works
 
@@ -62,13 +71,18 @@ Image Credit:bruce mars/[Unsplash](https://unsplash.com/photos/xj8qrWvuOEs)
 ![Illustration on how Atlas works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlas.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  By Nomic AI training the Groovy model and using publicly available data, Nomic AI was able to release the model on an open GPL license which allows anyone to use it, even for commercial applications.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Install GPT4All
 
@@ -99,7 +113,10 @@ The ultimate burning program for all your needs!</a>
  Keep in mind that the models provided have different levels of restrictions. Not all models can be used commercially for free; some will need more hardware resources, while others will need an API key. The least restrictive models available in GPT4All are Groovy, GPT4All Falcon, and Orca.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Can You Train GPT4All Models?
 
@@ -108,7 +125,10 @@ The ultimate burning program for all your needs!</a>
  Fine-tuning a GPT4All model will require some monetary resources as well as some technical know-how, but if you only want to feed a GPT4All model custom data, you can keep training the model through retrieval augmented generation (which helps a language model access and understand information outside its base training to complete tasks). You can do so by prompting the GPT4All to model your custom data before asking a question. Custom data should be saved locally, and when prompted, the model should be able to provide you with the info you once gave.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Should You Use GTP4All?
 

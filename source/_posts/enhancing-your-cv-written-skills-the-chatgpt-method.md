@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your CV' Written Skills: The ChatGPT Method"
-date: 2024-09-02T20:51:26.359Z
-updated: 2024-09-03T20:51:26.359Z
+date: 2024-09-06T23:30:14.483Z
+updated: 2024-09-07T23:30:14.483Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,18 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
 ![Screenshot of Custom Instructions for freelance writing cover letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-custom-instructions-for-freelance-writing-cover-letter.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Before you ask ChatGPT to write content for you, you need to provide custom instructions to the platform. You do this in the custom instructions; you can access it by clicking on your name.
 
  There are two sections where you input information about yourself. The first one asks: What would you like ChatGPT to know about you to provide better responses? The second one asks: How would you like ChatGPT to respond?
@@ -47,16 +59,10 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
  You can change the custom instructions at any time, but it will only affect the answers given after the changes are made. If you’re new to the platform, you may ask: [What is ChatGPT and what can you do with generative AI?](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/ "What Is ChatGPT and What Can You Do With Generative AI?"). We recommend checking out that guide if you're not too sure.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Submit a Job Description
 
 ![Screenshot of job description provided to ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-job-description-provided-to-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve completed your custom instructions, it’s time to provide a job description that ChatGPT can refer to when creating your cover letter. Remember, the key to writing an effective cover letter is addressing all the critical needs indicated in the job description.
 
  If you’re using the free ChatGPT 3.5 version of the platform, there’s no limit to the number of jobs you can ask it to write cover letters for! You can also ask the platform to regenerate the response if you don’t like the first one you get.
@@ -64,36 +70,54 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
  You may be wondering what ChatGPT means for the future of writers and if it means enormous unemployment lines are in your future. You might find some comfort in learning the [reasons why ChatGPT won’t take your writing job](https://www.makeuseof.com/why-chatgpt-wont-take-writing-job/ "5 Reasons Why ChatGPT Won’t Take Your Writing Job").
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Prompt ChatGPT to Write the Elements of Your Cover Letter
 
  Once you’ve submitted the job description, the next step is to ask for a cover letter. Instead of asking it to write one document, you can ask it to focus on each part of your cover letter to create a more focused one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Introductory Paragraph
 
 ![Screenshot of introductory paragraph by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-introductory-paragraph-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The first paragraph is where you provide basic details about who you are and why you want the job. You can also give a general overview of why you’re the right candidate for the job and why the position excites you.
 
 ### Your Qualifications
 
 ![Screenshot of summary of qualifications by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-summary-of-qualifications-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  The next part of your cover letter summarizes your experience and qualifications and how they apply to the job you’re applying for. This is where you can include stories about relevant projects or situations to give the hiring manager or recruiter some insight into how you work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Explain How You Align With the Company’s Values and Goals
 
 ![Screenshot of aligning with values and goals of organization by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-aligning-with-values-and-goals-of-organization-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In this section of your cover letter, you want to illustrate that you understand the company’s mission and have done your research on the company. You want to focus on how your goals align with the organization’s, and you can also include positive factors you’ve heard about the company culture.
 
@@ -101,16 +125,31 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
 ![Screenshot of closing paragraph with call to action by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-closing-paragraph-with-call-to-action-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your closing paragraph should be where you recap your interest in the job and suggest the next steps for proceeding with your application. Thank the reader for reviewing your application and indicating your interest in discussing the position or scheduling an interview.
 
  This is where you can focus on the talents and skills you hope to bring to the team. If you want to learn more about the platform’s capabilities and how to generate the proper prompts, you may be interested in learning [ways to learn how to write effective ChatGPT prompts for the best AI answers](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/ "5 Ways to Learn How to Write Effective ChatGPT Prompts for the Best AI Answers").
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Proofread and Review the Generated Cover Letter
 
 ![Image of a math mistake](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-of-a-math-mistake.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After the AI generates the different parts of your cover letter, you can put them together and read it out loud to see if it makes sense.
 
@@ -120,6 +159,12 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
  This is why adding what makes you unique to the letter ChatGPT generates can be a vital part of using the platform for job applications and getting noticed. If you enjoy using the platform, you may be interested in learning about the [amazing ChatGPT Chrome extensions for better AI prompts and answers in browsers](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/ "6 Amazing ChatGPT Chrome Extensions for Better AI Prompts and Answers in Browsers").
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Work Smarter, Not Harder With ChatGPT
 
  Using ChatGPT can help you work more efficiently, increasing your productivity. You can use AI to generate documents as the foundation for any written content you’re working on.

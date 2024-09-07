@@ -1,7 +1,7 @@
 ---
 title: Enhancing Job Search with Smart ChatGPT Use
-date: 2024-09-02T20:42:29.990Z
-updated: 2024-09-03T20:42:29.990Z
+date: 2024-09-06T23:30:23.328Z
+updated: 2024-09-07T23:30:23.328Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,12 @@ thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac
 
 ![Screenshot of ChatGPT generated cover letter for WorldAtlas focusing on soft skills](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-of-chatgpt-generated-cover-letter-for-worldatlas-focusing-on-soft-skills.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you're ready for an intense job search, there are a few hurdles you'll need to overcome. One of such hurdles is creating resumes and cover letters—a lot of them. While the bulk of creative inputs in your resumes and cover letters should come from you, ChatGPT can help you improve the quality of your resumes, and produce a lot of copies in a short time.
 
  You see, when on a job search, there is a good chance that you'll be applying to many companies. With this in mind, you'll need a lot of personalized resumes specially crafted to target each company you are applying to.
@@ -55,7 +61,10 @@ thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac
  Just asking ChatGPT to whip up a resume isn't going to cut it if you're hoping to create a truly impressive and effective one. But don't panic; we've previously put together a detailed [step-by-step guide on how to create a resume with ChatGPT](https://www.makeuseof.com/use-chatgpt-to-write-resume/) as well as a [guide to creating a cover letter with ChatGPT](https://www.makeuseof.com/write-cover-letter-using-chatgpt/).
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Prepare for Interviews
 
@@ -81,14 +90,8 @@ thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac
 
 ![Salary range negotiation using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/salary-range-negotiation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  Of course, you can ask for the exact salary range or any other details that interest you.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Identify Career Opportunities
 
  The job market is like an iceberg; you only get to see a portion of its actual size. Advertised jobs are only a small fraction of the opportunities that exist. According to a [poll on LinkedIn](https://www.linkedin.com/pulse/shining-light-hidden-job-market-andrew-seaman/), as much as 50% to 70% of job openings fall under the "hidden job market" category, meaning they are never posted publicly. This hidden market is vast and largely untapped, leaving many opportunities waiting to be discovered.
@@ -100,17 +103,29 @@ thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac
 ![Identify career opportunities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/identify-career-opportunities.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  We also asked ChatGPT to suggest some roles that could potentially be available in an advertising firm for somehow who has video animation skills. Here are some of the roles ChatGPT suggested we should apply for:
 
 ![video animator job suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/video-animator-job-suggestions.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Using ChatGPT to sniff out potential job opportunities isn't too complex. Simply identify a company or an industry, then ask ChatGPT which potential roles would be available in your target company for someone with your skills. Once you've identified an opportunity that interests you, you can then go ahead to send in a pitch, letter of inquiry, or application.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Find Alternative Jobs
 
  If you are not progressing in finding a job in your current niche, it might be time for a switch. Why struggle to find niche jobs that may be in short supply? ChatGPT can help you identify alternative jobs relevant to your skills beyond the jobs you have in mind. Below, we asked ChatGPT to suggest some alternative jobs for a tech content writer, and it brought up some good suggestions.
@@ -118,7 +133,22 @@ thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac
 ![alternative jobs for a tech writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/alternative-jobs-for-a-tech-writer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Let ChatGPT Take the Wheel
 

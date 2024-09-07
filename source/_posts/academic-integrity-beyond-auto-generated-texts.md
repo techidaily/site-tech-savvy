@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity Beyond Auto-Generated Texts
-date: 2024-09-02T20:49:54.854Z
-updated: 2024-09-03T20:49:54.854Z
+date: 2024-09-06T23:30:16.372Z
+updated: 2024-09-07T23:30:16.372Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: This Article Describes Academic Integrity Beyond Auto-Generated Texts
 thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410ddebad9670bd4cad45f7263474.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Academic Integrity Beyond Auto-Generated Texts
 
  OpenAI’s ChatGPT has made a splash in the world of chatbots. Although it is relatively new (ChatGPT was launched in late 2022), this freakishly capable tool has been embraced by millions of students across the world. While the AI-powered chatbot is undoubtedly groundbreaking, there’s a lot of controversy and ethical dilemmas surrounding the tool.
@@ -23,6 +29,12 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 
  ChatGPT’s ability to write logically sound essays in a matter of seconds and analyze problems in a very human manner can tempt students to rely too heavily on it, potentially hindering independent learning skills and critical thinking. If you’re a student, here’s how you shouldn’t be using the AI tool to avoid running into trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Don't Rely on ChatGPT for Facts
 
 ![ChatGPT shares a factually incorrect answer.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-shares-a-factually-incorrect-answer.jpg)
@@ -47,16 +59,15 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 
 ![A frustrated student stares into her laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-frustrated-student-stares-into-her-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While ChatGPT is certainly helpful to students, it should never be used as a replacement for traditional learning experiences. Challenging assignments allow students to develop critical thinking abilities, problem-solving skills, and an enhanced understanding of the subject. If you rely solely on ChatGPT to overcome roadblocks, you will miss out on valuable learning experiences.
 
  So, instead, when facing challenges while studying, try to collaborate with your peers, seek clarification from teachers, and break down complex concepts. By actively taking part in the learning progress, you can develop a comprehensive knowledge base.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Avoid Using ChatGPT for College Essays
 
@@ -66,20 +77,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Instead, spend some time crafting and refining your personal story. There are also several [online tools that can make the essay-writing process easier](http://makeuseof.com/tag/writing-college-admissions-essay/). Finally, make sure to review your essay multiple times and have someone else read your piece and share their feedback as well.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Don't Plagiarize ChatGPT-Generated Content
 
 ![ChatGPT generates content about NYC on a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-generates-content-about-nyc-on-a-smartphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  While content generated by ChatGPT isn’t usually flagged by plagiarism tools, keep in mind that AI-generated text can be detected. In fact, OpenAI, the company that developed ChatGPT, released its own AI classifier that can detect AI-written content. While [these tools may not yet be completely accurate](https://www.makeuseof.com/ai-content-detectors-dont-work/), it’s safe to assume that they will become more reliable over time.
 
  Given this, it’s pretty likely that universities and schools will be able to use these tools to distinguish between AI-written and human-written text. That doesn’t, however, mean you should stop using ChatGPT entirely. Instead of plagiarizing the content generated by the tool, you can use it to ideate, explore different perspectives, or seek feedback on your work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Don’t Use ChatGPT to Make Decisions
 
  Never use an AI tool to make important academic decisions. Remember that ChatGPT is not a mentor—it lacks personal insight, contextual understanding, and critical thinking skills, which are vital for effective decision-making.
@@ -87,7 +104,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Instead, seek guidance from subject-matter experts or academic advisors to weigh out the pros and cons of your options. Speaking to reputable sources, engaging in discussions with your peers, and collecting diverse perspectives can help you holistically approach decision-making.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Don’t Ignore Your School’s AI-Usage Guidelines
 
@@ -95,9 +121,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  The guidelines set by your school are to ensure that students use AI tools, like ChatGPT, ethically within the academic setting. Ignoring these guidelines could lead to consequences such as disciplinary action or academic penalties. So, before you use ChatGPT for academic projects, make sure to familiarize yourself with the guidelines set by your school.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use ChatGPT as an Aid, Not a Learning Substitute
 
  Using ChatGPT as a student has its pros—as long as you use it to formulate your own ideas and are willing to put in the necessary time and research to develop a comprehensive understanding of the subject. If you are considering using ChatGPT during your educational pursuits, make sure to familiarize yourself with the best ways to integrate the tool into your academic life.

@@ -1,7 +1,7 @@
 ---
 title: "Synthesis of AI and Human Emotion: ChatGPT's Creative Impact"
-date: 2024-09-02T20:51:34.786Z
-updated: 2024-09-03T20:51:34.786Z
+date: 2024-09-06T23:30:14.378Z
+updated: 2024-09-07T23:30:14.378Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,12 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  Keep reading to learn how to use ChatGPT to help you write poetry—whether it’s as a collaboration or as a guide.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Collaborative Writing With ChatGPT
 
  Collaborative writing is considered to be group writing done between two or more people—in this context, let’s say two or more forms of intelligence.
@@ -35,33 +41,47 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 ![ChatGPT poetry brainstorming session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-brainstorming.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can go into brainstorming with AI with no idea of what to write about or with a topic in mind. This process is all about considering ways to create the best piece of poetry.
 
  If you are starting with no idea in mind, simply ask ChatGPT to brainstorm themes to write a poem. It’ll give you a list of subjects to review, and you both can take the idea from there.
 
  If you have a topic in mind but want to find some inspiration for how to convey it, let ChatGPT know what theme you’re considering, and it’ll give you some choices for a direction to take your poem in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Realize Structure and Form
 
 ![ChatGPT poetry structure and form decision](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-structure.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Writing a poem with ChatGPT can be advantageous for a few reasons—one being that it can choose the structure and form of the poem for you. This includes the type of poem, like a sonnet or an ode, and the rhyme scheme.
 
  After you know the topic of your poem, ask ChatGPT what kind of structure and form should be written about the theme. It’ll give you an option and ask if you want to continue. If it chooses a format you’re not interested in, just ask for something different.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Co-Create Word Choice and Imagery
 
 ![ChatGPT poetry wording corrections](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-wording.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  There’s a chance that ChatGPT may come up with the perfect poem on the first try. However, chances are with your guidance, it could be better. There may be some word choices that don’t quite harmonize with the poem or maybe the imagery isn’t quite hitting the mark.
 
@@ -69,19 +89,25 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  But don’t forget, you always have the option of coming up with your diction and telling ChatGPT to change its wording to yours.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Add Engaging Poetic Devices
 
 ![ChatGPT creating a haiku about napping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-poetic-device.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Poetic devices help to enrich the meaning of a poem, and sometimes make it a more entertaining experience for the writer and the reader. There are many to choose from such as personification, alliteration, metaphors, similes, and paradoxes.
 
  When creating your poem with ChatGPT, ask it to include which poetic devices you want. If you’re not sure which one to go for, you can simply ask ChatGPT to pick one for you.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Use ChatGPT to Proofread and Refine
 
@@ -91,17 +117,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  Ask ChatGPT to proofread and refine your poem and see what corrections it comes up with. It is advised that you read through the lines carefully to make sure it still reads well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Using ChatGPT as a Guide Instead
 
  Let’s say you’re a bit nervous about using AI, and you would rather your writing be 100% your work—that is perfectly fine. There are simple ways to use ChatGPT that won’t make you feel like it did the work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Explore Poetry Prompts
 
 ![ChatGPT creating poetry prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-prompts.jpeg)
@@ -110,6 +129,18 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  ChatGPT’s poetry prompts are especially effective when you’re stuck with massive writer’s block and aren’t sure how to proceed in your craft.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ask for Advice
 
 ![ChatGPT options for how to make a poem sound better](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-advice.jpeg)
@@ -118,6 +149,12 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  If you have a poem drafted or even just a few lines, you can ask the AI if it has any advice to make it better. Take the suggestions lightly and apply the ones you feel will help your piece of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Welcome Research and References
 
 ![ChatGPT describing the petals of a cherry blossom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-research.jpeg)
@@ -128,17 +165,32 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  Keep in mind that if you’ve already begun a conversation about poetry with ChatGPT and ask for it to describe something, you’re likely going to get a poem. In your request for the information, simply clarify not to give it to you in poetic form.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Discuss Poetry Elements
 
 ![ChatGPT poetic device options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-poetic-elements.jpeg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Instead of asking ChatGPT to add poetic devices to your poem, ask it for a list of them. You can choose which elements you believe will work best in your poetry and come up with the words yourself.
 
  Not only does this still make you the only contributor to your poetry, but you’ll also learn to use poetic devices you may not have come across before. ChatGPT is a great way to learn more about your skillset.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Things to Look Out For
 
  Though ChatGPT can be a great resource, [you shouldn’t blindly trust everything AI produces](https://www.makeuseof.com/reasons-you-shouldnt-trust-artificial-intelligence/). In terms of creating poetry, here are a couple of things to look out for.
@@ -149,9 +201,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  When you’re working with ChatGPT, you’ll need to see where its ideas and creations lack originality and bring them to life. As the actual poet, don’t let AI hinder your personal expression.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Misinformation Is a Possibility
 
  AI is not always right, nor is it always up-to-date. As of July 2023, ChatGPT only has access to information up to September 2021\. Therefore, any research you do with AI could be incorrect.
@@ -159,7 +208,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  When in doubt, look up the information yourself to determine if it’s correct or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Write Your Next Poem Using ChatGPT
 

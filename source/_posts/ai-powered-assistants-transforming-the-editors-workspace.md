@@ -1,7 +1,7 @@
 ---
 title: AI-Powered Assistants Transforming the Editor's Workspace
-date: 2024-09-02T20:44:27.656Z
-updated: 2024-09-03T20:44:27.656Z
+date: 2024-09-06T23:30:21.637Z
+updated: 2024-09-07T23:30:21.637Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: This Article Describes AI-Powered Assistants Transforming the Editor's 
 thumbnail: https://thmb.techidaily.com/97a064f556a7bb067611e98f7f33b087d4344415697ae32a33a8f3d286a74da8.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI-Powered Assistants Transforming the Editor's Workspace
 
  Most content writers are discouraged from using artificial intelligence (AI) in their writing, but AI tools can still be helpful in a content writer's workflow. Whether they’re used for idea generation, transcribing ideas or meetings, proofreading, SEO research, or even as a bounce board, AI can be used without plagiarizing writing content.
@@ -23,6 +29,12 @@ thumbnail: https://thmb.techidaily.com/97a064f556a7bb067611e98f7f33b087d43444156
 
  Here are eight AI tools to help content writers with their writing workflow. Use them responsibly as an AI assistant and not a writing replacement.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Otter AI
 
 ![Otter AI Home Feed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/otter-ai-home-feed.jpg)
@@ -39,16 +51,18 @@ Image credit: [Otter AI](https://otter.ai/media-kit).
 
 ![ChatGPT generating an article outline.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-article-outline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ChatGPT has been one of the biggest successes of the AI generation. You can use this AI textbot as a tool for your writing, but it comes in handy as a fantastic idea generator.
 
  If you pride yourself as a content writer, you shouldn’t use ChatGPT to write your content, but that doesn’t mean it can’t be used in other ways. Content creators need a steady flow of new ideas, and sometimes your mind is blank.
 
  Ask ChatGPT for some writing ideas within your content niche, and then use your writing expertise to expand upon the results. You can also [train ChatGPT to write like you](https://www.makeuseof.com/how-to-train-chatgpt-to-write-like-you/) to reflect your personal style.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 3\. Canva Magic Write
 
 ![Canva's Magic Write answering a request for a social media post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/canva-magic-write.jpeg)
@@ -61,40 +75,48 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Canva Magic Write is only available to Canva Pro subscribers. Subscribe to Canva Pro from $14.99 monthly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 4\. Google Bard
 
 ![Google Bard chatbot proofreading a paragraph.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-bard-chatbot-proofreader.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Google Bard is an AI chatbot, which uses different technology than ChatGPT. Bard can be used as a writing collaborator, allowing you to bounce ideas and cite information in your research, but you can also [use Bard for many other helpful reasons](https://www.makeuseof.com/how-to-use-google-bard/).
 
  Google Bard gives cited answers when it can, and it also provides images with some of its answers. This can help you as a content writer to use authoritative information in your content writing.
 
  You can also use Google Bard to edit your written content and provide proofreading. This is a great option if you cannot work with an external fact-checker, editor, or proofreader—it offers a budget-friendly alternative that keeps your work being the best it can be.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Dropbox Dash
 
 ![Dropbox Dash AI search box.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dropbox-dash-ai-search.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Dropbox introduced its AI toolbox](https://www.makeuseof.com/dropbox-ai-features/), Dropbox Dash, in June 2023 as a beta platform. Although Dropbox itself isn’t a writing tool, and as a content writer, you may overlook it as a helpful tool. Its AI features can be handy for content writers and can be integrated with a myriad of other tools for a smooth workflow.
 
  Dropbox Dash tools can summarize documents—this will speed up your research time by taking key information from long documents and presenting it in easy-to-digest chunks. You can also directly ask Dropbox Dash a question about information in a document or integrated account, and it will find and present the answer.
 
  For example, if you need to fact-check a date, you might ask: “When did Elon Musk buy Twitter?”, and Dash can highlight the answer in any uploaded document or connected tab. Great for speeding up research, fact-checking, or organizing your work.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Notion AI
 
 ![notion ai working on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/notion-ai-working-on-macos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Notion is a helpful tool for content writers, freelance workers, or anyone who likes to stay organized. [Notion released its Notion AI](https://www.makeuseof.com/what-is-notion-ai-improve-productivity/) as a free trial in late 2022; however, from April 2023, it became a paid service.
 
  Using Notion in your content creation and writing workflow is already a great idea—you can keep track of projects, create to-do lists, and stay on top of your finances as a freelance content writer.
@@ -103,22 +125,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Notion AI is only available to premium Notion subscribers. Subscribe to Notion Plus from $8 monthly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. GrammarlyGO
 
 ![GrammarlyGO AI writing assistant tone of voice detector.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/grammarly-go-ai-writing-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Grammarly is a writing assistance tool that offers help in more ways than just AI. Many content writers rely on Grammarly to catch typos, conciseness of sentences, and to avoid passive voice to ensure their writing is the best it can be.
 
  These tools are available as an add-on to use on your desktop or browser and Grammarly offers free and premium versions. But Grammarly’s AI—powered by GrammarlyGO—can help content writers even further.
 
  With GrammarlyGO, you can tell its AI your writing context and style to consider when it assists your content writing. Type your content first, then use the prompt box or pre-generated prompts to improve, change the style, or paraphrase your words.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 8\. Surfer SEO
 
  Content writers often need to consider SEO—search engine optimization—when writing content for businesses. Unless you’re an SEO researcher as well as a content writer, it can be difficult to write to rank for SEO keywords, but Surfer SEO and its Surfer AI can help in an instant without being punished by Google’s algorithm.
@@ -127,6 +149,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Surfer SEO subscription starts from $69 per month. Only Surfer SEO subscribers can access Surfer AI. Surfer AI credits start from $29\.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Improve Your Content Writing Workflow With AI
 
  AI tools are great for picking up the backlog of work; however, content writers shouldn’t rely on AI to create their content writing. This list of AI tools can improve your workflow while you focus on what you’re best at: content writing. An improved workflow will ensure you’re outputting your best content each day. This variety of AI tools can help in a lot of ways for your content writing process.

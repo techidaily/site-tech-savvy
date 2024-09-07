@@ -1,7 +1,7 @@
 ---
 title: Decoding the Artifice in AI Text Generation
-date: 2024-09-02T20:45:35.209Z
-updated: 2024-09-03T20:45:35.209Z
+date: 2024-09-06T23:30:20.535Z
+updated: 2024-09-07T23:30:20.535Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: This Article Describes Decoding the Artifice in AI Text Generation
 thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497dd6ac900e046b6637a6b7e0e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Decoding the Artifice in AI Text Generation
 
  AI programs are here, and one of their missions is to take over the writing space.Large language models like ChatGPT are some of the latest-to-arrive AI programs that can generate a variety of texts. After consuming billions of words from the internet, including sources like websites, articles, and Reddit discussions, the language models can now produce human-like text.Individuals and companies are already using AI text generators to churn out thematically relevant essays, press releases, and even songs! But there are risks.
@@ -43,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 
  Another drawback of using AI to write is the increased likelihood of unintentional plagiarism.[The Guardian](https://www.theguardian.com/us-news/2023/jan/06/new-york-city-schools-ban-ai-chatbot-chatgpt) reports that one of the reasons schools in New York City banned ChatGPT is the risk of students using it to write assignments and passing them off as their work.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Algorithms Devaluing Your Content
 
  Publishers who use AI to write risk having their site penalized by search engines. According to Google, sites with lots of unhelpful content are less likely to rank well in Search. Google states that its team is constantly working to ensure users see more original, helpful content written by people, for people, in search results.
@@ -68,17 +71,26 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 
  A brand's voice can make you smile, cry, and even feel empowered. Unfortunately, while many AI text generators allow you to set the tone of voice when generating the content, the results are either a hit or a miss.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Spot AI-Generated Text
 
  Do you want to know if a human or AI wrote what you're reading? Being able to spot AI-generated text can help you evaluate its credibility. Here are a few ways to spot AI-generated text.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Look for Repetition of Words and Phrases
 
 ![Some text illustrating repetition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ai-repetition.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Even though GPT-3 can generate coherent sentences, AI writing tools frequently appear to have difficulty producing long-form, high-quality content.
 
  Many users assert that after generating a few high-quality paragraphs on a specific subject, some AI text generators will either start to repeat themselves or spew irrelevant sentences. This is due to the AI tool adding a series of what it thinks are relevant sentences to reach the target word count.
@@ -87,12 +99,21 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 
  Also, if an article seems to follow a specific pattern or formula, it may have been generated by AI. This kind of writing often makes content predictable and mind-numbing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Search for Unnatural Transitions and Errors
 
 ![Gibberish text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gibberish.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  AI tools may be incapable of correctly interpreting the context of a piece of writing. This could lead to content that lacks the coherence and logical flow of human-written content.
 
@@ -101,14 +122,20 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
  Unsurprisingly, though, excellent grammar can be a sign of machine-generated text. This is because grammar is rule-based; AI systems are usually better than people at following logic.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Examine Any Fact-Heavy, Dry Texts
 
 ![Some factual, dry texts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bald-eagle-facts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  An AI writing tool can quickly generate facts and simple sentences but not in-depth commentaries. So if you're reading an article and notice it's heavy on facts and light on opinions, it's likely written by a bot.
 
@@ -117,7 +144,10 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
  One obvious problem with current AI writing tools is their inability to display human emotions and subjective experiences. These things are hard to teach because there are no logical steps explaining how to feel or perceive the world. If you notice an article has a flat tone or emotions that feel forced, a bot may have written it.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 5\. Use an AI Content Detector Tool
 
@@ -127,18 +157,6 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 
  Remember, though, AI content detector tools aren't perfect and may be ineffective against new language models and small amounts of text.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI-Generated Text: The Risks and How to Spot It
 
  Although AI writing tools, like ChatGPT, can be helpful in specific contexts, it's important to use them cautiously and consider the potential risks.

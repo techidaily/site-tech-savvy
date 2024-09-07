@@ -1,7 +1,7 @@
 ---
 title: My Podcast Journey with AI Texting
-date: 2024-09-02T20:42:24.700Z
-updated: 2024-09-03T20:42:24.700Z
+date: 2024-09-06T23:30:23.401Z
+updated: 2024-09-07T23:30:23.401Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
  But can AI write a podcast? What happens when you ask ChatGPT to create a podcast script? To find out, MakeUseOf’s podcast team agreed to use ChatGPT to script an episode of the show.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why We Used ChatGPT for a Podcast Script
 
  Since the launch of ChatGPT 3.5, generative AI has become a popular topic. MakeUseOf’s [Really Useful Podcast](https://www.makeuseof.com/tag/rup/) has regularly discussed ChatGPT and other forms of AI, so it made sense to find a new way of approaching the topic.
@@ -33,6 +39,12 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
  So, to frame a fresh discussion of ChatGPT, the podcast team (that’s me Christian Cawley, site editor-in-chief Ben Stegner, and Tech Explained editor Gavin Phillips) decided that it might be interesting to use the technology to script a podcast.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Integrating ChatGPT Into the Really Useful Podcast Format
 
  The Really Useful Podcast is a weekly mix of tech news that affects everyone (e.g. changes to social media, online security issues, new iPhone or Android updates, etc.), explainers, tips and tricks, and finally recommendations.
@@ -43,21 +55,36 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
  This risked making the end product sound very different to every other show, but it was worth it to find something to add to the list of [things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Limitations With ChatGPT’s Scriptwriting Abilities
 
 ![Script by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-script.jpg)
 
  Finding ways to pose the instructions that would create a usable script revealed various limitations to ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Topical Writing Isn’t Possible
 
  ChatGPT 3.5 is unsuitable for topical writing. It has been [trained on a dataset that contains material up to September 2021](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/), so the shortcoming here is obvious.
 
  For the Really Useful Podcast, this meant that the show’s news section would remain conversational. Instead, the introduction to the section would be created with ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. ChatGPT Doesn’t Quite Understand
 
  Generative AI can be a problem for editors; while some publications are replacing writers with AI, others are not. The reason? Well, it doesn’t give you the same insight a human writer can add to an explainer, guide, or set of steps.
@@ -68,23 +95,19 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
  (Of course, ChatGPT cannot understand in the human sense of the word.)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. ChatGPT Does Not Recommend
 
  In order to mitigate legal claims, ChatGPT is not able to make recommendations. Indeed, upon the first request to “introduce a podcast section on recommending technology” it responded with:
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-recommend-fail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Variations were attempted, but all resulted in largely the same response. Unperturbed, the recorded podcast featured a shortened version of this “script.”
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How the ChatGPT-Scripted Podcast Turned Out
 
@@ -118,15 +141,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-news.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  For the show’s middle section (explainers, tips, and tricks) the intro prompt was:
 
 > _Write an introduction to discussion about decrypting ransomware, games not working on Windows 11, and why you shouldn't pay to use Microsoft Word_
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-tips.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Finally, ChatGPT was asked to script a section on tech recommendations:
 
 > _Introduce a podcast section on recommending technology_
@@ -137,9 +163,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The finished Really Useful Podcast can be listened to on [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), and you can subscribe on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-really-useful-podcast/id1437847131). To give you an idea of how the scripted sections turned out, I’ve edited them into a compressed edition.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Use ChatGPT to Write a Podcast?
 
  Having used ChatGPT to write as much of this podcast as possible, I’ve come to a few conclusions.

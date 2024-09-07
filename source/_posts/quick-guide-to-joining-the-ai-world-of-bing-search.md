@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Joining the AI World of Bing Search
-date: 2024-09-02T20:48:00.848Z
-updated: 2024-09-03T20:48:00.848Z
+date: 2024-09-06T23:30:18.130Z
+updated: 2024-09-07T23:30:18.130Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
  You can even customize your chats and search results to suit your personality. For instance, you can ask Prometheus (that's it's name) to be more creative, balanced, or precise with its results.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bing Adds AI Power to Search
 
  Microsoft's AI-powered Bing search engine looks [set to change search as we know it](https://www.makeuseof.com/how-bing-ai-powered-change-search-experience/). The jury's still out on whether it can [beat Google at search](https://www.makeuseof.com/bing-ai-powered-beat-google-search/), but things certainly look promising.
@@ -39,14 +45,32 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 2. If you're using a non-Edge browser, you'll need to switch over to Edge.  
 ![Open in Microsoft Edge prompt on a white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-in-microsoft-edge.jpg)
 3. Click on **Sign in** (in the top-right corner) to log in to your Microsoft Account.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Once inside, click on **Chat now**.
 5. Pick a conversation style. By default, this is set to **More Balanced**. You can choose to be **More Precise** or **More Creative**.  
 ![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
 6. Go to the typing area and enter your question. You have a 2,000-character limit.
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. When done, click the send arrow and wait for it to populate your answer.
 8. It will also preempt your next question or response by suggesting chat prompts.  
 ![New Bing Chat Feedback showing Chat Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-feedback.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Bing also allows you to switch between just **Chat** and **Search** with chat. To experience the Bing AI-powered search:
 
 1. Go to the top of the page and click on **Search**, next to **Chat**.
@@ -57,10 +81,19 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 5. If you search for celebrities or popular personalities, it can pull up their Wikipedia entries as well as a chat option to help you learn more about their work, personalities, worldview, and so on. Again, this is subject to availability. To begin, simply click on **Let's chat**.  
 ![Bing AI-powered Search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-search-with-ai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Chat mode will only be available when you have access to the AI-powered Bing.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What to Expect from Bing’s AI-Powered Search Engine
 

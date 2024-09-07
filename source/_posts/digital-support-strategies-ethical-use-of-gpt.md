@@ -1,7 +1,7 @@
 ---
 title: "Digital Support Strategies: Ethical Use of GPT"
-date: 2024-09-02T20:47:52.899Z
-updated: 2024-09-03T20:47:52.899Z
+date: 2024-09-06T23:30:18.245Z
+updated: 2024-09-07T23:30:18.245Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Digital Support Strategies: Ethical Use of GPT"
 thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe6968554def245326bd7e9d126f27.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Digital Support Strategies: Ethical Use of GPT
 
  The year is 2023\. Cars can drive themselves, fridges can tell you when you're out of milk, and AI is moonlighting as people's therapists. What a time to be alive! It's possible to use ChatGPT, OpenAI's large language model, as a digital mental health coach—with some caveats.
@@ -23,6 +29,12 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
 
  Now, before you start envisioning a robot shrink in a comfy leather armchair saying, "Tell me about your relationship with your mother," let's make something clear: ChatGPT is not a licensed therapist. But it can be a handy tool to help manage your mental well-being.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Designing Your Coach or Mental Health Professional
 
  Three are many [apps that contain chatbots acting as pocket therapists](https://www.makeuseof.com/ai-chatbot-therapist-mobile-apps-pocket/). However, there's no denying ChatGPT's level of sophistication. Just look at its meteoric adoption rate.
@@ -45,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
 
  Remember though, your AI pal is not psychic. It won't remember past conversations or know your personal history unless you tell it. So, the more details you can provide ahead of your question, the more tailored ChatGPT's response will be. Don't shy away from providing some context with your prompts.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Advanced Chat GPT Training
 
  Let's explore how to train ChatGPT to dig a bit deeper, ask those probing questions, and tailor its advice to your specific situation. The key here is to understand that ChatGPT can respond to complex, multi-layered prompts.
@@ -56,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
 
 ![Screenshot of ChatGPT giving Stoic advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-06-50-am.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  By providing this additional context, you're helping ChatGPT generate more specific, tailored advice. Or, let's say you're struggling with a personal relationship. You could ask, "I had an argument with my friend because of a misunderstanding, and it's causing me a lot of distress. What would a therapist suggest I do to resolve this situation?"
 
  By layering your prompts in this way, you're training ChatGPT to provide more specific, relevant advice. You can also supercharge your prompt by adding something like, "Ask any follow-up questions to understand the situation better before providing a response". This will result in a response that more closely approximates a conversation with a mental health coach.
@@ -66,10 +72,16 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
 ![Stoic advice provided by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-04-47-am.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Setting Healthy Boundaries With Your AI
 
@@ -84,8 +96,10 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
  Also, make sure to balance your use of AI with friends and family and if necessary, other mental health resources. ChatGPT is a supplement, not a substitute. Keep up with your real-world people and never replace them with a chatbot.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Know When to Seek Human Help
 
@@ -98,7 +112,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Furthermore, if you're dealing with complex issues or deep-seated traumas, a trained human therapist will be able to provide a level of understanding, empathy, and care that ChatGPT can't. It's okay to need human help. It's okay to seek it, and it's okay to accept it. No algorithm can replace the nuanced understanding, the shared experiences, and the simple, comforting presence of another human being.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Using ChatGPT as a Mental Health Coach
 

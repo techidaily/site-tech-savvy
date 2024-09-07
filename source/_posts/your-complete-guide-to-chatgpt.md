@@ -1,7 +1,7 @@
 ---
 title: Your Complete Guide to ChatGPT
-date: 2024-09-02T20:51:36.051Z
-updated: 2024-09-03T20:51:36.051Z
+date: 2024-09-06T23:30:14.357Z
+updated: 2024-09-07T23:30:14.357Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,18 @@ excerpt: This Article Describes Your Complete Guide to ChatGPT
 thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728eedb4e2d44158053f9900732.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Your Complete Guide to ChatGPT
 
  Initially released in November 2022, ChatGPT gave many of us an intriguing glimpse into what a future with AI might look like. Perhaps one where we don't need to fret over how to write an email to our boss or can call on an AI personal assistant to explain difficult concepts quickly and simply.
@@ -25,10 +37,28 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
  Want to learn how to use ChatGPT? We've got you covered.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is ChatGPT?
 
 ![Home page of ChatGPT website october 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/home-page-of-chatgpt-website-october-2023.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ChatGPT is a generative AI chatbot that can answer almost any question you have—just as if Google were a person you could have a casual conversation with.
 
  ChatGPT is special because it doesn't feel like you're talking to a computer. It can converse in natural language and remember things you've asked before, and in the first of its kind, it can understand voice and images too. If you took a picture of the contents inside your refrigerator, for example, it could suggest something you might want to cook for dinner based on the ingredients you have.
@@ -48,7 +78,10 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
  Far from being perfect, [there are many problems facing ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), from confidently stating wrong facts to being a weapon for disinformation. Make sure to [protect your privacy when using ChatGPT for work](https://www.makeuseof.com/protect-privacy-using-chatgpt-for-work/), and never include personal information.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Create a ChatGPT Account
 
@@ -56,13 +89,16 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
  You can also use your OpenAI account to [generate images from text using DALL-E](https://www.makeuseof.com/how-to-use-dall-e-2/), another AI model developed by OpenAI.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use ChatGPT
 
 ![ChatGPT interface October 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-interface-october-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Using ChatGPT is simple, thanks to a minimalist interface. After the ChatGPT login page, like an ordinary messaging app, you type in the text box and hit enter or click the send button (paper airplane symbol).
 
  Responses are generated quite fast, appearing directly underneath your question. Any follow-up questions will be added to the conversation thread, which you can look back on at any time.
@@ -74,7 +110,22 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 ![Asking ChatGPT to summarize a response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-to-summarize-a-response.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What to Ask ChatGPT
 
@@ -94,30 +145,18 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
  It doesn't stop there, though. ChatGPT can create graphs, explain difficult concepts, generate unique stories with images (using ChatGPT Plus), and more. Effectively, your imagination is the only limitation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is the ChatGPT App?
 
 [ChatGPT has an app for iOS and Android](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/) that is worth checking out. Having the app on your phone is convenient for quick queries. Plus, the messaging style interface is a natural fit for mobile use.
 
 ![ChatGPT has been downloaded in the AppStore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096283_y.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![text box and microphone icon in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096282_y.jpg)
 
 ![Sound being converted to text in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096281_y.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A response in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096280_y.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
  Make sure to try out the speech-to-text option, which lets you use the microphone to ask your question out loud instead of typing. This adds another layer of ease and accessibility, which we enjoy.
@@ -132,6 +171,18 @@ Close
 
  Avoid using ChatGPT for medical advice, and don't ask it for investment tips. It is, after all, simply an AI chatbot and not a doctor or an oracle.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is There Anything ChatGPT Can't Do?
 
  An ongoing area of development is making sure that ChatGPT doesn't cause harm, including things like hate speech, giving instructions for illegal activities, and producing fake information.
@@ -140,15 +191,24 @@ Close
 
 ![Asking ChatGPT how to bully someone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-how-to-bully-someone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This moderation isn't perfect, and people are finding ways to get around the restrictions all the time. But in the spirit of helping to create a safe AI chatbot, feel free to use the thumbs up/thumbs down buttons to provide feedback and help steer the model in the right direction.
 
  A text box will appear asking you to explain the issues, alongside a few check boxes asking whether the answer was harmful/unsafe, not true, or not helpful.
 
 ![ChatGPT provide feedback text box for negative response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-provide-feedback-text-box-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Entering a New Era of AI Chatbots
 
  ChatGPT is a fascinating AI tool that can answer burning questions, explain tricky concepts, or brainstorm creative ideas—just to name a few uses. The ability to ask follow-up questions means you can get to the information you are looking for much faster than crawling through the internet.

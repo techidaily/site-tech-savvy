@@ -1,7 +1,7 @@
 ---
 title: Bring Your AI to Life – AgentGPT Browser Guide
-date: 2024-09-02T20:42:59.676Z
-updated: 2024-09-03T20:42:59.676Z
+date: 2024-09-06T23:30:22.822Z
+updated: 2024-09-07T23:30:22.822Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,18 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 
  Of course, there are a few things you need to learn before you start. So, if this is relatively new to you and you would like to know more about AgentGPT, how to use it, how it works, and its limitations, you're in the right place.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is AgentGPT?
 
  AgentGPT is an AI platform that makes AI agents that cater to your goals. The goals can be anything that you desire. Whether developing a marketing strategy, building a website, or creating content, AgentGPT will do its best to help accomplish your goals.
@@ -43,6 +55,12 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 * **With Account:** Allows you to deploy agents with limited tokens, manage accounts, and save deployed agents.
 * **With Account and API Key:** Provides features to deploy agents with set tokens, manage accounts, save deployed agents, set agent focus level, and set the maximum number of loops.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use AgentGPT
 
  Now that you can access AgentGPT, you can use the platform to your advantage.
@@ -59,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 
 ![Assembling AgentGPT agent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/deal-finder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  We have named our agent "Deal Finder." You can name your agent anything you want; just make sure that name is related to its function or goal. This will make it easy to identify your agents once you save several of them on your side panel.
 
  Although the example provides a vague goal, based on how GPT works, I'd advise you to be more specific with your goals. The more specific you are, the more efficient and accurate your agent will be. Since goals are basically prompts, you may want to [level up your prompting skills](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) to make better goals.
@@ -69,7 +84,10 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
  Now, before clicking that deploy agent button, let's first configure our agent.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 2: Configure Agent
 
@@ -79,19 +97,12 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 
 ![Basic settings in AgentGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/basic-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  From here, you can set and configure your API, preferred language, model, and execution mode. Make sure to choose the latest model of GPT, as this will provide a better-performing agent. In terms of mode, you can either choose between **Automatic Mode** or **Pause Mode**. Automatic Mode allows your agent to continue executing tasks until it is finished, while Pause Mode makes your agent pause for every step it takes.
 
  If you scroll down further, you will see the **Advanced Settings** section. This provides advanced settings only available to accounts that provide an API Key.
 
 ![Advanced settings in AgentGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/advanced-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  Within the advanced settings section, you will see items such as Temp, Loop, and Tokens. These items correspond to:
 
 * **Temp:** Determines the level of focus of your agent. The higher the temp, the more focused and deterministic your agent will be.
@@ -100,6 +111,12 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 
  Using the advanced settings, you can determine the performance of your agent and the quality of its output. Remember to balance these settings properly; the higher they are, the more expensive the operation.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3: Deploy Agent
 
  Once you've assembled and configured your agent, you hit **Deploy Agent** for your agent to start. You can monitor the entire process through the main console of the website. When finished, you can choose to save the agent to store the output within AgentGPT. You can also save your output locally as a PDF, Image, or just a text copy.
@@ -109,7 +126,10 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
  As you can see, our Deal Finder agent successfully provided us with a promo code, a free shipping voucher, and a bundle offer!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Limitations of AgentGPT
 
@@ -120,7 +140,10 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
  Lastly, GPT-3.5 limits the potential of AgentGPT. Although [GPT-4 is the next version from GPT-3.5](http://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/), there are significant differences between the two models. This limits AgentGPT to using only text as inputs and outputs.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The Future of AgentGPT
 

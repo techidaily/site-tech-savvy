@@ -1,7 +1,7 @@
 ---
 title: Investigating the Safety of Independent ChatGPT Plugins
-date: 2024-09-02T20:44:03.773Z
-updated: 2024-09-03T20:44:03.773Z
+date: 2024-09-06T23:30:21.960Z
+updated: 2024-09-07T23:30:21.960Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,18 @@ thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa
 
 ![ChatGPT Search Chrome Web Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-screenshots-chrome-web-store.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you search for "ChatGPT" on the Chrome Web Store, you will be shown a plethora of ChatGPT extensions that wildly differ from each other. But the underlying premise is the same: to bring ChatGPT's functionalities to a particular website. In an attempt to sound authentic, some of these shady extensions claim to provide oddly specific features.
 
  For example, one may offer to assist you with Gmail replies, while another may summarize web pages. But what most of them are doing is simply using the GPT-3.5 API to conduct that specific task for you. Results will be similar with all different extensions, because again, the base technology is the same.
@@ -51,6 +63,12 @@ thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa
 
 ![Bing chat iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bing-chat-android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-android.jpg)
 
 Close
@@ -58,14 +76,20 @@ Close
  Now that Bing has integrated GPT-4 into its search engine, there isn't any need to go for these apps in the first place. You can instead download the new version of the Bing app to [use Bing AI Chat on your Android](https://www.makeuseof.com/how-to-use-bing-chat-app-ai-android) or iPhone. Since Bing uses GPT-4 and can access information from the web in real-time, it's a better alternative than any of the shady ChatGPT clones.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Privacy Concerns
 
 ![Malicious-file-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-file-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Most shady third-party ChatGPT apps and browser extensions raise a ton of privacy concerns. Since they trace back to the same parent companies, they can log your searches, history, and web traffic to [sell your data for targeted advertising](https://www.makeuseof.com/why-seeing-same-ads/).
 
@@ -73,16 +97,31 @@ Close
 
  Some of these suspicious third-party apps also ask for random permissions on your phone that have nothing to do with their functionality. These permissions can be anything from call logs to phone media.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Legit ChatGPT Alternatives
 
  OpenAI's servers tend to get busy pretty quickly, and you'll often find that ChatGPT is unusable because of it. If you're looking for an alternative to rely on as your AI assistant, then there are quite a few legit chatbots that you can use.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Bing Chat
 
 ![Bing chat response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-response.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you cannot access OpenAI's ChatGPT, then the best alternative is [Bing Chat](https://www.bing.com/new). It is available on the desktop through the Microsoft Edge browser and on mobile via the Bing search app. Bing Chat is highly conversational and can provide sources from the web for all of its responses.
 
@@ -93,36 +132,25 @@ Close
 ![Perplexity AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-response-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Trained on OpenAI's GPT-3 language model, [Perplexity AI](http://www.perplexity.ai/) is a great research tool that scans the web to bring you results. It doesn't require any sign-up or login, and the response timing is very good. The main [difference between Perplexity AI and ChatGPT](https://www.makeuseof.com/chatgpt-plus-vs-perplexity-which-is-best) is that Perplexity can cite sources for its responses, making it more accurate.
 
  But while Perplexity works well as a search-engine-cum-chatbot, its conversational abilities could be better. It works best as a research tool rather than an AI assistant. Still, the fact that you can download and use it without signing up is incredible, compared to other third-party apps that require your personal info one way or the other.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Nova AI
 
 ![Nova AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nova-ai-response.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Available as a web, mobile, and watchOS app, [Nova AI](http://novaapp.ai/) is a worthy ChatGPT alternative that you can use to have a friendly conversation, ask questions, and conduct research. However, you will have to sign up and log in before use.
 
  The basic functionality is pretty much the same as ChatGPT. Type a prompt and Nova will respond back with a coherent and detailed response. What's surprising is that the conversational abilities are on par with ChatGPT. It's available on both Android and iOS, making it one of the best cross-platform chatbots out there.

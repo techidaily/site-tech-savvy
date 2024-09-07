@@ -1,7 +1,7 @@
 ---
 title: "Thwarting Artistic Mimicry: Nightshade's Guide in the Age of AI"
-date: 2024-09-02T20:42:23.423Z
-updated: 2024-09-03T20:42:23.423Z
+date: 2024-09-06T23:30:23.416Z
+updated: 2024-09-07T23:30:23.416Z
 tags:
   - chatgpt
   - open-ai
@@ -13,13 +13,31 @@ excerpt: "This Article Describes Thwarting Artistic Mimicry: Nightshade's Guide 
 thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b39460885352e6b8c3f7846969574b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Thwarting Artistic Mimicry: Nightshade's Guide in the Age of AI
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Nightshade is an AI tool that "poisons" digital art, making it unusable for training AI models.
@@ -35,7 +53,10 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Is AI Poisoning?
 
@@ -44,7 +65,10 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
 
@@ -59,7 +83,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Use Nightshade
 
@@ -78,9 +105,6 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 3. Select the image you want to protect by clicking the **Select** button in the top-left. You can also select multiple images at once for batch processing.  
 ![nightshade-program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nightshade-program.jpg)
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
 6. Click the **Run Nightshade** button at the bottom to run the program and poison your images.
 

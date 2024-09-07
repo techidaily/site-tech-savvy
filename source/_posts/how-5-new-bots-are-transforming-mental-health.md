@@ -1,7 +1,7 @@
 ---
 title: How 5 New Bots Are Transforming Mental Health
-date: 2024-09-02T20:42:09.888Z
-updated: 2024-09-03T20:42:09.888Z
+date: 2024-09-06T23:30:23.606Z
+updated: 2024-09-07T23:30:23.606Z
 tags:
   - chatgpt
   - open-ai
@@ -23,10 +23,22 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
 
 **Important:** These apps are not replacements for mental health professionals, and if you are in distress, it's best to seek help. These apps offer temporary or base-level methods to tackle negative thoughts and get you through a bad mood.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Thought Coach
 
 ![Thought Coach uses ChatGPT AI to identify cognitive distortions in your statements and emotions, to overcome your irrationality](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-thought-coach.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Cognitive distortions are among the most common psychological issues that many of us have to tackle regularly. These are irrational, exaggerated, or unhelpful thought patterns that cloud our view of situations. But AI is surprisingly good at identifying these cognitive distortions, as we have seen while exploring [how to overcome stress with ChatGPT](https://www.makeuseof.com/overcome-stress-with-chatgpt/).
 
  Thought Coach uses this ability to help you reframe and rephrase your thoughts. The algorithm is trained on common cognitive distortions, such as overgeneralization, all-or-nothing thinking, emotional reasoning, jumping to conclusions, mind reading, etc. When you're ready to start, type in all the details about the event that led to your negative emotions and thoughts. Then, in the next box, add all the negative thoughts you're experiencing about it.
@@ -44,14 +56,20 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
  Apart from these two main chat therapy bots, SommerAI also offers **Healthy Nuggets**. These small actions, habits, or exercises will boost your mental health.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Mindsum Bot
 
 ![Mindsum AI is a chat therapist tool to find out more information about mental health theories and practices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-mindsum.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Mindsum is a UK-based non-profit organization aimed at distributing mental health information and tools through technology. It has recently created an AI chatbot called Mindsum Bot, which can give anyone the correct information about any mental health questions and guide them in seeking professional help.
 
@@ -59,29 +77,32 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
 
  This training and backing of an established mental health organization makes Mindsum Bot much more reliable than other therapy chatbots. It's not restricted to UK users, as anyone worldwide can use it. The makers recommend using it as a place to vent your thoughts when you don't have someone to listen to them, and Mindsum Bot will even help you identify the right time to seek professional advice if needed.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. JungGPT
 
 ![JungGPT is an empathetic therapist chatbot that feels like you're talking to a friend](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-junggpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Of all the therapist chatbots we tested for this article, JungGPT felt the most natural. It uses casual language and reframes what you've written while offering empathy and asking a question that could take you to the next step in resolving the situation. The whole process makes it feel like you're talking to a friend.
 
  JungGPT has been trained on several texts and a language model that facilitates emotional understanding. The makers at Ventura UX are quick to point this out. "While JungGPT does have a 'form' of empathy, it does not feel empathy itself, but understands it based on its training to do so and through analyzing text in different context."
 
  When we signed up and tested JungGPT, it was as simple as using any ChatGPT-like AI chatbot. The site notes that the free plan has limited messaging, but we didn't hit those restrictions in our usage. The premium plan costs $7 per month for unlimited messaging.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Lotus
 
 ![Lotus is a therapist chatbot that also includes a journal and a goal-tracker, to save notes and suggestions from previous chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-lotus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Lotus is one of the quickest therapist chatbot apps you can use. Head to the web app, and you're ready to start chatting. The makers say, "Unlike other language models, Lotus has been meticulously trained on millions of user conversations to enhance its effectiveness and provide tailored solutions for individuals seeking support."
 
  While you don't need to register for an account to use Lotus, it's best that you do. With that account, you get a built-in journal and goals tracker. When you're conversing with the chatbot, Lotus will suggest concrete steps to tackle the issues you are having. It will then prompt you to add these as small goals or to add the complete response to your journal.
@@ -89,7 +110,10 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
  This way, you can revisit Lotus and quickly go through the main parts of the previous conversation. It also serves as a quick reminder of your goals, and Lotus will use those in any follow-up conversations you have.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## AI Helps But Isn't a Replacement for Therapy
 

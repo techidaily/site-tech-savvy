@@ -1,7 +1,7 @@
 ---
 title: "Seamless Talk, Smooth Drive: Mercedes' VOICE Tech Update"
-date: 2024-09-02T20:45:28.155Z
-updated: 2024-09-03T20:45:28.155Z
+date: 2024-09-06T23:30:20.627Z
+updated: 2024-09-07T23:30:20.627Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,18 @@ excerpt: "This Article Describes Seamless Talk, Smooth Drive: Mercedes' VOICE Te
 thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4eff5c9989165ba5b957b7575.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Seamless Talk, Smooth Drive: Mercedes' VOICE Tech Update
 
  Since ChatGPT was introduced, it has proven to be a valuable assistant that you can have a conversation with as you would with a human. You can access the chatbot through your browser, on your smartphone via an app, or on your computer through a terminal emulator.
@@ -25,10 +37,28 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  What can you expect? And will other automakers follow suit? Let’s find out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Voice Control Is Now Available on Mercedes-Benz
 
 ![Mercedes me app showing ChatGPT feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/23c0224_004.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1b56-458a-9324-20b25cc176cb)
 
 [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1b56-458a-9324-20b25cc176cb) confirmed that ChatGPT with voice control will be available to more than 900,000 of its cars running the MBUX digital cockpit and infotainment software. This AI-powered voice assistant will at first be limited to Mercedes-Benz drivers in the US who are willing to sign up for the three-month beta program. However, Mercedes-Benz says it will improve and roll out the service in other countries after the beta program concludes successfully.
@@ -39,6 +69,12 @@ Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1
 
  Beyond that, you can use [ChatGPT plug-ins](https://www.makeuseof.com/best-chatgpt-plugins/) to order food, find the best ticket prices, write emails, or [send a messages on Slack](https://www.makeuseof.com/what-is-slack/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Other Automakers Could Follow Suit
 
  Mercedes-Benz is not the only automaker to consider integrating ChatGPT into its cars. According to [Reuters](https://www.reuters.com/business/autos-transportation/gm-explores-using-chatgpt-vehicles-2023-03-10/), General Motors is also looking at introducing a virtual assistant powered by ChatGPT. This could be part of its strategy after [ditching Android Auto and Apple CarPlay](https://www.makeuseof.com/gm-to-drop-android-auto-apple-carplay/).
@@ -46,7 +82,10 @@ Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1
  It's worth noting that even without ChatGPT voice assistant integrated into your car’s infotainment system, you can still talk to ChatGPT driving if you’re connected to Apple CarPlay and Siri. This would be a good way to mimic Mercedes' native integration of the chatbot if you own a vehicle from another brand.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## ChatGPT Could Redefine Virtual Assistants in Vehicles
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT to Craft Sounds in a DAW
-date: 2024-09-02T20:45:29.478Z
-updated: 2024-09-03T20:45:29.478Z
+date: 2024-09-06T23:30:20.613Z
+updated: 2024-09-07T23:30:20.613Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
  Instead of turning knobs and moving sliders at random hoping to get a sound you like, you can use ChatGPT to suggest values to start experimenting with. It also provides a handy resource for learning more about the wide range of audio effect parameters you come across in a DAW.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT in Music Production
 
  Working with ChatGPT in your music production workflow presents an interesting use case. Since it was trained on an enormous trove of text from across the internet, it understands the expressions we use to describe music, as well as the technical speak used to describe effects plugins in DAWs.
@@ -56,7 +62,10 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
  Keep in mind that every plugin is unique and will have different types of controls with various names. So fill in the blank part of the prompt with a list of parameters that matches the plugin you are using.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Applying the Settings to Your Plugin
 
@@ -69,7 +78,16 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 ![Table of audio settings produced by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-plugin-settings-results.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once you input ChatGPT's suggested settings, listen to the results and see what you think. Here is the result of the prompt we tried above:
 
@@ -82,41 +100,47 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
  It may be tiring to hear, but nonetheless true.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Tips and Tricks
 
  In addition to the basic prompt format that we've outlined, there are a few extra things you can experiment with. These tips and tricks will help you play with, or expand on, ChatGPT's responses.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Ask for an Explanation
 
  Want to know more about what a plugin parameter does or why ChatGPT picked those settings? Simply ask it to include an explanation. You can do this by adding the phrase **include explanations** to the end of your prompt.
 
 ![A table produced by ChatGPT including recommended audio settings plus explanations.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-table-explanation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Follow-Up Questions
 
  Sometimes the explanations can be hit or miss, so if there is a parameter you want more information about, ask ChatGPT a follow-up question. You can treat the AI chatbot like you would a person and ask it to explain something in depth. If it starts to use too much jargon, ask it to write the answer in simple terms or use a metaphor.
 
  There are several [prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) that can help you distill the information you're looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Get Variations
 
  A good way to get a different result is to have ChatGPT regenerate its response to your prompt. The **Regenerate response** button sits just above the text box, and you can click it to get a slightly different answer.
 
 ![Screenshot of ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-variations.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  Additionally, look for a couple of arrows near the top left-hand side of ChatGPT's response. You can use them to move back and forth between the different results.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT: An Unsuspecting Music Production Tool
 
  Pairing ChatGPT with music production in this way is both constructive and instructive, serving as an unlikely tool for learning the ways of crafting sound effects. Starting with a prompt format, you can use ChatGPT to give ballpark values for distortion, chorus, or delay plugins, among others.

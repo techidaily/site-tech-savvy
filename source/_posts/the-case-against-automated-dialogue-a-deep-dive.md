@@ -1,7 +1,7 @@
 ---
 title: "The Case Against Automated Dialogue: A Deep Dive"
-date: 2024-09-02T20:45:13.661Z
-updated: 2024-09-03T20:45:13.661Z
+date: 2024-09-06T23:30:20.867Z
+updated: 2024-09-07T23:30:20.867Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 
  But should we? Using AI technology for productivity, education, and entertainment makes sense. However, companies are now thinking about putting it directly in our messaging apps, and this can prove destructive. Here are seven reasons why.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. AI Chatbots Tend to Hallucinate
 
  If you've used [ChatGPT, Bing, or Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/), you know that generative AI chatbots tend to "hallucinate." AI hallucination is when these chatbots make stuff up due to a lack of adequate training data on the query requested by the user.
@@ -31,6 +37,12 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 
  When put in messaging apps, the amount of harm it can do is even greater since people might use it to (intentionally or unintentionally) spread misinformation among their contacts and on social media, proliferate propaganda, and foster echo chambers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. People Don't Like Talking to Bots
 
 ![Small orange and silver robot sitting on carpeted floor with a laptop in front of it.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-1.jpg)
@@ -45,9 +57,6 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
  Using AI to write emails, for example, is understandable since it's a professional interaction, but using it in personal conversations will not be something anyone would want to encourage. Once the novelty of the tech fades, it'll become rude to use it in this context.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 3\. AI Cannot Copy Your Unique Tonality
 
  Generative AI tools today already allow you to change the tonality of your message, such as formal, cheerful, or neutral depending on who you are writing to and how you want to come across. [Magic Compose in Google Messages](https://www.makeuseof.com/ai-powered-features-coming-to-android/), for example, allows you to do the same.
@@ -58,23 +67,28 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
  Up until AI tools allow you the option to train their language model based on your chat history, they will not be able to replicate your unique dialect and eccentricities. That said, this challenge is not that hard to solve, so we might see it being implemented soon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 4\. Writing Good Prompts Takes Time
 
 ![Man Texting on Mobile Phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/man-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Getting desired results from an AI chatbot heavily depends on the quality of your prompt. If you write a bad prompt, you're going to get a bad response and will have to refine the prompt until you get a satisfactory result.
 
  This process makes sense when you want to write long-form content but is extremely inefficient when writing multiple, short responses in an informal conversation.
 
  The time it might take to refine your prompts and get useable responses will be, in most cases, more than the time it would've taken you if you just wrote the messages yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. AI May Produce Offensive Results
 
  Aside from accuracy, bias is one of the [biggest problems with generative AI](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). Some people perceive AI as unbiased since it doesn't have its own motives. However, the people behind these AI tools are ultimately humans with their own biases.
@@ -82,7 +96,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  In other words, bias is baked into the system. AI doesn't inherently understand what's considered offensive and what's not, so it might, for instance, be trained to be biased against certain groups of people or certain cultures—hence producing offensive results in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. AI May Not Understand Sarcasm or Humor
 
@@ -90,13 +107,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Google Bard chatbot attempting to be sarcastic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-bard-chatbot-attempting-to-be-sarcastic.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  In some cases, it was genuinely funny and played along with my sarcasm. But in other cases, it either defaulted back to an unfunny cookie-cutter response or simply refused to participate in the conversation altogether, saying that as it's just a LLM, it can't help me with my query.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Reliance on AI May Lead to Poor Communication
 
@@ -104,6 +121,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The point here is that the more we outsource our social needs to AI, the worse we will get at communicating ideas through organic means. In other words, the more you use AI to talk to your contacts, the more likely you may be to degrade the quality of your relationships.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Not Everything Needs to Have AI
 
  Oftentimes, with the advent of new technology, we are so busy figuring out how to use it that we fail to argue whether we should be using it in the first place.

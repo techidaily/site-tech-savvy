@@ -1,7 +1,7 @@
 ---
 title: Tactics for Using GPT-3 in OpenAI Sandbox
-date: 2024-09-02T20:45:36.491Z
-updated: 2024-09-03T20:45:36.491Z
+date: 2024-09-06T23:30:20.518Z
+updated: 2024-09-07T23:30:20.518Z
 tags:
   - chatgpt
   - open-ai
@@ -43,7 +43,16 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
 ![Screenshot of OpenAI's Playground interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-interface-gpt3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Enter a Prompt
 
@@ -53,47 +62,59 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
 
 ![Screenshot of Complete mode interface in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-complete-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also experiment with the **Edit** mode, which you can use to submit a text and check for grammatical errors.
 
  To get the most out of GPT-3, you will need to think of a good prompt. Good prompts are specific and give context to help GPT-3 generate an appropriate answer. As a demonstration, we asked GPT-3 to "list a few names for a small dog."
 
 ![Screenshot of OpenAI Playground prompt completion.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-names.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The response listed different names for small dog **breeds** like Poodle, Chihuahua, and Yorkshire Terrier. However, we were hoping to get some suggestions for pet names. So let's try again, this time using the keywords "pet names" and "small fluffy dog."
 
  This time, the results turned out closer to what we imagined with a list of names like Biscuit, Fido, and Gizmo.
 
 ![Screenshot of OpenAI Playground prompt completion listing dog pet names.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-pet-names.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Experiment With Different Ideas and Prompts
 
  Asking GPT-3 to suggest a few names for your pet dog is just the tip of the iceberg; there is so much more you can do with it, including generating content, summarizing information, and translating text. There are plenty of [creative uses for GPT-3](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/), from writing a bedtime story for your children to creating a social media bio text.
 
 ![Screenshot showing GPT-3 translating a phrase into five languages.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/gpt3-translate-language.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  These days, AI is finding its way into all sorts of apps. You can check out [all the things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/), which, as mentioned, is an AI chatbot built by the same company and developed using the GPT-3 language model.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Keep Track of Your OpenAI Playground Credits
 
 ![Screenshot of usage stats in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-usage-stats.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Before getting carried away with using OpenAI Playground, quickly look at your usage stats to see how many credits you have to spend. In the top right corner of the page, click on **Personal** \> **Manage account**, then click **Usage** from the navigation bar on the left.
 
@@ -102,7 +123,16 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
  Tokens are then translated to dollars, of which you have $5 to spend in the first three months (previously $18). It's a strange pricing model to wrap your head around at first, but what matters is that it's more than enough to play with. When we tested it out over a couple of days, we only used $0.11 from our total.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Switch to a Different GPT Model
 
@@ -119,7 +149,10 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
  Remember that you'll still incur costs for each model you choose, but the cost per token will vary.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Improve Your Results
 
@@ -135,6 +168,18 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
 
  There are lots of ways that an AI language model can help you in day-to-day tasks. For more handy tools to help you write, check out the [best AI writing extensions for Google Chrome.](https://www.makeuseof.com/best-ai-writing-extensions-chrome/)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can You Use GPT-4 in OpenAI Playground?
 
  When OpenAI released GPT-3 to the world, the pace of development drastically picked up in the field of generative AI. Within several months of GPT-3 being open to the public and the launch of GPT-3.5 through ChatGPT, [OpenAI announced GPT-4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/), bringing new functions to the artificial intelligence model.
@@ -142,7 +187,10 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
 ![openai playground gpt-4 model option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-playground-gpt-4-model-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Among [GPT-4's best new features](https://www.makeuseof.com/best-new-gpt4-features-explained/) is the ability to submit images to the model, which it can understand, discuss, and respond to through text. It's an incredible new advancement that makes the system multi-modal.
 
