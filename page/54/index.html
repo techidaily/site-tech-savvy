@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-savvy.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">6934</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7453</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">6934</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7453</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/brief-walkthrough-installing-llama-2-on-personal-hardware/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc005c6762fe341027fca06ba6f.jpg" alt="Brief Walkthrough: Installing Llama 2 on Personal Hardware" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ai-and-the-modern-courtship-landscape/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d96ed7540da7295451e16db4.jpg" alt="AI and the Modern Courtship Landscape" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/brief-walkthrough-installing-llama-2-on-personal-hardware/">
-                            Brief Walkthrough: Installing Llama 2 on Personal Hardware
+                        <a href="/ai-and-the-modern-courtship-landscape/">
+                            AI and the Modern Courtship Landscape
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Brief Walkthrough: Installing Llama 2 on Personal Hardware</p>
+                            <p>This Article Describes AI and the Modern Courtship Landscape</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Sep 02 2024 20:40:09 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:30:23 GMT+0800">
                 
-                    2024-09-02
+                    2024-09-06
                 
             </span>
         </span>
@@ -768,7 +825,7 @@
         
     </div>
 
-    <a href="/brief-walkthrough-installing-llama-2-on-personal-hardware/">Read more<span class="seo-reader-text">Brief Walkthrough: Installing Llama 2 on Personal Hardware</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ai-and-the-modern-courtship-landscape/">Read more<span class="seo-reader-text">AI and the Modern Courtship Landscape</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -784,21 +841,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/reach-new-heights-of-conversational-ai-in-chrome-with-these-extensions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b54fae6983dda5feb362b8ccd.jpg" alt="Reach New Heights of Conversational AI in Chrome with These Extensions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-enigma-of-codegpt-writing-codes-without-humans/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6661b79a6595a67d8bfbaed5.jpg" alt="The Enigma of CodeGPT: Writing Codes without Humans?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/reach-new-heights-of-conversational-ai-in-chrome-with-these-extensions/">
-                            Reach New Heights of Conversational AI in Chrome with These Extensions
+                        <a href="/the-enigma-of-codegpt-writing-codes-without-humans/">
+                            The Enigma of CodeGPT: Writing Codes without Humans?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Reach New Heights of Conversational AI in Chrome with These Extensions</p>
+                            <p>This Article Describes The Enigma of CodeGPT: Writing Codes without Humans?</p>
 
                         
                     </div>
@@ -806,9 +863,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Sep 02 2024 20:40:08 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:30:23 GMT+0800">
                 
-                    2024-09-02
+                    2024-09-06
                 
             </span>
         </span>
@@ -859,7 +916,7 @@
         
     </div>
 
-    <a href="/reach-new-heights-of-conversational-ai-in-chrome-with-these-extensions/">Read more<span class="seo-reader-text">Reach New Heights of Conversational AI in Chrome with These Extensions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-enigma-of-codegpt-writing-codes-without-humans/">Read more<span class="seo-reader-text">The Enigma of CodeGPT: Writing Codes without Humans?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -875,21 +932,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/push-boundaries-of-browsing-and-ai-talking-with-these-extensions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg" alt="Push Boundaries of Browsing and AI Talking with These Extensions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/symbolic-financial-guidance/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c72eb15814464402850a760a.jpg" alt="Symbolic Financial Guidance" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/push-boundaries-of-browsing-and-ai-talking-with-these-extensions/">
-                            Push Boundaries of Browsing and AI Talking with These Extensions
+                        <a href="/symbolic-financial-guidance/">
+                            Symbolic Financial Guidance
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Push Boundaries of Browsing and AI Talking with These Extensions</p>
+                            <p>This Article Describes Symbolic Financial Guidance</p>
 
                         
                     </div>
@@ -897,9 +954,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Sep 02 2024 20:40:07 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:30:23 GMT+0800">
                 
-                    2024-09-02
+                    2024-09-06
                 
             </span>
         </span>
@@ -950,7 +1007,7 @@
         
     </div>
 
-    <a href="/push-boundaries-of-browsing-and-ai-talking-with-these-extensions/">Read more<span class="seo-reader-text">Push Boundaries of Browsing and AI Talking with These Extensions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/symbolic-financial-guidance/">Read more<span class="seo-reader-text">Symbolic Financial Guidance</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -966,21 +1023,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/chatgpt-writes-its-own-tale-with-plus-plan/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a15d7fcb3455927615d5179aa.JPG" alt="ChatGPT&#39; Writes Its Own Tale with Plus Plan" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/navigate-your-files-better-with-ai-powered-chat-tools/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4baa291781cd47c73ffc42e1f.jpeg" alt="Navigate Your Files Better with AI-Powered Chat Tools" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/chatgpt-writes-its-own-tale-with-plus-plan/">
-                            ChatGPT&#39; Writes Its Own Tale with Plus Plan
+                        <a href="/navigate-your-files-better-with-ai-powered-chat-tools/">
+                            Navigate Your Files Better with AI-Powered Chat Tools
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes ChatGPT’ Writes Its Own Tale with Plus Plan</p>
+                            <p>This Article Describes Navigate Your Files Better with AI-Powered Chat Tools</p>
 
                         
                     </div>
@@ -988,9 +1045,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Sep 02 2024 20:40:06 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:30:23 GMT+0800">
                 
-                    2024-09-02
+                    2024-09-06
                 
             </span>
         </span>
@@ -1041,7 +1098,7 @@
         
     </div>
 
-    <a href="/chatgpt-writes-its-own-tale-with-plus-plan/">Read more<span class="seo-reader-text">ChatGPT&#39; Writes Its Own Tale with Plus Plan</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/navigate-your-files-better-with-ai-powered-chat-tools/">Read more<span class="seo-reader-text">Navigate Your Files Better with AI-Powered Chat Tools</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1057,21 +1114,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/join-the-elite-club-of-bug-detectives-at-openai/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e527c0b15c86864ff7f2cf4ce.png" alt="Join the Elite Club of Bug Detectives at OpenAI!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/thwarting-artistic-mimicry-nightshades-guide-in-the-age-of-ai/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b39460885352e6b8c3f7846969574b.jpg" alt="Thwarting Artistic Mimicry: Nightshade&#39;s Guide in the Age of AI" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/join-the-elite-club-of-bug-detectives-at-openai/">
-                            Join the Elite Club of Bug Detectives at OpenAI!
+                        <a href="/thwarting-artistic-mimicry-nightshades-guide-in-the-age-of-ai/">
+                            Thwarting Artistic Mimicry: Nightshade&#39;s Guide in the Age of AI
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Join the Elite Club of Bug Detectives at OpenAI!</p>
+                            <p>This Article Describes Thwarting Artistic Mimicry: Nightshade’s Guide in the Age of AI</p>
 
                         
                     </div>
@@ -1079,9 +1136,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Sep 02 2024 20:40:04 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:30:23 GMT+0800">
                 
-                    2024-09-02
+                    2024-09-06
                 
             </span>
         </span>
@@ -1132,7 +1189,7 @@
         
     </div>
 
-    <a href="/join-the-elite-club-of-bug-detectives-at-openai/">Read more<span class="seo-reader-text">Join the Elite Club of Bug Detectives at OpenAI!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/thwarting-artistic-mimicry-nightshades-guide-in-the-age-of-ai/">Read more<span class="seo-reader-text">Thwarting Artistic Mimicry: Nightshade&#39;s Guide in the Age of AI</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1148,21 +1205,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/innovation-unleashed-blizzards-integration-with-microsoft-expands-ai-creativity-frontiers-tech-expo-recap/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/597edf717990ca62361393de3d070cd39e4e090d77618c1c86673588d21031a3.jpeg" alt="Innovation Unleashed: Blizzard&#39;s Integration with Microsoft Expands AI Creativity Frontiers [Tech Expo Recap]" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/my-podcast-journey-with-ai-texting/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f03caf08035754438a176d190.jpg" alt="My Podcast Journey with AI Texting" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/innovation-unleashed-blizzards-integration-with-microsoft-expands-ai-creativity-frontiers-tech-expo-recap/">
-                            Innovation Unleashed: Blizzard&#39;s Integration with Microsoft Expands AI Creativity Frontiers [Tech Expo Recap]
+                        <a href="/my-podcast-journey-with-ai-texting/">
+                            My Podcast Journey with AI Texting
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Innovation Unleashed: Blizzard’s Integration with Microsoft Expands AI Creativity Frontiers [Tech Expo Recap]</p>
+                            <p>This Article Describes My Podcast Journey with AI Texting</p>
 
                         
                     </div>
@@ -1170,9 +1227,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Sep 02 2024 20:40:03 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:30:23 GMT+0800">
                 
-                    2024-09-02
+                    2024-09-06
                 
             </span>
         </span>
@@ -1223,7 +1280,7 @@
         
     </div>
 
-    <a href="/innovation-unleashed-blizzards-integration-with-microsoft-expands-ai-creativity-frontiers-tech-expo-recap/">Read more<span class="seo-reader-text">Innovation Unleashed: Blizzard&#39;s Integration with Microsoft Expands AI Creativity Frontiers [Tech Expo Recap]</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/my-podcast-journey-with-ai-texting/">Read more<span class="seo-reader-text">My Podcast Journey with AI Texting</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1239,21 +1296,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/creating-magical-moments-with-ai-help/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a90dc3d2a15bfc646351df71a.jpg" alt="Creating Magical Moments with AI Help" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/scam-or-not-decoding-bingchats-crypto-claims/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b489a1cfb414ed825a2ed00d16.jpg" alt="Scam or Not? Decoding BingChat&#39;s Crypto Claims" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/creating-magical-moments-with-ai-help/">
-                            Creating Magical Moments with AI Help
+                        <a href="/scam-or-not-decoding-bingchats-crypto-claims/">
+                            Scam or Not? Decoding BingChat&#39;s Crypto Claims
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Creating Magical Moments with AI Help</p>
+                            <p>This Article Describes Scam or Not? Decoding BingChat’s Crypto Claims</p>
 
                         
                     </div>
@@ -1261,9 +1318,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Sep 02 2024 20:40:02 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:30:23 GMT+0800">
                 
-                    2024-09-02
+                    2024-09-06
                 
             </span>
         </span>
@@ -1314,7 +1371,7 @@
         
     </div>
 
-    <a href="/creating-magical-moments-with-ai-help/">Read more<span class="seo-reader-text">Creating Magical Moments with AI Help</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/scam-or-not-decoding-bingchats-crypto-claims/">Read more<span class="seo-reader-text">Scam or Not? Decoding BingChat&#39;s Crypto Claims</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1330,21 +1387,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/security-audit-are-there-gaps-in-chatgpt/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9da7986f6cee296d3fed5998.jpg" alt="Security Audit: Are There Gaps in ChatGPT?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/preserving-the-past-long-term-storage-of-chatgpt-interactions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe9401c395fee54d3c5c1d37695.jpg" alt="Preserving the Past: Long-Term Storage of ChatGPT Interactions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/security-audit-are-there-gaps-in-chatgpt/">
-                            Security Audit: Are There Gaps in ChatGPT?
+                        <a href="/preserving-the-past-long-term-storage-of-chatgpt-interactions/">
+                            Preserving the Past: Long-Term Storage of ChatGPT Interactions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Security Audit: Are There Gaps in ChatGPT?</p>
+                            <p>This Article Describes Preserving the Past: Long-Term Storage of ChatGPT Interactions</p>
 
                         
                     </div>
@@ -1352,9 +1409,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Sep 02 2024 20:40:00 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:30:23 GMT+0800">
                 
-                    2024-09-02
+                    2024-09-06
                 
             </span>
         </span>
@@ -1405,7 +1462,7 @@
         
     </div>
 
-    <a href="/security-audit-are-there-gaps-in-chatgpt/">Read more<span class="seo-reader-text">Security Audit: Are There Gaps in ChatGPT?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/preserving-the-past-long-term-storage-of-chatgpt-interactions/">Read more<span class="seo-reader-text">Preserving the Past: Long-Term Storage of ChatGPT Interactions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1421,21 +1478,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/advanced-spreadsheets-excels-edge-in-calculations-vs-conversation/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116beb3419cf2a3656ee84dbb0.jpg" alt="Advanced Spreadsheets: Excel’s Edge in Calculations Vs. Conversation" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/empower-your-vision-with-chatgpts-artificial-intelligence-skills/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d31c6f93e50a0d4cef2f6b0259a76d22bb0769d4863c158949ea074f5d08572b.jpg" alt="Empower Your Vision with ChatGPT&#39;s Artificial Intelligence Skills" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/advanced-spreadsheets-excels-edge-in-calculations-vs-conversation/">
-                            Advanced Spreadsheets: Excel’s Edge in Calculations Vs. Conversation
+                        <a href="/empower-your-vision-with-chatgpts-artificial-intelligence-skills/">
+                            Empower Your Vision with ChatGPT&#39;s Artificial Intelligence Skills
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Advanced Spreadsheets: Excel’s Edge in Calculations Vs. Conversation</p>
+                            <p>This Article Describes Empower Your Vision with ChatGPT’s Artificial Intelligence Skills</p>
 
                         
                     </div>
@@ -1443,9 +1500,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Sep 02 2024 20:39:59 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:30:23 GMT+0800">
                 
-                    2024-09-02
+                    2024-09-06
                 
             </span>
         </span>
@@ -1496,7 +1553,7 @@
         
     </div>
 
-    <a href="/advanced-spreadsheets-excels-edge-in-calculations-vs-conversation/">Read more<span class="seo-reader-text">Advanced Spreadsheets: Excel’s Edge in Calculations Vs. Conversation</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/empower-your-vision-with-chatgpts-artificial-intelligence-skills/">Read more<span class="seo-reader-text">Empower Your Vision with ChatGPT&#39;s Artificial Intelligence Skills</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1512,21 +1569,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/discovering-the-quintessential-5-ai-prompt-creators/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0cd1ef1d90d54872beba93f1.jpg" alt="Discovering the Quintessential 5 AI Prompt Creators" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/enhancing-job-search-with-smart-chatgpt-use/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac44a3b64d442e286082e5edf.jpg" alt="Enhancing Job Search with Smart ChatGPT Use" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/discovering-the-quintessential-5-ai-prompt-creators/">
-                            Discovering the Quintessential 5 AI Prompt Creators
+                        <a href="/enhancing-job-search-with-smart-chatgpt-use/">
+                            Enhancing Job Search with Smart ChatGPT Use
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Discovering the Quintessential 5 AI Prompt Creators</p>
+                            <p>This Article Describes Enhancing Job Search with Smart ChatGPT Use</p>
 
                         
                     </div>
@@ -1534,9 +1591,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Sep 02 2024 20:39:58 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:30:23 GMT+0800">
                 
-                    2024-09-02
+                    2024-09-06
                 
             </span>
         </span>
@@ -1587,7 +1644,7 @@
         
     </div>
 
-    <a href="/discovering-the-quintessential-5-ai-prompt-creators/">Read more<span class="seo-reader-text">Discovering the Quintessential 5 AI Prompt Creators</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/enhancing-job-search-with-smart-chatgpt-use/">Read more<span class="seo-reader-text">Enhancing Job Search with Smart ChatGPT Use</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1597,7 +1654,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/53/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/52/">52</a><a class="page-number" href="/page/53/">53</a><span class="page-number current">54</span><a class="page-number" href="/page/55/">55</a><a class="page-number" href="/page/56/">56</a><span class="space">&hellip;</span><a class="page-number" href="/page/694/">694</a><a class="extend next" rel="next" href="/page/55/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/53/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/52/">52</a><a class="page-number" href="/page/53/">53</a><span class="page-number current">54</span><a class="page-number" href="/page/55/">55</a><a class="page-number" href="/page/56/">56</a><span class="space">&hellip;</span><a class="page-number" href="/page/746/">746</a><a class="extend next" rel="next" href="/page/55/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

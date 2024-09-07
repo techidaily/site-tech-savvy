@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-savvy.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">6934</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7453</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">6934</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7453</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/digital-jesters-from-notebooks-to-vpn-guardians-in-action/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35efcd7b7e4395e6722afaacb2.jpg" alt="Digital Jesters: From Notebooks to VPN Guardians in Action" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/microsoft-redefines-search-ai-in-bing/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414afa88e6a5b8f7881f823fc3c.jpg" alt="Microsoft Redefines Search: AI in Bing" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/digital-jesters-from-notebooks-to-vpn-guardians-in-action/">
-                            Digital Jesters: From Notebooks to VPN Guardians in Action
+                        <a href="/microsoft-redefines-search-ai-in-bing/">
+                            Microsoft Redefines Search: AI in Bing
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Digital Jesters: From Notebooks to VPN Guardians in Action</p>
+                            <p>This Article Describes Microsoft Redefines Search: AI in Bing</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:23 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:34:10 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -768,7 +825,7 @@
         
     </div>
 
-    <a href="/digital-jesters-from-notebooks-to-vpn-guardians-in-action/">Read more<span class="seo-reader-text">Digital Jesters: From Notebooks to VPN Guardians in Action</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/microsoft-redefines-search-ai-in-bing/">Read more<span class="seo-reader-text">Microsoft Redefines Search: AI in Bing</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -784,21 +841,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/chatgpt-hiccups-top-ios-solutions-for-swift-recovery/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/6dedf3c85b2a130f41288233e71fcebf6f77f4c0d59aab3ff91334ed8693ef00.jpg" alt="ChatGPT Hiccups: Top iOS Solutions for Swift Recovery" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unpacking-gpt-models-from-one-to-four/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a1952e1112a322c48709e825dbee9897ba132a48df48b3f0ca917e7642a4b4a3.png" alt="Unpacking GPT Models From One to Four" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/chatgpt-hiccups-top-ios-solutions-for-swift-recovery/">
-                            ChatGPT Hiccups: Top iOS Solutions for Swift Recovery
+                        <a href="/unpacking-gpt-models-from-one-to-four/">
+                            Unpacking GPT Models From One to Four
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes ChatGPT Hiccups: Top iOS Solutions for Swift Recovery</p>
+                            <p>This Article Describes Unpacking GPT Models From One to Four</p>
 
                         
                     </div>
@@ -806,9 +863,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:22 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:34:09 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -859,7 +916,7 @@
         
     </div>
 
-    <a href="/chatgpt-hiccups-top-ios-solutions-for-swift-recovery/">Read more<span class="seo-reader-text">ChatGPT Hiccups: Top iOS Solutions for Swift Recovery</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unpacking-gpt-models-from-one-to-four/">Read more<span class="seo-reader-text">Unpacking GPT Models From One to Four</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -875,21 +932,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/innovating-interactivity-6-ways-chatgpt-redefines-scriptwriting/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a3a5a4a6ed566b778061c9ff.png" alt="Innovating Interactivity: 6 Ways ChatGPT Redefines Scriptwriting" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/world-leaders-in-tech-discussing-tomorrows-intelligence-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/705f65e32c2a47c9858b39842cfffb42a850218d7fcaebdfab8f93329d1c65e1.jpg" alt="World Leaders in Tech Discussing Tomorrow&#39;s Intelligence Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/innovating-interactivity-6-ways-chatgpt-redefines-scriptwriting/">
-                            Innovating Interactivity: 6 Ways ChatGPT Redefines Scriptwriting
+                        <a href="/world-leaders-in-tech-discussing-tomorrows-intelligence-systems/">
+                            World Leaders in Tech Discussing Tomorrow&#39;s Intelligence Systems
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Innovating Interactivity: 6 Ways ChatGPT Redefines Scriptwriting</p>
+                            <p>This Article Describes World Leaders in Tech Discussing Tomorrow’s Intelligence Systems</p>
 
                         
                     </div>
@@ -897,9 +954,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:21 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:34:08 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -950,7 +1007,7 @@
         
     </div>
 
-    <a href="/innovating-interactivity-6-ways-chatgpt-redefines-scriptwriting/">Read more<span class="seo-reader-text">Innovating Interactivity: 6 Ways ChatGPT Redefines Scriptwriting</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/world-leaders-in-tech-discussing-tomorrows-intelligence-systems/">Read more<span class="seo-reader-text">World Leaders in Tech Discussing Tomorrow&#39;s Intelligence Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -966,31 +1023,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/journey-through-quora-to-discover-botsllms/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3a6450d38ce892c7535205c29733ff7dff27b71eb93bcfd6c5404c0b4c13772a.jpg" alt="Journey Through Quora to Discover Bots/LLMs" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/generations-spezifische-robotersupport-in-abbyy-study-sei-bei-bedarf-gerne-automatisiert/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473b14b1614804e43117d93320.jpg" alt="Generations-Spezifische Robotersupport in ABBYY Study - Sei Bei Bedarf Gerne Automatisiert!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/journey-through-quora-to-discover-botsllms/">
-                            Journey Through Quora to Discover Bots/LLMs
+                        <a href="/generations-spezifische-robotersupport-in-abbyy-study-sei-bei-bedarf-gerne-automatisiert/">
+                            Generations-Spezifische Robotersupport in ABBYY Study - Sei Bei Bedarf Gerne Automatisiert!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Journey Through Quora to Discover Bots&#x2F;LLMs</p>
-
+                            Generations-Spezifische Robotersupport in ABBYY Study - Sei Bei Bedarf Gerne Automatisiert!Newsroom Millennials sind mensche...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:20 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:33:07 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1003,17 +1059,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1022,26 +1068,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/journey-through-quora-to-discover-botsllms/">Read more<span class="seo-reader-text">Journey Through Quora to Discover Bots/LLMs</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/generations-spezifische-robotersupport-in-abbyy-study-sei-bei-bedarf-gerne-automatisiert/">Read more<span class="seo-reader-text">Generations-Spezifische Robotersupport in ABBYY Study - Sei Bei Bedarf Gerne Automatisiert!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1057,31 +1086,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/language-wars-gpt-3-versus-translate-pros-and-cons/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8cff42ae0b07628cf47b2fefd624aed56ec467c25aa15518d2e331ff9c28e273.jpg" alt="Language Wars: GPT-3 Versus Translate Pros &amp; Cons" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/exploring-online-content-finding-the-ideal-website-pages/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987fd8e7537df266174c877eec.jpg" alt="Exploring Online Content: Finding the Ideal Website Pages" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/language-wars-gpt-3-versus-translate-pros-and-cons/">
-                            Language Wars: GPT-3 Versus Translate Pros &amp; Cons
+                        <a href="/exploring-online-content-finding-the-ideal-website-pages/">
+                            Exploring Online Content: Finding the Ideal Website Pages
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Language Wars: GPT-3 Versus Translate Pros &amp; Cons</p>
-
+                            Exploring Online Content: Finding the Ideal Website PagesBack to Webinars ABBYY無料セミナー：学習済みモデルによるDX～帳票定義が不要の次世代AI OCR～ Japane...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:19 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:33:06 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1094,17 +1122,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1113,26 +1131,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/language-wars-gpt-3-versus-translate-pros-and-cons/">Read more<span class="seo-reader-text">Language Wars: GPT-3 Versus Translate Pros &amp; Cons</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/exploring-online-content-finding-the-ideal-website-pages/">Read more<span class="seo-reader-text">Exploring Online Content: Finding the Ideal Website Pages</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1148,31 +1149,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/boost-gpts-effectiveness-with-these-7-prompting-methods/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d831c81a6f2628b843ff494a.jpg" alt="Boost GPT&#39;s Effectiveness with These 7 Prompting Methods" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/enhancing-cognitive-abilities-with-abbyys-innovations-showcased-at-artificial-intelligence-world-conference-2019/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c863ef858ebb7371b469a682.jpg" alt="Enhancing Cognitive Abilities with ABBYY&#39;s Innovations Showcased at Artificial Intelligence World Conference 2019" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/boost-gpts-effectiveness-with-these-7-prompting-methods/">
-                            Boost GPT&#39;s Effectiveness with These 7 Prompting Methods
+                        <a href="/enhancing-cognitive-abilities-with-abbyys-innovations-showcased-at-artificial-intelligence-world-conference-2019/">
+                            Enhancing Cognitive Abilities with ABBYY&#39;s Innovations Showcased at Artificial Intelligence World Conference 2019
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Boost GPT’s Effectiveness with These 7 Prompting Methods</p>
-
+                            Enhancing Cognitive Abilities with ABBYY’s Innovations Showcased at Artificial Intelligence World Conference 2019Back to News...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:18 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:33:05 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1185,17 +1185,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1204,26 +1194,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/boost-gpts-effectiveness-with-these-7-prompting-methods/">Read more<span class="seo-reader-text">Boost GPT&#39;s Effectiveness with These 7 Prompting Methods</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/enhancing-cognitive-abilities-with-abbyys-innovations-showcased-at-artificial-intelligence-world-conference-2019/">Read more<span class="seo-reader-text">Enhancing Cognitive Abilities with ABBYY&#39;s Innovations Showcased at Artificial Intelligence World Conference 2019</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1239,31 +1212,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/comparing-all-the-openai-gpt-series/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cba45388a4148935e78d13735.jpg" alt="Comparing All: The OpenAI GPT Series" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/enhance-your-sites-performance-through-intelligent-data-analysis-tech/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683a1dd9c2aefb366c737706ad.jpg" alt="Enhance Your Site&#39;s Performance Through Intelligent Data Analysis Tech" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/comparing-all-the-openai-gpt-series/">
-                            Comparing All: The OpenAI GPT Series
+                        <a href="/enhance-your-sites-performance-through-intelligent-data-analysis-tech/">
+                            Enhance Your Site&#39;s Performance Through Intelligent Data Analysis Tech
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Comparing All: The OpenAI GPT Series</p>
-
+                            Enhance Your Site’s Performance Through Intelligent Data Analysis TechABBYY | M-Files新たな連携によって、AI（人工知能）を搭載したインテリジェント情報マネジメントソ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:17 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:33:03 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1276,17 +1248,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1295,26 +1257,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/comparing-all-the-openai-gpt-series/">Read more<span class="seo-reader-text">Comparing All: The OpenAI GPT Series</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/enhance-your-sites-performance-through-intelligent-data-analysis-tech/">Read more<span class="seo-reader-text">Enhance Your Site&#39;s Performance Through Intelligent Data Analysis Tech</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1330,31 +1275,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/can-a-bot-master-mathematics/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4b947c6dc175d30ce0f723b9.jpg" alt="Can a Bot Master Mathematics?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/discover-abbyys-advanced-content-intelligence-spotlight-at-the-london-ai-summit-conference/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e43b0bc66a6afa452744238286fc0843b9dfd431ddd2cd63d446736a0115992b.png" alt="Discover ABBYY&#39;s Advanced Content Intelligence: Spotlight at the London AI Summit Conference" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/can-a-bot-master-mathematics/">
-                            Can a Bot Master Mathematics?
+                        <a href="/discover-abbyys-advanced-content-intelligence-spotlight-at-the-london-ai-summit-conference/">
+                            Discover ABBYY&#39;s Advanced Content Intelligence: Spotlight at the London AI Summit Conference
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Can a Bot Master Mathematics?</p>
-
+                            Discover ABBYY’s Advanced Content Intelligence: Spotlight at the London AI Summit ConferenceBack to Newsroom ABBYY to Showca...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:16 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:33:02 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1367,17 +1311,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1386,26 +1320,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/can-a-bot-master-mathematics/">Read more<span class="seo-reader-text">Can a Bot Master Mathematics?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/discover-abbyys-advanced-content-intelligence-spotlight-at-the-london-ai-summit-conference/">Read more<span class="seo-reader-text">Discover ABBYY&#39;s Advanced Content Intelligence: Spotlight at the London AI Summit Conference</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1421,31 +1338,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/empowering-companies-with-unprecedented-api-capabilities-of-gpt-whisper/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e52160481e81c4276bc515b3.jpg" alt="Empowering Companies with Unprecedented API Capabilities of GPT, Whisper" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/cookiebot-integration-elevating-your-websites-user-experience-through-smart-data-utilization/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235bf9d5ed977ea6af47a5ef4bb.jpg" alt="Cookiebot Integration: Elevating Your Website&#39;s User Experience Through Smart Data Utilization" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/empowering-companies-with-unprecedented-api-capabilities-of-gpt-whisper/">
-                            Empowering Companies with Unprecedented API Capabilities of GPT, Whisper
+                        <a href="/cookiebot-integration-elevating-your-websites-user-experience-through-smart-data-utilization/">
+                            Cookiebot Integration: Elevating Your Website&#39;s User Experience Through Smart Data Utilization
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Empowering Companies with Unprecedented API Capabilities of GPT, Whisper</p>
-
+                            Cookiebot Integration: Elevating Your Website’s User Experience Through Smart Data UtilizationABBYY | Automation AnywhereAmél...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:14 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:33:01 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1458,17 +1374,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1477,26 +1383,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/empowering-companies-with-unprecedented-api-capabilities-of-gpt-whisper/">Read more<span class="seo-reader-text">Empowering Companies with Unprecedented API Capabilities of GPT, Whisper</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/cookiebot-integration-elevating-your-websites-user-experience-through-smart-data-utilization/">Read more<span class="seo-reader-text">Cookiebot Integration: Elevating Your Website&#39;s User Experience Through Smart Data Utilization</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1512,31 +1401,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/exiting-the-gpt-world-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0968d8a1a40875b1d0f1ddcaf4e9e5bab94f3c356978aa0b36076c07c7f8f9da.jpg" alt="Exiting the GPT World – Now!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/cookiebot-driven-analytics-enhancing-your-data-insights/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce948e1ec31321e7ff03bc36bee.jpg" alt="Cookiebot-Driven Analytics: Enhancing Your Data Insights" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/exiting-the-gpt-world-now/">
-                            Exiting the GPT World – Now!
+                        <a href="/cookiebot-driven-analytics-enhancing-your-data-insights/">
+                            Cookiebot-Driven Analytics: Enhancing Your Data Insights
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Exiting the GPT World – Now!</p>
-
+                            Cookiebot-Driven Analytics: Enhancing Your Data InsightsE-Book Über Business Intelligence &amp; Process Mining hinaus gehenIh...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:13 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:33:00 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1549,17 +1437,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1568,26 +1446,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/exiting-the-gpt-world-now/">Read more<span class="seo-reader-text">Exiting the GPT World – Now!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/cookiebot-driven-analytics-enhancing-your-data-insights/">Read more<span class="seo-reader-text">Cookiebot-Driven Analytics: Enhancing Your Data Insights</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1597,7 +1458,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/321/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/320/">320</a><a class="page-number" href="/page/321/">321</a><span class="page-number current">322</span><a class="page-number" href="/page/323/">323</a><a class="page-number" href="/page/324/">324</a><span class="space">&hellip;</span><a class="page-number" href="/page/694/">694</a><a class="extend next" rel="next" href="/page/323/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/321/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/320/">320</a><a class="page-number" href="/page/321/">321</a><span class="page-number current">322</span><a class="page-number" href="/page/323/">323</a><a class="page-number" href="/page/324/">324</a><span class="space">&hellip;</span><a class="page-number" href="/page/746/">746</a><a class="extend next" rel="next" href="/page/323/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-savvy.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">6934</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7453</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">6934</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7453</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,30 +750,29 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/cookiebot-driven-solutions-for-enhanced-website-personalization/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524c605d3807bb2415d6b1435a.jpg" alt="Cookiebot-Driven Solutions for Enhanced Website Personalization" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-educators-blueprint-embracing-ai-in-classrooms/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb90774e1fcb8b0eea83e6c871.png" alt="The Educator&#39;s Blueprint: Embracing AI in Classrooms" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/cookiebot-driven-solutions-for-enhanced-website-personalization/">
-                            Cookiebot-Driven Solutions for Enhanced Website Personalization
+                        <a href="/the-educators-blueprint-embracing-ai-in-classrooms/">
+                            The Educator&#39;s Blueprint: Embracing AI in Classrooms
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Cookiebot-Driven Solutions for Enhanced Website Personalizationパンフレット
-経費の記録、追跡、管理をもっと簡単に
-インテリジェント文書処理を用いて手作業による領収書処理を排除買掛金管理に...
+                            <p>This Article Describes The Educator’s Blueprint: Embracing AI in Classrooms</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 21 2024 15:29:35 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:40:09 GMT+0800">
                 
                     2024-08-21
                 
@@ -731,7 +787,17 @@
                     
                         
                         <li>
-                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -740,9 +806,26 @@
         </span>
         
         
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
     </div>
 
-    <a href="/cookiebot-driven-solutions-for-enhanced-website-personalization/">Read more<span class="seo-reader-text">Cookiebot-Driven Solutions for Enhanced Website Personalization</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-educators-blueprint-embracing-ai-in-classrooms/">Read more<span class="seo-reader-text">The Educator&#39;s Blueprint: Embracing AI in Classrooms</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -758,29 +841,29 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/cookiebot-driven-conversions-unleashing-potent-tracking-capabilities/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc14a37bcb509db67f36be2c1.jpg" alt="Cookiebot-Driven Conversions: Unleashing Potent Tracking Capabilities" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/leveraging-ai-the-best-and-worst-of-chatgpt-for-writers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb092918116ea6d8f331f8e83e6.jpg" alt="Leveraging AI: The Best and Worst of ChatGPT for Writers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/cookiebot-driven-conversions-unleashing-potent-tracking-capabilities/">
-                            Cookiebot-Driven Conversions: Unleashing Potent Tracking Capabilities
+                        <a href="/leveraging-ai-the-best-and-worst-of-chatgpt-for-writers/">
+                            Leveraging AI: The Best and Worst of ChatGPT for Writers
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Cookiebot-Driven Conversions: Unleashing Potent Tracking CapabilitiesZurück zu den Kundenreferenzen 
-Education&#x2F;Research ...
+                            <p>This Article Describes Leveraging AI: The Best and Worst of ChatGPT for Writers</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 21 2024 15:29:34 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:40:08 GMT+0800">
                 
                     2024-08-21
                 
@@ -795,7 +878,17 @@ Education&#x2F;Research ...
                     
                         
                         <li>
-                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -804,9 +897,26 @@ Education&#x2F;Research ...
         </span>
         
         
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
     </div>
 
-    <a href="/cookiebot-driven-conversions-unleashing-potent-tracking-capabilities/">Read more<span class="seo-reader-text">Cookiebot-Driven Conversions: Unleashing Potent Tracking Capabilities</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/leveraging-ai-the-best-and-worst-of-chatgpt-for-writers/">Read more<span class="seo-reader-text">Leveraging AI: The Best and Worst of ChatGPT for Writers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -822,29 +932,29 @@ Education&#x2F;Research ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/boosting-online-engagement-with-advanced-cookiebot-technology-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab4424f88be5c51fa1662b48994.jpg" alt="Boosting Online Engagement with Advanced Cookiebot Technology Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unveiling-the-functionalities-of-gpt-extensions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6cd96fa55cbded24321f049a3.jpg" alt="Unveiling the Functionalities of GPT Extensions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/boosting-online-engagement-with-advanced-cookiebot-technology-solutions/">
-                            Boosting Online Engagement with Advanced Cookiebot Technology Solutions
+                        <a href="/unveiling-the-functionalities-of-gpt-extensions/">
+                            Unveiling the Functionalities of GPT Extensions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Boosting Online Engagement with Advanced Cookiebot Technology SolutionsBack to The Intelligent Enterprise 
-Three Ways AI Is M...
+                            <p>This Article Describes Unveiling the Functionalities of GPT Extensions</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 21 2024 15:29:33 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:40:06 GMT+0800">
                 
                     2024-08-21
                 
@@ -859,7 +969,17 @@ Three Ways AI Is M...
                     
                         
                         <li>
-                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -868,9 +988,26 @@ Three Ways AI Is M...
         </span>
         
         
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
     </div>
 
-    <a href="/boosting-online-engagement-with-advanced-cookiebot-technology-solutions/">Read more<span class="seo-reader-text">Boosting Online Engagement with Advanced Cookiebot Technology Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unveiling-the-functionalities-of-gpt-extensions/">Read more<span class="seo-reader-text">Unveiling the Functionalities of GPT Extensions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -886,29 +1023,29 @@ Three Ways AI Is M...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/boost-site-engagement-with-cookiebots-advanced-user-tracking-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc951646524d04a51586ab07132c7.jpg" alt="Boost Site Engagement with Cookiebot&#39;s Advanced User Tracking Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/making-ai-write-like-you-tailoring-techniques-for-text/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df839975371dfb9fbdc8a4ad77b856d5.jpg" alt="Making AI Write Like You: Tailoring Techniques for Text" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/boost-site-engagement-with-cookiebots-advanced-user-tracking-solutions/">
-                            Boost Site Engagement with Cookiebot&#39;s Advanced User Tracking Solutions
+                        <a href="/making-ai-write-like-you-tailoring-techniques-for-text/">
+                            Making AI Write Like You: Tailoring Techniques for Text
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Boost Site Engagement with Cookiebot’s Advanced User Tracking SolutionsBack to ABBYY Blog 
-ABBYY Vantage Named 2021 Trend Set...
+                            <p>This Article Describes Making AI Write Like You: Tailoring Techniques for Text</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 21 2024 15:29:31 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:40:05 GMT+0800">
                 
                     2024-08-21
                 
@@ -923,7 +1060,17 @@ ABBYY Vantage Named 2021 Trend Set...
                     
                         
                         <li>
-                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -932,9 +1079,26 @@ ABBYY Vantage Named 2021 Trend Set...
         </span>
         
         
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
     </div>
 
-    <a href="/boost-site-engagement-with-cookiebots-advanced-user-tracking-solutions/">Read more<span class="seo-reader-text">Boost Site Engagement with Cookiebot&#39;s Advanced User Tracking Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/making-ai-write-like-you-tailoring-techniques-for-text/">Read more<span class="seo-reader-text">Making AI Write Like You: Tailoring Techniques for Text</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -950,28 +1114,29 @@ ABBYY Vantage Named 2021 Trend Set...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/automated-with-cookiebot-enhancing-digital-marketing-efforts/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1c2a7e4bae6cede878df1e2d.jpg" alt="Automated with Cookiebot: Enhancing Digital Marketing Efforts" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/revised-google-news-feed-for-informed-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc16390627944ff76ebd8df97376a974.jpg" alt="Revised Google News Feed for Informed Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/automated-with-cookiebot-enhancing-digital-marketing-efforts/">
-                            Automated with Cookiebot: Enhancing Digital Marketing Efforts
+                        <a href="/revised-google-news-feed-for-informed-users/">
+                            Revised Google News Feed for Informed Users
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Automated with Cookiebot: Enhancing Digital Marketing EffortsABBYY | Microsoft® SharePoint®Rendez vos documents accessibles e...
+                            <p>This Article Describes Revised Google News Feed for Informed Users</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 21 2024 15:29:30 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:40:04 GMT+0800">
                 
                     2024-08-21
                 
@@ -986,7 +1151,17 @@ ABBYY Vantage Named 2021 Trend Set...
                     
                         
                         <li>
-                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -995,9 +1170,26 @@ ABBYY Vantage Named 2021 Trend Set...
         </span>
         
         
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
     </div>
 
-    <a href="/automated-with-cookiebot-enhancing-digital-marketing-efforts/">Read more<span class="seo-reader-text">Automated with Cookiebot: Enhancing Digital Marketing Efforts</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/revised-google-news-feed-for-informed-users/">Read more<span class="seo-reader-text">Revised Google News Feed for Informed Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,29 +1205,29 @@ ABBYY Vantage Named 2021 Trend Set...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/automated-data-capture-solutions-efficiently-managed-with-cookiebot/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b31266627ae16098d24a9cb49.jpg" alt="Automated Data Capture Solutions: Efficiently Managed with Cookiebot" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/enhance-your-browsing-interactions-the-7-chrome-ai-boosters/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb1ee83a9d9a5c2d8f590e22f.jpg" alt="Enhance Your Browsing Interactions: The 7 Chrome AI Boosters" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/automated-data-capture-solutions-efficiently-managed-with-cookiebot/">
-                            Automated Data Capture Solutions: Efficiently Managed with Cookiebot
+                        <a href="/enhance-your-browsing-interactions-the-7-chrome-ai-boosters/">
+                            Enhance Your Browsing Interactions: The 7 Chrome AI Boosters
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Automated Data Capture Solutions: Efficiently Managed with CookiebotNewsroom 
-ABBYY unterstützt Non-Profit-Organisation ForHu...
+                            <p>This Article Describes Enhance Your Browsing Interactions: The 7 Chrome AI Boosters</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 21 2024 15:29:29 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:40:02 GMT+0800">
                 
                     2024-08-21
                 
@@ -1050,7 +1242,17 @@ ABBYY unterstützt Non-Profit-Organisation ForHu...
                     
                         
                         <li>
-                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1059,9 +1261,26 @@ ABBYY unterstützt Non-Profit-Organisation ForHu...
         </span>
         
         
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
     </div>
 
-    <a href="/automated-data-capture-solutions-efficiently-managed-with-cookiebot/">Read more<span class="seo-reader-text">Automated Data Capture Solutions: Efficiently Managed with Cookiebot</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/enhance-your-browsing-interactions-the-7-chrome-ai-boosters/">Read more<span class="seo-reader-text">Enhance Your Browsing Interactions: The 7 Chrome AI Boosters</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,29 +1296,29 @@ ABBYY unterstützt Non-Profit-Organisation ForHu...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961bc69741ec2bb6713c7a134f.jpg" alt="ANNUALEMENT, ABBYY Intègre Deux Personnalités Prestigieuses À Son Organe Dirigeant" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/interpreting-sentiments-the-rise-of-emotive-computation/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9f150048899a6b75835712f0.jpg" alt="Interpreting Sentiments: The Rise of Emotive Computation" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/">
-                            ANNUALEMENT, ABBYY Intègre Deux Personnalités Prestigieuses À Son Organe Dirigeant
+                        <a href="/interpreting-sentiments-the-rise-of-emotive-computation/">
+                            Interpreting Sentiments: The Rise of Emotive Computation
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            ANNUALEMENT, ABBYY Intègre Deux Personnalités Prestigieuses À Son Organe DirigeantActualités 
-ABBYY : deux nouvelles nominati...
+                            <p>This Article Describes Interpreting Sentiments: The Rise of Emotive Computation</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 21 2024 15:29:28 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:40:01 GMT+0800">
                 
                     2024-08-21
                 
@@ -1114,7 +1333,17 @@ ABBYY : deux nouvelles nominati...
                     
                         
                         <li>
-                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1123,9 +1352,26 @@ ABBYY : deux nouvelles nominati...
         </span>
         
         
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
     </div>
 
-    <a href="/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/">Read more<span class="seo-reader-text">ANNUALEMENT, ABBYY Intègre Deux Personnalités Prestigieuses À Son Organe Dirigeant</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/interpreting-sentiments-the-rise-of-emotive-computation/">Read more<span class="seo-reader-text">Interpreting Sentiments: The Rise of Emotive Computation</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,29 +1387,29 @@ ABBYY : deux nouvelles nominati...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/act-fast-overcoming-paperwork-hurdles-in-the-insurance-industry/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d227f82f60742199283d96d9.jpg" alt="Act Fast! Overcoming Paperwork Hurdles in the Insurance Industry" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/getting-started-with-chatgpts-enhanced-tools/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef54198880a460fef17224e3b3660509.jpg" alt="Getting Started with ChatGPT&#39;s Enhanced Tools" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/act-fast-overcoming-paperwork-hurdles-in-the-insurance-industry/">
-                            Act Fast! Overcoming Paperwork Hurdles in the Insurance Industry
+                        <a href="/getting-started-with-chatgpts-enhanced-tools/">
+                            Getting Started with ChatGPT&#39;s Enhanced Tools
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Act Fast! Overcoming Paperwork Hurdles in the Insurance IndustryBack to ABBYY Blog 
-No Time to Lose: Solving Document Challen...
+                            <p>This Article Describes Getting Started with ChatGPT’s Enhanced Tools</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 21 2024 15:29:27 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:40:00 GMT+0800">
                 
                     2024-08-21
                 
@@ -1178,7 +1424,17 @@ No Time to Lose: Solving Document Challen...
                     
                         
                         <li>
-                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1187,9 +1443,26 @@ No Time to Lose: Solving Document Challen...
         </span>
         
         
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
     </div>
 
-    <a href="/act-fast-overcoming-paperwork-hurdles-in-the-insurance-industry/">Read more<span class="seo-reader-text">Act Fast! Overcoming Paperwork Hurdles in the Insurance Industry</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/getting-started-with-chatgpts-enhanced-tools/">Read more<span class="seo-reader-text">Getting Started with ChatGPT&#39;s Enhanced Tools</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,32 +1478,29 @@ No Time to Lose: Solving Document Challen...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/abbyy-privacy-and-data-handling-guidelines/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfef0031bd8bc1879804e39c8f.jpg" alt="ABBYY Privacy &amp; Data Handling Guidelines" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/shield-up-dont-surrenderflee-googles-bard-app/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b444eae6e981167865c0c0478.jpg" alt="Shield Up, Don&#39;t Surrender—Flee Google&#39;s Bard App!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/abbyy-privacy-and-data-handling-guidelines/">
-                            ABBYY Privacy &amp; Data Handling Guidelines
+                        <a href="/shield-up-dont-surrenderflee-googles-bard-app/">
+                            Shield Up, Don&#39;t Surrender—Flee Google&#39;s Bard App!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            ABBYY Privacy &amp; Data Handling GuidelinesABBYY Cookie Policy
-Privacy Policy 
-Cookie Policy 
-Archived Policies 
-Vocabulary ...
+                            <p>This Article Describes Shield Up, Don’t Surrender—Flee Google’s Bard App!</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 21 2024 15:29:26 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:39:59 GMT+0800">
                 
                     2024-08-21
                 
@@ -1245,7 +1515,17 @@ Vocabulary ...
                     
                         
                         <li>
-                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1254,9 +1534,26 @@ Vocabulary ...
         </span>
         
         
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
     </div>
 
-    <a href="/abbyy-privacy-and-data-handling-guidelines/">Read more<span class="seo-reader-text">ABBYY Privacy &amp; Data Handling Guidelines</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/shield-up-dont-surrenderflee-googles-bard-app/">Read more<span class="seo-reader-text">Shield Up, Don&#39;t Surrender—Flee Google&#39;s Bard App!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1272,29 +1569,29 @@ Vocabulary ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/abbyy-achieves-soc-2-compliance-bolsters-trust-in-transactional-processes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116beb3419cf2a3656ee84dbb0.jpg" alt="ABBYY Achieves SOC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/decoding-5-ways-ai-reinforces-illicit-online-techniques/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaece80212cfc98f386a6cd1281.jpg" alt="Decoding 5 Ways AI Reinforces Illicit Online Techniques" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/abbyy-achieves-soc-2-compliance-bolsters-trust-in-transactional-processes/">
-                            ABBYY Achieves SOC
+                        <a href="/decoding-5-ways-ai-reinforces-illicit-online-techniques/">
+                            Decoding 5 Ways AI Reinforces Illicit Online Techniques
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            ABBYY Achieves SOC #2 Compliance, Bolsters Trust in Transactional ProcessesBack to Newsroom 
-ABBYY Achieves SOC 2 Type 2 Cert...
+                            <p>This Article Describes Decoding 5 Ways AI Reinforces Illicit Online Techniques</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 21 2024 15:29:25 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:39:58 GMT+0800">
                 
                     2024-08-21
                 
@@ -1309,7 +1606,17 @@ ABBYY Achieves SOC 2 Type 2 Cert...
                     
                         
                         <li>
-                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1318,9 +1625,26 @@ ABBYY Achieves SOC 2 Type 2 Cert...
         </span>
         
         
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
     </div>
 
-    <a href="/abbyy-achieves-soc-2-compliance-bolsters-trust-in-transactional-processes/">Read more<span class="seo-reader-text">ABBYY Achieves SOC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/decoding-5-ways-ai-reinforces-illicit-online-techniques/">Read more<span class="seo-reader-text">Decoding 5 Ways AI Reinforces Illicit Online Techniques</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1330,7 +1654,7 @@ ABBYY Achieves SOC 2 Type 2 Cert...
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/289/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/288/">288</a><a class="page-number" href="/page/289/">289</a><span class="page-number current">290</span><a class="page-number" href="/page/291/">291</a><a class="page-number" href="/page/292/">292</a><span class="space">&hellip;</span><a class="page-number" href="/page/694/">694</a><a class="extend next" rel="next" href="/page/291/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/289/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/288/">288</a><a class="page-number" href="/page/289/">289</a><span class="page-number current">290</span><a class="page-number" href="/page/291/">291</a><a class="page-number" href="/page/292/">292</a><span class="space">&hellip;</span><a class="page-number" href="/page/746/">746</a><a class="extend next" rel="next" href="/page/291/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

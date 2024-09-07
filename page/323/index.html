@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-savvy.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">6934</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7453</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">6934</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7453</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,31 +750,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/maximizing-ai-in-bing-an-android-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d9f0b33722c79996a70bc6bb.jpg" alt="Maximizing AI in Bing: An Android Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/boost-your-shipping-operations-how-top-transit-companies-enhance-productivity-using-abbyys-smart-ocr-technology/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b4810305a265213fc94683f22a3e9.jpg" alt="Boost Your Shipping Operations: How Top Transit Companies Enhance Productivity Using ABBYY&#39;s Smart OCR Technology" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/maximizing-ai-in-bing-an-android-guide/">
-                            Maximizing AI in Bing: An Android Guide
+                        <a href="/boost-your-shipping-operations-how-top-transit-companies-enhance-productivity-using-abbyys-smart-ocr-technology/">
+                            Boost Your Shipping Operations: How Top Transit Companies Enhance Productivity Using ABBYY&#39;s Smart OCR Technology
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Maximizing AI in Bing: An Android Guide</p>
-
+                            Boost Your Shipping Operations: How Top Transit Companies Enhance Productivity Using ABBYY’s Smart OCR TechnologyBack to News...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:12 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:32:59 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -730,17 +786,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -749,26 +795,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/maximizing-ai-in-bing-an-android-guide/">Read more<span class="seo-reader-text">Maximizing AI in Bing: An Android Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/boost-your-shipping-operations-how-top-transit-companies-enhance-productivity-using-abbyys-smart-ocr-technology/">Read more<span class="seo-reader-text">Boost Your Shipping Operations: How Top Transit Companies Enhance Productivity Using ABBYY&#39;s Smart OCR Technology</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -784,31 +813,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/from-disorganized-to-organized-adopting-gpt-in-notetaking/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46b814d7626bddc0615133ba1.jpg" alt="From Disorganized to Organized: Adopting GPT in Notetaking" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/boost-site-engagement-with-cookiebot-technology-a-smart-marketing-solution/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393a63e41c230a883a3e7c64cd.jpg" alt="Boost Site Engagement with Cookiebot Technology - A Smart Marketing Solution" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/from-disorganized-to-organized-adopting-gpt-in-notetaking/">
-                            From Disorganized to Organized: Adopting GPT in Notetaking
+                        <a href="/boost-site-engagement-with-cookiebot-technology-a-smart-marketing-solution/">
+                            Boost Site Engagement with Cookiebot Technology - A Smart Marketing Solution
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes From Disorganized to Organized: Adopting GPT in Notetaking</p>
-
+                            Boost Site Engagement with Cookiebot Technology - A Smart Marketing SolutionBack to Webinars ‘The Zero Touch Goal’ - Using I...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:11 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:32:58 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -821,17 +849,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -840,26 +858,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/from-disorganized-to-organized-adopting-gpt-in-notetaking/">Read more<span class="seo-reader-text">From Disorganized to Organized: Adopting GPT in Notetaking</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/boost-site-engagement-with-cookiebot-technology-a-smart-marketing-solution/">Read more<span class="seo-reader-text">Boost Site Engagement with Cookiebot Technology - A Smart Marketing Solution</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -875,31 +876,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-top-5-online-courses-for-mastering-ai-prompt-engineering/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8a481c4e930fc983fb030e00.jpg" alt="The Top 5 Online Courses for Mastering AI Prompt Engineering" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/automated-marketing-campaigns-with-cookiebot-a-seamless-solution/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg" alt="Automated Marketing Campaigns with Cookiebot: A Seamless Solution" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-top-5-online-courses-for-mastering-ai-prompt-engineering/">
-                            The Top 5 Online Courses for Mastering AI Prompt Engineering
+                        <a href="/automated-marketing-campaigns-with-cookiebot-a-seamless-solution/">
+                            Automated Marketing Campaigns with Cookiebot: A Seamless Solution
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Top 5 Online Courses for Mastering AI Prompt Engineering</p>
-
+                            Automated Marketing Campaigns with Cookiebot: A Seamless SolutionABBYY FlexiCapture Cloud Embed FlexiCapture CapabilitiesThir...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:10 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:32:57 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -912,17 +912,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -931,26 +921,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/the-top-5-online-courses-for-mastering-ai-prompt-engineering/">Read more<span class="seo-reader-text">The Top 5 Online Courses for Mastering AI Prompt Engineering</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/automated-marketing-campaigns-with-cookiebot-a-seamless-solution/">Read more<span class="seo-reader-text">Automated Marketing Campaigns with Cookiebot: A Seamless Solution</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -966,31 +939,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-9-essentials-of-chatgptplus-for-expert-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7cabbe84615d93d1098bb494.jpg" alt="The 9 Essentials of ChatGPT+ for Expert Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1724312964380-ai-ocrabbyy/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e2e76dad4d19bc3d0f2882d9.jpg" alt="AI-OCRを活用した第一生命保険のオフィスプロセス最適化:ABBYY製品が切り開く新時代 - 業界ニュースと展望" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-9-essentials-of-chatgptplus-for-expert-users/">
-                            The 9 Essentials of ChatGPT+ for Expert Users
+                        <a href="/1724312964380-ai-ocrabbyy/">
+                            AI-OCRを活用した第一生命保険のオフィスプロセス最適化:ABBYY製品が切り開く新時代 - 業界ニュースと展望
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The 9 Essentials of ChatGPT+ for Expert Users</p>
-
+                            AI-OCRを活用した第一生命保険のオフィスプロセス最適化:ABBYY製品が切り開く新時代 - 業界ニュースと展望ニュースルーム 第一生命保険株式会社様にてABBYY製品をAI-OCR基盤に用いた事務オペレーションのオートメーション化を発表6月26...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:09 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:32:56 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1003,17 +975,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1022,26 +984,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/the-9-essentials-of-chatgptplus-for-expert-users/">Read more<span class="seo-reader-text">The 9 Essentials of ChatGPT+ for Expert Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1724312964380-ai-ocrabbyy/">Read more<span class="seo-reader-text">AI-OCRを活用した第一生命保険のオフィスプロセス最適化:ABBYY製品が切り開く新時代 - 業界ニュースと展望</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1057,31 +1002,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-guide-to-change-email-in-proton-browser/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3a3db1628b8f2814d2040ecfe00634d164ea4b5f3058a85b825026993cb96502.jpg" alt="Step-By-Step Guide to Change Email in Proton Browser" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unveiling-process-intelligence-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149d391d468a9425edc03d4511.png" alt="Unveiling Process Intelligence: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-guide-to-change-email-in-proton-browser/">
-                            Step-By-Step Guide to Change Email in Proton Browser
+                        <a href="/unveiling-process-intelligence-a-comprehensive-guide/">
+                            Unveiling Process Intelligence: A Comprehensive Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-By-Step Guide to Change Email in Proton Browser</p>
-
+                            Unveiling Process Intelligence: A Comprehensive Guide Also read: [New] 2024 Approved Navigating the Top 10 Live Streaming ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:08 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:32:55 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1094,17 +1038,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1113,26 +1047,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/step-by-step-guide-to-change-email-in-proton-browser/">Read more<span class="seo-reader-text">Step-By-Step Guide to Change Email in Proton Browser</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unveiling-process-intelligence-a-comprehensive-guide/">Read more<span class="seo-reader-text">Unveiling Process Intelligence: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1148,31 +1065,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/guidelines-for-discreet-storing-of-gpt-exchanges/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg" alt="Guidelines for Discreet Storing of GPT Exchanges" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unlocking-the-potential-top-3-factors-hindering-successful-digital-transformation-strategies-insights-from-abbyy/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/6037bb9c2891cc5de7a061886dcf26fb2fd27c5d5408d3641e03d7db63a65dce.jpg" alt="Unlocking the Potential: Top 3 Factors Hindering Successful Digital Transformation Strategies - Insights From ABBYY" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/guidelines-for-discreet-storing-of-gpt-exchanges/">
-                            Guidelines for Discreet Storing of GPT Exchanges
+                        <a href="/unlocking-the-potential-top-3-factors-hindering-successful-digital-transformation-strategies-insights-from-abbyy/">
+                            Unlocking the Potential: Top 3 Factors Hindering Successful Digital Transformation Strategies - Insights From ABBYY
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Guidelines for Discreet Storing of GPT Exchanges</p>
-
+                            Unlocking the Potential: Top 3 Factors Hindering Successful Digital Transformation Strategies - Insights From ABBYYBack to AB...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:07 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:32:54 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1185,17 +1101,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1204,26 +1110,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/guidelines-for-discreet-storing-of-gpt-exchanges/">Read more<span class="seo-reader-text">Guidelines for Discreet Storing of GPT Exchanges</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unlocking-the-potential-top-3-factors-hindering-successful-digital-transformation-strategies-insights-from-abbyy/">Read more<span class="seo-reader-text">Unlocking the Potential: Top 3 Factors Hindering Successful Digital Transformation Strategies - Insights From ABBYY</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1239,31 +1128,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/chatgpt-enhanced-strategies-for-effective-extension-use/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e8356d366094a908c72413f6.jpg" alt="ChatGPT Enhanced: Strategies for Effective Extension Use" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/tests-du-systeme-dinfotainment-par-le-groupe-volkswagen-utilisant-la-technologie-dingenierie-vocale-abbyy-finereader-engine/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb736f1516830c78d9ab2d4d1.jpg" alt="Tests Du Système D&#39;infotainment Par Le Groupe Volkswagen Utilisant La Technologie D&#39;ingénierie Vocale ABBYY FineReader Engine" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/chatgpt-enhanced-strategies-for-effective-extension-use/">
-                            ChatGPT Enhanced: Strategies for Effective Extension Use
+                        <a href="/tests-du-systeme-dinfotainment-par-le-groupe-volkswagen-utilisant-la-technologie-dingenierie-vocale-abbyy-finereader-engine/">
+                            Tests Du Système D&#39;infotainment Par Le Groupe Volkswagen Utilisant La Technologie D&#39;ingénierie Vocale ABBYY FineReader Engine
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes ChatGPT Enhanced: Strategies for Effective Extension Use</p>
-
+                            Tests Du Système D’infotainment Par Le Groupe Volkswagen Utilisant La Technologie D’ingénierie Vocale ABBYY FineReader Engine...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:06 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:32:53 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1276,17 +1164,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1295,26 +1173,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/chatgpt-enhanced-strategies-for-effective-extension-use/">Read more<span class="seo-reader-text">ChatGPT Enhanced: Strategies for Effective Extension Use</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/tests-du-systeme-dinfotainment-par-le-groupe-volkswagen-utilisant-la-technologie-dingenierie-vocale-abbyy-finereader-engine/">Read more<span class="seo-reader-text">Tests Du Système D&#39;infotainment Par Le Groupe Volkswagen Utilisant La Technologie D&#39;ingénierie Vocale ABBYY FineReader Engine</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1330,31 +1191,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/harnessing-ai-to-perfect-home-productivity-habits/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/dd74ca01dbc641b737d0316c96d8a2db1900c3240cb26343210c013c6153bd21.jpg" alt="Harnessing AI to Perfect Home Productivity Habits" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/streamline-fare-tracking-industry-pioneer-in-transport-finance-supercharges-invoice-validation-with-auto-processing-tools/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a210562c1ab5e7ca0ee4b18377.jpg" alt="Streamline Fare Tracking: Industry Pioneer in Transport Finance Supercharges Invoice Validation with Auto-Processing Tools" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/harnessing-ai-to-perfect-home-productivity-habits/">
-                            Harnessing AI to Perfect Home Productivity Habits
+                        <a href="/streamline-fare-tracking-industry-pioneer-in-transport-finance-supercharges-invoice-validation-with-auto-processing-tools/">
+                            Streamline Fare Tracking: Industry Pioneer in Transport Finance Supercharges Invoice Validation with Auto-Processing Tools
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Harnessing AI to Perfect Home Productivity Habits</p>
-
+                            Streamline Fare Tracking: Industry Pioneer in Transport Finance Supercharges Invoice Validation with Auto-Processing ToolsBac...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:05 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:32:51 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1367,17 +1227,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1386,26 +1236,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/harnessing-ai-to-perfect-home-productivity-habits/">Read more<span class="seo-reader-text">Harnessing AI to Perfect Home Productivity Habits</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/streamline-fare-tracking-industry-pioneer-in-transport-finance-supercharges-invoice-validation-with-auto-processing-tools/">Read more<span class="seo-reader-text">Streamline Fare Tracking: Industry Pioneer in Transport Finance Supercharges Invoice Validation with Auto-Processing Tools</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1421,31 +1254,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/originality-in-ai-language-processing-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/16e517e86ce5511ef20be02a34a06ee211f62f0d8653c2cec4d55484854e4b69.jpg" alt="Originality in AI Language Processing Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/record-call-audio-exchange-contact-details-and-hit-the-pavement-top-tips-from-the-abbyy-experts/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/130efd155dd3113027502bebb58cb6e6e0e86e94cc569dcea85fd93839ec481a.jpg" alt="Record Call Audio, Exchange Contact Details &amp; Hit The Pavement: Top Tips From the ABBYY Experts" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/originality-in-ai-language-processing-systems/">
-                            Originality in AI Language Processing Systems
+                        <a href="/record-call-audio-exchange-contact-details-and-hit-the-pavement-top-tips-from-the-abbyy-experts/">
+                            Record Call Audio, Exchange Contact Details &amp; Hit The Pavement: Top Tips From the ABBYY Experts
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Originality in AI Language Processing Systems</p>
-
+                            Record Call Audio, Exchange Contact Details &amp; Hit The Pavement: Top Tips From the ABBYY ExpertsBack to ABBYY Blog On Rec...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:04 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:32:50 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1458,17 +1290,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1477,26 +1299,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/originality-in-ai-language-processing-systems/">Read more<span class="seo-reader-text">Originality in AI Language Processing Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/record-call-audio-exchange-contact-details-and-hit-the-pavement-top-tips-from-the-abbyy-experts/">Read more<span class="seo-reader-text">Record Call Audio, Exchange Contact Details &amp; Hit The Pavement: Top Tips From the ABBYY Experts</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1512,31 +1317,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/exploring-ai-chatbot-restrictions-and-personal-repercussions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda26cad3482a8cc47d1c6fe1b.jpg" alt="Exploring AI Chatbot Restrictions &amp; Personal Repercussions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/optimizing-care-quality-at-athenahealth-with-cutting-edge-ehr-technologies-expert-advice-on-patient-contentment-from-abbyy-blog/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9eaf6ae422f8b959a2a9262d12.jpg" alt="Optimizing Care Quality at Athenahealth with Cutting-Edge EHR Technologies | Expert Advice on Patient Contentment From ABBYY Blog" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/exploring-ai-chatbot-restrictions-and-personal-repercussions/">
-                            Exploring AI Chatbot Restrictions &amp; Personal Repercussions
+                        <a href="/optimizing-care-quality-at-athenahealth-with-cutting-edge-ehr-technologies-expert-advice-on-patient-contentment-from-abbyy-blog/">
+                            Optimizing Care Quality at Athenahealth with Cutting-Edge EHR Technologies | Expert Advice on Patient Contentment From ABBYY Blog
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Exploring AI Chatbot Restrictions &amp; Personal Repercussions</p>
-
+                            Optimizing Care Quality at Athenahealth with Cutting-Edge EHR Technologies | Expert Advice on Patient Contentment From ABBYY ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 10:04:03 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 21 2024 15:32:49 GMT+0800">
                 
-                    2024-08-18
+                    2024-08-21
                 
             </span>
         </span>
@@ -1549,17 +1353,7 @@
                     
                         
                         <li>
-                            <a href="/categories/openAI/">openAI</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1568,26 +1362,9 @@
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/exploring-ai-chatbot-restrictions-and-personal-repercussions/">Read more<span class="seo-reader-text">Exploring AI Chatbot Restrictions &amp; Personal Repercussions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/optimizing-care-quality-at-athenahealth-with-cutting-edge-ehr-technologies-expert-advice-on-patient-contentment-from-abbyy-blog/">Read more<span class="seo-reader-text">Optimizing Care Quality at Athenahealth with Cutting-Edge EHR Technologies | Expert Advice on Patient Contentment From ABBYY Blog</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1597,7 +1374,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/322/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/321/">321</a><a class="page-number" href="/page/322/">322</a><span class="page-number current">323</span><a class="page-number" href="/page/324/">324</a><a class="page-number" href="/page/325/">325</a><span class="space">&hellip;</span><a class="page-number" href="/page/694/">694</a><a class="extend next" rel="next" href="/page/324/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/322/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/321/">321</a><a class="page-number" href="/page/322/">322</a><span class="page-number current">323</span><a class="page-number" href="/page/324/">324</a><a class="page-number" href="/page/325/">325</a><span class="space">&hellip;</span><a class="page-number" href="/page/746/">746</a><a class="extend next" rel="next" href="/page/324/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
