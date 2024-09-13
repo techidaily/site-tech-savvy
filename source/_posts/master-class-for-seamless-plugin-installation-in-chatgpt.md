@@ -1,7 +1,7 @@
 ---
 title: Master Class for Seamless Plugin Installation in ChatGPT
-date: 2024-09-06T23:38:47.392Z
-updated: 2024-09-07T23:38:47.392Z
+date: 2024-09-12T07:38:26.478Z
+updated: 2024-09-13T07:38:26.478Z
 tags:
   - chatgpt
   - open-ai
@@ -13,26 +13,8 @@ excerpt: This Article Describes Master Class for Seamless Plugin Installation in
 thumbnail: https://thmb.techidaily.com/41d26f14bdf26696cf95984fdfd711f6541c07a00007a689ba883cae0cffeaf7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Master Class for Seamless Plugin Installation in ChatGPT
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Are ChatGPT Plugins?](https://ukaidot.sjv.io/daqnoj)
@@ -42,11 +24,12 @@ thumbnail: https://thmb.techidaily.com/41d26f14bdf26696cf95984fdfd711f6541c07a00
 * [ChatGPT's Plugins Need More Work](https://newchic.sjv.io/jzg4zq)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ChatGPT Plugins enhance the AI by providing links to web services, but were removed due to redundancy in custom GPTs.
@@ -63,15 +46,36 @@ thumbnail: https://thmb.techidaily.com/41d26f14bdf26696cf95984fdfd711f6541c07a00
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are third-party extensions designed to extend the functionality of ChatGPT. According to OpenAI, "Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services."
 
 ![chatgpt plugins on chatgpt plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins-on-chatgpt-plus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The core function of a ChatGPT Plugin is to bring more useful information into ChatGPT, making the generative AI chatbot more useful.
 
  For example, you could use the Kayak and Expedia ChatGPT Plugins when you want to use ChatGPT to create a trip itinerary or the Polygon Plugin to get up-to-date information on crypto markets, stocks, and forex.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Many ChatGPT Plugins Are There?
 
@@ -79,12 +83,6 @@ thumbnail: https://thmb.techidaily.com/41d26f14bdf26696cf95984fdfd711f6541c07a00
 
 ![chatgpt plugins list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins-list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And yes, we're now calling it a platform because from here on, ChatGPT becomes more than "just a chatbot."
 
 ## How to Install a ChatGPT Plugin
@@ -95,12 +93,6 @@ thumbnail: https://thmb.techidaily.com/41d26f14bdf26696cf95984fdfd711f6541c07a00
 
 ![chatgpt plugin store option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-store-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt plugin instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-instructions.jpg)
 
 Close
@@ -116,17 +108,12 @@ Close
  However, there is currently no "All Plugins" list to make it easy to unsubscribe. Also, there is no way to sort the plugins, so you're left to scroll through every page until you find what you want. Search functionality will come with a later update, but having these user-friendly UI features ready would have been useful.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Use a ChatGPT Plugin
 
  How you use a ChatGPT Plugin depends on the plugin you install. But the general gist of ChatGPT plugin usage is similar to regular ChatGPT; you ask your question, and ChatGPT provides an answer. The accuracy of your answer [depends on the quality of your prompt](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/), but now also depends on the quality of the ChatGPT Plugin.
@@ -140,28 +127,31 @@ Close
 ![chatgpt plugin planning trip with kayak](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![chatgpt plugin planning trip with kayak adding more information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak-adding-more-information.jpg)
 
 ![chatgpt plugin planning trip with kayak final suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak-final-suggestions.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![skyscanner flights to malta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/skyscanner-flights-to-malta.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -175,32 +165,15 @@ Close
 
 ![chatgpt kayak plugin plans trip to new york](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-kayak-plugin-plans-trip-to-new-york.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For now, you might be better off searching for yourself or using a [GPT-enabled trip-planning app](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/).
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Planning Meals and Searching for Recipies
 
  Other ChatGPT Plugins have similar issues. I first asked the Tasty ChatGPT Plugin to "[help craft a week of healthy evening meals](https://www.makeuseof.com/create-healthy-meal-plan-using-chatgpt/) for a family of five," stipulating that all meals should be vegetarian. It found three recipes in its vast library of recipes that fit the bill. Realizing that wasn't good enough, it tried to search again but failed—twice.
@@ -209,17 +182,24 @@ Close
 
 ![chatgpt tasty plugin meal planning failure to list all meals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tasty-plugin-meal-planning-failure-to-list-all-meals.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Then, I asked if it could find a no-bake vanilla and raspberry cheesecake recipe. As this specific recipe didn't exist in the Tasty database, it couldn't provide an exact recipe but did suggest adapting a no-bake brownie cheesecake recipe. But instead of helping adapt it to the new flavor profile with specific steps, it just provided the original recipe.
 
  In both cases, a regular ChatGPT prompt returned much better results, using both GPT-3.5 and GPT-4\.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Creating a Spotify Playlist
 
@@ -227,30 +207,32 @@ Close
 
 ![chatgpt adding playlistai plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-adding-playlistai-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt playlistai pluging create playlist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-pluging-create-playlist.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt playlistai plugin hip hop suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-hip-hop-suggestions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![chatgpt playlistai plugin track suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-track-suggestions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt playlistai plugin playlist in spotify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-playlist-in-spotify.jpg)
 
 Close
@@ -258,6 +240,13 @@ Close
  The only issue arose when asking the plugin to combine the two playlists into one. PlaylistAI responded positively, showing that it had combined the two into a playlist titled "Melodic Techno Meets 90s Hip Hop," yet the playlist was still just hip-hop. In addition, PlaylistAI added three more hip-hop tracks to the original list, which isn't a problem, but it wasn't anything near what was asked.
 
  Also, right now, despite being connected to the internet and Spotify, the PlaylistAI cannot analyze an existing playlist and suggest related tracks, which, again, is frustrating.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT's Plugins Need More Work
 
@@ -271,8 +260,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -282,49 +269,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-your-guide-to-the-essentials-of-youtube-tv-usage/"><u>[New] 2024 Approved Your Guide to the Essentials of YouTube TV Usage</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-efficient-storage-of-androidmac-snaps-for-longevity/"><u>[New] Efficient Storage of Android/Mac Snaps for Longevity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-guide-to-diy-vr-headgear-crafting-a-personalized-google-model/"><u>[New] Guide to DIY VR Headgear Crafting a Personalized Google Model</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-a-critical-review-of-the-newest-vegaspro/"><u>2024 Approved A Critical Review of the Newest VegasPro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-distortion-methods-for-photography-tools/"><u>2024 Approved Advanced Distortion Methods for Photography Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/commanding-ai-premier-online-training-series/"><u>Commanding AI: Premier Online Training Series</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-content-like-a-pro-avoid-these-four-slip-ups-using-chatgpt/"><u>Crafting Content Like a Pro: Avoid These Four Slip-Ups Using ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-powerful-speeches-chatgpts-guide/"><u>Crafting Powerful Speeches: ChatGPT's Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/custom-gpt-boosts-elevating-chatgpts-interaction-quality/"><u>Custom GPT Boosts: Elevating ChatGPT's Interaction Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/data-mastery-in-excel-where-chatbot-dialogue-stumbles/"><u>Data Mastery in Excel, Where Chatbot Dialogue Stumbles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/design-personalized-language-agents/"><u>Design Personalized Language Agents</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-places-to-get-free-ebooks-online-top-17-picks/"><u>Discover the Best Places to Get Free eBooks Online - Top 17 Picks!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-day-to-day-chatgpt-integrations/"><u>Discovering Day-to-Day ChatGPT Integrations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tricks-for-instant-lenovo-t450-driver-enhancement-the-latest-guide/"><u>Easy Tricks for Instant Lenovo T450 Driver Enhancement: The Latest Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-dialogue-with-siri-assisted-chatgpt/"><u>Enhancing Dialogue with Siri-Assisted ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-helpdesk-operations-gpt-3-and-whatsapp-alliance/"><u>Enhancing Helpdesk Operations: GPT-3 & WhatsApp Alliance</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-11-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fake-chatgpt-chrome-extension-steals-facebook-logins/"><u>Fake ChatGPT Chrome Extension Steals Facebook Logins</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gameplay-gimmicks-voice-variations-in-free-fire-for-2024/"><u>Gameplay Gimmicks Voice Variations in Free Fire for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harmonizing-sound-dynamics-in-ableton-for-2024/"><u>Harmonizing Sound Dynamics in Ableton for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-7-tricks-that-work-wonders/"><u>Harnessing AI: 7 Tricks That Work Wonders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-the-full-spectrum-of-visions-with-chatgpts-ai-capabilities/"><u>Harnessing the Full Spectrum of Visions with ChatGPT's AI Capabilities</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-google-pixel-fold-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Google Pixel Fold Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-pivot-table-field-name-is-not-valid-error-in-excel-2016-by-stellar-guide/"><u>How to fix Pivot Table Field Name is not Valid error in Excel 2016?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-write-persuasive-proposals-with-chatgpt/"><u>How to Write Persuasive Proposals With ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/improving-text-through-gpt-usage/"><u>Improving Text Through GPT Usage</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-beyond-illusions-examining-vrs-disadvantages/"><u>In 2024, Beyond Illusions Examining VR's Disadvantages</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-80-pro-straight-screen-edition-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor 80 Pro Straight Screen Edition FRP?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-magic-5-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-no-hassle-sending-tweeted-videos-to-whatsapp/"><u>In 2024, No Hassle Sending Tweeted Videos to WhatsApp</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/increase-output-decrease-stress-ai-plugins-for-pdfs/"><u>Increase Output, Decrease Stress: AI Plugins for PDFs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-your-chatbot-revealing-too-much-neural-network-model-inversion-attacks-explained/"><u>Is Your Chatbot Revealing Too Much? Neural Network Model Inversion Attacks Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/less-hassle-more-joy-mastery-in-making-with-gpt/"><u>Less Hassle, More Joy: Mastery in Making with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-auto-gpt-installation-overcoming-6-frequent-hurdles/"><u>Navigating Auto-GPT Installation: Overcoming 6 Frequent Hurdles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nexus-of-innovation-chatai-plus-cryptocurrency/"><u>Nexus of Innovation: ChatAI + Cryptocurrency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prevent-ai-content-harvesting-efforts/"><u>Prevent AI Content Harvesting Efforts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-chatgpt-versus-browsing-enhanced-gpt-functions/"><u>Simple ChatGPT Versus Browsing-Enhanced GPT Functions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dark-side-of-conversational-bots-unveiling-the-8-critical-shortfalls/"><u>The Dark Side of Conversational Bots: Unveiling the 8 Critical Shortfalls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolutionary-tale-of-openais-language-powers-gpt-1-to-4/"><u>The Evolutionary Tale of OpenAI's Language Powers (GPT-1 to 4)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-unleashing-the-potential-of-gpts-language-system/"><u>The Future Is Now: Unleashing the Potential of GPT's Language System</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/iewership-archive-youtube-visionaries/"><u>Top Viewership Archive YouTube Visionaries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transcending-chatgpt-the-future-of-ai-dialogues/"><u>Transcending ChatGPT: The Future of AI Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-vision-mastering-ai-art-with-free-dall-e-3-through-bing/"><u>Transform Your Vision: Mastering AI Art with Free DALL-E 3 Through Bing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uniting-messaging-and-ai-chatgpt-in-whatsapp-support/"><u>Uniting Messaging and AI: ChatGPT in WhatsApp Support</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-or-install-new-hp-printer-software-today/"><u>Update or Install New HP Printer Software Today</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-beacon-of-beauty-broadcasting-launching-an-aesthetic-vlog/"><u>[New] 2024 Approved The Beacon of Beauty Broadcasting Launching an Aesthetic Vlog</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-5-cutting-edge-capture-apps-for-macos-users/"><u>[Updated] In 2024, Top 5 Cutting-Edge Capture Apps for macOS Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-method-for-recording-youtube-videos-on-any-device/"><u>2024 Approved The Ultimate Method for Recording YouTube Videos on Any Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-constraints-the-ineligible-question-list/"><u>AI Constraints: The Ineligible Question List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-nlp-giants-deep-dive-into-gpt-vs-bert/"><u>Deconstructing NLP Giants: Deep Dive Into GPT Vs. BERT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-ai-techniques-for-bing-android-app-users/"><u>Essential AI Techniques for Bing Android App Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-and-earn-entering-the-world-of-error-hunting-at-openai/"><u>Explore and Earn: Entering the World of Error Hunting at OpenAI</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cracking-the-code-of-photoshop-for-beginners/"><u>In 2024, Cracking the Code of Photoshop for Beginners</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-generating-income-with-every-swipe-up/"><u>In 2024, Generating Income with Every Swipe Up</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oppo-reno-10-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Oppo Reno 10 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-chatgpts-co-pilot-what-this-extension-means-for-users/"><u>Inside ChatGPT's Co-Pilot: What This Extension Means for Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-6-titans-the-mega-model-arena/"><u>Premier 6 Titans: The Mega-Model Arena</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/techno-mystery-thrillers-dive-into-4-innovative-ai-experiences/"><u>Techno-Mystery Thrillers: Dive Into 4 Innovative AI Experiences</u></a></li>
 </ul></div>
+

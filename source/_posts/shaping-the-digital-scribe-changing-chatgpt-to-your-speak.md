@@ -1,7 +1,7 @@
 ---
 title: "Shaping the Digital Scribe: Changing ChatGPT to Your Speak"
-date: 2024-09-06T23:41:11.569Z
-updated: 2024-09-07T23:41:11.569Z
+date: 2024-09-12T07:36:07.543Z
+updated: 2024-09-13T07:36:07.543Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Shaping the Digital Scribe: Changing ChatGPT to
 thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180bc67e42c2265df29bcc90c2.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Shaping the Digital Scribe: Changing ChatGPT to Your Speak
 
  ChatGPT generates remarkably human-like write-ups but lacks something important: a unique personal voice. While ChatGPT can compose thoughtful prose on any topic, the phrasing often rings hollow. To make ChatGPT truly your writing companion, you need to train it to write with your style, pacing, word choices, and tone.
@@ -30,11 +24,12 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
  Fortunately, with a few prompting techniques, you can train ChatGPT to adopt a unique writing style that matches yours.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2 Ways to Teach ChatGPT to Write Like You
 
  To get started, we'll assume the persona of a detail-oriented author who uses a lively, engaging tone, provides detailed, accessible explanations, make liberal use of analogies, and address the reader directly throughout their text. The author also has a knack for using analogies to explain key concepts. [Here's a sample of the author's work](https://www.makeuseof.com/how-does-chatgpt-work/).
@@ -51,11 +46,12 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
  Both options require a different approach, which you can check out below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. Training ChatGPT With Samples of Your Work
 
  To train ChatGPT with samples of your work, head over to ChatGPT and use the prompt below, immediately followed by a sample of your written work that best captures your writing style.
@@ -79,11 +75,12 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
  Also, for the best results, we recommend using GPT-4 and, specifically, the GPT-4 Code Interpreter plugin for the task. You'll be able to work with more text or even, ideally, stack several articles in a text or word file and ask ChatGPT to analyze the content for its writing style.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Training ChatGPT Using a Personal Preference Map (PPM)
 
  A Personal Preference Map (PPM) is a key-value list of preferences ChatGPT can use to produce responses that better align with your preference. In this case, ChatGPT can extract a PPM from written samples to learn about your writing preferences and use it to replicate your writing style on demand. If you are unfamiliar with PPM, we've discussed it extensively in MakeUseOf's [eBook on Unlocking the Potential of ChatGPT](https://www.makeuseof.com/unlock-secrets-of-chatgpt-with-free-ebook-unlocking-the-potential-of-chatgpt/). It is lightweight and easy to read, so do check it out.
@@ -106,6 +103,13 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
 
  Another advantage of using a PPM is the flexibility and portability it offers. You can easily tweak the writing style with precision by hanging a few words. You can also use the PPM in a different AI chatbot like Claude AI or Google Bard. We used the PPM above [on the Claude AI chatbot](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/) and asked it to give it a topic to write. It was able to replicate as many of the stylistic elements used by the target author as possible.
@@ -113,17 +117,19 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Make ChatGPT Work for You
 
  The beauty of ChatGPT is its versatility—with the right guidance, the AI chatbot can be taught to write in practically any style you want. If you're tired of ChatGPT's soulless writing style, you don't have to settle for it. ChatGPT can do better than bland, generic outputs. With the right mix of training data, prompts, and feedback, you can transform this AI chatbot into your own writing doppelganger. Go for it.
@@ -132,14 +138,11 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
  Fortunately, with a few prompting techniques, you can train ChatGPT to adopt a unique writing style that matches yours.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,47 +153,20 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-richest-ringtone-repositories-online/"><u>2024 Approved Richest Ringtone Repositories Online</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-trendsetters-on-twitternet-top-10-threads-ranking/"><u>2024 Approved Trendsetters on Twitternet Top 10 Threads Ranking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-path-to-costless-image-archives/"><u>2024 Approved Unveiling the Path to Costless Image Archives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-in-action-selecting-your-social-sphere-sidekick/"><u>AI in Action: Selecting Your Social Sphere Sidekick</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-toys-six-key-points-about-snapchats-my-ai/"><u>Beyond Toys: Six Key Points About Snapchat’s My AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-gaps-solutions-for-sync-issues-in-chatgpt-and-services/"><u>Bridging Gaps: Solutions for Sync Issues in ChatGPT & Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-human-imagination-to-reality-in-ai-artwork/"><u>Bridging Human Imagination to Reality in AI Artwork</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bringing-the-future-home-gpt-4-for-crafters/"><u>Bringing the Future Home: GPT-4 for Crafters</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canon-ip110-printer-driver-download-compatible-with-various-windows-versions-including-win-11-10-8-and-7/"><u>Canon iP110 Printer Driver Download: Compatible with Various Windows Versions Including Win 11, 10, 8 & 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-standard-features-and-applications/"><u>ChatGPT’s Standard Features and Applications</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/comprehensive-guide-to-permanently-sever-tiktok-connection/"><u>Comprehensive Guide to Permanently Sever TikTok Connection</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprehensive-tutorial-for-zoom-and-gmail-users-for-2024/"><u>Comprehensive Tutorial for Zoom and Gmail Users for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/counterfeit-chronicles-detecting-computer-generated-writing/"><u>Counterfeit Chronicles: Detecting Computer-Generated Writing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-ais-pivotal-role-in-prompt-creation-and-employment-trends/"><u>Dissecting AI's Pivotal Role in Prompt Creation & Employment Trends</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-latest-drivers-for-nvidia-quadro-rtx-8000-on-windows-1087/"><u>Download Latest Drivers for Nvidia Quadro RTX ‌‌8000 on Windows 10/8/7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empower-your-communication-master-chatgpt/"><u>Empower Your Communication: Master ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-code-with-microsoft-copilot-on-a-mac/"><u>Enhancing Your Code with Microsoft Copilot on a Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-mechanics-of-turings-trial-and-success-rates/"><u>Exploring the Mechanics of Turing's Trial & Success Rates</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-download-official-acer-bluetooth-drivers/"><u>Fast Download: Official Acer Bluetooth Drivers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-7-plus-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 7 Plus to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-infinix-smart-7-hd-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Infinix Smart 7 HD Activity | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-your-path-in-youtube-livestreams-on-mobiles/"><u>In 2024, Pioneering Your Path in YouTube Livestreams on Mobiles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/initiate-low-cost-windows-ai-simulation-via-gpt4all/"><u>Initiate Low-Cost Windows AI Simulation via GPT4All</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-the-ai-revolution-with-gpt-3-and-python/"><u>Leading the AI Revolution with GPT-3 & Python</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-dev-workflows-combining-chatgpt-and-vs-code-best-practices/"><u>Mastering Dev Workflows: Combining ChatGPT & VS Code Best Practices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpts-extension-signup-procedure/"><u>Navigating ChatGPT's Extension Signup Procedure</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-through-6-standard-gpt-mistakes-and-remedies/"><u>Navigating Through 6 Standard GPT Mistakes & Remedies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prime-ai-platforms-accelerating-cyber-search-success/"><u>Prime AI Platforms Accelerating Cyber Search Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-assessing-job-viability-and-growth-potential/"><u>Prompt Engineering: Assessing Job Viability and Growth Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/realize-creative-possibilities-with-openais-api-excellence/"><u>Realize Creative Possibilities with OpenAI's API Excellence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-androidios-engagement-with-chatgpt/"><u>Seamless Android/iOS Engagement with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shell-command-guide-to-engage-with-chatgpt/"><u>Shell Command Guide to Engage with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-with-chatgpt-and-android/"><u>Step Into the Future with ChatGPT and Android</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategies-doptimisation-pour-les-medias-conseils-et-solutions/"><u>Stratégies D'Optimisation Pour Les Médias: Conseils Et Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talk-to-drive-smart-mercedes-vehicle-ai-and-speech-update/"><u>Talk to Drive Smart: Mercedes Vehicle AI & Speech Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talking-to-chatgpt-on-android-the-voicegpt-way/"><u>Talking to ChatGPT on Android – The VoiceGPT Way</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rise-of-gptbot-examining-its-capabilities-and-controversies/"><u>The Rise of GPTBot: Examining Its Capabilities & Controversies</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-oppo-reno-10-pro-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Oppo Reno 10 Pro 5G without backup.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-ideas-to-video-content-a-chatgpt-approach/"><u>Transforming Ideas to Video Content: A ChatGPT Approach</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-dangers-in-automated-psychological-assistance/"><u>Understanding Dangers in Automated Psychological Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-imagination-gpt-dall-e-in-crafting-dandd-characters/"><u>Unleashing Imagination: GPT, DALL-E in Crafting D&D Characters</u></a></li>
-<li><a href="https://discover-great.techidaily.com/winx-dvd-ripper-pro-free-downloads-and-comprehensive-faqs-start-dvd-copying-today/"><u>WinX DVD Ripper Pro: Free Downloads & Comprehensive FAQs - Start DVD Copying Today!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-frontline-firefight-top-7-fps-battles-ranked-for-2024/"><u>[New] Frontline Firefight - Top 7 FPS Battles Ranked for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-origami-like-folded-havens-in-mc-for-2024/"><u>[Updated] Origami-Like Folded Havens in MC for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-interactive-exchanges-advance-ai-learning-in-chatgpt-ecosystem/"><u>Can Interactive Exchanges Advance AI Learning in ChatGPT Ecosystem?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenge-the-chatgpt-token-count-norms/"><u>Challenge the ChatGPT Token Count Norms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/correcting-contact-details-in-protonvpn-extension/"><u>Correcting Contact Details in ProtonVPN Extension</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cross-platform-capture-made-simple-for-pc-mac-and-ios/"><u>Cross-Platform Capture Made Simple for PC, Mac & iOS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-connectivity-problems-between-corsair-hs35-headset-and-windows-system/"><u>How to Resolve Connectivity Problems Between Corsair HS35 Headset and Windows System</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-superior-free-fb-visual-storyteller-tool/"><u>In 2024, Superior Free FB Visual Storyteller Tool</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-through-idea-stagnation-with-these-5-ai-assistants/"><u>Navigate Through Idea Stagnation With These 5 AI Assistants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-interviewing-techniques-with-chatgpt/"><u>Optimize Your Interviewing Techniques with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quit-juxtaposing-ai-pros-and-cons-insightful-observations/"><u>Quit Juxtaposing AI Pros & Cons: Insightful Observations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-allure-of-gpt-to-malicious-actors/"><u>The Allure of GPT to Malicious Actors</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-10-recommended-sites-for-downloading-creative-end-credit-melodies-lawfully/"><u>Updated 10 Recommended Sites for Downloading Creative End Credit Melodies Lawfully</u></a></li>
 </ul></div>
+

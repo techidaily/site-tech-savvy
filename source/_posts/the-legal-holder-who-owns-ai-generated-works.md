@@ -1,7 +1,7 @@
 ---
 title: "The Legal Holder: Who Owns AI-Generated Works?"
-date: 2024-09-06T23:37:17.359Z
-updated: 2024-09-07T23:37:17.359Z
+date: 2024-09-12T07:39:54.122Z
+updated: 2024-09-13T07:39:54.122Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes The Legal Holder: Who Owns AI-Generated Works?"
 thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16a9fa8da6c72d7e20d694e32.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Legal Holder: Who Owns AI-Generated Works?
 
  As AI technologies get powerful and more people start using them, we face another ethical question: who owns the copyright to AI creations?
@@ -30,17 +24,12 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
  After all, since AI isn't human, it cannot hold ownership over its creations. So, if an AI makes something, who do we attribute it to? The AI's programmer? The person who initiated the prompts? Or the sources the AI used?
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Is Copyright? Does It Apply to Non-Human Creations?
 
  Before talking about copyright, we must first define it. According to the [US Copyright Office](https://www.copyright.gov/what-is-copyright/) (USCO), "Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression."
@@ -56,11 +45,18 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 ![sefl portrait of a Macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_large.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File%3AMacaca%5Fnigra%5Fself-portrait%5Flarge.jpg)
 
 ![full body self-portrait of a macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_full_body.jpg)
@@ -79,12 +75,6 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -92,6 +82,13 @@ Close
  Although the USCO issued a copyright in September 2022, it said it did it in error. When it came to light that the comic book was produced using MidJourney AI, its copyright protection was revoked.
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
 
@@ -104,14 +101,22 @@ Close
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
 
@@ -128,11 +133,12 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Ethics of AI
 
  Although AI tools are powerful, valuable tools that'll help us be more efficient, it's untested and unprecedented technology. AI could have unintended consequences, so we should be careful when using this technology.
@@ -143,14 +149,11 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
  After all, since AI isn't human, it cannot hold ownership over its creations. So, if an AI makes something, who do we attribute it to? The AI's programmer? The person who initiated the prompts? Or the sources the AI used?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,45 +164,16 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fixing-failed-video-uploads-on-facebook-live-features/"><u>[New] In 2024, Fixing Failed Video Uploads on Facebook Live Features</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-blueprint-entering-itunes-and-google-play-listings/"><u>[New] The Blueprint Entering iTunes and Google Play Listings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-convert-songs-to-calls-essential-websites-for-youtubetones-extraction/"><u>2024 Approved Convert Songs to Calls Essential Websites for YoutubeTones Extraction</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastery-of-tasks-with-the-help-of-ez-grabber/"><u>2024 Approved Mastery of Tasks with the Help of EZ Grabber</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-sound-engineering-simplified-gradual-diminishment-in-lumafusion/"><u>2024 Approved Sound Engineering Simplified Gradual Diminishment in Lumafusion</u></a></li>
-<li><a href="https://solve-news.techidaily.com/ace-the-art-of-digital-media-top-notch-dvd-and-video-converting-tools-from-digiarty/"><u>Ace the Art of Digital Media: Top-Notch DVD & Video Converting Tools From Digiarty</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-personalization-and-privacy-in-gpt-applications/"><u>Balancing Personalization and Privacy in GPT Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/copilot-mode-free-access-to-gpt-4s-best-features/"><u>Copilot Mode: Free Access to GPT-4's Best Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-content-like-a-pro-avoid-these-four-slip-ups-using-chatgpt/"><u>Crafting Content Like a Pro: Avoid These Four Slip-Ups Using ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-powerful-speeches-chatgpts-guide/"><u>Crafting Powerful Speeches: ChatGPT's Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/data-mastery-in-excel-where-chatbot-dialogue-stumbles/"><u>Data Mastery in Excel, Where Chatbot Dialogue Stumbles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/defining-artificial-intelligence-power-and-potential/"><u>Defining Artificial Intelligence: Power & Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/design-personalized-language-agents/"><u>Design Personalized Language Agents</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-day-to-day-chatgpt-integrations/"><u>Discovering Day-to-Day ChatGPT Integrations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-helpdesk-operations-gpt-3-and-whatsapp-alliance/"><u>Enhancing Helpdesk Operations: GPT-3 & WhatsApp Alliance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enriching-virtual-teams-engagement-through-chatai/"><u>Enriching Virtual Teams' Engagement Through ChatAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exiting-the-chatgpt-world-a-how-to/"><u>Exiting the ChatGPT World: A How-To</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-7-tricks-that-work-wonders/"><u>Harnessing AI: 7 Tricks That Work Wonders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-the-full-spectrum-of-visions-with-chatgpts-ai-capabilities/"><u>Harnessing the Full Spectrum of Visions with ChatGPT's AI Capabilities</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nokia-c12-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nokia C12 Pro?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/improving-text-through-gpt-usage/"><u>Improving Text Through GPT Usage</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-add-border-to-instagram-video-3-ways/"><u>In 2024, How to Add Border to Instagram Video? [3 Ways]</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-turning-on-adaptive-hdr-in-windows-11/"><u>In 2024, Turning on Adaptive HDR in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-browsing-made-simple-unleash-bing-ai-on-your-devices/"><u>Intelligent Browsing Made Simple: Unleash Bing AI on Your Devices.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-your-chatbot-revealing-too-much-neural-network-model-inversion-attacks-explained/"><u>Is Your Chatbot Revealing Too Much? Neural Network Model Inversion Attacks Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-sidestep-these-essential-errors/"><u>Mastering ChatGPT: Sidestep These Essential Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/microsoft-bing-with-ai-powered-search-how-your-search-experience-will-change/"><u>Microsoft Bing With AI-Powered Search: How Your Search Experience Will Change</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-auto-gpt-installation-overcoming-6-frequent-hurdles/"><u>Navigating Auto-GPT Installation: Overcoming 6 Frequent Hurdles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nexus-of-innovation-chatai-plus-cryptocurrency/"><u>Nexus of Innovation: ChatAI + Cryptocurrency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-chatgpts-revolutionary-feature-set-revealed/"><u>Pioneering Progress: ChatGPT's Revolutionary Feature Set Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/plagiarism-perils-chatbot-source-evaluation/"><u>Plagiarism Perils: Chatbot Source Evaluation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proving-ai-as-the-bartender-of-tomorrow/"><u>Proving AI as the Bartender of Tomorrow</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ready-for-action-top-6-thrilling-chatgpt-designed-games-await/"><u>Ready for Action? Top 6 Thrilling ChatGPT-Designed Games Await</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-gsdll32dll-missing-file-issues-a-step-by-step-guide/"><u>Resolving gsdll32.dll Missing File Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-chatgpt-versus-browsing-enhanced-gpt-functions/"><u>Simple ChatGPT Versus Browsing-Enhanced GPT Functions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolutionary-tale-of-openais-language-powers-gpt-1-to-4/"><u>The Evolutionary Tale of OpenAI's Language Powers (GPT-1 to 4)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-unleashing-the-potential-of-gpts-language-system/"><u>The Future Is Now: Unleashing the Potential of GPT's Language System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tips-for-top-notetakers-using-chatgpt/"><u>Tips for Top Notetakers Using ChatGPT</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/k-youtubes-small-screen-image-magic/"><u>Unlock YouTube's Small Screen Image Magic</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-11-no-cost-audio-transformation-apps-for-ios-devices/"><u>Updated In 2024, Top 11 No-Cost Audio Transformation Apps for iOS Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-strategies-for-ppt-on-google-meet-laptopiosandroid-for-2024/"><u>[Updated] Essential Strategies for PPT on Google Meet Laptop/iOS/Android for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-tranquil-tracks-easy-volume-diminution-via-garageband/"><u>[Updated] Tranquil Tracks Easy Volume Diminution via Garageband</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-8-virtual-reality-vr-gaming-accessories/"><u>2024 Approved Top 8 Virtual Reality (VR) Gaming Accessories</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-realme-narzo-60-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme Narzo 60 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-text-typos-with-these-6-techniques-to-fix-iphones-autocorrect-issues/"><u>Avoid Text Typos with These 6 Techniques to Fix iPhone's Autocorrect Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-firmware-how-to-upgrade-your-netgear-wireless-card/"><u>Download Updated Firmware: How to Upgrade Your NETGEAR Wireless Card</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xperia-10-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xperia 10 V?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/join-openais-quest-track-and-report-software-glitches/"><u>Join OpenAI's Quest: Track and Report Software Glitches!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/make-friends-with-ai-at-bing-start-using-now-guide/"><u>Make Friends With AI at Bing: Start Using Now Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-gpt-capabilities-with-these-9-must-try-plugins/"><u>Maximize GPT Capabilities with These 9 Must-Try Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-great-ai-debate-on-social-platforms/"><u>The Great AI Debate on Social Platforms</u></a></li>
 </ul></div>
+

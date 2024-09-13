@@ -1,7 +1,7 @@
 ---
 title: "AI's Wit Workshop: Do Computers Learn to Chuckle?"
-date: 2024-09-06T23:35:42.246Z
-updated: 2024-09-07T23:35:42.246Z
+date: 2024-09-12T07:41:27.454Z
+updated: 2024-09-13T07:41:27.454Z
 tags:
   - chatgpt
   - open-ai
@@ -23,15 +23,22 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 
  But can it make us laugh? Laughter is a base human response to emotional stimuli. This makes it a perfect test for AIs continuing development. So, let's put AI under the spotlight and see if it can generate more than just words but an emotional response in the form of laughter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Does ChatGPT Generate Comedy?
 
 ![Screenshot of AI Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-ai-joke.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Laughter is all about fun. So, let's have a little fun as we go. At the end of each section, we will list two jokes. One will be our corny attempt at humor, and the other will be an AI-generated joke. But will you be able to tell the difference?
 
@@ -49,27 +56,16 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 * **Joke Two:** A man walks into a bar with a piece of asphalt under his arm. He says to the bartender, "I'll take a beer and one for the road."
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Can ChatGPT Do?
 
 ![Screenshot of ChatGPT Knock Knock Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-knock-knock-joke.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This is an evolving technology that has limitations. It is unlikely to replace stand-up comedians anytime soon. But is it a useful tool for comedy? Let's discuss some of the ways that AI can be used in comedy.
 
 1. **Content Creation:** The most obvious use of AI is in the generation of comedy content. This could be in the form of simple jokes, but it can also be used to write entire sketches, scripts, and short stories. There are already [plenty of content creation platforms](https://www.makeuseof.com/best-online-ai-tools-content-creation/) to choose from.
@@ -80,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 
 * **Joke Three:** Knock, knock! _Who's there?_ May fourth. _May fourth who?_ May the fourth be with you.
 * **Joke Four:** Knock Knock! _Who's there?_ Boo. _Boo who_? Don't cry, it's just a computer program making jokes!
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Can't ChatGPT Do?
 
@@ -99,27 +102,23 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 * **Joke Six:** I saw this advert in a window that said: "Television for sale, $1, volume stuck on full." I thought, "I can't turn that down."
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Is the Future of AI In Comedy?
 
 ![Screenshot AI Joke about the future of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-ai-joke-about-the-future-of-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  There are moral and ethical implications to consider here. However, these fall outside the scope of the question that this article poses: Can AI make us laugh?
 
  AI is being used to create artwork, music, and text. Many of the limitations that AI is experiencing in these fields are magnified in comedy. Comedy has subtleties that perhaps a nice melody or a pretty picture doesn't. Granted, there is subtlety in all forms of artwork that determine the success or failure of the piece, but comedy requires a deeper understanding of humanity's response to situations.
@@ -134,11 +133,18 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 * **Joke Eight:** Why did the computer go to the doctor? Because it had a virus!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Last Laugh
 
  AI is many things, but we struggled to get it to make us laugh. Getting it to generate jokes was no laughing matter! The humor was flat without the subtlety at the heart of much great comedy. For the record, joke numbers one, three, six, and seven were human-generated, and the others were AI-generated.
@@ -155,8 +161,6 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,39 +170,16 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-screencast-primer-fundamental-knowledge-for-video-enthusiasts/"><u>[New] 2024 Approved The Screencast Primer Fundamental Knowledge for Video Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-notch-passport-pictures-create-and-save-with-our-free-tool/"><u>[Updated] Top-Notch Passport Pictures - Create and Save with Our Free Tool</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-tricks-for-capturing-video-tweets-and-converting-to-audible-format/"><u>2024 Approved Tricks for Capturing Video Tweets and Converting to Audible Format</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oneplus-12r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track OnePlus 12R without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accessing-ai-dialogue-bashscripting-and-shellgpt-integration/"><u>Accessing AI Dialogue: BashScripting and ShellGPT Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/amd-zen-amo-upgraded-ayaneo-am01-the-new-minimalist-macintosh-inspired-pc/"><u>AMD Zen Amo Upgraded Ayaneo AM01: The New Minimalist Macintosh-Inspired PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-explained-advantages-and-hazards/"><u>Artificial Intelligence Explained: Advantages and Hazards</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-the-impact-of-ai-on-search-algorithms/"><u>Assessing the Impact of AI on Search Algorithms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-human-and-machine-for-exceptional-job-applications/"><u>Bridging Human and Machine for Exceptional Job Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-on-guard-protecting-privacy-against-3-main-risks/"><u>Chatbots on Guard: Protecting Privacy Against 3 Main Risks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-adventures-playing-text-rpg-with-chatgpt/"><u>Crafting Adventures: Playing Text-RPG with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-unforgettable-chat-experiences-5-best-techniques-for-tailored-gpt-commands/"><u>Crafting Unforgettable Chat Experiences: 5 Best Techniques for Tailored GPT Commands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creative-ais-face-off-on-equal-ground-prompt/"><u>Creative AIs Face Off on Equal Ground Prompt</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-the-facebook-content-moderation-authority/"><u>Decoding the Facebook Content Moderation Authority</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-and-enhance-discover-top-9-gpt-integration-tools/"><u>Elevate & Enhance: Discover Top 9 GPT Integration Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-browser-ai-experience-with-top-7-fixes/"><u>Elevate Browser AI Experience with Top 7 Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/five-easy-steps-to-enhance-freelancing-with-chatgpt/"><u>Five Easy Steps to Enhance Freelancing with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-linguistic-threshold-forbidden-dialogues/"><u>GPT Linguistic Threshold - Forbidden Dialogues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-a60s-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel A60s to Outlook | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-15-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 15 Plus and iPad Securely</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovation-unleashed-learning-to-use-free-dall-e-3-via-bing/"><u>Innovation Unleashed: Learning to Use Free DALL-E 3 via Bing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-generative-language-models-in-training/"><u>Leveraging Generative Language Models in Training</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-link-distribution-in-ai-dialogue-exchange/"><u>Mastering Link Distribution in AI Dialogue Exchange</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastery-in-privacy-controls-email-change-through-protonbrowser/"><u>Mastery in Privacy Controls: Email Change Through ProtonBrowser</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-netflix-subtitle-translation-methods-comprehensive-guide/"><u>New In 2024, Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964673483-overcoming-intel-chipset-drivers-hurdles-csr85-and-a10-on-windows-systems-fixed/"><u>Overcoming Intel Chipset Drivers Hurdles: CSR85# and A10 on Windows Systems Fixed!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peeling-back-layers-in-ai-security-how-do-prompt-injections-work/"><u>Peeling Back Layers in AI Security: How Do Prompt Injections Work?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfect-pair-codegpts-integration-into-visual-studio-code/"><u>Perfect Pair: CodeGPT's Integration Into Visual Studio Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protect-yourself-key-gpt-frauds-exposed/"><u>Protect Yourself: Key GPT Frauds Exposed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/skeptics-playlist-free-pc-games-reviewed/"><u>Skeptic's Playlist: Free PC Games Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-linguistics-at-your-fingertips-with-palm-2/"><u>The Future of Linguistics at Your Fingertips with PaLM 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-unique-excel-skills-no-chatgpt-has/"><u>The Unique Excel Skills No ChatGPT Has</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transform-your-internet-experience-with-the-netgear-nighthawk-rax80-a-review-of-superior-speeds-in-a-striking-package/"><u>Transform Your Internet Experience with the Netgear Nighthawk RAX80 - A Review of Superior Speeds in a Striking Package</u></a></li>
-<li><a href="https://video-capture.techidaily.com/transform-your-mobile-broadcasting-top-tips-in-obs-studio-for-2024/"><u>Transform Your Mobile Broadcasting Top Tips in OBS Studio for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trustworthiness-of-chatgpt-fact-or-fiction/"><u>Trustworthiness of ChatGPT: Fact or Fiction?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-2023s-top-social-moment-infographics/"><u>[New] 2024 Approved 2023'S Top Social Moment Infographics</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a38-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-free-gpt-4-for-all/"><u>Breaking Barriers: Free GPT-4 for All</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-google-pixel-8-pro-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gauging-ai-as-a-partner-in-penning-stories/"><u>Gauging AI as a Partner in Penning Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/herunterladen-von-4k-demovideos-auf-youtube-ohne-kompression-vollformat-beibehalten/"><u>Herunterladen Von 4K Demovideos Auf YouTube Ohne Kompression - Vollformat Beibehalten</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instatilecraft-create-impressive-androidplusios-vids/"><u>InstaTilecraft Create Impressive Android+iOS Vids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-the-digital-world-easier-bings-new-ai-search-feature-for-phones/"><u>Navigate the Digital World Easier: Bing’s New AI Search Feature for Phones.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/superior-ai-collaboration-select-the-best-tools-for-prompts/"><u>Superior AI Collaboration: Select the Best Tools for Prompts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-rpcrt4dll-cant-be-found-message-on-windows-pc/"><u>Troubleshooting the 'rpcrt4.dll' Can't Be Found Message on Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verse-virtuosos-vs-artificial-shepherds-purebred-alpacas-rivalry/"><u>Verse Virtuosos vs Artificial Shepherds, Purebred Alpacas' Rivalry</u></a></li>
 </ul></div>
+

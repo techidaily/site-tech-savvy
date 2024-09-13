@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT: A Game Changer in the World of Advanced Excel Workflows"
-date: 2024-09-06T23:40:10.531Z
-updated: 2024-09-07T23:40:10.531Z
+date: 2024-09-12T07:37:06.327Z
+updated: 2024-09-13T07:37:06.327Z
 tags:
   - chatgpt
   - open-ai
@@ -23,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 
  With the help of this AI language model, you can seek assistance with Excel-related problems, create formulas, and receive real-time responses to help you make the most out of Excel. In this article, we will explore some effective ways to use ChatGPT in Excel and discover how it can enhance your data analysis experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Use ChatGPT to Create and Implement Formulas
 
  Creating or finding the right Excel formulas can be intimidating and time-consuming. Moreover, if the formula contains an error, it can produce incorrect results, which can be even more complicated to fix.
@@ -41,32 +35,28 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 
 ![Asking ChatGPT a question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here is how it responded:
 
 ![ChatGPT creating a formula](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-answer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We followed the exact steps in our Excel spreadsheet, and the formula calculated the total sales accurately.
 
 ![Results in the Excel sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-sheet-results.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When asking ChatGPT to create formulas for you, there are a few things to keep in mind:
 
 * The more information you give, the better. Make sure your instructions are clear and specific. If the spreadsheet isn’t too long, you can copy its contents and provide them to the chatbot for a more accurate response. We have also talked about [how to write effective ChatGPT prompts for the best answers](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) in our previous guide, which you can refer to for this purpose.
@@ -90,16 +80,24 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 
 ![Excel sheet example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-sheet-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We want to create a filter that will display the total sales made in the first quarter for the North region. We described this to ChatGPT and created a macro for this, as shown below:
 
 ![Excel macro example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-macro-example-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you have the required macro, let’s implement and run it:
 
 1. Press the **Alt** \+ **F11** keys on your keyboard to open the Visual Basic Editor.
@@ -111,26 +109,35 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 6. Click **Save** to save the macro file.  
 ![Save the macro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/save-macro.jpg)
 7. Now, return to your worksheet and head over to the **Developer** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click on **Macros** and choose **FilterData** from the list.
 9. Finally, hit **Run**.  
 ![Run the macro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-macro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  This macro will now filter your data to show only the sales for the targeted region.
 
 ![Macro result in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/macro-result.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use ChatGPT to Automate Sending Emails
 
  When managing a large team, automating tasks such as sending emails can be a lifesaver. Excel provides various methods to automate sending emails, which is especially useful when emailing a group of people with similar details on a regular basis. Additionally, incorporating ChatGPT can further streamline the email automation process for maximum efficiency.
@@ -146,17 +153,18 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
  Additionally, you can use ChatGPT to troubleshoot issues in Excel by providing it with the details of the error you are encountering. While there are a number of [things ChatGPT can't do in Excel](https://www.makeuseof.com/things-to-do-excel-chatgpt-cant/) yet, it's a great tool that can help you become a spreadsheet pro.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ChatGPT to the Rescue
 
  ChatGPT is a valuable resource to get the most out of Excel. You can use it to create new formulas, get assistance with any spreadsheet errors, and even learn new skills by asking it to explain how certain features work. If used right, it can help you maximize your Excel productivity and get over any spreadsheet fears that you may have.
@@ -171,8 +179,6 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,46 +188,15 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-cutting-costs-on-cam-recording-a-compreited-analysis-and-recommendations/"><u>[New] Cutting Costs on Cam Recording – A Compreited Analysis & Recommendations</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-viewing-experience-enable-av1-on-youtube/"><u>[New] In 2024, Elevate Viewing Experience – Enable AV1 on YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-precision-and-power-a-filmmakers-guide-to-professional-voice-over-techniques/"><u>[New] Precision and Power A Filmmaker's Guide to Professional Voice-Over Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-use-aiseesoft-screen-recorder/"><u>[Updated] How to Use Aiseesoft Screen Recorder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accelerating-progress-masterful-ai-tricks-and-tips/"><u>Accelerating Progress: Masterful AI Tricks and Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alerting-against-deceptive-chatgpt-platforms/"><u>Alerting Against Deceptive ChatGPT Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apex-6-behemoths-in-large-scale-lms-tech/"><u>Apex 6 Behemoths in Large-Scale LMS Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmented-illusions-the-top-30-creative-directions-for-ai-artistry/"><u>Augmented Illusions: The Top 30 Creative Directions for AI Artistry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-human-vision-ai-fails-to-perceive-content-risks/"><u>Beyond Human Vision, AI Fails to Perceive Content Risks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-writers-6-new-horizons-explored/"><u>ChatGPT for Writers: 6 New Horizons Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-unchanged-rejecting-dumbness-claims/"><u>ChatGPT Unchanged: Rejecting Dumbness Claims</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-windows-application-journey/"><u>ChatGPT: A Windows Application Journey</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/le-chest-selecting-15-hilarious-video-treasures-for-your-viewing-pleasure-for-2024/"><u>Chuckle Chest Selecting 15 Hilarious Video Treasures for Your Viewing Pleasure for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/commanding-artificial-intelligence-best-educational-sessions/"><u>Commanding Artificial Intelligence: Best Educational Sessions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cybernetic-sleuths-quest-unveil-secrets-in-4-digital-realms/"><u>Cybernetic Sleuths' Quest: Unveil Secrets in 4 Digital Realms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-dialogue-game-with-these-7-chrome-extension-tools/"><u>Elevate Your Dialogue Game with These 7 Chrome Extension Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/employing-chatgpt-in-cognitive-therapeutic-techniques/"><u>Employing ChatGPT in Cognitive Therapeutic Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-your-new-home-10-must-visit-apartment-searching-sites/"><u>Find Your New Home: 10 Must-Visit Apartment-Searching Sites</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/functionality-exploration-how-shared-chatgpt-works/"><u>Functionality Exploration: How Shared ChatGPT Works</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y27-4g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-joke-juggernauts-20-memes-dominating-the-web/"><u>In 2024, Joke Juggernauts 20 Memes Dominating the Web</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/jesting-machines-of-chatgpt-are-they-comedic-contenders/"><u>Jesting Machines of ChatGPT: Are They Comedic Contenders?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-ai-techniques-for-enhanced-web-exploration/"><u>Leading AI Techniques for Enhanced Web Exploration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-minutes-top-4-chatgpt-strategies-for-time-optimization/"><u>Master Your Minutes: Top 4 ChatGPT Strategies for Time Optimization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-automated-code-through-non-chatgpt-applications/"><u>Mastering Automated Code Through Non-ChatGPT Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/minimizing-gan-blunders-expert-tips/"><u>Minimizing GAN Blunders: Expert Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-google-docs-and-sheets-with-chatgpt/"><u>Navigating Google Docs & Sheets with ChatGPT</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/navigating-the-world-of-pc-screencasters-with-ease/"><u>Navigating the World of PC Screencasters with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-twitter-scam-meta-verified-launches-and-chatgpt-4-explained/"><u>New Twitter Scam, Meta Verified Launches, and ChatGPT-4 Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-an-emerging-career-path/"><u>Prompt Engineering: An Emerging Career Path?</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-c55-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-into-ai-navigate-with-help-from-our-9-communities/"><u>Step by Step Into AI: Navigate with Help From Our 9 Communities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-carbon-footprint-myth-how-to-truly-assess-impacts/"><u>The Carbon Footprint Myth: How to Truly Assess Impacts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-android-with-bings-ai-capabilities/"><u>Transform Your Android with Bing's AI Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uncharted-dialogues-with-gpt-powered-systems/"><u>Uncharted Dialogues with GPT-Powered Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-popularity-in-the-era-of-digital-companions/"><u>Understanding Popularity in the Era of Digital Companions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-emotional-intelligence-in-machine-learning/"><u>Unpacking Emotional Intelligence in Machine Learning</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-honor-magic-5-lite-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Honor Magic 5 Lite Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-in-store-chatgpt-premium-examined/"><u>What's in Store? ChatGPT Premium Examined</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-snapchats-ai-goes-beyond-playful-interaction/"><u>Why Snapchat’s AI Goes Beyond Playful Interaction</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-streamlining-access-to-fb-live-via-roku/"><u>[New] 2024 Approved Streamlining Access to FB Live via Roku</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-bring-your-spotify-mixes-online-5-top-playlist-conversion-apps-for-youtube-for-2024/"><u>[New] Bring Your Spotify Mixes Online 5 Top Playlist Conversion Apps for YouTube for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capturing-in-action-a-screen-recorders-journey-for-2024/"><u>Capturing in Action A Screen Recorder's Journey for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>Capturing Screen Content via Built-In Recorders in the Mate and P Series</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claudes-challenge-can-it-outperform-chatgpt/"><u>Claude's Challenge: Can It Outperform ChatGPT?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ios-guide-your-step-by-step-vr-video-experience/"><u>IOS Guide Your Step-by-Step VR Video Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-tailored-training-regimens/"><u>Leveraging ChatGPT for Tailored Training Regimens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/musks-breakdown-understanding-the-function-and-financial-aspects-of-grok-ai/"><u>Musk's Breakdown: Understanding the Function and Financial Aspects of Grok AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-to-surpass-chatgpts-character-threshold/"><u>Tips to Surpass ChatGPT's Character Threshold</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027962222-vlc/"><u>VLCマルチメディアエディターとしてのビデオ編集手順</u></a></li>
 </ul></div>
+

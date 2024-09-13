@@ -1,7 +1,7 @@
 ---
 title: "The Enigma of AI: Deciphering Black Box Logic"
-date: 2024-09-06T23:40:17.247Z
-updated: 2024-09-07T23:40:17.247Z
+date: 2024-09-12T07:36:59.984Z
+updated: 2024-09-13T07:36:59.984Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: "This Article Describes The Enigma of AI: Deciphering Black Box Logic"
 thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Enigma of AI: Deciphering Black Box Logic
 
  When we think of black boxes, we probably think of the data recorders primarily used in airliners. However, nothing could be further from the truth when it comes to AI black boxes.
@@ -38,17 +26,18 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  AI black boxes are a concept that refers to autonomous decision-making in AI systems. Let's take a detailed look at AI Black boxes, how they work, and the concerns that surround them.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Are AI Black Boxes?
 
  An AI black box is an independent system that can make decisions without explaining how these decisions were reached. That's a simple definition of an AI black box.
@@ -58,11 +47,12 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  We will set the concerns aside for the moment as we look at how AI black boxes work.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How AI Black Boxes Work
 
  Three main components integrate to create AI black boxes. These combine to create the framework that constitutes a black box:
@@ -78,11 +68,18 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  Once the training phase is completed, the black boxes can be deployed to make independent decisions based on the learned algorithms and patterns. However, the lack of transparency about how decisions are reached is one of the primary concerns surrounding AI black boxes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Challenges and Risks of AI Black Boxes
 
  Disruptive technologies rarely come without baggage. AI is the most disruptive technology we have faced this century, and it certainly comes with plenty of baggage. For AI to fulfill its promises, these challenges need to be addressed. Some of the major concerns and risks include:
@@ -96,11 +93,12 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  These are known challenges, and efforts are underway to develop more accountable and transparent AI systems that can "show their workings."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Does the Future Hold for AI Black Boxes?
 
  Let's start by saying that AI, in some shape or form, is with us for the long term. Pandora's box has been opened, and it isn't going to close again. However, this is still a technology in its infancy, and it isn't surprising that there are challenges and issues with it.
@@ -116,11 +114,12 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  This is still a raw technology, one which is straining ethical and legal boundaries. Addressing the concerns around AI black boxes is critical to its future and development.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## AI Black Boxes: An Ethical Dilemma
 
  AI black boxes hold huge promise and opportunity, but there are definite challenges to overcome. There is no doubt that AI is here to stay. The technology's rapid uptake has made it an integral part of our lives. But the lack of transparency and accountability are genuine and pressing concerns.
@@ -133,14 +132,11 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
  AI black boxes are a concept that refers to autonomous decision-making in AI systems. Let's take a detailed look at AI Black boxes, how they work, and the concerns that surround them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,49 +147,14 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-full-circle-camera-unboxing-and-tests/"><u>[New] 2024 Approved Full Circle Camera Unboxing & Tests</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-altered-captions-a-video-guide/"><u>[New] Altered Captions A Video Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-future-frameworks-exclusive-list-of-top-cameras/"><u>[New] Future Frameworks Exclusive List of Top Cameras</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-track-instagram-people-whove-left-your-feed/"><u>[New] In 2024, Track Instagram People Who've Left Your Feed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transforming-zoom-calls-enhance-your-visuals-here/"><u>[New] Transforming Zoom Calls Enhance Your Visuals Here</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-virtual-performances-on-kuaishou/"><u>[New] Virtual Performances on Kuaishou</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-analyzing-video-platforms-vimeo-and-youtube-for-2024/"><u>[Updated] Analyzing Video Platforms Vimeo and YouTube for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-your-play-with-these-5-windows-11-recording-approaches/"><u>[Updated] Elevate Your Play with These 5 Windows 11 Recording Approaches</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-exploring-affordable-virtual-reality-gear-from-china/"><u>[Updated] Exploring Affordable Virtual Reality Gear From China</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-pictorial-word-constructor/"><u>[Updated] In 2024, Pictorial Word Constructor</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-elevate-your-content-with-these-top-5-youtube-marketing-methods/"><u>2024 Approved Elevate Your Content with These Top 5 YouTube Marketing Methods</u></a></li>
-<li><a href="https://fox-links.techidaily.com/auditory-ambience-finder-for-film-and-video-sets/"><u>Auditory Ambience Finder For Film and Video Sets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/commanding-ai-premier-online-training-series/"><u>Commanding AI: Premier Online Training Series</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparison-chart-gpt-4-and-gpt-35-divergences/"><u>Comparison Chart: GPT-4 & GPT-3.5 Divergences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversation-crusaders-clash-chatgpt-and-googles-bard-face-off/"><u>Conversation Crusaders Clash: ChatGPT & Google's Bard Face-Off</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/custom-gpt-boosts-elevating-chatgpts-interaction-quality/"><u>Custom GPT Boosts: Elevating ChatGPT's Interaction Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-impact-of-vector-databases-on-ai-systems/"><u>Decoding the Impact of Vector Databases on AI Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-hugging-face-functions-and-usage/"><u>Demystifying Hugging Face: Functions and Usage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-most-promising-4-ai-stories-maker-tools/"><u>Discover the Most Promising 4 AI Stories Maker Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-your-laserjet-forward-with-the-newest-hp-driver-update/"><u>Drive Your Laserjet Forward with the Newest HP Driver Update</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-lenovo-thinkphone-device-sim-by-drfone-android/"><u>Easily Unlock Your Lenovo ThinkPhone Device SIM</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-dialogue-with-siri-assisted-chatgpt/"><u>Enhancing Dialogue with Siri-Assisted ChatGPT</u></a></li>
-<li><a href="https://video-capture.techidaily.com/evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps/"><u>Evaluating Top Screen Capture Software Which Is Superior, OBS or Fraps?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fake-chatgpt-chrome-extension-steals-facebook-logins/"><u>Fake ChatGPT Chrome Extension Steals Facebook Logins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-ready-to-play-6-exciting-chatgpt-designed-games/"><u>Get Ready to Play: 6 Exciting ChatGPT-Designed Games</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-write-persuasive-proposals-with-chatgpt/"><u>How to Write Persuasive Proposals With ChatGPT</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-expert-tips-for-youtube-channel-aesthetics-finding-optimal-sizes/"><u>In 2024, Expert Tips for YouTube Channel Aesthetics Finding Optimal Sizes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-nokia-c110-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Nokia C110? Try These Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-x5-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco X5 Pro Phone Pattern Lock</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-voice-recording-access-review-and-evaluate/"><u>In 2024, Voice Recording Access, Review & Evaluate</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/increase-output-decrease-stress-ai-plugins-for-pdfs/"><u>Increase Output, Decrease Stress: AI Plugins for PDFs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keep-confidential-matters-from-the-prying-eyes-of-ai/"><u>Keep Confidential Matters From the Prying Eyes of AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/less-hassle-more-joy-mastery-in-making-with-gpt/"><u>Less Hassle, More Joy: Mastery in Making with GPT</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/master-the-art-of-moving-shots-a-handbook-for-hero5-time-lapse-photography-for-2024/"><u>Master the Art of Moving Shots A Handbook for Hero5 Time-Lapse Photography for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-works-legal-guardianship/"><u>Mastering AI Works' Legal Guardianship</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-era-of-employment-gpts-replacement-potential/"><u>New Era of Employment: GPT's Replacement Potential?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premium-vs-basic-gpts-payoff-scale/"><u>Premium Vs. Basic: GPT's Payoff Scale</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prevent-ai-content-harvesting-efforts/"><u>Prevent AI Content Harvesting Efforts</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-win11-overcoming-errors-in-team-communication-app/"><u>Streamlining Win11: Overcoming Errors in Team Communication App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dark-side-of-conversational-bots-unveiling-the-8-critical-shortfalls/"><u>The Dark Side of Conversational Bots: Unveiling the 8 Critical Shortfalls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-key-to-fluent-conversations-gpts-language-decoding-power/"><u>The Key to Fluent Conversations: GPT's Language Decoding Power</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transcending-chatgpt-the-future-of-ai-dialogues/"><u>Transcending ChatGPT: The Future of AI Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/worth-it-or-a-luxury-expense-for-advanced-ai-outputs/"><u>Worth It or a Luxury Expense for Advanced AI Outputs?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/writers-guide-ai-driven-storytelling-techniques/"><u>Writers’ Guide: AI-Driven Storytelling Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-ultimate-mp4-to-social-media-focus-on-facebook/"><u>[New] Ultimate MP4 to Social Media Focus on Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-the-art-of-live-streams-merge-obs-zoom/"><u>[Updated] Mastering the Art of Live Streams Merge OBS, Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ironclad-guide-to-bio-and-profile-url-association-in-tiktok/"><u>2024 Approved The Ironclad Guide to Bio and Profile URL Association in TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-free-gpt-4-for-all/"><u>Breaking Barriers: Free GPT-4 for All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gauging-ai-as-a-partner-in-penning-stories/"><u>Gauging AI as a Partner in Penning Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-the-digital-world-easier-bings-new-ai-search-feature-for-phones/"><u>Navigate the Digital World Easier: Bing’s New AI Search Feature for Phones.</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/streamlining-screen-recording/"><u>Streamlining Screen Recording</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-best-free-premium-4k-films-on-windows-10-your-guide/"><u>Top 10 Best Free Premium 4K Films on Windows 10: Your Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verse-virtuosos-vs-artificial-shepherds-purebred-alpacas-rivalry/"><u>Verse Virtuosos vs Artificial Shepherds, Purebred Alpacas' Rivalry</u></a></li>
 </ul></div>
+

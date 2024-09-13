@@ -1,7 +1,7 @@
 ---
 title: "Why Claude 3 Trumps ChatGPT: A Breakdown Into Four Points"
-date: 2024-09-06T23:40:35.819Z
-updated: 2024-09-07T23:40:35.819Z
+date: 2024-09-12T07:36:41.539Z
+updated: 2024-09-13T07:36:41.539Z
 tags:
   - chatgpt
   - open-ai
@@ -13,32 +13,15 @@ excerpt: "This Article Describes Why Claude 3 Trumps ChatGPT: A Breakdown Into F
 thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef54198880a460fef17224e3b3660509.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Claude 3 Trumps ChatGPT: A Breakdown Into Four Points
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Claude Is Better at Creative Writing](https://technitya.sjv.io/dkpn02)
@@ -46,12 +29,6 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 * [Larger Context Window](https://bluettieu.pxf.io/nlgoka)
 * [More Messages Per Hour](https://boody-eco-wear.pxf.io/qyo4oo)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Claude excels at creative writing, producing engaging and natural-sounding content with less clichés.
@@ -64,12 +41,6 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 
  In the AI chatbot space, ChatGPT has been the undisputed leader since its launch in November 2022\. However, with the release of Claude 3, it is increasingly looking like ChatGPT might be losing that title. Here are four reasons you should consider switching from ChatGPT to Claude.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1  Claude Is Better at Creative Writing
 
  Besides occasional science homework, programming tasks, and fun games, one of the most popular use cases of AI chatbots is creative writing. Most users use [AI chatbots to help draft an email](https://www.makeuseof.com/use-chatgpt-write-work-emails/), cover letter, resume, article, or song lyrics—basically one creative write-up or another. While ChatGPT has clearly been the favored option owing mostly to its brand name and publicity, Claude has consistently delivered top-notch results even in earlier iterations of the AI chatbots. But it's not just about providing top-notch results. Claude, especially backed by the latest [Claude 3 model](https://www.makeuseof.com/what-is-claude-3/), outperforms ChatGPT in a wide range of creative writing tasks.
@@ -85,29 +56,39 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 2. Sample 2  
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
 
@@ -129,14 +110,15 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3  Larger Context Window
 
  Context window is the limit of text data an AI chatbot can process at a go. Think of it as how many things you can keep in your memory (and be able to recall) at a time.
@@ -146,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
  Whereas Claude has a 200k context window on its free and premium plans—a significant improvement from ChatGPT's 4k or 8k window.
 
  Why does this even matter? Well, the larger the context window, the more text data you can process at a time without the AI chatbot making things up. Claude's 200k context window is equivalent to around 150,000 words. Yep, it means you'll theoretically be able to process 150,000 words simultaneously with Claude, while ChatGPT could cap you out at 24,000 words even on its premium tier. You see? The difference is like night and day—at least in theory.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  More Messages Per Hour
 
@@ -169,8 +158,6 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,40 +167,19 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-at-engaging-with-youtube-comment-threads/"><u>[New] In-Depth Look at Engaging with YouTube Comment Threads</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-optimizing-story-video-playback-rate-on-instagram-app-for-2024/"><u>[New] Optimizing Story Video Playback Rate on Instagram App for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-list-10-best-phones-and-pc-for-chatting-for-2024/"><u>[New] The Ultimate List 10 Best Phones & PC for Chatting for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-nine-crucial-strategies-to-elevate-your-youtube-presence/"><u>[Updated] Nine Crucial Strategies to Elevate Your Youtube Presence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/activate-chatgpt-widget-for-android-ease/"><u>Activate ChatGPT Widget for Android Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apex-6-lions-large-scale-nlp-prowess-recognized/"><u>Apex 6 Lions: Large-Scale NLP Prowess Recognized</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-bots-top-9-reasons-for-choosing-chatgpt-plus/"><u>Boosting Bots: Top 9 Reasons for Choosing ChatGPT Plus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-the-workplace-differentiating-factors/"><u>ChatGPT in the Workplace: Differentiating Factors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-compelling-video-storylines-with-chatgpt-script-help/"><u>Crafting Compelling Video Storylines with ChatGPT Script Help</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-learning-efficiency-with-ai-driven-note-taking-gpt-edition/"><u>Elevate Learning Efficiency with AI-Driven Note Taking - GPT Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-characters-the-most-effective-gpt-prompts-unveiled/"><u>Elevating Characters: The Most Effective GPT Prompts Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-user-needs-via-ai-in-microsofts-bing/"><u>Empowering User Needs via AI in Microsoft's Bing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/encompassing-explanation-what-is-googles-podcast-service/"><u>Encompassing Explanation What Is Google's Podcast Service?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/forge-individualized-chatai/"><u>Forge Individualized ChatAI</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-se-2022ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone SE (2022)/iPad Without Computer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-online-video-rotators-a-comprehensive-list/"><u>In 2024, Best Online Video Rotators A Comprehensive List</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-engage-audience-directly-from-xbox-with-fb-live/"><u>In 2024, Engage Audience Directly From Xbox with FB Live</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c67-4g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C67 4G Phones with/without a PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-a-big-privacy-risk/"><u>Is ChatGPT a Big Privacy Risk?</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-through-privacy-illusions-online/"><u>Navigating Through Privacy Illusions Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nostalgia-in-play-handhelds-and-hardware-help/"><u>Nostalgia in Play: Handhelds & Hardware Help</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/painting-programmatically-gpt-driven-visual-creation/"><u>Painting Programmatically: GPT-Driven Visual Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pinnacle-extensions-combining-chatgpt-with-vs-code/"><u>Pinnacle Extensions: Combining ChatGPT with VS Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/propel-ai-performance-top-five-tactics-for-writing-stellar-chatgpt-prompts/"><u>Propel AI Performance: Top Five Tactics for Writing Stellar ChatGPT Prompts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scripting-scenarios-6-gpt-techniques-for-engaging-dandd-adventures/"><u>Scripting Scenarios: 6 GPT Techniques for Engaging D&D Adventures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-integration-of-bing-ai-chat-in-android-keyboard-settings/"><u>Seamless Integration of Bing AI Chat in Android Keyboard Settings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/should-algorithms-be-your-new-investment-advisors/"><u>Should Algorithms Be Your New Investment Advisors?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spotting-deceptive-patterns-generated-by-machine-learning-models/"><u>Spotting Deceptive Patterns Generated by Machine Learning Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/steer-clear-of-falsehoods-navigating-wellness-guidance-by-ai/"><u>Steer Clear of Falsehoods: Navigating Wellness Guidance by AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stick-with-textual-interaction-or-embrace-extended-plugin-gpt/"><u>Stick with Textual Interaction or Embrace Extended Plugin GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-cap-on-chatgpt-tokens-how-high-can-it-reach/"><u>The Cap on ChatGPT Tokens: How High Can It Reach?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-case-against-automated-dialogue-a-deep-dive/"><u>The Case Against Automated Dialogue: A Deep Dive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-superiority-of-claude-ai-top-4-comparative-aspects-with-chatgpt/"><u>The Superiority of Claude AI: Top 4 Comparative Aspects with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasking-winchatgpt-falsehoods-in-the-digital-world/"><u>Unmasking WinChatGPT Falsehoods in the Digital World</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-my-podcast-story-with-text-mentorship/"><u>Unveiling My Podcast Story with Text Mentorship</u></a></li>
-<li><a href="https://games-able.techidaily.com/weighing-cost-against-nitros-rewards/"><u>Weighing Cost Against Nitro's Rewards</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssential-knowledge-for-engaging-with-asmr-videos-for-2024/"><u>[New] Essential Knowledge for Engaging with ASMR Videos for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-system-installed-gpu-driver-for-win1110/"><u>[REPAIRED SYSTEM] Installed GPU Driver for Win11/10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-insightful-forecasts-vs-starry-readings-of-destiny/"><u>AI's Insightful Forecasts Vs. Starry Readings of Destiny</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embrace-world-cultures-with-an-easy-affordable-language-course/"><u>Embrace World Cultures with an Easy, Affordable Language Course</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/entering-social-media-world-sign-up-for-facebook-now/"><u>Entering Social Media World Sign Up for Facebook Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excel-mastery-through-artificayerly-crafted-chatgpt-solutions/"><u>Excel Mastery Through Artificayerly-Crafted ChatGPT Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-motorola-moto-g-stylus-2023-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Motorola Moto G Stylus (2023) Lock Screen Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-official-method-to-unlock-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 Pro Official Method to Unlock Your iPhone 13 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-x90s-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo X90S Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-vs-code-for-swift-development/"><u>Integrating ChatGPT Into VS Code for Swift Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tapping-into-the-future-activating-beta-browser-options/"><u>Tapping Into the Future: Activating Beta Browser Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-savvy-sleuths-unite-embark-on-4-ai-powered-adventures/"><u>Tech-Savvy Sleuths Unite: Embark on 4 AI-Powered Adventures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trailblazing-truth-in-an-age-of-ai-imaginary-reality/"><u>Trailblazing Truth in an Age of AI Imaginary Reality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-why-the-anticipated-release-of-the-ascent-isnt-happening/"><u>Troubleshooting: Why the Anticipated Release of 'The Ascent' Isn't Happening</u></a></li>
 </ul></div>
+

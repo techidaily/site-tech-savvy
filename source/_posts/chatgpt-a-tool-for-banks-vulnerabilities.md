@@ -1,0 +1,145 @@
+---
+title: "ChatGPT: A Tool for Banks' Vulnerabilities?"
+date: 2024-09-12T07:44:03.099Z
+updated: 2024-09-13T07:44:03.099Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes ChatGPT: A Tool for Banks' Vulnerabilities?"
+excerpt: "This Article Describes ChatGPT: A Tool for Banks' Vulnerabilities?"
+thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a90dc3d2a15bfc646351df71a.jpg
+---
+
+## ChatGPT: A Tool for Banks' Vulnerabilities?
+
+ Since its launch, ChatGPT, the OpenAI chatbot, has been used by millions of people to write text, create music, and generate code. But as more people use the AI chatbot, it’s important to consider the security risks.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Like any technology, ChatGPT can be used for nefarious reasons. Hackers, for instance, can use it to create malicious content, like writing phony email messages to get access to your PC or even your bank account.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## ChatGPT Can Help Cybercriminals Hack Your PC
+
+![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Hackers, including script kiddies, can [use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
+
+ To counter such use cases, OpenAI has implemented mechanisms to reject prompts asking ChatGPT to create malware. For instance, if you ask the chatbot to “write malware,” it won’t. Despite this, cybercriminals easily get around these content moderation barriers.
+
+ By acting as a pen tester, a threat actor may rephrase their prompts to trick ChatGPT into writing code, which they can then tweak and use in cyberattacks.
+
+ A [report by Check Point](https://research.checkpoint.com/2023/opwnai-cybercriminals-starting-to-use-chatgpt/), an Israeli security company, indicates that a hacker could have used ChatGPT to create basic Infostealer malware. The security firm also discovered another user that claims ChatGPT helped him build a multi-layer encryption tool that can encrypt several files in a ransomware attack.
+
+ In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Can ChatGPT Hack Your Bank Account?
+
+![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Many data breaches start with [a successful phishing attack](http://www.makeuseof.com/what-is-phishing/). Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
+
+ Fortunately, you can easily recognize most traditional phishing scams; grammatical errors, misspellings, and weird phrases often characterize them. But these are all mistakes that ChatGPT rarely makes, even when used to compose malicious emails for phishing scams.
+
+ When used in phishing scams, messages that appear to be from a legitimate source can make it easier for victims to [give up their personally identifiable information](https://www.makeuseof.com/what-is-personally-identifiable-information/), like banking passwords.
+
+ ​​​​​​​If your bank sent you a message via email, consider visiting the bank’s website directly instead of clicking on any embedded link. Clicking on random links and attachments, especially those asking you to log in somewhere, is rarely a good idea.
+
+ For phishing, it’s mostly about volume. ChatGPT can help boost phishing campaigns as it can quickly pump out huge amounts of natural-sounding texts that are tailored to specific audiences.
+
+ Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Protect Your PC and Bank Account in the AI-Era
+
+ ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.
+
+ The good news is that OpenAI continues implementing measures that prevent users from exploiting ChatGPT by asking harmful prompts. Then again, threat actors keep finding new ways to bypass those restrictions.
+
+ To minimize the potential dangers of AI chatbots, it’s crucial to know their potential risks and the best possible security measures to protect yourself from hackers.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Like any technology, ChatGPT can be used for nefarious reasons. Hackers, for instance, can use it to create malicious content, like writing phony email messages to get access to your PC or even your bank account.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-mobile-collage-with-android-pros/"><u>[New] Mastering the Art of Mobile Collage with Android Pros</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-splitting-views-ultimate-video-recorder-ranking-in-2024/"><u>[New] Splitting Views Ultimate Video Recorder Ranking, In 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-audio-archive-collect-and-examine-music-files/"><u>[Updated] 2024 Approved Audio Archive Collect & Examine Music Files</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-the-truth-in-your-photos-an-instagram-selfie-audit-for-2024/"><u>[Updated] Navigating the Truth in Your Photos An Instagram Selfie Audit for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginners-guide-to-ai-engage-with-these-9-leading-forums/"><u>Beginners Guide to AI: Engage With These 9 Leading Forums</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/climate-denial-and-the-role-of-media-bias-explored/"><u>Climate Denial and the Role of Media Bias Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dungeon-masters-aide-de-camp-unleashing-potential-with-chatgpt/"><u>Dungeon Masters' Aide-De-Camp: Unleashing Potential with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eating-well-made-simple-chatais-cooking-insights/"><u>Eating Well Made Simple: ChatAI's Cooking Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/first-steps-in-gamified-editing-software-selection-for-2024/"><u>First Steps in Gamified Editing Software Selection for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-xiaomi-redmi-note-12-4g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Xiaomi Redmi Note 12 4G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-streaming-mastery-with-manycam-enhanced-virtual-camera-solutions/"><u>Live Streaming Mastery with ManyCam: Enhanced Virtual Camera Solutions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audiovisual-archive-top-10-digital-destinations-for-sound-track-download/"><u>New In 2024, Audiovisual Archive Top 10 Digital Destinations for Sound Track Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plug-in-with-ease-integrating-new-extensions-into-chatgpt/"><u>Plug in with Ease - Integrating New Extensions Into ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-battle-for-better-bots-gpt-vs-huggingchat/"><u>The Battle for Better Bots: GPT vs HuggingChat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-ai-titans-clash-gpt-microsoft-bing-ai-and-google-bard-meet/"><u>Top 3 AI Titans Clash: GPT, Microsoft Bing AI & Google Bard Meet</u></a></li>
+</ul></div>
+

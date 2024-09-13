@@ -1,7 +1,7 @@
 ---
 title: Why Writers Programs Ignore Errors
-date: 2024-09-06T23:41:06.934Z
-updated: 2024-09-07T23:41:06.934Z
+date: 2024-09-12T07:36:11.479Z
+updated: 2024-09-13T07:36:11.479Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Why Writers Programs Ignore Errors
 thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5042e30f7996e1ded01bfda5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Writers Programs Ignore Errors
 
  Following the launch of ChatGPT in November 2022, the phenomenal AI chatbot has emerged as one of the most trusted writing tools on the internet. It's simple to use; describe what you need to be written, and ChatGPT prints it on screen in seconds.
@@ -30,11 +24,12 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
  However, in an era where AI-generated text is passed as human-written and used to gain an unfair advantage, identifying AI content is very important. But ChatGPT cannot accurately spot AI content, even its own work—but why?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Is There a Difference Between AI Text and Human Writing?
 
  A precondition for ChatGPT to spot its own writing or any AI-generated text is that there has to be a difference between it and human-written text. So, is there any significant difference between human-written text and AI-generated content? If there is, surely, a tool like ChatGPT should be able to discern it.
@@ -43,36 +38,45 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
 ![False positive judgement by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/false-positive-judgement-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We then asked ChatGPT to generate a story, and in that same chat thread, we copy-pasted the generated text and asked ChatGPT whether the text was AI-created. ChatGPT's response? A confident "No."
 
 ![ChatGPT false negative judgement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-negative-judgement.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  ChatGPT failed at identifying human-written or AI-generated text in both cases. So how come ChatGPT cannot detect its own text? Does this mean there is no difference between AI and human text?
 
  Well, there is. We could write an entire book on the difference between the two, but it won't matter much. So, if there's a difference, why is ChatGPT or any other AI tool unable to identify these differences and accurately point out AI-generated text from a human-written one? The answer lies in [how ChatGPT works and how it generates text](http://www.makeuseof.com/how-does-chatgpt-work/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How ChatGPT Generates Text
 
 ![Artificial intelligence and puny human are shaking hands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-power-of-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When you ask ChatGPT to generate text, it tries to mimic the human writing process. Firstly, the model behind ChatGPT—Generative Pre-trained Transformer (GPT)—has been trained on a large corpus of human text. Everything from emails, health articles, tech articles, high school essays, and just about any text you can find online has been fed to the model during training. So ChatGPT understands how each of these types of texts should be written.
 
  If you ask ChatGPT to write an email to your boss, it knows how an email of that nature should look because it has been trained on similar emails—probably thousands of them. Similarly, if you ask it to write a high school essay, it also knows how a high school essay should sound. ChatGPT will try to write whatever you want it to write in a way a human would.
@@ -80,11 +84,12 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
  But there's a catch. Unlike how humans write, ChatGPT does not really understand what it is writing in a way that a human would. Instead, the chatbot tries to predict what would be the most plausible next word in a sentence until it completes the write-up.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How ChatGPT Writes by Prediction
 
  Let's say you ask ChatGPT to write a story about a fictional city called Volkra. There's a huge possibility that the chatbot will start the story with the words "Once upon." This is because the chatbot doesn't think for itself but tries to predict what a human would write based on what it has learned from the thousands of stories it has been fed during training.
@@ -97,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
  AI chatbots like ChatGPT are designed to mimic natural human language as much as possible. So while AI text may have discernable patterns, those patterns are not so obvious even to a powerful tool like ChatGPT. This is why ChatGPT can not spot its own writing, as well as [why AI-text detector tools do not work](https://www.makeuseof.com/ai-content-detectors-dont-work/).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will ChatGPT Recognize Its Own Writing In the Future?
 
  Currently, tools like ChatGPT can not detect whether a text was written by itself or any other AI tool because there's no clear, discernable pattern in AI-generated content. However, there's a good chance that this could change soon. With efforts by companies like ChatGPT to introduce digital watermarks into ChatGPT-generated content, there will be a more discernable pattern to the text generated by the chatbot.
@@ -105,14 +117,11 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
  However, in an era where AI-generated text is passed as human-written and used to gain an unfair advantage, identifying AI content is very important. But ChatGPT cannot accurately spot AI content, even its own work—but why?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,38 +132,20 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-android-and-ios-users-choice-top-playlist-saving-apps-for-youtube/"><u>[New] 2024 Approved Android & iOS Users' Choice Top Playlist Saving Apps for YouTube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-dissecting-video-self-presentation-uncovering-truthfulness-needs-for-2024/"><u>[New] Dissecting Video Self-Presentation Uncovering Truthfulness Needs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-first-impressions-a-deep-dive-into-3d-printing-alone/"><u>[New] First Impressions A Deep Dive Into 3D Printing Alone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-screen-free-entertainment-top-10-best-offline-ipad-games-for-2024/"><u>[New] Screen-Free Entertainment Top 10 Best Offline iPad Games for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-organize-photo-album-on-iphone-and-icloud/"><u>[Updated] How To Organize Photo Album On iPhone And iCloud</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-6-unique-sources-for-premium-youtube-imagery/"><u>[Updated] Top 6 Unique Sources for Premium YouTube Imagery</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-sifting-through-time-a-guide-to-twitter-archives/"><u>2024 Approved Sifting Through Time A Guide to Twitter Archives</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-nokia-c210-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Nokia C210 Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-chuckle-factory-laptop-lore-and-secure-internet-safeguards/"><u>AI's Chuckle Factory: Laptop Lore & Secure Internet Safeguards</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beware-phony-chatgpt-programs-potential-threats-ahead/"><u>Beware Phony ChatGPT Programs - Potential Threats Ahead!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-visionary-exploring-top-visual-computation-techniques/"><u>ChatGPT Visionary: Exploring Top Visual Computation Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-characters-and-settings-through-gpts-insights/"><u>Crafting Characters & Settings Through GPT's Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/debunking-ai-dependence-for-financial-data-study/"><u>Debunking AI Dependence for Financial Data Study</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delete-your-active-chatgpt-account/"><u>Delete Your Active ChatGPT Account</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easing-excessive-load-on-chatgpt-windows/"><u>Easing Excessive Load on ChatGPT (Windows)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-risks-with-chatgpt-mobile-apps/"><u>Exploring the Risks with ChatGPT Mobile Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/five-artificial-steps-ai-accelerating-cybercrime/"><u>Five Artificial Steps: AI Accelerating Cybercrime</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fix-faults-in-your-computer-using-chatgpt-assistance/"><u>Fix Faults in Your Computer Using ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-novice-to-maestro-leverage-7-chatgpt-tools-for-cooking/"><u>From Novice to Maestro: Leverage 7 ChatGPT Tools for Cooking</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/huggingchat-explored-an-open-source-and-ethical-ai-option/"><u>HuggingChat Explored: An Open-Source and Ethical AI Option</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-10t-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme 10T 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-hone-your-hashtag-game-tripled-traffic-6kplus-vistas/"><u>In 2024, Hone Your Hashtag Game Tripled Traffic, $6K+ Vistas</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-storytelling-on-screen-crafting-compelling-narratives-for-instareels/"><u>In 2024, Storytelling on Screen Crafting Compelling Narratives for InstaReels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/internal-oversights-by-chatgpt-writers/"><u>Internal Oversights by ChatGPT Writers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/journey-redefined-chatbot-wisdom-in-car-customization-processes/"><u>Journey Redefined: Chatbot Wisdom in Car Customization Processes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-subscriptions-for-gpt-4-however-select-plus-membership-retains-its-unique-6-features/"><u>No Subscriptions for GPT-4: However, Select Plus Membership Retains Its Unique 6 Features.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/precision-in-copywriting-beyond-ais-reach/"><u>Precision in Copywriting Beyond AI’s Reach</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proactive-leaders-embracing-5-breakthrough-artificial-intelligence-tech/"><u>Proactive Leaders: Embracing 5 Breakthrough Artificial Intelligence Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prose-perfection-leveraging-chatgpt-for-literary-excellence/"><u>Prose Perfection: Leveraging ChatGPT for Literary Excellence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-your-development-journey-with-a-chatgpt-web-app/"><u>Streamline Your Development Journey with a ChatGPT Web App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergy-of-tech-and-comfort-mercedes-ai-voice-update/"><u>Synergy of Tech & Comfort: Mercedes' AI Voice Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-ai-to-yourselves-a-how-to-for-unique-prose/"><u>Tailoring AI to Yourselves: A How-To for Unique Prose</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-phenomenon-of-ai-powered-dialogue-systems/"><u>The Phenomenon of AI-Powered Dialogue Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/universal-access-gpt-4-unveiled-for-all/"><u>Universal Access: GPT-4 Unveiled for All</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-add-fun-to-youtube-comments-a-quick-guide-to-emojis/"><u>[New] 2024 Approved Add Fun to YouTube Comments A Quick Guide to Emojis</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-vidoetwitter-fetcher-gather-twitter-videos-effortlessly/"><u>[New] VidoeTwitter Fetcher Gather Twitter Videos Effortlessly</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-unpacked-dedicated-to-video-showcase-and-sharing/"><u>[Updated] 2024 Approved Vimeo Unpacked Dedicated to Video Showcase and Sharing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-prime-list-cutting-through-the-noise-to-find-top-9-free-tools/"><u>[Updated] The Prime List Cutting Through the Noise to Find Top 9 FREE Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-rise-of-a-monetary-maestro-ajeys-youtube-earnings-story/"><u>2024 Approved The Rise of a Monetary Maestro Ajey's YouTube Earnings Story</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-brother-hl-l3295cdw-a-high-speed-and-superior-quality-color-laser-printer/"><u>Comprehensive Evaluation of the Brother HL-L3295CDW - A High-Speed and Superior Quality Color Laser Printer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-your-next-chapter-top-5-ai-powered-sites-and-apps-for-reading-selection/"><u>Craft Your Next Chapter: Top 5 AI-Powered Sites & Apps for Reading Selection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-chatgpt-experience-with-strategic-organization/"><u>Enhancing Your ChatGPT Experience with Strategic Organization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolution-of-ai-systems-anticipating-gpt-5s-debut/"><u>Evolution of AI Systems: Anticipating GPT-5's Debut?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-aspects-opting-for-ai-assisted-therapy-via-chatgpt/"><u>Key Aspects: Opting for AI-Assisted Therapy via ChatGPT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/merging-and-editing-footage-on-iphone-for-2024/"><u>Merging and Editing Footage on iPhone for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nine-essential-considerations-for-chatbot-subscription-success/"><u>Nine Essential Considerations for Chatbot Subscription Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/techno-mystery-thrillers-dive-into-4-innovative-ai-experiences/"><u>Techno-Mystery Thrillers: Dive Into 4 Innovative AI Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-7-benefits-ai-driven-health-consults/"><u>Unveiling 7 Benefits: AI-Driven Health Consults</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-epic-music-videos-with-these-10-top-rated-tools/"><u>Updated Create Epic Music Videos with These 10 Top-Rated Tools</u></a></li>
 </ul></div>
+

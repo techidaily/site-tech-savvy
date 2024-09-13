@@ -1,7 +1,7 @@
 ---
 title: Synthesizing Truth & Illusion with AI
-date: 2024-09-06T23:40:40.368Z
-updated: 2024-09-07T23:40:40.368Z
+date: 2024-09-12T07:36:37.721Z
+updated: 2024-09-13T07:36:37.721Z
 tags:
   - chatgpt
   - open-ai
@@ -23,22 +23,17 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
  Although this feat signifies a technological milestone, it also blurs the line between reality and fantasy. AI images, text, and videos manufacture digital content that overshadows authentic experiences. Here are the ways AI creates an illusion of reality.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Some Treat AI-Generated Personas as Real People
 
 ![AI-Generated Virtual Girlfriend With Asian Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-girl-virtual-gf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  AI virtual girlfriend/boyfriend apps are becoming more realistic than ever. They simulate romantic relationships through AI-generated personas, which users can customize to their preferences. Some prefer human-like characters with intricate features, while others replicate fictional characters.
 
  Most people use dating simulators to cope with loneliness. Apps running on modern [natural language processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) (NLP) and [large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) mimic real human conversations. So users feel they “connect” with these AI partners.
@@ -46,11 +41,12 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
  Ironically, AI girlfriend and boyfriend apps worsen social isolation by perpetuating toxic beliefs about interpersonal relationships. Users want partners who’ll live up to their made-up AI personas. Some would even go as far as to marry their AI-generated companions and give up on human relationships altogether.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Chatbots Provide Fake Emotional Support
 
  It’s common to use generative AI chatbots for psychotherapy. AI platforms scrape mental health advice from their datasets and mimic human-like speech through LLMs. Their output is neutral and generic, yet many will explore AI tools rather than paying for psychotherapy sessions.
@@ -68,11 +64,12 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
  But don’t underestimate the [security risks of AI voice generators](https://www.makeuseof.com/ai-voice-generators-security-threat/)—crooks are exploiting these tools to spread misinformation and execute social engineering attacks. Even tech-savvy individuals could fall for AI-synthesized voices if they’re careless.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Image and Video Generation Tools Create Entirely New Identities
 
  The proliferation of AI-driven voice, image, and text generators enables users to create an entirely new persona online. Take [virtual influencers](https://www.makeuseof.com/popular-virtual-influencers/), for instance. Many AI-generated avatars have super-realistic, lifelike features—they could pass off as humans.
@@ -80,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
  While creating realistic avatars brings society much closer to the metaverse, it also helps scammers perform more sophisticated attacks. They create fake personas for identity theft and [online dating scams](https://www.makeuseof.com/tag/spot-avoid-online-dating-scammer/). And when crooks combine these advanced technologies with psychological manipulation, they deceive a broader range of victims.
 
  What’s worse is that some victims fall into the delusion that they can form genuine connections with AI personas. The desire for companionship gets the best of them. They choose to overlook the fact that the strangers operating these personas couldn’t care less about them.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. AI Content Floods SERPs
 
@@ -98,11 +102,12 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
  But not everyone’s as honest as them. Crooks exploit deepfake videos to spread misleading, damaging, and sexually suggestive content. They can manufacture almost any clip with the necessary editing skills and tools.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Immersive VR/AR Experience Distorts Your Senses
 
 ![Person Scrolling Nonstop on Phone While in Bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-in-bed-scrolling-phone.jpg)
@@ -116,11 +121,12 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 [Using VR/AR devices for extended periods has several risks](https://www.makeuseof.com/ways-virtual-reality-bad-for-you/), including eye strain, social isolation, and susceptibility to cyberattacks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. AI Business Systems Create Unrealistic Profit Expectations
 
  AI is transforming the way companies across different sectors operate. [Fox](https://www.foxbusiness.com/technology/small-businesses-using-ai-loving-it) reports that 90 percent of small businesses have already integrated AI chatbots into their workflow. Likewise, technologically adept professionals are exploring more advanced models.
@@ -139,14 +145,11 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
  Although this feat signifies a technological milestone, it also blurs the line between reality and fantasy. AI images, text, and videos manufacture digital content that overshadows authentic experiences. Here are the ways AI creates an illusion of reality.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,50 +160,19 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-premiere-pros-shadowy-showdown/"><u>[New] In 2024, Premiere Pro's Shadowy Showdown</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-flashback-2022s-snowboard-x-winners-for-2024/"><u>[Updated] Ultimate Flashback 2022'S Snowboard X Winners for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assisted-zen-overcoming-stress/"><u>AI-Assisted Zen: Overcoming Stress</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/altitude-adeptness-the-shift-from-standard-to-pro-pilots/"><u>Altitude Adeptness: The Shift From Standard to Pro Pilots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/analyzing-the-art-of-machine-made-dialogues-le-chat-vs-gpt-3/"><u>Analyzing the Art of Machine-Made Dialogues: Le Chat vs GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-we-opening-doors-to-data-breaches-with-chatgpt/"><u>Are We Opening Doors to Data Breaches With ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/art-of-writing-unattainable-for-ai-chatbot-assistance/"><u>Art of Writing Unattainable for AI Chatbot Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-gpt-for-the-modern-workplace/"><u>Auto-GPT for the Modern Workplace</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-transforms-ai-at-google-io-showcasing-seven-new-features/"><u>Bard Transforms AI at Google I/O, Showcasing Seven New Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/begin-the-conversation-chatgpt-awaits/"><u>Begin the Conversation: ChatGPT Awaits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/building-bridges-in-a-world-run-by-machine-intelligence/"><u>Building Bridges in a World Run by Machine Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/business-innovation-with-chatgpt-8-essential-applications-for-enterprises/"><u>Business Innovation with ChatGPT: 8 Essential Applications for Enterprises</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/calling-out-chatgpt-fakes-through-intentional-mentions/"><u>Calling Out ChatGPT Fakes Through Intentional Mentions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-oversight-4-tech-savvy-checkpoints-for-professionals/"><u>ChatGPT Oversight: 4 Tech-Savvy Checkpoints for Professionals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-academic-perks-essential-uses-for-student-success/"><u>ChatGPT's Academic Perks: Essential Uses for Student Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-exclusive-gpt-versions/"><u>Craft Exclusive GPT Versions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-the-best-code-companion-github-copilot-or-gpt/"><u>Deciding the Best Code Companion: GitHub Copilot or GPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphe-and-solve-car-ai-implementation-glitches-the-ultimate-guide/"><u>Deciphe & Solve Car AI Implementation Glitches: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-best-chatgpt-face-off-with-bing-ai-and-bard/"><u>Decoding the Best: ChatGPT Face-Off with Bing AI & Bard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-dawn-of-artificocal-intelligence/"><u>Decoding the Dawn of Artificocal Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficient-task-automation-with-auto-gtp/"><u>Efficient Task Automation with Auto-GTP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embrace-ai-wellness-top-9-ways-with-chatgpt/"><u>Embrace AI Wellness: Top 9 Ways with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-guard-against-lost-gpt-conversations/"><u>How to Guard Against Lost GPT Conversations</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-12-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 12 online without jailbreak</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-as-a-detailed-and-interactive-text-based-rpg/"><u>How to Use ChatGPT as a Detailed and Interactive Text-Based RPG</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-decide-what-to-watch-next/"><u>How to Use ChatGPT to Decide What to Watch Next</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/immediate-disengagement-from-chatgpt/"><u>Immediate Disengagement From ChatGPT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-dive-into-dynamic-youtube-discussions/"><u>In 2024, Dive Into Dynamic YouTube Discussions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-a15-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy A15 5G Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-ai-dialogues-5-best-online-classes/"><u>Innovating AI Dialogues: 5 Best Online Classes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-users-rejoice-chatgpt-now-available/"><u>IPhone Users Rejoice! ChatGPT Now Available</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/lexicon-league-up-battle-of-the-best-translator/"><u>Lexicon League-Up: Battle of the Best Translator</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-essential-strategies-for-modern-workspaces/"><u>Mastering AI: Essential Strategies for Modern Workspaces</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/miniature-homes-6-top-oriental-designs-for-mcers/"><u>Miniature Homes 6 Top Oriental Designs for MCers</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-honor-x8b-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor X8b – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/recognizing-pretend-predictions-a-guide-to-authentic-vs-fake-ai-analysis/"><u>Recognizing Pretend Predictions: A Guide to Authentic Vs. Fake AI Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-content-craft-with-chatgpt/"><u>Reimagining Content Craft with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sever-link-to-chatgpt-instantly/"><u>Sever Link to ChatGPT Instantly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/silvermans-fight-tech-giants-accused-of-stifling-ai-driven-creativity/"><u>Silverman's Fight: Tech Giants Accused of Stifling AI-Driven Creativity</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solve-your-pc-issues-with-these-tips-for-a-smooth-play-of-forza-horizon-5/"><u>Solve Your PC Issues with These Tips for a Smooth Play of Forza Horizon 5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/statecraft-in-silicon-four-modalities-for-ai-oversight/"><u>Statecraft in Silicon: Four Modalities for AI Oversight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essential-guide-to-identifying-scam-bingchat-coins/"><u>The Essential Guide to Identifying Scam BingChat Coins</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-insiders-techniques-for-google-voice-recordings-for-2024/"><u>The Insider's Techniques for Google Voice Recordings for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-creativity-and-saving-time-10-ai-enhanced-pdfs/"><u>Unleashing Creativity & Saving Time: 10 AI-Enhanced PDFs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-extraordinary-conversations-9-advantages-in-chatgptplus/"><u>Unlock Extraordinary Conversations - 9 Advantages in ChatGPT+</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ensuring-audio-clarity-amidst-remote-recording-challenges-for-2024/"><u>[Updated] Ensuring Audio Clarity Amidst Remote Recording Challenges for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-enabling-autoplay-youtube-without-alerts/"><u>2024 Approved Enabling Autoplay YouTube Without Alerts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-how-to-change-your-in-game-characters-vocal-presence-with-ease-for-free/"><u>2024 Approved Learn How to Change Your In-Game Character's Vocal Presence with Ease - For FREE</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-audience-reach-the-6-step-roadmap-to-youtube-success/"><u>2024 Approved Maximizing Audience Reach The 6-Step Roadmap to YouTube Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/battling-fraudgpt-threats-essential-protection-tactics/"><u>Battling FraudGPT Threats: Essential Protection Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-a-unique-gpt-framework/"><u>Craft a Unique GPT Framework</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/data-driven-dialogue-building-personalized-ai-engagement/"><u>Data-Driven Dialogue: Building Personalized AI Engagement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-nonfunctional-lenovo-mousepads-on-windows-operating-systems/"><u>Effective Fixes for Nonfunctional Lenovo Mousepads on Windows Operating Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-enterprise-templates-with-dynamic-ideas-for-slideshows-for-2024/"><u>Free Enterprise Templates with Dynamic Ideas for Slideshows for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hack-proof-chatterbots-a-must-do-guide/"><u>Hack-Proof Chatterbots: A Must-Do Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-nubia-z50s-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nubia Z50S Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/initiate-local-gratis-conversational-ai-via-gpt4all/"><u>Initiate Local, Gratis Conversational AI via GPT4All</u></a></li>
+<li><a href="https://extra-information.techidaily.com/platform-dominance-a-comprehensive-twitch-vs-youtube-review/"><u>Platform Dominance A Comprehensive Twitch Vs. YouTube Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-operational-principles-behind-openais-gpt-3-sharing/"><u>The Operational Principles Behind OpenAI's GPT-3 Sharing</u></a></li>
 </ul></div>
+

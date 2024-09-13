@@ -1,7 +1,7 @@
 ---
 title: "Tapping Into the Future: Activating Beta Browser Options"
-date: 2024-09-06T23:39:21.715Z
-updated: 2024-09-07T23:39:21.715Z
+date: 2024-09-12T07:37:53.694Z
+updated: 2024-09-13T07:37:53.694Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Tapping Into the Future: Activating Beta Browse
 thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37963b2732e636693601b56f7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tapping Into the Future: Activating Beta Browser Options
 
 OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus users.After months of speculation regarding the internet-connected Plugins, OpenAI has pushed its Plugins live, allowing Plus users to choose whether to turn them on or not using a new Beta feature.Connecting ChatGPT to the internet has been a long-standing request for millions of ChatGPT users, and now, the moment is here.
@@ -35,12 +29,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are internet-connected tools specifically designed to extend ChatGPT's functionality.
@@ -54,11 +42,18 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ChatGPT Can Browse the Web
 
  That's not all, though.
@@ -71,9 +66,30 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -83,33 +99,29 @@ Close
 
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Enable ChatGPT Plugins and Web Browsing
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head to your **Settings** in the bottom left-hand corner of the ChatGPT screen
 2. Select **Settings**
@@ -120,18 +132,6 @@ Close
 
  From here, you can select either Web Browsing to enable web-connected search or select **Plugin Store** to begin installing and enabling Plugins.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Is Finally Connected to the Internet
 
  Internet-connected ChatGPT is finally here. Although the Web Browsing and Plugins are limited to ChatGPT Plus currently, it won't be long until regular ChatGPT users can gain access to internet-powered generative AI.
@@ -142,14 +142,11 @@ Close
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,39 +157,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-maximizing-performance-with-right-fpv-propeller-choices/"><u>[New] Maximizing Performance with Right FPV Propeller Choices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-exploring-beyond-manycam-enhanced-alternatives/"><u>[Updated] Exploring Beyond ManyCam Enhanced Alternatives?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-highlighting-youtubes-creme-de-la-creme-makeup-influencers/"><u>2024 Approved Highlighting YouTube's Crème De La Crème Makeup Influencers</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-visual-journey-to-custom-window-design-with-winbubbles-insights/"><u>A Visual Journey to Custom Window Design with WinBubble's Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assisted-narratives-how-chatgpt-elevates-storytelling/"><u>AI-Assisted Narratives: How ChatGPT Elevates Storytelling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-convos-introducing-us-exclusive-chatgpt-plus-us20mth/"><u>Boost Your Convos: Introducing U.S.-exclusive ChatGPT Plus (US$20/Mth)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-provide-reliable-health-information/"><u>Can ChatGPT Provide Reliable Health Information?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-see-what-the-stars-dont-for-your-life-path/"><u>Can ChatGPT See What the Stars Don't for Your Life Path?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-modern-career-exploration/"><u>ChatGPT's Role in Modern Career Exploration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/demystifying-hidden-video-blocks/"><u>Demystifying Hidden Video Blocks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/discovering-the-10-leading-low-cost-mobile-video-conferencing/"><u>Discovering the 10 Leading Low-Cost, Mobile Video Conferencing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-gptplus-membership-benefits/"><u>Evaluating GPT+ Membership Benefits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-future-foresight-versus-astrology-wonders/"><u>GPT’s Future Foresight Versus Astrology Wonders</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-13-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 13 Pro Max</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/handhelds-of-the-past-todays-computer-upgrade-guides/"><u>Handhelds of the Past, Today's Computer Upgrade Guides</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/immediate-fixes-for-body-stream-errors-in-gpt/"><u>Immediate Fixes for Body-Stream Errors in GPT</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-poco-f5-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Poco F5 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-reno-11-pro-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo Reno 11 Pro 5G Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-presentation-skills-using-ai-technologies/"><u>Innovating Presentation Skills Using AI Technologies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insights-on-codegpt-could-ai-revolutionize-development/"><u>Insights on CodeGPT: Could AI Revolutionize Development?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/journey-through-the-best-cryptocurrency-talk/"><u>Journey Through The Best Cryptocurrency Talk</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-audio-restoration-top-techniques-for-windows-10-users/"><u>Mastering Audio Restoration: Top Techniques for Windows 10 Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/non-disclosure-in-videos-tips-for-masking-identifiable-details-for-2024/"><u>Non-Disclosure in Videos Tips for Masking Identifiable Details for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-vs-unbridled-chatgpt/"><u>OpenAI vs Unbridled ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-intelligence-transcending-the-classic-test/"><u>Reimagining Intelligence: Transcending the Classic Test</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-steps-transforming-your-dall-e-3-creations-from-webp-format-into-jpeg-and-png/"><u>Simple Steps: Transforming Your DALL-E 3 Creations From WebP Format Into JPEG and PNG</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/steer-clear-of-data-mining-with-chatgpt-exit/"><u>Steer Clear of Data Mining with ChatGPT Exit</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-btballoondll-doesnt-exist-problem/"><u>Step-by-Step Guide: Correcting 'btballoon.dll' Doesn't Exist Problem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-to-skip-over-common-gpt-conversational-errors/"><u>Strategies to Skip Over Common GPT Conversational Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essential-guide-why-your-career-benefits-from-learning-chatgpt/"><u>The Essential Guide: Why Your Career Benefits From Learning ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-reality-of-ai-influence-on-journalism-and-content-creation-jobs/"><u>The Reality of AI Influence on Journalism & Content Creation Jobs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-8-smartphone-ai-apps-android-and-ios-compatibility/"><u>Top 8 Smartphone AI Apps: Android & iOS Compatibility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-remote-collaboration-via-chatgpt-use/"><u>Transforming Remote Collaboration via ChatGPT Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-ai-potential-the-significance-of-usechatgpts-co-pilot-extension/"><u>Unlock AI Potential: The Significance of UseChatGPT's Co-Pilot Extension</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/when-tech-fails-patients-why-not-trust-chatgpt/"><u>When Tech Fails Patients: Why Not Trust ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-freelancers-dream-top-free-3d-text-psd-arsenal/"><u>[New] Freelancer’s Dream Top FREE 3D Text PSD Arsenal</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-tackling-frame-rate-glitches-in-obs-outputs-for-2024/"><u>[New] Tackling Frame Rate Glitches in OBS Outputs for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-pros-playbook-mastering-the-art-of-capturing-ps4-gaming-for-2024/"><u>[Updated] The Pro's Playbook Mastering the Art of Capturing PS4 Gaming for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/buy-youtube-subscribers-hundreds-of-subscribers-for-5/"><u>Buy YouTube Subscribers - Hundreds of Subscribers for $5?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flawless-content-creation-the-4-biggest-mistakes-to-dodge-using-chatgpt/"><u>Flawless Content Creation - The 4 Biggest Mistakes to Dodge Using ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-schedule-and-dive-into-virtual-gatherings-with-zoom-on-an-android-platform/"><u>In 2024, How to Schedule and Dive Into Virtual Gatherings with Zoom on an Android Platform</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-latest-fitbit-charge-groove-features-and-functionality/"><u>In-Depth Look at the Latest Fitbit Charge Groove Features and Functionality</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-networks-to-impactful-status/"><u>Navigating Networks to Impactful Status</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-predictable-problems-with-generative-tech/"><u>Preventing Predictable Problems with Generative Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-complexity-pythons-role-in-gpt-3/"><u>Simplifying Complexity: Python's Role in GPT-3</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-video-conferencing-share-your-zoom-meetings-on-tv/"><u>Streamline Video Conferencing: Share Your Zoom Meetings on TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-jestful-ai-portable-progress-and-cybersecurity-evolution/"><u>The Jestful AI: Portable Progress and Cybersecurity Evolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-power-of-individualized-chatgpt-commands/"><u>Unlocking the Power of Individualized ChatGPT Commands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-advantages-4-reasons-to-prefer-claude-3/"><u>Unveiling the Advantages: 4 Reasons to Prefer Claude 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zerogpt-and-detectors-can-they-be-trusted-completely/"><u>ZeroGPT & Detectors: Can They Be Trusted Completely?</u></a></li>
 </ul></div>
+

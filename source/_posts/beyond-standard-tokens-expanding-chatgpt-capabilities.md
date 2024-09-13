@@ -1,7 +1,7 @@
 ---
 title: "Beyond Standard Tokens: Expanding ChatGPT Capabilities"
-date: 2024-09-06T23:37:27.024Z
-updated: 2024-09-07T23:37:27.024Z
+date: 2024-09-12T07:39:45.058Z
+updated: 2024-09-13T07:39:45.058Z
 tags:
   - chatgpt
   - open-ai
@@ -26,17 +26,12 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What's a ChatGPT Token?
 
  If you go by the app's façade, all you see is a computer language that obeys your commands and gives you the answers you seek. However, the backend is just lots of code, learning every minute, and getting up to speed with the questions it answers.
@@ -44,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
  ChatGPT converts each word into a legible token whenever you ask a question. To break it down further, tokens are text fragments, and each programming language uses a different set of token values to understand the requirements.
 
 ![Comparison operators and boolean logic with cpp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cpp-coding-samples.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Since computers don't understand text values directly, they break them down into a combination of numbers, often called embeddings. You can even consider embeddings like [Python lists](https://www.makeuseof.com/tag/arrays-lists-in-python/), which resemble a list of related numbers, such as \[1.1,2.1,3.1,4.1…n\].
 
@@ -68,39 +70,22 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
 ![Tokenizer calculation from OpenAI's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tokenizer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  As per the [OpenAI token calculator](https://platform.openai.com/tokenizer):
 
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Free vs. Paid Tokens
 
  To give you a flavor of what's what within the ChatGPT application, OpenAI offers you a free limited token subscription. If you want to experiment with the ChatGPT API, use the free $5 credit, which is valid for three months. Once the limit is exhausted (or the trial period is up), you can pay-as-you-go, which increases the maximum quota to $120\.
 
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
  To take it up a notch, you can even sign up for the [ChatGPT Plus Offer](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), which sets you back by $20 a month. Given the extensive usage and popularity of the entire AI model, here are the top features of the paid subscription model:
@@ -110,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
 * First-hand access to new features and releases
 
  If you feel these features are entirely worth it and up your alley, you can enroll for the paid subscription and benefit from them immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Token Pricing Structure
 
@@ -130,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
 | GPT-4 32k context | $0.06                                | $0.12                                     |
 
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Maximum Token Limits
 
@@ -154,11 +153,12 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Learn to Control Your ChatGPT Prompts for Best Results
 
  No matter how you use the AI-driven application, chances are you will have to devise ways to play smartly with your questions and phrases. Depending on your usage patterns, you will likely use ChatGPT extensively for every task.
@@ -171,14 +171,11 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -189,38 +186,18 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-audience-experience-four-ways-to-livestream-on-tv/"><u>[New] Enhancing Audience Experience Four Ways to Livestream on TV</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-breaking-barriers-twitter-to-facebook-posting-process/"><u>[New] In 2024, Breaking Barriers Twitter-to-Facebook Posting Process</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-unveiling-6-premium-background-erasers-for-photo-professionals/"><u>[New] Unveiling 6 Premium Background Erasers for Photo Professionals</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-in-depth-look-at-voice-altering-software-for-video-makers/"><u>[Updated] In 2024, In-Depth Look at Voice Altering Software for Video Makers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-when-worlds-crumble-premium-guide-to-top-zombie-games/"><u>[Updated] In 2024, When Worlds Crumble Premium Guide to Top Zombie Games</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-prime-gear-picks-for-beginning-creators/"><u>2024 Approved Prime Gear Picks for Beginning Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-growth-paving-way-for-more-hacking-opportunities/"><u>AI Growth: Paving Way for More Hacking Opportunities</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/balance-quality-and-quickness-with-netflix-speed-modification-tips/"><u>Balance Quality & Quickness with Netflix Speed Modification Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-real-time-data-widespread-advantages/"><u>ChatGPT's Real-Time Data: Widespread Advantages</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dead-by-daylight-troubleshooting-solving-error-code-8014/"><u>Dead by Daylight Troubleshooting: Solving Error Code 8014</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-spreadsheet-complexities-with-chatgpt-excel/"><u>Demystifying Spreadsheet Complexities with ChatGPT-Excel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-jest-dynamics-by-ai-potential-for-laughter/"><u>Digital Jest Dynamics by AI: Potential for Laughter?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-the-turing-test-future-or-fallacy/"><u>Dissecting The Turing Test: Future or Fallacy?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diys-new-era-dawns-with-gpt-4-advancements/"><u>DIY's New Era Dawns With GPT-4 Advancements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/drive-business-success-mastering-office-tasks-using-gpt-3-ai/"><u>Drive Business Success: Mastering Office Tasks Using GPT-3 AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/end-juxtaposing-siri-and-chatgpt-discerning-their-divergence/"><u>End Juxtaposing Siri & ChatGPT: Discerning Their Divergence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-smartphone-interaction-with-chatgpt/"><u>Enhancing Smartphone Interaction with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ai-interactions-my-snapchat-vs-bing-in-skype/"><u>Exploring AI Interactions: My Snapchat vs Bing in Skype</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/freelancers-guide-to-selecting-a-bot-is-bing-or-gpt-3-better/"><u>Freelancer's Guide to Selecting a Bot: Is Bing or GPT-3 Better?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-k70-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi K70</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guiding-kids-through-ai-dialogues-safely-the-top-5-advice/"><u>Guiding Kids Through AI Dialogues Safely: The Top 5 Advice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-5-new-bots-are-transforming-mental-health/"><u>How 5 New Bots Are Transforming Mental Health</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-future-worlds-converge-or-diverge-metaverse-vs-omniverse-debated/"><u>In 2024, Future Worlds Converge or Diverge? Metaverse Vs. Omniverse Debated</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-12-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone 12 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-generative-ai-becoming-a-new-tool-for-disinformation/"><u>Is Generative AI Becoming a New Tool for Disinformation?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/leveraging-instagrams-music-icon-feature-effectively-for-2024/"><u>Leveraging Instagram’s Music Icon Feature Effectively for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-your-digital-dialogue-top-5-strategies-for-personalized-ai-commands/"><u>Mastering Your Digital Dialogue: Top 5 Strategies for Personalized AI Commands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-emojis-on-twitter-linuss-leaks-trojan-explained-and-chatbot-glitches-highlighted/"><u>No Emojis on Twitter, Linus’s Leaks, Trojan Explained, & ChatBot Glitches Highlighted</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shield-your-talkbots-from-data-leaks/"><u>Shield Your Talkbots From Data Leaks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speculating-on-the-future-gpt-5s-expected-release/"><u>Speculating on the Future: GPT-5's Expected Release?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-advantages-of-claude-3-over-gpt-3-top-4-facts/"><u>The Advantages of Claude 3 Over GPT-3 - Top 4 Facts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-panoramic-capture-9-techniques-to-perfection/"><u>The Art of Panoramic Capture 9 Techniques to Perfection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-audio-issues-a-comprehensive-fix-guide/"><u>Troubleshooting Windows 11 Audio Issues: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hero5-black-mastery-techniques-to-take-photos-and-videos-from-great/"><u>[New] Hero5 Black Mastery Techniques to Take Photos & Videos From Great</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-predecessors-how-gpt-4-surpasses-gpt-35/"><u>Beyond Predecessors: How GPT-4 Surpasses GPT-3.5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-geekworm-x1011-revealed-unboxing-the-next-gen-network-attached-storage-creator/"><u>Exclusive Geekworm X1011 Revealed: Unboxing the Next-Gen Network Attached Storage Creator</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-resident-evil-village-pc-performance-problems-expert-solutions-revealed/"><u>Fixing Resident Evil Village PC Performance Problems: Expert Solutions Revealed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-honor-x7b-frp-bypass-by-drfone-android/"><u>In 2024, About Honor X7b FRP Bypass</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-ghost-runner-crashes-effective-fixes-for-windows-11-users/"><u>Overcoming 'Ghost Runner' Crashes: Effective Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pythons-key-to-effective-gpt-3-utilization/"><u>Python's Key to Effective GPT-3 Utilization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-the-substance-of-truthgpt-token/"><u>Scrutinizing the Substance of TruthGPT Token</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-trust-in-zerogpt-and-its-detection-counterparts/"><u>Scrutinizing Trust in ZeroGPT & Its Detection Counterparts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesizing-verses-with-chatgpt-assistance/"><u>Synthesizing Verses with ChatGPT Assistance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/utilizing-slug-lines-for-better-content-structure/"><u>Utilizing Slug Lines for Better Content Structure</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wolcen-lords-of-mayhem-pc-game-freezes-solutions-found/"><u>Wolcen: Lords of Mayhem PC Game Freezes - Solutions Found!</u></a></li>
 </ul></div>
+

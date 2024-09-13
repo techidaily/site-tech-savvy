@@ -1,7 +1,7 @@
 ---
 title: "Brainchild of Bard: Google's Answer to the AI World Leaders"
-date: 2024-09-06T23:35:26.561Z
-updated: 2024-09-07T23:35:26.561Z
+date: 2024-09-12T07:41:43.619Z
+updated: 2024-09-13T07:41:43.619Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: "This Article Describes Brainchild of Bard: Google's Answer to the AI W
 thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebea6985dfc0c6d939ebdaa395.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Brainchild of Bard: Google's Answer to the AI World Leaders
 
  The launch of ChatGPT rattled several tech companies. Google, whose revenue is heavily dependent on its search business—something ChatGPT could eventually threaten—has particularly been concerned.Now, less than three months into ChatGPT's existence, Google has announced the launch of a ChatGPT-styled AI called Bard to take on the seemingly unchallenged reign of ChatGPT. But how will Bard work? Will Bard be better than ChatGPT? Here's everything we know so far.
@@ -33,18 +21,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
  **SCROLL TO CONTINUE WITH CONTENT**
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Google's Bard AI?
 
  Bard is a Google-owned experimental AI language model capable of generating human-sounding responses to prompts or inputs given. It is built on top of Google's powerful conversational language model, LaMDA (Language Model for Dialogue Applications).
@@ -54,25 +30,34 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![google bard on smartphone example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-bard-on-smartphone-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image Credit:[Google](https://blog.google/technology/ai/bard-google-ai-search-updates/)
 
  Unlike ChatGPT, Sundar Pichai explained that Bard will initially only be available to a few trusted testers, with plans to scale to more users. The announcement also showcased what the initial release would look like with several examples—some of which look strikingly similar to what ChatGPT would do. So, is Bard going to be just another ChatGPT?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Google Bard Could Be Better Than ChatGPT
 
 ![An illustration of an AI bot performing meeting analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/AI-Meeting-Assistant-for-Online-Meetings-Featured-Image.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  ChatGPT was released on November 30, 2022, after a lengthy development period. The entire development process, including the base technology that powers it, spanned several years. At first glance, this would mean Google had less than three months to build a product to rival ChatGPT, a product built on years of evolving technology.
 
  However, the reality is different. Google has invested heavily in Artificial Intelligence fields like [Natural Language Processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) for several years. In a seeming twist of fate, while Google is trying to rival ChatGPT, the very [technology architecture that powers ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) , known as the Transformer architecture, is a brainchild of Google's research. In other words, Google is now trying to outcompete a business threat that is technically built on Google technology.
@@ -86,16 +71,30 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
  In simpler terms, this would mean Google's Bard would be able to provide fresh, up-to-date responses while ChatGPT would, unfortunately, be limited to information relating to events, not beyond 2021 (ChatGPT's current data training cut-off).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How Will Google Bard Work?
 
  From the demonstrations Google has provided, it's not entirely clear whether Bard will exist as a standalone prompt-response web interface like ChatGPT "after the initial testing phase."
 
  However, in typical Google fashion, Google will almost certainly push to deeply integrate Bard into most of its products, including Google Search, akin to what Microsoft is trying to do with Bing and other Microsoft products using ChatGPT technology.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Google's Bard Demonstration Features Factual Issues
 
@@ -104,11 +103,12 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
  Bard is still in its very early stages, but its false statement was a clear indicator of the issues of integrating conversational AI technology deeper into general internet search, where many will trust what is written.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Will Google's Bard AI Be Better Than ChatGPT?
 
  Google has been sitting on a wealth of truly phenomenal AI tools, only periodically giving the public a glimpse of what it has to offer.
@@ -121,8 +121,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,35 +130,21 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-reimagine-your-snapchat-chats-with-ease-voice-change-guides-here/"><u>[New] 2024 Approved Reimagine Your Snapchat Chats with Ease Voice Change Guides Here</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-list-of-premium-androidpc-video-editors/"><u>[New] 2024 Approved The Ultimate List of Premium Android/PC Video Editors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-transforming-photos-and-videos-from-instagram-to-iphones/"><u>[New] Transforming Photos and Videos From Instagram to iPhones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-winning-at-gaming-memory-capture-essentials-on-windows-10/"><u>[Updated] In 2024, Winning at Gaming Memory Capture Essentials on Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beneath-the-surface-of-ai-exploring-black-boxes/"><u>Beneath the Surface of AI: Exploring Black Boxes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bot-communication-mirroring-human-chatter/"><u>Bot Communication: Mirroring Human Chatter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-ultimate-matchmaker-toolkit/"><u>ChatGPT: The Ultimate Matchmaker Toolkit</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choreographed-ice-winter-olympics-highlights-for-2024/"><u>Choreographed Ice Winter Olympics Highlights for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-stellar-cvs-integrating-chatgpt-insights/"><u>Crafting Stellar CVs - Integrating ChatGPT Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-myth-real-vs-imitation-gpt-binco-tokens/"><u>Decoding the Myth: Real vs Imitation GPT-Binco Tokens</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-support-strategies-ethical-use-of-gpt/"><u>Digital Support Strategies: Ethical Use of GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exceeding-chatgpts-maximum-characters-how/"><u>Exceeding ChatGPT's Maximum Characters: How?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-claude-pros-features-against-gptplusplus/"><u>Exploring Claude Pro's Features Against GPT+Plus</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/future-fusion-unlocking-mac-with-smartwatches/"><u>Future Fusion Unlocking Mac With Smartwatches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guarding-against-algorithmic-abuse/"><u>Guarding Against Algorithmic Abuse</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/halt-siri-versus-chatgpt-comparison-what-sets-them-apart/"><u>Halt Siri Versus ChatGPT Comparison: What Sets Them Apart</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-14-plus-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 14 Plus</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-nubia-red-magic-8s-proplus-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Nubia Red Magic 8S Pro+ to Protect Your Individual Information</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-master-gpts-text-limit-bounds/"><u>How to Master GPT’s Text Limit Bounds?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-excel-complexities-with-chatgpt-support/"><u>Navigating Excel Complexities with ChatGPT Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-workflow-changes-with-ai-tech/"><u>Navigating Workflow Changes with AI Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-era-of-bots-is-ai-claude-the-future-star/"><u>New Era of Bots: Is AI Claude the Future Star?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-guide-to-joining-the-ai-world-of-bing-search/"><u>Quick Guide to Joining the AI World of Bing Search</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sham-chatgpt-tool-snatches-fb-login-data/"><u>Sham ChatGPT Tool: Snatches FB Login Data</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/tips-for-perfecting-your-talking-face-content-a-complete-guide-for-2024/"><u>Tips for Perfecting Your Talking Face Content A Complete Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-factors-that-make-ai-ill-suited-for-full-time-writing-roles/"><u>Top 5 Factors That Make AI Ill-Suited for Full-Time Writing Roles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transform-spoken-words-into-written-format-powerpoints-voice-recognition-insight/"><u>Transform Spoken Words Into Written Format PowerPoint’s Voice Recognition Insight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-predictive-ai-a-simplified-overview/"><u>Understanding Predictive AI - A Simplified Overview</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-your-dev-life-implementing-auto-gpt-on-ubuntu/"><u>Upgrade Your Dev Life: Implementing Auto-GPT on Ubuntu</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/will-gpt-challenge-se-dominance/"><u>Will GPT Challenge SE Dominance?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-compelling-choices-macs-excellent-snipping-tools/"><u>2024 Approved Compelling Choices Mac's Excellent Snipping Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-insights-on-market-research-for-effective-business-decisions/"><u>2024 Approved Key Insights on Market Research for Effective Business Decisions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-strategies-for-igtv-on-facebook-integration/"><u>2024 Approved Strategies for IGTV on Facebook Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginners-guide-to-ai-engage-with-these-9-leading-forums/"><u>Beginners Guide to AI: Engage With These 9 Leading Forums</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-samsungs-advanced-galaxy-z-fold-model-x-pricing-upcoming-launch-and-specifications-covered/"><u>Comprehensive Guide: Samsung's Advanced Galaxy Z Fold Model X - Pricing, Upcoming Launch & Specifications Covered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-detective-dilemmrances-solve-mysteries-in-virtual-realms/"><u>Digital Detective Dilemmrances: Solve Mysteries in Virtual Realms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eating-well-made-simple-chatais-cooking-insights/"><u>Eating Well Made Simple: ChatAI's Cooking Insights</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-a60-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A60 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g84-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G84 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlocking-instagram-memories-with-these-apps/"><u>In 2024, Unlocking Instagram Memories with These Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-apples-virtual-hardware-evaluation-for-your-iphone-device/"><u>Navigating Apple's Virtual Hardware Evaluation for Your iPhone Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plug-in-with-ease-integrating-new-extensions-into-chatgpt/"><u>Plug in with Ease - Integrating New Extensions Into ChatGPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secured-graphics-setup-on-windows/"><u>Secured Graphics Setup on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-ai-tasks-beginning-with-auto-gpt/"><u>Streamline AI Tasks: Beginning with Auto-GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-battle-for-better-bots-gpt-vs-huggingchat/"><u>The Battle for Better Bots: GPT vs HuggingChat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-ai-titans-clash-gpt-microsoft-bing-ai-and-google-bard-meet/"><u>Top 3 AI Titans Clash: GPT, Microsoft Bing AI & Google Bard Meet</u></a></li>
 </ul></div>
+
