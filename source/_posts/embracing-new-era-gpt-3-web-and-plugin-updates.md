@@ -1,7 +1,7 @@
 ---
 title: "Embracing New Era: GPT-3 Web & Plugin Updates"
-date: 2024-09-12T07:48:37.223Z
-updated: 2024-09-13T07:48:37.223Z
+date: 2024-09-15T16:29:37.229Z
+updated: 2024-09-17T16:20:46.461Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
  Late on May 12, 2023, an [OpenAI blog post revealed](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) that ChatGPT's Plugin feature would become available to ChatGPT Plus users.
@@ -40,19 +33,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
  Up until this point, users could only [gain access to ChatGPT Plugins by signing up](https://www.makeuseof.com/how-sign-up-chatgpt-plugins/) and waiting for access.
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Are ChatGPT Plugins?
 
@@ -66,13 +46,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Can Browse the Web
 
  That's not all, though.
@@ -85,23 +58,9 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -111,16 +70,16 @@ Close
 
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable ChatGPT Plugins and Web Browsing
 
@@ -136,6 +95,13 @@ Close
  After enabling both settings, you'll find new options from the ChatGPT model switcher (where you'd normally switch between GPT-3.5 and GPT-4). You'll now find an option for Web Browsing and one for Plugins.
 
  From here, you can select either Web Browsing to enable web-connected search or select **Plugin Store** to begin installing and enabling Plugins.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Finally Connected to the Internet
 
@@ -162,20 +128,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-can-a-brief-subscribe-boost-your-content-viewing/"><u>[New] Can a Brief Subscribe Boost Your Content Viewing?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-enhance-your-gopro-footage-top-5-sd-cards-hero-8-7-for-2024/"><u>[Updated] Enhance Your GoPro Footage Top 5 SD Cards (Hero 8, 7) for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-fidelity-mobile-sound-selector/"><u>[Updated] High Fidelity Mobile Sound Selector</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-dictators-who-controls-ai/"><u>Digital Dictators: Who Controls AI?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fitness-pros-and-chatgpt-prompt-perfection/"><u>Fitness Pros and ChatGPT Prompt Perfection</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/how-to-convert-h264-video-to-hevch265-for-efficient-compression/"><u>How to Convert H.264 Video to HEVC/H.265 For Efficient Compression</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ice-ages-or-not-the-truth-about-climate-patterns/"><u>Ice Ages or Not? The Truth About Climate Patterns</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/latest-biwin-14-gbs-nvme-m2-ssd-awaiting-launch-of-revolutionary-non-phison-pcie-50-x4-storage/"><u>Latest Biwin 14.# Gb/S NVMe M.2 SSD: Awaiting Launch of Revolutionary Non-Phison PCIe 5.0 X4 Storage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-chatgpt-is-not-losing-smarts-openai-confirms/"><u>No, ChatGPT Is Not Losing Smarts - OpenAI Confirms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quora-poe-your-key-to-ai-tech-integration/"><u>Quora POE: Your Key to AI Tech Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-comparative-benefits-of-digital-versus-traditional-libraries-in-contemporary-society/"><u>The Comparative Benefits of Digital Versus Traditional Libraries in Contemporary Society</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-chatgpt-4s-slower-pace-vs-gpt-35/"><u>Understanding ChatGPT-4's Slower Pace Vs. GPT-3.5</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/why-thunderbolt-technology-matters-for-your-next-laptop-purchase-a-comprehensive-guide/"><u>Why Thunderbolt Technology Matters for Your Next Laptop Purchase – A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/winrtk5770driversnewrelease/"><u>WinRTK5770DriversNewRelease</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-into-the-future-jaunt-vrs-potential-explored-for-2024/"><u>[New] Into the Future Jaunt VR's Potential Explored for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-ios-tools-for-psp-gaming-top-5-for-2024/"><u>[Updated] Best iOS Tools for PSP Gaming, Top 5 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-frontline-firefight-top-7-fps-battles-ranked/"><u>[Updated] In 2024, Frontline Firefight - Top 7 FPS Battles Ranked</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-investing-time-wisely-on-cover-art-creation/"><u>2024 Approved Investing Time Wisely on Cover Art Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-fraud-detection-guide/"><u>ChatGPT Fraud Detection Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-dandd-characters-with-chatgpt-and-ai-artistry-tools/"><u>Crafting D&D Characters with ChatGPT and AI Artistry Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-redmi-k70-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Redmi K70</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-basic-understanding-of-animate-graphic-content/"><u>In 2024, Basic Understanding of Animate Graphic Content</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-lava-yuva-2-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Lava Yuva 2 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mental-health-horizons-with-the-help-of-ai-innovations/"><u>Mental Health Horizons with the Help of AI Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unleashing-of-chatgpt/"><u>The Unleashing of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-risks-when-chatting-with-advanced-ais-like-chatgpt/"><u>Understanding Risks When Chatting with Advanced AIs Like ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionary-ventures-mindmapping-with-chatai/"><u>Visionary Ventures: Mindmapping with ChatAI</u></a></li>
 </ul></div>
 

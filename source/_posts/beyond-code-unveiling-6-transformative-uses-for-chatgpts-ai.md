@@ -1,7 +1,7 @@
 ---
 title: "Beyond Code: Unveiling 6 Transformative Uses for ChatGPT's AI"
-date: 2024-09-12T07:46:37.319Z
-updated: 2024-09-13T07:46:37.319Z
+date: 2024-09-16T16:25:28.403Z
+updated: 2024-09-17T16:07:03.377Z
 tags:
   - chatgpt
   - open-ai
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
 
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Apart from these editing tricks, you can also extract relevant metadata from an image as well. You can specify the specific metadata you want to extract, or you can simply prompt ChatGPT to extract all relevant metadata from the attached image. That's not all. You can also create an image from scratch using the plugin.
 
  In the example below, we asked ChatGPT via the Code Interpreter to create a word cloud image containing the first names of the last 20 US presidents. It's not the best of examples, but it gives you an idea of what you can do.
@@ -66,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Create and Edit Videos
 
@@ -108,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Read, Edit and Create Documents
 
  File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
@@ -128,16 +107,10 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
@@ -155,16 +128,16 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Extract Text from Images (Optical Character Recognition)
@@ -172,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
 
@@ -205,15 +171,21 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>[New] 2024 Approved Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-full-spectrum-slomo-recording-app-evaluation/"><u>[Updated] In 2024, The Full Spectrum SloMo Recording App Evaluation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1724313546384-abbyy/"><u>税収管理革新：ABBYY、トッパン・フォームズが中野区及び京都電子計算との共同模型構築</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alert-systems-for-counterfeit-chatgpt-websites/"><u>Alert Systems for Counterfeit ChatGPT Websites</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/direct-vs-additional-gpt-tools-for-effective-communication/"><u>Direct Vs. Additional GPT Tools for Effective Communication</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-the-our-data-centers-could-not-find-a-response-error-in-halo-infinite/"><u>Effective Solutions for the Our Data Centers Could Not Find a Response Error in Halo Infinite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-look-at-digital-dialogues-in-social-media/"><u>In-Depth Look at Digital Dialogues in Social Media</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-performance-hiccups-in-overwatch-a-comprehensive-guide/"><u>Overcoming Performance Hiccups in Overwatch: A Comprehensive Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-impactful-journey-with-gopro-hero5/"><u>The Impactful Journey with GoPro Hero5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-is-the-changing-of-gpt-limited/"><u>Why Is the Changing of GPT Limited?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/deal-cutting-edge-apps-top-10-for-editing-youtube-shorts-for-2024/"><u>[New] Ideal Cutting Edge Apps Top 10 for Editing Youtube Shorts for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs/"><u>[Updated] 2024 Approved Navigating the World of Online Broadcasts on YouTube and Twitch with OBS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-video-player-best-availability-on-multiple-systems/"><u>[Updated] Optimal Video Player Best Availability on Multiple Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-ai-powered-image-editor/"><u>[Updated] Ultimate AI-Powered Image Editor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp420247/"><u>「MP4ビデオを分解してご利用ください：2024新世代最高のフリーソフト7品評」</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976604310-0-drivers/"><u>0 Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apps-on-iphone-11-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apps on iPhone 11 Pro?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iwara/"><u>Iwaraコンテンツをダウンロード保存するための詳細な手順: 最強の方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/latest-enhancement-of-wonderfox-the-advanced-video-downloader-is-released/"><u>Latest Enhancement of WonderFox: The Advanced Video Downloader Is Released!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/live-footage-at-its-best-gamers-recording-tips/"><u>Live Footage at Its Best Gamers' Recording Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/most-effective-and-user-friendly-dvd-to-mkv-converter-software-in-202n4-for-windows/"><u>Most Effective and User-Friendly DVD to MKV Converter Software in 202N4 for Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-tools-for-pros-masterful-4k-video-production-software-rankings/"><u>Premium Tools for Pros: Masterful 4K Video Production Software Rankings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-personal-videos-on-youtube-a-step-by-step-guide-to-making-them-private/"><u>Protecting Personal Videos on YouTube: A Step-by-Step Guide to Making Them Private</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-avi-manipulation-techniques-top-programs-for-trimming-rotating-and-combining-videos/"><u>Quick and Simple AVI Manipulation Techniques – Top Programs for Trimming, Rotating & Combining Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-invalid-inf-configuration/"><u>Resolving Invalid INF Configuration</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategizing-windows-11-service-management-safely/"><u>Strategizing Windows 11 Service Management Safely</u></a></li>
 </ul></div>
 

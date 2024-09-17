@@ -1,7 +1,7 @@
 ---
 title: Silverman and Peers Target OpenAI/Meta for Creative Liberty
-date: 2024-09-12T07:46:34.728Z
-updated: 2024-09-13T07:46:34.728Z
+date: 2024-09-11T16:13:23.577Z
+updated: 2024-09-17T16:05:34.360Z
 tags:
   - chatgpt
   - open-ai
@@ -32,40 +32,13 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 ![Person having a chat on ChatGPT](https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5163c7ab05139a28f15cb6cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In [a class action lawsuit](https://llmlitigation.com/pdf/03416/silverman-openai-complaint.pdf) \[PDF\] filed in California, comedian Sarah Silverman and other writers (Christopher Golden and Richard Kadrey) seek to recover damages against OpenAI and Meta over copyright infringement. The lawsuit alleges OpenAI and Meta scraped copyrighted books from pirate websites to train their AI models. This is the equivalent of an AI model downloading its training datasets from Piratebay without compensating the authors.
 
  Coincidentally, a [separate class action lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.cand.414822/gov.uscourts.cand.414822.1.0%5F1.pdf) \[PDF\] against OpenAI alleges the company used unauthorized private information to train ChatGPT. Google is also facing a similar lawsuit over allegedly using stolen data to train Google Bard. This is why you should [make it a habit to protect your personal information](https://www.makeuseof.com/online-safety-habits-data-privacy/), though publishing work and private personal data are not the same.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are the Chances Sarah Silverman Could Win the Lawsuit?
 
 ![Ai cloud with robot head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ai-cloud-with-robot-head.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-head%5F32471117.htm)
 
@@ -75,33 +48,19 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
 
  If it's proven that OpenAI and Meta used illegal torrent websites to acquire copyrighted materials to train its AI models, Silverman may have a shot of winning the lawsuit. However, AI models are uncharted territory with no precedent for courts to rely on to make a ruling based on AI copyright infringement. In fact, that's one of the reasons why [the EU proposed an AI Act.](https://www.makeuseof.com/what-is-the-eu-ai-act-how-would-it-affect-chatgpt/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is the Future of AI Models and Copyright Law?
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We're still in the early days of AI to know how it will adapt to copyright law. It's even more complex trying to figure out [who owns the copyright to AI creation](https://www.makeuseof.com/who-owns-copyright-to-ai-creations/). But for human creators, regulations exist to protect them against someone else accessing their copyrighted material without compensation, consent, or credit. If the rules exist for humans, will they apply to AI models?
 
  The EU parliament drafted the closest glimpse into the future of how AI models will comply with copyright law. If the EU AI Act is assented into law, AI models like ChatGPT and Bard will be required to publish all their dataset sources and copyrighted data used for training. This will help clear up any confusion if the AI models accessed copyrighted books, movies, music, and photos for training through illegal piracy websites.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The AI Class Action Lawsuit Ruling Will Set a Legal Precedent
@@ -129,16 +88,20 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-inspiration-crafting-captivating-ig-posts/"><u>[New] In 2024, The Art of Inspiration Crafting Captivating IG Posts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-reroute-mac-screenshot-file-destination/"><u>[New] Reroute Mac Screenshot File Destination</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-double-your-reach-youtube-and-facebook-cross-promotion/"><u>[Updated] 2024 Approved Double Your Reach YouTube & Facebook Cross-Promotion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/all-inclusive-information-on-openai-explained-simply/"><u>All-Inclusive Information on OpenAI Explained Simply</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-burnout-keeping-your-game-windows-laptop-cool/"><u>Avoiding Burnout: Keeping Your Game Windows Laptop Cool</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-stealth-instagram-story-viewing-guide-for-desktops-android-and-ios/"><u>In 2024, Stealth Instagram Story Viewing Guide for Desktops, Android & iOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-enhanced-samsung-k850u-experience/"><u>In 2024, Unveiling the Enhanced Samsung K850U Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trio-of-tech-titans-compared-gpt-microsofts-ai-googles-bard/"><u>Trio of Tech Titans Compared: GPT, Microsoft's AI, Google's Bard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unrecognized-writing-flaws-by-ai/"><u>Unrecognized Writing Flaws by AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-claude-2-and-what-can-you-do-with-it/"><u>What Is Claude 2 and What Can You Do With It?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/workplace-implications-of-using-chatgpt-the-legal-landscape/"><u>Workplace Implications of Using ChatGPT: The Legal Landscape</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-comedic-content-concepts-7-hilarious-vlog-ideas-for-laughter-lovers/"><u>[New] 2024 Approved Comedic Content Concepts 7 Hilarious Vlog Ideas for Laughter Lovers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-elevating-your-macs-tiktok-opener-quality/"><u>[New] 2024 Approved Elevating Your Mac's TikTok Opener Quality</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy A05s FRP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oppo-a1-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Oppo A1 5G Unlock Without Password</u></a></li>
+<li><a href="https://win-forum.techidaily.com/beat-the-system-successful-installation-of-windows-11-on-unsupported-cpus/"><u>Beat the System: Successful Installation of Windows 11 on UNSUPPORTED CPUs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/expert-video-editor-for-seamless-vimeo-videos/"><u>Expert Video Editor for Seamless Vimeo Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nokia-g310-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nokia G310 to iPad | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-setting-up-aliunde-plus-plugin-with-matrix-support-on-your-kodi-device/"><u>Step-by-Step Guide to Setting Up Aliunde Plus Plugin with Matrix Support on Your Kodi Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-converting-flac-audio-to-aac-with-ease-for-windows-macos-and-web-applications/"><u>Step-by-Step Tutorial: Converting FLAC Audio to AAC with Ease for Windows, MacOS & Web Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-selection-of-4-free-and-easy-avi-file-format-changers-for-pcs-and-macs/"><u>The Ultimate Selection of 4 Free and Easy AVI File Format Changers for PCs & Macs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-youtube-editing-apps-and-software-recommendations/"><u>Top 10 YouTube Editing Apps & Software Recommendations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-instagram-reels-audio-extractors-choose-the-best-one/"><u>Top 4 Instagram Reels Audio Extractors - Choose the Best One!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-windows-applications-for-optimal-video-compression/"><u>Top Rated Window's Applications for Optimal Video Compression</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-videos-from-vp9-to-h264-essential-tips-for-seamless-format-switching/"><u>Transform Your Videos From VP9 to H.264: Essential Tips for Seamless Format Switching</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-11-pros-window-secrets/"><u>Unlocking 11 Pro's Window Secrets</u></a></li>
 </ul></div>
 

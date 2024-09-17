@@ -1,7 +1,7 @@
 ---
 title: Note-Taking Done Right - GPT's Approach Explained
-date: 2024-09-12T07:46:54.987Z
-updated: 2024-09-13T07:46:54.987Z
+date: 2024-09-12T16:25:50.788Z
+updated: 2024-09-17T16:01:47.852Z
 tags:
   - chatgpt
   - open-ai
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use ChatGPT for Note-Taking
 
@@ -81,21 +74,7 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 ![ChatGPT Output Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-output-notes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For this guide, we're using the free version of ChatGPT. If you have the Plus subscription, you might find the WebPilot or Metaphor Search plugins to be useful.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3\. Review and Refine the Generated Notes
 
@@ -107,14 +86,14 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 ![Re-Prompting In ChatGPT Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/re-prompting-in-chatgpt-example.jpg)
 
- Prompting is indeed a skill, and if you want to master it, read our [prompt crafting guide for beginners](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) once. Once you master prompting, you can quickly improve your notes. For example, you can prompt ChatGPT to include bucket brigades, more examples, and context-based questions in your notes.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Prompting is indeed a skill, and if you want to master it, read our [prompt crafting guide for beginners](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) once. Once you master prompting, you can quickly improve your notes. For example, you can prompt ChatGPT to include bucket brigades, more examples, and context-based questions in your notes.
 
 ### Step 4\. Format the Notes in a Note-Taking App
 
@@ -122,16 +101,16 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 ![ChatGPT Copy Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-copy-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you've transferred the notes into your note-taking app, it's entirely up to you how you choose to present them. Also, you can check some of the [most effective strategies to master note-taking quickly](https://www.makeuseof.com/use-good-note-taking-strategies-to-take-faster-notes/).
 
  Now, if you're excited about formatting your draft notes, there are plenty of ways. For example, you can color grade the main points, use font styling, and add images for better context. We already have a guide on some [free AI image generation tools](https://www.makeuseof.com/ai-text-to-art-generators/) and [websites for copyright-free images](https://www.makeuseof.com/tag/top-5-websites-for-free-stock-photographs/) to give your notes an eye-catchy look.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Can You Improve Your Notes Using ChatGPT?
 
@@ -141,43 +120,36 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 ![Obsidian Notes Using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-notes-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Layered note-taking is a great way to organize and structure your notes. With this method, you create different layers or levels of information, starting with the most critical points at the top and adding more detailed information as you go down.
 
  This lets you quickly look through your notes and easily locate the critical information you need. This method is beneficial when you have much information to cover and want to ensure you effectively capture the essential points.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Question and Answer Method
 
 ![Question Answer Strategy In Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/question-answer-strategy-in-notes.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The question-and-answer method is another effective way to enrich your notes. This method involves creating questions based on your notes and then using ChatGPT to answer them. This makes your notes more interactive and deepens your understanding of the material.
 
  For this, our prompt already includes a condition. Here's a tip: While using ChatGPT, you can use **CONDITIONS** to emphasize things you don't want ChatGPT to miss.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips on Using ChatGPT for Note-Taking
@@ -215,14 +187,18 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-the-power-of-cross-social-media-file-transfers-youtube-and-facebook/"><u>[New] 2024 Approved Unlocking the Power of Cross-Social Media File Transfers (YouTube & Facebook)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>[New] Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-cash-creation-101-the-snapchat-edition/"><u>[Updated] Cash Creation 101 The Snapchat Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-blueprint-for-youtube-video-narratives/"><u>ChatGPT's Blueprint for YouTube Video Narratives</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-permissions-shortfall-on-windows-1011-during-setup/"><u>Correcting Permissions Shortfall on Windows 10/11 During Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-individualistic-gpt-3-writing-guidelines/"><u>Crafting Individualistic GPT-3 Writing Guidelines</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/deck-to-deck-excellence-a-close-look-at-durecorder/"><u>Deck-to-Deck Excellence A Close Look at DuRecorder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-the-versatile-use-cases-for-chatgpt/"><u>Unpacking the Versatile Use Cases for ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/who-wins-the-tech-talk-comparing-gpt-and-bing-ai/"><u>Who Wins the Tech Talk: Comparing GPT & Bing AI?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-video-production-evolution-prime-lenses-for-youtube-enthusiasts/"><u>[New] Video Production Evolution Prime Lenses for YouTube Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-movie-trailers/"><u>[Updated] Best Movie Trailers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-heartfelt-goodbyes-free-or-subscribed-video-endings/"><u>[Updated] In 2024, Heartfelt Goodbyes Free or Subscribed Video Endings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-to-record-audio-a-guide-for-windows-similar-problem/"><u>Easy Steps to Record Audio: A Guide for Windows # Similar Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-guide-converting-your-dvds-into-avi-files/"><u>Effortless Guide: Converting Your DVDs Into AVI Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/europes-ai-governance-and-its-influence-on-ai-driven-interactive-tools-such-as-gpt/"><u>Europe's AI Governance & Its Influence on AI-Driven Interactive Tools Such as GPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-dell-g15-driver-downloads-and-step-by-step-installation-guide-for-windows-users/"><u>Free Dell G15 Driver Downloads & Step-by-Step Installation Guide for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-guide-dividing-a-single-mp3-file-into-distinct-audio-segments/"><u>Free Guide: Dividing a Single MP3 File Into Distinct Audio Segments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-compress-your-audio-files-efficiently-and-maintain-high-quality-sound/"><u>How To Compress Your Audio Files Efficiently and Maintain High-Quality Sound</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-efficiently-downsize-your-avi-videos-leading-software-solutions-for-quality-and-fit/"><u>How to Efficiently Downsize Your AVI Videos: Leading Software Solutions for Quality & Fit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-get-free-full-hd-movie-downloads-directly-onto-your-computer/"><u>How to Get Free Full HD Movie Downloads Directly Onto Your Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-list-of-avi-video-cutters-trim-and-edit-on-any-device/"><u>Updated 2024 Approved The Ultimate List of AVI Video Cutters Trim and Edit on Any Device</u></a></li>
 </ul></div>
 

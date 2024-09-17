@@ -1,0 +1,147 @@
+---
+title: Why Businesses Are Steering Clear of ChatGPT's Impact
+date: 2024-09-16T16:09:33.274Z
+updated: 2024-09-17T16:04:23.714Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Why Businesses Are Steering Clear of ChatGPT's Impact
+excerpt: This Article Describes Why Businesses Are Steering Clear of ChatGPT's Impact
+thumbnail: https://thmb.techidaily.com/5c4901379d06e76779eeda32a494315f2bc02d2e9ce3c41076b40598a264c895.jpg
+---
+
+## Why Businesses Are Steering Clear of ChatGPT's Impact
+
+ Despite its impressive abilities, several major companies have banned their employees from using ChatGPT.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ In May 2023, Samsung prohibited the use of ChatGPT and other generative AI tools. Then, in June 2023, the Commonwealth Bank of Australia followed suit, along with companies like Amazon, Apple, and JPMorgan Chase & Co. Some hospitals, law firms, and government agencies have also banned employees from using ChatGPT.
+
+ So, why are more and more companies banning ChatGPT? Here are five major reasons.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Data Leaks
+
+[ChatGPT requires a large amount of data to train and operate effectively](https://www.makeuseof.com/how-does-chatgpt-work/). The chatbot was trained using massive amounts of data derived from the internet, and it continues to be trained.
+
+ According to [OpenAI's Help Page](https://help.openai.com/en/articles/6783457-what-is-chatgpt), every piece of data, including confidential customer details, trade secrets, and sensitive business information you feed the chatbot is liable to be reviewed by its trainers, who may use your data to improve their systems.
+
+![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
+
+ Many companies are subject to stringent data protection regulations. As a result, they are cautious about sharing personal data with external entities, as this increases the risks of data leaks.
+
+ Besides, OpenAI doesn't offer any foolproof data protection and confidentiality assurance. In March 2023, [OpenAI confirmed](https://openai.com/blog/march-20-chatgpt-outage) a bug allowing some users to view the chat titles in other active users' histories. Although this bug was fixed and [OpenAI launched a bug bounty program](https://www.makeuseof.com/what-is-openai-bug-bounty-program/), the company does not assure the safety and privacy of user data.
+
+ Many organizations are opting to restrict employees from utilizing ChatGPT to avoid data leaks, which can damage their reputation, lead to financial losses, and put their customers and employees at risk.
+
+## 2\. Cybersecurity Risks
+
+![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
+
+ While [it's unclear if ChatGPT is genuinely prone to cybersecurity risks](https://www.makeuseof.com/does-chatgpt-have-security-risks-or-issues/), there's a chance that its deployment within an organization may introduce potential vulnerabilities which cyberattackers can exploit.
+
+ If a company integrates ChatGPT and there are weaknesses in the chatbot's security system, attackers may be able to exploit the vulnerabilities and inject malware codes. Also, ChatGPT's ability to generate human-like responses is a golden egg for phishing attackers who can take over an account or impersonate legitimate entities to deceive company employees into sharing sensitive information.
+
+## 3\. Creation of Personalized Chatbots
+
+![robot standing in the middle of a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatbot-chatgpt-ai.jpg)
+
+ Despite its innovative features, ChatGPT can produce false and misleading information. As a result, many companies have created AI chatbots for work purposes. For instance, the Commonwealth Bank of Australia asked its employees to use Gen.ai instead, an artificial intelligence (AI) chatbot that uses CommBank's information to provide answers.
+
+ Companies like Samsung and Amazon have developed advanced natural language models, so businesses can easily create and deploy personalized chatbots based on existing transcripts. With these in-house chatbots, you can prevent the legal and reputational consequences associated with mishandling data.
+
+## 4\. Lack of Regulation
+
+ In industries where companies are subject to regulatory protocols and sanctions, ChatGPT's lack of regulatory guidance is a red flag. Without precise regulatory conditions governing the use of ChatGPT, companies can face severe legal consequences when using the AI chatbot for their operations.
+
+ Additionally, the lack of regulation can diminish a company's accountability and transparency. Most companies may be confused about explaining the [AI language model's decision-making processes and security measures](https://www.makeuseof.com/ai-decision-making-cybersecurity/) to their customers.
+
+ Companies are restricting ChatGPT, fearing potential violations of privacy laws and industry-specific regulations.
+
+## 5\. Irresponsible Use by Employees
+
+![Three Employees Chatting With ChatGPT Open on Desktop](https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93697161a134c6af27a69e27e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ In many companies, some employees rely solely on ChatGPT responses to generate content and perform their duties. This breeds laziness in the work environment and staunches creativity and innovation.
+
+ Being AI dependent can hinder your ability to think critically. It can also damage a company's credibility, as ChatGPT often provides inaccurate and unreliable data.
+
+ Although ChatGPT is a powerful tool, using it to address complex queries requiring domain-specific expertise can damage a company's operation and efficiency. Some employees may not remember to fact-check and verify responses provided by the AI chatbot, treating responses as a one size fits all solution.
+
+ To mitigate problems like these, companies are placing bans on the chatbot so that employees can focus on their tasks and provide error-free solutions to users.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## ChatGPT Bans: Better Safe Than Sorry
+
+ Companies banning ChatGPT indicate cybersecurity risks, employee ethical standards, and regulatory compliance challenges. ChatGPT's inability to alleviate these challenges while providing industry solutions attests to its limitations and needs to evolve further.
+
+ In the meantime, companies are shifting to alternative chatbots or simply restricting employees from utilizing ChatGPT to avoid the potential data breaches and unreliable security and regulatory protocols associated with the chatbot.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ In May 2023, Samsung prohibited the use of ChatGPT and other generative AI tools. Then, in June 2023, the Commonwealth Bank of Australia followed suit, along with companies like Amazon, Apple, and JPMorgan Chase & Co. Some hospitals, law firms, and government agencies have also banned employees from using ChatGPT.
+
+ So, why are more and more companies banning ChatGPT? Here are five major reasons.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-streamlining-video-submissions-from-imovie-to-vimeo/"><u>[New] 2024 Approved Streamlining Video Submissions From iMovie to Vimeo</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-breaking-into-the-brainshare-how-to-hype-up-your-fb-content/"><u>[New] In 2024, Breaking Into the Brainshare How to Hype Up Your FB Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-dimming-decibels-softening-audio-in-computers-for-2024/"><u>[Updated] Dimming Decibels Softening Audio in Computers for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-syncopation-spotlight-hits-that-have-hit-the-high-note-on-tiktok/"><u>[Updated] In 2024, Syncopation Spotlight Hits That Have Hit the High Note on TikTok</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-affordable-game-controllers-under-100/"><u>[Updated] Ultimate Affordable Game Controllers Under $100</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cdsd/"><u>「コンピューターでCDからSDメモリカードへの音声移行手段」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-best-ways-to-transform-m4v-files-into-avi-format-a-comprehensive-guide/"><u>5 Best Ways to Transform M4V Files Into AVI Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/canva/"><u>動画分割手順を教える! Canvaで簡易操作法と代用方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5yuv55s744gu44gw44kp44gk44gn44gm5q2i44gplus44kl5pa55rov77ya56k65a6f44gr44k544og44o844k65yyw44gz44kl44gf44kb44gu44os44oz44oi44go44ov44k2/"><u>動画のざわつきが止まる方法：確実にスムーズ化するためのヒントとワザ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ac-3-vs-aac/"><u>AC-3 Vs. AAC：主要な違いとファイル間変換手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cdawav/"><u>CDA音声ファイルからWAV形式への簡単な変換手順 -初学者向けチュートリアル</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-capturing-screenshots-and-recording-your-screen-in-windows-11-using-the-built-in-snip-and-sketch-app/"><u>Complete Guide: Capturing Screenshots and Recording Your Screen in Windows 11 Using the Built-In Snip & Sketch App</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-y36i-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Y36i</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/los-mejores-programas-gratis-para-grabar-dvd-en-windows-1187-una-lista-con-6-opciones-destacadas/"><u>Los Mejores Programas Gratis Para Grabar DVD en Windows 11/8/7: Una Lista Con 6 Opciones Destacadas</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sound-to-scripture-top-pick-offline-recognition-software/"><u>Sound to Scripture Top Pick Offline Recognition Software</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/ultimate-guide-to-the-best-screen-capture-apps-for-creating-gifs-online-and-offline/"><u>Ultimate Guide to the Best Screen Capture Apps for Creating GIFs Online & Offline</u></a></li>
+</ul></div>
+

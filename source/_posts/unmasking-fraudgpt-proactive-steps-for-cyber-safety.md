@@ -1,7 +1,7 @@
 ---
 title: "Unmasking FraudGPT: Proactive Steps for Cyber Safety"
-date: 2024-09-12T07:50:32.506Z
-updated: 2024-09-13T07:50:32.506Z
+date: 2024-09-11T16:19:29.495Z
+updated: 2024-09-17T16:16:38.768Z
 tags:
   - chatgpt
   - open-ai
@@ -28,29 +28,9 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is FraudGPT?
 
 ![A scammer using a fishing rod to steal data from a person’s laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scammer-using-a-fishing-rod-to-steal-data.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  FraudGPT is an AI tool powered by a large language model that is particularly fine-tuned to help cyber criminals commit cybercrime. The subscription-based AI tool allows threat actors to facilitate their criminal activities like carding, phishing, and malware creation.
 
@@ -58,23 +38,9 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 
  To better picture the tool, you can think of FraudGPT as ChatGPT but for fraud. But how exactly does FraudGPT work, and how are cybercriminals using it?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does FraudGPT Work?
 
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
 
@@ -89,13 +55,6 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  If tools like ChatGPT can help cyber criminals commit crimes despite all efforts to make these AI chatbots safe, now think of the power a tool like FraudGPT could bring, considering it was specifically fine-tuned on malicious materials to make it suitable for cybercrime. It's like the evil twin of ChatGPT put on steroids.
 
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Can You Protect Yourself From FraudGPT?
 
@@ -115,10 +74,10 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay Informed to Protect Yourself
@@ -146,15 +105,20 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-impressive-appraisal-and-other-suggestions/"><u>[New] In 2024, Impressive Appraisal & Other Suggestions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artistic-defense-the-collective-suit-against-meta-and-openais-ai/"><u>Artistic Defense: The Collective Suit Against Meta & OpenAI's AI</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/get-back-to-gameplay-instantly-curing-watch-dogs-legions-loading-loop-problem/"><u>Get Back to Gameplay Instantly - Curing Watch Dogs: Legion's Loading Loop Problem</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-12-mini-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 12 mini to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-meizu-21-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Meizu 21 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-breaking-boundaries-weaving-single-photos-into-masterpieces/"><u>In 2024, Breaking Boundaries Weaving Single Photos Into Masterpieces</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-artisans-guide-to-custom-chatbots/"><u>The Artisan's Guide to Custom ChatBots</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-solving-high-ping-and-lag-in-chivalry-ii/"><u>Ultimate Guide to Solving High Ping & Lag in Chivalry II</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-bings-ai-now-available-for-both-ios-and-android/"><u>Unleash Bing's AI: Now Available for Both iOS & Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-fostering-an-online-oasis-paving-the-way-for-a-prolific-youtube-presence/"><u>[New] In 2024, Fostering an Online Oasis Paving the Way for a Prolific Youtube Presence</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-snap-your-world-how-to-watch-360-videos-on-android-for-2024/"><u>[New] Snap Your World How to Watch 360 Videos on Android for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-easy-to-understand-copywriting-tactics-for-fb-campaigns-for-2024/"><u>[Updated] Easy-to-Understand Copywriting Tactics for FB Campaigns for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-woes-learn-how-to-verify-and-correct-unvalidated-drivers-on-your-system/"><u>Driver Installation Woes? Learn How To Verify And Correct Unvalidated Drivers On Your System</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elevate-your-gaming-experience-with-fbx-recording-tips/"><u>Elevate Your Gaming Experience with FBX Recording Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-magic-6-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Honor Magic 6</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-network-card-drivers-compatible-with-windows-11107-download/"><u>Latest Intel Network Card Drivers - Compatible with Windows 11/10/7 (Download)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-mcpr-files-into-mp4-video-format/"><u>Step-by-Step Guide: Transforming MCPR Files Into MP4 Video Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-dvd-collection-with-a-professional-dvd-storage-system/"><u>Streamline Your DVD Collection with a Professional DVD Storage System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-methods-for-converting-your-dvd-collection-into-high-quality-mp3-files/"><u>Top 5 Methods for Converting Your DVD Collection Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-premier-free-software-for-iso-image-creation/"><u>Top 7 Premier Free Software for ISO Image Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-dvd-to-avc-editor-software-of-2024-for-windows-10-and-11-users/"><u>Top DVD to AVC Editor Software of 2024 for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-avi-video-conversion-top-tools-and-tricks-for-converting-videos-with-precision/"><u>Ultimate Guide to AVI Video Conversion: Top Tools & Tricks for Converting Videos with Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-wintoys-a-short-guide-to-a-powerful-windows-tool/"><u>What Is Wintoys? A Short Guide to a Powerful Windows Tool</u></a></li>
 </ul></div>
 

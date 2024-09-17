@@ -1,7 +1,7 @@
 ---
 title: Evaluating ChatGPT's Impact on Personal Data Safety
-date: 2024-09-12T07:52:37.487Z
-updated: 2024-09-13T07:52:37.487Z
+date: 2024-09-15T16:08:59.217Z
+updated: 2024-09-17T16:23:19.739Z
 tags:
   - chatgpt
   - open-ai
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does ChatGPT Gather Data?
 
  If you've ever interacted with other chatbots, you know that none of them can really compare to ChatGPT, which is actually capable of generating human-like responses. But why is ChatGPT so much better than other similar software?
@@ -52,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
  Not everyone would consider this unethical, but it is at the very least problematic that a company is able to collect and share such a tremendous amount of data without obtaining anything resembling consent. Plus, even if ChatGPT was only fed publicly available, copyright-free information, that information might be shared with users out of context, or in a way that it is misleading.
 
  Ethical considerations aside, there are serious concerns that Open AI is violating the General Data Protection Regulation (GDPR), and other similar privacy laws. Due to these concerns, [Italy officially banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) in March 2023, with the country's data protection authority accusing Open AI of violating user privacy with its data collection practices in more than one way.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT's Privacy Policy: What You Need to Know
 
@@ -74,39 +54,19 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the [FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
 
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Register With a Private Email
 
  You can sign up to use ChatGPT with your Google or Microsoft account, but that would not be a very good idea, as convenient as it may seem. In order to protect your privacy, you should create an account with an email, preferably using a secure and encrypted email service like [ProtonMail or Tutanota](https://www.makeuseof.com/protonmail-vs-tutanota-which-encrypted-email-is-best/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Limit What You Share
@@ -118,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the [California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/). So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is It Time to Regulate ChatGPT?
@@ -153,18 +113,16 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-faster-phonetic-playback-choose-from-these-10/"><u>[New] In 2024, Faster Phonetic Playback Choose From These 10</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-instant-ideas-recording-ppts-with-ease-for-2024/"><u>[New] Instant Ideas Recording PPTs with Ease for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-seamless-sharing-of-oversized-content-from-iphone-to-macos/"><u>[New] Seamless Sharing of Oversized Content From iPhone to macOS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-explore-top-7-live-streaming-iosandroid-apps-perfect-for-youtube-channel-creators/"><u>[Updated] 2024 Approved Explore Top 7 Live Streaming iOS/Android Apps Perfect for YouTube Channel Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advance-your-wellness-journey-with-leading-8-plugins/"><u>Advance Your Wellness Journey with Leading 8 Plugins</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-lag-strategies-to-enhance-your-counter-strike-ebys-online-play-on-pc/"><u>Beat the Lag: Strategies to Enhance Your Counter-Strike Eby's Online Play on PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/filmmaking-for-social-media-imovie-tips-for-crafting-square-content/"><u>Filmmaking for Social Media IMovie Tips for Crafting Square Content</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-ai-dialogues-crafting-bespoke-chatgpt/"><u>Innovate AI Dialogues: Crafting Bespoke ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-legal-holder-who-owns-ai-generated-works/"><u>The Legal Holder: Who Owns AI-Generated Works?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-advanced-features-with-9-superior-chatgpt-pluses/"><u>Unlock Advanced Features with 9 Superior ChatGPT Pluses</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-7-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 7</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-seamless-integration-making-your-youtube-videos-available-on-facebook/"><u>[New] 2024 Approved Seamless Integration Making Your YouTube Videos Available on Facebook</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-tiktok-transformation-how-to-refresh-your-profile-today/"><u>[New] TikTok Transformation How to Refresh Your Profile Today</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-audioarchive-compiler-download-playback-and-test/"><u>[Updated] In 2024, AudioArchive Compiler Download, Playback & Test</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-crafting-captivating-facebook-stories-for-2024/"><u>[Updated] The Art of Crafting Captivating Facebook Stories for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ffmpeg/"><u>FFmpegを使ったビデオクリップ作成と保存手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-transforming-adobe-flash-swf-content-into-web-compatible-html-offline-solutions-and-online-tools/"><u>Guide: Transforming Adobe Flash (SWF) Content Into Web-Compatible HTML - Offline Solutions & Online Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hlsm3u8tsmp4/"><u>HLS形式(m3u8/TS)からMP4へ - 最適な動画変換テクニックとガイド</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-find-x6-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo Find X6 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-list-top-free-online-video-merging-software/"><u>New In 2024, The Ultimate List Top Free Online Video Merging Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-fresh-vga-driver-downloads-for-enhanced-display-performance/"><u>Step-by-Step Guide: Fresh VGA Driver Downloads for Enhanced Display Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncover-and-resolve-ignored-graphics-on-your-pc/"><u>Uncover and Resolve Ignored Graphics on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Prevent AI Data Collection Onsite
-date: 2024-09-12T07:48:45.078Z
-updated: 2024-09-13T07:48:45.078Z
+date: 2024-09-16T16:22:55.572Z
+updated: 2024-09-17T16:28:46.395Z
 tags:
   - chatgpt
   - open-ai
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/0b8016c599d3aa9b67e09f8f36655e93fe5b6ad1f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does OpenAI Crawling Work?
 
  A [web crawler](https://www.makeuseof.com/what-is-a-web-crawlerspider-and-how-does-it-work/) (also known as a spider or a search engine bot) is an automated program that scans the internet for information. It then compiles that information in a way that's easy for your search engine to access it.
@@ -48,19 +35,6 @@ thumbnail: https://thmb.techidaily.com/0b8016c599d3aa9b67e09f8f36655e93fe5b6ad1f
  Web crawlers index every page of every relevant URL, usually focusing on websites that are more relevant to your search queries. For example, let's assume you're googling a particular Windows error. The web crawler within your search engine will scan all the URLs from websites that it deems more authoritative on the topic of Windows errors.
 
  OpenAI's web crawler is called GPTBot, and according to [OpenAI's documentation](https://platform.openai.com/docs/gptbot), giving GPTBot access to your website can help train the AI model to become safer, and more accurate, and it can even help expand the AI model's capabilities.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Prevent OpenAI From Crawling Your Website
 
@@ -74,19 +48,6 @@ thumbnail: https://thmb.techidaily.com/0b8016c599d3aa9b67e09f8f36655e93fe5b6ad1f
 
  Here's how to control what GPTBot can do on your website:
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Completely Block GPTBot From Accessing Your Website
 
 1. [Set up the robot.txt file](https://www.makeuseof.com/tag/how-to-correctly-set-up-robots-txt/), and then edit it with any text editing tool.
@@ -96,10 +57,16 @@ thumbnail: https://thmb.techidaily.com/0b8016c599d3aa9b67e09f8f36655e93fe5b6ad1f
 Disallow: /`
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Block Only Certain Pages From Being Accessed by GPTBot
@@ -114,10 +81,10 @@ Disallow: /directory-2/`
  However, keep in mind that changing the **robot.txt** file is not a retroactive solution, and any information that GPTBot may have already gathered from your website will not be recoverable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OpenAI Allows Website Owners to Opt-Out From Crawling
@@ -147,20 +114,14 @@ Disallow: /directory-2/`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-nocturnal-notes-expert-advice-on-low-light-photos/"><u>[New] In 2024, Nocturnal Notes Expert Advice on Low Light Photos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-chatgpt-top-alternatives-rising/"><u>Beyond ChatGPT: Top Alternatives Rising</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-brainpower-the-ultimate-8-windows-guide-to-studying/"><u>Boost Your Brainpower: The Ultimate 8 Windows Guide to Studying</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bridging-gaps-preventing-video-holds-in-photoshoots/"><u>Bridging Gaps Preventing Video Holds in Photoshoots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-impact-on-wearable-tech-the-6-most-game-changing-features/"><u>ChatGPT's Impact on Wearable Tech: The 6 Most Game-Changing Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claudes-challenge-can-it-outperform-chatgpt/"><u>Claude's Challenge: Can It Outperform ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-digital-worlds-6-chatgpt-based-techniques-for-video-games/"><u>Crafting Digital Worlds: 6 ChatGPT-Based Techniques for Video Games</u></a></li>
-<li><a href="https://techidaily.com/dive-into-deciphering-the-new-york-times-connections-challenge-for-august-6th-insights-and-solutions-421/"><u>Dive Into Deciphering The New York Times' Connections Challenge for August 6Th - Insights and Solutions (#421)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gaming-display-mastery-experience-vibrant-colors-on-the-gigabyt-aorus-co49dq-oled-monitor/"><u>Gaming Display Mastery: Experience Vibrant Colors on the Gigabyt Aorus CO49DQ OLED Monitor</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-utorrent-connections-and-resume-torrent-downloads-seamlessly/"><u>How to Restore uTorrent Connections and Resume Torrent Downloads Seamlessly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ideal-chatgpt-framework-top-20-github-examples/"><u>Ideal ChatGPT Framework: Top 20 GitHub Examples</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/musks-breakdown-understanding-the-function-and-financial-aspects-of-grok-ai/"><u>Musk's Breakdown: Understanding the Function and Financial Aspects of Grok AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protective-measures-hidden-stowing-of-gpt-dialogues/"><u>Protective Measures: Hidden Stowing of GPT Dialogues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quality-and-cost-savings-unite-in-best-asmr-mics-for-2024/"><u>Quality and Cost Savings Unite in Best ASMR Mics for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ais-crystal-ball-predictive-algorithms-explained/"><u>Understanding AI's Crystal Ball - Predictive Algorithms Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-chilly-champs-beijings-best-of-the-2022-games/"><u>[New] Chilly Champs Beijing's Best of the 2022 Games</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unique-channels-generating-top-notch-video-naming/"><u>[New] Unique Channels Generating Top-Notch Video Naming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-make-moments-last-longer-using-phantoms-slow-mo-magic/"><u>[Updated] How to Make Moments Last Longer Using Phantom's Slow Mo Magic</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-algorithms-craft-humor-understanding-ais-comedy-abilities-plus-unveiling-the-developmental-story-of-laptops-and-the-role-of-vpn-in-cybersecurity/"><u>Can Algorithms Craft Humor?: Understanding AI's Comedy Abilities + Unveiling the Developmental Story of Laptops & The Role of VPN in Cybersecurity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-claude-2-its-purpose-and-uses/"><u>Exploring Claude 2: Its Purpose and Uses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-manuscript-to-machine-has-chatgpt-redefined-academic-writing/"><u>From Manuscript to Machine: Has ChatGPT Redefined Academic Writing?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-joining-flv-files-a-step-by-step-guide/"><u>In 2024, Joining FLV Files A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surpassing-the-maximum-character-allowance-in-gpt/"><u>Surpassing The Maximum Character Allowance in GPT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-does-hearthstone-keep-crashing-expert-tips-for-stable-play-on-pc/"><u>Why Does Hearthstone Keep Crashing? Expert Tips for Stable Play on PC</u></a></li>
 </ul></div>
 

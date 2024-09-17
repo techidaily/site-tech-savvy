@@ -1,7 +1,7 @@
 ---
 title: "Prioritize Value: Discard the Unnecessary GPT Enhancements"
-date: 2024-09-12T07:48:58.997Z
-updated: 2024-09-13T07:48:58.997Z
+date: 2024-09-14T16:16:08.447Z
+updated: 2024-09-17T16:10:54.733Z
 tags:
   - chatgpt
   - open-ai
@@ -30,23 +30,9 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. I Am Rich
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The "I Am Rich" plugin is one of the most confusing plugins on the ChatGPT platform. If you're ever curious about what it does and go poking around—you're probably already wasting your time because the plugin does absolutely nothing. And this is not an exaggeration.
 
@@ -63,19 +49,6 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to [scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/)? Maybe ChatGPT plugins are not the right tool.
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. AppyPie App Builder
 
@@ -95,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
 
  It, at least in theory, is supposed to be able to do something akin to [what AutoGPT does](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/). Unfortunately, irrespective of the complexity of the task we set for it, the plugin couldn't deliver anything.
@@ -112,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly [to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/). By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. ABC Website Maker
@@ -123,22 +103,15 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
@@ -167,18 +140,14 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-optimal-obs-configurations-on-budget-computers/"><u>[Updated] In 2024, Optimal OBS Configurations on Budget Computers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-seamless-incorporation-of-text-overlays-for-vimeo-films-for-2024/"><u>[Updated] Seamless Incorporation of Text Overlays for Vimeo Films for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-game-changer-elevating-your-virtual-reality-film-quality-for-2024/"><u>[Updated] The Game Changer Elevating Your Virtual Reality Film Quality for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beginners-guide-to-ai-engage-with-these-9-leading-forums/"><u>Beginners Guide to AI: Engage With These 9 Leading Forums</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-detective-dilemmrances-solve-mysteries-in-virtual-realms/"><u>Digital Detective Dilemmrances: Solve Mysteries in Virtual Realms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eating-well-made-simple-chatais-cooking-insights/"><u>Eating Well Made Simple: ChatAI's Cooking Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/golden-age-of-scenario-writing-in-motion-pictures-for-2024/"><u>Golden Age of Scenario Writing in Motion Pictures for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-download-of-intels-thunderbolt-drivers-easy-instructions-included/"><u>Quick Download of Intel's Thunderbolt Drivers – Easy Instructions Included</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/reliable-sources-for-fresh-lenovo-thinkpad-driver-software-100-safe-download/"><u>Reliable Sources for Fresh Lenovo ThinkPad Driver Software: 100% Safe Download</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-k11x-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo K11x Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-enabling-and-using-hyper-v-on-w11-homes/"><u>Step-by-Step Guide to Enabling and Using Hyper-V on W11 Homes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-ai-tasks-beginning-with-auto-gpt/"><u>Streamline AI Tasks: Beginning with Auto-GPT</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-digital-diary-in-depth-reviews-and-guides/"><u>Tom's Digital Diary: In-Depth Reviews & Guides</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-clearer-sound-with-these-ipad-tips/"><u>[New] In 2024, Clearer Sound with These iPad Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-art-of-xbox-playback-tips-for-clear-video/"><u>[New] In 2024, The Art of Xbox Playback Tips for Clear Video</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-elevating-your-vimeo-clips-a-guide-to-musical-additions-for-2024/"><u>[Updated] Elevating Your Vimeo Clips A Guide to Musical Additions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unlock-your-hero5-expert-guides-to-stunning-images-and-movies/"><u>2024 Approved Unlock Your Hero5 Expert Guides to Stunning Images & Movies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-renaissance-discover-how-gpts-new-features-elevate-us/"><u>AI Renaissance: Discover How GPT’s New Features Elevate Us</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-rides-guide-to-requesting-gpt-for-auto-customization/"><u>Optimizing Rides: Guide to Requesting GPT for Auto Customization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-site-design-with-chatgpts-methodology/"><u>Revolutionize Your Site Design with ChatGPT’s Methodology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-silent-guardians-of-online-communication-ai-restrictions-and-you/"><u>The Silent Guardians of Online Communication: AI Restrictions & You</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlock-visual-storytelling-potential-with-snapchat-edits/"><u>Unlock Visual Storytelling Potential with Snapchat Edits</u></a></li>
 </ul></div>
 

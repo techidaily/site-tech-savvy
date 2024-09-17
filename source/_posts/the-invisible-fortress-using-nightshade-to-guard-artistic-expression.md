@@ -1,7 +1,7 @@
 ---
 title: "The Invisible Fortress: Using Nightshade to Guard Artistic Expression"
-date: 2024-09-12T07:50:44.977Z
-updated: 2024-09-13T07:50:44.977Z
+date: 2024-09-12T16:09:09.025Z
+updated: 2024-09-17T16:06:14.845Z
 tags:
   - chatgpt
   - open-ai
@@ -20,36 +20,10 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -65,25 +39,11 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is AI Poisoning?
 
  AI poisoning is the act of "poisoning" the training dataset of an AI algorithm. This is similar to providing wrong information to the AI on purpose, resulting in the trained AI malfunctioning or failing to detect an image. Tools like Nightshade alter the pixels in a digital image in such a manner that it appears to be completely different to the AI training on it, but largely unchanged from the original to the human eye.
 
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
 
@@ -98,10 +58,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Nightshade
@@ -123,10 +83,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
@@ -153,18 +113,18 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-guide-to-identifying-recent-instagram-leavers/"><u>[New] 2024 Approved Guide to Identifying Recent Instagram Leavers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-capture-breathtaking-shots-for-fb-livestreaming-with-dji/"><u>2024 Approved Capture Breathtaking Shots for FB Livestreaming with DJI</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-inverting-film-tracks-in-mobile-devices/"><u>In 2024, Inverting Film Tracks in Mobile Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-vlog-gear-list-17-edition/"><u>In 2024, The Ultimate Vlog Gear List (#17 Edition)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-languages-commitment-of-2024/"><u>Learn Languages - Commitment of 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/maximizing-external-hd-connectivity-in-apple-devices/"><u>Maximizing External HD Connectivity in Apple Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peering-into-codegpt-a-potential-game-changer-for-dev-teams/"><u>Peering Into CodeGPT: A Potential Game-Changer for Dev Teams</u></a></li>
-<li><a href="https://blog-min.techidaily.com/simple-steps-converting-your-videots-files-into-high-quality-mkv-format/"><u>Simple Steps: Converting Your Video_TS Files Into High-Quality MKV Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-digital-revolution-in-classrooms-top-8-reasons-to-adapt-with-ai/"><u>The Digital Revolution in Classrooms: Top 8 Reasons to Adapt with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-errors-in-content-creation-avoid-at-all-costs-with-chatgpt/"><u>Top 4 Errors in Content Creation: Avoid at All Costs with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-browsing-experience-7-extensions-for-ai-enthusiasts/"><u>Transform Your Browsing Experience: 7 Extensions for AI Enthusiasts</u></a></li>
-<li><a href="https://howto.techidaily.com/zte-nubia-z60-ultra-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Nubia Z60 Ultra Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-srgb-standardization-versus-classic-rgb-model/"><u>[New] Srgb Standardization Versus Classic Rgb Model</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-effortless-subtitling-and-cc-addition-techniques-for-youtube-users/"><u>[Updated] 2024 Approved Effortless Subtitling & CC Addition Techniques for YouTube Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009193597-corrupted-game-files-heres-how-to-repair-and-get-back-into-the-action-by-2024/"><u>Corrupted Game Files? Here's How to Repair and Get Back Into the Action by 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-standout-80s-visual-tricks-to-enhance-films/"><u>In 2024, Standout 80S Visual Tricks to Enhance Films</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-youtube-creator-summit-a-getaway-for-youtubes-top-talent/"><u>In 2024, The YouTube Creator Summit - A Getaway for YouTube's Top Talent</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mobile-masterpieces-phones-ideal-for-media-makers/"><u>Mobile Masterpieces Phones Ideal for Media Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-flac-audio-files-to-m4a-format-in-windows/"><u>Step-by-Step Guide: Converting FLAC Audio Files to M4A Format in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-avi-speeches-into-high-quality-wav-format/"><u>Step-by-Step Guide: Transforming AVI Speeches Into High-Quality WAV Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-your-swf-videos-into-mp4-format/"><u>Step-by-Step Guide: Transforming Your SWF Videos Into MP4 Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-process-transforming-avchd-videos-in-handbrake-and-discovering-the-best-substitutes/"><u>Step-by-Step Process: Transforming AVCHD Videos in HandBrake and Discovering the Best Substitutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-video-transcoder-effortlessly-convert-from-high-mb-to-low-mb-files/"><u>Top-Ranking Video Transcoder: Effortlessly Convert From High MB to Low MB Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-vlc-video-downloads-a-step-by-step-guide/"><u>Troubleshooting VLC Video Downloads: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/you-can-now-listen-to-spotify-on-a-miniplayer-in-the-facebook-app/"><u>You Can Now Listen to Spotify on a Miniplayer in the Facebook App</u></a></li>
 </ul></div>
 

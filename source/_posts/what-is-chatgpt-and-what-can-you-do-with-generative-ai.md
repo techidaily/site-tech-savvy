@@ -1,7 +1,7 @@
 ---
 title: What Is ChatGPT and What Can You Do With Generative AI?
-date: 2024-09-12T07:47:49.557Z
-updated: 2024-09-13T07:47:49.557Z
+date: 2024-09-15T16:09:33.905Z
+updated: 2024-09-17T16:03:23.560Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/76da0ed68bc2a93de3bddfb794fb58ce57d0ed84b
  This week's Really Useful Podcast focuses exclusively on ChatGPT, why this AI system is making headlines, and the best ways to use it.
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -69,15 +62,25 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-10-yoga-channels-to-elevate-your-health-game-for-2024/"><u>[New] Essential 10 Yoga Channels to Elevate Your Health Game for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-captivating-content-crafting-impactful-insta-videos/"><u>[Updated] Captivating Content Crafting Impactful Insta-Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cing-visual-impact-a-guide-to-jump-cut-techniques/"><u>Enhancing Visual Impact A Guide to Jump Cut Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-chatgpt-experience-with-strategic-organization/"><u>Enhancing Your ChatGPT Experience with Strategic Organization</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-redmi-note-13-pro-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi Redmi Note 13 Pro 5G online without jailbreak</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/key-aspects-opting-for-ai-assisted-therapy-via-chatgpt/"><u>Key Aspects: Opting for AI-Assisted Therapy via ChatGPT</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/leveraging-obs-streaming-capabilities-on-facebook-platform-for-2024/"><u>Leveraging OBS Streaming Capabilities on Facebook Platform for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-when-windows-fails-to-setup-essential-system-parts/"><u>Resolved: Troubleshooting Steps When Windows Fails to Setup Essential System Parts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-7-benefits-ai-driven-health-consults/"><u>Unveiling 7 Benefits: AI-Driven Health Consults</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-artisans-blueprint-for-striking-image-collage/"><u>[Updated] In 2024, The Artisan's Blueprint for Striking Image Collage</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-expert-techniques-for-transforming-vimeo-media-into-mp4s/"><u>In 2024, Expert Techniques for Transforming Vimeo Media Into MP4s</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-videos-into-a-perfect-169-aspect-ratio/"><u>Step-by-Step Guide: Transforming Videos Into a Perfect 16:9 Aspect Ratio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-creating-dvds-compatible-with-all-dvd-players-and-optimal-dvd-conversion-techniques/"><u>The Ultimate Guide to Creating DVDs Compatible with All DVD Players & Optimal DVD Conversion Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-sound-changes-in-ps-console-games-for-2024/"><u>The Ultimate Guide to Sound Changes in PS Console Games for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-platforms-for-downloading-cartoon-episodes-and-simple-steps-to-get-them/"><u>Top Platforms for Downloading Cartoon Episodes & Simple Steps to Get Them</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

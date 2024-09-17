@@ -1,7 +1,7 @@
 ---
 title: Discovering GPT Autonomy - Distinctions From Conversational AI
-date: 2024-09-12T07:47:35.035Z
-updated: 2024-09-13T07:47:35.035Z
+date: 2024-09-13T16:05:18.529Z
+updated: 2024-09-17T16:25:53.930Z
 tags:
   - chatgpt
   - open-ai
@@ -26,25 +26,11 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Auto-GPT?
 
  Auto-GPT is an open-source AI project built on ChatGPT's Generative Pre-trained Transformer (GPT). At its core, Auto-GPT gives GPT the ability to act autonomously without requiring a human agent to prompt its every action. It isn't a novel technology, and it isn't a new [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/). And it is definitely not a new AI chatbot—we've had enough of those for a year.
 
  So, yes, Auto-GPT gives GPT the ability to act autonomously. Why is that cool? What makes Auto-GPT any different from ChatGPT?
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Does Auto-GPT Differ from ChatGPT?
 
@@ -53,13 +39,6 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
  Let's say you wanted to plan your kid's birthday with ChatGPT. What do you do? Well, you head to ChatGPT and type in "Help me plan a birthday party for my 8-year-old daughter." In a few seconds, ChatGPT spits out a list of things you should account for.
 
 ![ChatGPT plans birthday party](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plans-birthday-party.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT provided a list that told us to plan for the birthday theme, venue, gifts, food and drinks, decorations, guest lists, and all the usual suspects. The thing is, planning a birthday is complex with a subset of problems. So we took up two subsets of problems, sending invitations to our guest lists and shopping for gifts. This meant we had to prompt ChatGPT once again, this time asking how to plan our guest lists and send out invitations as well as gift ideas and the best places to get them.
 
@@ -77,13 +56,6 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
 
  Still not convincing? Well, there is the scary spawn of Auto-GPT called [Chaos-GPT](http://twitter.com/chaos%5Fgpt) that shares its supervillain manifesto on Twitter. A parody of some sort (we hope), Chaos-GPT is an Auto-GPT project tasked with the destruction of humanity. While the actions Chaos-GPT plans to take seem scary and practical, it's generally laughable because it doesn't have access to take those actions. But let's hope it never gets those accesses so we don't laugh our way to extinction.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does Auto-GPT Work?
 
  Auto-GPT [works much like ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) but with the added ability that AI agents offer. You can picture AI agents as personal assistants. Just as a personal assistant helps schedule and manage tasks for their employer, an AI agent can be programmed to perform specific tasks or make decisions based on a set of rules and a predefined goal.
@@ -95,10 +67,10 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
  So, Auto-GPT is basically GPT paired with a companion robot that tells GPT what to do. You tell the companion robot what your goal is, and the robot, in turn, uses GPT and several APIs to carry out every step needed to achieve whatever goal you've set for it.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Auto-GPT: An Exciting Future for AI
@@ -124,17 +96,19 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-screen-recording-mi-11-edition/"><u>[New] 2024 Approved Mastering Screen Recording Mi 11 Edition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-lut-use-in-after-effects/"><u>[Updated] In 2024, The Ultimate Tutorial for LUT Use in After Effects</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-stand-out-in-a-sea-of-content-our-offer-includes-50-free-banners/"><u>[Updated] Stand Out in a Sea of Content - Our Offer Includes 50 Free Banners</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-combining-chords-and-pictures-in-the-cloud/"><u>2024 Approved Combining Chords & Pictures in the Cloud</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-wit-workshop-do-computers-learn-to-chuckle/"><u>AI's Wit Workshop: Do Computers Learn to Chuckle?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/gone-are-the-days-of-missing-printer-pages/"><u>Gone Are The Days of Missing Printer Pages</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-bing-ai-chat-on-android-tips-and-tricks-for-optimal-usage/"><u>Navigating Bing AI Chat on Android: Tips & Tricks for Optimal Usage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-invisible-blemishes-of-ai-text/"><u>The Invisible Blemishes of AI Text</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-your-inner-writer-with-these-5-ai-tools/"><u>Unleash Your Inner Writer with These 5 AI Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-can-you-do-with-a-smartwatch-discovering-its-potential/"><u>What Can You Do with a Smartwatch? Discovering Its Potential</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-optimal-mac-recording-choices-top-5-apps-recommended/"><u>[New] 2024 Approved Optimal Mac Recording Choices Top 5 Apps Recommended</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-optimizing-call-and-chat-preservation-in-the-digital-age-fb-edition-for-2024/"><u>[New] Optimizing Call & Chat Preservation in the Digital Age FB Edition for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-premier-roundup-2023s-top-free-video-editing-apps/"><u>[Updated] In 2024, Premier Roundup 2023'S Top Free Video Editing Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-sparkle-with-style-personalize-brands-using-pre-set-graphics/"><u>2024 Approved Sparkle with Style Personalize Brands Using Pre-Set Graphics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-top-rated-avi-format-converter-apps-for-seamless-video-transformation/"><u>5 Top-Rated AVI Format Converter Apps for Seamless Video Transformation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-navigation-understanding-the-site-structure-and-sitemap/"><u>Comprehensive Navigation: Understanding the Site Structure and Sitemap</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-techniques-for-converting-mov-files-into-avi-format/"><u>Efficient Techniques for Converting MOV Files Into AVI Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-change-your-wav-recordings-into-mp3-format-via-the-easy-method-of-vlc-software/"><u>Efficiently Change Your WAV Recordings Into MP3 Format via the Easy Method of VLC Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/error-404-pagina-desaparecida-foxextraordinario/"><u>Error 404: Página Desaparecida - FoxExtraordinario</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards-for-2024/"><u>GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-a56s-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Oppo A56s 5G Without PUK Codes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-should-you-pay-for-unlimited-youtube/"><u>In 2024, Should You Pay for Unlimited YouTube?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818327806-no-more-win-graphics-failure/"><u>No More Win Graphics Failure</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/relish-free-movie-playback-pc-and-mac-style-for-2024/"><u>Relish Free Movie Playback, PC & Mac Style for 2024</u></a></li>
 </ul></div>
 

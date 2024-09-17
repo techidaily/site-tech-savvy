@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Deploy AI (Auto-GPT): Your Manual"
-date: 2024-09-12T07:52:25.482Z
-updated: 2024-09-13T07:52:25.482Z
+date: 2024-09-15T16:20:31.403Z
+updated: 2024-09-17T16:09:10.354Z
 tags:
   - chatgpt
   - open-ai
@@ -42,25 +42,11 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![A tab showing a tab to install Python](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After Installing Python, you can download Auto-GPT from GitHub.
 
 **Download**: [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT/releases/tag/v0.4.7) (Free)
 
 **Source code.zip** is for Windows, while **Source code.tar.gz** is for Linux and MacOS. First, download the file for your operating system, then copy the folder and paste it into your desired location.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 2: Configure Auto-GPT
 
@@ -75,21 +61,7 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the **LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This file is where all your service credentials are placed, so if you want to use a [backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/), you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
@@ -109,10 +81,10 @@ python -m autogpt
  Congratulations! You have successfully Installed Auto-GPT.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Auto-GPT
@@ -137,6 +109,13 @@ python -m autogpt
 
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you give your last goal, you can hit enter for Auto-GPT to run.
 
  While running, you can see the AI's thoughts, reasoning, plan, and criticism. For every action of the AI assistant, you will be asked to authorize its plan to execute. You can do so by typing "y" as yes.
@@ -153,38 +132,24 @@ python -m autogpt
 
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
 
  After making the recipe, our AI has now completed its task.
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To view the output, go to your Auto-GPT folder and **open auto-gpt-workspace**.
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Auto-GPT Limitations
 
@@ -197,19 +162,6 @@ python -m autogpt
  Other problems that contribute to Auto-GPT getting stuck are the model struggling to handle or navigate website advertising and cookies, login pages, and all kinds of pop-ups (the stuff humans hate, too!).
 
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/)). You'll want to set limits through your API account.
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
 
@@ -238,21 +190,15 @@ python -m autogpt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-best-sites-with-public-domain-game-soundtracks/"><u>[New] 2024 Approved Best Sites with Public Domain Game Soundtracks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-effortless-method-to-record-your-skype-sessions-on-pcmac/"><u>[New] Effortless Method to Record Your Skype Sessions on PC/Mac</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-scrutinizing-hero5s-performance-throughout-day/"><u>[New] Scrutinizing Hero5's Performance Throughout Day</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-livestream-software-arsenal/"><u>2024 Approved Advanced Livestream Software Arsenal</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-unbeatable-chatgpt-plugins-to-transform-your-site-today/"><u>5 Unbeatable ChatGPT Plugins to Transform Your Site Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/braving-new-waters-with-bard-google-aims-at-gpt-supremacy/"><u>Braving New Waters with 'Bard', Google Aims at GPT Supremacy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-and-coins-elevating-your-crypto-game-with-gpt/"><u>Chatbots and Coins: Elevating Your Crypto Game with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/corporate-cautionary-stories-top-5-tales-of-gpt-reluctance/"><u>Corporate Cautionary Stories: Top 5 Tales of GPT Reluctance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/download-and-deploy-llama-2-your-instructional-guide/"><u>Download & Deploy Llama 2: Your Instructional Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/genuine-vs-faux-chatbots-detect-and-protect-your-data/"><u>Genuine Vs. Faux ChatBots: Detect and Protect Your Data!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-smart-7-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Smart 7 Is Unlocked</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-poco-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Poco Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-mixology-how-skilled-is-chatgpt-in-crafting-the-perfect-cocktail/"><u>Mastering Mixology: How Skilled Is ChatGPT in Crafting the Perfect Cocktail?</u></a></li>
-<li><a href="https://facebook.techidaily.com/metaverse-vs-virtual-reality-insights-6-key-distinctions-explored/"><u>Metaverse Vs. Virtual Reality Insights: 6 Key Distinctions Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-market-dynamics-with-geminis-1m-context/"><u>Revolutionizing Market Dynamics with Gemini's $1M Context</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-significance-of-ai-in-prompt-design-and-workforce-outlook/"><u>The Significance of AI in Prompt Design and Workforce Outlook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-using-zooms-snap-to-boost-video-conferences/"><u>[Updated] In 2024, Using Zoom’s Snap to Boost Video Conferences</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chucklecraft-suite/"><u>ChuckleCraft Suite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-duplicate-a-dvd-quickly-the-ultimate-guide-to-free-dvd-copying-software-top-picks/"><u>How to Duplicate a DVD Quickly: The Ultimate Guide to Free DVD Copying Software (Top Picks)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-update-intel-hd-graphics-drivers-on-windows/"><u>How to Update Intel HD Graphics Drivers on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installing-aeon-nox-silvo-add-on-for-kodi-comprehensive-tutorial/"><u>Installing Aeon Nox Silvo Add-On for Kodi - Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/itunesm4amp3/"><u>ITunesでM4A音声ファイルをMP3にリバートする手順と、失敗時の別解法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/masterful-creation-of-unique-awkward-potions-in-minecraft-step-by-step/"><u>Masterful Creation of Unique Awkward Potions in Minecraft - Step by Step</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-known-graphics-driver-issue-a-comprehensive-solution/"><u>Overcoming 'Known Graphics Driver Issue': A Comprehensive Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-abilities-with-16-complimentary-sign-language-resources/"><u>Transform Your Abilities with 16 Complimentary Sign Language Resources</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-solving-no-sound-on-iphone-restore-your-ringtones/"><u>Ultimate Guide: Solving No Sound on iPhone - Restore Your Ringtones</u></a></li>
 </ul></div>
 

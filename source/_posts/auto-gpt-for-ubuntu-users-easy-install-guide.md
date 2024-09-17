@@ -1,7 +1,7 @@
 ---
 title: "Auto-GPT for Ubuntu Users: Easy Install Guide"
-date: 2024-09-12T07:47:01.531Z
-updated: 2024-09-13T07:47:01.531Z
+date: 2024-09-11T16:24:17.244Z
+updated: 2024-09-17T16:10:00.584Z
 tags:
   - chatgpt
   - open-ai
@@ -63,13 +63,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `cd Auto-GPT`
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 1: Configure Auto-GPT on Ubuntu
 
  Now that you've correctly set up the environment for Auto-GPT, you need to configure your OpenAI API key as an environment variable.
@@ -81,13 +74,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  To generate an API key, click on the **Create new secret key** button, add any name, and copy the API key by pressing **Ctrl + C** or clicking the copy icon. You'll use this key as credentials for your AI assistant to use OpenAI's GPT technology.
 
 ![Creating OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-get-api-key.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once copied, paste the key inside the **.env** file. The env file will store all the API keys that you use with Auto-GPT. If you don't need a backend vector database like Pinecone, your OpenAI API key should be enough to use Auto-GPT.
 
@@ -123,31 +109,11 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Auto-GPT on Ubuntu
 
  With Auto-GPT installed, you can now make your own AI assistant. There are two modes when it comes to using Auto-GPT. In the default mode, you only need to provide a task. Based on the specified task, Auto-GPT will automatically generate your AI assistant's name, its role, and its goals.
 
 ![Auto-GPT auto mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-auto.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In manual mode, Auto-GPT will ask you to specify a name, a goal, and up to five goals you want the AI assistant to follow while doing its task. This mode allows you to be in control of how your AI assistant will function.
 
@@ -165,13 +131,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Input-Commands for Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-input-y.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can approve the AI's next action by typing "**y**" for yes. If you don't want the AI to continue with its plans, you can type "**n**" for no and exit.
 
  If you trust your AI assistant and don't want to continue monitoring all of its thoughts and actions, you can type "**y -(number)**". For example, if you want Auto-GPT to execute its next five actions, you can type "**y -5**". Furthermore, if you want to provide feedback to your AI assistant, you can also type your prompt as input.
@@ -180,30 +139,37 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Providing human feedback to Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-human-feedback.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once your AI assistant finishes its task, you can view its final output by opening the **/Auto-GPT-x.x.x/autogpt/auto\_gpt\_workspace** directory.
 
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Limitations of Auto-GPT
@@ -239,16 +205,20 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-push-past-limitations-showcase-videos-in-social-media-for-2024/"><u>[New] Push Past Limitations Showcase Videos in Social Media for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-seamless-transition-from-smartphones-to-pc-and-mac-videos/"><u>[New] Seamless Transition From Smartphones to PC & Mac Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-new-chief-raises-gpt-questions/"><u>AI's New Chief Raises GPT Questions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-jobs-threatened-professional-predictions/"><u>GPT Jobs Threatened: Professional Predictions?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-novices-route-to-revenue-in-the-youtube-realm/"><u>In 2024, The Novice's Route to Revenue in the YouTube Realm</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-studio-screening-shorts/"><u>In 2024, Top Studio Screening Shorts</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/make-friends-with-ai-at-bing-start-using-now-guide/"><u>Make Friends With AI at Bing: Start Using Now Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-downgrade-in-gpts-intellectuality-claims-openai/"><u>No Downgrade in GPT's Intellectuality Claims OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-paperclip-algorithms-and-artificial-intelligence/"><u>The Intersection of Paperclip Algorithms & Artificial Intelligence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fading-forward-ingenious-techniques-for-soft-echos-in-audacity/"><u>[New] Fading Forward Ingenious Techniques for Soft Echos in Audacity</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-strategies-to-find-the-perfect-power-source-for-drones/"><u>[Updated] In 2024, Strategies to Find the Perfect Power Source for Drones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-women-at-war-yts-top-10-gamers/"><u>[Updated] Women at War YT's #Top 10 Gamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-screen-scenarios-simplified-a-novices-guide-to-pixels/"><u>2024 Approved Screen Scenarios Simplified A Novice's Guide to Pixels</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1726220901481-gif-jpg-movavi/"><u>網路上免費 GIF變更成 JPG - 利用 Movavi 自動化工具</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-honor-90-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Honor 90 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/penning-plots-for-big-screens-for-2024/"><u>Penning Plots for Big Screens for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reach-out-seamlessly-wonderfox-communication-solutions/"><u>Reach Out Seamlessly: WonderFox Communication Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-nokia-105-classic-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Nokia 105 Classic Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-guide-on-transforming-swf-animations-into-high-quality-mov-videos/"><u>Simple Guide on Transforming SWF Animations Into High-Quality MOV Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-methods-for-iphone-users-how-to-effortlessly-stream-audio-files-in-ogg-format/"><u>Simple Methods for iPhone Users: How to Effortlessly Stream Audio Files in OGG Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-your-trec-files-into-popular-video-formats-for-various-devices/"><u>Step-by-Step Guide: Converting Your TREC Files Into Popular Video Formats for Various Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-enhancing-audio-quality-by-adjusting-wav-bitrate/"><u>Step-by-Step Guide: Enhancing Audio Quality by Adjusting WAV Bitrate</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-transforming-m4a-into-wav-format-using-audacity-software/"><u>Step-by-Step Tutorial on Transforming M4A Into WAV Format Using Audacity Software</u></a></li>
 </ul></div>
 

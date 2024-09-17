@@ -1,7 +1,7 @@
 ---
 title: Achieve Smarter Web Development with Integrated GPT-3
-date: 2024-09-12T07:52:40.189Z
-updated: 2024-09-13T07:52:40.189Z
+date: 2024-09-16T16:12:20.016Z
+updated: 2024-09-17T16:02:44.523Z
 tags:
   - chatgpt
   - open-ai
@@ -40,31 +40,11 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 
 ![Flowchart or blueprint of web app developed by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/flowchart-or-blueprint-of-web-app-developed-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'd need to have the "Show Me" plugin enabled on your ChatGPT account to generate a flowchart like ours above. You can [install and use ChatGPT plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) in just a few steps, although you will need a premium subscription.
 
  Without the plugin, you'll get a text-based blueprint or an ASCII-art flowchart. That's still okay. Even without the plugin, ChatGPT should still provide a clear blueprint of the app like the example below.
 
 ![text-based breakdown of web app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/text-based-breakdown-of-web-app-by-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 2: Splitting the Blueprint Into Smaller Modules
 
@@ -75,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 3. Chat module
 
  We had other ideas, but the goal here is to let ChatGPT call the shots.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Building the Registration Component
 
@@ -96,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
  Up next, we prompted ChatGPT to build the registration component.
 
 ![prompt to generate the registration component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-to-generate-the-registration-component-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Although we didn't include the password field as part of the registration process, ChatGPT made the right call by including it in the generated HTML code. We copied the code without any modifications, and here's how it looks on a browser.
 
@@ -122,19 +88,6 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 
 ![Database created by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/database-created-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With the database set up, we tried our first registration, and it worked without any errors.
 
 ### 2\. Building the Login Component
@@ -148,25 +101,19 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 ![ChatGPT-generated login page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-generated-login-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After creating a "server.login.php" file as instructed by ChatGPT and adding the generated PHP script, we made our first successful login without any modifications or debugging.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Building the Chat Component
@@ -192,20 +139,13 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 ![sample chat interface generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sample-chat-interface-generated-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whenever generated code fails to give the desired results or omits an important component, simply prompt ChatGPT to rewrite the last code. Tell it to include the component or do whatever wasn't done in the initial code. Here are [some tips on how to use ChatGPT for programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Creating the "send-messages.php" and "Fetch-messages" Page
 
@@ -213,23 +153,9 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 
 ![SQL to create chat messages table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sql-to-create-chat-messages-table.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After generating an SQL code, we asked the chatbot to generate a PHP script to handle the messaging logic.
 
 ![ChatGPT prompts to send and receive messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompts-to-send-and-receive-messages.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT generated the script for both the "send-messages.php" and the "fetch-messages.php" pages. On running both scripts, we finally had our very first error (which was oddly satisfying). Getting this far into the project without debugging a single line of code seemed a bit too good to be true, despite its relative simplicity.
 
@@ -238,6 +164,13 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
  When using ChatGPT to build an app, ensure to use the same chat thread and try to complete related components as soon as possible. Using a new chat thread or taking a long break might introduce inconsistencies. ChatGPT tends to forget some details of the current project (e.g. the color scheme) if you take long breaks between coding sessions.
 
  That said, we fixed the bug and deployed the code. We registered, logged in, and tried the chat feature. While we were able to send messages from one registered user to another, the color and arrangement of the message bubbles were a bit off. However, for an app that took an hour and 23 minutes to complete, we won't judge it too harshly.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT: An Excellent Coding Assistant
 
@@ -264,19 +197,21 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-easy-ways-to-record-webcam-chat/"><u>[Updated] 2024 Approved Easy Ways to Record Webcam Chat</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-resolve-androidios-issues-with-fb-video-playback-for-2024/"><u>[Updated] Resolve Android/iOS Issues with FB Video Playback for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-free-facebook-link-extractors-top-8-available-for-the-year-23/"><u>2024 Approved Free Facebook Link Extractors Top 8 Available for the Year '23</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-how-to-optimally-apply-a-creative-commons-license/"><u>2024 Approved How to Optimally Apply a Creative Commons License</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/android-mastery-empower-your-texting-with-microsofts-bing-on-any-phone/"><u>Android Mastery: Empower Your Texting with Microsoft's Bing on Any Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-standard-tokens-expanding-chatgpt-capabilities/"><u>Beyond Standard Tokens: Expanding ChatGPT Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosted-bots-dialogue-improving-gpt-with-10-custom-tweaks/"><u>Boosted Bots Dialogue: Improving GPT with 10 Custom Tweaks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-crypto-limitations-of-chatgpt-analyst-tools/"><u>Decoding Crypto: Limitations of ChatGPT Analyst Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/decoding-cryptocurrency-mining-processes-explained-simply-for-google-searchers/"><u>Decoding Cryptocurrency Mining: Processes Explained Simply for Google Searchers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-civi-3-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi Civi 3 Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hymn-based-ringtone-options-for-every-believer/"><u>In 2024, Hymn-Based Ringtone Options for Every Believer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/outsmarting-ai-in-writing-human-approach-proven-superior/"><u>Outsmarting AI in Writing: Human Approach Proven Superior</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securely-broadcasting-your-ai-conversation-insights/"><u>Securely Broadcasting Your AI Conversation Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-6-effective-chatgpt-uses-in-job-hunt/"><u>Unlock Your Potential: 6 Effective ChatGPT Uses in Job Hunt</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-slick-shots-from-yesteryear-mastering-vhs-hacks-in-modern-edits/"><u>[New] 2024 Approved Slick Shots From Yesteryear Mastering VHS Hacks in Modern Edits</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-comprehensible-techniques-for-effective-classroom-recordings-on-mac/"><u>[Updated] In 2024, Comprehensible Techniques for Effective Classroom Recordings on Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm6zw35pmc6zat44ot44oh44kq44gu44k544oi44oq44o844of44oz44kw5pya6ygp5yyw77ya5yid5a2m6icf44ov44os44oz44oj44oq44o844ks44kk44oj44cn/"><u>「長時間ビデオのストリーミング最適化：初学者フレンドリーガイド」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avchd/"><u>「AVCHDフォーマットをうまく扱うためのプレミアプロ対策：解決法とは？」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-leading-mp4-encoders-reviewed-mastering-the-art-of-high-quality-mp4-video-encoding/"><u>2024'S Leading MP4 Encoders Reviewed: Mastering the Art of High-Quality MP4 Video Encoding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6ygo5y6744gr5lplusd5a2y44gv44km44gf44ot44oh44kq44gu6kaw6ig05lin6io944gu55cg55sx44go6kej5rg65rov/"><u>過去に保存されたビデオの視聴不能の理由と解決法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/audio-consistency-mastery-the-ultimate-guide-to-achieving-uniform-volume-across-tracks/"><u>Audio Consistency Mastery: The Ultimate Guide to Achieving Uniform Volume Across Tracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/capturing-epic-moments-three-techniques-for-recording-wild-hearts-gaming-sessions-on-your-pc/"><u>Capturing Epic Moments: Three Techniques for Recording Wild Hearts Gaming Sessions on Your PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-m14-4g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy M14 4G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/active-multiplayer-experiences-online-for-2024/"><u>Interactive Multiplayer Experiences Online for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/radeon-hd-7850-driver-update-free-download-and-installation-tutorial-for-windows-10-users/"><u>Radeon HD 7850 Driver Update: Free Download & Installation Tutorial for Windows 10 Users</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a14-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-action-cam-editing-picks/"><u>Ultimate Action Cam Editing Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030542351-webm/"><u>WebMビデオファイルをスムーズに再生する方法 - 問題解決ガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287821163-ai-8/"><u>오래된 사진의 복원: 가장 효과적인 AI 소프트웨어 8대를 공유하다!</u></a></li>
 </ul></div>
 

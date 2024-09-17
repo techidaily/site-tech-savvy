@@ -1,7 +1,7 @@
 ---
 title: Has OpenAI Already Lost Control of ChatGPT?
-date: 2024-09-12T07:52:02.312Z
-updated: 2024-09-13T07:52:02.312Z
+date: 2024-09-13T16:25:09.300Z
+updated: 2024-09-17T16:13:36.814Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Understanding How ChatGPT Works
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
@@ -50,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
  There's no foolproof way to ensure that ChatGPT learns only from positive information while discarding the bad ones. Technically, it's impractical to do so at a large scale, especially for an AI like ChatGPT that needs to train on so much data. Furthermore, some information can be used for both good and evil purposes, and ChatGPT would have no way of knowing its intent unless it's put into a greater context.
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is ChatGPT Too Powerful for Its Own Good?
 
@@ -86,51 +72,30 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 It even wrote a classic Nigerian Prince email scam when asked.
 
 ![Nigerian prince scam email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nigerian-prince-scam-email.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jailbreaking almost completely invalidates any safeguards that OpenAI has put in place, highlighting that the company might not have a reliable way to keep its AI chatbot under control.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Does the Future Hold for ChatGPT?
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent [ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
 
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can OpenAI Put ChatGPT Under Control?
 
@@ -153,20 +118,16 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-perfect-pitch-for-producers-techniques-for-flawless-vocal-recordings/"><u>[New] In 2024, Perfect Pitch for Producers Techniques for Flawless Vocal Recordings</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-counter-facebooks-instantaneous-deletion-of-videos/"><u>[Updated] In 2024, How to Counter Facebook's Instantaneous Deletion of Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-complete-guide-to-video-broadcaster-alternatives/"><u>[Updated] The Complete Guide to Video Broadcaster Alternatives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-productivity-essential-tools-for-content-gurus/"><u>AI-Driven Productivity: Essential Tools for Content Gurus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-solutions-integrating-chatgpt-into-sheets/"><u>AI-Driven Solutions: Integrating ChatGPT Into Sheets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artists-accuse-tech-titans-silvermans-lead-in-ai-lawsuit/"><u>Artists Accuse Tech Titans: Silverman's Lead in AI Lawsuit</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-introduction-to-vlogging-tools-for-getting-started/"><u>In 2024, Introduction to Vlogging Tools for Getting Started</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-platform-showdown-podcast-vs-youtube/"><u>In 2024, The Ultimate Platform Showdown Podcast vs YouTube</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/is-avs-video-editor-the-best-choice-for-you/"><u>Is AVS Video Editor the Best Choice for You ?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-literary-legends-with-gpts-techniques/"><u>Leveraging AI for Literary Legends with GPT's Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-world-of-mobile-chatgpt/"><u>Navigating the World of Mobile ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premier-8-chatgpt-inquiries-to-enhance-work-efficiency-and-quality/"><u>Premier 8 ChatGPT Inquiries to Enhance Work Efficiency & Quality</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/soul-reavers-insight-unveiling-demons-souls-enhanced-visual-spectacle/"><u>Soul Reaver's Insight: Unveiling Demon's Souls Enhanced Visual Spectacle</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-5-advantages-why-choose-a-samsung-galaxy-tablet-over-the-apple-ipad/"><u>Top 5 Advantages: Why Choose a Samsung Galaxy Tablet Over the Apple iPad?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-boost-interaction-with-crafted-ig-story-queries-for-2024/"><u>[Updated] Boost Interaction with Crafted IG Story Queries for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-troubleshooting-techniques-for-sudden-facebook-live-freezes/"><u>2024 Approved Troubleshooting Techniques for Sudden Facebook Live Freezes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-stunning-65-inch-lg-oled-c9-tv-with-crystal-clear-4k-display-and-intelligent-features/"><u>Comprehensive Review of the Stunning 65-Inch LG OLED C9 TV with Crystal Clear 4K Display and Intelligent Features</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-6-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 6 to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-windows-blackout-after-fall-update/"><u>Overcoming Windows Blackout After Fall Update</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-your-pc-crisis-with-error-0x000000ea-in-depth-analysis-and-solutions/"><u>Resolve Your PC Crisis with Error 0X000000EA - In-Depth Analysis & Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-mp4-to-gif-conversion-tools-for-windows-users-the-ultimate-guide/"><u>Top 6 MP4 to GIF Conversion Tools for Windows Users: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-your-videos-from-wmv-to-avi-format-easily/"><u>Transforming Your Videos From WMV to AVI Format Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-the-movietv-app-in-windows-11-essential-tips-for-smooth-playback/"><u>Troubleshooting the MovieTV App in Windows 11: Essential Tips for Smooth Playback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-tips-step-by-step-guide-to-overcoming-catchvideo-download-hurdles/"><u>Troubleshooting Tips: Step-by-Step Guide to Overcoming Catchvideo Download Hurdles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-lightning-mode-functionality-explanation-and-usage-guide/"><u>Understanding Lightning Mode: Functionality Explanation and Usage Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Social Skills in AI Interactions: Politeness for GPT Users"
-date: 2024-09-12T07:49:22.109Z
-updated: 2024-09-13T07:49:22.109Z
+date: 2024-09-10T16:27:40.110Z
+updated: 2024-09-17T16:16:42.061Z
 tags:
   - chatgpt
   - open-ai
@@ -28,29 +28,9 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should You Be Polite to AI like ChatGPT, Alexa, and Siri?
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It doesn't make a difference if you're polite to AI. This is because AI like ChatGPT, Alexa, or Siri cannot process emotions like humans, and it won't be offended if you're not polite.
 
@@ -60,45 +40,17 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For instance, if you use derogatory words when addressing [Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/), it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's [Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/), which includes a **Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the [Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
  Of course, by using AI to reward children when they say "please" or "thank you," you could condition your children to be more polite when interacting with humans. Shouting at and being abusive to your AI probably delivers a poor lesson in communication, whether the ChatGPT or Alexa has feelings or not.
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
 
@@ -111,6 +63,13 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
  AI chatbots also present biased opinions since they've learned from humans, and, at times, [AI will hallucinate answers](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) and deliver them with confidence. However, we're still in the early days of AI adoption, and leading tech companies like OpenAI and Microsoft acknowledge that AI systems will improve with more user feedback. GPT-4 is testament to that improvement since it has safer responses than GPT 3.5, [among other differences](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/).
 
  On the other hand, you can [set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Interact With AI How You Want
 
@@ -137,20 +96,17 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-macs-best-in-show-top-10-screenshot-utilities-unveiled-for-2024/"><u>[New] Mac's Best in Show Top 10 Screenshot Utilities Unveiled for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-what-is-the-youtube-highlighted-comment/"><u>[New] What Is the YouTube Highlighted Comment?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-the-potential-of-your-online-persona-on-facebook-for-2024/"><u>[Updated] Unlocking the Potential of Your Online Persona on Facebook for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-lista-dos-10-aplicativos-mais-populares-para-copia-e-ripagem-de-dvds-sem-custo-algum/"><u>A Lista Dos 10 Aplicativos Mais Populares Para Cópia E Ripagem De DVDs Sem Custo Algum</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/advanced-camera-techniques-for-iphone-and-ipad-users-looking-to-capture-stunning-shots/"><u>Advanced Camera Techniques for iPhone & iPad Users Looking to Capture Stunning Shots</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/budget-savvy-shooters-top-5-under-200-cameras-for-2024/"><u>Budget-Savvy Shooters Top 5 Under $200 Cameras for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-interactive-conversations-improve-chatgpts-understanding/"><u>Can Interactive Conversations Improve ChatGPT's Understanding?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-blueprint-for-youtube-video-narratives/"><u>ChatGPT's Blueprint for YouTube Video Narratives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-individualistic-gpt-3-writing-guidelines/"><u>Crafting Individualistic GPT-3 Writing Guidelines</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-technology-from-toms-equipment-review-hub/"><u>Expert Insights on Technology From Tom's Equipment Review Hub</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-from-couch-to-camera-earning-through-personal-vlogging/"><u>In 2024, From Couch-to-Camera Earning Through Personal Vlogging</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-edge-mobile-ai-the-most-trusted-apps-for-you/"><u>Leading-Edge Mobile AI: The Most Trusted Apps for You</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-creative-potential-chatgpts-impact-on-audio-design/"><u>Unlocking Creative Potential: ChatGPT's Impact on Audio Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-the-versatile-use-cases-for-chatgpt/"><u>Unpacking the Versatile Use Cases for ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/who-wins-the-tech-talk-comparing-gpt-and-bing-ai/"><u>Who Wins the Tech Talk: Comparing GPT & Bing AI?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-tip-mastering-green-screen-techniques/"><u>[Updated] 2024 Approved Fast Tip Mastering Green Screen Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-complete-guide-to-facebooks-live-feature-how-to-and-best-practices/"><u>[Updated] 2024 Approved The Complete Guide to Facebook's Live Feature How-To & Best Practices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-auditory-experience-on-windows-10/"><u>2024 Approved Maximizing Auditory Experience on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-how-chatgpt-might-infringe-on-user-data-sovereignty/"><u>Evaluating How ChatGPT Might Infringe on User Data Sovereignty</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweet-tracks-top-ranked-amazon-originals-on-twittersphere/"><u>In 2024, Tweet Tracks Top-Ranked Amazon Originals on Twittersphere</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-canon-mf8500c-printer-drivers-for-windows-operating-systems-78110/"><u>Installing Canon MF8500C Printer Drivers for Windows Operating Systems (7/8.1/10)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/intelligent-style-meets-cutting-edge-tech-a-comprehensive-look-at-ray-bans-meta-frame-glasses/"><u>Intelligent Style Meets Cutting Edge Tech: A Comprehensive Look at Ray-Ban's Meta Frame Glasses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-craft-with-these-top-4-ai-story-weavers/"><u>Master Your Craft with These Top 4 AI Story Weavers</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347165719-restore-order-in-your-keyboard-chaos-with-these-9-fixes-for-broken-windows-shortcuts-and-combinations/"><u>Restore Order in Your Keyboard Chaos with These 9 Fixes for Broken Windows Shortcuts and Combinations.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-advances-in-artificial-linguistic-systems-gpt-1-to-4/"><u>Unveiling the Advances in Artificial Linguistic Systems (GPT-1 to 4)</u></a></li>
+<li><a href="https://techidaily.com/vivo-y36i-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Vivo Y36i Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-openais-shap-e-and-what-can-it-do/"><u>What Is OpenAI's Shap-E, and What Can It Do?</u></a></li>
 </ul></div>
 

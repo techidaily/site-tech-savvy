@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT and DALL-E to Create Characters for Dungeons & Dragons
-date: 2024-09-12T07:51:19.039Z
-updated: 2024-09-13T07:51:19.039Z
+date: 2024-09-12T16:12:26.246Z
+updated: 2024-09-17T16:06:08.760Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use ChatGPT to Create D&D Characters
 
  The most popular chat AI so far, there’s a reason [ChatGPT’s alternatives](https://www.makeuseof.com/best-alternatives-chatgpt/) aren’t as trendy as it is. It’s trained on a large data set, can understand context, and has a simulation of creativity you can use when creating your character.
@@ -49,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
 ![ChatGPT's detailed response to creating a backstory and background for a D&D character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-s-detailed-response-to-creating-a-backstory-and-background-for-a-d-d-character.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, ChatGPT isn’t very good with names. The name it generated for our Dragonborn was Draconis, which isn’t very original. You can prompt it to give you ideas for better names or just come up with your own instead. We ended up renaming the Dragonborn Anomander Rake.
 
  If you’re playing a homebrew campaign, type in as much as you know about the lore for ChatGPT and ask it to generate a relevant backstory and background for your character. You can keep prompting it till you find something you like.
@@ -68,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
 ![D&D character Anomander Rake's physical description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/d-d-character-anomander-rake-s-physical-description.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### To Determine Character Traits and NPC Attributes
 
  As an extension of the character’s description, you can ask ChatGPT to create your character’s traits and then use them as is or as inspiration for how your character would behave. Anomander Rake, as a Dragonborn Paladin of Justice, is a determined devout with a strong sense of righteousness with the fatal flaw of being adamantly stubborn. ChatGPT helped us come up with that.
@@ -84,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
  However, while generating attributes for an NPC, you should remember to tell ChatGPT to balance it according to the level of the players who will be facing the NPC. As the dungeon master, you should still make sure it’s balanced, but it would do a fairly decent job of trying to balance it.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use DALL-E 2 to Create D&D Characters
@@ -106,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
  The prompt might be too long for DALL-E 2, but you can still ask ChatGPT to shorten it.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### To Create a Character Image
 
  If you’re new to it, you should first learn [how to use DALL-E 2](https://www.makeuseof.com/how-to-use-dall-e-2/) so you know how to create an account and be aware of its workings. Once that’s done, you should add a few key things to the description you give DALL-E.
@@ -123,16 +89,16 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
 ![DALL-E 2's results from the prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dall-e-2-s-results-from-the-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're unhappy with the results, you can keep clicking**Generate** to create more images. If there’s an image close to what you want, click it and select**Variations** so that DALL-E can create more like that. If you find something you like, select it and click the**Download** button (represented by a download arrow) on the top right of the image. All your previously generated images are saved on the right menu, so don’t worry about losing them.
 
 All images you download from DALL-E have watermarks.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use AI to Enhance All Facets of Your Game
 
@@ -155,18 +121,19 @@ All images you download from DALL-E have watermarks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mastering-the-art-of-customizing-twitter-video-thumbnails/"><u>[New] In 2024, Mastering the Art of Customizing Twitter Video Thumbnails</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-ultimate-overview-of-du-recorders-technical-specifications/"><u>[New] In 2024, Ultimate Overview of Du Recorder’s Technical Specifications</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-reel-it-in-8-online-utilities-for-creating-and-sharing-instagram-videos-for-2024/"><u>[New] Reel It In 8 Online Utilities For Creating & Sharing Instagram Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/climate-denial-and-the-role-of-media-bias-explored/"><u>Climate Denial and the Role of Media Bias Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dungeon-masters-aide-de-camp-unleashing-potential-with-chatgpt/"><u>Dungeon Masters' Aide-De-Camp: Unleashing Potential with ChatGPT</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-high-performance-gpu-picks-for-quality-video-streaming/"><u>In 2024, High-Performance GPU Picks for Quality Video Streaming</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-your-moments-shine-top-highlight-video-editing-software/"><u>Make Your Moments Shine Top Highlight Video Editing Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pioneering-excellence-leading-vr-creators/"><u>Pioneering Excellence Leading VR Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/plug-in-with-ease-integrating-new-extensions-into-chatgpt/"><u>Plug in with Ease - Integrating New Extensions Into ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/snapchats-ai-six-compelling-arguments-for-its-significance/"><u>Snapchat's AI: Six Compelling Arguments for Its Significance</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/streamlined-sound-collection-adding-itunes-podcasts-with-ease-for-2024/"><u>Streamlined Sound Collection Adding iTunes Podcasts with Ease for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/tackling-complete-disk-congestion-in-windows-10-essential-techniques-and-solutions/"><u>Tackling Complete Disk Congestion in Windows 10: Essential Techniques and Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-youtube-editing-in-imovie-software/"><u>[New] The Ultimate Guide to YouTube Editing in iMovie Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-honoring-artistry-essential-stop-motion-movies-top-15/"><u>[Updated] Honoring Artistry Essential Stop-Motion Movies (Top 15)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-temporal-twist-mastering-video-flipping-in-snapchat/"><u>[Updated] Temporal Twist Mastering Video Flipping in Snapchat</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-top-8-facebook-planners-for-enhanced-team-productivity-for-2024/"><u>[Updated] Top 8 Facebook Planners for Enhanced Team Productivity for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-utilizing-iphones-full-screen-memories/"><u>[Updated] Utilizing iPhone's Full-Screen Memories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/20249/"><u>2024年に流行りそうな！ベスト9選 無料動画再生アプリランキングと応援ガイド⭐</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/3movavi/"><u>3最適な手段：MOVからAviへの品質保持変換ガイド</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-tecno-pova-6-pro-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximized-speed-the-prime-10-choices-of-srt-upgrades-for-pcs-and-macs-for-2024/"><u>Maximized Speed The Prime 10 Choices of SRT Upgrades for PCs & Macs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029934677-windows-11/"><u>Windows 11による簡単なビデオ編集テクニックのガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029912225-youtubepc/"><u>YouTube横ビデオをPC上で縦に再編成する最適な方法 - プロフェッショナルの動画変形術</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029526361-youtube/"><u>ビデオに水紋を追加するためのシンプル・チュートリアル: YouTube編集ツール使用</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030562025-teams/"><u>プライベートでのTeamsミーティング録音 - イヤフォンを活用したスニークショット技術</u></a></li>
 </ul></div>
 

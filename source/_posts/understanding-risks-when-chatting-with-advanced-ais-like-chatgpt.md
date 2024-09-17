@@ -1,7 +1,7 @@
 ---
 title: Understanding Risks When Chatting with Advanced AIs Like ChatGPT
-date: 2024-09-12T07:49:53.209Z
-updated: 2024-09-13T07:49:53.209Z
+date: 2024-09-15T16:27:32.271Z
+updated: 2024-09-17T16:27:51.540Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does ChatGPT Gather Data?
 
  If you've ever interacted with other chatbots, you know that none of them can really compare to ChatGPT, which is actually capable of generating human-like responses. But why is ChatGPT so much better than other similar software?
@@ -46,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
  Not everyone would consider this unethical, but it is at the very least problematic that a company is able to collect and share such a tremendous amount of data without obtaining anything resembling consent. Plus, even if ChatGPT was only fed publicly available, copyright-free information, that information might be shared with users out of context, or in a way that it is misleading.
 
  Ethical considerations aside, there are serious concerns that Open AI is violating the General Data Protection Regulation (GDPR), and other similar privacy laws. Due to these concerns, [Italy officially banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) in March 2023, with the country's data protection authority accusing Open AI of violating user privacy with its data collection practices in more than one way.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT's Privacy Policy: What You Need to Know
 
@@ -68,61 +54,47 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the [FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
 
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Register With a Private Email
 
  You can sign up to use ChatGPT with your Google or Microsoft account, but that would not be a very good idea, as convenient as it may seem. In order to protect your privacy, you should create an account with an email, preferably using a secure and encrypted email service like [ProtonMail or Tutanota](https://www.makeuseof.com/protonmail-vs-tutanota-which-encrypted-email-is-best/).
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Limit What You Share
 
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Delete Your Information
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the [California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/). So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is It Time to Regulate ChatGPT?
 
  After Italy broke the ice, talks of regulating ChatGPT and other AI products intensified. In April 2023, the European Data Protection Board (an independent European Union body that enforces GDPR) set up a task force to explore potential regulatory measures. Governments of several EU member states did the same, per [Reuters](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/).
 
  Around the same time, the National Telecommunications and Information Administration in the United States began looking at the possibility of regulating artificial intelligence, and it's safe to assume governments around the world will take similar regulatory action in the years to come. Some fear excessive regulation could stifle progress, so it's more than likely the debates will continue as the world tries to navigate this landscape.
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly
 
@@ -147,18 +119,19 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-apex-artists-among-online-video-titans-for-2024/"><u>[Updated] Apex Artists Among Online Video Titans for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-framework-for-finding-the-right-podcast-title-plus-idea-compendium-for-2024/"><u>[Updated] Ultimate Framework for Finding the Right Podcast Title + Idea Compendium for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-full-potential-integrating-zoom-and-fb-live-events/"><u>2024 Approved Unlock Full Potential Integrating ZOOM and FB Live Events</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-silent-issue-on-pcs-resolving-no-sound-troubles-in-windows-10/"><u>Anthem Silent Issue on PCs - Resolving No-Sound Troubles in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-clash-discovering-best-generative-ai-rivals/"><u>ChatBots Clash: Discovering Best Generative AI Rivals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crypto-red-flags-how-to-detect-phony-bingcrypt-schemes/"><u>Crypto Red Flags: How to Detect Phony BingCrypt Schemes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-linguistic-dominance-the-gpt-bert-contest/"><u>Exploring Linguistic Dominance: The GPT-BERT Contest</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-cash-from-conversations-boosted-systems/"><u>Making Cash From Conversations, Boosted Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-your-chatgpt-talks-accessible-to-all/"><u>Making Your ChatGPT Talks Accessible to All</u></a></li>
-<li><a href="https://win-blog.techidaily.com/simple-guide-for-correcting-discords-javascript-glitches/"><u>Simple Guide for Correcting Discord's JavaScript Glitches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-openai-transition-from-basic-to-advanced-ai-gpt-14/"><u>The OpenAI Transition: From Basic to Advanced AI (GPT-1–4)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-premier-ranking-of-outstanding-stop-motion-films/"><u>The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-techniques-in-itunes-video-saving-for-2024/"><u>[New] Advanced Techniques in iTunes Video Saving for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-money-saving-drones-reviewed-top-5-under-100-models/"><u>[New] In 2024, Money-Saving Drones Reviewed Top 5 Under $100 Models</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-breaking-news-working-obs-cam/"><u>[Updated] 2024 Approved Breaking News Working OBS Cam</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-watching-social-network-vids-through-the-television-glass/"><u>[Updated] 2024 Approved Watching Social Network Vids Through the Television Glass?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-invisible-listeners-guide-6-clandestine-recording-apps-androidios-for-2024/"><u>[Updated] Invisible Listeners Guide 6 Clandestine Recording Apps (Android/iOS) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-xvideo-studio-dissected-full-analysis-guide/"><u>[Updated] XVideo Studio Dissected Full Analysis Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-policy-scope-and-structure/"><u>AI Policy: Scope & Structure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-chatgpts-effect-on-online-anonymity/"><u>Assessing ChatGPT's Effect on Online Anonymity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comfort-meets-performance-the-leading-ergonomic-keyboards/"><u>Comfort Meets Performance: The Leading Ergonomic Keyboards</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-accuracy-of-cgp-in-medicine/"><u>Evaluating the Accuracy of CGP in Medicine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fusing-technology-and-innovation-constructing-web-applications-with-gpt-3/"><u>Fusing Technology and Innovation: Constructing Web Applications with GPT-3</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-steps-for-extracting-auditory-elements-from-mp4-files/"><u>New Steps for Extracting Auditory Elements From MP4 Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-companionship-using-chatgpt-to-connect-people/"><u>Virtual Companionship: Using ChatGPT to Connect People</u></a></li>
 </ul></div>
 

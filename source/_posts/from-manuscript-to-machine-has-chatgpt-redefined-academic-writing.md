@@ -1,7 +1,7 @@
 ---
 title: "From Manuscript to Machine: Has ChatGPT Redefined Academic Writing?"
-date: 2024-09-12T07:49:18.183Z
-updated: 2024-09-13T07:49:18.183Z
+date: 2024-09-12T16:20:54.366Z
+updated: 2024-09-17T16:02:53.803Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is the Purpose of the Student Essay?
 
  According to the [Merriam-Webster dictionary](https://www.merriam-webster.com/dictionary/essay), an essay is "an analytic or interpretative literary composition usually dealing with its subject from a limited or personal point of view." And by going through the word's history, we find that essay derives from the old Frech word _essai_, which itself is from the Latin _exagium_, which means the act of weighing.
@@ -46,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
  Furthermore, the [Western Sydney University Library](https://www.westernsydney.edu.au/%5F%5Fdata/assets/pdf%5Ffile/0005/1082498/Essay%5FPurpose.pdf) (PDF) states that an essay's purpose is to "persuade the reader that your position is credible (i.e., believable and reasonable)." This means that a student shouldn't just argue their case in an essay, but they should do so in a logical way.
 
  So, for many professors, the student essay is an excellent tool for developing critical thinking. It's also not as taxing for the students since most essays are take-home assignments.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Libraries, Internet Search, and Analytical Thinking vs. ChatGPT
 
@@ -108,28 +94,15 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  Because of this, educators must find ways to make student essays more robust. For example, they can no longer assign general topics—like a book report on The Great Gatsby—because it's easy for students to ask ChatGPT or any other generative AI tool to write it for them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Student Essays Need to Evolve to Survive AI
 
  So, how can teachers, professors, and educators change the student essay to make it evolve with AI?
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Make the Questions More Pointed or Personal
@@ -137,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
  The biggest thing that generative AI like ChatGPT cannot do is write about personal experience. After all, a student's life isn't generally available online, so generative AI cannot predict that student's life.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Write Essay Questions in the Context of Current Events
@@ -150,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
  The free version of ChatGPT, the most popular generative AI today, is only updated up to September 2021 at the time of writing. So, it would help to ask essay questions relating to events that happened in the past three months.
 
  However, students with access to ChatGPT Plus or GPT-4 get a fully updated version of ChatGPT. So, as part of checking essays, the teacher should also quiz the student on what they wrote.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Students Should Present Their Essays as Reports
 
@@ -171,17 +137,23 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 ![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Essays Can Still Gauge Student Knowledge and Competence
@@ -211,17 +183,19 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-capture-clarity-comprehensive-free-pcmac-recording-apps/"><u>[New] In 2024, Capture Clarity Comprehensive Free PC/Mac Recording Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-audible-illusion-how-does-this-voice-change-application-work-alternatives-awaits/"><u>2024 Approved Audible Illusion How Does This Voice Change Application Work? Alternatives Awaits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cautionary-tales-of-misinterpreted-chatgpt-summaries/"><u>Cautionary Tales of Misinterpreted ChatGPT Summaries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hidden-dangers-in-conversing-with-chatgpt/"><u>Hidden Dangers in Conversing With ChatGPT</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-64128gb-data-puzzle-solving-video-limits/"><u>In 2024, 64/128GB Data Puzzle Solving Video Limits</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70e-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70E Phone without Google Account?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalized-literature-at-your-fingertips-dive-into-these-5-innovative-ai-tools/"><u>Personalized Literature at Your Fingertips - Dive Into These 5 Innovative AI Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scrutinizing-the-substance-of-truthgpt-token/"><u>Scrutinizing the Substance of TruthGPT Token</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synthesizing-verses-with-chatgpt-assistance/"><u>Synthesizing Verses with ChatGPT Assistance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-cutting-edge-of-content-tips-for-the-trendy-tiktoker-for-2024/"><u>The Cutting Edge of Content Tips for the Trendy TikToker for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-choosing-the-perfect-sd-card-for-your-steam-deck/"><u>Ultimate Guide: Choosing the Perfect SD Card for Your Steam Deck</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-excellent-global-music-livestreams/"><u>[New] Excellent Global Music Livestreams</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-expert-list-of-websites-ease-up-on-youtube-videos-and-templates/"><u>[New] In 2024, Expert List of Websites Ease Up on Youtube Videos and Templates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-guide-for-elevating-your-youtube-feedback-with-emojis/"><u>[New] Step-by-Step Guide for Elevating Your Youtube Feedback with Emojis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-expertly-convert-videos-on-your-device-with-the-most-trusted-apps-8-for-2024/"><u>[Updated] Expertly Convert Videos on Your Device with the Most Trusted Apps #8 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-screen-capturing-magic-comprehensive-guide-and-options-ranked/"><u>[Updated] In 2024, Screen-Capturing Magic Comprehensive Guide & Options Ranked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-picks-premium-and-economical-bdr-players-for-pcmac/"><u>[Updated] Top Picks Premium & Economical BDR Players for PC/Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advantages-why-upgrading-to-chatgpt-plus/"><u>Advantages: Why Upgrading to ChatGPT Plus?</u></a></li>
+<li><a href="https://facebook.techidaily.com/banishing-falsehoods-a-request-to-tech-giants-like-facebook-and-google/"><u>Banishing Falsehoods: A Request to Tech Giants Like Facebook and Google</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-voice-chat-when-facing-a-content-warning-failure/"><u>How to Repair Voice Chat When Facing a Content Warning Failure?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silverman-and-peers-target-openaimeta-for-creative-liberty/"><u>Silverman and Peers Target OpenAI/Meta for Creative Liberty</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-update-error-0xc1900208-in-windows-11/"><u>Step-by-Step Solutions to Overcome Update Error 0xC1900208 in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-case-for-local-llm-models-benefits-and-drawbacks-examined/"><u>The Case for Local LLM Models – Benefits & Drawbacks Examined</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-employer-retribution-for-chatgpt-use-in-work/"><u>Understanding Employer Retribution for ChatGPT Use in Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-caution-is-key-in-ai-the-top-6-concerns/"><u>Why Caution Is Key in AI: The Top 6 Concerns</u></a></li>
 </ul></div>
 

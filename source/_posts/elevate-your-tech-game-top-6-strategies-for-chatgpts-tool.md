@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Tech Game - Top 6 Strategies for ChatGPT's Tool
-date: 2024-09-12T07:52:16.237Z
-updated: 2024-09-13T07:52:16.237Z
+date: 2024-09-10T16:18:41.691Z
+updated: 2024-09-17T16:16:36.154Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/18d989e548104708bf52f53d39fea008181396412
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Create and Edit Images
 
  You can pull off a lot of interesting image manipulation tricks with [ChatGPT's Code Interpreter](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/). The best part is that you don't need any special skills to do so, all you need to do is simply describe what you want to do in plain language. The results and options might not be Photoshop grade, but they are usually quite interesting and worth the efforts.
@@ -54,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/18d989e548104708bf52f53d39fea008181396412
  In the example below, we asked ChatGPT to split an image into quadrants and invert the colors on the last quadrant.
 
 ![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
 
@@ -90,29 +76,9 @@ thumbnail: https://thmb.techidaily.com/18d989e548104708bf52f53d39fea008181396412
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
@@ -141,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/18d989e548104708bf52f53d39fea008181396412
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
@@ -161,18 +127,18 @@ thumbnail: https://thmb.techidaily.com/18d989e548104708bf52f53d39fea008181396412
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
 
@@ -199,18 +165,17 @@ thumbnail: https://thmb.techidaily.com/18d989e548104708bf52f53d39fea008181396412
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-examining-screen-capture-efficacy-obs-studio-vs-fraps-for-2024/"><u>[New] Examining Screen Capture Efficacy OBS Studio vs Fraps for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-tandem-display-data-archiving/"><u>[New] Tandem Display Data Archiving</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>2024 Approved How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-scrutinizing-software-for-video-editing-the-bandicam-camtasia-comparison/"><u>2024 Approved Scrutinizing Software for Video Editing The Bandicam-Camtasia Comparison</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/brainchild-of-bard-googles-answer-to-the-ai-world-leaders/"><u>Brainchild of Bard: Google's Answer to the AI World Leaders</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-poco-x6-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Poco X6</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-bluetooth-keyboard-when-it-wont-pair-with-your-computer/"><u>How to Fix Your Bluetooth Keyboard When It Won't Pair With Your Computer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-selecting-your-streaming-choice-podcast-or-video-platform/"><u>In 2024, Selecting Your Streaming Choice Podcast or Video Platform</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-depth-evaluation-gopro-slr4-silver-hero4-model/"><u>In-Depth Evaluation GoPro SLR4 Silver HERO4 Model</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-writes-your-stories-with-custom-gpt-solutions/"><u>OpenAI' Writes Your Stories with Custom GPT Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009546290-stardew-valley-wont-load-here-are-the-proven-remedies/"><u>Stardew Valley Won't Load? Here Are the Proven Remedies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-chatbots-building-with-create-a-gpt-techniques/"><u>Transformative ChatBots: Building with Create a GPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-are-hackers-targeting-chatgpt-accounts/"><u>Why Are Hackers Targeting ChatGPT Accounts?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lgs-visionary-360-camera-review-and-technological-advances/"><u>[Updated] LG's Visionary 360 Camera Review and Technological Advances</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-review-of-magix-video-pro-x-for-2024/"><u>[Updated] The Ultimate Review of Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/canon-mp560-drivers-easy-downloads-and-updates-for-optimal-performance/"><u>Canon MP560 Drivers - Easy Downloads and Updates for Optimal Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-magic5-ultimate-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor Magic5 Ultimate? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/splurge-free-1440p-the-ultimate-list-of-budget-friendly-monitors-for-gamers/"><u>Splurge-Free 1440P: The Ultimate List of Budget-Friendly Monitors for Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-accurate-dvd-to-dvd-duplication-using-windows-11-and-earlier-versions/"><u>Step-by-Step Guide: Accurate DVD to DVD Duplication Using Windows 11 & Earlier Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-mts-videos-into-compatible-formats-via-computer-or-web-applications/"><u>Step-by-Step Guide: Transforming MTS Videos Into Compatible Formats via Computer or Web Applications</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/step-by-step-win-11-installation-after-windows-8/"><u>Step-by-Step: Win 11 Installation After Windows 8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/telegram-upload-guide-sending-videos-over-2gb/"><u>Telegram Upload Guide: Sending Videos Over 2GB</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-10-animated-text-tools-you-need-to-try-this-year-for-2024/"><u>Top 10 Animated Text Tools You Need to Try This Year for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-must-have-live-streaming-addons-for-kodi-enjoy-movies-and-more/"><u>Top 5 Must-Have Live Streaming Addons for Kodi: Enjoy Movies and More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-mkv-format-a-comprehensive-guide-on-opening-matroska-files/"><u>Understanding the MKV Format: A Comprehensive Guide on Opening Matroska Files</u></a></li>
 </ul></div>
 

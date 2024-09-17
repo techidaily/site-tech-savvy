@@ -1,7 +1,7 @@
 ---
 title: "Mastering Custom Interactions with GPT-3: Top 5 Techniques Revealed"
-date: 2024-09-12T07:52:13.593Z
-updated: 2024-09-13T07:52:13.593Z
+date: 2024-09-16T16:02:21.363Z
+updated: 2024-09-17T16:10:16.677Z
 tags:
   - chatgpt
   - open-ai
@@ -47,19 +47,6 @@ thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69
 
 ![A woman and an access restricted sign](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/access-control-policies.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can use [the ChatGPT custom instructions feature](https://www.makeuseof.com/what-is-chatgpt-custom-instructions-feature/) to specify safety rules for your ChatGPT account or those used by minors. If you want to ensure your kid is safe when using ChatGPT, you can use custom instructions to generate responses suitable for children under the age of X, where X is your child's age. You can also get more specific if there are certain topics you want ChatGPT to avoid that may not necessarily be inappropriate for that age.
 
  For instance, if you're trying to wean your child off video game addiction, you could ask ChatGPT to avoid providing instructions or tips for video games. The key is being very clear and specific in detailing what types of content should be avoided or limited. Remind ChatGPT to respond helpfully within those defined boundaries. Testing the instructions with sample inputs ensures ChatGPT complies as intended.
@@ -90,13 +77,6 @@ Please use the key=>value pair provided to determine how to structure your respo
 
 Whenever I reach out for help regarding a resume, I need you to refer to the information provided at "<https://www.makeuseof.com/how-to-write-cv-for-tech-job/>" to guide our interaction. Based on the insights from that page, you should pose a series of eight targeted questions to me. My responses to these questions will be the foundation upon which you will construct a professional and effective resume tailored to a technology role. This specific procedure should be activated only when I'm seeking assistance with a tech-related resume. Moreover, I would like our exchange to be sequential, where you will present each subsequent question only after I have provided a thorough answer to the one preceding it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Specify Your Writing Style
 
  While capable of producing quality writing, ChatGPT's write-ups often lack a consistent personal voice and style. If you use ChatGPT primarily or frequently for creating write-ups and need the chatbot to maintain a consistent style across all sessions, custom instructions might be your way out.
@@ -110,23 +90,10 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
 ![Personal preference Map in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/personal-preference-map-in-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Provide Data for Personalized Responses
@@ -140,22 +107,23 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
 2. You can make it respond in a way that aligns with your profession.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Setting preferred ways to respond in ChatGPT Custom Instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/setting-preferred-ways-to-respond-in-chatgpt-custom-instructions.jpg)
 3. You can also make it respond to specific professional requirements.  
-![Setting preferred ways to respond using ChatGPT Custom Instructions feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/setting-preferred-ways-to-respond-using-chatgpt-custom-instructions-feature.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Setting preferred ways to respond using ChatGPT Custom Instructions feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/setting-preferred-ways-to-respond-using-chatgpt-custom-instructions-feature.jpg)
 
  These are just three quick examples to get the ball rolling, but there are countless ways you can adapt ChatGPT custom instructions to your needs.
 
@@ -180,20 +148,17 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-transform-your-clips-step-by-step-youtube-end-screen-tutorials/"><u>[New] Transform Your Clips Step-by-Step YouTube End Screen Tutorials</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-achieving-excellence-in-android-video-production-using-obs-for-2024/"><u>[Updated] Achieving Excellence in Android Video Production Using OBS for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-80plus-catchy-cooking-channel-names-to-attract-more-audience/"><u>[Updated] In 2024, 80+ Catchy Cooking Channel Names to Attract More Audience</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-selection-best-idevice-custom-alerts/"><u>[Updated] In 2024, Ultimate Selection Best iDevice Custom Alerts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-clash-discovering-best-generative-ai-rivals/"><u>ChatBots Clash: Discovering Best Generative AI Rivals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crypto-red-flags-how-to-detect-phony-bingcrypt-schemes/"><u>Crypto Red Flags: How to Detect Phony BingCrypt Schemes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-linguistic-dominance-the-gpt-bert-contest/"><u>Exploring Linguistic Dominance: The GPT-BERT Contest</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-note-30-vip-racing-edition-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Note 30 VIP Racing Edition by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oppo-reno-10-pro-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Oppo Reno 10 Pro 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-cash-from-conversations-boosted-systems/"><u>Making Cash From Conversations, Boosted Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-your-chatgpt-talks-accessible-to-all/"><u>Making Your ChatGPT Talks Accessible to All</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-most-reliable-gopro-cases-1-10-showdown/"><u>The Most Reliable GoPro Cases - #1-10 Showdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-openai-transition-from-basic-to-advanced-ai-gpt-14/"><u>The OpenAI Transition: From Basic to Advanced AI (GPT-1–4)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-laptop-keyboard/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Laptop Keyboard</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-flip-through-history-collecting-twitter-gifs-on-mobile/"><u>[New] Flip Through History Collecting Twitter GIFs on Mobile</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unleash-your-potential-with-snapchats-commerce-tools/"><u>[New] In 2024, Unleash Your Potential with Snapchat's Commerce Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-streamlining-slides-integrating-youtube-content/"><u>[Updated] 2024 Approved Streamlining Slides Integrating YouTube Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-images-in-your-instagram-profile/"><u>[Updated] Mastering Images in Your Instagram Profile</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-vividness-in-iphone-videos-three-keys-unveiled-for-2024/"><u>Boosting Vividness in iPhone Videos – Three Keys Unveiled for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-transfer-techniques-moving-the-dvd-film-interstellar-to-ios-devices/"><u>Effortless Transfer Techniques: Moving the DVD Film 'Interstellar' To iOS Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-edit-your-tracks-length-in-itunes-a-simple-step-by-step-guide/"><u>Effortlessly Edit Your Track's Length in iTunes: A Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/frozen-ground-ripped-apart-from-prey-to-predator-unleashed/"><u>Frozen Ground Ripped Apart: From Prey to Predator Unleashed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-audiocasts-without-paying-tips-for-extracting-sound-from-social-media-clips/"><u>How to Download Audiocasts without Paying: Tips for Extracting Sound From Social Media Clips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-iphone-se-2022-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About iPhone SE (2022) Activation Lock</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-history-on-your-flip-watching-old-fb-stories/"><u>In 2024, History on Your Flip Watching Old FB Stories</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-honor-magic-vs-2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Honor Magic Vs 2 Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
 

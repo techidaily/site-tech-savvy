@@ -1,0 +1,139 @@
+---
+title: "Conquer Clutter in Communication: Mastering the ChatGPT Folder System"
+date: 2024-09-14T16:23:03.087Z
+updated: 2024-09-17T16:08:39.276Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Conquer Clutter in Communication: Mastering the ChatGPT Folder System"
+excerpt: "This Article Describes Conquer Clutter in Communication: Mastering the ChatGPT Folder System"
+thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60abbc500be807cdf0c4c1fe06.jpg
+---
+
+## Conquer Clutter in Communication: Mastering the ChatGPT Folder System
+
+ ChatGPT's conversation memory is one of the generative AI chatbot's most useful features. Every time you start a new conversation and ask ChatGPT a question or provide a prompt, it's recorded for you to refer back to.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ But even casual ChatGPT users will have found that after a short period, the number of conversations in the history bar balloons, making it difficult to keep track of chats.
+
+ That's where the ChatGPT Folders Chrome extension comes into play, allowing you to organize, structure, and pin your ChatGPT conversations. Here's how it works.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## How to Use ChatGPT Folders to Organize Your ChatGPT Conversations
+
+ Let's face it; the ChatGPT conversation history isn't the chatbot's strongest feature. Having the list of prior conversations is handy, but without a way to manage it properly, it's not up to scratch.
+
+ The [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) Chrome extension addresses this problem directly, adding support for folders, subfolders, pinning, bulk conversation deletion, and the option to [share your ChatGPT conversations](https://www.makeuseof.com/apps-extensions-export-share-chatgpt-history/). Now, I imagine OpenAI will add all of these features to ChatGPT in the future ([ChatGPT link sharing is already enabled](https://www.makeuseof.com/share-chatgpt-chats-links/)). But the future isn't now, and ChatGPT Folders is delivering the goods.
+
+### 1\. Download and Install ChatGPT Folders
+
+ First up, head to [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) while using the Chrome browser, then select **Add to Chrome**.
+
+ Launch ChatGPT to check ChatGPT Folders installed correctly. You should now find a new toolbar atop your ChatGPT conversation history with options to create a New Conversation and, most importantly, a New Folder. You'll also note that a tree structure now exists alongside your ChatGPT conversations, which you can use to select specific chats you want to move into a folder, delete, and so on.
+
+### 2\. Create a New Folder, Add Your Conversations
+
+ From here, you can begin creating new folders to manage your ChatGPT conversations.
+
+![adding chatgpt conversations to folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adding-chatgpt-conversations-to-folder.jpg)
+
+1. From the top bar, select **New Folder**. Give it a name.
+2. Now, select any ChatGPT conversations you want to add by selecting the check box.
+3. You can either drag and drop the selected folders into your new folder or right-click and select **Move to > New Folder**.  
+![moving chatgpt conversations to new folder chatgpt folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/moving-chatgpt-conversations-to-new-folder-chatgpt-folders.jpg)
+4. Select your folder. It will open using the same tree structure, where you'll find your grouped conversations.
+5. **Optional**: Inside your new folder, select the **New Folder** button once more to create a subfolder. Use the same steps as before to transfer ChatGPT conversations to the subfolder.
+
+![chatgpt folders with nested conversations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-with-nested-conversations.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 3\. How to Delete a Folder and Reset Your Conversations
+
+ Deleting a folder and resetting your conversations are two different processes, but you'll want to know about both.
+
+ To delete a folder, right-click and select **Delete \[Folder Name\]**. Your conversations will return to their original positions in your ChatGPT history. They're not deleted as part of the process.
+
+ However, if you decide you've had enough of your ChatGPT Folders structure and want to start again, you can use the **Reset folders and conversations** button instead.
+
+![chatgpt folders reset conversations and folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-reset-conversations-and-folders.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Select the three-line button at the top of the ChatGPT history, then **Reset folders and conversations**. Doing so will remove all of the ChatGPT Folders you've created and return your ChatGPT conversations to their original state. Note that this isn't the same as [deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/).
+
+## Are ChatGPT Folders the ChatGPT Future?
+
+ The additional functionality ChatGPT Folders brings to ChatGPT is most welcome.
+
+ But there are some additional features we'd like to see in future updates to this extension:
+
+* Colored folders; more customization options
+* Folder and conversation export and sync (though we believe this is in the works)
+* Faster loading
+
+ Overall, the ChatGPT Folders Chrome extension is a great option for anyone using ChatGPT regularly who finds the default conversation history underwhelming.
+
+ As said, we fully expect OpenAI to bring this functionality to ChatGPT at some point, but for now, ChatGPT Folders is just the ticket.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ But even casual ChatGPT users will have found that after a short period, the number of conversations in the history bar balloons, making it difficult to keep track of chats.
+
+ That's where the ChatGPT Folders Chrome extension comes into play, allowing you to organize, structure, and pin your ChatGPT conversations. Here's how it works.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-laying-the-groundwork-for-successful-zoom-meetings/"><u>[Updated] 2024 Approved Laying the Groundwork for Successful Zoom Meetings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-digital-storyboard-studio/"><u>2024 Approved Digital Storyboard Studio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intuition-nine-catalysts-for-fantasy-blur/"><u>Artificial Intuition: Nine Catalysts for Fantasy Blur</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-redmi-12-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Redmi 12 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-gpt-autonomy-distinctions-from-conversational-ai/"><u>Discovering GPT Autonomy - Distinctions From Conversational AI</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-nightshade-to-protect-your-artwork-from-generative-ai/"><u>How to Use Nightshade to Protect Your Artwork From Generative AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-truth-about-ai-chatbots-in-content-creation-8-critical-insights-for-writers-to-know/"><u>The Truth About AI Chatbots in Content Creation: 8 Critical Insights for Writers to Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-how-to-restore-razer-headset-mic-function-in-five-steps/"><u>Troubleshoot & Repair: How to Restore Razer Headset Mic Function in Five Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-creative-potential-using-free-dall-e-3-on-bing-by-microsoft/"><u>Unleash Creative Potential: Using Free DALL-E 3 on Bing by Microsoft</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/wish-to-look-at-all-my-contacts-media-shared-in-chats/"><u>Wish to Look at All My Contacts' Media Shared in Chats</u></a></li>
+</ul></div>
+

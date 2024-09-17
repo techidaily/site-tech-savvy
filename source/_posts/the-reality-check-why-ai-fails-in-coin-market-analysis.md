@@ -1,7 +1,7 @@
 ---
 title: "The Reality Check: Why AI Fails in Coin Market Analysis"
-date: 2024-09-12T07:50:52.956Z
-updated: 2024-09-13T07:50:52.956Z
+date: 2024-09-10T16:24:22.608Z
+updated: 2024-09-17T16:15:36.913Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Lack of Real-Time Data
 
  The cryptocurrency market is always changing. A coin can be worth $10 on Monday and then $5 on Tuesday. Because of this, real-time data is crucial in crypto trading, be it prices, trends, or predictions. Using outdated information can result in poor investments and a loss of funds, so it's important to be on top of things.
@@ -42,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The huge success of ChatGPT, as well as the release of [similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/), has brought the concern of hallucination into the limelight.
 
@@ -64,23 +50,9 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to [BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/), ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
 
@@ -90,16 +62,22 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Relies Heavily on Historical Data
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
 
@@ -122,10 +100,16 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Revolutionary but Far From Perfect
@@ -149,20 +133,18 @@ thumbnail: https://thmb.techidaily.com/fd5c5fb492328cdc04de64e70980911350de51156
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-direct-download-of-youtube-videos/"><u>[New] In 2024, Direct Download of YouTube Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-streamline-video-shoot-excellent-camera-tripods-reviewed-for-2024/"><u>[Updated] Streamline Video Shoot Excellent Camera Tripods Reviewed for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-stretched-seconds-capturing-slow-mo-videos-using-mobile-apps-and-internet-platforms/"><u>2024 Approved The Ultimate Guide to Stretched Seconds Capturing Slow-Mo Videos Using Mobile Apps and Internet Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/acquisisci-la-licenza-completa-del-convertitore-video-winx-pro-per-sistemi-apple-download-ufficiale/"><u>Acquisisci La Licenza Completa Del Convertitore Video WinX Pro per Sistemi Apple - Download Ufficiale</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/avoiding-epson-error-codes-halt/"><u>Avoiding Epson Error Codes Halt</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-non-functional-audio-in-your-pc-running-windows-7/"><u>Diagnosing and Repairing Non-Functional Audio in Your PC Running Windows 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-expeditions-ai-powered-strategies-for-the-ultimate-dandd-guide/"><u>Enhancing Expeditions: AI-Powered Strategies for the Ultimate D&D Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-steps-for-auto-gpt-setup/"><u>Essential Steps for Auto-GPT Setup</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-lava-blaze-curve-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Lava Blaze Curve 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-visualizing-modifications-in-excel-for-windows-users/"><u>Step-by-Step Tutorial: Visualizing Modifications in Excel for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-enigma-of-ai-deciphering-black-box-logic/"><u>The Enigma of AI: Deciphering Black Box Logic</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-premier-5-ai-prompt-generators-reviewed/"><u>The Premier 5 AI Prompt Generators Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ai-companion-chatgpt-for-a-healthier-happier-you/"><u>The Ultimate AI Companion: ChatGPT for a Healthier, Happier You</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-knowledge-with-artificial-insights/"><u>Unlocking Knowledge with Artificial Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-elevate-your-farm-adventure-uncovering-stardews-top-7-mods/"><u>[New] In 2024, Elevate Your Farm Adventure Uncovering Stardew's Top 7 Mods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-expected-daily-video-consumption-gb-calculation/"><u>[New] In 2024, Expected Daily Video Consumption GB Calculation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-capture-assistant-az-audits-and-alternatives/"><u>[Updated] Ultimate Capture Assistant - AZ Audits & Alternatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027914396-facebook/"><u>「不可解な Facebook 動画投稿エラーを解消する究極ガイド」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cdsd/"><u>「コンピューターでCDからSDメモリカードへの音声移行手段」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/canva/"><u>動画分割手順を教える! Canvaで簡易操作法と代用方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ac-3-vs-aac/"><u>AC-3 Vs. AAC：主要な違いとファイル間変換手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cdawav/"><u>CDA音声ファイルからWAV形式への簡単な変換手順 -初学者向けチュートリアル</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-file-corruption-problems-error-0x80070570-on-windows-11/"><u>How to Tackle File Corruption Problems (Error 0X80070570) on Windows 11</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/introducing-winxvideos-smartai-cutting-edge-technology-for-advanced-frame-enrichment-and-ai-driven-interpolation/"><u>Introducing Winxvideo's SmartAI: Cutting-Edge Technology for Advanced Frame Enrichment and AI-Driven Interpolation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-paying-more-for-amazons-prime-reading-beneficial-compared-to-free-kindle-unlimited/"><u>Is Paying More for Amazon's Prime Reading Beneficial Compared to Free Kindle Unlimited?</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-winhttpdll-files-on-your-computer-tips-and-solutions/"><u>Troubleshooting Missing Winhttp.dll Files on Your Computer – Tips and Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Chatbots & Risks: Insight Into the Top 3 Privacy Hurdles"
-date: 2024-09-12T07:51:15.090Z
-updated: 2024-09-13T07:51:15.090Z
+date: 2024-09-14T16:13:40.518Z
+updated: 2024-09-17T16:10:31.820Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Data Collection
 
  Most people don't use chatbots just to say hi. Modern chatbots are designed to process and respond to complex questions and requests, with users often including a lot of information in their prompts. Even if you're only asking a simple question, you don't really want it to go beyond your conversation.
@@ -49,19 +42,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  But the concerns don't stop here.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How Does ChatGPT Learn?
 
  In order to provide information, large language models are trained with huge amounts of data. According to [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3), ChatGPT-4 alone was fed 300 billion words of information during its training period. This isn't taken straight from a few encyclopedias. Rather, chatbot developers use masses of information from the internet to train their models. This can include data from books, movies, articles, Wikipedia entries, blog posts, comments, and even review sites.
@@ -73,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  This is where things get a little blurry. If you ask ChatGPT-3.5 directly whether it has access to product reviews or article comments, you'll get a firm negative. As you can see in the screenshot below, GPT-3.5 states that it wasn't given access to user article comments or product reviews in its training.
 
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
 
@@ -99,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Data Theft
 
  Like any online tool or platform, chatbots are vulnerable to cybercrime. Even if a chatbot did all it could to protect users and their data, there's always a chance that a savvy hacker will manage to infiltrate its internal systems.
@@ -119,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Malware Infection
@@ -136,16 +102,16 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
+<span id="1982570">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Chatbots Aren't Impervious to Privacy Issues
@@ -175,14 +141,17 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-creating-seamless-meeting-transitions-with-slackplusfilmora-for-2024/"><u>[New] Creating Seamless Meeting Transitions with Slack+Filmora for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-comprehensive-review-camera-lenses-for-youtube/"><u>[New] In 2024, A Comprehensive Review Camera Lenses for YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-crystalline-speed-highlighting-moments-from-the-coldest-games-on-earth/"><u>[Updated] 2024 Approved Crystalline Speed Highlighting Moments From the Coldest Games on Earth</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unrestricted-story-preservation-free-for-2024/"><u>[Updated] Unrestricted Story Preservation, FREE for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-knowledge-simplified-with-toms-insider-guides-and-reviews/"><u>Advanced Hardware Knowledge Simplified with Tom's Insider Guides and Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bringing-voice-to-mobile-androids-chatgpt-revolution/"><u>Bringing Voice to Mobile: Android's ChatGPT Revolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/foremost-20-github-sourced-chatgpt-conversation-ideas/"><u>Foremost 20 Github-Sourced ChatGPT Conversation Ideas</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securing-chatgpt-does-it-need-improvement/"><u>Securing ChatGPT: Does It Need Improvement?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-from-baking-to-boiling-top-15-innovative-tiktok-dishes/"><u>[Updated] From Baking to Boiling Top 15 Innovative TikTok Dishes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-dive-into-new-worlds-comprehensively-reviewed-top-10-vr-players-on-pc/"><u>[Updated] In 2024, Dive Into New Worlds Comprehensively Reviewed Top 10 VR Players on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/editing-wav-audio-a-comprehensive-guide-for-pcs-macs-and-smartphones-free-tutorial/"><u>Editing WAV Audio: A Comprehensive Guide for PCs, Macs & Smartphones - Free Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-from-wma-to-wav-a-step-by-step-guide/"><u>Effortless Conversion From WMA to WAV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-guide-how-to-change-mp4-videos-to-mpeg-video-editing-hacks-switch-from-mp4-to-mpeg-4-without-a-fuss/"><u>Effortless Conversion Guide: How to Change MP4 Videos to MPEG- # Video Editing Hacks: Switch From MP4 to MPEG-4 Without a Fuss!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-fixes-for-resolving-iso-video-playback-and-conversion-glitches-on-your-ipad/"><u>Effortless Fixes for Resolving ISO Video Playback & Conversion Glitches on Your iPad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-transformation-of-flv-files-to-html5-a-step-by-step-process/"><u>Effortless Transformation of FLV Files to HTML5 - A Step-by-Step Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensuring-encrypted-connections-addressing-and-solving-firefox-ssl-issues/"><u>Ensuring Encrypted Connections: Addressing and Solving Firefox SSL Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-clean-up-and-customize-your-windows-11-desktop/"><u>How to Clean Up and Customize Your Windows 11 Desktop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-safely-erase-hiberfilsys-from-your-windows-11-system-for-better-performance/"><u>How to Safely Erase hiberfil.sys From Your Windows 11 System for Better Performance</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-trimming-videos-will-almost-always-result-in-quality-loss-here-are-the-three-best-video-cutters-you-can-use-to-edit-videos-without-losing-/"><u>New 2024 Approved Trimming Videos Will Almost Always Result in Quality Loss. Here Are the Three Best Video Cutters You Can Use to Edit Videos without Losing Quality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-comctl32dll-file-not-found-effective-troubleshooting-steps/"><u>Resolving 'comctl32.dll' File Not Found: Effective Troubleshooting Steps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating the Use of GPT-3 at OpenAI Playground
-date: 2024-09-12T07:48:35.826Z
-updated: 2024-09-13T07:48:35.826Z
+date: 2024-09-10T16:07:39.154Z
+updated: 2024-09-17T16:23:06.574Z
 tags:
   - chatgpt
   - open-ai
@@ -47,20 +47,6 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 3. Once that's done, click **Playground** from the navigation menu at the top of the screen. It will bring you to the **Chat** mode page, with some adjustable settings in the sidebar.  
 ![Screenshot of OpenAI's Playground interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-interface-gpt3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enter a Prompt
 
  To use GPT-3, you will need to enter what's called a prompt. A prompt could be a question, an instruction, or even an incomplete sentence, to which the model will generate a completion.
@@ -68,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
  First, click on the drop-down menu under **Mode** and select **Complete**. Type your prompt into the large, empty text box, then click **Submit.** Wait a few moments for the system to process your request; before long, it will generate an answer.
 
 ![Screenshot of Complete mode interface in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-complete-mode.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also experiment with the **Edit** mode, which you can use to submit a text and check for grammatical errors.
 
@@ -89,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 ![Screenshot of OpenAI Playground prompt completion listing dog pet names.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-pet-names.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Experiment With Different Ideas and Prompts
@@ -102,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 ![Screenshot showing GPT-3 translating a phrase into five languages.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/gpt3-translate-language.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These days, AI is finding its way into all sorts of apps. You can check out [all the things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/), which, as mentioned, is an AI chatbot built by the same company and developed using the GPT-3 language model.
@@ -119,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
  Tokens are used to calculate the fees, and they are based on how many words, or groups of characters, you use in a prompt; this also includes the text result you get from GPT-3\. You can see how many tokens you use each time in the bottom right of the text box area.
 
  Tokens are then translated to dollars, of which you have $5 to spend in the first three months (previously $18). It's a strange pricing model to wrap your head around at first, but what matters is that it's more than enough to play with. When we tested it out over a couple of days, we only used $0.11 from our total.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Switch to a Different GPT Model
 
@@ -156,16 +128,16 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
  There are lots of ways that an AI language model can help you in day-to-day tasks. For more handy tools to help you write, check out the [best AI writing extensions for Google Chrome.](https://www.makeuseof.com/best-ai-writing-extensions-chrome/)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Use GPT-4 in OpenAI Playground?
@@ -174,6 +146,19 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 
 ![openai playground gpt-4 model option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-playground-gpt-4-model-option.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Among [GPT-4's best new features](https://www.makeuseof.com/best-new-gpt4-features-explained/) is the ability to submit images to the model, which it can understand, discuss, and respond to through text. It's an incredible new advancement that makes the system multi-modal.
 
  Currently, only users with access to OpenAI's GPT-4 API can use the GPT-4 model in OpenAI Playground if they've spent $0.50 or more for accounts created after August 18, 2023, or $1 or more for accounts created prior to this. Alternatively, if you have a paid subscription, you can [use GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/).
@@ -181,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
  It's becoming standard practice for companies like OpenAI to control the release of new models by using research previews and limited wait lists. It's also prioritizing access to developers who have strong ideas for how they might implement the technology in an app, for example.
 
  This is one reason why it's still worth playing around in GPT-3\. There are many people who are curious about generative AI and want to try it out for fun. So, while you wait for the latest model to become available, GPT-3 is your playground.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## OpenAI Playground: Open to Everyone
 
@@ -212,15 +190,18 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-cadencecritic-sound-evaluation-and-judgment/"><u>[New] CadenceCritic Sound Evaluation & Judgment</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-bandicam-unveiled-a-comprehensive-screen-recorder-analysis/"><u>[New] In 2024, Bandicam Unveiled A Comprehensive Screen Recorder Analysis</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-today-key-changes-for-users/"><u>[New] In 2024, Facebook Today Key Changes for Users</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dodge-scams-authentic-gpt-usage/"><u>Dodge Scams: Authentic GPT Usage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intellects-frontier-outpacing-the-turing-evaluation/"><u>Intellect's Frontier: Outpacing the Turing Evaluation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-success-harness-the-power-of-ig-data/"><u>Mastering Instagram Success Harness the Power of IG Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synthesizing-truth-and-illusion-with-ai/"><u>Synthesizing Truth & Illusion with AI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-read-receipts-how-to-know-if-your-text-has-been-seen/"><u>Understanding Read Receipts: How to Know if Your Text Has Been Seen</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/your-essential-list-of-free-high-quality-online-meeting-software-for-2024/"><u>Your Essential List of Free, High-Quality Online Meeting Software for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-total-spend-on-a-single-youtubers-ads/"><u>[New] 2024 Approved Total Spend on a Single Youtuber's Ads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tips-for-smooth-and-efficient-photo-background-blurring/"><u>[New] Tips for Smooth and Efficient Photo Background Blurring</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-transform-your-avi-images-from-video-to-graphics-using-filmora/"><u>[Updated] 2024 Approved Transform Your AVI Images From Video To Graphics Using Filmora</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bending-words-in-media-landscapes/"><u>[Updated] Bending Words in Media Landscapes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-movavis-innovation-journey-video-editor-pro-2024-review/"><u>[Updated] Inside Movavi's Innovation Journey – Video Editor Pro 2024 Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-the-art-of-mixology-a-review/"><u>ChatGPT and the Art of Mixology: A Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/curating-child-friendly-gpt-conversations-with-care-in-5-ways/"><u>Curating Child-Friendly GPT Conversations with Care in 5 Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/getting-past-blocks-solutions-for-4-common-problems/"><u>Getting Past Blocks: Solutions for 4 Common Problems</u></a></li>
+<li><a href="https://techidaily.com/meet-the-ultra-slim-mini-computer-revolutionizing-desk-space-powered-by-amd-ryzen-9-and-rtx-graphics/"><u>Meet the Ultra-Slim Mini Computer Revolutionizing Desk Space - Powered by AMD Ryzen 9 and RTX Graphics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outdoor-peril-could-tech-talk-save-the-day/"><u>Outdoor Peril? Could Tech Talk Save the Day?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionize-your-playtime-philips-evonias-49-inch-advanced-oled-gaming-monitor/"><u>Revolutionize Your Playtime: Philips Evonia's 49-Inch Advanced OLED Gaming Monitor</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-missing-mouse-icon-on-a-windows-tn-solved/"><u>Troubleshooting Your Missing Mouse Icon on a Windows ˈtɛn - Solved!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitters-without-symbols-linuss-exposed-content-trojans-demystified-and-gpt-errors-spotlighted/"><u>Twitters Without Symbols, Linus’s Exposed Content, Trojans Demystified, & GPT Errors Spotlighted</u></a></li>
 </ul></div>
 

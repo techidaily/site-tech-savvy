@@ -1,7 +1,7 @@
 ---
 title: "Inside LLMs: Revolutionizing Text Understanding"
-date: 2024-09-12T07:51:51.558Z
-updated: 2024-09-13T07:51:51.558Z
+date: 2024-09-14T16:23:16.707Z
+updated: 2024-09-17T16:12:05.823Z
 tags:
   - chatgpt
   - open-ai
@@ -41,19 +41,6 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
  Of course, having a huge database of text is one thing, but LLMs need to be trained to make sense of it to produce human-like responses. How it does this is what we cover next.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do LLMs Work?
 
  How do LLMs use these repositories to create their responses? The first step is to analyze the data using a process called deep learning.
@@ -66,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
@@ -80,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
@@ -98,19 +71,6 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
 ![woman frustrated at response from computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/woman-frustrated-at-response-from-computer.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  LLMs represent an impressive technological achievement. But the technology is far from perfect, and there are still plenty of limitations as to what they can achieve. Some of the more notable of these are listed below:
 
 1. **Contextual understanding:** We mentioned this as something LLMs incorporate into their answers. However, they don't always get it right and are often unable to understand the context, leading to inappropriate or just plain wrong answers.
@@ -121,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Examples of Popular LLMs
@@ -140,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 ### 2\. LaMDA
 
  This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. BERT
 
@@ -166,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 4. **Greater Integration**: LLMs could become personal digital assistants. Think of Siri on steroids, and you get the idea. LLMs could become virtual assistants that help you with everything from suggesting meals to dealing with your correspondence.
 
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
 
@@ -192,19 +152,15 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-overwatch-on-screen-recording-made-easy/"><u>[New] In 2024, Overwatch On-Screen Recording Made Easy</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ultimate-picks-for-affordable-video-sbs-grabbers/"><u>[Updated] 2024 Approved Ultimate Picks for Affordable Video SBS Grabbers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-future-of-fb-ads-whats-a-must-try/"><u>2024 Approved Future of FB Ads – What’s a Must-Try?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-chaos-organize-your-gpt-3-dialogues-efficiently/"><u>Deciphering the Chaos: Organize Your GPT-3 Dialogues Efficiently</u></a></li>
-<li><a href="https://solve-help.techidaily.com/download-and-install-the-ultimate-windows-media-codec-suite-for-win10win11/"><u>Download & Install the Ultimate Windows Media Codec Suite for Win10/Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easing-work-email-woes-using-chatgpt-to-write-clearly/"><u>Easing Work Email Woes: Using ChatGPT to Write Clearly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-broken-or-malfunctioning-microphone-in-turtle-beachs-elite-atlas-gaming-audio-system/"><u>How to Fix a Broken or Malfunctioning Microphone in Turtle Beach's Elite Atlas Gaming Audio System</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ignite-imagination-exploring-5-revolutionary-ai-text-generation-apps/"><u>Ignite Imagination: Exploring 5 Revolutionary AI Text Generation Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/llm-unleashed-the-powerhouse-of-language-processing/"><u>LLM Unleashed: The Powerhouse of Language Processing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-tecno-camon-20-pro-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Camon 20 Pro 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spotting-and-avoiding-fake-chatgpt-services-immediately/"><u>Spotting and Avoiding Fake ChatGPT Services Immediately</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-maximizing-your-medical-ads-on-fb-for-2024/"><u>The Ultimate Guide to Maximizing Your Medical Ads on FB for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-spoken-out-discrediting-windows-gpt-malware-myth/"><u>Truth Spoken Out: Discrediting Windows GPT Malware Myth</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-the-turing-test-and-will-it-ever-be-beaten/"><u>What Is The Turing Test And Will It Ever Be Beaten?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-stop-chrome-from-skipping-playback-of-facebook-videos/"><u>[New] In 2024, Stop Chrome From Skipping Playback of Facebook Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-innovative-strategies-for-captivating-handc-fb-campaigns/"><u>2024 Approved Innovative Strategies for Captivating H&C FB Campaigns</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-dance-tutorials-how-to-safely-download-videos-from-youtube-and-more/"><u>Free Dance Tutorials: How to Safely Download Videos From YouTube & More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-capturing-instagram-stories-from-mobile-and-desktop-devices/"><u>Guide: Capturing Instagram Stories From Mobile & Desktop Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-easily-access-and-save-films-on-solarmovie-platform/"><u>How to Easily Access and Save Films on SolarMovie Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-easily-change-mpeg-files-into-mov-without-paying-top-6-free-techniques-for-digital-editors/"><u>How to Easily Change MPEG Files Into MOV without Paying: Top 6 Free Techniques for Digital Editors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-pro-max-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 Pro Max to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-nubia-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Nubia Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-mac-issues-navigating-macos-startup-recovery-options/"><u>Quick Fixes for Mac Issues: Navigating macOS Startup Recovery Options</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stabilizing-your-motion-sensitive-cameras-a-step-by-step-guide/"><u>Stabilizing Your Motion-Sensitive Cameras A Step by Step Guide</u></a></li>
 </ul></div>
 

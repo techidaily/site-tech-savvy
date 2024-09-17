@@ -1,7 +1,7 @@
 ---
 title: "Why Caution Is Key in AI: The Top 6 Concerns"
-date: 2024-09-12T07:46:33.447Z
-updated: 2024-09-13T07:46:33.447Z
+date: 2024-09-10T16:01:17.673Z
+updated: 2024-09-17T16:06:53.181Z
 tags:
   - chatgpt
   - open-ai
@@ -34,25 +34,11 @@ AI is transforming the world as we know it, with its impact felt across every in
 
 ![chatgpt confidently wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-confidently-wrong.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Did you catch the mistake? When we called out ChatGPT on this, it quickly corrected itself. Unfortunately, while it acknowledged its mistake, this shows how AI can sometimes be completely wrong.
 
  AI chatbots have limited information but are programmed to respond either way. They rely on their training data and can also be from your interactions with machine learning. If an AI refuses to respond, it can't learn or correct itself. That's why AI is confidently wrong at times; it learns from its mistakes.
 
  While this is just the nature of AI right now, you can see how this can become a problem. Most people don't fact-check their Google searches, and it's the same here with chatbots like ChatGPT. This can lead to misinformation, and we already have plenty of that to go around—which brings us to the second point.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. It Can Easily Be Used to Manipulate Information
 
@@ -61,13 +47,6 @@ AI is transforming the world as we know it, with its impact felt across every in
  This is precisely what happened with Microsoft's Bing Chat. One user on Twitter requested show times for the new Avatar film, but the chatbot refused to provide the information, claiming the movie hadn't been released yet.
 
  Sure, you can easily write this off as a bug or a one-off mistake. However, this does not change the fact that these AI tools are imperfect, and we should proceed cautiously.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. It Can Hinder Your Creativity
 
@@ -100,10 +79,16 @@ AI is transforming the world as we know it, with its impact felt across every in
  For example, consider a chatbot that is programmed to assist customers with their queries about a product. While the chatbot may be able to answer basic questions about the product's features and specifications, it may struggle to provide personalized advice or recommendations based on the customer's unique needs and preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. It Can't Replace Human Judgment
@@ -111,16 +96,10 @@ AI is transforming the world as we know it, with its impact felt across every in
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When seeking answers to complex questions or making decisions based on subjective preferences, relying solely on AI can be risky.
@@ -130,13 +109,6 @@ AI is transforming the world as we know it, with its impact felt across every in
  For example, if you ask an AI system to choose between two books, it may recommend the one with higher ratings, but it cannot consider your personal taste, reading preferences, or the purpose for which you need the book.
 
  On the other hand, a human reviewer can provide a more nuanced and personalized review of the book by evaluating its literary value, relevance to the reader's interests, and other subjective factors that cannot be measured objectively.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Be Careful With Artificial Intelligence
 
@@ -161,20 +133,21 @@ AI is transforming the world as we know it, with its impact felt across every in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-explore-the-ultimate-list-of-free-youtube-channel-starters/"><u>[New] 2024 Approved Explore the Ultimate List of Free YouTube Channel Starters</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-enhance-engagement-top-12-tactics-for-youtube-success/"><u>[Updated] Enhance Engagement Top 12 Tactics for YouTube Success</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-virtual-venue-vaults-users/"><u>[Updated] Virtual Venue Vaults Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artists-alliance-challenging-openai-and-meta-in-court/"><u>Artists' Alliance: Challenging OpenAI and Meta in Court</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-zero-price-green-screen-resources/"><u>In 2024, Zero-Price Green Screen Resources</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-across-languages-a-guide/"><u>Mastering ChatGPT Across Languages: A Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-world-of-chatgpt-shared-linking/"><u>Navigating the World of ChatGPT Shared Linking</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-12-pro-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 Pro Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-the-youtube-playback-issue-how-to-fix-videos-that-wont-load/"><u>Solving the YouTube Playback Issue: How to Fix Videos That Won't Load</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-exporting-your-personalized-gpt-responses/"><u>Strategies for Exporting Your Personalized GPT Responses</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-complete-walkthrough-to-address-the-latest-dota-2-cheating-alert/"><u>The Complete Walkthrough to Address the Latest Dota 2 Cheating Alert</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tips-for-preventing-unwanted-android-application-activity-in-the-background/"><u>Tips for Preventing Unwanted Android Application Activity in the Background</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-chaos-into-order-chatgpt-organization-techniques/"><u>Transforming Chaos Into Order: ChatGPT Organization Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uniting-tech-giants-apples-siri-and-microsoft-writes/"><u>Uniting Tech Giants: Apple's Siri & Microsoft' Writes</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-easy-steps-to-alter-your-voice-on-the-latest-tiktok-updates/"><u>[New] 2024 Approved Easy Steps to Alter Your Voice on the Latest TikTok Updates</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-expert-insights-into-synchronizing-desktops-in-google-meet-for-2024/"><u>[New] Expert Insights Into Synchronizing Desktops in Google Meet for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-in-pursuit-of-perfection-is-black-gopro-better-than-sony-action-cam/"><u>[New] In 2024, In Pursuit of Perfection Is Black GoPro Better than Sony Action Cam?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-uncover-the-best-practices-for-video-seo-on-facebook/"><u>[New] Uncover the Best Practices for Video SEO on Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726026571405-2024/"><u>【2024年度対策】ニコニコ生放送で「タイムシフト」機能を記録・保管するテクニック</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-efficiency-upgrade-uncover-the-8-premier-facebook-timetables/"><u>2024 Approved Efficiency Upgrade Uncover the 8 Premier Facebook Timetables</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-inexpensive-aerial-aides-top-5-affordable-drones/"><u>2024 Approved Inexpensive Aerial Aides Top 5 Affordable Drones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029016473-4/"><u>最高の電話会議を実現するための4つの優れた通話録音ツール・アプリ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-0x80n0541-windows-10-updating-issue-successfully/"><u>How to Resolve the 0X80n0541 Windows 10 Updating Issue Successfully</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-10t-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme 10T 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-deepening-danger-how-generative-ais-safeguards-are-set-to-wane/"><u>The Deepening Danger: How Generative AI's Safeguards Are Set to Wane</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-instagram-stories-comprehensive-guide-to-solving-upload-issues/"><u>Troubleshooting Instagram Stories: Comprehensive Guide to Solving Upload Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-downloading-anime-from-animefreak-tv/"><u>Ultimate Guide to Downloading Anime From AnimeFreak TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-mov-files-a-comprehensive-guide-on-what-they-are-and-how-you-can-access-them/"><u>Understanding MOV Files: A Comprehensive Guide on What They Are & How You Can Access Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027749538-vlc/"><u>VLCメディアプレーヤーによるスライドショー制作の手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726026594064-windows-113/"><u>Windows 11向けスクリーン録画テクニックトップ3: [選択範囲機能を使用]</u></a></li>
 </ul></div>
 

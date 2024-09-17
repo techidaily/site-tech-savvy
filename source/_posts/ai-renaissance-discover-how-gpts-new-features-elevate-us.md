@@ -1,7 +1,7 @@
 ---
 title: "AI Renaissance: Discover How GPT’s New Features Elevate Us"
-date: 2024-09-12T07:48:04.747Z
-updated: 2024-09-13T07:48:04.747Z
+date: 2024-09-10T16:01:43.111Z
+updated: 2024-09-17T16:20:17.825Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/47328e721f28970d7edb2a0d9d90e472269e175fd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -47,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/47328e721f28970d7edb2a0d9d90e472269e175fd
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -61,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/47328e721f28970d7edb2a0d9d90e472269e175fd
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -77,29 +56,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
 
@@ -111,9 +70,29 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -133,13 +112,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
@@ -147,6 +119,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -169,19 +148,12 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-process-of-enlisting-videos-on-youtube-shelves/"><u>[New] Navigating the Process of Enlisting Videos on YouTube Shelves</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-dive-into-camtasias-ken-burns-feature-rich-tutorial/"><u>[Updated] In 2024, Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-seamless-content-engagement-configuring-picture-in-picture-mode-ios/"><u>[Updated] Seamless Content Engagement Configuring Picture-in-Picture Mode (iOS)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-studio-walkthrough-xstudio-reviewed/"><u>2024 Approved Expert Studio Walkthrough XStudio Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-spotlight-on-blurbs-captivating-podcast-intros/"><u>2024 Approved Spotlight on Blurbs Captivating Podcast Intros</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alleviating-isolation-with-ai-conversations/"><u>Alleviating Isolation with AI Conversations</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-gadget-hygiene-kit-keep-every-device-sparkling-without-breaking-the-bank/"><u>Budget-Friendly Gadget Hygiene Kit: Keep Every Device Sparkling Without Breaking the Bank</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-auto-gpt-how-it-measures-against-chatgpt/"><u>Decoding Auto-GPT - How It Measures Against ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-coaching-engaging-ai-in-psychological-support/"><u>Digital Coaching: Engaging AI in Psychological Support</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-no-cost-drives-test-suites-expert-picks-for-q3-2024/"><u>Essential No-Cost Drives Test Suites: Expert Picks for Q3 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insights-on-why-companies-are-wary-of-conversational-ai-tools/"><u>Insights on Why Companies Are Wary of Conversational AI Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/instant-image-clarity-picart-background-cleansing-hacks/"><u>Instant Image Clarity PicArt Background Cleansing Hacks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pondering-the-plodding-progress-chatgpt-4-versus-35/"><u>Pondering the Plodding Progress: ChatGPT-4 Versus 3.5</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-htc-u23-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your HTC U23 Phone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-master-the-art-of-instagram-looped-footage/"><u>[Updated] 2024 Approved Master the Art of Instagram Looped Footage</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-reels-add-sound-for-impactful-storytelling-for-2024/"><u>[Updated] Elevate Your Reels Add Sound for Impactful Storytelling for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deception-by-design-google-barda-malware-masked-as-an-update/"><u>Deception by Design? Google Bard—A Malware Masked As An Update</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/distinguished-screenplay-sampler-pack/"><u>Distinguished Screenplay Sampler Pack</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-deploy-ai-auto-gpt-your-manual/"><u>Efficiently Deploy AI (Auto-GPT): Your Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/most-effective-chatgpt-techniques-on-github-repository/"><u>Most Effective ChatGPT Techniques on GitHub Repository</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-split-trim-and-cut-avi-videos-with-these-top-notch-editors-for-2024/"><u>Updated Split, Trim, and Cut AVI Videos with These Top-Notch Editors for 2024</u></a></li>
 </ul></div>
 

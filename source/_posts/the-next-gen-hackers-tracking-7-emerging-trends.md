@@ -1,7 +1,7 @@
 ---
 title: "The Next-Gen Hackers: Tracking 7 Emerging Trends"
-date: 2024-09-12T07:46:50.538Z
-updated: 2024-09-13T07:46:50.538Z
+date: 2024-09-12T16:29:44.513Z
+updated: 2024-09-17T16:07:47.455Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/c64e4c79b7c0ed27dd9657f230788f47fff39a2fe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Increased AI-Powered Attacks
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
@@ -55,25 +48,11 @@ thumbnail: https://thmb.techidaily.com/c64e4c79b7c0ed27dd9657f230788f47fff39a2fe
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
  It's the gravity of supply chain's influence that has made it an attractive target for cybercriminals. As the demand for mass production and global shipping increases, so does the impact of hacks on supply chain systems.
 
  According to [Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats), the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Further Adoption of Zero-Trust Systems
 
@@ -86,10 +65,16 @@ thumbnail: https://thmb.techidaily.com/c64e4c79b7c0ed27dd9657f230788f47fff39a2fe
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Further Exploit of EV Security Systems
@@ -104,16 +89,16 @@ thumbnail: https://thmb.techidaily.com/c64e4c79b7c0ed27dd9657f230788f47fff39a2fe
 
  This is just one of the numerous [types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Improved Smart Home and IoT Security
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own [Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/). It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
 
@@ -122,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/c64e4c79b7c0ed27dd9657f230788f47fff39a2fe
  According to a [Statista report](https://www.statista.com/statistics/1377569/worldwide-annual-internet-of-things-attacks/), global IoT cyberattacks increased by over 243 percent between 2018 and 2022, from 32.7 million annual attacks, to a shocking 112.29 million.
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Further Exploit of Cloud Platforms
 
@@ -133,19 +125,6 @@ thumbnail: https://thmb.techidaily.com/c64e4c79b7c0ed27dd9657f230788f47fff39a2fe
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Continued Topical Email Scams
 
 ![laptop surrounded by cybersecurity buzzwords](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
@@ -155,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/c64e4c79b7c0ed27dd9657f230788f47fff39a2fe
  For instance, a scammer may email a potential victim claiming to be a representative for a charity. They provide a link to a donation page so that the recipient can provide some money for the cause. But in reality, the charity is either make-believe, or the sender is impersonating an employee from a well known charitable organization. The scammer may be looking for a one-off payment, but they could also be providing a link to a phishing site designed to steal the victim's payment details. Either way, the recipient ends up losing out.
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Each Year Brings New Cybersecurity Threats
 
@@ -186,14 +158,20 @@ thumbnail: https://thmb.techidaily.com/c64e4c79b7c0ed27dd9657f230788f47fff39a2fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-10-masterpieces-in-job-market-insight-for-2024/"><u>[New] 10 Masterpieces in Job Market Insight for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-adobes-path-to-perfection-the-premier-lut-list/"><u>[Updated] Adobe’s Path to Perfection The Premier LUT List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-decoded-for-the-curious-mind/"><u>AI Decoded for the Curious Mind</u></a></li>
-<li><a href="https://fox-links.techidaily.com/audiovisual-transition-mastery-in-adobe-premiere/"><u>Audiovisual Transition Mastery in Adobe Premiere</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breaking-through-connectivity-barriers-an-in-depth-look-at-amplifi-hds-mesh-wi-fi-and-how-it-solves-dead-zones-issues/"><u>Breaking Through Connectivity Barriers: An In-Depth Look at Amplifi HD's Mesh Wi-Fi and How It Solves Dead Zones Issues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-20-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 20 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insight-into-how-businesses-are-restricting-ai-engagement-tools/"><u>Insight Into How Businesses Are Restricting AI Engagement Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-quick-guide-to-innovative-voice-personalization-techniques/"><u>The Quick Guide to Innovative Voice Personalization Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-content-mastery-beyond-algorithmic-boundaries/"><u>Unlock Content Mastery Beyond Algorithmic Boundaries</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-pun-picture-studio-chucklecrafts/"><u>2024 Approved Pun Picture Studio ChuckleCrafts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2024-world-server-destruction-showdown-search-for-rough-and-tumble-gamers-who-brazenly-challenge-computing-power/"><u>2024 World Server Destruction Showdown: Search for Rough-and-Tumble Gamers Who Brazenly Challenge Computing Power</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rapidly-develop-dazzling-facebook-collage-designs/"><u>In 2024, Rapidly Develop Dazzling Facebook Collage Designs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-synthesize-presentation-to-video-output/"><u>In 2024, Synthesize Presentation to Video Output</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-the-eus-artificial-intelligence-act-and-its-impact-on-innovations-such-as-chatgpt/"><u>Navigating Through the EU's Artificial Intelligence Act and Its Impact on Innovations Such as ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-pc-with-sfcdsim-techniques-in-windows-11-recovery/"><u>Reviving Your PC with SFC/DSIM Techniques in Windows 11 Recovery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-the-issue-of-non-playable-tiktoks-in-browser-and-mobile-apps-a-step-by-step-guide/"><u>Solving the Issue of Non-Playable TikToks in Browser & Mobile Apps - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-recording-sound-with-your-hp-laptops-built-in-microphone-and-speakers/"><u>Step-by-Step Guide: Recording Sound with Your HP Laptop's Built-In Microphone and Speakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-setting-up-the-aspire-addon-in-kodi-nexus-and-matrix-platforms/"><u>Step-by-Step Guide: Setting Up the Aspire Addon in Kodi, Nexus & Matrix Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-for-enhancing-video-quality-to-1080p-and-60fps/"><u>Step-by-Step Tutorial for Enhancing Video Quality to 1080P & 60FPS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-that-annoying-stray-crash-bug-top-6-fixes-for-your-pc-troubles/"><u>Stop That Annoying Stray Crash Bug: Top 6 Fixes for Your PC Troubles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-avi-to-dvd-transcoder-software-for-windows-11/"><u>Top-Rated AVI to DVD Transcoder Software for Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-how-to-record-your-desktop-and-microphone-simultaneeously-on-windows-10/"><u>Ultimate Guide: How to Record Your Desktop and Microphone Simultaneeously on Windows 10</u></a></li>
 </ul></div>
 

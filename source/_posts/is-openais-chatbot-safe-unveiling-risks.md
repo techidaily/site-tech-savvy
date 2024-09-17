@@ -1,7 +1,7 @@
 ---
 title: Is OpenAI’s Chatbot Safe? Unveiling Risks
-date: 2024-09-12T07:51:33.649Z
-updated: 2024-09-13T07:51:33.649Z
+date: 2024-09-15T16:02:53.247Z
+updated: 2024-09-17T16:00:55.155Z
 tags:
   - chatgpt
   - open-ai
@@ -42,51 +42,43 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  Moreover, ChatGPT asks for minimal information. You can create an account with just your name and email address.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conversations
 
  OpenAI keeps ChatGPT conversations secure, but it reserves the right to monitor them. AI trainers continuously look for areas of improvement. Since the platform comprises vast yet limited datasets, resolving errors, bugs, and vulnerabilities requires system-wide updates.
 
  However, OpenAI can only monitor convos for research purposes. Distributing or selling them to third parties violates its own terms of use.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Public Information
 
  According to the [BBC](https://www.sciencefocus.com/future-technology/gpt-3/), OpenAI trained ChaGPT on 300 billion words. It collects data from public web pages, like social media platforms, business websites, and comment sections. Unless you’ve gone off the grid and erased your digital footprint, ChatGPT likely has your information.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Security Risks Does ChatGPT Present?
 
  While ChatGPT isn’t inherently dangerous, the platform still presents security risks. Crooks can bypass restrictions to execute various cyberattacks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Convincing Phishing Emails
 
 ![Making ChatGPT Write a Spam Email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/spam-email-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Instead of spending hours writing emails, crooks use ChatGPT. It’s fast and accurate. Advanced language models (such as GPT-3.5 and GPT-4) can produce hundreds of coherent, convincing phishing emails within minutes. They even adopt unique tones and writing styles.
 
@@ -103,22 +95,15 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  Remember: you have no control over how crooks operate. The best approach is to contact the Federal Trade Commission (FTC) once you notice [signs of identity theft](https://www.makeuseof.com/what-is-identity-theft/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Malware Production
 
 ![Lines of Codes With Different Colors on a Black Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/lines-of-code-on-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT writes usable code snippets in different programming languages. Most samples require minimal modifications to function properly, especially if you structure a concise prompt. You could leverage this feature to develop apps and sites.
 
@@ -132,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
 ![ChatGPT Writing a Code Snippet for Viruses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-code-snippet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Intellectual Property Theft
 
  Unethical bloggers spin content using ChatGPT. Since the platform runs on advanced LLMs, it can quickly rephrase thousands of words an avoid plagiarism tags.
@@ -144,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  Also, Google releases multiple core updates annually. It will soon focus on removing lazy, unoriginal AI-generated pieces from SERPs.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Generating Unethical Responses
 
  AI language models have no biases. They provide answers by analyzing user requests and pulling data from their existing database.
@@ -162,20 +147,13 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![Asking ChatGPT to Produce Harmful Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bypassing-chatgpt-limits.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The good news is [OpenAI hasn’t lost control of ChatGPT](https://www.makeuseof.com/openai-lost-control-chatgpt/). Its ongoing efforts in tightening restrictions stop ChatGPT from producing unethical responses, regardless of user input. Jailbreaking won’t be as easy moving forward.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Quid Pro Quo
 
@@ -216,19 +194,19 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-discovering-the-essence-of-excellent-screen-capture-with-recmeister/"><u>[New] Discovering the Essence of Excellent Screen Capture with Recmeister</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artistic-ambitions-meet-technological-titans-bz-and-ms-merger-and-ais-creative-potential-innovation-analysis/"><u>Artistic Ambitions Meet Technological Titans: BZ & MS Merger and AI's Creative Potential [Innovation Analysis]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-scams-in-gpt-binco-token-marketplace/"><u>Avoiding Scams in GPT-Binco Token Marketplace</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bluetooth-remotes-and-controllers-for-easy-shooting-for-2024/"><u>Bluetooth Remotes and Controllers for Easy Shooting for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-novice-to-pro-joining-and-mastering-ea-play-on-ps5/"><u>From Novice to Pro: Joining and Mastering EA Play on PS5</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A2? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-frustrating-windows-11-0xc19amo-update-issue-fixed/"><u>How to Resolve the Frustrating Windows 11 0xC19amo Update Issue [FIXED]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-nvidias-chat-with-rtx-ai-chatbot-on-your-computer/"><u>How to Use Nvidia's Chat With RTX AI Chatbot on Your Computer</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-must-have-apps-for-real-time-video-translation-for-2024/"><u>New Must-Have Apps for Real-Time Video Translation for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-realme-11-pro-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Realme 11 Pro has been deleted.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/set-up-an-economical-personal-gpt-clone-for-your-pc/"><u>Set Up an Economical, Personal GPT Clone for Your PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-mystery-behind-gptbot-and-web-blocking-policies/"><u>The Mystery Behind GPTBot & Web Blocking Policies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722995647070-why-is-my-amazon-prime-streaming-service-unresponsive-solutions-inside/"><u>Why Is My Amazon Prime Streaming Service Unresponsive? Solutions Inside!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-noir-nights-transitioning-with-pro/"><u>[New] 2024 Approved Noir Nights - Transitioning with Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-humor-picture-processor/"><u>[New] Best Humor Picture Processor</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-discover-variety-50-complimentary-youtube-banners-available/"><u>[New] In 2024, Discover Variety – 50 Complimentary YouTube Banners Available</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nveiling-the-most-innovative-free-video-editors-for-idevices/"><u>[New] Unveiling the Most Innovative Free Video Editors for iDevices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-6-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 6 to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-12r-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 12R Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-repost-photos-and-video-on-instagram/"><u>In 2024, How to Repost Photos and Video on Instagram</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-dvr-wars-tivo-and-comcast-face-off-in-a-battle-of-features-and-price-for-2024/"><u>The DVR Wars TiVo and Comcast Face Off in a Battle of Features and Price for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-step-by-step-tutorial-converting-your-movies-into-dvd-format-on-pc/"><u>Ultimate Step-by-Step Tutorial: Converting Your Movies Into DVD Format on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vobmpegmp4/"><u>VOBファイルからMPEG/MP4への効率的な変換手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-venom-stops-responding-post-update-and-how-to-solve-it/"><u>Why Venom Stops Responding Post-Update & How To Solve It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-10aacmp3/"><u>Windows 10上のAACファイルをMP3形式に容易に変換するための手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-11-media-player-issues-and-video-playback-problems/"><u>Windows 11, Media Player Issues, and Video Playback Problems.</u></a></li>
 </ul></div>
 

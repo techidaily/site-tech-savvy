@@ -1,7 +1,7 @@
 ---
 title: "Push Boundaries of Dialogue: The Undiscovered Functions in ChatGPT"
-date: 2024-09-12T07:46:52.427Z
-updated: 2024-09-13T07:46:52.427Z
+date: 2024-09-11T16:27:25.621Z
+updated: 2024-09-17T16:08:22.535Z
 tags:
   - chatgpt
   - open-ai
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2  Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs. [ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -68,19 +61,6 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
 
  Part of ChatGPT's Memory is the supposition you're talking to it about anything and everything. It gives an example of "You mention that you have a toddler and that she loves jellyfish. When you ask ChatGPT to help create her birthday card, it suggests a jellyfish wearing a party hat." That's cute, no doubt, but it's not the sort of information most folks are providing to ChatGPT regularly (at least, I assume not).
@@ -90,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024\.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Temporary Chat
@@ -102,25 +82,11 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 
  In response, OpenAI revealed ideas for [Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq), a mode that enables "a conversation with a blank slate." In Temporary Chat mode, ChatGPT won't be aware of any previous conversations or memory, but would still use your custom instructions if set. It's a little like Incognito or Private mode in a browser.
 
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4  Free Trial Invites
 
@@ -135,16 +101,10 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
@@ -168,17 +128,20 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-connoisseur-of-funimate-games/"><u>[New] From Novice to Connoisseur of Funimate Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-continuous-connection-avoiding-streak-breakers-on-snapchat-for-2024/"><u>[Updated] Continuous Connection Avoiding Streak Breakers on Snapchat for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/track-channel-growth-to-partner-status-aim-for-10000-views-for-2024/"><u>Fast-Track Channel Growth to Partner Status – Aim for 10,000 Views for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-combine-computer-imagery-like-a-pro/"><u>In 2024, Combine Computer Imagery Like a Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nokia-c12mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nokia C12Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-infinix-note-30-vip-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Infinix Note 30 VIP to New Phone | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-snipers-manual-to-capturing-live-online-music/"><u>In 2024, The Sniper’s Manual to Capturing Live Online Music</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-top-8-access-free-eco-friendly-vfx-backdrops-online/"><u>In 2024, Top 8 Access Free Eco-Friendly VFX Backdrops Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailor-made-ai-communication-crafting-your-own-model/"><u>Tailor-Made AI Communication: Crafting Your Own Model</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chatbot-challenge-snapchat-vs-bing-skype-edition/"><u>The Chatbot Challenge: Snapchat Vs. Bing Skype Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-fixing-persistent-vrchat-crashes-on-personal-computers/"><u>Ultimate Guide: Fixing Persistent VRChat Crashes on Personal Computers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-claude-2s-role-and-uses/"><u>Understanding Claude 2'S Role and Uses</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-next-gen-online-meeting-apps-azoom-no-more-for-2024/"><u>[New] Next-Gen Online Meeting Apps Azoom No More for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-masterclass-reclaiming-personal-eyes-only-images/"><u>[Updated] In 2024, Masterclass Reclaiming Personal Eyes-Only Images</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-note-12-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi Note 12 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972848032-genomic-selection-uses-molecular-markers-across-the-entire-genome-to-predict-plant-performance/"><u>Genomic Selection Uses Molecular Markers Across the Entire Genome to Predict Plant Performance.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-recover-eyes-only-snaps-a-step-by-step-guide/"><u>In 2024, How to Recover Eyes-Only Snaps A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/key-benefits-of-upgrading-free-vs-professional-version-for-video-to-audio-tools/"><u>Key Benefits of Upgrading: Free vs Professional Version for Video-to-Audio Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-youtube-content-downloads-top-6-reliable-strategies-revealed/"><u>Mastering YouTube Content Downloads: Top 6 Reliable Strategies Revealed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-sharing-power-strategies-for-uploading-oversized-videos-to-discord-without-spending-a-dime/"><u>Maximize Your Sharing Power: Strategies for Uploading Oversized Videos to Discord without Spending a Dime</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/melody-makers-best-places-for-free-skype-ringtones/"><u>Melody Makers Best Places for Free Skype Ringtones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4adobe-media-encoderand/"><u>MP4動画作りのスキルアップ：Adobe Media Encoderを使った変換&圧縮技術</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revive-your-youtube-downloads-steps-to-resolve-missing-sound-issues/"><u>Revive Your Youtube Downloads: Steps to Resolve Missing Sound Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-avchd-file-transformation-tips-and-tricks-for-perfect-media-compatibility/"><u>Seamless AVCHD File Transformation - Tips & Tricks for Perfect Media Compatibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-transition-upgrading-your-videos-from-hd-to-sd-quick-and-effective-techniques/"><u>Seamless Transition: Upgrading Your Videos From HD to SD Quick & Effective Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-insiders-look-at-chatgpt-hacks-and-their-impact-on-usage/"><u>The Insider's Look at ChatGPT Hacks and Their Impact on Usage</u></a></li>
 </ul></div>
 

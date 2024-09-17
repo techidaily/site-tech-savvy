@@ -1,7 +1,7 @@
 ---
 title: How Good Is an Algorithm at Bartending?
-date: 2024-09-12T07:48:30.567Z
-updated: 2024-09-13T07:48:30.567Z
+date: 2024-09-12T16:29:07.604Z
+updated: 2024-09-17T16:30:04.577Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Cocktails and Why ChatGPT?
 
  Anyone can pour themselves a glass of beer or wine. But cocktails are generally more difficult to get right. Hence the need for either experience in making cocktails, formal lessons teaching you the craft, or a book packed full of recipes and techniques.
@@ -42,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
  However, there is another option in the form of [ChatGPT](https://chat.openai.com/). On paper, ChatGPT should offer all the expertise offered up by Google Search as well as the ability to adapt to your needs in creative ways. After all, you can [use ChatGPT as a cooking assistant](https://www.makeuseof.com/use-chatgpt-cooking-assistant/), to help you [land a dream job](https://www.makeuseof.com/chatgpt-help-land-dream-job/), and more besides.
 
  As long as your prompts are sound, the AI chatbot should deliver. So, let's test that theory.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Testing ChatGPT's Abilities as a Bartender
 
@@ -61,17 +47,16 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
@@ -81,13 +66,20 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 ![ultimate-old-fashioned-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/ultimate-old-fashioned-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I did follow up by asking for some tweaks I could make, resulting in some ideas for variations on the Old-Fashioned for another time. This included using maple syrup instead of simple syrup (as Canadians do), using flavored whiskies rather than straight bourbon or rye, and adding smoked ingredients such as oak chips.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prompt 3: "Please Tweak a Classic Cocktail to Make It Even Better."
 
@@ -98,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
  Adding a few drops of bitters to the Pina Colada really worked, adding a bitter taste to counter the sweet creaminess of a standard mix. While it still looks the same, there is a bitterness in the background.
 
 ![pina-colada-with-a-twist-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pina-colada-with-a-twist-cocktail.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
 
@@ -131,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## So, Is ChatGPT Good at Making Cocktails?
@@ -178,21 +163,17 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-advanced-display-settings-windows-11-missing/"><u>[Fixed] Advanced Display Settings Windows 11 Missing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-elevate-your-zoom-experience-syncing-speakers-and-microphones/"><u>[New] In 2024, Elevate Your Zoom Experience Syncing Speakers & Microphones</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-trendsetters-toolkit-must-have-essentials-for-todays-innovative-professionals/"><u>[New] Trendsetters Toolkit Must-Have Essentials for Today's Innovative Professionals</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-cutting-edge-speech-to-text-googles-pathway-for-precision/"><u>[Updated] In 2024, Cutting-Edge Speech-to-Text Google’s Pathway for Precision</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-game-changer-in-the-world-of-advanced-excel-workflows/"><u>ChatGPT: A Game Changer in the World of Advanced Excel Workflows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-ai-conversations-discovering-the-power-in-triple-combination/"><u>Enhancing AI Conversations: Discovering the Power in Triple Combination</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/game-changing-ai-for-the-diy-industry-gpt-4-is-coming/"><u>Game-Changing AI for the DIY Industry: GPT-4 Is Coming</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 14 Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oneplus-nord-3-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked OnePlus Nord 3 5G Phone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-homemade-shot-strategies-the-fastest-hacks-you-need/"><u>In 2024, Top 5 Homemade Shot Strategies – The Fastest Hacks You Need</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrate-chatgpt-into-your-web-projects-effortlessly/"><u>Integrate ChatGPT Into Your Web Projects Effortlessly</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fast-forward-how-to-increase-video-playback-speed-in-quicktime-player/"><u>New In 2024, Fast Forward How to Increase Video Playback Speed in QuickTime Player</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/time-mastery-discovering-chatgpts-4-functionalities/"><u>Time Mastery: Discovering ChatGPT's 4 Functionalities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-gpt-tools-for-pdf-and-doc-interaction/"><u>Top 6 GPT Tools for PDF & Doc Interaction</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-honor-magic-vs-2-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Honor Magic Vs 2 FRP Bypass</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-hugging-face-purpose-and-uses/"><u>Unveiling Hugging Face: Purpose & Uses</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-insights-for-effective-clips-blending/"><u>[Updated] Expert Insights for Effective Clips Blending</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-10-high-quality-passport-photos-available-here/"><u>[Updated] Free 10 High-Quality Passport Photos Available Here</u></a></li>
+<li><a href="https://discover-great.techidaily.com/best-video-conversion-tools-for-samsung-galaxy-s3-a-comprehensive-guide/"><u>Best Video Conversion Tools for Samsung Galaxy S3: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-hiccups-try-these-iphone-fixes-first/"><u>ChatGPT Hiccups? Try These iPhone Fixes First</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-compromising-your-privacy-learn-how-to-withdraw-without-issues/"><u>Is ChatGPT Compromising Your Privacy? Learn How to Withdraw Without Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-search-game-the-pinnacle-of-ai-in-bing-android/"><u>Revolutionize Your Search Game: The Pinnacle of AI in Bing, Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silicon-witnesses-the-comic-side-of-computing-history-and-cybersecurity/"><u>Silicon Witnesses: The Comic Side of Computing History & Cybersecurity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-smart-workers-playbook-6-steps-for-an-ai-savvy-career-path/"><u>The Smart Worker's Playbook: 6 Steps for an AI-Savvy Career Path</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trusting-or-doubting-chatgpts-stance/"><u>Trusting or Doubting: ChatGPT's Stance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-potential-of-google-gemini-step-by-step-guide/"><u>Unlocking the Potential of Google Gemini: Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-are-the-wet-proof-ratings-for-apples-latest-iphone-model/"><u>What Are the Wet-Proof Ratings for Apple's Latest iPhone Model?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Copilot Unlocks Free, Advanced Uses for GPT-4
-date: 2024-09-12T07:48:26.708Z
-updated: 2024-09-13T07:48:26.708Z
+date: 2024-09-14T16:11:47.146Z
+updated: 2024-09-17T16:13:48.317Z
 tags:
   - chatgpt
   - open-ai
@@ -26,29 +26,9 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is GPT-4 Turbo?
 
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
 
@@ -62,13 +42,6 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
@@ -77,37 +50,36 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
  If you want to bring Copilot up faster, you can do so by pressing **Win + C**. Or, if you're lucky enough to own a [laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/), just press that to bring up the assistant at any time.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't have a Copilot button yet or use a different operating system, you can still use the [Copilot website](https://copilot.microsoft.com/). Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
  If you're on mobile, you can download the [Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or [iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445). The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
@@ -135,15 +107,17 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhancing-video-discoverability-with-smart-thumbnails/"><u>[New] In 2024, Enhancing Video Discoverability with Smart Thumbnails</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-livestream-and-record-software-face-off-obs-vs-bandicam-for-2024/"><u>[New] Livestream & Record Software Face-Off OBS vs Bandicam for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-how-to-make-reels-on-instagram/"><u>2024 Approved How to Make Reels on Instagram</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-zoom-mastering-screen-sharing-basics/"><u>2024 Approved Zoom Mastering Screen-Sharing Basics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bikes-viewing-experience-5050-of-the-ultimate-helmet-cam-tech/"><u>Bike's Viewing Experience - 50/50 of the Ultimate Helmet Cam Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-conversational-ai-drive-health-transformation/"><u>Can Conversational AI Drive Health Transformation?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-guide-to-sns-hdr-pro-and-similar-software/"><u>Comprehensive Guide to SNS HDR Pro and Similar Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-chatgpts-custom-gpts-could-expose-your-data-and-how-to-keep-it-safe/"><u>How ChatGPT's Custom GPTs Could Expose Your Data and How to Keep It Safe</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-is-device-based-artificinas-engineered-and-used/"><u>How Is Device-Based Artificinas Engineered and Used?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/skepticism-in-automated-text-summaries-why-trust-bots-less/"><u>Skepticism in Automated Text Summaries: Why Trust Bots Less?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-discerning-true-excellence-active-vs-record-leaders/"><u>[New] 2024 Approved Discerning True Excellence Active vs Record Leaders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ptimize-video-quality-with-expertise-in-studio-editor-use/"><u>[New] Optimize Video Quality with Expertise in Studio Editor Use</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-higher-engagement-a-guide-to-youtube-success/"><u>[Updated] Unlocking Higher Engagement A Guide to YouTube Success</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-elite-architects-pioneering-instagram-hlv-makers/"><u>2024 Approved Elite Architects Pioneering Instagram HLV Makers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-step-by-step-walkthrough-incorporating-subtitles-in-mp4s/"><u>2024 Approved Step-by-Step Walkthrough Incorporating Subtitles in MP4s</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-directive-creation-with-these-7-online-resources/"><u>Enhance Directive Creation with These 7 Online Resources</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-blueprint-custom-chatgpt-crafting-guide/"><u>GPT Blueprint: Custom ChatGPT Crafting Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-craft-unique-logos-using-complimentary-stock-graphics/"><u>In 2024, Craft Unique Logos Using Complimentary Stock Graphics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-exclusive-android-3d-video-enthusiasts-choice/"><u>In 2024, Exclusive Android 3D Video Enthusiasts' Choice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nondescriptive-repositories-for-intact-chatgpt-interactions/"><u>Nondescriptive Repositories for Intact ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-best-chatbot-debate-pitting-gpt-against-bing-and-googles-innovations/"><u>The Best Chatbot Debate: Pitting GPT Against Bing and Google's Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-invisible-fortress-using-nightshade-to-guard-artistic-expression/"><u>The Invisible Fortress: Using Nightshade to Guard Artistic Expression</u></a></li>
 </ul></div>
 

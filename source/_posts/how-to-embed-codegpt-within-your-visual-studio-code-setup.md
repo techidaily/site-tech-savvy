@@ -1,7 +1,7 @@
 ---
 title: How to Embed CodeGPT Within Your Visual Studio Code Setup
-date: 2024-09-12T07:45:52.690Z
-updated: 2024-09-13T07:45:52.690Z
+date: 2024-09-14T16:05:33.847Z
+updated: 2024-09-17T16:26:54.116Z
 tags:
   - chatgpt
   - open-ai
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 
 ![OpenAI API service selection page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-api-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will take you to the API homepage. In the top right corner, click on your profile and select the **View API keys** option.
 
 ![OpenAI API homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-api-key-view.jpg)
@@ -61,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 
 ![CodeGPT configuration page in VSCode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-configuration.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From this page, you can configure how CodeGPT interacts with the large language model. You can choose your **AI Provider**, **Max Tokens** for each request, and the **Model** to use. Also, when you scroll further down you can also set the **Temperature** value.
 
 **Max Tokens** help you control the length of the generated text. The **Temperature** value which is between 0 and 1 helps you control the randomness of the text in the model's output. You are not limited to OpenAI LLM. You can use any of the language models in the **AI Provider** option, provided you have their API Key.
@@ -76,27 +62,7 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 
 ![CodeGPT API command on VSCode command palette](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-command-pallete.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click on it and paste your API key on the prompt that appears. Save it by pressing **Enter**. Finally, reload VS Code to start using CodeGPT.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Generating Code With CodeGPT
 
@@ -111,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
  To generate code by chatting with CodeGPT, click on the CodeGPT chat icon on the left sidebar. This will open a chat window.
 
 ![CodeGPT chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-chat.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then input your request and click **Send**. In this case, the request is for a simple calculator. CodeGPT will process your request and generate your code in the chat window.
 
@@ -158,13 +117,6 @@ else:
 
  When you run the code it works correctly. With just a single prompt, you were able to create a simple calculator.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Refactoring Your Code With CodeGPT
 
  To refactor your code, select the code that you want to refactor, then right-click on it and select **Refactor CodeGPT**. In the **Refactor CodeGPT** dialog box, enter your prompt describing the refactoring that you want to perform. For example, you could enter "refactor this code to use [a for loop](https://www.makeuseof.com/learn-for-loops-in-python/) instead of [a while loop](https://www.makeuseof.com/learn-while-loop-in-python/)".
@@ -172,10 +124,16 @@ else:
  CodeGPT will generate new code that implements the requested refactoring.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Explaining Your Code With CodeGPT
@@ -184,14 +142,14 @@ else:
 
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  CodeGPT will explain what the code does on the chat window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Documenting Your Code Using CodeGPT
 
@@ -242,18 +200,18 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/est-5-youtube-video-editor-alternatives-for-2024/"><u>[New] Best 5 YouTube Video Editor Alternatives for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-leveraging-imovie-features-to-upgrade-your-youtube-content-quality/"><u>[New] Leveraging iMovie Features to Upgrade Your YouTube Content Quality</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-navigating-through-instagram-video-hiccups/"><u>[Updated] 2024 Approved Navigating Through Instagram Video Hiccups</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-prime-pc-emulators-for-gaming-on-retro-gb-devices/"><u>[Updated] Prime PC Emulators for Gaming on Retro GB Devices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-your-guide-to-free-non-networked-android-games/"><u>2024 Approved Your Guide to Free, Non-Networked Android Games</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-insightful-forecasts-vs-starry-readings-of-destiny/"><u>AI's Insightful Forecasts Vs. Starry Readings of Destiny</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-maximize-your-cricket-viewing-with-premium-livestreams-for-2024/"><u>How to Maximize Your Cricket Viewing with Premium Livestreams for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-your-career-trajectory-with-these-10-chatgpt-tools-on-linkedin/"><u>Maximize Your Career Trajectory with These 10 ChatGPT Tools on LinkedIn</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-fixes-resolving-catchvideo-downloading-issues-quickly-and-effectively/"><u>Simple Fixes: Resolving Catchvideo Downloading Issues Quickly and Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tapping-into-the-future-activating-beta-browser-options/"><u>Tapping Into the Future: Activating Beta Browser Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-business-success-with-claude-the-smart-ai-choice/"><u>Unlocking Business Success with Claude: The Smart AI Choice</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-y78t-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo Y78t? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlining-the-capture-process-in-competitive-rl-gaming/"><u>[New] 2024 Approved Streamlining the Capture Process in Competitive RL Gaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-cost-effective-cams-for-everyday-use/"><u>Discover Cost-Effective Cams for Everyday Use</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-a2plus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi A2+ Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-download-guide-installing-the-hevc-codec-on-windows-10/"><u>Free Download Guide: Installing the HEVC Codec on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-a-limited-time-key-for-the-ultimate-softpedia-wonderfox-dvd-ripper-software/"><u>Get a Limited-Time Key for the Ultimate SOFTPEDIA WonderFox DVD Ripper Software!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oneplus-11rmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can OnePlus 11RMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-legally-secure-your-favorite-afreecatv-shows-for-personal-use-top-tools-revealed/"><u>How To Legally Secure Your Favorite AfreecaTV Shows for Personal Use - Top Tools Revealed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/html5/"><u>HTML5ビデオファイルのダウンロードと保存手順ガイド</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-14-pro-max-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 14 Pro Max to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipadiphonemovmp4pc/"><u>IPad/iPhoneのMOV/MP4ファイルをPCに転送して再生する方法 - 互換性改善ステップ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4-movie-converter-universal-device-compatibility-transform-movies-effortlessly/"><u>MP4 Movie Converter: Universal Device Compatibility - Transform Movies Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-update-error-code-0x8024800c/"><u>Tackling Windows Update Error Code: 0X8024800C</u></a></li>
 </ul></div>
 

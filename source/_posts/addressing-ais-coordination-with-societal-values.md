@@ -1,7 +1,7 @@
 ---
 title: Addressing AI's Coordination with Societal Values
-date: 2024-09-12T07:49:01.653Z
-updated: 2024-09-13T07:49:01.653Z
+date: 2024-09-16T16:12:19.092Z
+updated: 2024-09-17T16:26:53.003Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The AI Control Problem Explained
 
  The AI control problem is the idea that AI will eventually become better at making decisions than humans. In accordance with this theory, if humans don't set things up correctly beforehand, we won't have a chance to fix things later, meaning AI will have effective control.
@@ -47,36 +40,15 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
  If an AI system were to surpass human intelligence without the proper safeguards, the result could be catastrophic. Such systems could assume control of physical resources as many tasks are achieved better or more efficiently. Since AI systems are designed to achieve maximum efficiency, losing control could lead to severe consequences.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When Does the AI Control Problem Apply?
 
  The main problem is that the better an AI system gets, the harder it is for a human supervisor to monitor the technology to ensure manual control can be taken over easily should the system fail. Additionally, the human tendency to rely on an automated system is higher when the system performs reliably most of the time.
 
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A great example of this is the [Tesla Full-Self Driving (FSD) suite](https://www.makeuseof.com/what-is-tesla-fsd-how-does-it-work/). While the car can drive itself, it requires a human to have their hands on the steering wheel, ready to take control of the car should the system malfunction. However, as these AI systems get more reliable, even the most alert human's attention will begin to vary, and dependency on the autonomous system will increase.
 
  So what happens when cars start driving at speeds humans can't keep up with? We'll end up surrendering control to the car's autonomous systems, meaning an AI system will be in control of your life, at least until you reach your destination.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can the AI Control Problem Be Solved?
 
@@ -91,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
  The DCAF approach always puts a human operator at the helm of an automated system, ensuring that their input controls the most important parts of the system's decision-making process. If a system is engaging enough for a human operator to pay attention constantly, the control problem can be solved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can We Ever Truly Control AI?
@@ -122,18 +100,15 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-exploring-digital-worlds-vr-explained/"><u>[New] Exploring Digital Worlds VR Explained</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-is-picku-the-best-photo-editor-for-android-our-in-depth-review/"><u>[Updated] In 2024, Is PickU The Best Photo Editor for Android? Our In-Depth Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/audio-enthusiasts-guide-to-the-best-10-spotify-recorders/"><u>Audio Enthusiast's Guide to the Best 10 Spotify Recorders</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/boost-your-instagram-with-easily-shareable-gifs-step-by-step-for-2024/"><u>Boost Your Instagram with Easily Shareable GIFs (Step-by-Step) for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/detailed-guides-on-tech-gadgets-by-toms-hardware-experts/"><u>Detailed Guides on Tech Gadgets by Tom's Hardware Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-bavarder-integration-for-linux-aficionados/"><u>Effortless Bavarder Integration for Linux Aficionados</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-echoes-of-intelligence-gpt-vs-bingbot-overview/"><u>Engaging with Echoes of Intelligence: GPT Vs. BingBot Overview</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gain-superior-insights-with-free-copilot-on-turbo/"><u>Gain Superior Insights with Free Copilot on Turbo</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-12-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Xiaomi Redmi 12 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-12frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi 12FRP Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paving-way-to-master-generative-ai-ideas/"><u>Paving Way to Master Generative AI Ideas</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/premium-hd-video-replay-devices-for-2024/"><u>Premium HD Video Replay Devices for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastery-in-making-gifs-into-stickers-on-messaging-platforms-with-this-guide/"><u>[New] Mastery in Making Gifs Into Stickers on Messaging Platforms with This Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-embrace-xps-film-editor-installation-guide/"><u>[Updated] In 2024, Embrace XP's Film Editor Installation Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-floating-frames-the-ultimate-guide-to-pip-with-netflix/"><u>2024 Approved Floating Frames The Ultimate Guide to PIP with Netflix</u></a></li>
+<li><a href="https://article-tips.techidaily.com/avoid-delays-swift-time-lapse-recording-on-iphone/"><u>Avoid Delays Swift Time-Lapse Recording on iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-ais-role-in-crafting-prompts-and-job-market-adaptability/"><u>Delving Into AI's Role in Crafting Prompts & Job Market Adaptability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-elevate-your-ai-experience-free-powerful-and-smart-with-gpt-4-and-copilot/"><u>Effortlessly Elevate Your AI Experience: Free, Powerful and Smart with GPT-4 & Copilot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-fault-lines-ai-shortcomings-in-financial-forecasting/"><u>Essential Fault Lines: AI Shortcomings in Financial Forecasting</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/pdf-printing-woes-master-the-art-of-quick-and-effective-solutions/"><u>PDF Printing Woes? Master the Art of Quick and Effective Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-productivity-ai-integration-into-docs-and-spreadsheets/"><u>Unleashing Productivity: AI Integration Into Docs & Spreadsheets</u></a></li>
 </ul></div>
 

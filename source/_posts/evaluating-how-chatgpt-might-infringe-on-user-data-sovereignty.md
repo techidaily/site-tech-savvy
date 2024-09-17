@@ -1,7 +1,7 @@
 ---
 title: Evaluating How ChatGPT Might Infringe on User Data Sovereignty
-date: 2024-09-12T07:46:13.062Z
-updated: 2024-09-13T07:46:13.062Z
+date: 2024-09-14T16:15:17.714Z
+updated: 2024-09-17T16:00:52.002Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does ChatGPT Gather Data?
 
  If you've ever interacted with other chatbots, you know that none of them can really compare to ChatGPT, which is actually capable of generating human-like responses. But why is ChatGPT so much better than other similar software?
@@ -51,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
 ![ChatGPT logo on dark purple background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-policy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  How much data does OpenAI collect from ChatGPT users directly, and how? The service's [privacy policy](https://openai.com/policies/privacy-policy) offers some answers.
 
  ChatGPT collects different types of [Personally Identifiable Information (PII)](https://www.makeuseof.com/what-is-personally-identifiable-information/), which is data that could be used to identify a user. This includes the information users themselves provide when they sign up: account information (e.g. credentials, credit card info), communication information (if you communicate with OpenAI; the support team, for example), and social media information (if you interact with ChatGPT on its social media pages).
@@ -68,28 +54,15 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the [FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
 
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Register With a Private Email
@@ -100,29 +73,22 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Delete Your Information
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the [California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/). So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is It Time to Regulate ChatGPT?
 
  After Italy broke the ice, talks of regulating ChatGPT and other AI products intensified. In April 2023, the European Data Protection Board (an independent European Union body that enforces GDPR) set up a task force to explore potential regulatory measures. Governments of several EU member states did the same, per [Reuters](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/).
 
  Around the same time, the National Telecommunications and Information Administration in the United States began looking at the possibility of regulating artificial intelligence, and it's safe to assume governments around the world will take similar regulatory action in the years to come. Some fear excessive regulation could stifle progress, so it's more than likely the debates will continue as the world tries to navigate this landscape.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly
 
@@ -147,17 +113,21 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-discover-the-leading-cover-photo-makers-for-facebook-profiles-for-2024/"><u>[New] Discover the Leading Cover Photo Makers for Facebook Profiles for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-foodie-frenzy-elite-tiktok-cooks/"><u>[Updated] Foodie Frenzy Elite TikTok Cooks</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-read-only-settings-for-windows-folders/"><u>Bypassing Read-Only Settings for Windows Folders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gauging-ai-as-a-partner-in-penning-stories/"><u>Gauging AI as a Partner in Penning Stories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-do-these-apps-leverage-gpt-4-technology/"><u>How Do These Apps Leverage GPT-4 Technology?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/superior-ai-collaboration-select-the-best-tools-for-prompts/"><u>Superior AI Collaboration: Select the Best Tools for Prompts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-top-ranking-lock-screen-enhancers-for-android-devices/"><u>The Ultimate List of Top-Ranking Lock Screen Enhancers for Android Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformative-tabletop-experience-with-gpt-powered-imagination-boosting/"><u>Transformative Tabletop Experience with GPT-Powered Imagination Boosting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-ideas-into-reality-with-openai-tools/"><u>Transforming Ideas Into Reality with OpenAI Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-from-webm-to-mp4-top-10-converters-for-smooth-video-playback-for-2024/"><u>Updated From WebM to MP4 Top 10 Converters for Smooth Video Playback for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-writers-programs-ignore-errors/"><u>Why Writers Programs Ignore Errors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-live-streaming-software-vs-hardware-which-is-better-in-2024/"><u>[Updated] Live Streaming Software Vs Hardware Which Is Better, In 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-premium-selection-of-webinar-technologies-for-2024/"><u>[Updated] Premium Selection of Webinar Technologies for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725289220421-pc-10/"><u>失敗しない！ディスクをPCに取り込み、保存する方法 ウインドウズ 10用ガイド</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/deathloop-freezing-problems-on-pc-and-ps5-effective-solutions-to-unfreeze-your-gameplay/"><u>Deathloop Freezing Problems on PC & PS5 - Effective Solutions to Unfreeze Your Gameplay</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-se-2020-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone SE (2020) With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-setting-up-diggz-xenon-plus-and-a-complimentary-add-on-with-kodi-matrix-v19/"><u>Step-by-Step Tutorial: Setting Up Diggz Xenon Plus and a Complimentary Add-On with Kodi Matrix V19</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-converting-and-sharing-videos-from-youtube-to-tiktok/"><u>The Ultimate Guide to Converting and Sharing Videos From YouTube to TikTok</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-no-cost-mts-video-format-changer-transform-your-videos-into-mov-mp4-and-more-in-high-definition/"><u>Top No-Cost MTS Video Format Changer: Transform Your Videos Into MOV, MP4 & More in High Definition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-recommended-tools-for-downloading-content-from-myvidster-a-comprehensive-guide/"><u>Top Recommended Tools for Downloading Content From MyVidster: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transcoding-tvs-files-to-mp4-format-using-teamviewer-and-wonderfox-video-tools/"><u>Transcoding TVS Files to MP4 Format Using TeamViewer & WonderFox Video Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-avi-videos-into-high-quality-compact-h265-format-a-step-by-step-guide/"><u>Transforming AVI Videos Into High-Quality, Compact H.265 Format: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshoot-vlc-record-function-top-10-solutions-for-resolving-recording-issues/"><u>Troubleshoot VLC Record Function: Top 10 Solutions for Resolving Recording Issues!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964479111-unbeatable-deal-on-the-montech-air-903-max-pc-case-with-top-tier-airflow-and-quad-fans-just-69/"><u>Unbeatable Deal on the Montech Air 903 Max PC Case with Top-Tier Airflow & Quad Fans – Just $69!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncovering-the-serial-and-model-numbers-on-your-macbook/"><u>Uncovering the Serial and Model Numbers on Your MacBook</u></a></li>
 </ul></div>
 

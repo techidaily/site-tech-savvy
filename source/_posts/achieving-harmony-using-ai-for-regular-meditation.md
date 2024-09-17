@@ -1,7 +1,7 @@
 ---
 title: "Achieving Harmony: Using AI for Regular Meditation"
-date: 2024-09-12T07:48:54.973Z
-updated: 2024-09-13T07:48:54.973Z
+date: 2024-09-11T16:26:11.146Z
+updated: 2024-09-17T16:21:47.330Z
 tags:
   - chatgpt
   - open-ai
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/f07bcde69983933cb76ff9d178455e2b69ef74b8f
 
 ![Screenshot of a ChatGPT response to asking questions about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-asking-questions-about-meditation.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, you must exercise caution when interacting with ChatGPT about such issues. When I asked about depression and meditation, the first line of the ChatGPT answer was, “I'm not a mental health professional, but I can provide some general information about the potential benefits of meditation for mental health.” Here’s [how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
 ## 3\. Use ChatGPT to Help Identify Your Intentions for the Meditation Session
@@ -71,32 +64,12 @@ thumbnail: https://thmb.techidaily.com/f07bcde69983933cb76ff9d178455e2b69ef74b8f
 
 ![Screenshot of a ChatGPT response to meditation intentions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-intentions.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try to frame your intentions positively, with statements such as:
 
 * I aim to find inner joy.
 * I intend to calm my mind and relax.
 
  It can be helpful to write down any useful suggestions you receive for future reference.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Start Your Meditation Session Using ChatGPT
 
@@ -108,20 +81,13 @@ thumbnail: https://thmb.techidaily.com/f07bcde69983933cb76ff9d178455e2b69ef74b8f
 
 ![Screenshot of a ChatGPT response to meditation session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-session.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Because ChatGPT is a text-based service, it won’t lead you through a session as you would expect from a [meditation app like Insight Timer](https://www.makeuseof.com/deep-dive-into-insight-timer-meditation-app/), the [meditation and mindfulness app Calm](https://www.makeuseof.com/meditating-calm-app-improve-mindfulness/), or even a teacher. Instead, you’ll receive a list of ideas to work with, and you can consider which approaches might work best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reflect Mindfully on Responses and Ask Further Questions for Clarity
@@ -132,9 +98,29 @@ thumbnail: https://thmb.techidaily.com/f07bcde69983933cb76ff9d178455e2b69ef74b8f
 
 ![Screenshot of a ChatGPT response refining answers about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-refining-answers-about-meditation.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Apply the ChatGPT Advice in Your Meditation Session
 
  Practice some of the suggestions, using everything you have learned from your interactions with ChatGPT.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Conclude Your Meditation Session With Breathing Exercises
 
@@ -145,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/f07bcde69983933cb76ff9d178455e2b69ef74b8f
 ![Screenshot of a ChatGPT response to breathing exercise question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-breathing-exercise-question.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Set Future Goals Using ChatGPT for Guidance
@@ -163,21 +149,7 @@ thumbnail: https://thmb.techidaily.com/f07bcde69983933cb76ff9d178455e2b69ef74b8f
 
 ![Screenshot of a ChatGPT response to setting meditation goals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-setting-meditation-goals.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, you can combine these answers with advice from other sources, such as our list of [meditation apps to help you pause for a mindful moment on the go](https://www.makeuseof.com/meditation-apps-mindful-moment-on-go/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Can Be a Useful Tool to Help You Develop a Regular Meditation Habit
 
@@ -204,13 +176,21 @@ thumbnail: https://thmb.techidaily.com/f07bcde69983933cb76ff9d178455e2b69ef74b8f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-self-verification-on-instagram-does-it-serve-us-for-2024/"><u>[New] Self-Verification on Instagram Does It Serve Us for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-film-enhancements-15-best-luts-to-boost-gopro-cinematography/"><u>[Updated] In 2024, Film Enhancements 15 Best LUTs to Boost GoPro Cinematography</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-plant-and-play-stardew-esque-gaming-winners-for-2024/"><u>[Updated] Plant and Play Stardew-Esque Gaming Winners for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-video-studio-analysis-comprehensive-xreview-guide/"><u>2024 Approved In-Depth Video Studio Analysis Comprehensive XReview Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-complexities-how-do-these-7-apps-function-with-gpt-4/"><u>Deciphering the Complexities: How Do These 7 Apps Function with GPT-4?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminate-your-game-setup-errors-with-proven-solutions-from-origin-games-support/"><u>Eliminate Your Game Setup Errors with Proven Solutions From Origin Games Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-text-via-ai-editing/"><u>Enhancing Text via AI Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harmonizing-lifes-symphony-with-ai-guided-meditations/"><u>Harmonizing Life's Symphony with AI-Guided Meditations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-top-8-ultra-sharp-5k-display-choices/"><u>[New] In 2024, Top 8 Ultra-Sharp 5K Display Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-3dlut-for-dynamic-video-and-image-adjustments/"><u>[Updated] 3DLUT for Dynamic Video & Image Adjustments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-practical-steps-for-disabling-youtube-channels-on-devices/"><u>[Updated] Practical Steps for Disabling YouTube Channels on Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleash-creative-potential-using-storyremix-for-windows-11s-photo-videos-for-2024/"><u>[Updated] Unleash Creative Potential Using StoryRemix for Windows 11'S Photo Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-bots-collide-who-will-outshine-gpt-plus-or-perplexity/"><u>AI Bots Collide: Who Will Outshine, GPT Plus Or Perplexity?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-unlocks-free-advanced-uses-for-gpt-4/"><u>Copilot Unlocks Free, Advanced Uses for GPT-4</u></a></li>
+<li><a href="https://games-able.techidaily.com/could-macos-be-the-next-big-thing-in-gaming/"><u>Could MacOS Be the Next Big Thing in Gaming?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/get-the-perfect-blur-top-bokeh-apps-for-ios-and-android-for-2024/"><u>Get the Perfect Blur Top Bokeh Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-series-progress-the-upcoming-gpt-5-release-date/"><u>GPT-Series Progress: The Upcoming GPT-5 Release Date?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-good-is-an-algorithm-at-bartending/"><u>How Good Is an Algorithm at Bartending?</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nubia-red-magic-9-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/law-and-ai-navigating-chatgpts-legal-impact/"><u>Law & AI: Navigating ChatGPT's Legal Impact</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/nombre-a-entender-60-animales-en-espanol/"><u>Nombre a Entender: 60 Animales en Español</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-brush-in-the-cloud-crafting-vivid-ai-art-with-gpt/"><u>The Brush in the Cloud: Crafting Vivid AI Art with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truth-unveiled-falsehood-of-win-chatgpt-client-malware/"><u>Truth Unveiled: Falsehood of Win ChatGPT Client Malware</u></a></li>
 </ul></div>
 

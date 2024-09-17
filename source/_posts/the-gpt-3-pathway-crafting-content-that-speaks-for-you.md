@@ -1,7 +1,7 @@
 ---
 title: "The GPT-3 Pathway: Crafting Content That Speaks for You"
-date: 2024-09-12T07:46:28.252Z
-updated: 2024-09-13T07:46:28.252Z
+date: 2024-09-15T16:26:20.247Z
+updated: 2024-09-17T16:30:05.668Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Ways to Teach ChatGPT to Write Like You
 
  To get started, we'll assume the persona of a detail-oriented author who uses a lively, engaging tone, provides detailed, accessible explanations, make liberal use of analogies, and address the reader directly throughout their text. The author also has a knack for using analogies to explain key concepts. [Here's a sample of the author's work](https://www.makeuseof.com/how-does-chatgpt-work/).
@@ -50,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
  Both options require a different approach, which you can check out below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Training ChatGPT With Samples of Your Work
 
  To train ChatGPT with samples of your work, head over to ChatGPT and use the prompt below, immediately followed by a sample of your written work that best captures your writing style.
@@ -66,19 +52,6 @@ Extract the writing style in the text provided below. Please study the tone, wor
  After using the prompt above, you should get a result similar to this:
 
 ![Result of writing Style extraction by ChatGPT-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/result-of-writing-style-extraction-by-chatgpt-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Of course, one sample might not be enough to thoroughly capture every aspect of your writing style. So, you can repeat the prompt above with three to five more samples within the same ChatGPT conversation. After iterating through the number of samples you wish to use, you can then use the prompt below to unify the extracted styles.
 
@@ -114,13 +87,6 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
 
  Another advantage of using a PPM is the flexibility and portability it offers. You can easily tweak the writing style with precision by hanging a few words. You can also use the PPM in a different AI chatbot like Claude AI or Google Bard. We used the PPM above [on the Claude AI chatbot](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/) and asked it to give it a topic to write. It was able to replicate as many of the stylistic elements used by the target author as possible.
@@ -128,17 +94,10 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make ChatGPT Work for You
@@ -164,14 +123,21 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/accelerated-photography-browser-for-11-os-users-for-2024/"><u>Accelerated Photography Browser for 11 OS Users for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/climate-denial-and-the-role-of-media-bias-explored/"><u>Climate Denial and the Role of Media Bias Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dungeon-masters-aide-de-camp-unleashing-potential-with-chatgpt/"><u>Dungeon Masters' Aide-De-Camp: Unleashing Potential with ChatGPT</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17t-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17t Bootloader Easily</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-guide-to-recording-high-quality-audio/"><u>In 2024, Professional Guide to Recording High-Quality Audio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-smart-screenshot-assembly-leading-androidiphone-montage-aids/"><u>In 2024, Smart Screenshot Assembly Leading Android/iPhone Montage Aids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/plug-in-with-ease-integrating-new-extensions-into-chatgpt/"><u>Plug in with Ease - Integrating New Extensions Into ChatGPT</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tackling-sync-issues-between-your-phone-and-chromecast-audio-with-easy-fixes/"><u>Tackling Sync Issues Between Your Phone and Chromecast Audio with Easy Fixes</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-quicktime-video-editing-for-mac-users-a-step-by-step-tutorial/"><u>Updated In 2024, QuickTime Video Editing for Mac Users A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-uncovering-8-affordable-platform-agnostic-virtual-communication-tools/"><u>[New] 2024 Approved Uncovering 8 Affordable, Platform-Agnostic Virtual Communication Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-leveraging-obs-for-smooth-streaming-mac-and-pc-users-guide-for-2024/"><u>[Updated] Leveraging OBS for Smooth Streaming Mac & PC Users' Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-make-every-minute-count-with-these-15-engaging-activities-while-listening-to-podcasts/"><u>[Updated] Make Every Minute Count with These 15 Engaging Activities While Listening to Podcasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-resolution-horizons-an-in-depth-look-at-the-asus-mg28uq/"><u>2024 Approved High-Resolution Horizons An In-Depth Look at the ASUS MG28UQ</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquering-wsappx-a-step-by-score-approach-to-lowering-your-computers-resource-demands/"><u>Conquering WSAPPX: A Step-by-Score Approach to Lowering Your Computer's Resource Demands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-guide-enjoy-your-favorite-tunes-on-kindle-fire-with-mp3-player-apps/"><u>Easy Guide: Enjoy Your Favorite Tunes on Kindle Fire with MP3 Player Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/editing-wav-audio-a-comprehensive-guide-for-pcs-macs-and-smartphones-free-tutorial/"><u>Editing WAV Audio: A Comprehensive Guide for PCs, Macs & Smartphones - Free Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-from-wma-to-wav-a-step-by-step-guide/"><u>Effortless Conversion From WMA to WAV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-guide-how-to-change-mp4-videos-to-mpeg-video-editing-hacks-switch-from-mp4-to-mpeg-4-without-a-fuss/"><u>Effortless Conversion Guide: How to Change MP4 Videos to MPEG- # Video Editing Hacks: Switch From MP4 to MPEG-4 Without a Fuss!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-fixes-for-resolving-iso-video-playback-and-conversion-glitches-on-your-ipad/"><u>Effortless Fixes for Resolving ISO Video Playback & Conversion Glitches on Your iPad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-transformation-of-flv-files-to-html5-a-step-by-step-process/"><u>Effortless Transformation of FLV Files to HTML5 - A Step-by-Step Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-peak-performance-updating-your-canon-pixma-mx922-driver-for-windows-operating-systems/"><u>Ensure Peak Performance: Updating Your Canon PIXMA MX922 Driver for Windows Operating Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-intricacies-of-videos-using-the-frame-by-frame-function-in-vlc-media-player/"><u>Explore the Intricacies of Videos Using the Frame-by-Frame Function in VLC Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pc-awakening-guide-navigating-windows-8-revival-strategies/"><u>PC Awakening Guide: Navigating Windows' 8 Revival Strategies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-m34-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy M34 Location | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-users-rejoice-solve-your-bluetooth-mouse-malfunction-dilemma-today/"><u>Windows Users Rejoice: Solve Your Bluetooth Mouse Malfunction Dilemma Today</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Script to Speech: Forge Your Own ChatGPT Journey"
-date: 2024-09-12T07:47:20.504Z
-updated: 2024-09-13T07:47:20.504Z
+date: 2024-09-13T16:21:32.035Z
+updated: 2024-09-17T16:05:59.452Z
 tags:
   - chatgpt
   - open-ai
@@ -36,27 +36,7 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 ![My GPTs in the Explore tab of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/my-gpts-in-the-explore-tab-of-chatgpt.jpg)
 2. Choose **Create a GPT** to open the GPT Builder's interface.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  At the time of writing, "Create a GPT" is still in beta. This means not all features are fully online, and the product isn't finished. Bear this in mind while building your GPT and prepare to encounter issues. Also, it's possible that your finished GPT may be erased when a future update comes knocking.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Give Your GPT a Primary Description and a Picture
 
@@ -68,21 +48,7 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can manually change the image, name, description, and instructions for your GPT by clicking **Configure**. Click the profile picture to change it, and edit the details in the **Name** **Description** and **Instructions** fields to change them without typing prompts.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Establish a Tone and Rules for Your GPT
 
@@ -102,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 
 ![GPT Dungeon Master giving information on how to build a character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-dungeon-master-giving-information-on-how-to-build-a-character.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you find that it's not fulfilling your instructions as well as you want, go back to the **Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
 
 ## 4\. Upload Files as a Knowledge Base
@@ -122,16 +81,22 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 3. Click **Upload files** and add files from your computer.  
 ![GPT Knowledge source documents uploading in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-knowledge-source-documents-uploading-in-gpt-builder.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
 
  If, for instance, you were trying to make a GPT that is an expert in Florida tax laws, you would get all the Florida tax legal documents you can find and upload them here to form a knowledge base your GPT can work with.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add or Remove Capabilities
 
@@ -147,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 2. Toggle **Web Browsing**, **DALL-E Image Generation**, and **Code Interpreter** on or off.  
 ![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add APIs for Third-Party Services
 
  For those interested in using APIs to access other third-party services in their GPTs, you'll be happy to know that it's possible.
@@ -157,18 +129,18 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 4. **Optional:** Scroll down and enter an authentication method and privacy policy.
 5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Go back when you're finished.
 
  If you don't enter a valid privacy policy, you won't be allowed to share your GPT with the public.
 
  Currently, you seem to be able to add only one action at a time. If you click the **Examples** dropdown menu, you'll see a few examples of schemas OpenAI has added to aid in creating your own schema.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Configure Conversation Starters
 
@@ -180,10 +152,10 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 ![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can add more conversation starters as required.
@@ -197,13 +169,6 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
  While it won't make any difference, for now, you can choose whether you'd like to publish to the public, via links, or only to yourself. None of the sharing options work, by the way. We have to wait for an update. But, if you want friends to use your AI, return to ChatGPT's home, open the GPT's chat, and copy the URL in your browser's address bar.
 
  If you click the pencil icon in the share menu, you'll enter your builder profile, where you can change your GPT and profile options when this feature is fully released.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT's Limitations Still Apply to GPT Builder
 
@@ -230,21 +195,16 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-navigating-the-world-of-pc-screencasters-with-ease/"><u>[New] 2024 Approved Navigating the World of PC Screencasters with Ease</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-capture-cinematic-moments-seamlessly-across-pcs-and-smartphones-for-2024/"><u>[New] Capture Cinematic Moments Seamlessly Across PCs & Smartphones for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-comparing-apowersoft-and-more-a-screen-capture-deep-dive-for-2024/"><u>[New] Comparing Apowersoft & More A Screen Capture Deep Dive for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-recognizing-unseen-snaps-on-social-network/"><u>[Updated] 2024 Approved Recognizing Unseen Snaps on Social Network</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-future-insight-alternate-pathways/"><u>[Updated] In 2024, Future Insight Alternate Pathways</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-overview-of-the-netgear-wireless-range-extender-ac120amplifies-your-internet-experience-ex6200/"><u>Comprehensive Overview of the Netgear Wireless Range Extender AC120amplifies Your Internet Experience (EX6200)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-do-these-7-gpt-4-integrated-apps-operate/"><u>How Do These 7 GPT-4 Integrated Apps Operate?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-gpt-4-transcends-beyond-gpt-35s-capabilities/"><u>How GPT-4 Transcends Beyond GPT-3.5's Capabilities</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-potential-with-chatgpt-insights-from-a-writers-perspective/"><u>Maximizing Potential with ChatGPT: Insights From a Writer's Perspective</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-with-filmora-x-you-can-create-such-transparent-background-reaction-videos-without-such-expensive-material/"><u>New 2024 Approved With Filmora X, You Can Create Such Transparent Background Reaction Videos without Such Expensive Material</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfecting-your-cookies-the-right-fats-balance/"><u>Perfecting Your Cookies: The Right Fats Balance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tapping-into-dream-careers-with-artificial-intelligence/"><u>Tapping Into Dream Careers with Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-real-deal-with-ai-chatgpts-8-key-problem-areas/"><u>The Real Deal with AI: ChatGPT's 8 Key Problem Areas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-codegpts-secrets-can-it-craft-code/"><u>Unlocking CodeGPT's Secrets: Can It Craft Code?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/reakthrough-tools-an-analysis-of-the-top-10-cost-effective-video-design-schools-on-youtube-for-2024/"><u>[New] Breakthrough Tools An Analysis of the Top 10 Cost-Effective Video Design Schools on YouTube for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-capture-in-action-detailed-analysis-of-apowersoft-on-pcs/"><u>[Updated] 2024 Approved Capture in Action Detailed Analysis of Apowersoft on PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-pc-with-these-26-premier-free-registry-cleaning-utilities/"><u>Enhance Your PC with These 26 Premier Free Registry Cleaning Utilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-tips-quick-and-simple-methods-for-slicing-through-ogg-media-tracks/"><u>Expert Tips: Quick and Simple Methods for Slicing Through OGG Media Tracks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/finding-love-in-the-digital-age-ai-assisted-dating-with-chatgpt-unleashed/"><u>Finding Love in the Digital Age: AI-Assisted Dating with ChatGPT Unleashed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-good-morning-wallpapers-pc-laptop-and-mobile-downloads/"><u>Free Good Morning Wallpapers: PC, Laptop & Mobile Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-effortlessly-upload-mp3-tracks-onto-youtube-without-spending-a-penny/"><u>How to Effortlessly Upload MP3 Tracks Onto YouTube Without Spending a Penny</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-take-a-screenshot-of-uac-prompts-on-windows/"><u>How to Take a Screenshot of UAC Prompts on Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone XS Max</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207645731-keyboard-stutter-on-windows-10-heres-how-you-can-fix-it/"><u>Keyboard Stutter on Windows 10? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iuocquodvoodkoodvoocpuocqeodgplusodgeobruodlplusodroocpowlleeuuplusiomommsjrmnidpq5jnllvos6rjgqzjgqtjg4ki/"><u>オーバーウォッチのプレイ動画記録:最高画質ガイド</u></a></li>
 </ul></div>
 

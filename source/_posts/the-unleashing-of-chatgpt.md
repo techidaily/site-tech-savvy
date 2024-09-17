@@ -1,7 +1,7 @@
 ---
 title: The Unleashing of ChatGPT
-date: 2024-09-12T07:49:54.567Z
-updated: 2024-09-13T07:49:54.567Z
+date: 2024-09-11T16:27:02.849Z
+updated: 2024-09-17T16:18:40.911Z
 tags:
   - chatgpt
   - open-ai
@@ -30,29 +30,9 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Understanding How ChatGPT Works
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Before we can get a clear picture of how much OpenAI is losing control of ChatGPT, we must first understand [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) .
 
@@ -64,23 +44,9 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is ChatGPT Too Powerful for Its Own Good?
 
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
 
@@ -93,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
  Take a look at some examples below. If you ask ChatGPT how to cheat in exams, it will not produce any helpful response.
 
 ![How to cheat in an exams by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-cheat-in-an-exams.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
 
@@ -125,24 +84,18 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent [ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
 
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can OpenAI Put ChatGPT Under Control?
 
@@ -165,20 +118,17 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-curbing-inertia-in-high-altitude-cinematography/"><u>[New] In 2024, Curbing Inertia in High Altitude Cinematography</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-3-pillars-of-powerful-ad-content-creation-enhancing-conversion-rates-via-facebook/"><u>[Updated] 2024 Approved 3 Pillars of Powerful Ad Content Creation Enhancing Conversion Rates via Facebook</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-telegram-marketing-made-simple-for-those-just-starting-out/"><u>[Updated] Telegram Marketing Made Simple For Those Just Starting Out</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-innovations-in-virtual-reality-setup/"><u>2024 Approved Top-Tier Innovations in Virtual Reality Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/combining-gpts-ingenuity-with-verse-formation/"><u>Combining GPT's Ingenuity with Verse Formation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversational-clarity-deciding-on-snapchat-ai-vs-gpt/"><u>Conversational Clarity: Deciding on Snapchat AI vs GPT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/creating-quantum-displacement-effects/"><u>Creating Quantum Displacement Effects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-netgear-wifi-card-software-for-smooth-connectivity/"><u>Get the Latest NETGEAR Wifi Card Software for Smooth Connectivity</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-choose-wisely-top-10-expert-picked-gopro-housing/"><u>In 2024, Choose Wisely Top 10 Expert-Picked GoPro Housing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-through-python-and-gpt-3-collaboration/"><u>Innovating Through Python & GPT-3 Collaboration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-auto-gpts-value-self-verified/"><u>Is Auto-GPT's Value Self-Verified?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/scansnap-drivers-effortless-installation-process-on-windows-systems/"><u>ScanSnap Drivers: Effortless Installation Process on Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/supercharge-your-experience-check-out-our-1-9-gpt-plugins/"><u>Supercharge Your Experience – Check Out Our #1-#9 GPT Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-priority-amendments-for-a-user-centric-gpt-plugin-marketplace/"><u>Top Priority Amendments for a User-Centric GPT Plugin Marketplace</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-chatgpts-api-capabilities/"><u>Unveiling the Power of ChatGPT's API Capabilities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-through-essential-zoom-recording-equipment-for-2024/"><u>[Updated] Navigating Through Essential Zoom Recording Equipment for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-nikon-d500-reviewed-a-4k-photo-enthusiasts-dream/"><u>[Updated] Nikon D500 Reviewed A 4K Photo Enthusiast's Dream</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-reset-password-quickly-regaining-access-post-hack/"><u>2024 Approved Reset Password Quickly Regaining Access Post-Hack</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-these-4-ai-driven-story-crafting-marvels/"><u>Dive Into These 4 AI-Driven Story Crafting Marvels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-engagement-leveraging-chatgpt-for-perfect-tweets/"><u>Enhancing Engagement: Leveraging ChatGPT for Perfect Tweets</u></a></li>
+<li><a href="https://win-forum.techidaily.com/harness-the-influence-of-leading-social-networks-a-guide-to-excelling-on-facebook-twitter-instagram-and-youtube/"><u>Harness the Influence of Leading Social Networks - A Guide to Excelling on Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-get-to-know-the-pros-of-engaging-with-asmr/"><u>In 2024, Get to Know the Pros of Engaging with ASMR</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/moveavis-no-cost-solution-for-quick-and-seamless-wma-to-mp4-conversions/"><u>Moveavi's No-Cost Solution for Quick and Seamless WMA to MP4 Conversions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/optimal-strategies-for-mobile-snapchat-recordings/"><u>Optimal Strategies for Mobile Snapchat Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-usage-of-chatgpt-sidelining-useless-extensions/"><u>Optimal Usage of ChatGPT: Sidelining Useless Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-audio-landscapes-ai-powered-sounds-in-workstations/"><u>Transforming Audio Landscapes: AI-Powered Sounds in Workstations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-claim-your-edge-with-claude-pioneering-ai-for-success/"><u>Why Claim Your Edge with Claude? Pioneering AI for Success</u></a></li>
 </ul></div>
 

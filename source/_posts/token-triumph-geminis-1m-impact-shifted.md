@@ -1,7 +1,7 @@
 ---
 title: "Token Triumph: Gemini’s $1M Impact Shifted"
-date: 2024-09-12T07:51:17.721Z
-updated: 2024-09-13T07:51:17.721Z
+date: 2024-09-11T16:19:32.550Z
+updated: 2024-09-17T16:20:59.075Z
 tags:
   - chatgpt
   - open-ai
@@ -19,19 +19,6 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -53,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  It sounds like a massive upgrade and could set Gemini apart. It's a little difficult to grasp its full extent—but Gemini's enormous context window could be a game changer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is a Context Window?
 
  While responding to your queries, like explaining a concept or summarizing a text, AI models have a limit on how much data they can consider to generate a response. The limit on the text size it can consider is called a context window.
@@ -68,28 +48,15 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  At the time of writing, Anthropic's Claude 2.1's 200k context window is the largest context window of any generally available AI model. This is followed by GPT-4 Turbo with a 128k context window. Google Gemini 1.5 is bringing a one million context window, four times larger than anything in the market. This leads to the big question: what's the big deal with a one million token context window?
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Gemini 1.5's Context Window Is a Big Deal
 
 ![Gemini app running on an Android phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gemini-app-running-on-an-android-phone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Smartmockups](https://smartmockups.com/mockup/oiB7aZ8XtYS)
@@ -108,22 +75,21 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  In short, Gemini 1.5's larger context window may significantly improve the performance of its AI model, reducing hallucination and significantly increasing accuracy and ability to follow instructions better.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will Gemini 1.5 Live Up to Expectations?
 
 ![gemini advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gemini-advanced.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If everything goes as planned, Gemini 1.5 could potentially outperform [the best AI models in the market](https://www.makeuseof.com/best-large-language-models/). However, considering Google's many failures at building a stable AI model, it's important to err on the side of caution. Bumping up the context window of a model alone doesn't automatically make the model better.
@@ -151,20 +117,18 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-highest-rated-panoramic-video-capture-systems/"><u>[New] Highest Rated Panoramic Video Capture Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-best-top-xbox-hdds-your-ultimate-list-for-2024/"><u>[Updated] Best Top Xbox HDDs Your Ultimate List for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-improve-your-zoom-meet-by-sharpening-views/"><u>[Updated] In 2024, Improve Your Zoom Meet by Sharpening Views</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-weaving-narrative-threads-into-trailers-for-2024/"><u>[Updated] Weaving Narrative Threads Into Trailers for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-honor-play-8t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor Play 8T Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-rises-google-crafting-its-own-linguistic-masterpiece/"><u>Bard Rises: Google Crafting Its Own Linguistic Masterpiece</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-complexities-how-do-these-7-apps-function-with-gpt-4/"><u>Deciphering the Complexities: How Do These 7 Apps Function with GPT-4?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-more-better-ai-in-microsofts-bing/"><u>Discovering More, Better - AI in Microsoft's Bing</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/diy-guide-mastering-the-art-of-self-ejecting-iphones/"><u>DIY Guide: Mastering the Art of Self-Ejecting iPhones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/fb-video-downloader-get-access-on-all-devices-2023-for-2024/"><u>FB Video Downloader Get Access on All Devices, 2023 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/imitation-bot-aid-filches-fb-usernames-and-passes/"><u>Imitation Bot Aid: Filches FB Usernames & Passes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-sony-ult-field-7-examination-your-go-to-bassy-festival-sound-system/"><u>In-Depth Sony ULT Field 7 Examination: Your Go-To Bassy Festival Sound System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keeping-trade-secrets-safe-on-gpt-platforms/"><u>Keeping Trade Secrets Safe on GPT Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-impact-of-hugging-face/"><u>Understanding the Impact of Hugging Face</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-podcast-hosting-services-a-comprehensive-ranking/"><u>Updated 2024 Approved Top Podcast Hosting Services A Comprehensive Ranking</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-scaling-up-instagram-videos-mobile-and-desktop-approaches/"><u>[New] 2024 Approved Scaling Up Instagram Videos Mobile & Desktop Approaches</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-master-the-art-of-virality-top-facebook-video-marketing-strategies/"><u>2024 Approved Master the Art of Virality Top Facebook Video Marketing Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-mts-video-manipulation-software-slice-adjust-orientation-enhance-aesthetics-and-secure-content/"><u>Advanced MTS Video Manipulation Software - Slice, Adjust Orientation, Enhance Aesthetics & Secure Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avchdm2tsmts/"><u>AVCHDフォーマットへのM2TS・MTS変換手順：徹底ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-tools-and-software-how-to-convert-audio-files-from-aac-to-mp3-format-easily/"><u>Best Tools & Software: How to Convert Audio Files From AAC to MP3 Format Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/c00d36c4/"><u>C00D36C4エラーに見舞われた動画/音声再生 -修正手順の総集編</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-5-key-elements-behind-chatgpts-meteoric-rise-to-fame/"><u>Discover the 5 Key Elements Behind ChatGPT's Meteoric Rise to Fame</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/prime-8-edits-suites-on-linux-os/"><u>Prime 8 Edits Suites on Linux OS</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44ot44oh44kq6iom5pmv6zplusz5qw944ke5yq55p6c6zplusz5luy44gr55so44gu44km44kj44oz44oj44km44k644ki44ox44oq44kx44o844k344on44oz/"><u>ビデオ背景音楽や効果音付け用のウィンドウズアプリケーション</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44ow44o844oh44op44oz44ki44ox44oq44gn6lk844kk5luy44gr44kj44km44gq44ge44ot44oh44kq44ks54m55yil44gq44kc44gu44gr5asj44gi44kl44k544og44od44ox/"><u>ブーメランアプリで貼り付けられないビデオを特別なものに変えるステップ</u></a></li>
 </ul></div>
 

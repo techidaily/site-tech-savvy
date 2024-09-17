@@ -1,7 +1,7 @@
 ---
 title: Unlocking More From ChatGPT Through Token Optimization
-date: 2024-09-12T07:51:20.344Z
-updated: 2024-09-13T07:51:20.344Z
+date: 2024-09-10T16:11:10.319Z
+updated: 2024-09-17T16:08:16.277Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's a ChatGPT Token?
 
  If you go by the app's façade, all you see is a computer language that obeys your commands and gives you the answers you seek. However, the backend is just lots of code, learning every minute, and getting up to speed with the questions it answers.
@@ -44,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
  ChatGPT converts each word into a legible token whenever you ask a question. To break it down further, tokens are text fragments, and each programming language uses a different set of token values to understand the requirements.
 
 ![Comparison operators and boolean logic with cpp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cpp-coding-samples.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Since computers don't understand text values directly, they break them down into a combination of numbers, often called embeddings. You can even consider embeddings like [Python lists](https://www.makeuseof.com/tag/arrays-lists-in-python/), which resemble a list of related numbers, such as \[1.1,2.1,3.1,4.1…n\].
 
@@ -74,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
 
 ![Tokenizer calculation from OpenAI's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tokenizer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As per the [OpenAI token calculator](https://platform.openai.com/tokenizer):
 
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
@@ -90,20 +69,6 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
  To give you a flavor of what's what within the ChatGPT application, OpenAI offers you a free limited token subscription. If you want to experiment with the ChatGPT API, use the free $5 credit, which is valid for three months. Once the limit is exhausted (or the trial period is up), you can pay-as-you-go, which increases the maximum quota to $120\.
 
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
@@ -136,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Maximum Token Limits
@@ -163,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
  If your output is truncated, you must increase the specified maximum limit from your dashboard. Remember, the sum of your prompt and maximum tokens should always be less than equal to the model's maximum token limit.
 
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Learn to Control Your ChatGPT Prompts for Best Results
 
@@ -191,15 +163,21 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-recognizing-disconnected-social-network/"><u>[Updated] 2024 Approved Recognizing Disconnected Social Network</u></a></li>
-<li><a href="https://techtrends.techidaily.com/5-best-fps-optimization-tools-for-lag-free-pc-gaming-and-streaming-boost-gameplay-performance-now/"><u>5 Best FPS Optimization Tools for Lag-Free PC Gaming and Streaming - Boost Gameplay Performance Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beginners-guide-to-ai-engage-with-these-9-leading-forums/"><u>Beginners Guide to AI: Engage With These 9 Leading Forums</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eating-well-made-simple-chatais-cooking-insights/"><u>Eating Well Made Simple: ChatAI's Cooking Insights</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-13ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 13/iPad? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-oneplus-11-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track OnePlus 11 5G Location | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-lava-yuva-3-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Lava Yuva 3 Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-battle-for-better-bots-gpt-vs-huggingchat/"><u>The Battle for Better Bots: GPT vs HuggingChat</u></a></li>
-<li><a href="https://techtrends.techidaily.com/to-own-or-not-to-own-evaluating-the-need-for-a-blu-ray-player/"><u>To Own or Not to Own: Evaluating the Need for a Blu-Ray Player</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-3-ai-titans-clash-gpt-microsoft-bing-ai-and-google-bard-meet/"><u>Top 3 AI Titans Clash: GPT, Microsoft Bing AI & Google Bard Meet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-final-cut-pros-essential-effect-enhancers-the-top-10-selection/"><u>[New] In 2024, Final Cut Pro’s Essential Effect Enhancers The Top 10 Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-metrics-of-mastery-assessing-luminances-hdr-capabilities/"><u>[New] The Metrics of Mastery Assessing Luminance's HDR Capabilities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-crafting-viral-covers-for-your-facebook-profile/"><u>[Updated] 2024 Approved Crafting Viral Covers for Your Facebook Profile</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-2023-guide-to-discovering-facebook-hosted-films-and-shows/"><u>[Updated] In 2024, 2023 Guide to Discovering Facebook-Hosted Films & Shows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726026571405-2024/"><u>【2024年度対策】ニコニコ生放送で「タイムシフト」機能を記録・保管するテクニック</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-meditative-playlist-top-10-free-tracks-for-serenity/"><u>2024 Approved Meditative Playlist Top 10 Free Tracks for Serenity</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Unlock Without Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029389449-mp4/"><u>動画化テクニック：連続画像をMP4フォーマットに変換する方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029016473-4/"><u>最高の電話会議を実現するための4つの優れた通話録音ツール・アプリ</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-wmv-video-combining-software-for-2024/"><u>Best Free WMV Video Combining Software for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-the-tech-an-insight-into-how-seven-cutting-edge-tools-utilize-gpt-4-capabilities/"><u>Demystifying the Tech: An Insight Into How Seven Cutting-Edge Tools Utilize GPT-4 Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-downloading-anime-from-animefreak-tv/"><u>Ultimate Guide to Downloading Anime From AnimeFreak TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-mov-files-a-comprehensive-guide-on-what-they-are-and-how-you-can-access-them/"><u>Understanding MOV Files: A Comprehensive Guide on What They Are & How You Can Access Them</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-perfection-select-the-best-monitors-for-creative-work/"><u>Visual Perfection Select the Best Monitors for Creative Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027749538-vlc/"><u>VLCメディアプレーヤーによるスライドショー制作の手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726026594064-windows-113/"><u>Windows 11向けスクリーン録画テクニックトップ3: [選択範囲機能を使用]</u></a></li>
 </ul></div>
 

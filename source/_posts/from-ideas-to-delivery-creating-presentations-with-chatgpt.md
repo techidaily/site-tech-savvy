@@ -1,7 +1,7 @@
 ---
 title: "From Ideas to Delivery: Creating Presentations with ChatGPT"
-date: 2024-09-12T07:52:22.786Z
-updated: 2024-09-13T07:52:22.786Z
+date: 2024-09-13T16:22:39.730Z
+updated: 2024-09-17T16:06:44.738Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Create a Presentation From Scratch With ChatGPT
 
  Before diving into creating a presentation with ChatGPT, let's go over the steps involved. We'll use a combination of two AI tools to make this presentation.
@@ -46,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
  Of course, like most other [AI presentation tools](https://www.makeuseof.com/tools-use-ai-to-make-presentation/), the free version of SlidesAI has limitations. You can only create three presentations per month, and the text for each presentation is limited to 2500 characters. You can purchase a paid plan to extend these limits.
 
  Once you've generated the presentation, all that is left is to make some final changes and export the presentation to any format you like. If you want to create a PowerPoint slideshow with AI, you can follow these same steps and then export the slideshow to PowerPoint.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Generate the Presentation Text With ChatGPT
 
@@ -78,19 +64,6 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 
 ![SlidesAI on the Google Webstore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-store.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Go to Google Slides.
 2. Create a blank presentation.
 3. Go to the **Extensions** menu.
@@ -99,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 6. Click it and then select **Install**.
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Compile the Presentation With SlidesAI
 
@@ -116,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under **Enter text**.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
@@ -131,25 +90,25 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 ![Choosing a theme in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the **Text** tab and click **Create Slides**.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Add the Finishing Touches and Export the Presentation
 
@@ -169,6 +128,19 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to **File > Download** and then select **Microsoft PowerPoint**.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create Efficient Presentations in Minutes
 
@@ -197,20 +169,18 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-missing-video-functionality-in-sony-a6400/"><u>[New] 2024 Approved Missing Video Functionality in Sony A6400</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-editing-in-garageband/"><u>[Updated] Mastering the Art of Editing in GarageBand</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/apples-new-contender-ipad-air-4-against-samsung-galaxy-tab-s7plus-reviewed/"><u>Apple's New Contender: IPad Air 4 Against Samsung Galaxy Tab S7+ Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-generative-mastery-notion-against-gpt-3-showdown/"><u>Decoding Generative Mastery: Notion Against GPT-3 Showdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpts-capabilities-for-poetic-expression/"><u>Harnessing ChatGPT's Capabilities for Poetic Expression</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-6-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 6?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-creating-continuous-viewing-pleasure-on-television/"><u>In 2024, Creating Continuous Viewing Pleasure on Television</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introspection-and-understanding-the-gpt-way-to-emotional-mastery/"><u>Introspection & Understanding: The GPT Way to Emotional Mastery</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-post-update-printer-glitches/"><u>Overcoming Post-Update Printer Glitches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rediscovering-discarded-chatgpt-talks/"><u>Rediscovering Discarded ChatGPT Talks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-printscreen-capabilities-in-windows-11-and-windows-10-a-step-by-step-fix-guide/"><u>Restoring PrintScreen Capabilities in Windows 11 and Windows 10 - A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-workflow-top-8-chrome-with-ai/"><u>Revolutionize Your Workflow: Top 8 Chrome with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-communication-explore-openais-tailored-store/"><u>Revolutionizing AI Communication: Explore OpenAI’s Tailored Store!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ai-innovations-every-entrepreneur-must-learn-about-today/"><u>Top AI Innovations Every Entrepreneur Must Learn About Today</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-engagement-enhancers-trending-stories-filters-for-2024/"><u>[New] Engagement Enhancers Trending Stories Filters for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-audio-extraction-techniques-for-instagram-media/"><u>[Updated] Audio Extraction Techniques for Instagram Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-high-definition-cameras-for-extreme-enthusiasts-for-2024/"><u>[Updated] Essential High Definition Cameras for Extreme Enthusiasts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-time-plan-and-record-slack-plus-filmora-meetings/"><u>2024 Approved Mastering Time Plan & Record Slack + Filmora Meetings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-virtual-reality-iphone-edition/"><u>In 2024, Capturing Virtual Reality IPhone Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-visual-dynamics-the-power-of-luminances-hdr/"><u>In 2024, Evaluating Visual Dynamics The Power of Luminance's HDR</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-no-audio-output-installation-issue-on-windows-10-and-11/"><u>Resolving the 'No Audio Output' Installation Issue on Windows 10 & 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-steps-to-enable-and-enjoy-wma-files-on-your-iphone-smoothly/"><u>Simple Steps to Enable and Enjoy WMA Files on Your iPhone Smoothly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-adding-subtitles-when-creating-a-dvd/"><u>Step-by-Step Guide: Adding Subtitles when Creating a DVD</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-and-importing-mkv-videos-into-hitfilm-pro/"><u>Step-by-Step Guide: Converting and Importing MKV Videos Into Hitfilm Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-videos-into-a-smooth-144fps-playback-experience/"><u>Step-by-Step Guide: Converting Videos Into a Smooth 144Fps Playback Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-downloading-and-installing-mx-player-on-various-versions-of-windows-11-10-81-8-and-7/"><u>Step-by-Step Guide: Downloading and Installing MX Player on Various Versions of Windows (11, 10, 8.1, 8 & 7)</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

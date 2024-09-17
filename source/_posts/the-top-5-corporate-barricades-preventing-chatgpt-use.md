@@ -1,7 +1,7 @@
 ---
 title: The Top 5 Corporate Barricades Preventing ChatGPT Use
-date: 2024-09-12T07:48:52.313Z
-updated: 2024-09-13T07:48:52.313Z
+date: 2024-09-14T16:21:20.332Z
+updated: 2024-09-17T16:28:01.555Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/0968d8a1a40875b1d0f1ddcaf4e9e5bab94f3c356
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Data Leaks
 
 [ChatGPT requires a large amount of data to train and operate effectively](https://www.makeuseof.com/how-does-chatgpt-work/). The chatbot was trained using massive amounts of data derived from the internet, and it continues to be trained.
@@ -55,23 +48,9 @@ thumbnail: https://thmb.techidaily.com/0968d8a1a40875b1d0f1ddcaf4e9e5bab94f3c356
 
 ![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While [it's unclear if ChatGPT is genuinely prone to cybersecurity risks](https://www.makeuseof.com/does-chatgpt-have-security-risks-or-issues/), there's a chance that its deployment within an organization may introduce potential vulnerabilities which cyberattackers can exploit.
 
  If a company integrates ChatGPT and there are weaknesses in the chatbot's security system, attackers may be able to exploit the vulnerabilities and inject malware codes. Also, ChatGPT's ability to generate human-like responses is a golden egg for phishing attackers who can take over an account or impersonate legitimate entities to deceive company employees into sharing sensitive information.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Creation of Personalized Chatbots
 
@@ -90,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/0968d8a1a40875b1d0f1ddcaf4e9e5bab94f3c356
  Companies are restricting ChatGPT, fearing potential violations of privacy laws and industry-specific regulations.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Irresponsible Use by Employees
@@ -107,10 +80,16 @@ thumbnail: https://thmb.techidaily.com/0968d8a1a40875b1d0f1ddcaf4e9e5bab94f3c356
 ![Three Employees Chatting With ChatGPT Open on Desktop](https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93697161a134c6af27a69e27e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In many companies, some employees rely solely on ChatGPT responses to generate content and perform their duties. This breeds laziness in the work environment and staunches creativity and innovation.
@@ -120,19 +99,6 @@ thumbnail: https://thmb.techidaily.com/0968d8a1a40875b1d0f1ddcaf4e9e5bab94f3c356
  Although ChatGPT is a powerful tool, using it to address complex queries requiring domain-specific expertise can damage a company's operation and efficiency. Some employees may not remember to fact-check and verify responses provided by the AI chatbot, treating responses as a one size fits all solution.
 
  To mitigate problems like these, companies are placing bans on the chatbot so that employees can focus on their tasks and provide error-free solutions to users.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Bans: Better Safe Than Sorry
 
@@ -161,15 +127,19 @@ thumbnail: https://thmb.techidaily.com/0968d8a1a40875b1d0f1ddcaf4e9e5bab94f3c356
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-social-snapshot-saver-tool/"><u>[New] In 2024, Social Snapshot Saver Tool</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unfolding-the-world-on-iphone-perfect-fb-video-sharing/"><u>[New] In 2024, Unfolding the World on iPhone Perfect FB Video Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-navigating-the-maze-of-stock-visual-acquisition/"><u>[Updated] Navigating the Maze of Stock Visual Acquisition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-ai-engagement-ultimate-course-guide/"><u>Cutting-Edge AI Engagement: Ultimate Course Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/effective-storytelling-through-youtube-and-facebook/"><u>Effective Storytelling Through YouTube and Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-classroom-engagement-with-five-chatgpt-strategies/"><u>Elevating Classroom Engagement with Five ChatGPT Strategies</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-fcp-freedom/"><u>In 2024, Mastering the Art of FCP Freedom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-technology-to-upgrade-your-prompt-engineering-skills/"><u>Leverage Technology to Upgrade Your Prompt Engineering Skills</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-are-we-enamored-with-ai-powered-chatbot-experiences/"><u>Why Are We Enamored with AI-Powered Chatbot Experiences?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-pictureperfectionist-expert-guide-to-ig-size-settings/"><u>[Updated] 2024 Approved PicturePerfectionist Expert Guide to IG Size Settings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-7-dslrs-to-elevate-virtual-presentations-and-broadcasts-for-2024/"><u>[Updated] Essential 7 DSLRs to Elevate Virtual Presentations & Broadcasts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-velocity-victories-olympics-year-2022/"><u>2024 Approved Velocity Victories Olympics, Year 2022</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-upgraded-magicard-rio-professional-driving-toolkit-compatible-with-windows-modern-os-11817/"><u>Download the Upgraded Magicard Rio Professional Driving Toolkit – Compatible with Windows Modern OS: 11/8.1/7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forefront-vs-chatgpt-in-depth-insights-into-ai-competitiveness/"><u>Forefront vs ChatGPT: In-Depth Insights Into AI Competitiveness</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-hdmi-driver-on-windows-11-11/"><u>How to Update HDMI Driver on Windows 11, 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/inside-the-world-of-kinemaster-a-deeper-look-at-gaming/"><u>Inside the World of KineMaster A Deeper Look at Gaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-mundane-hr-tasks-via-ai-guidance/"><u>Optimizing Mundane HR Tasks via AI Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-deciphering-the-workings-of-ai-transfer-learning/"><u>Pioneering Progress: Deciphering the Workings of AI Transfer Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prevent-ai-data-collection-onsite/"><u>Prevent AI Data Collection Onsite</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-blank-screen-on-win11-fall-fix/"><u>Remedying Blank Screen on Win11 Fall Fix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-preserve-chatgpt-discussions/"><u>Strategies to Preserve ChatGPT Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swiftly-solve-common-pitfalls-addressing-6-chatgpt-issues/"><u>Swiftly Solve Common Pitfalls: Addressing 6 ChatGPT Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-zte-by-drfone-android/"><u>Three Ways to Sim Unlock ZTE</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Innovating Knowledge Exchange: The Essence of AI's Transfer Learning"
-date: 2024-09-12T07:50:19.061Z
-updated: 2024-09-13T07:50:19.061Z
+date: 2024-09-12T16:17:32.865Z
+updated: 2024-09-17T16:04:55.570Z
 tags:
   - chatgpt
   - open-ai
@@ -28,23 +28,9 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is AI Transfer Learning?
 
 ![Finetuning pre-trained model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pre-trained-model.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Transfer learning is the idea of taking a pre-trained model such as BERT or one of the [different GPT models](https://www.makeuseof.com/gpt-models-explained-and-compared/) and training it on a custom dataset to work on tasks it wasn't necessarily trained to tackle.
 
@@ -60,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
  You can get publicly available pre-trained models from places like TensorFlow Hub, Hugging Face, and the OpenAI model marketplace.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Benefits of Using AI Transfer Learning
 
  Transfer learning provides several benefits over training an AI model from scratch.
@@ -77,16 +56,22 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
  Training an AI model from scratch is possible, but you need greater resources to do so.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does Transfer Learning Work?
 
 ![Transfer-Learning-Illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/final.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In essence, there are three stages when it comes to transfer learning.
 
@@ -95,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 * **Fine-Tuning:** After the pre-trained model has been frozen and the top layers removed, a new dataset is fed to the learning algorithm, which is then used to train the new model and the specifics of its application.
 
  There is more to it than the three stages, but this outline details roughly how the AI transfer learning process works, with some fine-tuning.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Limitations to AI Transfer Learning
 
@@ -114,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
  So while transfer learning is a handy AI learning technique, limitations exist, and it isn't a silver bullet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Use Transfer Learning?
@@ -145,14 +123,19 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-alias-transformation-on-google-meet-platforms-for-2024/"><u>[Updated] Mastering Alias Transformation on Google Meet Platforms for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoid-game-crashes-how-to-correctly-handle-missing-d3dxtoolkit-files/"><u>Avoid Game Crashes: How To Correctly Handle Missing D3dxtoolkit Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-crypto-limitations-of-chatgpt-analyst-tools/"><u>Decoding Crypto: Limitations of ChatGPT Analyst Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-to-windows-11s-photo-application-blurring-feature/"><u>Expert Guide to Windows 11'S Photo Application Blurring Feature</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/er-free-your-videos-a-selection-of-excellent-converters/"><u>Flutter Free Your Videos A Selection of Excellent Converters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-high-quality-avi-media-reader-mobile-and-desktop/"><u>In 2024, High-Quality Avi Media Reader Mobile & Desktop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-real-and-unreal-top-8-ai-advances/"><u>Revolutionizing Real & Unreal: Top 8 AI Advances</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securely-broadcasting-your-ai-conversation-insights/"><u>Securely Broadcasting Your AI Conversation Insights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-nokia-g22-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Nokia G22 Phone Pattern Lock</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-discovering-top-tools-the-2023-guide-to-browser-capture-tech-for-2024/"><u>[New] Discovering Top Tools The 2023 Guide to Browser Capture Tech for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-future-appraisal-unconventional-thoughts/"><u>[New] In 2024, Future Appraisal Unconventional Thoughts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-your-tech-skills-unlock-macs-full-screen-recording-power-with-shortcuts/"><u>[New] In 2024, Mastering Your Tech Skills Unlock Mac's Full Screen Recording Power with Shortcuts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-direct-conversion-convert-and-upload-mp3-songs-on-youtube/"><u>[Updated] Direct Conversion Convert & Upload MP3 Songs on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wmam4atop4/"><u>「WMAファイルをM4Aに自由に変えるためのベストツールTOP4」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-step-by-step-guide-effortless-setup-of-the-kingdom-add-on-in-your-kodi-media-center/"><u>1. Step-by-Step Guide: Effortless Setup of the Kingdom Add-On in Your Kodi Media Center</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/apowersoft-picks-the-ultimate-pc-screen-capture-solution/"><u>Apowersoft Picks The Ultimate PC Screen Capture Solution</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/astounding-vlogs-start-here-easy-to-create-projects/"><u>Astounding Vlogs Start Here Easy-to-Create Projects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigate-like-a-pro-with-top-windows-10-hacks-for-2024/"><u>Navigate Like a Pro with Top WINDOWS 10 Hacks for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-the-best-ai-translator-to-translate-videos-online/"><u>New The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029484348-veoh/"><u>Veohで見たい映画やアニメ動画を安全にダウンロードする手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windowstop12/"><u>Windowsパソコンに最適!ベストマイク録音ソフトウェアTOP12ピック</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027017437-wonderfox/"><u>WonderFoxアフィリエイト収入を最大化する方法</u></a></li>
 </ul></div>
 

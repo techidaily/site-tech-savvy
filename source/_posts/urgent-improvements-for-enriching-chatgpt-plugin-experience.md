@@ -1,7 +1,7 @@
 ---
 title: Urgent Improvements for Enriching ChatGPT Plugin Experience
-date: 2024-09-12T07:46:42.526Z
-updated: 2024-09-13T07:46:42.526Z
+date: 2024-09-12T16:08:31.833Z
+updated: 2024-09-17T16:06:52.754Z
 tags:
   - chatgpt
   - open-ai
@@ -30,23 +30,9 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Introduce a Rating System
 
 ![illustration of rating in the chatgpt plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-rating.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The once sparse number of plugins in the ChatGPT plugins store has now grown into the hundreds. However, a vast number of them perform similar functions, although with varying effectiveness. Take PDF reader plugins, for instance. A quick search for "PDF" will turn up a dozen PDF reader options. Some of them work seamlessly, while others sputter and stall. You'll face a similar scenario when searching for link reader plugins. There are a lot of them, but not all work as advertised.
 
@@ -54,36 +40,15 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 
  If done right, a ratings and reviews system can help ChatGPT users immediately identify useful plugins and avoid wasting time trying to try out ones that don't work as advertised. It will also be a way for users to provide feedback to plugin developers and help developers understand what's needed and how they can improve their plugins.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Introduce Plugin Categorization
 
 ![Categorization in the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/categories-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Right now, every plugin that makes its way to the plugin store is lumped together in one big mess. It doesn't matter what a plugin does; whether it helps you write code or it helps you summarize YouTube videos, everything is lumped together. There's really no healthy way to tell what a group of plugins does from the other. There's no grouping at all. As the number of plugins in the store keeps growing, this will eventually become a chaotic mess.
 
  Introducing categorization will fix a lot of problems. From making it simpler for users to browse and find relevant plugins that meet their needs to helping to highlight niche plugins, there are a lot of benefits that categorization could do right now. Introducing categories will also help simplify search, highlight popular categories and perhaps most importantly, provide a much-needed organization by grouping related apps.
 
  It's not just consumers that categorization would help. It would also help developers gain valuable market insights since the number and growth of apps in each category will highlight where demand and opportunities exist. Consequently, developers can better decide which plugins to develop and through which categories they'll need to get them in front of the right audience.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Strict Review Process Before Accepting Plugins
 
@@ -94,16 +59,10 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
  This runs the risk of turning the innovative store into a collection of mediocre plugins, drowning out those that provide immense value to users. A stringent pre-publication review identifies and ensures that low-quality or buggy plugins are rejected, ensuring only stable, functioning plugins that solve a serious problem make it into the store. Overall, a strict review process will help improve user trust for plugins, reduce user risk, and benefit the entire ChatGPT plugin ecosystem.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Provide Access to More Advance Development Tools
@@ -115,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
  For example, take OpenAI's ChatGPT's Code Interpreter plugin. It's a very powerful plugin that can perform a wide range of tasks by executing Python code in a secure sandbox. Its capabilities far outweigh almost everything currently available in the plugin store because of the level of access OpenAI has granted to its in-house developers. It is almost possible for third-party developers to replicate anything close to that because of restricted access to the model.
 
  The solution? Improved, granular, and lower-level access to ChatGPT's underlying AI models. Granular access will allow developers to build more complex and powerful plugins that can harness the full capabilities of the model in innovative ways. And then maybe we'd be able to have plugins other than PDF readers and link readers everywhere on the plugin store.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## OpenAI Should Rectify Early Missteps
 
@@ -143,13 +109,18 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas/"><u>[New] 2024 Approved From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-instantpodstreams-a-step-by-step-approach-to-live-broadcasting/"><u>[New] InstantPodStreams A Step-by-Step Approach to Live Broadcasting</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-ps4-the-ultimate-guide-to-capturing-your-games-for-2024/"><u>[Updated] Mastering PS4 The Ultimate Guide to Capturing Your Games for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-professional-edge-adding-letterbox-frame-to-your-fb-videos/"><u>[Updated] Professional Edge Adding Letterbox Frame to Your FB Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-scams-in-gpt-binco-token-marketplace/"><u>Avoiding Scams in GPT-Binco Token Marketplace</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-nvidias-chat-with-rtx-ai-chatbot-on-your-computer/"><u>How to Use Nvidia's Chat With RTX AI Chatbot on Your Computer</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-10c-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 10C to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/set-up-an-economical-personal-gpt-clone-for-your-pc/"><u>Set Up an Economical, Personal GPT Clone for Your PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-pioneering-tech-in-vr-content-creation/"><u>[Updated] In 2024, Pioneering Tech in VR Content Creation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-file-shift-quick-and-easy-transfer-tactics-for-the-computer/"><u>[Updated] Mastering File Shift Quick and Easy Transfer Tactics for the Computer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-techtrends-screencapture-software-evaluation/"><u>[Updated] TechTrends ScreenCapture Software Evaluation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-slay-the-game-designing-quirky-text-memes/"><u>2024 Approved Slay the Game Designing Quirky Text Memes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi/"><u>AVI マナーで圧縮するたび - 初心者から始める方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginners-guide-mastering-the-basics-of-avi-video-conversion-with-a-free-tool/"><u>Beginner's Guide: Mastering the Basics of AVI Video Conversion with a Free Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-ffmpeg-and-handbrake-features-performance-and-best-use-cases/"><u>Comparing FFmpeg & HandBrake: Features, Performance & Best Use-Cases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-any-youtube-video-into-high-quality-audio-for-free-top-picks-for-easy-use/"><u>Convert Any YouTube Video Into High-Quality Audio for Free: Top Picks for Easy Use</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/descargar-y-convertir-archivos-mkv-a-formato-wav-sin-coste-guia-paso-a-paso-con-movavi/"><u>Descargar Y Convertir Archivos MKV a Formato WAV Sin Coste: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-animation-mastery-crafting-gifs-without-using-photoshop/"><u>DIY Animation Mastery - Crafting GIFs without Using Photoshop</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/how-to-define-ai-video/"><u>How to Define AI Video?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-itel-s23-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-honor-x50i-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Honor X50i Screen | Dr.fone</u></a></li>
 </ul></div>
 

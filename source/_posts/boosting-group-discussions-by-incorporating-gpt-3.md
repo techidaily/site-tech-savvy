@@ -1,7 +1,7 @@
 ---
 title: Boosting Group Discussions by Incorporating GPT-3
-date: 2024-09-12T07:49:04.327Z
-updated: 2024-09-13T07:49:04.327Z
+date: 2024-09-15T16:19:14.302Z
+updated: 2024-09-17T16:07:52.389Z
 tags:
   - chatgpt
   - open-ai
@@ -28,23 +28,9 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Anticipate Questions in Advance
 
 ![ChatGPT answering the prompt "Give me a list of questions that may be asked during a meeting between the project management department and the health and safety department discussing the installation of a new injection moulding machine"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/anticipating-questions-in-advance-using-chatgpt.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Being in a virtual meeting can be more stressful than a physical one as the interactions are limited. Also, you cannot easily read the body language of others. So, when someone asks a question that you didn't expect, your whole presentation can go off the rails.
 
@@ -62,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
  ChatGPT can help provide a new angle that may solve the issue more efficiently. It can also provide a good starting point for your team to come up with fresh new ideas of their own. You can streamline this process of asking ChatGPT for new ideas by [using your voice to control ChatGPT](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Summarize the Meeting Transcript
 
 ![ChatGPT answering the prompt "Summarize this transcript in 150 words. I just need to know what was discussed in bullet points"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/summarizing-meeting-transcripts-using-chatgpt.jpeg)
@@ -80,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
  Since the meeting is being conducted online, it can be recorded. You can then use an app like [Rev to transcribe your audio files](https://www.makeuseof.com/how-good-is-rev-transcribing-audio-files/). If the transcription is in PDF form, there is no need to worry. There are [several ways to let ChatGPT read PDF files](https://www.makeuseof.com/chatgpt-read-pdf-ways/) as well.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Decide the Next Course of Action
@@ -91,28 +70,15 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 ![ChatGPT answering the prompt "What is the next course of action based on the transcription of the meeting we just had"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/deciding-the-next-course-of-action-using-chatgpt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  An essential part of meeting minutes is to jot down all follow-up actions at the end. This helps clarify what needs to be done next and prevents misunderstandings. Again, ChatGPT can help you with this at the press of a key.
 
  Ask the language model what the next course of action is based on the transcription of your meeting. Then provide the AI chatbot with the transcription of your meeting, and ChatGPT will list all follow-up actions.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Assistant for Your Virtual Meetings
 
@@ -139,16 +105,21 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/5-chatgpt-prompts-for-expediting-mundane-hr-tasks/"><u>5 ChatGPT Prompts for Expediting Mundane HR Tasks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/claude-vs-chatgpt-exploring-4-superior-features-of-the-ai-chatbot/"><u>Claude Vs. ChatGPT: Exploring 4 Superior Features of the AI Chatbot</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-drivers-compatible-with-hp-laserjet-pro-1605dn-on-your-windows-machine/"><u>Get the Newest Drivers: Compatible with HP LaserJet Pro 1605Dn on Your Windows Machine</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-huawei-nova-y71-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Huawei Nova Y71 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-motorola-edge-2023s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Motorola Edge 2023s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-world-of-chatgpt-shared-linking/"><u>Navigating the World of ChatGPT Shared Linking</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-exporting-your-personalized-gpt-responses/"><u>Strategies for Exporting Your Personalized GPT Responses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trio-of-tech-titans-compared-gpt-microsofts-ai-googles-bard/"><u>Trio of Tech Titans Compared: GPT, Microsoft's AI, Google's Bard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uniting-tech-giants-apples-siri-and-microsoft-writes/"><u>Uniting Tech Giants: Apple's Siri & Microsoft' Writes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/workplace-implications-of-using-chatgpt-the-legal-landscape/"><u>Workplace Implications of Using ChatGPT: The Legal Landscape</u></a></li>
+<li><a href="https://article-posts.techidaily.com/1717982345126-new-how-to-zoom-in-on-kinemaster/"><u>[New] How to Zoom in on Kinemaster?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-5-camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod/"><u>[New] In 2024, Best 5 Camera Apps to Shoot and Record Videos on iPhone and Andriod</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-grading-made-simple-3-ways-to-amplify-your-pics-for-2024/"><u>[Updated] Grading Made Simple 3 Ways to Amplify Your Pics for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-master-your-path-to-success-with-youtubes-keywords-guide/"><u>[Updated] In 2024, Master Your Path to Success with YouTube's Keywords Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-pricier-prompts-merely-premium-fluff/"><u>Are Pricier Prompts Merely Premium Fluff?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bings-smart-transformation-through-artificial-intelligence/"><u>Bing's Smart Transformation Through Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-enabled-resume-writing-a-game-changer/"><u>ChatGPT-Enabled Résumé Writing: A Game-Changer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-graphics-best-open-source-ai-portfolio-apps/"><u>Gratis Graphics: Best Open Source AI Portfolio Apps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-14-pro-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 14 Pro without Apple Account</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-narzo-60-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme Narzo 60 Pro 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastery-in-masking-and-retaining-digital-discussions/"><u>Mastery in Masking & Retaining Digital Discussions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quell-windows-audio-intensity-protocols/"><u>Quell Windows' Audio Intensity Protocols</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-sentiment-can-computers-understand-love-fear/"><u>The Art of Sentiment: Can Computers Understand Love, Fear?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-guide-to-the-new-samsung-galaxy-watch-7-what-you-need-to-know-about-pricing-and-specs/"><u>The Comprehensive Guide to the New Samsung Galaxy Watch 7: What You Need To Know About Pricing and Specs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-most-impactful-danish-movies-to-learn-the-language-proficiently/"><u>The Most Impactful Danish Movies to Learn the Language Proficiently</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-health-targets-crafting-with-chatgpt-expertise/"><u>Transformative Health Targets: Crafting with ChatGPT Expertise</u></a></li>
 </ul></div>
 

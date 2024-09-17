@@ -1,7 +1,7 @@
 ---
 title: "Separating Medical Truths: Fact-Checking Techniques with ChatGPT"
-date: 2024-09-12T07:47:15.995Z
-updated: 2024-09-13T07:47:15.995Z
+date: 2024-09-10T16:13:08.036Z
+updated: 2024-09-17T16:09:12.826Z
 tags:
   - chatgpt
   - open-ai
@@ -32,21 +32,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![ChatGPT health information caveat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-health-information-caveat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When prompted, the chatbot itself will even reiterate this idea. Although [AI technology will affect the future of healthcare](https://www.makeuseof.com/ai-will-power-future-healthcare/) in a number of ways, it isn't likely to replace the human component in the near future. For the most important medical questions, continue to rely on your personal physician or healthcare provider.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Rely on Established Medical Resources
 
@@ -60,27 +46,26 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
  In addition, many hospital websites also provide general medical information. If you need to fact-check any medical advice from ChatGPT or similar AI chatbots, then these trusted websites can help you learn more about nearly any health-related topic.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Be Wary of Commercial Sites
 
  If you're using online sources, then check the end of your resource's URL. If it ends in .gov, .edu, or .org, then it’s likely a nonprofit or educational website. For the most part, websites with these addresses provide beneficial information to the public for free.
 
 ![screenshot NHS website physical activity guidelines](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-nhs-website-physical-activity-guidelines.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Those that end in .com, or commercial sites, may also provide helpful information. In many instances, however, these sites are more focused on selling you something, according to the [National Institute on Aging](https://www.nia.nih.gov/health/how-find-reliable-health-information-online). If you're trying to fact-check other information, then a nonprofit or educational site may offer more neutral facts.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Use Apps With Care
 
@@ -91,10 +76,16 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
  In general, health apps should complement professional medical advice—not replace it. In this instance, they may not provide the best way to fact-check information from other sources.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Take Care With Personal Sites, Influencers, and Other Individuals
@@ -108,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
  If you want to go this route, then look for influencers who collaborate with reputable healthcare professionals, cite credible sources, and promote evidence-based practices. Be cautious of those who make bold claims, promote miracle cures, or provide information that contradicts medical knowledge.
 
  If you’re trying to double-check information from ChatGPT or similar sources, however, then this may not be the best avenue in general.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Trust Your Gut
 
@@ -147,19 +131,21 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-guide-to-vimeo-extractors-top-10-web-tools-reviewed-for-2024/"><u>[New] Ultimate Guide to Vimeo Extractors Top 10 Web Tools Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-money-trail-for-youtube-creators-revenue-realization/"><u>[Updated] The Money Trail for YouTube Creators Revenue Realization</u></a></li>
-<li><a href="https://win-dash.techidaily.com/4kiphone/"><u>4K動画のiPhoneでのスムーズ再生技術とトラブルシューティングガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-productivity-essential-tools-for-content-gurus/"><u>AI-Driven Productivity: Essential Tools for Content Gurus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-solutions-integrating-chatgpt-into-sheets/"><u>AI-Driven Solutions: Integrating ChatGPT Into Sheets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/app-alert-chatgpt-now-on-ios/"><u>App Alert: ChatGPT Now on iOS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-kinetics-overview-2023-for-2024/"><u>Comprehensive Kinetics Overview 2023 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/has-gpt-transformed-the-landscape-of-college-writing-projects/"><u>Has GPT Transformed the Landscape of College Writing Projects?</u></a></li>
-<li><a href="https://discover-great.techidaily.com/how-to-successfully-integrate-mp4-videos-into-itunes-for-seamless-sync-across-ios-devices-and-apple-tvs/"><u>How to Successfully Integrate MP4 Videos Into iTunes for Seamless Sync Across iOS Devices and Apple TVs</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-the-filmorians-guide-to-eloquent-volume-dynamics-using-keyframe-editing-on-macos/"><u>In 2024, The Filmorians Guide to Eloquent Volume Dynamics Using Keyframe Editing on macOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-literary-legends-with-gpts-techniques/"><u>Leveraging AI for Literary Legends with GPT's Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/microbes-decompose-organic-matter-fix-atmospheric-nitrogen-and-help-suppress-plant-diseases-contributing-to-a-cycle-of-nutrients-and-maintaining-soil-health463/"><u>Microbes Decompose Organic Matter, Fix Atmospheric Nitrogen, and Help Suppress Plant Diseases, Contributing to a Cycle of Nutrients and Maintaining Soil Health.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-world-of-mobile-chatgpt/"><u>Navigating the World of Mobile ChatGPT</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-factors-to-evaluate-when-purchasing-an-unlocked-mobile-device/"><u>Top Factors to Evaluate When Purchasing an Unlocked Mobile Device</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capture-gameplay-prowess-on-android-screens-for-2024/"><u>[Updated] Capture Gameplay Prowess on Android Screens for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-watchers-workshop-advanced-guide-to-live-tv-broadcasting-via-windows-pc-for-2024/"><u>[Updated] The Watcher's Workshop Advanced Guide to Live TV Broadcasting via Windows PC for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-video-time-warp-techniques/"><u>2024 Approved Instagram Video Time Warp Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-how-to-for-mapping-external-drives-directly-from-a-mac-device/"><u>Complete How-To for Mapping External Drives Directly From a Mac Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cure-blank-screen-after-fall-windows-fix/"><u>Cure Blank Screen After Fall Windows Fix</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c51-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Poco C51 Phone without Any Data Loss</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-guide-to-converting-your-dvds-into-avi-files-with-no-hassle/"><u>Simple Guide to Converting Your DVDs Into AVI Files with No Hassle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slice-the-baguette-lengthwise-but-not-all-the-way-through-leave-about-an-inch-of-bread-intact-at-one-end-to-hold-it-together/"><u>Slice the Baguette Lengthwise, but Not All the Way Through – Leave About an Inch of Bread Intact at One End to Hold It Together.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-maintaining-high-definition-clarity-while-uploading-your-videos-on-youtube/"><u>Step-by-Step Guide: Maintaining High Definition Clarity While Uploading Your Videos on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-nubia-z50-ultra-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nubia Z50 Ultra ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-mp4-to-gif-conversion-tools-for-windows-users-the-ultimate-guide/"><u>Top 6 MP4 to GIF Conversion Tools for Windows Users: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-your-videos-from-wmv-to-avi-format-easily/"><u>Transforming Your Videos From WMV to AVI Format Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-spark-10-4g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Spark 10 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-the-movietv-app-in-windows-11-essential-tips-for-smooth-playback/"><u>Troubleshooting the MovieTV App in Windows 11: Essential Tips for Smooth Playback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-tips-step-by-step-guide-to-overcoming-catchvideo-download-hurdles/"><u>Troubleshooting Tips: Step-by-Step Guide to Overcoming Catchvideo Download Hurdles</u></a></li>
 </ul></div>
 

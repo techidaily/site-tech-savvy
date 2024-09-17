@@ -1,7 +1,7 @@
 ---
 title: "AI Bots Collide: Who Will Outshine, GPT Plus Or Perplexity?"
-date: 2024-09-12T07:48:24.007Z
-updated: 2024-09-13T07:48:24.007Z
+date: 2024-09-15T16:14:56.903Z
+updated: 2024-09-17T16:23:08.601Z
 tags:
   - chatgpt
   - open-ai
@@ -36,29 +36,9 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
  This **Copilot** mode is powered by GPT-4, but you are limited to five prompts every four hours. ChatGPT Plus has a similar restriction, as you are limited to 25 prompts every three hours.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Functionality
 
 ![ChatGPT plugin gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT and Perplexity are conversational AI tools, but they differ in functionality due to a difference in design philosophy. ChatGPT is more of your traditional AI chatbot, but the ChatGPT Plus version takes it further. [You can now install and use plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) and access the new web browsing mode.
 
@@ -70,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
  Both of them are useful AI tools for entirely different purposes. Perplexity is a great free tool for conducting research, while ChatGPT can help you summarize that research and make it presentable.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Pricing
 
  ChatGPT Plus charges $20/month (which may not sound like a lot to many) for its services. On the other hand, Perplexity is available completely free of cost and seems quite aggressive with its business model. Of course, it may try to monetize the service in the future.
@@ -85,11 +58,25 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
  Then again, [ChatGPT Plus is still well worth the money](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), especially if you want access to GPT-4 and priority access to new features. There's no clear winner here, as Perplexity is also worth trying out, considering it's free.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Responses
 
  To compare the performance in terms of responses, we conducted a series of tests between the two chatbots. We presented the same questions to both language models for a better analysis.
 
 ![ChatGPT 4 response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-4-response.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The tests revealed that ChatGPT Plus consistently outperformed Perplexity by providing detailed and clear responses. In addition, it demonstrated a superior ability to provide well-reasoned and elaborative answers.
 
@@ -107,35 +94,27 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
 ![Perplexity AI Chat Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-chat-interface.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Perplexity AI Popular Topics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-popular-topics.PNG)
 
 Close
 
  The Perplexity app also boasts a voice command feature that allows users to send prompts hands-free. While there are [ways to control ChatGPT Plus with your voice](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/), there is no official feature that can help you do so.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Speed and Stability
 
 ![ChatGPT Models Speed and Stability](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-models-speed-and-stability.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Perplexity AI is noticeably faster than any other chatbot or AI search engine. The GPT-3 version quickly searches the web and curates a response inspired by different sources. This ability to access real-time information makes it faster than ChatGPT.
@@ -144,6 +123,13 @@ Close
 
  Both of these chatbots are also matched in terms of stability. OpenAI gives priority access to Plus subscribers, so you can access the service even during peak usage hours. Perplexity AI has a relatively smaller user base, and stability issues aren't something to worry about.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Comparison With Bing
 
  Microsoft's investment in OpenAI allowed them to incorporate a version of GPT-4 into Bing. Bing Chat is their newest AI-powered chatbot/search engine, which has been highly impressive. You can use it on the web and phone by downloading the Bing AI app.
@@ -151,13 +137,6 @@ Close
  It works similarly to Perplexity but uses the newer GPT-4 language model. This means Bing Chat is the best of both worlds. It can access information from the internet in real-time, provide sources, and solve complex problems.
 
  Unfortunately, it still feels like a beta version at the moment. Microsoft is being cautious with its approach, and this means that Bing Chat simply won't respond to prompts it considers "controversial." However, it's still worth trying out as it's free.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Plus vs. Perplexity: Two Impressively Different Chatbots
 
@@ -184,20 +163,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-demystifying-the-world-of-youtube-and-its-keywords/"><u>[New] In 2024, Demystifying the World of YouTube and Its Keywords</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-streamline-your-music-library-6-free-ios-apps-for-youtube-conversion/"><u>[Updated] 2024 Approved Streamline Your Music Library 6 Free iOS Apps for YouTube Conversion</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-music-infused-content-sharing-strategies-for-facebook/"><u>[Updated] Music-Infused Content Sharing Strategies for Facebook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-amplify-and-modify-your-instagram-voice/"><u>2024 Approved How to Amplify and Modify Your Instagram Voice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-etiquette-in-engaging-chatgpt-and-virtual-helpers/"><u>Essential Etiquette in Engaging ChatGPT and Virtual Helpers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-zte-phone-screen-by-drfone-android/"><u>How Can We Unlock Our ZTE Phone Screen?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommended-filmmaking-equipment-roundup/"><u>In 2024, Expert-Recommended Filmmaking Equipment Roundup</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-xiaomi-redmi-13c-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Xiaomi Redmi 13C 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mastering-live-streams-essential-vr-gaming-recording-methods/"><u>Mastering Live-Streams Essential VR Gaming Recording Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peering-into-codegpt-a-potential-game-changer-for-dev-teams/"><u>Peering Into CodeGPT: A Potential Game-Changer for Dev Teams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/should-you-experiment-with-chatgpt-constraints/"><u>Should You Experiment with ChatGPT Constraints?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/staying-true-to-your-vision-nightshade-tactics-against-ai-duplication/"><u>Staying True to Your Vision: Nightshade Tactics Against AI Duplication</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-intricacies-of-bypassing-chatgpt-constraints/"><u>The Intricacies of Bypassing ChatGPT Constraints</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-innovative-open-source-ai-art-makers/"><u>Top Innovative Open Source AI Art Makers</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-a2-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo A2</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-social-media-synergy-cross-promoting-your-youtube-content/"><u>[Updated] 2024 Approved Social Media Synergy Cross-Promoting Your YouTube Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-pro-level-editing-10-must-have-applications-for-insta-videos/"><u>[Updated] Pro-Level Editing 10 Must-Have Applications for Insta Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-gaming-spaces-for-solo-play-in-apex-legends/"><u>[Updated] Top Gaming Spaces for Solo Play in Apex Legends</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/accedez-a-des-decodeurs-h264-gratuits-ameliorez-votre-experience-de-visionnage-en-hd/"><u>Accédez À Des Décodeurs H.264 Gratuits : Améliorez Votre Expérience De Visionnage en HD !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploiting-gpt-capabilities-in-research/"><u>Exploiting GPT Capabilities in Research</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-x90s-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo X90S Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-content-creation-insights-into-generative-ai-implementation/"><u>Revolutionizing Content Creation: Insights Into Generative AI Implementation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/to-ai-or-not-to-ai-financial-wisdom-from-computers/"><u>To AI or Not to AI? Financial Wisdom From Computers</u></a></li>
 </ul></div>
 

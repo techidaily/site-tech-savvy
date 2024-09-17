@@ -1,7 +1,7 @@
 ---
 title: Outdoor Peril? Could Tech Talk Save the Day?
-date: 2024-09-12T07:49:57.199Z
-updated: 2024-09-13T07:49:57.199Z
+date: 2024-09-15T16:04:20.642Z
+updated: 2024-09-17T16:17:30.671Z
 tags:
   - chatgpt
   - open-ai
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 
 ![Man Carrying Camping Backpack Standing In-front of Tree](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-carrying-camping-backpack-standing-in-front-of-tree.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The rise of AI chatbots has taken the world by storm, and [generative AI can create fantastic art](https://www.makeuseof.com/how-create-ai-art-at-home/). You can also [use ChatGPT as a tool for creative writing](https://www.makeuseof.com/how-to-use-chatgpt-for-creative-writing/) or [employ AI to help detect faces in photographs](https://www.makeuseof.com/ai-cameras-object-detection-how-work/).
 
  And while [ChatGPT doesn't always tell the truth](https://www.makeuseof.com/does-chatgpt-lie/), it's no secret that [AI is replacing workers](https://www.makeuseof.com/can-chatgpt-replace-me/) across all sectors.
@@ -63,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 
  ChatGPT had very little to say on how to actually fight off a bear.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Catch Salmon Without Fishing Equipment
 
 ![fresh salmon on ice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fresh-salmon-on-ice.jpg)
@@ -85,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 **Rating: 7/10**
 
  We feel confident that at least one of these methods would work.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Survive the Night in a Blizzard With No Shelter
 
@@ -106,19 +99,6 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 
 ![Young Wolves Biting Each Other on Snow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/young-wolves-biting-each-other-on-snow-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Evading predators should always be high on your list while wilderness exploring, and ChatGPT's advice is similar to that offered when asked how to fight a bear.
 
  Broadly speaking, you should stay calm, not run, make yourself look big, and maintain eye contact. If the wolves begin to attack, ChatGPT advises using "any available objects as weapons to protect yourself. Focus on targeting their sensitive areas such as the eyes, nose, and throat."
@@ -127,16 +107,16 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 
  We found the advice overly generic and showed a lack of understanding of how wolf packs hunt. ChatGPT also failed to mention that wolves are notoriously poor tree climbers and that by clambering up the nearest spruce, you can buy yourself some extra time.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## There's a Dead Sheep in a Stream and No Other Water Source
 
 ![Person Cleaning Hands under running Water](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/person-cleaning-hands-under-running-water.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Water is even more important than food, but drinking from a polluted water source can make you ill or even cause death.
 
@@ -148,22 +128,21 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 
  Telling us to find another water source when we've explicitly stated there isn't one is not helpful. And while boiling water or using purification chemicals will kill bacteria, portable water filters won't. Additionally, ChatGPT failed to give the most obvious answer: move upstream of the dead sheep.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Help! I've Now Fallen Down an Abandoned Mineshaft in the Dark, and Can't Walk or Call for Help
 
 ![rough collie in snow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rough-collie-in-snow.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should always take care while wandering unfamiliar environs at night, and you should also know that a [good rechargeable flashlight](https://www.makeuseof.com/best-rechargeable-flashlights/) is an essential part of any survival kit. Maybe you fell in while delirious after drinking the contaminated water.
@@ -193,19 +172,6 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 
  The best advice is to wait for rescue. It's a known fact that certain Collie breeds are attracted to mineshafts and have been known to bring help from settlements in the area.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You Can't Depend on ChatGPT in an Emergency
 
  ChatGPT's advice was middling at best. Most of the answers it gave were common sense, and in several cases, it completely ignored parts of the prompt.
@@ -233,20 +199,15 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-from-dorm-room-to-mainstream-trending-short-hashtags/"><u>[New] In 2024, From Dorm Room to Mainstream Trending Short Hashtags</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagrams-hidden-treasure-securely-download-igtv-videos-on-pcmacos/"><u>[Updated] 2024 Approved Instagram's Hidden Treasure Securely Download IGTV Videos on PC/MacOS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elite-camera-drones-10-unveiling-visuals-like-never-before/"><u>[Updated] Elite Camera Drones #10 Unveiling Visuals Like Never Before</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/challenge-yourself-with-chatgpts-top-game-picks/"><u>Challenge Yourself With ChatGPT's Top Game Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-look-at-oppo-nothing-phone-3s-launch-plans-expected-costs-release-dates-and-technical-details/"><u>Inside Look at Oppo Nothing Phone 3'S Launch Plans - Expected Costs, Release Dates, & Technical Details</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mind-expanding-knowledge-engage-in-conversations-with-gpt/"><u>Mind-Expanding Knowledge: Engage in Conversations with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/model-creation-made-easy/"><u>Model Creation Made Easy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-natural-language-networks-le-chat-vs-gpt-3/"><u>Navigating Natural Language Networks: Le Chat vs GPT-3</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tale-constructing-the-basic-blueprint-for-2024/"><u>Tale Constructing The Basic Blueprint for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-watchful-eye-of-chatgpt-six-innovations-shaping-tech-trends/"><u>The Watchful Eye of ChatGPT: Six Innovations Shaping Tech Trends</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-sichere-und-schnelle-video-konvertierungsprogramme-fur-windows-11-entdecken-sie-die-beste/"><u>Top 10 Sichere Und Schnelle Video-Konvertierungsprogramme Für Windows 11 - Entdecken Sie Die Beste!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-list-best-ai-tools-for-efficient-note-management/"><u>Ultimate List: Best AI Tools for Efficient Note Management</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-the-distinct-features-of-mts-and-m2ts-in-hd-camcorder-avchd-technology/"><u>Understanding the Distinct Features of MTS and M2TS in HD Camcorder AVCHD Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-grok-ai-with-elons-insights-understanding-its-function-and-cost/"><u>Unraveling Grok AI with Elon's Insights - Understanding Its Function and Cost</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y78t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y78t Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-expert-insights-on-efficiently-setting-up-and-analyzing-fb-instream-ad-campaigns/"><u>[New] 2024 Approved Expert Insights on Efficiently Setting Up and Analyzing FB Instream Ad Campaigns</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oyful-jams-the-funniest-musical-mashups/"><u>[New] Joyful Jams The Funniest Musical Mashups</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-share-screen-on-zoom-meeting-guide/"><u>[Updated] Share Screen on Zoom Meeting Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-lacks-a-reflective-writing-check/"><u>AI Lacks a Reflective Writing Check</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-solve-math-problems/"><u>Can ChatGPT Solve Math Problems?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/efficient-use-of-vlc-for-media-creation-for-2024/"><u>Efficient Use of VLC for Media Creation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instant-guide-to-severing-gpt-ties/"><u>Instant Guide to Severing GPT Ties</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-dialogue-uncover-the-top-5-chatgpt-custom-strategies/"><u>Revolutionizing AI Dialogue: Uncover the Top 5 ChatGPT Custom Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/timing-your-podcast-release-effectively-for-2024/"><u>Timing Your Podcast Release Effectively for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-and-network-visibility-on-and-off-options-explained/"><u>Windows 11 and Network Visibility: On and Off Options Explained</u></a></li>
 </ul></div>
 

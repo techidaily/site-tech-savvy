@@ -1,7 +1,7 @@
 ---
 title: Dismantling the Mysteries of Big AI Language Tools
-date: 2024-09-12T07:46:02.463Z
-updated: 2024-09-13T07:46:02.463Z
+date: 2024-09-11T16:06:30.985Z
+updated: 2024-09-17T16:04:56.980Z
 tags:
   - chatgpt
   - open-ai
@@ -61,19 +61,6 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
  But LLMs go deeper than this. They can also tailor replies to suit the emotional tone of the input. When combined with contextual understanding, the two facets are the main drivers that allow LLMs to create human-like responses.
@@ -93,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 Examples of Popular LLMs
 
  The continuing advance of AI is now largely underpinned by LLMs. So while they aren't exactly a new technology, they have certainly reached a point of critical momentum, and there are now many models.
@@ -107,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
  Here are some of the most widely used LLMs.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. GPT
@@ -118,10 +98,16 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
  Generative Pre-trained Transformer (GPT) is perhaps the most widely known LLM. GPT-3.5 powers the ChatGPT platform used for the examples in this article, while the newest version, GPT-4, is available [through a ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Microsoft also uses the latest version [in its Bing Chat platform](https://www.makeuseof.com/chatgpt-vs-bing-chat-best-generative-ai-chatbot/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. LaMDA
@@ -133,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
  BERT stands for Bi-directional Encoder Representation from Transformers. The bidirectional characteristics of the model differentiate [BERT from other LLMs like GPT](https://www.makeuseof.com/what-is-bert-language-model-how-differ-gpt/).
 
  Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Future of LLMs
 
@@ -153,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 4. **Greater Integration**: LLMs could become personal digital assistants. Think of Siri on steroids, and you get the idea. LLMs could become virtual assistants that help you with everything from suggesting meals to dealing with your correspondence.
 
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
 
@@ -186,20 +158,20 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-high-quality-web-resources-for-glossy-3d-letters/"><u>[New] High-Quality Web Resources for Glossy 3D Letters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-game-changer-in-the-world-of-advanced-excel-workflows/"><u>ChatGPT: A Game Changer in the World of Advanced Excel Workflows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cookiebot-the-efficient-driving-force-behind-website-personalization/"><u>Cookiebot: The Efficient Driving Force Behind Website Personalization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-ai-conversations-discovering-the-power-in-triple-combination/"><u>Enhancing AI Conversations: Discovering the Power in Triple Combination</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/examining-streaming-platform-powerhouses-twitch-and-youtube-comparison-for-2024/"><u>Examining Streaming Platform Powerhouses Twitch and YouTube Comparison for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/flip-it-quick-and-simple-video-rotation-techniques/"><u>Flip It! Quick and Simple Video Rotation Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/game-changing-ai-for-the-diy-industry-gpt-4-is-coming/"><u>Game-Changing AI for the DIY Industry: GPT-4 Is Coming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-do-vector-databases-transform-machine-learning/"><u>How Do Vector Databases Transform Machine Learning?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-g2-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrate-chatgpt-into-your-web-projects-effortlessly/"><u>Integrate ChatGPT Into Your Web Projects Effortlessly</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-audio-innovation-with-siri-an-extensive-review-of-apples-compact-homepod-mini/"><u>Navigating Audio Innovation with Siri – An Extensive Review of Apple’s Compact HomePod Mini</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-blueprint-of-dynamic-dialogue-in-scripts/"><u>The Blueprint of Dynamic Dialogue in Scripts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/time-mastery-discovering-chatgpts-4-functionalities/"><u>Time Mastery: Discovering ChatGPT's 4 Functionalities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-gpt-tools-for-pdf-and-doc-interaction/"><u>Top 6 GPT Tools for PDF & Doc Interaction</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-art-of-sonic-depth-incorporating-virtual-reverberation-into-your-windows-based-audio-projects/"><u>Updated 2024 Approved The Art of Sonic Depth Incorporating Virtual Reverberation Into Your Windows-Based Audio Projects</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-advanced-scheduling-with-premium-recording-software/"><u>[New] 2024 Approved Advanced Scheduling with Premium Recording Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-practices-for-choosing-background-scores-for-vlogs/"><u>[New] Best Practices for Choosing Background Scores for Vlogs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-guide-to-aiseesofts-screencasting-features/"><u>[New] Essential Guide to Aiseesoft's Screencasting Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovative-tech-for-your-instant-sharing-needs-on-facebook/"><u>2024 Approved Innovative Tech for Your Instant Sharing Needs on Facebook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/friends-sharing-seeking-complete-viewability-via-smschat-services-for-2024/"><u>Friends’ Sharing Seeking Complete Viewability via SMS/Chat Services for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-phantom-v-fold-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Phantom V Fold Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-a2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo A2 Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-splitcam-dissection-top-in-the-video-realm/"><u>In 2024, SplitCam Dissection Top in the Video Realm?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-avi-speeches-into-high-quality-wav-format/"><u>Step-by-Step Guide: Transforming AVI Speeches Into High-Quality WAV Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-your-swf-videos-into-mp4-format/"><u>Step-by-Step Guide: Transforming Your SWF Videos Into MP4 Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-process-transforming-avchd-videos-in-handbrake-and-discovering-the-best-substitutes/"><u>Step-by-Step Process: Transforming AVCHD Videos in HandBrake and Discovering the Best Substitutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-video-transcoder-effortlessly-convert-from-high-mb-to-low-mb-files/"><u>Top-Ranking Video Transcoder: Effortlessly Convert From High MB to Low MB Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-vlc-video-downloads-a-step-by-step-guide/"><u>Troubleshooting VLC Video Downloads: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-effortless-ripping-of-dvds-using-top-online-ripping-tools/"><u>Ultimate Guide: Effortless Ripping of DVDs Using Top Online Ripping Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-speedy-dvd-extraction-techniques-without-compromising-quality/"><u>Ultimate Guide: Speedy DVD Extraction Techniques Without Compromising Quality</u></a></li>
 </ul></div>
 

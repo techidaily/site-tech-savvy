@@ -1,7 +1,7 @@
 ---
 title: Four Legal Frameworks Governing AI Technology
-date: 2024-09-12T07:47:59.394Z
-updated: 2024-09-13T07:47:59.394Z
+date: 2024-09-11T16:12:19.139Z
+updated: 2024-09-17T16:21:07.224Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Data Privacy and Protection Regulations
 
 ![a lock in a blue digital field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/privacy-lock-mac.jpg)
@@ -56,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![binary code background showing a woman face to face with a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  AI companies frequently boast about their commitment to ethical guidelines in developing AI systems. At least on paper, they are all proponents of responsible AI development. In the media, Google execs have emphasized how the company takes AI safety and ethics seriously. Similarly, "Safe and ethical AI" is a mantra for OpenAI's CEO, Sam Altman. These are quite applaudable.
 
  But who's making the rules? Who decides which AI ethical guidelines are good enough? Who decides what safe AI development looks like? Right now, every AI company seems to have its own spin on responsible and ethical AI development. OpenAI, Anthropic, Google, Meta, Microsoft, everyone. Simply relying on AI companies to do the right thing is dangerous.
@@ -74,19 +60,6 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 * AI systems are built with the broader societal impact of AI technologies in mind.
 * That humans retain ultimate control of AI systems and their decision-making transparently.
 * AI systems are intentionally limited in ways that are advantageous to humans.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Dedicated Regulatory Agency
 
@@ -104,22 +77,15 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 * Collaboration and cross-country cooperation on AI safety and ethics
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Addressing Copyright and Intellectual Property Concerns
 
 ![An illustration of copyright thief](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/copyright-protected-illustration.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Existing copyright laws and legal frameworks crumble in the face of Artificial Intelligence. The way AI tools, especially generative AI tools, are designed makes them seem like a publicly endorsed copyright infringement machine that you can't do anything about.
 
@@ -137,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 * Clear pathways for collaboration with right holders. If AI systems are going to use people's intellectual property anyway, there should be clear pathways or frameworks for AI developers and rights-owners to collaborate, especially in terms of financial compensations, if the derivative work of such intellectual properties is commercialized.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Regulation Is a Desperately Needed Fix
@@ -166,15 +132,17 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-leveraging-social-networks-twitch-streams-on-fb/"><u>[New] In 2024, Leveraging Social Networks Twitch Streams on FB</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-seamless-transition-from-smartphones-to-pc-and-mac-videos/"><u>[New] In 2024, Seamless Transition From Smartphones to PC & Mac Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-secrets-of-6-video-categories-for-viewer-retention/"><u>[New] Secrets of 6 Video Categories for Viewer Retention</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-chathub-closure-status-inquiry/"><u>GPT ChatHub: Closure Status Inquiry</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-creating-a-subtle-auditory-ending-effective-audio-fading-techniques/"><u>New Creating a Subtle Auditory Ending Effective Audio Fading Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/outsmarting-ai-in-writing-human-approach-proven-superior/"><u>Outsmarting AI in Writing: Human Approach Proven Superior</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-6-effective-chatgpt-uses-in-job-hunt/"><u>Unlock Your Potential: 6 Effective ChatGPT Uses in Job Hunt</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-smartphone-deals-and-combatting-malware/"><u>Unlocking Smartphone Deals & Combatting Malware</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-9-prime-live-streaming-venues-for-gamers/"><u>[New] 9 Prime Live Streaming Venues for Gamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-convert-srt-fastly-a-compreenas-the-minute-blueprint-2023-for-2024/"><u>[New] Convert SRT Fastly A Compreenas-the-Minute Blueprint 2023 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-craft-top-quality-youtube-thumbnails-fast-for-2024/"><u>[Updated] How To Craft Top Quality YouTube Thumbnails Fast for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030304182-mp4/"><u>動画ファイルMP4におけるプロパティ設定と修正手順解説</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028362684-ts/"><u>高度なテクニックで「TSファイル」から明瞭に分離された音声解析: 第一・第二方法解説</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030387971-fc2/"><u>FC2ビデオダウンロード失敗原因とその時点での対策手順を学ぶ</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-honor-x9b-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Honor X9b Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027605305-mkv/"><u>MKVファイルを携帯電話画面に表示する方法とトラブルシューティング</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/obs-vs-shadowplay-the-ultimate-showdown-for-gamers/"><u>OBS vs ShadowPlay The Ultimate Showdown for Gamers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/powering-up-your-action-footage-one-gadget-at-a-time-for-2024/"><u>Powering Up Your Action Footage, One Gadget at a Time for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-tier-applications-for-animation-and-modeling-craft-for-2024/"><u>Top-Tier Applications for Animation & Modeling Craft for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028495556-youtube/"><u>YouTube画面の拡張 - ビデオ画像サイズを効果的に増やすテクニック</u></a></li>
 </ul></div>
 

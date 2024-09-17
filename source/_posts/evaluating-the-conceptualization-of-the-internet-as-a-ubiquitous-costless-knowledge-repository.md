@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Conceptualization of the Internet as a Ubiquitous, Costless Knowledge Repository
-date: 2024-09-12T07:46:07.781Z
-updated: 2024-09-13T07:46:07.781Z
+date: 2024-09-14T16:08:50.286Z
+updated: 2024-09-17T16:17:02.004Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are the Differences between Google Bard and Bing Chat?
 
  Outwardly, both tools look similar. They both offer a simple interface with a text box to allow you to "chat" with them. However, dig a little deeper, and significant differences become apparent. To test the tools for yourself, you will need a Google and Microsoft account, although you might have to join a [waitlist for Google Bard](https://www.makeuseof.com/how-to-join-google-bard-ai-waitlist/).
@@ -51,25 +44,11 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
 
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Accuracy
 
@@ -83,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
 ![Screenshot Bard CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
 ## Bing Chat vs. Google Bard: Ease of Use
@@ -102,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
@@ -116,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
  We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As both platforms are going through rapid development, the user experience will continue to improve.
 
@@ -129,22 +101,15 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Is Best for You: Bing Chat or Google Bard?
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
@@ -158,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
  Both tools are incredibly powerful and can generate intelligent answers to any prompt. But both have pros and cons, and the ultimate choice is likely to be decided by factors like user preferences and the desired output type.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
 
@@ -182,18 +154,21 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tiktok-to-twitter-sharing-videos/"><u>[New] 2024 Approved TikTok to Twitter Sharing Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-podcasts-versus-youtube-finding-your-preferred-outlet/"><u>[Updated] Podcasts Versus YouTube Finding Your Preferred Outlet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-enlargement-editor-for-media-files/"><u>2024 Approved Image Enlargement Editor for Media Files</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-top-rated-apps-for-complete-iphone-and-ipad-wipe/"><u>Best Top-Rated Apps for Complete iPhone and iPad Wipe</u></a></li>
-<li><a href="https://program-issues.techidaily.com/breaking-down-the-persistent-crash-issues-in-immortals-fenyx-rising-solutions-inside/"><u>Breaking Down the Persistent Crash Issues in Immortals Fenyx Rising - Solutions Inside</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/efficient-file-removal-on-macos-using-stellars-standard-edition-schedule-based-file-purging-tool/"><u>Efficient File Removal on macOS Using Stellar's Standard Edition - Schedule-Based File Purging Tool</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-oppo-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Oppo Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-y100i-power-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo Y100i Power 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-resume-craft-with-chatgpt/"><u>Mastering Resume Craft with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-ai-deployment-auto-gpt/"><u>The Ultimate Guide to AI Deployment (Auto-GPT)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unanswerable-enquiries-and-boundaries-for-gpt-3/"><u>Unanswerable Enquiries & Boundaries for GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-claude-3-trumps-chatgpt-a-breakdown-into-four-points/"><u>Why Claude 3 Trumps ChatGPT: A Breakdown Into Four Points</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cdsd/"><u>「コンピューターでCDからSDメモリカードへの音声移行手段」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/canva/"><u>動画分割手順を教える! Canvaで簡易操作法と代用方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ac-3-vs-aac/"><u>AC-3 Vs. AAC：主要な違いとファイル間変換手順</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/approach-explain-the-rationale-behind-trial-mixing-before-full-scale-application/"><u>Approach: Explain the Rationale Behind Trial Mixing Before Full-Scale Application</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cdawav/"><u>CDA音声ファイルからWAV形式への簡単な変換手順 -初学者向けチュートリアル</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-capturing-screenshots-and-recording-your-screen-in-windows-11-using-the-built-in-snip-and-sketch-app/"><u>Complete Guide: Capturing Screenshots and Recording Your Screen in Windows 11 Using the Built-In Snip & Sketch App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-mastering-video-editing-integrating-clips-with-vegas-pro/"><u>Complete Tutorial: Mastering Video Editing - Integrating Clips with Vegas Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dvd-20248/"><u>DVDコピー保護解除で未来が明るくなる! 2024年対応のフリーソフト上位8選をご紹介します</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-to-upload-tiktok-videos-to-twitter-for-2024/"><u>How to Upload TikTok Videos to Twitter for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-enhance-your-smartphone-photos-with-these-free-innovative-tools/"><u>In 2024, Enhance Your Smartphone Photos with These Free, Innovative Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/key-techniques-for-developing-user-personas-to-boost-performance-with-chatgpt/"><u>Key Techniques for Developing User Personas to Boost Performance with ChatGPT</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-the-digital-landscape-an-app-by-app-analysis-with-tiktok-and-snap/"><u>Navigating The Digital Landscape An App-by-App Analysis with TikTok & Snap</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamline-your-conversations-with-twitter-video-uploads-on-whatsapp-for-2024/"><u>Streamline Your Conversations with Twitter Video Uploads on WhatsApp for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-ultimate-list-of-twitter-sensations/"><u>The Ultimate List of Twitter Sensations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-notch-performance-by-fujitsu-scansnap-ix1400-your-go-to-scanner-in-professional-environments-and-smbs/"><u>Top-Notch Performance by Fujitsu ScanSnap iX1400: Your Go-To Scanner in Professional Environments & SMBs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-best-of-affordable-tech-in-depth-guide-to-pruveeos-1080p-full-hd-dash-cam/"><u>Unveiling the Best of Affordable Tech: In-Depth Guide to Pruveeo's 1080P Full HD Dash Cam</u></a></li>
 </ul></div>
 

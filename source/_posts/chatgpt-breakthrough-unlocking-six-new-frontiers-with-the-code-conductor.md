@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Breakthrough: Unlocking Six New Frontiers with the Code Conductor"
-date: 2024-09-12T07:48:57.628Z
-updated: 2024-09-13T07:48:57.628Z
+date: 2024-09-15T16:17:21.857Z
+updated: 2024-09-17T16:08:40.607Z
 tags:
   - chatgpt
   - open-ai
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Create and Edit Images
 
@@ -83,29 +76,9 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
@@ -133,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Write and Analyze Code
 
  If you have large code files you want to make sense of, Code Interpreter is a solid option. You can attach files with several thousand lines of code and simply ask Code Interpreter to tell you what it does, maybe debug it, refactor it, translate to another programming language or perform just about any programming-related task you can think of.
@@ -155,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Extract Text from Images (Optical Character Recognition)
@@ -168,10 +134,10 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
@@ -199,21 +165,19 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-combining-zoom-and-facebook-live-a-step-by-step-guide/"><u>[New] 2024 Approved Combining Zoom & Facebook Live A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ideal-audio-gear-compatible-with-cutting-edge-4k-technology/"><u>[New] Ideal Audio Gear Compatible with Cutting-Edge 4K Technology</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-protecting-your-privacy-a-curated-list-of-cam-covers-for-2024/"><u>[New] Protecting Your Privacy A Curated List of Cam Covers for 2024</u></a></li>
-<li><a href="https://solve-news.techidaily.com/boost-your-automation-excellence-with-blue-prisms-award-winning-process-analytics/"><u>Boost Your Automation Excellence with Blue Prism's Award-Winning Process Analytics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/climate-denial-and-the-role-of-media-bias-explored/"><u>Climate Denial and the Role of Media Bias Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dungeon-masters-aide-de-camp-unleashing-potential-with-chatgpt/"><u>Dungeon Masters' Aide-De-Camp: Unleashing Potential with ChatGPT</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/netgear-nighthawk-c7000-a-game-changing-wireless-router-with-unmatched-speeds-an-expert-review/"><u>Netgear Nighthawk C7000: A Game-Changing Wireless Router with Unmatched Speeds – An Expert Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/plug-in-with-ease-integrating-new-extensions-into-chatgpt/"><u>Plug in with Ease - Integrating New Extensions Into ChatGPT</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/precision-screen-capturing-top-tools-reviewed-on-pcmac-for-2024/"><u>Precision Screen Capturing Top Tools Reviewed on PC/Mac for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/snapchats-ai-six-compelling-arguments-for-its-significance/"><u>Snapchat's AI: Six Compelling Arguments for Its Significance</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-managing-device-names-and-deletion-in-the-amazon-kindle-ecosystem/"><u>Step-by-Step Guide: Managing Device Names & Deletion in the Amazon Kindle Ecosystem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-battle-for-better-bots-gpt-vs-huggingchat/"><u>The Battle for Better Bots: GPT vs HuggingChat</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-3-ai-titans-clash-gpt-microsoft-bing-ai-and-google-bard-meet/"><u>Top 3 AI Titans Clash: GPT, Microsoft Bing AI & Google Bard Meet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-impact-of-hugging-face/"><u>Understanding the Impact of Hugging Face</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unveiling-the-trick-how-to-store-instagram-content-on-pc-and-macos-for-2024/"><u>Unveiling the Trick How to Store Instagram Content on PC and macOS for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-flight-indispensable-drone-extras-unveiled/"><u>[New] Revolutionizing Flight Indispensable Drone Extras Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-stabilizing-aerial-vision-a-comprehensive-guide-to-choosing-a-gimbal/"><u>[New] Stabilizing Aerial Vision A Comprehensive Guide to Choosing a Gimbal</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-unlock-brand-potential-access-50-banners-at-no-cost/"><u>[Updated] 2024 Approved Unlock Brand Potential - Access 50 Banners at No Cost</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-secure-and-quality-the-top-5-choice-of-recorders/"><u>[Updated] In 2024, Secure and Quality - The Top 5 Choice of Recorders</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-master-social-media-youtube-to-facebook-links-for-2024/"><u>[Updated] Master Social Media YouTube to Facebook Links for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-motorola-moto-g-5g-2023-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Motorola Moto G 5G (2023) to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-evolution-premium-plan-with-chatgpt-at-20-limited-to-us/"><u>ChatBot Evolution: Premium Plan with ChatGPT at $20, Limited to US</u></a></li>
+<li><a href="https://discover-best.techidaily.com/einfache-anleitung-zum-hochladen-von-dvds-auf-plex-top-tipps-fur-den-perfekten-stream/"><u>Einfache Anleitung Zum Hochladen Von DVDs Auf Plex - Top Tipps Für Den Perfekten Stream</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-new-enhancements-in-chatgpt-what-matters-to-you/"><u>Explore the New Enhancements in ChatGPT - What Matters to You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-engaging-presentation-creation/"><u>Harnessing ChatGPT for Engaging Presentation Creation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-editing-incorrectly-tagged-individuals-in-your-apple-photos/"><u>Master the Art of Editing Incorrectly Tagged Individuals in Your Apple Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proven-strategies-for-effective-gpt-3-application-at-openai/"><u>Proven Strategies for Effective GPT-3 Application at OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speed-up-your-workflow-prime-10-ai-tools-for-pdfs/"><u>Speed Up Your Workflow: Prime 10 AI Tools for PDFs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-tools-amplifying-chatgpt-and-vs-code-functionality/"><u>Top 6 Tools: Amplifying ChatGPT and VS Code Functionality</u></a></li>
 </ul></div>
 

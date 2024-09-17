@@ -1,7 +1,7 @@
 ---
 title: "AI for Everyone: Automating with Auto-GPT on Ubuntu"
-date: 2024-09-12T07:51:10.447Z
-updated: 2024-09-13T07:51:10.447Z
+date: 2024-09-15T16:15:22.293Z
+updated: 2024-09-17T16:23:47.290Z
 tags:
   - chatgpt
   - open-ai
@@ -63,13 +63,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `cd Auto-GPT`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 1: Configure Auto-GPT on Ubuntu
 
  Now that you've correctly set up the environment for Auto-GPT, you need to configure your OpenAI API key as an environment variable.
@@ -114,26 +107,13 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Auto-GPT on Ubuntu
@@ -143,10 +123,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Auto-GPT auto mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-auto.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In manual mode, Auto-GPT will ask you to specify a name, a goal, and up to five goals you want the AI assistant to follow while doing its task. This mode allows you to be in control of how your AI assistant will function.
@@ -165,13 +145,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Input-Commands for Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-input-y.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can approve the AI's next action by typing "**y**" for yes. If you don't want the AI to continue with its plans, you can type "**n**" for no and exit.
 
  If you trust your AI assistant and don't want to continue monitoring all of its thoughts and actions, you can type "**y -(number)**". For example, if you want Auto-GPT to execute its next five actions, you can type "**y -5**". Furthermore, if you want to provide feedback to your AI assistant, you can also type your prompt as input.
@@ -180,22 +153,15 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Providing human feedback to Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-human-feedback.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once your AI assistant finishes its task, you can view its final output by opening the **/Auto-GPT-x.x.x/autogpt/auto\_gpt\_workspace** directory.
 
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
@@ -233,18 +199,21 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unveiling-the-most-effective-zoom-recording-tools/"><u>[New] 2024 Approved Unveiling the Most Effective Zoom Recording Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-exploring-the-world-of-digital-color-grading/"><u>[New] Exploring the World of Digital Color Grading</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-awesome-iphone-selfie-solutions-spot-8-now/"><u>[New] In 2024, Awesome iPhone Selfie Solutions - Spot #8 Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-emotional-odyssey-charting-the-territory-of-feelings/"><u>AI's Emotional Odyssey: Charting the Territory of Feelings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cognition-computation-showdown-deciphering-gpt-and-bert/"><u>Cognition Computation Showdown: Deciphering GPT & BERT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-headphone-glitch-8-effective-ways-to-resolve-iphones-audio-issue/"><u>Fixing Headphone Glitch: 8 Effective Ways to Resolve iPhone's Audio Issue</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-find-x6-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Find X6 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fabricate-funny-faces/"><u>In 2024, Fabricate Funny Faces</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-worlds-of-gigantic-intelligent-language-models/"><u>Inside Worlds of Gigantic, Intelligent Language Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrate-ai-in-your-web-experience-signup-to-bing/"><u>Integrate AI in Your Web Experience: Signup to Bing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essentials-of-using-llama-2-for-business-success/"><u>The Essentials of Using Llama 2 for Business Success</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-choices-windows-11-hd-webcam-mini-dvs/"><u>Top Choices Windows 11 HD Webcam Mini-DVs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-3d-design-to-production-with-chatgpt-insights/"><u>Transforming 3D Design to Production with ChatGPT Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mellowing-sound-piece-by-piece-in-fl/"><u>[Updated] Mellowing Sound Piece-by-Piece in FL</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-film-narratives-reviewed/"><u>2024 Approved Innovative Film Narratives Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-poco-m6-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Poco M6 Pro 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721451938984-experiencing-sluggish-mobile-internet-speeds-boost-them-with-these-top-10-tips/"><u>Experiencing Sluggish Mobile Internet Speeds? Boost Them with These Top 10 Tips!</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-building-your-brand-setting-up-a-business-on-instagram/"><u>In 2024, Building Your Brand Setting Up a Business on Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-breaking-down-massive-video-content-into-bite-sized-pieces/"><u>Step-by-Step Tutorial on Breaking Down Massive Video Content Into Bite-Sized Pieces</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-resolving-nonfunctional-microphone-in-microsoft-teams-across-windows-1011-systems/"><u>Step-by-Step Tutorial: Resolving Nonfunctional Microphone in Microsoft Teams Across Windows 10/11 Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-12-pro-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme 12 Pro 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-convert-your-3gp-files-into-high-quality-mp4-with-these-top-apps/"><u>The Ultimate Guide: Convert Your 3GP Files Into High-Quality MP4 with These Top Apps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-a59-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo A59 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-12-freeware-audio-transcoder-apps-for-high-fidelity-sound/"><u>Top 12 Freeware Audio Transcoder Apps for High-Fidelity Sound</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-free-avi-to-mp3-converters-online-and-desktop-your-ultimate-guide/"><u>Top Free AVI to MP3 Converters Online and Desktop – Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-dvd-to-avi-converter-apps-for-windows-11-users/"><u>Top Rated DVD to AVI Converter Apps for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-how-to-fix-non-functioning-subtitles-in-windows-media-player/"><u>Troubleshooting Guide: How to Fix Non-Functioning Subtitles in Windows Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-setting-up-and-configuring-the-elementum-plugin-in-kodi-nx-5matrix/"><u>Ultimate Guide: Setting Up & Configuring the Elementum Plugin in Kodi (NX-5/Matrix)</u></a></li>
 </ul></div>
 

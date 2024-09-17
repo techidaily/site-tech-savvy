@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Child Privacy with ChatGPT: Top 5 Measures"
-date: 2024-09-12T07:47:48.277Z
-updated: 2024-09-13T07:47:48.277Z
+date: 2024-09-15T16:10:04.835Z
+updated: 2024-09-17T16:17:41.631Z
 tags:
   - chatgpt
   - open-ai
@@ -27,19 +27,6 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should Kids be Allowed to Use ChatGPT? Is ChatGPT Safe?
 
@@ -67,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
 ![Explanation of Why Grandma died by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/why-grandma-died.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For all those "Why did Grandma die? What is the purpose of life? Why was I born?" deep and hard-to-answer questions, ChatGPT can save you the awkward silence by producing creative replies in seconds.
 
 ### 3\. Help With School Work
@@ -76,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 ![ChatGPT can help kids with schoolwork](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-can-help-kids-with-schoolwork.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Playing Games
@@ -88,40 +82,20 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
 ![Games kids can play with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/games-kids-can-play-with-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you aren't sure what games you can play, prompt ChatGPT to provide a list of games kids can play using ChatGPT. You can also get specific with the kind of games you want. For instance, you could ask ChatGPT to "provide a list of kid-friendly games with a moderate difficulty that can help kids learn new words."
 
 ![kid-freindly games to learn new words](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/kid-freindly-games-to-learn-new-words.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Stories and Kid-Friendly Literature
 
  Younger kids enjoy a good bedtime story, and ChatGPT has an endless supply. But it's not just bedtime stories. You can get ChatGPT to come up with any story to teach any kind of morals. ChatGPT can also generate kid-friendly literature for any niche for kids. All you need is a simple prompt.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Help Kids Use ChatGPT Safely
 
@@ -131,18 +105,18 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
  Kids are more likely to share personal information during their interaction with ChatGPT. When using the AI chatbot, it is important to educate them to avoid sharing data like their full name, home address, or any personally identifying information.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Set Rules Against Using Jailbreaks
 
  Using a ChatGPT jailbreak is an exciting way to get ChatGPT to do whatever you want, even if it goes against OpenAI's safety measures. The prospects of going beyond the limitations of the chatbot can be alluring to kids. However, this is perhaps the most potent threat to kids using ChatGPT.
 
  A jailbroken instance of ChatGPT can produce unexpected replies, including replies encouraging kids to engage in harmful practices like curse words or bullying. It can also produce NSFW content that's not suitable for kids. So set and enforce strict rules against any form of jailbreak and explain to kids the dangers that come with it.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Set Strict Rules Against Sarcastic Content
 
@@ -150,29 +124,9 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
  Worse, just like jailbreaks, prompting ChatGPT to reply in a sarcastic way or any variations of sarcasm allows the chatbot to break out of its limitations and reply in ways it would typically not do. This could include using anything like curse words and dishing out logical-sounding advice that is actually harmful.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Frequently Review ChatGPT Chat Logs
 
  OpenAI keeps a record of conversations that you have with ChatGPT. You can access this log on the left sidebar of the ChatGPT interface. Review your kid's chat logs regularly and monitor their conversations with the chatbot.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Use ChatGPT's Kid-Friendly Mode
 
@@ -181,10 +135,16 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
  This should automatically filter the type of replies that ChatGPT produces for prompts. For instance, a normal ChatGPT instance would normally answer questions about sex education-related content. However, after prompting ChatGPT to use strict, kid-friendly replies, ChatGPT would either refuse to answer those questions or provide a significantly censored reply.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is ChatGPT Safe for Kids?
@@ -210,18 +170,21 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-right-to-appeal-steps-following-abrupt-video-content-suspension/"><u>[New] 2024 Approved The Right to Appeal Steps Following Abrupt Video Content Suspension</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevate-your-income-with-proven-vimeo-advertising-strategies/"><u>[Updated] 2024 Approved Elevate Your Income with Proven Vimeo Advertising Strategies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-cutting-edge-vr-tools-for-drones-for-2024/"><u>[Updated] Cutting-Edge VR Tools for Drones for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-record-a-twitch-gameplay-stream-for-2024/"><u>[Updated] How to Record a Twitch Gameplay Stream for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-beginners-blueprint-steering-clear-of-the-8-most-regrettable-youtubing-mistakes-for-2024/"><u>[Updated] The Beginner's Blueprint Steering Clear of the 8 Most Regrettable YouTubing Mistakes for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-look-at-the-most-outstanding-leds/"><u>A Look at the Most Outstanding LEDs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deconstructing-nlp-giants-deep-dive-into-gpt-vs-bert/"><u>Deconstructing NLP Giants: Deep Dive Into GPT Vs. BERT</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-fixes-for-when-snapchat-cant-locate-a-camera-input-device/"><u>Effective Fixes for When Snapchat Can’t Locate a Camera Input Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-ai-techniques-for-bing-android-app-users/"><u>Essential AI Techniques for Bing Android App Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-convenient-alias-adjustment-in-google-meet-devices/"><u>In 2024, Convenient Alias Adjustment in Google Meet Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-chatgpts-co-pilot-what-this-extension-means-for-users/"><u>Inside ChatGPT's Co-Pilot: What This Extension Means for Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nine-essential-considerations-for-chatbot-subscription-success/"><u>Nine Essential Considerations for Chatbot Subscription Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/techno-mystery-thrillers-dive-into-4-innovative-ai-experiences/"><u>Techno-Mystery Thrillers: Dive Into 4 Innovative AI Experiences</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-right-way-to-raise-your-videos-reach-responsibly/"><u>[New] 2024 Approved The Right Way to Raise Your Video's Reach Responsibly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-getting-started-with-pro-level-youtube-tech/"><u>[New] Getting Started with Pro-Level YouTube Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726026946814-flac/"><u>「一括変換手順：FLACを使った最高音質のハイレゾビットアップテクニック」</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensively-covering-minecraft-playback-setup/"><u>2024 Approved Comprehensively Covering Minecraft Playback Setup</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-polarr-photo-magic-your-complete-image-processing-manual/"><u>2024 Approved Polarr Photo Magic Your Complete Image Processing Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028458378-freemake/"><u>Freemakeビデオ変換ツールの不通知事情とその解消方法</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-x8b-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-20-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 20?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigate-the-transfer-of-quick-images-from-popular-chat-app/"><u>Navigate the Transfer of Quick Images From Popular Chat App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028450790-pc/"><u>PC用自由ソフトによる音声録音の達人４選をご紹介する</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshoot-lack-of-sound-and-non-dts-compatibility-on-mx-video-player/"><u>Troubleshoot Lack of Sound & Non-DTS Compatibility on MX Video Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-free-episodes-discover-the-best-websites-ranked-1-11-for-high-quality-show-and-series-download/"><u>Ultimate Guide to FREE Episodes: Discover the Best Websites Ranked #1-#11 for High-Quality Show and Series Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ipad-supported-video-formats-and-easy-conversion-tips/"><u>Understanding iPad Supported Video Formats & Easy Conversion Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wechat-pc/"><u>WeChat 通話の記録・再生: PCやスマートフォンでの手引き</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/3gpmjpeg-movavi/"><u>オンラインでも簡単に3GPからMJPEGへの自由な変換 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Future, Unveiled: Newest GPT Capabilities You Can't Miss"
-date: 2024-09-12T07:51:54.221Z
-updated: 2024-09-13T07:51:54.221Z
+date: 2024-09-10T16:15:32.917Z
+updated: 2024-09-17T16:02:49.434Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -47,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -70,22 +56,15 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -97,6 +76,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  I asked ChatGPT to check the Saturday weather forecast and advise whether I should reschedule my activities based on the weather update.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
@@ -120,28 +106,21 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Temporary Chat
@@ -169,20 +148,17 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-20-youtube-time-savers-that-will-skyrocket-engagement-rates/"><u>[New] In 2024, 20 YouTube Time Savers That Will Skyrocket Engagement Rates</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-windows-and-mac-best-image-to-animation-converter/"><u>[Updated] In 2024, Top Windows & Mac Best Image-to-Animation Converter</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-restore-your-viewing-experience-reclaim-the-icon/"><u>2024 Approved Restore Your Viewing Experience - Reclaim the Icon</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accessing-gpt-4-on-a-shoestring-budget/"><u>Accessing GPT-4 on a Shoestring Budget</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/flawless-content-creation-the-4-biggest-mistakes-to-dodge-using-chatgpt/"><u>Flawless Content Creation - The 4 Biggest Mistakes to Dodge Using ChatGPT</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/instantly-purging-unwanted-youtube-comments-made-simple-for-2024/"><u>Instantly Purging Unwanted YouTube Comments Made Simple for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-start-for-my-pc-awoke-defying-windows-edition/"><u>No Start for My PC: Awoke-Defying Windows Edition</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premium-rate-free-excellence-criteria-for-top-10-lut-tools/"><u>Premium-Rate Free Excellence Criteria for Top 10 LUT Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplifying-complexity-pythons-role-in-gpt-3/"><u>Simplifying Complexity: Python's Role in GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-jestful-ai-portable-progress-and-cybersecurity-evolution/"><u>The Jestful AI: Portable Progress and Cybersecurity Evolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-power-of-individualized-chatgpt-commands/"><u>Unlocking the Power of Individualized ChatGPT Commands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-advantages-4-reasons-to-prefer-claude-3/"><u>Unveiling the Advantages: 4 Reasons to Prefer Claude 3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zerogpt-and-detectors-can-they-be-trusted-completely/"><u>ZeroGPT & Detectors: Can They Be Trusted Completely?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mastering-telegram-a-step-by-step-walkthrough/"><u>[Updated] In 2024, Mastering Telegram A Step-By-Step Walkthrough</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-maximizing-play-in-apex-legends-without-cross-platform-limitations/"><u>[Updated] Maximizing Play in Apex Legends Without Cross-Platform Limitations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-effortlessly-enhance-videos-with-textual-descriptions-in-microsoft-photos-windows-11/"><u>2024 Approved Effortlessly Enhance Videos with Textual Descriptions in Microsoft Photos (Windows 11)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-sites-to-enjoy-uncut-high-school-dxd-anime-online/"><u>Best Sites to Enjoy Uncut High School DxD Anime Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-sound-fidelity-step-by-step-guide-to-convert-mp3-files-to-higher-320kbps-quality/"><u>Boosting Sound Fidelity: Step-by-Step Guide to Convert MP3 Files to Higher 320Kbps Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-transforming-m4v-files-into-mp4-format-with-vlc-media-player/"><u>Complete Tutorial: Transforming M4V Files Into MP4 Format with VLC Media Player</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/convert-your-vproj-files-into-mp4-a-step-by-step-guide/"><u>Convert Your VPROJ Files Into MP4: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-power-of-video-converter-factory-pro-begin-with-a-free-trial-and-seamless-subscription-process/"><u>Discover the Power of Video Converter Factory Pro - Begin with a Free Trial and Seamless Subscription Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-chromebook-video-editors-your-guide-to-the-best-free-and-subscription-based-tools/"><u>Discover the Ultimate Chromebook Video Editors: Your Guide to the Best Free and Subscription-Based Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fusing-iphones-audio-and-visuals-together-for-2024/"><u>Fusing iPhones' Audio and Visuals Together for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-y27-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo Y27 5G</u></a></li>
 </ul></div>
 

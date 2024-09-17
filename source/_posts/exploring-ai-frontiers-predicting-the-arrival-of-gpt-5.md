@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI Frontiers: Predicting the Arrival of GPT-5?"
-date: 2024-09-12T07:46:43.914Z
-updated: 2024-09-13T07:46:43.914Z
+date: 2024-09-14T16:11:49.056Z
+updated: 2024-09-17T16:15:19.813Z
 tags:
   - chatgpt
   - open-ai
@@ -28,23 +28,9 @@ thumbnail: https://thmb.techidaily.com/d7b6adca8f0a081f06c342aa5482b37710319db21
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will There Be a GPT-5?
 
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Yes, there will almost certainly be a 5th iteration of OpenAI's GPT large language model called GPT-5\. Unfortunately, much like its predecessors, GPT-3.5 and GPT-4, OpenAI adopts a reserved stance when disclosing details about the next iteration of its GPT models. Instead, the company typically reserves such information until a release date is very close. This tight-lipped policy typically fuels conjectures about the release timeline for every upcoming GPT model.
 
@@ -56,29 +42,9 @@ thumbnail: https://thmb.techidaily.com/d7b6adca8f0a081f06c342aa5482b37710319db21
 
  Here's a video of Altman's discussion below:
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -94,35 +60,22 @@ thumbnail: https://thmb.techidaily.com/d7b6adca8f0a081f06c342aa5482b37710319db21
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5\.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4\.
 
  Also, there's been underground talk about GPT models being able to process videos, much like GPT-4 models can take images as inputs. So, we could possibly have a model that can process text, images, sound, and videos.
 
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5\.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
 
@@ -149,14 +102,15 @@ thumbnail: https://thmb.techidaily.com/d7b6adca8f0a081f06c342aa5482b37710319db21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-bridging-the-media-gap-coordinating-vids-on-twitter-and-tumblr/"><u>[New] 2024 Approved Bridging the Media Gap Coordinating Vids on Twitter & Tumblr</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-picks-scrutinizing-active-and-leading-recorders-feats/"><u>[New] 2024 Approved Top Picks Scrutinizing Active and Leading Recorder's Feats</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-soundscape-scrutiny-listening-insights/"><u>2024 Approved Soundscape Scrutiny Listening Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artistic-ambitions-meet-technological-titans-bz-and-ms-merger-and-ais-creative-potential-innovation-analysis/"><u>Artistic Ambitions Meet Technological Titans: BZ & MS Merger and AI's Creative Potential [Innovation Analysis]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-friend-or-a-fibber/"><u>ChatGPT - A Friend or a Fibber?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effectively-lowering-cpu-consumption-for-a-smoother-god-of-war-experience/"><u>Effectively Lowering CPU Consumption for a Smoother God of War Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ocean-acidification-the-unseen-consequence-of-carbon-emissions/"><u>Ocean Acidification: The Unseen Consequence of Carbon Emissions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-mystery-behind-gptbot-and-web-blocking-policies/"><u>The Mystery Behind GPTBot & Web Blocking Policies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-expert-guide-to-premiere-pro-fs-preview/"><u>[Updated] 2024 Approved Expert Guide to Premiere Pro FS Preview</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mental-gymnastics-at-the-best-puzzle-halls/"><u>[Updated] 2024 Approved Mental Gymnastics at the Best Puzzle Halls</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-recorder-pro-a-beginners-handbook-for-mac/"><u>[Updated] Screen Recorder Pro A Beginner's Handbook for Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-packing-for-personal-filmmaking/"><u>2024 Approved Professional Packing for Personal Filmmaking</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-tiktok-bgs-exploring-affordable-eye-catching-visuals/"><u>2024 Approved TikTok BGs Exploring Affordable, Eye-Catching Visuals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/airplayyoutube/"><u>AirPlay機能が使えない状況での動画再生方法：YouTubeやその他について学ぶ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/androidiso-iso/"><u>Android上でISO画像ファイルのプレーヤー設定 - ISOファイル導入手順</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-blitz-30-second-guide-to-fast-thumbnails/"><u>In 2024, Blitz 30-Second Guide to Fast Thumbnails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-your-webm-experience-without-spending-money-for-2024/"><u>Streamlining Your WebM Experience Without Spending Money for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44ko44od44k444ow44op44km44k244gl44kj57ch5y2y44gr5pig5yop44ov44kh44kk44or44ks44oa44km44oz44ot44o844oj44gz44kl5oml5byv44gn/"><u>エッジブラウザから簡単に映像ファイルをダウンロードする手引き</u></a></li>
 </ul></div>
 

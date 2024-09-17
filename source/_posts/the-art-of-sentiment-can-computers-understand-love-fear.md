@@ -1,7 +1,7 @@
 ---
 title: "The Art of Sentiment: Can Computers Understand Love, Fear?"
-date: 2024-09-12T07:47:39.001Z
-updated: 2024-09-13T07:47:39.001Z
+date: 2024-09-12T16:27:41.255Z
+updated: 2024-09-17T16:25:14.653Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## An Emotional Problem
 
  Understanding human emotions can be complicated, even for humans. Despite it being something we begin learning at birth, we can still frequently misread another's emotions. To train machines in a skill that humans haven't mastered is an enormous challenge.
@@ -51,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
  Similar to how AI chatbots rely on [huge databases called large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLMs) to generate responses, emotional AI also relies on a massive dataset. The main difference is the form of the data.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Gathering the Data
 
  Emotional AI "models" gather data from a range of sources. Like LLMs, text makes up a part of the model. But emotional AI models also use other forms of data too, these include:
@@ -69,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
  The collected data can then be used to determine human emotional states. It is worth noting that not all emotional AI models will use the same type of data. For example, a call center will have little use for visual and physiological data. Whereas in healthcare, the inclusion of physiological data is incredibly useful.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Emotional Recognition
@@ -85,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 * **Physiological analysis**: Some emotional AI systems can analyze physiological data like heart rate and temperature to determine emotional states. This requires specialized sensors and is typically used in research or healthcare.
 
  The specifics of how emotional AI works vary depending on the purpose of the application. However, most emotional AI models will rely on at least one of the listed techniques.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Generating a Response
 
@@ -112,16 +91,16 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
  This all sounds well and good, but as with all things AI, it is never that straightforward. The ethical and privacy concerns surrounding generative AI are just as applicable, but now we have human emotions thrown into the mix.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Ethical and Privacy Concerns of Emotional AI
@@ -135,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 * **Emotional manipulation**: Scammers could use emotional AI to play on people's feelings with malicious intent.
 
  These concerns are genuine, and a concerted effort to address them is the key to unlocking the full benefits of emotional AI.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Don't Know Whether to Laugh or Cry
 
@@ -168,14 +140,18 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-story-the-definitive-guide-to-screen-capture/"><u>[New] In 2024, Instagram Story The Definitive Guide to Screen Capture</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-streamline-your-internet-use-with-these-5-chromium-addons-for-vids/"><u>[New] In 2024, Streamline Your Internet Use With These 5 Chromium Addons for Vids</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premier-gopro-hero5-black-batteries-with-certified-chargers/"><u>[Updated] In 2024, Premier GoPro Hero5 Black Batteries with Certified Chargers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-13-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 13 Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-under-siege-unpacking-the-draw-for-hackers-to-hit-chatgpt-users/"><u>AI Under Siege: Unpacking the Draw for Hackers to Hit ChatGPT Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-generative-mastery-notion-against-gpt-3-showdown/"><u>Decoding Generative Mastery: Notion Against GPT-3 Showdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introspection-and-understanding-the-gpt-way-to-emotional-mastery/"><u>Introspection & Understanding: The GPT Way to Emotional Mastery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mitigating-overload-warning-on-chatgpt-windows/"><u>Mitigating Overload Warning on ChatGPT (Windows)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-workflow-top-8-chrome-with-ai/"><u>Revolutionize Your Workflow: Top 8 Chrome with AI</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-8-leading-edge-screensnap-solutions/"><u>[New] In 2024, 8 Leading-Edge Screensnap Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-close-ups-quick-minecraft-enhancements/"><u>[New] Mastering Close-Ups Quick Minecraft Enhancements</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-hurdlehop-pausevidsnapshot/"><u>[Updated] HurdleHop PauseVidSnapshot</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-ultimate-guide-mastering-live-streams-with-manycam-your-ai-powered-virtual-camera-solution/"><u>1. Ultimate Guide: Mastering Live Streams with ManyCam - Your AI-Powered Virtual Camera Solution</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/download-and-use-open-source-avi-video-player-on-your-windows-11-system-comprehensive-tutorial/"><u>Download and Use Open Source AVI Video Player on Your Windows 11 System - Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hochwertige-verkleinerung-von-videos-2023-top-tools-zur-grossenreduzierung-fur-hd-und-ultrahd-inhalte/"><u>Hochwertige Verkleinerung Von Videos 2023: Top Tools Zur Größenreduzierung Für HD Und UltraHD Inhalte</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-in-game-sounds-in-eas-anthem-for-pc-users/"><u>How to Reactivate In-Game Sounds in EA's Anthem for PC Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-effective-solutions-to-lower-lag-time-in-back-4-blood/"><u>Resolved: Effective Solutions to Lower Lag Time in 'Back 4 Blood'</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-adding-subtitles-when-creating-a-dvd/"><u>Step-by-Step Guide: Adding Subtitles when Creating a DVD</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-and-importing-mkv-videos-into-hitfilm-pro/"><u>Step-by-Step Guide: Converting and Importing MKV Videos Into Hitfilm Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-videos-into-a-smooth-144fps-playback-experience/"><u>Step-by-Step Guide: Converting Videos Into a Smooth 144Fps Playback Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-downloading-and-installing-mx-player-on-various-versions-of-windows-11-10-81-8-and-7/"><u>Step-by-Step Guide: Downloading and Installing MX Player on Various Versions of Windows (11, 10, 8.1, 8 & 7)</u></a></li>
 </ul></div>
 

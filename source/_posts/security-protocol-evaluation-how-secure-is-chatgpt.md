@@ -1,7 +1,7 @@
 ---
 title: "Security Protocol Evaluation: How Secure Is ChatGPT?"
-date: 2024-09-12T07:52:32.184Z
-updated: 2024-09-13T07:52:32.184Z
+date: 2024-09-13T16:23:29.603Z
+updated: 2024-09-17T16:01:27.535Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT: Security Threats and Issues
 
  The technology underpinning ChatGPT and other chatbots may be similar, but ChatGPT is in a category of its own. This is great news if you intend to use it as a kind of personal assistant, but worrying if you consider that threat actors also use it.
@@ -45,42 +38,15 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 
  This just underscores how important it is to [limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/), which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is ChatGPT a Threat to Your Privacy?
 
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/), but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
 
  Billions of words were scraped from the internet to create ChatGPT's vast database. This database is in a continual state of expansion, since ChatGPT stores whatever users share. The US-based non-profit [Common Sense](https://privacy.commonsense.org/evaluation/ChatGPT) gave ChatGPT a privacy evaluation score of 61 percent, noting that the chatbot collects Personally Identifiable Information (PII), and other sensitive data. Most of this data is stored, or shared with certain third-parties.
 
  In any case, you should be careful when using ChatGPT, especially [if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt), or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Addressing the Security Risks Associated With ChatGPT
 
@@ -91,16 +57,10 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Raising Awareness Is Key
@@ -128,18 +88,16 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-preserving-gifs-from-twitter-for-mobile-devices/"><u>[Updated] Preserving GIFs From Twitter for Mobile Devices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-time-efficient-a-comprehensive-guide-to-srt-to-txt-switching-for-2024/"><u>[Updated] Time Efficient A Comprehensive Guide to SRT to TXT Switching for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-protected-fitness-regimens-with-chatgpt/"><u>Crafting Protected Fitness Regimens with ChatGPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-guide-activating-bluetooth-connectivity-in-windows-7/"><u>Easy Guide: Activating Bluetooth Connectivity in Windows 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-chatgpt-with-kids-and-adults-alike/"><u>Exploring ChatGPT with Kids and Adults Alike</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guide-to-converting-mp4-to-compatible-vob-format-for-dvd-viewing-on-macos-systems/"><u>Guide to Converting MP4 to Compatible VOB Format for DVD Viewing on macOS Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/halt-comparing-virtual-assistants-dive-into-distinct-traits/"><u>Halt Comparing Virtual Assistants: Dive Into Distinct Traits</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-y78t-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo Y78t</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-the-steps-to-ensure-continuous-auto-play-for-fb-content/"><u>In 2024, The Steps to Ensure Continuous Auto-Play for FB Content</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/milestones-ten-years-of-mondlyback-button-innovation/"><u>Milestones: Ten Years of MondlyBack Button Innovation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-a34-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-perils-of-fraudgpt-how-to-evade-its-snares/"><u>The Perils of FraudGPT: How to Evade Its Snares</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-iphone-14-pro-max-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on iPhone 14 Pro Max</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-recommendations-the-very-best-ways-to-watch-cricket-on-screen/"><u>[Updated] Expert Recommendations The Very Best Ways to Watch Cricket on Screen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-captivating-literary-book-trailers/"><u>2024 Approved Captivating Literary Book Trailers</u></a></li>
+<li><a href="https://facebook.techidaily.com/44-attorneys-general-ask-facebook-to-ditch-instagram-for-children/"><u>44 Attorneys General Ask Facebook to Ditch Instagram for Children</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snapshot-success-the-photographers-tale/"><u>Snapshot Success The Photographer's Tale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-creating-dvds-compatible-with-all-dvd-players-and-optimal-dvd-conversion-techniques/"><u>The Ultimate Guide to Creating DVDs Compatible with All DVD Players & Optimal DVD Conversion Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-platforms-for-downloading-cartoon-episodes-and-simple-steps-to-get-them/"><u>Top Platforms for Downloading Cartoon Episodes & Simple Steps to Get Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshoot-lack-of-sound-and-non-dts-compatibility-on-mx-video-player/"><u>Troubleshoot Lack of Sound & Non-DTS Compatibility on MX Video Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-free-episodes-discover-the-best-websites-ranked-1-11-for-high-quality-show-and-series-download/"><u>Ultimate Guide to FREE Episodes: Discover the Best Websites Ranked #1-#11 for High-Quality Show and Series Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ipad-supported-video-formats-and-easy-conversion-tips/"><u>Understanding iPad Supported Video Formats & Easy Conversion Tips</u></a></li>
 </ul></div>
 

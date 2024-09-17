@@ -1,7 +1,7 @@
 ---
 title: The Role of SHAP Explainer in AI Interpretability
-date: 2024-09-12T07:46:24.328Z
-updated: 2024-09-13T07:46:24.328Z
+date: 2024-09-10T16:14:56.030Z
+updated: 2024-09-17T16:23:35.246Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is OpenAI's Shap-E?
 
  In May 2023, Alex Nichol and Heewon Jun, OpenAI researchers and contributors, released a [paper announcing Shap-E](https://arxiv.org/abs/2305.02463), the company's latest innovation. Shap-E is a new tool trained on a massive dataset of paired 3D images and text that can generate 3D models from text or images. It is similar to [DALL-E, which can create 2D images from text](https://www.makeuseof.com/how-to-use-dall-e-2/), but Shap-E produces 3D assets.
@@ -42,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
  Shap-E is trained on a conditional diffusion model and 3D asset mapping. Mapping 3D assets means that Shap-E learns to associate text or images with corresponding 3D models from a large dataset of existing 3D objects. A conditional diffusion model is a generative model that starts from a noisy version of the target output and gradually refines it by removing noise and adding details.
 
  By combining these two components, Shap-E can generate realistic and diverse 3D models that match the given text or image input and can be viewed from different angles and lighting conditions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How You Can Use OpenAI's Shap-E
 
@@ -60,25 +46,11 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
  You can also report issues and find solutions to issues already raised by others on the Shap-E GitHub page.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What You Can Do With OpenAI's Shap-E
 
  Shap-E enables you to describe complex ideas using a visual representation of ideas. The potential applications for this technology are limitless, especially as visuals typically have far more reaching effects than texts.
 
 ![Screenshot of text-3D images from OpenAI's Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-text-3d-images-from-openai-s-github.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As an architect, you can use Shap-E to create 3D models of buildings and structures based on written descriptions. You can specify the structures' dimensions, materials, colors, and styles using simple sentences. For example, you can prompt it with: "Make a skyscraper with 60 floors and glass balustrades," and export the result(s) to other software for further editing if you like the results you get.
 
@@ -89,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
  Although it is still a work in progress, Shap-E is a step ahead of OpenAI's [POINT-E](https://openai.com/research/point-e), which produces 3D point clouds based on text prompts. The point clouds are limited in their expressiveness and resolution, often producing blurry or incomplete shapes.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generate 3D Models Using OpenAI's Shap-E
@@ -126,16 +92,21 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-are-there-alternatives-to-googles-ar-gems/"><u>[Updated] 2024 Approved Are There Alternatives to Google's AR Gems?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-classroom-engagement-with-five-chatgpt-strategies/"><u>Elevating Classroom Engagement with Five ChatGPT Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emoji-free-tweet-space-linuss-revelations-shared-trojans-analyzed-and-chatgpt-critique/"><u>Emoji-Free Tweet Space, Linus's Revelations Shared, Trojans Analyzed, & ChatGPT Critique.</u></a></li>
-<li><a href="https://windows11.techidaily.com/escalate-typing-pace-via-windows-powertoys/"><u>Escalate Typing Pace via Windows' PowerToys</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-realme-11-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Realme 11 Pro to Gmail | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-dialogue-via-android-widget/"><u>Leveraging ChatGPT Dialogue via Android Widget</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/quick-guide-to-enhanced-video-capturing-in-vlc-for-2024/"><u>Quick Guide to Enhanced Video Capturing in VLC for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-nokia-c12-plus-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Nokia C12 Plus Location | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-are-we-enamored-with-ai-powered-chatbot-experiences/"><u>Why Are We Enamored with AI-Powered Chatbot Experiences?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ncrease-your-online-presence-youtube-methods-for-2024/"><u>[New] Increase Your Online Presence YouTube Methods for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-xiaomi-redmi-12-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Xiaomi Redmi 12 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/examining-codegpts-capabilities-in-tech-innovation/"><u>Examining CodeGPT's Capabilities in Tech Innovation</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-pro-max-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 11 Pro Max to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-this-the-iphone-alarm-failure-and-how-to-fix-it/"><u>Resolve This: The iPhone Alarm Failure and How to Fix It</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-transform-your-m4a-tracks-into-mp3-for-free-step-by-step-tutorial/"><u>Seamlessly Transform Your M4A Tracks Into MP3 for Free - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-breaking-down-massive-video-content-into-bite-sized-pieces/"><u>Step-by-Step Tutorial on Breaking Down Massive Video Content Into Bite-Sized Pieces</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-dvd-to-mp4-transformation-ensuring-flawless-streaming-across-all-gadgets/"><u>Step-by-Step Tutorial: DVD to MP4 Transformation Ensuring Flawless Streaming Across All Gadgets</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-finding-unique-video-graphics-online-for-2024/"><u>The Ultimate Guide to Finding Unique Video Graphics Online for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-convert-your-3gp-files-into-high-quality-mp4-with-these-top-apps/"><u>The Ultimate Guide: Convert Your 3GP Files Into High-Quality MP4 with These Top Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-12-freeware-audio-transcoder-apps-for-high-fidelity-sound/"><u>Top 12 Freeware Audio Transcoder Apps for High-Fidelity Sound</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-free-avi-to-mp3-converters-online-and-desktop-your-ultimate-guide/"><u>Top Free AVI to MP3 Converters Online and Desktop – Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-dvd-to-avi-converter-apps-for-windows-11-users/"><u>Top Rated DVD to AVI Converter Apps for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-how-to-fix-non-functioning-subtitles-in-windows-media-player/"><u>Troubleshooting Guide: How to Fix Non-Functioning Subtitles in Windows Media Player</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlimited-dji-mini-and-air-2-luts-buy-or-free/"><u>Unlimited DJI Mini & Air 2 LUTs - Buy or Free</u></a></li>
 </ul></div>
 

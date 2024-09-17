@@ -1,7 +1,7 @@
 ---
 title: Best Practices for Avoiding Writing Gaffes with ChatGPT
-date: 2024-09-12T07:48:38.583Z
-updated: 2024-09-13T07:48:38.583Z
+date: 2024-09-14T16:04:52.466Z
+updated: 2024-09-17T16:28:51.078Z
 tags:
   - chatgpt
   - open-ai
@@ -42,31 +42,11 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
 ![ChatGPT reminds user to double check information it provides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  OpenAI CEO Sam Altman also mentions in an [ABC News video interview](http://www.youtube.com/watch?v=540vzMlf-54) that users should be more cautious about ChatGPT's "hallucinations problem." It can confidently state made-up ideas as if they were facts. A single incident like CNET's can damage your credibility as an authoritative source.
 
  It's easy to blindly accept ChatGPT's output when you don't have enough knowledge to evaluate the results. Moreover, you might not bother to check a different point of view when ChatGPT's answers align with your beliefs. To avoid these embarrassing situations, fact-check, seek multiple perspectives, and get expert advice.
 
  If you're learning to use ChatGPT for content creation, include [what AI hallucination is and how you can spot it](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) in your list of topics to master. More importantly, don't disregard human judgment and creativity. Remember, AI should augment your thinking and not replace it.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Don't Ask ChatGPT for Research Links
 
@@ -89,19 +69,6 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
  To better understand the information, we asked for links. This time, ChatGPT refused, saying it was only an AI language model without web browsing capabilities. However, it gave bibliographic information, which we couldn't verify online despite the works being supposedly written between 2004-2018\.
 
 ![chatGPT giving bibliographic information to articles not found online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-48.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When prompted to give links to verify the information it provided, ChatGPT flatly refused this time. It said it didn't have web browsing capabilities and instead gave a list of bibliographic information. However, the data was still erroneous.
 
@@ -127,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  Learning to work with the latest tech tools is important, but interacting with your team is also essential. Instead of relying on ChatGPT to replicate social connections, build your interrelational skills, interact with co-workers, and find the best people you can work with.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Don't Feed ChatGPT Ineffective Prompts
 
  Are you finding it hard to get the best responses out of ChatGPT when creating content? Providing context and giving precise instructions should solve your problem.
@@ -144,27 +104,33 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
 ![ChatGPT giving a wrong answer to a prompt asking for a summary of Eric Allen's article on Hackernoon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-44.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To help ChatGPT, we copy-pasted the article in parts and asked for a summary after each upload. This time, ChatGPT was able to accomplish the task accurately. At one point, it gave us a comment instead of a summary, but we redirected it using another prompt.
 
 ![Conversation with ChatGPT asking to summarize a blog on Hackernoon by Eric Allen, which was uploaded in parts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This example was a learn-by-doing experiment on how to use ChatGPT to summarize long and technical articles effectively. However, you can now access many internet resources and [learn prompting techniques to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/).
 
  Using recommended prompts is not a fail-safe method against hallucinations, but it can help you deliver accurate results. You can also review the [best ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) for more information on prompting techniques.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Maximize ChatGPT Capabilities, but Be Mindful of Its Limits
 
@@ -191,16 +157,14 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/get-now-amd-rx-6900-xt-driver-software-for-all-windows-users-111087/"><u>[Get Now] AMD RX 6900 XT Driver Software for All Windows Users (11/10/8/7)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-6-economical-action-cams-available-for-99-or-below/"><u>[Updated] 2024 Approved Top 6 Economical Action Cams Available for $99 or Below</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mycams-journey-from-concept-to-reality-explored-for-2024/"><u>[Updated] MyCam's Journey From Concept to Reality Explored for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-primary-tape-scrutiny-study-summary-for-2024/"><u>[Updated] Primary Tape Scrutiny Study Summary for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/amplify-your-mobile-typing-experience-with-bing-ai-chat-technology/"><u>Amplify Your Mobile Typing Experience with Bing AI Chat Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722966014960-complete-driver-package-for-brother-mfc-l2740dw-compatible-with-all-windows-versions-download-now/"><u>Complete Driver Package for Brother MFC-L2740DW - Compatible with All Windows Versions, Download Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diving-deep-into-dialogue-unseen-advantages-of-chatgpt-tools/"><u>Diving Deep Into Dialogue: Unseen Advantages of ChatGPT Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-kitchen-clips-to-artificial-intelligence-unveiling-the-connection/"><u>From Kitchen Clips to Artificial Intelligence: Unveiling the Connection</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/nina-walker-leading-the-charge-as-abbyys-chief-customer-experience-officer/"><u>Nina Walker: Leading the Charge as ABBYY's Chief Customer Experience Officer</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/finding-fixes-your-missing-video-suggestions-on-fb/"><u>Finding Fixes Your Missing Video Suggestions on FB</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974606435-flawlessly-enhance-intels-graphic-3000-in-win11/"><u>Flawlessly Enhance Intel's Graphic 3000 in Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-artificial-intelligence-endeavors-the-pioneering-project-gemini/"><u>Google's Artificial Intelligence Endeavors – The Pioneering Project Gemini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-long-should-my-question-be-to-stay-within-chatgpts-range/"><u>How Long Should My Question Be to Stay Within ChatGPT's Range?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ideal-video-file-types-for-enhanced-performance-on-youtube/"><u>Ideal Video File Types for Enhanced Performance on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leadership-transition-in-openai-raises-gpt-concerns/"><u>Leadership Transition in OpenAI Raises GPT Concerns</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectifying-blue-light-issues-on-monitor/"><u>Rectifying Blue Light Issues on Monitor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visual-synergy-how-to-integrate-chatgpts-image-analysis-into-your-workflow/"><u>Visual Synergy: How to Integrate ChatGPT's Image Analysis Into Your Workflow</u></a></li>
 </ul></div>
 

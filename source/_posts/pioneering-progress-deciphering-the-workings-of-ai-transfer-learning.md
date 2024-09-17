@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Progress: Deciphering the Workings of AI Transfer Learning"
-date: 2024-09-12T07:48:41.147Z
-updated: 2024-09-13T07:48:41.147Z
+date: 2024-09-11T16:20:48.637Z
+updated: 2024-09-17T16:23:28.779Z
 tags:
   - chatgpt
   - open-ai
@@ -28,42 +28,15 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is AI Transfer Learning?
 
 ![Finetuning pre-trained model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pre-trained-model.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Transfer learning is the idea of taking a pre-trained model such as BERT or one of the [different GPT models](https://www.makeuseof.com/gpt-models-explained-and-compared/) and training it on a custom dataset to work on tasks it wasn't necessarily trained to tackle.
 
  For example, you can take a pre-trained model for classifying different cat species and train it to classify dogs. Through transfer learning, training your dog-classifying model should take significantly less time and resources to become as reliable as the original cat-classifying model.
 
  This works since cats and dogs share many traits the pre-trained model can already identify. Since the cat-classifying model can identify the various traits of a cat, such as having four legs, fur coats, and prominent snouts, the dog-classifying model can skip all the training to identify those traits and inherit them from the original model. After inheriting all those neural networks, you then cut off the last layers of the trained model used to identify the more specific traits of a cat and replace them with a dataset specific to dogs.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What AI Models Can You Use for Transfer Learning?
 
@@ -72,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
  Although popular, these easily fine-tunable models aren't the only ones you can use for transfer learning. You can also use models trained on tasks more specific than general object or language recognition. As long as the model has developed neural networks applicable to the model you're trying to train, you can use just about any model for transfer learning.
 
  You can get publicly available pre-trained models from places like TensorFlow Hub, Hugging Face, and the OpenAI model marketplace.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Benefits of Using AI Transfer Learning
 
@@ -90,22 +56,22 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
 
  Training an AI model from scratch is possible, but you need greater resources to do so.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does Transfer Learning Work?
 
 ![Transfer-Learning-Illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/final.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In essence, there are three stages when it comes to transfer learning.
 
@@ -116,16 +82,10 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
  There is more to it than the three stages, but this outline details roughly how the AI transfer learning process works, with some fine-tuning.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Limitations to AI Transfer Learning
@@ -163,16 +123,15 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/astering-video-thumbnail-creation-for-maximum-clicks-for-2024/"><u>[New] Mastering Video Thumbnail Creation for Maximum Clicks for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-journey-to-curating-an-impressive-youtube-collection/"><u>2024 Approved Your Journey to Curating an Impressive YouTube Collection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-free-gpt-4-for-all/"><u>Breaking Barriers: Free GPT-4 for All</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-patching-for-iris-x930-gpu/"><u>Easy Patching for Iris X930 GPU</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gauging-ai-as-a-partner-in-penning-stories/"><u>Gauging AI as a Partner in Penning Stories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-do-these-apps-leverage-gpt-4-technology/"><u>How Do These Apps Leverage GPT-4 Technology?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oneplus-open-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your OnePlus Open Screen | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-insider-guide-to-creating-and-editing-videos-on-windows-11/"><u>In 2024, The Complete Insider Guide to Creating & Editing Videos on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/start-menu-not-working-in-windows-10-solved/"><u>Start Menu Not Working in Windows 10 [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/superior-ai-collaboration-select-the-best-tools-for-prompts/"><u>Superior AI Collaboration: Select the Best Tools for Prompts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/this-week-in-mobile-innovation-anticipated-releases-from-google-and-samsung-examined/"><u>This Week in Mobile Innovation: Anticipated Releases From Google and Samsung Examined</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-boost-your-visibility-with-a-cutting-edge-set-of-banners/"><u>[New] 2024 Approved Boost Your Visibility with a Cutting-Edge Set of Banners!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-a-streamlined-approach-to-using-azures-transcription-technology/"><u>[Updated] In 2024, A Streamlined Approach to Using Azure's Transcription Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-nlp-vs-machine-learning-essentials/"><u>Breaking Down NLP vs Machine Learning Essentials</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-honor-80-pro-straight-screen-edition-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor 80 Pro Straight Screen Edition Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-morning-analysis-unconventional-perspectives/"><u>In 2024, Morning Analysis Unconventional Perspectives</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-blueprint-to-thrive-in-youtubes-gaming-domain-with-hashes/"><u>In 2024, The Ultimate Blueprint to Thrive in YouTube's Gaming Domain with Hashes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-in-the-3d-printing-space/"><u>Leveraging ChatGPT in the 3D Printing Space</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revamping-gpt-with-custom-10-tactics/"><u>Revamping GPT with Custom 10 Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-remedies-for-chatgpt-log-in-errors/"><u>Swift Remedies for ChatGPT Log-In Errors</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-top-4-ringtone-cuuter-to-use/"><u>Updated Top 4 Ringtone Cuuter to Use</u></a></li>
 </ul></div>
 

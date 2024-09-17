@@ -1,7 +1,7 @@
 ---
 title: How to Use Nightshade to Protect Your Artwork From Generative AI
-date: 2024-09-12T07:47:33.711Z
-updated: 2024-09-13T07:47:33.711Z
+date: 2024-09-12T16:28:41.114Z
+updated: 2024-09-17T16:29:25.111Z
 tags:
   - chatgpt
   - open-ai
@@ -20,24 +20,10 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -53,25 +39,11 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is AI Poisoning?
 
  AI poisoning is the act of "poisoning" the training dataset of an AI algorithm. This is similar to providing wrong information to the AI on purpose, resulting in the trained AI malfunctioning or failing to detect an image. Tools like Nightshade alter the pixels in a digital image in such a manner that it appears to be completely different to the AI training on it, but largely unchanged from the original to the human eye.
 
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
 
@@ -86,10 +58,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Nightshade
@@ -111,10 +83,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
@@ -141,18 +113,13 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-boost-your-brand-with-masterful-looped-videos-on-instagram-for-2024/"><u>[New] Boost Your Brand with Masterful Looped Videos on Instagram for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/challenge-yourself-with-chatgpts-top-game-picks/"><u>Challenge Yourself With ChatGPT's Top Game Picks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c33-2023-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme C33 2023 Phone without PIN</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-discovering-visual-narratives-merging-photography-and-videography-using-pixiz/"><u>In 2024, Discovering Visual Narratives Merging Photography and Videography Using Pixiz</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-newest-nvidia-rtx-2n60-super-drivers-supporting-windows-1011-operating-systems/"><u>Install the Newest NVIDIA RTX 2N60 Super Drivers: Supporting Windows 10/11 Operating Systems</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-youtubes-vista-an-in-depth-tutorial-on-video-submissions-for-2024/"><u>Mastering YouTube's Vista An In-Depth Tutorial on Video Submissions for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mind-expanding-knowledge-engage-in-conversations-with-gpt/"><u>Mind-Expanding Knowledge: Engage in Conversations with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/model-creation-made-easy/"><u>Model Creation Made Easy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-natural-language-networks-le-chat-vs-gpt-3/"><u>Navigating Natural Language Networks: Le Chat vs GPT-3</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-activating-your-bluetooth-device-on-windows-11-and-windows-10/"><u>Step-by-Step Tutorial: Activating Your Bluetooth Device on Windows 11 and Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-list-best-ai-tools-for-efficient-note-management/"><u>Ultimate List: Best AI Tools for Efficient Note Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-grok-ai-with-elons-insights-understanding-its-function-and-cost/"><u>Unraveling Grok AI with Elon's Insights - Understanding Its Function and Cost</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/updated-list-of-d-link-default-login-credentials-july-2024/"><u>Updated List of D-Link Default Login Credentials (July 2024)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>[New] In 2024, Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-origami-homes-in-minecraft-japanese-vistas/"><u>[New] Origami Homes in Minecraft Japanese Vistas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-picks-for-integrating-frame-elements-with-images/"><u>[Updated] Top Picks for Integrating Frame Elements with Images</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-poco-c51-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Poco C51 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installing-sporthd-plugin-for-enhanced-viewing-tips-for-kodi-users-version-2019/"><u>Installing SportHD Plugin for Enhanced Viewing - Tips for Kodi Users Version 20/19</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-splitting-screens-discover-5-essential-video-editors-for-seamless-multi-tasking-videos/"><u>Master the Art of Splitting Screens: Discover 5 Essential Video Editors for Seamless Multi-Tasking Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterclass-setting-up-your-personal-kodi-dvd-library-with-ripping-and-streaming-tips/"><u>Masterclass: Setting Up Your Personal Kodi DVD Library with Ripping and Streaming Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-instructions-for-picking-background-scores-for-vlogs/"><u>Step-by-Step Instructions for Picking Background Scores for Vlogs</u></a></li>
 </ul></div>
 

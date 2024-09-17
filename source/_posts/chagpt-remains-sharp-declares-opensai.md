@@ -1,0 +1,117 @@
+---
+title: ChaGPT Remains Sharp, Declares OpensAI
+date: 2024-09-10T16:08:08.497Z
+updated: 2024-09-17T16:27:51.950Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes ChaGPT Remains Sharp, Declares OpensAI
+excerpt: This Article Describes ChaGPT Remains Sharp, Declares OpensAI
+thumbnail: https://thmb.techidaily.com/d7ebc6506ee84717282a71bf655d8ecabd8e6c4fafa92ca86d15ca1c4deb0528.jpg
+---
+
+## ChaGPT Remains Sharp, Declares OpensAI
+
+If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question asked more than any other: is ChatGPT getting dumber?Is the performance of the world's leading generative AI chatbot decreasing as time passes, or are ChatGPT's millions of users collectively hallucinating quality issues?
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Is ChatGPT Getting Worse?
+
+ It's something many ChatGPT users have wondered: is ChatGPT getting dumber? OpenAI releases frequent updates to ChatGPT designed to tweak its responses, safety, and more, [using user feedback](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/), prompts, and user data to inform its direction.
+
+ But where ChatGPT felt like a genius solution to almost any problem when it launched, more users than ever report issues with its responses and output. Particularly of note are ChatGPTs reasoning, coding, and mathematical skills, though others note that it struggles with creative tasks, too.
+
+ The easiest way for most ChatGPT users to check how its responses have changed over time is to repeat a previously used prompt (preferably from the earlier days of ChatGPT) and analyze the two outputs.
+
+ Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
+
+## Stanford Study Suggests ChatGPT Drop Off
+
+ A combined Stanford University and UC Berkley research group believes those feelings that ChatGPT is changing could be right. Lingjiao Chen, Matei Zaharia, and James Zou's paper [How Is ChatGPT's Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf) \[PDF\] is one of the first in-depth studies into ChatGPT's changing capabilities.
+
+ The report summary explains:
+
+> We find that the performance and behavior of both GPT-3.5 and GPT-4 can vary greatly over time. For example, GPT-4 (March 2023) was very good at identifying prime numbers (accuracy 97.6%) but GPT-4 (June 2023) was very poor on these same questions (accuracy 2.4%). Interestingly, GPT-3.5 (June 2023) was much better than GPT-3.5 (March 2023) in this task. GPT-4 was less willing to answer sensitive questions in June than in March, and both GPT-4 and GPT-3.5 had more formatting mistakes in code generation in June than in March.
+
+ When presented with math problems ChatGPT could previously solve earlier in 2023, responses later in the year were wildly inaccurate. Furthermore, ChatGPT explained in detail why the answer was correct despite being wrong. [Instances of AI hallucination](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) are nothing new, but the figures in the charts below suggest a significant change in overall reasoning.
+
+![chatgpt study answers changing chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart.jpg)
+
+Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
+
+![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
+
+Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
+
+ The charts suggest ChatGPT's responses are drifting, further emphasized by the report.
+
+> GPT-4’s accuracy dropped from 97.6% in March to 2.4% in June, and there was a large improvement of GPT-3.5’s accuracy, from 7.4% to 86.8%. In addition, GPT-4’s response became much more compact: its average verbosity (number of generated characters) decreased from 821.2 in March to 3.8 in June. On the other hand, there was about 40% growth in GPT-3.5’s response length. The answer overlap between their March and June versions was also small for both services.
+
+ The report explains that ChatGPT's large language model chain of thought "did not work" when presented with the questions in June. Conversation drift has always been a notable issue with LLMs, but the extreme variance in responses suggests performance issues and changes to ChatGPT.
+
+## Is ChatGPT Getting Worse? OpenAI Says No
+
+ Is it just a coincidence that both casual and prolific ChatGPT users are noticing ChatGPT's changing quality?
+
+ The research paper would suggest not, but OpenAI VP for Product, Peter Welinder, suggests otherwise.
+
+ Furthermore, Welinder later pointed to OpenAI's releases for ChatGPT and the constant stream of updates the company has delivered throughout 2023\.
+
+ Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Can OpenAI Restore ChatGPT to Its Original State?
+
+ The early days of ChatGPT seem long in the distance now; November 2022 is a hazy memory, and the world of AI moves fast.
+
+ For many, the Stanford/Berkeley study perfectly illustrates the issues and frustrations of using ChatGPT. Others claim the tweaks and changes made to ChatGPT to make it a safer, more inclusive tool have also directly altered its ability to reason properly, nerfing its knowledge and overall capabilities to the point it's unusable.
+
+ It seems there is little doubt that ChatGPT has changed. Whether ChatGPT will regain its original prowess is another question entirely.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-essential-zooming-skills-for-clearer-google-meets/"><u>[New] 2024 Approved Essential Zooming Skills for Clearer Google Meets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-selecting-optimal-gopro-protection-top-10-selections/"><u>[New] Selecting Optimal GoPro Protection - Top 10 Selections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-career-prospects-for-prompt-engineers/"><u>Analyzing Career Prospects for Prompt Engineers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-synaptics-driver-installation-and-updates-on-windows-step-by-step-guide/"><u>Easy Synaptics Driver Installation & Updates on Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/elevate-your-livestream-quality-with-manycams-advanced-virtual-webcam-technology/"><u>Elevate Your Livestream Quality with ManyCam's Advanced Virtual Webcam Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-ai-companion-gpt-for-enhanced-productivity/"><u>Introducing AI Companion, GPT for Enhanced Productivity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/m4vwindows-202n4/"><u>M4VビデオがWindows 202N4年適用で正常に再生するための最新方法</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-fcp-hacks-how-to-create-a-vintage-vhs-aesthetic-for-2024/"><u>New FCP Hacks How to Create a Vintage VHS Aesthetic for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-psychological-support-through-ai-tech-advancements/"><u>Reimagining Psychological Support Through AI Tech Advancements</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-logitech-g910-gamepad-software-latest-release-for-windows-computers/"><u>Update Your Logitech G910 Gamepad Software - Latest Release for Windows Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/urgent-improvements-for-enriching-chatgpt-plugin-experience/"><u>Urgent Improvements for Enriching ChatGPT Plugin Experience</u></a></li>
+</ul></div>
+

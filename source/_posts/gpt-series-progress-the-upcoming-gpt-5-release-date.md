@@ -1,7 +1,7 @@
 ---
 title: "GPT-Series Progress: The Upcoming GPT-5 Release Date?"
-date: 2024-09-12T07:48:27.989Z
-updated: 2024-09-13T07:48:27.989Z
+date: 2024-09-15T16:01:45.143Z
+updated: 2024-09-17T16:28:38.052Z
 tags:
   - chatgpt
   - open-ai
@@ -28,23 +28,9 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will There Be a GPT-5?
 
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Yes, there will almost certainly be a 5th iteration of OpenAI's GPT large language model called GPT-5\. Unfortunately, much like its predecessors, GPT-3.5 and GPT-4, OpenAI adopts a reserved stance when disclosing details about the next iteration of its GPT models. Instead, the company typically reserves such information until a release date is very close. This tight-lipped policy typically fuels conjectures about the release timeline for every upcoming GPT model.
 
@@ -55,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
  According to Altman, OpenAI isn't currently training GPT-5 and won't do so for some time. This comment confirms two things. Firstly, GPT-5 is indeed a thing. Lastly, OpenAI is not jumping too fast into developing GPT-5\.
 
  Here's a video of Altman's discussion below:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Is GPT-5 Coming?
 
@@ -81,23 +60,9 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5\.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4\.
 
@@ -106,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5\.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -137,17 +102,17 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-view-youtube-statistics/"><u>[New] 2024 Approved How to View YouTube Statistics?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-efficient-strategies-for-instagram-to-mp3-transformation-for-2024/"><u>[New] Efficient Strategies for Instagram to Mp3 Transformation for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-enhancing-instagram-visibility-with-powerful-promotions/"><u>[Updated] Enhancing Instagram Visibility with Powerful Promotions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-monthly-earnings-from-youtube-as-a-content-creator/"><u>[Updated] Monthly Earnings From YouTube as a Content Creator</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimized-approach-to-delete-unwanted-youtube-posts/"><u>2024 Approved Optimized Approach to Delete Unwanted YouTube Posts</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-service-failed-message-on-windows-disk-management/"><u>Addressing 'Service Failed' Message on Windows Disk Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-app-for-windows-enthusiasts/"><u>ChatGPT App for Windows Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/considering-my-iphones-fitness-with-ios-17-requirements/"><u>Considering My iPhone's Fitness with iOS 17 Requirements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-rectifying-6-common-gpt-errors/"><u>Mastering the Art of Rectifying 6 Common GPT Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seize-opportunities-in-openais-challenge-for-error-discovery/"><u>Seize Opportunities in OpenAI’s Challenge for Error Discovery</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/visual-vanguard-revived-radeon-for-2024/"><u>Visual Vanguard Revived Radeon for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/wordsmith-whispers-picks-for-the-best-transcription-programs/"><u>Wordsmith Whispers Picks for the Best Transcription Programs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-very-best-in-ios-video-playback-tools/"><u>2024 Approved Explore the Very Best in iOS Video Playback Tools</u></a></li>
+<li><a href="https://solve-news.techidaily.com/achieve-targeted-engagement-using-cookiebot-solutions/"><u>Achieve Targeted Engagement Using Cookiebot Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-and-machine-potential-this-years-most-promising-ai-tech/"><u>Bridging Human & Machine Potential: This Year's Most Promising AI Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-confirm-your-conversational-companions-status/"><u>How to Confirm Your Conversational Companion’s Status</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-z-fold-5-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy Z Fold 5 Without Password?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-discover-comedy-tear-fusion-in-these-highest-rated-memetic-accounts/"><u>In 2024, Discover Comedy-Tear Fusion in These Highest Rated Memetic Accounts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y17s-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y17s Phone Screen?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 13 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-nokia-c22-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Nokia C22 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-step-in-talking-machines-ai-breakthroughs/"><u>Next Step in Talking Machines: AI Breakthroughs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-theme-through-chatgpts-novel-writing-insights/"><u>The Evolution of Theme Through ChatGPT’s Novel-Writing Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/zombie-apocalypse-reinvented-a-comprehensive-review-of-7-days-to-die-shaping-the-undead-in-a-vast-open-world/"><u>Zombie Apocalypse Reinvented: A Comprehensive Review of '7 Days to Die' - Shaping the Undead in a Vast Open World</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Claude 3: The Tool for Your Needs?"
-date: 2024-09-12T07:46:26.925Z
-updated: 2024-09-13T07:46:26.925Z
+date: 2024-09-13T16:09:57.852Z
+updated: 2024-09-17T16:22:18.130Z
 tags:
   - chatgpt
   - open-ai
@@ -19,19 +19,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -51,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
  Anthropic has announced the release of Claude 3—a family of AI models with the potential to upset GPT-4\. It has outstanding potential, but is it ready to take ChatGPT's crown?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Claude 3?
 
  Claude 3 is a family of three multimodal AI models developed by Anthropic to [replace its Claude 2 series of AI models](http://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/). You could say Claude 3 is Anthropic's answer to [Google's Gemini and OpenAI's GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/). Released in three versions, Haiku, Sonnet, and Opus, in their increasing order of intelligence, Claude 3 is Anthropic's first multimodal AI model and represents a significant leap from the Claude 2 series.
@@ -76,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 ![Claude AI chatbot interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-image-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Just like most cutting-edge generative AI models out there, Claude 3 can generate top-notch responses for various queries across different fields. Whether you need a quick algebra problem solved, a brand-new song written, an in-depth article drafted, code written for software, or a massive data set analyzed, Claude 3 fits the bill.
 
  But most AI models are already good at these tasks, so why use Claude 3?
@@ -91,28 +64,15 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
  So, Claude 3 lets you do most of the things you can do with Gemini and GPT-4 (minus image generation) without having to pay the $20 subscription fee for ChatGPT premium.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Claude 3 vs. ChatGPT
 
 ![ChatGPT vs Claude AI logos](https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae116eaf3e790989364bc8da0ce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A quick way to test the performance of an AI model is to check how well it stacks up against the best in the market: GPT-4\. Of course, I put both models to the test; how well does Anthropic's Claude 3 stack up against the colossal GPT-4?
@@ -130,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 ![Claude 3 makes todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-makes-todo-list-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Both apps were functional to an extent, but it is clear Claude 3 did a better job on this one.
@@ -148,31 +108,25 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 ![ChatGPT answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-answers-trick-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT answered correctly even without GPT-4\. If you are wondering the reason for the choice of question, well, chatbots have historically failed woefully at this sort of questioning line. Up next was Claude's turn to answer.
 
 ![testing Claude 3 on commonsense reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/testing-claude-3-on-commonsense-reasoning.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Claude's response wasn't exactly a definitive answer, but it was able to identify the key information; you don't bury survivors. It's important to note that the last time we asked Claude 2 the same question, it wasn't able to see through the common sense trap.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Creative Writing
 
@@ -185,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 ![ChatGPT writes lyrics to a rap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-lyrics-to-a-rap-song.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And here's Claude's response, using the same prompt.
@@ -226,20 +180,16 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-is-sns-hdr-pro-the-gold-standard-for-hdr-editors/"><u>[New] 2024 Approved Is SNS HDR Pro the Gold Standard for HDR Editors?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5yq55p6c55qe44gq44og44os44kw44op44og55s76z2i44kt44oj44ox44ob44oj5oqa6kgt44ks44kk44oj/"><u>効果的なテレグラム画面キャプチャ技術ガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-rises-google-crafting-its-own-linguistic-masterpiece/"><u>Bard Rises: Google Crafting Its Own Linguistic Masterpiece</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-complexities-how-do-these-7-apps-function-with-gpt-4/"><u>Deciphering the Complexities: How Do These 7 Apps Function with GPT-4?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-more-better-ai-in-microsofts-bing/"><u>Discovering More, Better - AI in Microsoft's Bing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/funny-ringtones-where-to-download-them-for-2024/"><u>Funny Ringtones Where to Download Them for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/imitation-bot-aid-filches-fb-usernames-and-passes/"><u>Imitation Bot Aid: Filches FB Usernames & Passes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-xs-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone XS?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-insiders-look-at-3d-lut-design/"><u>In 2024, Insider's Look at 3D LUT Design</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-unlocking-the-art-of-guesting-on-social-tiktok-lives/"><u>In 2024, Unlocking the Art of Guesting on Social TikTok Lives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keeping-trade-secrets-safe-on-gpt-platforms/"><u>Keeping Trade Secrets Safe on GPT Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/rectify-round-corners-on-windows-11/"><u>Rectify Round Corners on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/redesigning-the-perception-of-sony-s3700-review-for-2024/"><u>Redesigning the Perception of Sony S3700 Review for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/snapchats-ai-six-compelling-arguments-for-its-significance/"><u>Snapchat's AI: Six Compelling Arguments for Its Significance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-impact-of-hugging-face/"><u>Understanding the Impact of Hugging Face</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aking-money-on-youtube-a-guide/"><u>[New] Making Money on YouTube A Guide</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1-can-you-trust-the-security-of-vlc-media-player/"><u>1. Can You Trust the Security of VLC Media Player?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-boundaries-vrs-educational-potential/"><u>Beyond Boundaries VR's Educational Potential</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-visual-storytelling-tools-intro-templates-for-2024/"><u>Free Visual Storytelling Tools - Intro Templates for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-ready-for-apples-new-evolution-the-apple-watch-series-8-specs-estimated-price-range-and-current-news-highlights/"><u>Get Ready for Apple's New Evolution - The Apple Watch Series 8: Specs, Estimated Price Range, and Current News Highlights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-correcting-the-missing-dll-file-msvcrt-on-your-computer-system/"><u>Guide to Correcting the Missing DLL File (MSVCRT) on Your Computer System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-capturing-on-screen-activity-and-audio-on-your-acer-laptop/"><u>Guide: Capturing On-Screen Activity & Audio on Your Acer Laptop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-resolve-file-size-exceeds-drive-capacity-on-your-external-memory-device/"><u>How to Resolve 'File Size Exceeds Drive Capacity' On Your External Memory Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/itunesmoviesanywhereiphoneipadts/"><u>ITunesやMoviesAnywhereなどでiPhone/iPadでTSファイルのプレーヤー設定</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/multi-resolution-adjustment-suite-for-2024/"><u>Multi-Resolution Adjustment Suite for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/start-filming-right-the-newbies-guide-to-video-gear-for-2024/"><u>Start Filming Right The Newbie's Guide to Video Gear for 2024</u></a></li>
 </ul></div>
 

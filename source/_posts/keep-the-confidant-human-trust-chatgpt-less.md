@@ -1,7 +1,7 @@
 ---
 title: Keep the Confidant Human; Trust ChatGPT Less
-date: 2024-09-12T07:48:02.024Z
-updated: 2024-09-13T07:48:02.024Z
+date: 2024-09-13T16:20:36.825Z
+updated: 2024-09-17T16:24:10.873Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Leaked Confidential Information Via ChatGPT
 
  According to [Gizmodo](https://gizmodo.com/chatgpt-ai-samsung-employees-leak-data-1850307376), Samsung's employees mistakenly leaked confidential information via ChatGPT on three separate occasions in the span of 20 days. This is just one example of how easy it is for companies to compromise private information.
@@ -45,42 +38,15 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do ChatGPT Data Leaks Happen?
 
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
 
  It is highly unlikely that the employees have done this on purpose, but that’s the scary part. [Most data breaches are caused by human error](https://www.makeuseof.com/people-weakest-link-in-cybersecurity/). Often, this is because the company has failed to educate its staff about the privacy risks of using tools like AI.
 
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
 
@@ -107,16 +73,25 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-achieve-financial-success-with-youtube-ad-profit-techniques/"><u>[New] 2024 Approved Achieve Financial Success with YouTube Ad Profit Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-engage-viewers-with-powerful-channel-building-stories/"><u>[Updated] In 2024, Engage Viewers with Powerful Channel-Building Stories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-commerce-7-ways-to-enhance-business-operations/"><u>ChatGPT in Commerce: 7 Ways to Enhance Business Operations</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/developing-dynamic-instagram-highlight-summaries-for-2024/"><u>Developing Dynamic Instagram Highlight Summaries for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-6-web-spaces-for-corporate-social-connections/"><u>In 2024, Prime 6 Web Spaces for Corporate Social Connections</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-cbt-through-ai-conversational-tools/"><u>Innovating CBT Through AI Conversational Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-edge-what-is-elons-new-tech/"><u>Inside Edge: What Is Elon's New Tech?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/rethinking-cpu-thermal-improvements-intels-new-lga18n-socket-and-the-end-of-custom-contact-frame-requirements-for-optimal-temps/"><u>Rethinking CPU Thermal Improvements: Intel's New LGA18n Socket and The End of Custom Contact Frame Requirements for Optimal Temps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/savingexporting-data-in-excel-preferring-non-standard-delimiters-such-as-pipe-symbols-over-traditional-commas-for-enhanced-file-compatibility/"><u>Saving/Exporting Data in Excel: Preferring Non-Standard Delimiters Such as Pipe Symbols Over Traditional Commas for Enhanced File Compatibility</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-astonishing-methods-boosting-your-daily-productivity-with-chatgpt/"><u>Top 7 Astonishing Methods: Boosting Your Daily Productivity with ChatGPT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-vr-clarity-achieved-for-2024/"><u>Ultimate VR Clarity Achieved for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-to-webm-the-10-best-youtube-to-webm-converters/"><u>[New] 2024 Approved YouTube to WebM The 10 Best YouTube to WebM Converters</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mobile-gear-enhancing-video-creation/"><u>[Updated] In 2024, Mobile Gear Enhancing Video Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-smarter-web-development-with-integrated-gpt-3/"><u>Achieve Smarter Web Development with Integrated GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-legal-influence-unveiled/"><u>ChatGPT's Legal Influence Unveiled</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-logitech-steering-wheel-software-driving-force-gt-for-windows-operating-systems-v7-v10-and-v11-free/"><u>Compatible Logitech Steering Wheel Software: Driving Force GT for Windows Operating Systems (V7, V10 & V11) [Free]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-python-tips-for-gpt-3-use/"><u>Essential Python Tips for GPT-3 Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-chatgpts-impact-on-personal-data-safety/"><u>Evaluating ChatGPT's Impact on Personal Data Safety</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-a-no-subscription-solution-with-the-eufy-t8200-video-doorbell-a-comprehensive-review/"><u>Explore a No-Subscription Solution with the Eufy T8200 Video Doorbell - A Comprehensive Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-note-30-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Note 30 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-interaction-with-these-top-5-tools/"><u>Mastering AI Interaction with These Top 5 Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-hidden-landscape-of-digital-interactions/"><u>Navigating the Hidden Landscape of Digital Interactions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-to-installing-microsoft-ergokey-4000-drivers-fast-and-easy-downloads/"><u>Quick Guide to Installing Microsoft ErgoKey 4000 Drivers - Fast & Easy Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-your-pc-potential-gpt-3s-repair-guide/"><u>Unleash Your PC Potential - GPT-3's Repair Guide</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
