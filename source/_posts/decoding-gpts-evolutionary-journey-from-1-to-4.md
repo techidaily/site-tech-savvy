@@ -1,7 +1,7 @@
 ---
 title: Decoding GPT's Evolutionary Journey From 1 to 4
-date: 2024-09-12T16:06:24.872Z
-updated: 2024-09-17T16:30:31.333Z
+date: 2024-09-16T16:47:41.129Z
+updated: 2024-09-22T18:44:59.952Z
 tags:
   - chatgpt
   - open-ai
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Natural language processing models made exponential leaps with the release of GPT-3 in 2020\. With 175 billion parameters, GPT-3 is over 100 times larger than GPT-1 and over ten times larger than GPT-2\.
 
  GPT-3 is trained on a diverse range of data sources, including BookCorpus, Common Crawl, and Wikipedia, among others. The datasets comprise nearly a trillion words, allowing GPT-3 to generate sophisticated responses on a wide range of NLP tasks, even without providing any prior example data.
@@ -84,15 +77,22 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
  OpenAI also released an improved version of GPT-3, GPT-3.5, before officially launching GPT-4\.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-4
 
 ![openai gpt4 model chatgpt upgrade](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-gpt4-model-chatgpt-upgrade.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  GPT-4 is the latest model in the GPT series, launched on March 14, 2023\. It's a significant step up from its previous model, GPT-3, which was already impressive. While the specifics of the model's training data and architecture are not officially announced, it certainly builds upon the strengths of GPT-3 and overcomes some of its limitations.
 
@@ -138,21 +138,19 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>[Updated] 2024 Approved Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-earning-strategies-for-successful-youtube-shorts-what-you-need-and-how-much/"><u>[Updated] Earning Strategies for Successful Youtube Shorts What You Need & How Much?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-captivating-hdr-portraits-for-the-art-enthusiast/"><u>[Updated] In 2024, Captivating HDR Portraits for the Art Enthusiast</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unleash-ps2-gaming-on-ios-the-best-emulators/"><u>[Updated] In 2024, Unleash PS2 Gaming on iOS The Best Emulators</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-23-key-metaverse-implementations-unveiling-future-prospects/"><u>2024 Approved 23 Key Metaverse Implementations Unveiling Future Prospects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-advice-which-is-superior-bing-chat-or-gpt-3-for-freelancers/"><u>Expert Advice: Which Is Superior, Bing Chat or GPT-3 for Freelancers?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-recommendations-for-limitless-data-holding-for-2024/"><u>Expert Recommendations for Limitless Data Holding for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-x50i-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor X50i Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ideal-ai-applications-boosting-academic-note-taking/"><u>Ideal AI Applications Boosting Academic Note Taking</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-c55-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme C55 Through Google Earth?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-world-of-predictive-ai-techniques/"><u>Navigating the World of Predictive AI Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/outer-worlds-video-game-review-an-entertaining-sci-fi-adventure/"><u>Outer Worlds Video Game Review: An Entertaining Sci-Fi Adventure</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/palm-2-and-gpt-4-showdown-exploring-distinctions/"><u>PaLM 2 and GPT-4 Showdown: Exploring Distinctions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-your-digital-profile-in-custom-gpt-uses/"><u>Safeguarding Your Digital Profile in Custom GPT Uses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-meets-talk-mercedes-innovative-vehicle-integration/"><u>Tech Meets Talk: Mercedes' Innovative Vehicle Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-developer-and-ai-synergy/"><u>The Developer and AI Synergy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-best-approaches-for-quiet-visuals-capture/"><u>[New] In 2024, Best Approaches for Quiet Visuals Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pioneering-top-vr-movies-for-enjoyment/"><u>[New] Pioneering Top VR Movies for Enjoyment</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-archive-and-backup-your-chats-on-messenger-securely/"><u>[Updated] 2024 Approved How to Archive & Backup Your Chats on Messenger Securely</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tips-for-crafting-an-engaging-video-closure-on-youtub/"><u>[Updated] Tips for Crafting an Engaging Video Closure on YouTub</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-capture-and-store-facebook-videos-in-hd/"><u>2024 Approved Capture and Store Facebook Videos in HD</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223477411-wmamp4-movavi/"><u>快速免費線上WMA至MP4變更: 經驗超群的Movavi音像檔轉換器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726222398645-avi/"><u>了解AVI文件: 詳細介紹、內容以及在多媒體設備上如何運行</u></a></li>
+<li><a href="https://os-tips.techidaily.com/beyond-the-basics-discover-10-unexpected-benefits-of-using-your-iphone/"><u>Beyond the Basics: Discover 10 Unexpected Benefits of Using Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cambia-archivo-m4b-por-formato-aac-sin-costo-alguno-con-convertidor-online-de-movavi/"><u>Cambia Archivo M4B Por Formato AAC Sin Costo Alguno Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-fast-fixes-for-lost-reddit-content/"><u>In 2024, Unveiling Fast Fixes for Lost Reddit Content</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mirror-your-media-how-to-flip-a-clip-in-final-cut-pro-quickly/"><u>New 2024 Approved Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-functionality-to-a-nonfunctioning-lenovo-webcam/"><u>Step-by-Step Guide: Restoring Functionality to a Nonfunctioning Lenovo Webcam</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkvm4v-movavi/"><u>무료 제공: 인터넷을 통해 MKV/M4V 형식 전환, Movavi를 사용한 기술</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aif-mp4-movavi/"><u>コレクトフリーネット AIF 動画MP4変換ソフト - Movavi</u></a></li>
 </ul></div>
 

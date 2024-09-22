@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Mapping: The Landscape of OpenAI"
-date: 2024-09-14T16:07:35.178Z
-updated: 2024-09-17T16:41:05.244Z
+date: 2024-09-18T18:33:43.979Z
+updated: 2024-09-22T17:10:08.157Z
 tags:
   - chatgpt
   - open-ai
@@ -66,21 +66,41 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
 
 ![DALL-E Playground Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dall-e-playground-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [DALL-E is a generative AI model](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) capable of generating images from text descriptions. It was created in January 2021 and has since undergone several improvements.
 
  The initial models could only generate images with a resolution of 256x256 megapixels and were heavily criticized and shunned for their inaccurate and blurry images. However, DALL-E 2, released in April 2022 and made public in July 2022, could create images of 1024x1024 megapixels and is more accurate and realistic than its predecessor.
 
  This AI model can generate visual content like paintings and memes for product designs, fliers, commercial and campaign posters, research, and more.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Codex
 
 ![codex js sandbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/codex-js-sandbox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Released in 2021, Codex was based on the language model GPT-3 family—an AI model that can generate code. It could create code that is as good, or even better, than those written by human programmers.
@@ -88,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
  Codex was able to generate code in various programming languages, including Python and Java. It could also translate over 200 languages, text, and code, and even translate between different programming languages.
 
  Though Codex was a nifty service, it was shut down in March 2023, with OpenAI recommending that users opt for ChatGPT instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Challenges and Controversies Faced by OpenAI
 
@@ -114,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
 
  However, as AI advances, so do its applications and chances of being used for malicious purposes. This has led OpenAI to try to find a balance between hiding and sharing research, despite the former going against their mission.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Ethical Issues
 
  There have been cases where [OpenAI’s models have shown biased content](https://www.makeuseof.com/does-chatgpt-lie/) due to the type of training data they were built with. Addressing this problem is complicated as it will need a lot of fine-tuning and comprehensive data selection. And even at that, it would be almost impossible to eradicate biased results.
@@ -130,10 +136,10 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
  OpenAI has numerous for-profit competitors, such as DeepMind (a subsidiary of Alphabet Inc.) and NVIDIA Corporation, which is also developing AI solutions. For OpenAI to remain at the forefront, there must be continued innovations and collaborations. This has led them to move from their non-profit declaration to a hybrid that welcomes funding.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does the Future Look Like for OpenAI?
@@ -159,20 +165,15 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/1726026571405-2024/"><u>【2024年度対策】ニコニコ生放送で「タイムシフト」機能を記録・保管するテクニック</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-which-iphone-video-editor-stands-tall-cameo-vs-filmorago/"><u>2024 Approved Which iPhone Video Editor Stands Tall? Cameo Vs. FilmoraGo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029389449-mp4/"><u>動画化テクニック：連続画像をMP4フォーマットに変換する方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029016473-4/"><u>最高の電話会議を実現するための4つの優れた通話録音ツール・アプリ</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-itel-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Itel Fingerprint Lock</u></a></li>
-<li><a href="https://article-tips.techidaily.com/captivation-craftsman-for-posters/"><u>Captivation Craftsman for Posters</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Plus without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/subscriber-led-achievement-awards-in-content-space-for-2024/"><u>Subscriber-Led Achievement Awards in Content Space for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-downloading-anime-from-animefreak-tv/"><u>Ultimate Guide to Downloading Anime From AnimeFreak TV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-mov-files-a-comprehensive-guide-on-what-they-are-and-how-you-can-access-them/"><u>Understanding MOV Files: A Comprehensive Guide on What They Are & How You Can Access Them</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-get-started-with-wax-a-beginners-guide-to-free-video-editing-software-for-2024/"><u>Updated Get Started with Wax A Beginners Guide to Free Video Editing Software for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/upgrade-strategies-moving-from-windows-10-to-the-latest-version/"><u>Upgrade Strategies: Moving From Windows 10 to the Latest Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027749538-vlc/"><u>VLCメディアプレーヤーによるスライドショー制作の手順</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-13-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 13? How to Fix</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726026594064-windows-113/"><u>Windows 11向けスクリーン録画テクニックトップ3: [選択範囲機能を使用]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-veiled-vocal-vaults-top-6-under-the-radar-mobile-apps/"><u>[New] Veiled Vocal Vaults Top 6 Under-the-Radar Mobile Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions/"><u>[Updated] How to Sculpt Perfect Images on YouTube with Right Dimensions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-comprehen-word-limit-reached-continuation-in-the-next-step/"><u>[Updated] The Comprehen... (Word Limit Reached, Continuation in the Next Step)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-visionsnap-tech-your-guide-to-the-best-of-2023-for-2024/"><u>[Updated] VisionSnap Tech – Your Guide to the Best of 2023 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-the-common-pitfalls-effective-techniques-to-fix-obs-audio-malfunctions-using-movavi/"><u>Bypassing the Common Pitfalls: Effective Techniques to Fix OBS Audio Malfunctions Using Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-conversion-of-m4b-files-to-wav-format-quick-and-easy-with-movavi/"><u>Free Conversion of M4B Files to WAV Format - Quick & Easy with Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-to-capturing-your-favorite-programs-on-fubotv-using-or-skipping-the-dvr-function/"><u>Step-by-Step Guide to Capturing Your Favorite Programs on FuboTV Using or Skipping the DVR Function</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transferer-un-fichier-wma-vers-un-format-wav-sans-frais-utilisez-movavi/"><u>Transférer Un Fichier WMA Vers Un Format WAV Sans Frais - Utilisez Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vrije-online-3gp-en-m4a-formaten-veranderen-met-movavi/"><u>Vrije Online 3GP en M4A Formaten Veranderen Met Movavi</u></a></li>
 </ul></div>
 

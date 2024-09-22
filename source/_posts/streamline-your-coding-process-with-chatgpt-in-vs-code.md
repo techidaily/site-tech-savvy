@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Coding Process with ChatGPT in VS Code
-date: 2024-09-16T16:40:44.160Z
-updated: 2024-09-17T16:03:57.648Z
+date: 2024-09-18T16:52:41.595Z
+updated: 2024-09-22T17:46:00.017Z
 tags:
   - chatgpt
   - open-ai
@@ -91,6 +91,13 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![Follow up box refactored into a class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/follow-up-box-refactor-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The generated code above is more modular and reusable.
 
 ## 2\. Debug Your Code
@@ -103,6 +110,20 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![Debugged code output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/debugged-code-output-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Write Your Code in Another Language
 
  You might want to write a program in a particular language besides your core. You can write your code in your core language and ask ChatGPT to rewrite it in the chosen programming language.
@@ -113,6 +134,19 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![Code to to convert to C example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/code-to-tp-convert-to-c-example.jpeg)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can achieve this by right-clicking on the highlighted code and selecting the **Ask GPT** option.
 
  Here's our prompt in VS Code:
@@ -122,13 +156,6 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
  Although it generated the C equivalent twice before getting it right, the final code works.
 
 ![Generated C code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generated-c-code.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Generate a Frontend Component for Your API
 
@@ -152,13 +179,6 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![Code to to explain example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/code-to-to-explain-example.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It generated the following response:
 
 ![Code explained example output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/code-explained-example-output.jpg)
@@ -175,14 +195,14 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![Generated HMTL template example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generated-hmtl-template-example.jpg)
 
- Again, for this type of use case, you might want to click the **Ask Codebase** checkbox for ChatGPT to access your code base.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Again, for this type of use case, you might want to click the **Ask Codebase** checkbox for ChatGPT to access your code base.
 
 ## 7\. Unit-Test Your Code
 
@@ -198,13 +218,6 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![Generated unit tests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generated-unit-tests.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Find Potential Security Vulnerabilities
 
  While it may not provide detailed security analysis, the VS Code ChatGPT extension can be a handy tool to quickly [check for security vulnerabilities in your application](https://www.makeuseof.com/find-web-application-vulnerabilities/) code base and save you time scanning manually.
@@ -212,19 +225,6 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 ![Security vulnerability prompt VS Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/security-vulnerability-prompt-vs-code.jpg)
 
  To allow ChatGPT to scan your code base, use the **Ask Codebase** option (click the extension icon and check the **Ask Codebase** box).
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Ask VS Code-Related Questions
 
@@ -269,16 +269,21 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-achieve-professionalism-in-sims-4-videography/"><u>[New] In 2024, Achieve Professionalism in Sims 4 Videography</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-sustainable-growth-developing-a-long-term-personal-brand-on-youtube/"><u>[New] Sustainable Growth Developing a Long-Term Personal Brand on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-lacks-a-reflective-writing-check/"><u>AI Lacks a Reflective Writing Check</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-x9a-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor X9a? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ete-guidebook-to-evaluating-your-videos-impact-and-earning-power/"><u>Complete Guidebook to Evaluating Your Video's Impact and Earning Power</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harness-the-power-of-chatgpt-in-business-environments/"><u>Harness the Power of ChatGPT in Business Environments</u></a></li>
-<li><a href="https://article-files.techidaily.com/instantaneous-photographic-view-in-win11/"><u>Instantaneous Photographic View in Win11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamline-and-optimize-google-for-podcasters/"><u>Streamline & Optimize Google for Podcasters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quintet-of-success-how-chatgpt-skyrocketed/"><u>The Quintet of Success: How ChatGPT Skyrocketed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-role-of-gpt-in-advancing-healthcare-delivery/"><u>The Role of GPT in Advancing Healthcare Delivery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-top-4-advanced-ai-narratives-generators/"><u>Unveiling Top 4 Advanced AI Narratives Generators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-drone-tech-the-best-for-your-constant-presence-for-2024/"><u>[New] Drone Tech The Best for Your Constant Presence for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-share-audio-waves-with-followers-on-instagram/"><u>[New] Share Audio Waves with Followers on Instagram</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-first-time-streamers-unite-learn-obs-and-broadcast-to-youtube/"><u>[Updated] 2024 Approved First-Time Streamers Unite Learn OBS & Broadcast to Youtube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-virtual-reality-wonders-uncovering-the-leading-vr-gear/"><u>[Updated] In 2024, Virtual Reality Wonders Uncovering the Leading VR Gear</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-vlog-presentation-converting-h-footage-for-vertical-display-for-2024/"><u>[Updated] Mastering Vlog Presentation Converting H-Footage for Vertical Display for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725286886892-winx-dvd-author/"><u>最新WinX DVD Author技術的スペック - 使用可能なデバイスとオペレーティングシステム: 正規情報</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-facile-et-gratuite-de-fichiers-webm-vers-3gp-en-ligne-solutions-avec-movavi/"><u>Conversion Facile Et Gratuite De Fichiers WEBM Vers 3GP en Ligne - Solutions Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-convert-avi-videos-to-wav-audio-on-the-web-for-free-try-movavis-expert-service-now/"><u>Effortlessly Convert AVI Videos to WAV Audio on the Web for Free - Try Movavi's Expert Service Now!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/free-secure-video-calls-top-10-safe-apps-for-android-and-ios-users-for-2024/"><u>Free, Secure Video Calls Top 10 Safe Apps for Android and iOS Users for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-best-gif-recorders-for-capturing-animated-gifs-on-windows/"><u>In 2024, Best GIF Recorders for Capturing Animated GIFs on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mef/"><u>MEF轉檔在網路上無限制下載 - 動體影像交換服務</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/stream-like-a-pro-integrate-your-obs-setup-for-youtube-and-twitch-for-2024/"><u>Stream Like a Pro Integrate Your OBS Setup for YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-19-best-free-video-editing-software-replace-wondershare-filmora/"><u>Top 19 Best Free Video Editing Software: Replace Wondershare Filmora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-bmp-photos-into-tiff-files-no-costs-all-convenience/"><u>Transform Your BMP Photos Into TIFF Files - No Costs, All Convenience!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-shrink-your-mov-videos-with-ease-windows-and-mac-tips-and-free-web-tools/"><u>Ultimate Guide: Shrink Your MOV Videos with Ease - Windows & Mac Tips and Free Web Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-movavis-shipping-returns-and-exchange-regulations-for-hassle-free-shopping/"><u>Understanding Movavi's Shipping, Returns, and Exchange Regulations for Hassle-Free Shopping</u></a></li>
 </ul></div>
 

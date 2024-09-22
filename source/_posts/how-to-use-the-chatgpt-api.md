@@ -1,7 +1,7 @@
 ---
 title: How to Use the ChatGPT API
-date: 2024-09-10T16:29:56.555Z
-updated: 2024-09-17T16:29:50.987Z
+date: 2024-09-21T17:19:46.741Z
+updated: 2024-09-22T17:31:27.286Z
 tags:
   - chatgpt
   - open-ai
@@ -71,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
  To get access to the GPT-4 API, you need to make a successful payment of $1 or more. Otherwise, you might get an error similar to "The model \`gpt-4\` does not exist or you do not have access to it."
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Using the API for Chat Completion
 
  You need to configure the chat model to get it ready for an API call. Here’s an example:
@@ -257,13 +264,6 @@ response = client.chat.completions.create(
 
 ![ChatGPT API output response format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-api-output-response-format.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can extract the content from the response, as a JSON string, with this code:
 
 `print(response.choices [0].message.content)`
@@ -369,14 +369,14 @@ print(response.choices [0].message.content)`
 4. You won't be able to view the API key again, so copy it and store it somewhere safe.  
 ![OpenAI API Key Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/openai-api-key-page.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The code used in this project is available in a [GitHub repository](https://github.com/makeuseofcode/ChatGPT-API-Sample-Code) and is free for you to use under the MIT license.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Setting Up the Development Environment
 
@@ -402,13 +402,6 @@ print(response.choices [0].message.content)`
  The ChatGPT API is primarily optimized for chat but it also works well for text completion tasks. Whether you want to generate code, translate languages, or draft documents, this API can handle it all.
 
  To get access to the GPT-4 API, you need to make a successful payment of $1 or more. Otherwise, you might get an error similar to "The model \`gpt-4\` does not exist or you do not have access to it."
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Using the API for Chat Completion
 
@@ -437,6 +430,13 @@ response = client.chat.completions.create(
 
 ![ChatGPT API output response format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-api-output-response-format.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can extract the content from the response, as a JSON string, with this code:
 
 `print(response.choices [0].message.content)`
@@ -444,19 +444,6 @@ response = client.chat.completions.create(
  Running this code produces the following output:
 
 ![Programming joke output generated via Chat Completions API](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/programming-joke-output-generated-via-chat-completions-api.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The code demonstrates a ChatGPT API call using Python. Note that the model understood the context ("dad joke") and the type of response (Q&A form) that we were expecting, based on the prompts fed to it.
 
@@ -481,13 +468,6 @@ response = client.chat.completions.create(
  After high demand from developers, OpenAI has introduced JSON mode which instructs the model to always return a JSON object. You can enable JSON mode by setting **response\_format** to **{ "type": "json\_object" }**. Currently, this feature is only available to the latest models: gpt-3.5-turbo-0125 and gpt-4-turbo-preview.
 
  You can further configure the model using the other parameters provided by [OpenAI](https://platform.openai.com/docs/api-reference/chat/create).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Using the ChatGPT API for Text Completion
 
@@ -521,6 +501,13 @@ print(response.choices [0].message.content)`
  Running the above code will generate a poem for programmers, for example:
 
 ![A poem on programmers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a-poem-on-programmers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT API Pricing
 
@@ -647,6 +634,13 @@ response = client.chat.completions.create(
  After high demand from developers, OpenAI has introduced JSON mode which instructs the model to always return a JSON object. You can enable JSON mode by setting **response\_format** to **{ "type": "json\_object" }**. Currently, this feature is only available to the latest models: gpt-3.5-turbo-0125 and gpt-4-turbo-preview.
 
  You can further configure the model using the other parameters provided by [OpenAI](https://platform.openai.com/docs/api-reference/chat/create).
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Using the ChatGPT API for Text Completion
 
@@ -718,16 +712,18 @@ print(response.choices [0].message.content)`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-starting-off-with-zoom-meetings-your-first-steps-guide/"><u>[New] In 2024, Starting Off with Zoom Meetings Your First Steps Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-checklist-for-recording-whatsapp-discussions/"><u>[New] The Ultimate Checklist for Recording WhatsApp Discussions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-5-gaming-monitors-for-playstation-and-xbox/"><u>2024 Approved The Ultimate 5 Gaming Monitors for PlayStation & Xbox</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/7-critical-practices-for-controlling-instagram-tv-videosize/"><u>7 Critical Practices for Controlling Instagram TV Videosize</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-it-time-to-switch-to-a-state-of-the-art-apple-watch-version/"><u>Is It Time to Switch to a State-of-the-Art Apple Watch Version</u></a></li>
-<li><a href="https://discover-best.techidaily.com/optimieren-der-videodatengrosse-auf-facebook-schritte-zur-effektiven-komprimierung/"><u>Optimieren Der Videodatengröße Auf Facebook: Schritte Zur Effektiven Komprimierung</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-playing-and-converting-fsb-audio-files-to-mp3-format/"><u>Ultimate Guide to Playing and Converting FSB Audio Files to MP3 Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-transforming-120fps-footage-into-60fps-tips-and-tricks/"><u>Ultimate Guide to Transforming 120Fps Footage Into 60Fps - Tips & Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-step-by-step-tutorial-converting-your-movies-into-dvd-format-on-pc/"><u>Ultimate Step-by-Step Tutorial: Converting Your Movies Into DVD Format on PC</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-audio-editing-essentials-2-ways-to-fade-in-and-out-in-fcp/"><u>Updated Audio Editing Essentials 2 Ways to Fade In and Out in FCP</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-advanced-techniques-for-using-the-instagram-sticker-question-mark-for-2024/"><u>[Updated] Advanced Techniques for Using the Instagram Sticker Question Mark for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webpmovavi/"><u>高画質で効率的なWEBP画像変換、Movaviのフリーオンラインツール - すぐに始める方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aifmovavi/"><u>無料で簡単に動くAIF画像ファイルを変換:Movaviのシークレット</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquer-the-vr-world-your-first-vr-adventure/"><u>Conquer the VR World Your First VR Adventure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertissez-gratuitement-vos-fichiers-raf-en-images-jpeg-en-ligne-rapidement-seul-avec-movavi/"><u>Convertissez Gratuitement Vos Fichiers RAF en Images JPEG en Ligne Rapidement - Seul Avec Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-a25-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy A25 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-para-el-ipad-su-solucion-simple-y-practica-para-transferir-cine-en-segundo-plano/"><u>Movavi Para El iPad: Su Solución Simple Y Práctica Para Transferir Cine en Segundo Plano</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movaviwavai/"><u>Movaviで簡単にWAVファイルを無料でAI変換する方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-audio-and-video-file-conversion-change-mpe-to-wma-without-cost-try-out-today/"><u>Online Audio and Video File Conversion: Change MPE to WMA without Cost - Try Out Today!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/secrets-to-successful-hash-tag-application-for-improved-campaigns-on-facebook-for-2024/"><u>Secrets to Successful Hash Tag Application for Improved Campaigns on Facebook for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-k11x-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo K11x Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unpackaging-text-magic-the-best-after-effects-plugin-guide/"><u>Unpackaging Text Magic The Best After Effects Plugin Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-11-gamers-rejoice-free-steelseries-engine-software-downloads-available/"><u>Windows 11 Gamers Rejoice: Free SteelSeries Engine Software Downloads Available!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Frontiers: AI's Influence on Digital Entertainment"
-date: 2024-09-15T16:23:49.728Z
-updated: 2024-09-17T16:26:05.170Z
+date: 2024-09-16T17:27:29.325Z
+updated: 2024-09-22T18:12:47.499Z
 tags:
   - chatgpt
   - open-ai
@@ -58,16 +58,16 @@ thumbnail: https://thmb.techidaily.com/a8009f1be4223fad5f174852a5dbbbf732624444e
 
  The final major struggle with AI-assisted game design is how it works legally. As we previously mentioned, AI-driven art is not currently accepted by the wider public, especially not in online circles. With gaming being such an online-centric industry, it seems that the hurdles could be bigger here than anywhere else, and many gamers may see avoiding the purchase of AI-driven games as an important moral stance.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Video Game Industry Needs Solid Guidelines Around AI
 
 ![screenshot of Google I/O 2023 showing a woman and man on opposite sides of the stage with a screen between them showing an AI-assistant helping to write a story.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-io-stage-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
 
@@ -78,10 +78,10 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
  On top of that, the games industry should not wait until legislation is imposed upon it by the government. Self-imposed codes and standards are an important part of any industry, from the Comic Code Authority to the ESRB; these self-policing policies are an important part of a healthy industry. People in positions of power within the industry need to start thinking about how we restrict the power that AI has over creative human expression now and not when it's too late.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Could AI Be the Future of Gaming?
@@ -107,21 +107,18 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-video-boost-the-essential-handbook-for-vce-22/"><u>[New] Mastering Video Boost The Essential Handbook for VCE 2.2</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-smart-tagging-amplifying-your-youtube-presence/"><u>[Updated] 2024 Approved Smart Tagging Amplifying Your YouTube Presence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accessing-gpt-via-chat-are-vpns-essential/"><u>Accessing GPT via Chat: Are VPNs Essential?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-chatgpts-next-level-in-verified-world/"><u>Deciphering ChatGPT's Next Level in Verified World</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-trainer-strategies-using-chatgpt/"><u>Enhancing Trainer Strategies Using ChatGPT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-realme-narzo-60-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Realme Narzo 60 Pro 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-sony-xperia-10-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Sony Xperia 10 V without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-a59-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A59 5G Fingerprint Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-llms-revolutionizing-text-understanding/"><u>Inside LLMs: Revolutionizing Text Understanding</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/optimized-approach-to-delete-unwanted-youtube-posts-for-2024/"><u>Optimized Approach to Delete Unwanted YouTube Posts for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneer-your-own-path-8-tailored-ai-experiences/"><u>Pioneer Your Own Path: 8 Tailored AI Experiences</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/push-boundaries-expert-advice-on-snapchat-zooms/"><u>Push Boundaries Expert Advice on Snapchat Zooms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-unveiled-newest-gpt-capabilities-you-cant-miss/"><u>The Future, Unveiled: Newest GPT Capabilities You Can't Miss</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-makes-vector-databases-ideal-for-ai/"><u>What Makes Vector Databases Ideal for AI?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-how-to-make-a-good-podcast-trailer/"><u>[New] 2024 Approved How To Make A Good Podcast Trailer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-moments-of-quietude-top-idle-smartphone-games/"><u>[New] In 2024, Moments of Quietude Top Idle Smartphone Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discovering-beyond-vidcon-key-youtube-occasions/"><u>[Updated] 2024 Approved Discovering Beyond VidCon Key Youtube Occasions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-master-iphone-image-conversion-from-jpgpng-to-pdf/"><u>2024 Approved Master iPhone Image Conversion From JPG/PNG to PDF</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automation-made-easy-ubuntu-plus-gpt-setup/"><u>Automation Made Easy: Ubuntu + GPT Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-barriers-chatgpts-role-in-workplace-e-mails/"><u>Breaking Down Barriers: ChatGPT's Role in Workplace E-Mails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-need-for-jailbreaking-chatgpt/"><u>Evaluating the Need for Jailbreaking ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-12-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/intuitive-illumination-with-neewers-tt560-speedlite/"><u>Intuitive Illumination with Neewer's TT560 Speedlite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tracing-ais-footsteps-through-time/"><u>Tracing AI’s Footsteps Through Time</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievable-offer-acquire-the-iconic-thordarth-vader-screen-with-powerful-2k-resolution-for-only-139-at-a-chinese-shop/"><u>Unbelievable Offer! Acquire the Iconic Thor/Darth Vader Screen with Powerful 2K Resolution for Only $139 at a Chinese Shop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-ai-enhance-mental-health-care-or-hinder-it/"><u>Will AI Enhance Mental Health Care or Hinder It?</u></a></li>
 </ul></div>
 

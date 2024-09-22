@@ -1,7 +1,7 @@
 ---
 title: Why Trusting Chatbots Isn't a Strategy for Secure Key Creation
-date: 2024-09-11T16:24:56.098Z
-updated: 2024-09-17T16:29:44.171Z
+date: 2024-09-19T17:22:19.895Z
+updated: 2024-09-22T18:06:57.362Z
 tags:
   - chatgpt
   - open-ai
@@ -57,10 +57,10 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
  Using free or [cheap Windows activation keys is risky business](https://www.makeuseof.com/risks-using-cheap-windows-activation-keys/) and raises several ethical questions. Above all, even if you manage to generate a working activation key with ChatGPT, it’s illegal to use it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don’t Believe Everything You Read Online
@@ -86,20 +86,18 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-crafting-captivating-captions-a-triad-of-tips-for-insta-videos-for-2024/"><u>[New] Crafting Captivating Captions A Triad of Tips for Insta Videos for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-crucial-top-5-smallest-action-recorders-review/"><u>2024 Approved Crucial Top 5 Smallest Action Recorders Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-for-everyone-automating-with-auto-gpt-on-ubuntu/"><u>AI for Everyone: Automating with Auto-GPT on Ubuntu</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/budget-drone-buyers-guide-top-choices-under-100/"><u>Budget Drone Buyer's Guide Top Choices Under $100</u></a></li>
-<li><a href="https://win11.techidaily.com/dvdtsutaya/"><u>DVDがTSUTAYAで貸し出されている場合、どのようにしてデータを正当化的に複写・リップするか</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204929300-easy-guide-stop-that-constant-cursor-fix-blink-issue-now/"><u>Easy Guide: Stop That Constant Cursor - Fix Blink Issue Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixed-how-to-resolve-forza-horizon-4-car-crashes-in-pc-version/"><u>Fixed: How to Resolve Forza Horizon 4 Car Crashes in PC Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-delete-your-chatgpt-history/"><u>How to Delete Your ChatGPT History</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-wellbeing-objectives-via-ai-insight/"><u>Navigating Wellbeing Objectives via AI Insight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-machine-metrics-overshadowing-turing/"><u>The Evolution of Machine Metrics, Overshadowing Turing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-role-of-msda80dll-in-your-system-and-its-necessity/"><u>The Role of MSDA80DLL in Your System and Its Necessity</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-tecno-pova-5-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Tecno Pova 5 Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-artificial-intelligences-journey-boons-and-busts/"><u>Understanding Artificial Intelligence's Journey: Boons & Busts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-voice-potential-5-innovative-gpt-commands/"><u>Unleash Voice Potential: 5 Innovative GPT Commands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-genuine-tokens-from-fake-bingcrypt-schemes/"><u>Unveiling Genuine Tokens From Fake BingCrypt Schemes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-downloading-audio-made-simple-with-these-19-top-quality-free-rippers-from-youtube-for-2024/"><u>[New] Downloading Audio Made Simple with These 19 Top-Quality Free Rippers From YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-followers-and-posts-10-instagram-essentials-to-watch/"><u>[Updated] 2024 Approved Followers & Posts 10 Instagram Essentials to Watch</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-entry-level-equipment-checklist-for-youtube-success/"><u>2024 Approved Your Entry-Level Equipment Checklist for YouTube Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-cybersecurity-five-facilitators-for-fraudsters/"><u>AI's Role in Cybersecurity: Five Facilitators for Fraudsters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bots-banter-in-the-binary-battleground/"><u>Bots Banter in the Binary Battleground</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-standards-of-dependability-in-healthcare/"><u>GPT’s Standards of Dependability in Healthcare</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-meizu-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Meizu Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ter-loop-a-pocketful-of-humorous-short-film-ideas/"><u>Laughter Loop A Pocketful of Humorous Short Film Ideas</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-ig-success-a-guide-to-best-management-tools/"><u>Navigating IG Success A Guide to Best Management Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strengthening-empathy-through-ai-dialogue/"><u>Strengthening Empathy Through AI Dialogue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-great-ai-face-off-snapchats-intelligence-versus-bings-chat-bot-on-skype-spot-the-top-8-variations/"><u>The Great AI Face-Off: Snapchat's Intelligence Versus Bing's Chat Bot on Skype - Spot the Top 8 Variations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-of-generative-techs-abilities/"><u>The Hidden Dangers of Generative Tech's Abilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-avoiding-ai-for-windows-key-generation-is-crucial/"><u>Why Avoiding AI for Windows Key Generation Is Crucial</u></a></li>
 </ul></div>
 

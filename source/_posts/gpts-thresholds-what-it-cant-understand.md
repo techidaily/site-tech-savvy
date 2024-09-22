@@ -1,7 +1,7 @@
 ---
 title: "GPT's Thresholds: What It Can't Understand"
-date: 2024-09-10T16:11:43.239Z
-updated: 2024-09-17T16:12:15.243Z
+date: 2024-09-16T18:25:52.211Z
+updated: 2024-09-22T17:46:57.392Z
 tags:
   - chatgpt
   - open-ai
@@ -66,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
  However, the current versions of ChatGPT only seem to be able to write simple malware programs, which can also be buggy at times. But regardless of this, [the chatbot can be exploited for malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Invade Personal Privacy or Security
 
  Since its launch in late 2022, [ChatGPT's potential as a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/) has been a point of concern. But can you use ChatGPT to invade someone else's personal boundaries?
@@ -104,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  Additionally, ChatGPT will not engage with any prompts that promote harm to the user or others.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Provide Its Own Opinion
@@ -120,14 +113,14 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
 ![chatgpt opinion request screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-opinion-1.jpg)
 
- One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
 
 ## 7\. Look Up Web Results
 
@@ -138,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  ChatGPT Plus is a paid subscription that costs $20 monthly. If you use ChatGPT a lot and want access to all the service's features, you may want to consider upgrading to Plus.
 
  At the time of writing, ChatGPT's browsing feature is disabled but is expected to return in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Isn't an All-in-One Solution
 
@@ -162,16 +162,15 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-gopro-selection-a-comparative-review/"><u>[New] Mastering Gopro Selection A Comparative Review</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-from-digital-to-physical-crafting-flawless-dvds-on-a-mac-for-2024/"><u>[Updated] From Digital to Physical Crafting Flawless DVDs on a Mac for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/error-403-in-roblox-effective-solutions-for-windows-users/"><u>Error 403 in Roblox: Effective Solutions for Windows Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/hassle-free-webinar-logging-tips-for-pc-and-mac-enthusiasts-for-2024/"><u>Hassle-Free Webinar Logging Tips for PC & Mac Enthusiasts for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-12-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 12 When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-transform-your-gif-files-into-mp4-format-for-free-a-comprehensive-guide-across-devices/"><u>How to Transform Your GIF Files Into MP4 Format for Free: A Comprehensive Guide Across Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphonewebm/"><u>IPhone上で簡単にWebM動画再生：ガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipod-video-converter-factory-pro-demo-version-with-no-cost-how-to-use/"><u>IPod Video Converter Factory Pro Demo Version with No Cost - How to Use</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/step-by-step-method-for-stunning-igtv-backgrounds/"><u>Step-By-Step Method for Stunning IGTV Backgrounds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/microsoft-teams/"><u>マイクロフォンレスで一人抜き出し: Microsoft Teams会議画面単体録画方法</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-cutting-edge-tips-for-capturing-movies-on-everyday-tech/"><u>[New] In 2024, Cutting-Edge Tips for Capturing Movies on Everyday Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-images-basic-tips-with-lunapic/"><u>[Updated] Transform Your Images Basic Tips with LunaPic</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ppmbmp-movavi/"><u>「オンラインで簡単！フリーPPM形式のBMPへの変換 - Movavi」</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726220646567-movavi/"><u>無料で利用。純粋なオーディオ抽出！Movaviによる動画から声だけを選んでくれるサービスをご紹介します。</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-video-et-audition-transformez-votre-fichier-m4b-en-m4a-sans-cout-avec-movavi-en-ligne/"><u>Conversion Vidéo Et Audition : Transformez Votre Fichier M4B en M4A Sans Coût Avec Movavi En Ligne</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easily-switch-from-jpeg-to-jpg-online-at-no-cost-use-the-movavi-tool/"><u>Easily Switch From JPEG to JPG Online at No Cost - Use the Movavi Tool!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-105-classic-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia 105 Classic Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-steps-update-device-drivers-in-windows-7-8-and-10/"><u>Simple Steps: Update Device Drivers in Windows 7, 8 & 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-free-video-compression-tools-best-options-for-windows-and-mac-users/"><u>Top Free Video Compression Tools : Best Options for Windows and Mac Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-premier-non-gmail-email-solutions-of-202n4-the-definitive-list/"><u>Unveiling the Premier Non-Gmail Email Solutions of 202N4: The Definitive List</u></a></li>
 </ul></div>
 

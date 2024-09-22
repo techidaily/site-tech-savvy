@@ -1,7 +1,7 @@
 ---
 title: "Inside Qualcomm's Covert Collaboration: How Their Partnership With Samsung & Google Birthed Revolutionary Mixed Reality Smart Glasses – The Details You Need to Know"
-date: 2024-09-17 14:38:56
-updated: 2024-09-20 10:58:52
+date: 2024-09-21T16:48:23.397Z
+updated: 2024-09-22T16:06:10.484Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,36 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-blueprint-for-successful-metaverse-campaigns/"><u>[New] 2024 Approved Blueprint for Successful Metaverse Campaigns</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-enhancing-twitter-video-experience-to-fhd/"><u>[Updated] In 2024, Enhancing Twitter Video Experience to FHD</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-pure-portrayals-on-platforms-your-guide-to-authentic-snapshots/"><u>[Updated] In 2024, Pure Portrayals on Platforms Your Guide to Authentic Snapshots</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-premium-biz-cloud-vault-services-for-2024/"><u>[Updated] Premium Biz Cloud Vault Services for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-noisy-to-neat-cutting-out-clutter-on-photos/"><u>2024 Approved From Noisy to Neat Cutting Out Clutter on Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-the-launch-of-enhanced-gpt-4-model/"><u>Breaking Barriers: The Launch of Enhanced GPT-4 Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-users-contribute-to-ais-learning-in-real-time-chatgpt-scenarios/"><u>Can Users Contribute to AI’s Learning in Real-Time ChatGPT Scenarios?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-vs-chatgpt-plus-a-compreran-analysis/"><u>Claude Pro Vs. ChatGPT Plus: A Compreran Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-ineligible-topics-in-language-models/"><u>Exploring the Ineligible Topics in Language Models</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-perfect-fit-hp-deskjet-2600-printer-drivers-for-your-window-version-choose-from-w7-w8-or-w10/"><u>Get the Perfect Fit: HP Deskjet 2600 Printer Drivers for Your Window Version - Choose From W7, W8 or W10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-edge-ai-hardware-tech-the-futures-five-titans/"><u>Leading-Edge AI Hardware Tech: The Future's Five Titans</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-chatgpt-for-streamlined-home-chores/"><u>Leverage ChatGPT for Streamlined Home Chores</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-memory-retention-with-chatgpt-note-taking/"><u>Maximize Memory Retention with ChatGPT Note-Taking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/reduce-share-and-enjoy-top-5-shortened-urls-for-youtube-for-2024/"><u>Reduce, Share and Enjoy Top 5 Shortened URLs for YouTube for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-tutorial-converting-your-favorite-youtube-clips-into-high-quality-mp3-playlists/"><u>Step-by-Step Tutorial: Converting Your Favorite YouTube Clips Into High-Quality MP3 Playlists</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

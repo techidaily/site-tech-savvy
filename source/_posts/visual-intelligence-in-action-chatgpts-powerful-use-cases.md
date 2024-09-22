@@ -1,0 +1,168 @@
+---
+title: "Visual Intelligence in Action: ChatGPT's Powerful Use Cases"
+date: 2024-09-20T17:25:48.962Z
+updated: 2024-09-22T18:06:08.235Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Visual Intelligence in Action: ChatGPT's Powerful Use Cases"
+excerpt: "This Article Describes Visual Intelligence in Action: ChatGPT's Powerful Use Cases"
+thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a2404b925ef4f20286104a39.jpg
+---
+
+## Visual Intelligence in Action: ChatGPT's Powerful Use Cases
+
+ In such a short span, we've seen AI technologies advance exponentially—and OpenAI's ChatGPT is no exception. What started off as a simple language model-based generative chatbot now has people dependent on it for all sorts of tasks.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Whether you are a content creator, developer, artist, or just a student struggling to pass a unit, ChatGPT has proved its capabilities for us all. ChatGPT Vision takes it to the next level, unlocking an unfathomable amount of new potential with the AI tool.
+
+ Read on to discover just how useful ChatGPT Vision can get and the many uses you can put it to.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## What Is ChatGPT Vision?
+
+ ChatGPT Vision allows users to attach images or screenshots with their usual text-based prompts and have the AI work wonders. Tasks that were previously too difficult, or outright impossible to attain with just text input can now be accomplished with the help of the added image processing capabilities.
+
+ ChatGPT Vision is available to premium users, who can access it alongside a few other [useful GPT-4 features](https://www.makeuseof.com/best-new-gpt4-features-explained/). If your account has access to ChatGPT Vision, you should see a tiny image icon to the left of the text box. Click on it to attach any image stored on your device. Alternatively, you can simply paste an already copied image from your clipboard.
+
+![Icon to upload an image in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses.jpg)
+
+ Depending on the context of the image, you can choose to enter a text-based prompt in addition to the image, or just let ChatGPT do its thing and let it analyze the attached picture.
+
+## 1\. Identifying Items or Describing Images
+
+ For the curious ones among us who tend to find the most random of objects either on social media or during a walk down a busy street, identifying items has never been easier. Be it a one-of-a-kind speed camera or a really funky-looking pair of earphones, ChatGPT Vision does a pretty good job at identifying the objects you're inquiring about.
+
+ On the other hand, if you're just looking for a textual description of an image when you just can't formulate your thoughts into words, asking for a detailed description is a great way to use the new Vision feature in ChatGPT.
+
+## 2\. Recognizing Fictional Characters
+
+![ChatGPT Vision recognizing a character from a popular TV series](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-1.jpg)
+
+ Can't seem to recognize that one character from a meme you have stored on your phone? Turns out, ChatGPT is quite remarkable at recognizing characters from popular media such as TV shows, movies, or anime.
+
+ There's a catch, though—it will deny any requests you may have of extracting information about a real person. It still works in recognizing characters from live-action movies and TV series, but ChatGPT Vision draws a bold line beyond that when it's associated with the identity of a real human being.
+
+## 3\. Converting Wireframes to Code
+
+ Easily one of the best uses of modern-day AI tools is the fact that everyone has been using them to fill in knowledge gaps and learn new things. If you're a developer, designer, or just someone learning their ropes around web development, ChatGPT is a great resource to use on your journey.
+
+ With the Vision feature, you can ease the learning curve even further by simply uploading a picture of a wireframe or UI design and seeking ChatGPT for help with the actual code. Outside generating front-end code using wireframes, there are plenty of other ways you can [use ChatGPT for programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 4\. Translating Handwritten Text
+
+ Although [Google Translate's many features](https://www.makeuseof.com/tag/google-translate-mobile-features/) are highly reliable, you can still mess around with translating handwritten text from old letters, notebooks, or other documents using ChatGPT Vision.
+
+ Beyond basic translation, you can prompt it to categorize the information in a way that pleases you, summarize the text in a few words, or rewrite it in a completely different language.
+
+## 5\. Explaining Infographics
+
+![ChatGPT Vision explaining an infograph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-2.jpg)
+
+ Particularly useful for students and teachers, you can get detailed explanations out of infographics such as pie or bar charts in a matter of seconds.
+
+ Not only can ChatGPT break down the visual data for you, but it can also explain certain segments in detail upon request. However, we encourage you to take particulars such as numbers that are produced with a grain of salt, since data inaccuracy is one of the most common [problems associated with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
+
+## 6\. Assembling Furniture
+
+ Buying new furniture for your space is always exciting, but actually assembling it may not be so exhilarating. If you're stuck at a particular step and the perplexing diagrams in the manual seem to be of no help, snapping a photo of the steps or the piece of furniture and asking ChatGPT could be worth a shot.
+
+ Simple queries about which screw goes where and which step comes next can be answered with the right images and prompts in place.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 7\. Gaining Artwork Feedback
+
+![ChatGPT Vision providing constructive criticism of a photograph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-3.jpg)
+
+ At a time when almost anybody can [create art using AI](https://www.makeuseof.com/ai-text-to-art-generators/), constructive criticism is what every true photographer and artist strives for, and although ChatGPT lacks the human touch, it may yield some very useful feedback.
+
+ You can gain valuable insight in regard to composition, framing, colors, and overall style if you structure your prompt the right way. You can even go creative and upload a photo of a half-finished painting and ask ChatGPT for ideas.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 8\. Getting Help With Recipes
+
+ In case you're tired of figuring out what to cook for your next meal, try uploading a picture of the available ingredients on your shelf to get a few recommendations from ChatGPT.
+
+ This can also work the other way around, where you upload a photo of a tasty dish you're eating at a restaurant and get a detailed recipe for it within a few seconds. Swiftly snapping a picture of a menu and asking ChatGPT Vision for information about the dishes can be useful if you have certain dietary restrictions too.
+
+## Peek Into New Possibilities With ChatGPT Vision
+
+ There have always been various ways to master your prompts to make the most out of this advanced text-based AI model, but now with the ability to attach images, one can push the boundaries like never before.
+
+ While the list of things mentioned above that you can accomplish with ChatGPT Vision is exhaustive, the possibilities go on, with your creativity being the only upper limit here.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Whether you are a content creator, developer, artist, or just a student struggling to pass a unit, ChatGPT has proved its capabilities for us all. ChatGPT Vision takes it to the next level, unlocking an unfathomable amount of new potential with the AI tool.
+
+ Read on to discover just how useful ChatGPT Vision can get and the many uses you can put it to.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-top-10-capture-cards-for-youtube-you-should-know-for-2024/"><u>[New] The Top 10 Capture Cards for YouTube You Should Know for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unlocking-maximum-potential-screen-recording-on-anymac/"><u>[Updated] 2024 Approved Unlocking Maximum Potential Screen Recording on AnyMac</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-12-pro-max-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 12 Pro Max to Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726225683445-aacwmv-movavi/"><u>直通網路無成本轉化AAC音訊為WMV - 利用Movavi的即時音頻轉換工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/de-bedste-metodene-til-a-omdanne-ts-i-mp4-losninger-for-windows-mac-og-nettbaserte-alternativer/"><u>De Bedste Metodene Til Å Omdanne TS I MP4: Lösninger for Windows, Mac Og Nettbaserte Alternativer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/exploring-instagrams-video-sharing-cap-for-2024/"><u>Exploring Instagram's Video Sharing Cap for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-s23plus-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy S23+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhancing-profile-clips-for-impact/"><u>In 2024, Enhancing Profile Clips for Impact</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-mxf-mkv/"><u>Movavi 提供的 MXF 至 MKV 線上無限制過渡工具 - 自由轉換影片格式</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-wmvm4v/"><u>Movaviの無料ツール - WMVとM4Vビデオ変換機能</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-best-practice-manual-for-text-on-picture-edits/"><u>The Best Practice Manual for Text-on-Picture Edits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformation-gratuite-des-fichiers-webm-en-format-m4a-sur-internet-movavi/"><u>Transformation Gratuite Des Fichiers Webm en Format M4A Sur Internet - Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-reno-11-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Reno 11 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkvaac/"><u>オンラインでのMKVファイルAAC音声変換サービス -無料-</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3gsm-movavi/"><u>スマホMP3に変換可能なオンラインGSMファイル - 無料でMovavi</u></a></li>
+</ul></div>
+

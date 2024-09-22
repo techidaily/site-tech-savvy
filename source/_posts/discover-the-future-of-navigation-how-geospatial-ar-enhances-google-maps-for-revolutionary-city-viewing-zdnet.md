@@ -1,7 +1,7 @@
 ---
 title: "Discover the Future of Navigation: How Geospatial AR Enhances Google Maps for Revolutionary City Viewing | ZDNET"
-date: 2024-09-17 22:10:29
-updated: 2024-09-20 12:10:24
+date: 2024-09-15T18:56:54.715Z
+updated: 2024-09-22T18:36:16.413Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,36 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-legends-reign-supreme-top-7-total-war-quests/"><u>[New] In 2024, Legends Reign Supreme Top 7 Total War Quests</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-capturing-the-moment-leading-recorder-analysis/"><u>[Updated] 2024 Approved Capturing the Moment Leading Recorder Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-crafting-compelling-metaverse-campaigns/"><u>[Updated] In 2024, Crafting Compelling Metaverse Campaigns</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-video-edits-on-zoom-discover-3-simple-techniques/"><u>Effortless Video Edits on Zoom: Discover 3 Simple Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-3gp-to-mjpeg-using-movavi/"><u>Free Online Converter: Transform 3GP to MJPEG Using Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-tool-convert-wmv-audio-files-to-mp3-format-by-movavi/"><u>Free Online Tool: Convert WMV Audio Files to MP3 Format by Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quiet-cinematic-dialogue-draft/"><u>In 2024, Quiet Cinematic Dialogue Draft</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-pc-capabilities-how-to-record-tv-on-windows/"><u>In 2024, Unlocking PC Capabilities How to Record TV on Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/maximizing-your-impact-4-methods-for-streaming-on-computer/"><u>Maximizing Your Impact 4 Methods for Streaming on Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/moveavis-no-cost-online-converter-effortlessly-change-mp4-to-webm-streaming-files/"><u>Moveavi's No-Cost Online Converter: Effortlessly Change MP4 to WebM Streaming Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-musica-y-dialogos-de-pelicula-en-mp3-sin-gastos-utilizando-la-herramienta-convertidora-en-linea-gratuita-para-archivos-vob/"><u>Transforma Música Y Diálogos De Película en MP3 Sin Gastos Utilizando La Herramienta Convertidora en Línea Gratuita Para Archivos VOB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-flac-in-wmv-on-line-gratuitamente-usando-leditor-di-video-movavi/"><u>Trasforma FLAC in WMV On-Line Gratuitamente Usando L'editor Di Video Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-elon-musks-mysterious-project-what-is-truthgpt-all-about/"><u>Unveiling Elon Musk's Mysterious Project: What Is TruthGPT All About?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/poshagovoe-povtorenie-kak-sdelat-videouroki-na-movavi-instrukciya-po-formirovaniyu-tematicheskogo-kontenta/"><u>Пошаговое Повторение - Как Сделать Видеоуроки На MOVAVI: Инструкция По Формированию Тематического Контента</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

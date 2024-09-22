@@ -1,7 +1,7 @@
 ---
 title: The Inaccessibility of Altering ChatGPT Framework
-date: 2024-09-11T16:28:35.668Z
-updated: 2024-09-17T16:13:48.013Z
+date: 2024-09-15T17:02:56.646Z
+updated: 2024-09-22T16:16:27.826Z
 tags:
   - chatgpt
   - open-ai
@@ -58,13 +58,26 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
 ![Uninterested Formal Man Looking at a Laptop Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cybersecurity-fatigue-fatuted-image.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A driving force behind many users' attempts to jailbreak ChatGPT was the thrill and excitement of doing so in the early days. As a new technology, getting ChatGPT to misbehave was entertaining and earned bragging rights. While there are countless practical applications for ChatGPT jailbreaks, many pursued them for the "wow, look what I did" appeal. Gradually, though, the excitement stemming from the novelty has faded, and along with it, people's interest in dedicating time to jailbreaks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Jailbreaks Are Patched Rapidly
@@ -75,27 +88,20 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
  So, each time a ChatGPT user painstakingly develops a new jailbreak, sharing it with the community hastens its demise via patching. This disincentivizes the idea of going public whenever a user comes across a jailbreak. The conflict between keeping jailbreaks active yet hidden versus publicizing them creates a dilemma for ChatGPT jailbreak creators. These days, more often than not, people choose to keep their jailbreaks a secret to avoid the loopholes being patched.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Uncensored Local Alternatives
 
 ![person holding a smartphone with chatbot application facing viewer surrounded by icons](https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d176aa35825ab519985b4fb1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The rise of local large language models you can run locally on your computer has also dampened the interest in ChatGPT jailbreaks. While local LLMs aren't entirely censorship-free, many are significantly less censored and can be easily modified to fit the users' desires. So, the choices are simple. You can engage in the endless cat-and-mouse game of finding a way to trick the chatbot only to get it fixed shortly. Or, [you can settle for a local LLM](https://www.makeuseof.com/should-you-use-local-llms/) you can permanently modify to do anything you want.
 
  You'll find a surprisingly long list of powerful uncensored LLMs you can deploy on your computer with lax censorship. Some notable ones are the Llama 7B (uncensored), Zephyr 7B Alpha, Manticore 13B, Vicuna 13B, and GPT-4-X-Alpaca.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Professional Jailbreakers Now Sale for Profit
 
@@ -130,19 +136,20 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-game-changing-tvs-for-ps5-and-xbox-series-x-enthusiasts/"><u>[New] 2024 Approved Game-Changing TVs for PS5 & Xbox Series X Enthusiasts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-escape-the-frown-mastery-in-dodging-facebook-restrictions-for-2024/"><u>[New] Escape the Frown Mastery in Dodging Facebook Restrictions for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-comprehensive-guide-to-optimizing-facetime-recording-quality/"><u>2024 Approved Comprehensive Guide to Optimizing FaceTime Recording Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024-gifmp4/"><u>2024年に人気! 高速で簡単な GIFからMP4への変換ツールを無料でご提案します</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6laf44k344oz44ox44or/"><u>超シンプル</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/astral-expressions-top-30-bios-to-boost-your-signs-charm/"><u>Astral Expressions Top 30 Bios to Boost Your Sign's Charm</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bulk-mp4-conversion-for-mpg-mp3-files-without-cost-quick-steps-on-windows/"><u>Bulk MP4 Conversion for MPG, MP3 Files Without Cost – Quick Steps On Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-list-of-no-cost-mp3-tags-software-for-streamlined-song-organization-in-2n4/"><u>Discover the Ultimate List of No-Cost MP3 Tags Software for Streamlined Song Organization in 2N4!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/from-memory-to-moments-share-images-seamlessly-today-for-2024/"><u>From Memory to Moments Share Images Seamlessly Today for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-11-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 11 Without Previous Owner?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-11-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-setting-achievable-wellness-objectives-using-chatgpt/"><u>Mastering the Art of Setting Achievable Wellness Objectives Using ChatGPT</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/your-top-10-favorites-on-spotify/"><u>Your Top 10 Favorites on Spotify</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44or44k944kz44oz55s76z2i6kiy6yyy44gr5asx5pwx44gz44kl5li744gq55cg55sx44go44oi44op44ow44or44k344ol44o844og44kj44oz44kw5oml6acg/"><u>パソコン画面記録に失敗する主な理由とトラブルシューティング手順</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-social-media-video-to-music-conversion-guide/"><u>[New] Social Media Video to Music Conversion Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-proven-steps-building-quality-time-lapses-on-galaxy-devices/"><u>[Updated] 2024 Approved Proven Steps Building Quality Time-Lapses on Galaxy Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-review-best-practices-for-youtube-video-trimming/"><u>[Updated] Review Best Practices for YouTube Video Trimming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-capturing-emotion-ensuring-authenticity-in-your-youtube-videos/"><u>2024 Approved Capturing Emotion Ensuring Authenticity in Your YouTube Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-titans-clash-googles-gemini-vs-openais-chatgpt/"><u>AI Titans Clash: Google's Gemini Vs. OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-rpg-experience-through-chatgpt-techniques/"><u>Enhancing RPG Experience Through ChatGPT Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experience-uninterrupted-gaming-with-our-fixed-guide-on-life-is-strange-true-colors-crash-problems/"><u>Experience Uninterrupted Gaming with Our Fixed Guide on Life Is Strange: True Colors Crash Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-alternative-intelligences-to-openais-sora/"><u>Explore Alternative Intelligences to OpenAI's Sora</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-quest-for-clean-photo-archives/"><u>In 2024, Navigating the Quest for Clean Photo Archives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-uses-of-auto-gpt-in-business/"><u>Innovative Uses of Auto-GPT in Business</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/journey-through-openai-from-concept-to-creative-execution/"><u>Journey Through OpenAI: From Concept to Creative Execution</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-minecraft-connections-7-helpful-steps-on-windows/"><u>Navigating Minecraft Connections - 7 Helpful Steps on Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nokia-130-music-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nokia 130 Music FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-your-access-troubleshooting-chatgpt-errors/"><u>Unlocking Your Access: Troubleshooting ChatGPT Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voice-able-the-new-era-of-ai-and-vehicle-commands/"><u>VOICE-ABLE: The New Era of AI and Vehicle Commands</u></a></li>
 </ul></div>
 

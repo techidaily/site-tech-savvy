@@ -1,7 +1,7 @@
 ---
 title: "Navigating AI World: Start Here With 9 Communities"
-date: 2024-09-15T16:39:12.337Z
-updated: 2024-09-17T16:08:23.374Z
+date: 2024-09-17T18:13:47.538Z
+updated: 2024-09-22T18:15:12.940Z
 tags:
   - chatgpt
   - open-ai
@@ -66,20 +66,27 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 
  You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. ChatGPT Prompt Engineers
 
 ![A Facebook Group for Sharing and Posting ChatGPT Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/facebook-group-chatgpt-prompt-engineers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT Prompt Engineers is a decent community for beginners. Members just typically ask general knowledge questions about writing prompts and getting optimal outputs. You won’t have trouble keeping up with discussions.
 
  We also like that the moderators proactively weed out spam marketers and shady ads. Many [crooks abuse ChatGPT to execute cyberattacks](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) nowadays. Even tech-savvy individuals could fall victim to them if they’re not careful. So minimize your exposure to scams altogether.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Midjourney Prompt Tricks
 
@@ -101,22 +108,15 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 
  Note that this subreddit covers relatively advanced topics compared to other groups. The members don’t just share prompts. Expect most techniques, tools, and methods discussed to have steep learning curves.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. r/OpenAI
 
 ![Reddit Community for OpenAI Users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-reddit-community.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Most users know OpenAI for ChatGPT and Dall-E, but it actually carries various AI tools. They primarily cater to developers. Professionals use them to integrate LLMs into their systems or build AI-driven applications.
@@ -130,16 +130,10 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 ![Reddit Community for Stable Diffusion Prompts and Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stablediffusion-prompts-on-reddit.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  r/StableDiffusion is the largest subreddit dedicated to Stable Diffusion. The community allows sharing workflows. However, it primarily encourages users to post outputs and discuss relevant AI news—prompt engineering is merely a part of generating AI art.
@@ -152,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 
 ![LinkedIn Group to Share AI Tips for Salespeople and Marketers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/linkedin-ai-group.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It’s currently the largest AI community on LinkedIn. The group has around a million members worldwide, many of whom post regularly. It gets status updates every few minutes.
 
  As its name suggests, the community focuses on the applications of AI in sales, marketing, and social media ads. Most just share prompts. But you’ll also find engaging discussions about [automating work tasks](https://www.makeuseof.com/tasks-freelancers-should-automate/), like lead generation, appointment setting, and client management.
@@ -166,6 +153,13 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
  The admins are relatively active. Every few weeks, they upload relevant resources, like websites, PDFs, and tools. You can also connect with them for queries. Just don’t expect an immediate response unless you already have mutuals.
 
  Perhaps the only downside is the group gets plenty of spam. You might have to scroll through aggressive ads and campaigns before finding valuable content.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Connect With Fellow Professionals in the AI Industry
 
@@ -192,17 +186,17 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/macx-dvd-ripper-pro-windows/"><u>[公式推奨]MacX DVD Ripper Pro - Windows用最新の高速リッピングソフトウェア</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capturing-high-fidelity-games/"><u>[Updated] In 2024, Capturing High Fidelity Games</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-vidmessenger-extractor-plus-for-2024/"><u>[Updated] VidMessenger Extractor Plus for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-gpt-dupes-avoid-fraudulent-tricks/"><u>Decoding GPT Dupes: Avoid Fraudulent Tricks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gigabyte-network-interface-controller-drivers-for-secure-and-fast-internet-speed/"><u>Gigabyte Network Interface Controller Drivers for Secure & Fast Internet Speed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-quickly-get-the-right-epson-xp-830-driver-installed-fixed/"><u>How to Quickly Get the Right Epson XP-830 Driver Installed [FIXED]</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-moto-g34-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-making-your-photoshop-projects-pop-with-3d-text-design/"><u>In 2024, Making Your Photoshop Projects Pop with 3D Text Design</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-unleash-your-imagination-review-of-the-garmin-virb-ultra-30/"><u>In 2024, Unleash Your Imagination Review of the Garmin VIRB Ultra 30</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-your-lifestyles-ultimate-boost/"><u>Leveraging ChatGPT: Your Lifestyle's Ultimate Boost</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mirror-of-ai-reflecting-on-openais-chatgpts-8-problems/"><u>Mirror of AI: Reflecting on OpenAI's ChatGPT's 8 Problems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transcend-boundaries-with-effortless-anywhere-chatgpt-usage/"><u>Transcend Boundaries with Effortless Anywhere ChatGPT Usage</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unboxing-freex-streamer-pro-for-webcams/"><u>[New] Unboxing FreeX Streamer Pro for Webcams</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-google-meet-a-comprehensive-no-cost-host-and-participant-manual-for-2024/"><u>[New] Unlocking Google Meet A Comprehensive No-Cost Host & Participant Manual for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-direct-focus-the-power-of-leading-lines-in-iphone-photos/"><u>[Updated] Direct Focus The Power of Leading Lines in iPhone Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-filmmakers-companion-filmora-for-youtube-trailers-for-2024/"><u>[Updated] Filmmaker's Companion Filmora for YouTube Trailers for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-13t-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi 13T ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-do-reviewers-monetize-their-critiques-in-media/"><u>In 2024, Do Reviewers Monetize Their Critiques in Media?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/living-lightly-top-9-strategies-from-chatgpt-wisdom/"><u>Living Lightly: Top 9 Strategies From ChatGPT Wisdom</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289694157-mp3/"><u>MP3革命：最新音楽利用法とコツ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-savings-with-promo-codes-insights-from-the-abbeyy-blog/"><u>Unlocking Savings with Promo Codes: Insights From the ABBEYY Blog</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-5-free-ways-to-join-mpeg-video-files-together/"><u>Updated In 2024, Top 5 Free Ways to Join MPEG Video Files Together</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-chatgpt-with-todays-gpt-4-features/"><u>Upgrade Your ChatGPT with Today's GPT-4 Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-a-vpn-for-secure-gpt-dialogues/"><u>Utilizing a VPN for Secure GPT Dialogues?</u></a></li>
 </ul></div>
 

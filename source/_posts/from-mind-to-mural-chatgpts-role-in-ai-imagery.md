@@ -1,7 +1,7 @@
 ---
 title: "From Mind to Mural: ChatGPT's Role in AI Imagery"
-date: 2024-09-14T16:04:01.752Z
-updated: 2024-09-17T16:02:30.758Z
+date: 2024-09-16T18:56:47.403Z
+updated: 2024-09-22T16:15:08.194Z
 tags:
   - chatgpt
   - open-ai
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
 
  There are two main ways to generate AI images using ChatGPT: using it as a prompt generator for your favorite AI image generator, and using OpenAI's DALL-E.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Use ChatGPT as a Prompt Generator
 
 [AI image generators](https://www.makeuseof.com/ai-text-to-art-generators/), like Midjourney and RunwayML, require a prompt to generate a corresponding image. You can use ChatGPT as a prompt generator by asking it to act as a prompt generator, just provide it with a short description of the image you want to generate.
@@ -73,21 +66,22 @@ Create an image of a tranquil beach scene at sunset. The sun is just touching th
 
  Similar to ChatGPT, DALL-E is accessible for free through OpenAI's website. If you need help fine-tuning your prompts for DALL-E, you can also use ChatGPT to generate variations of your initial prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Would ChatGPT Ever Be Able to Create Images Directly?
 
  ChatGPT is not currently able to generate images directly, and it is unlikely that this capability will be added soon. The telltale sign of this is the existence of DALL-E, which provides this ability. For the foreseeable future, it is best to think of ChatGPT as a tool for generating text and use other models like DALL-E for image generation.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating Better Image Generation Prompts With ChatGPT
@@ -115,21 +109,21 @@ Create an image of a tranquil beach scene at sunset. The sun is just touching th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-streamsaver-fb-video-downloader-suite-for-2024/"><u>[New] StreamSaver FB Video Downloader Suite for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ackling-youtubes-dark-view-troubleshooting-steps-for-2024/"><u>[New] Tackling YouTube's Dark View Troubleshooting Steps for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhancing-user-experience-strategic-placement-of-alerts-on-youtube-content/"><u>[Updated] 2024 Approved Enhancing User Experience Strategic Placement of Alerts on YouTube Content</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-innovative-backdrop-changer-toolkit-unveiled-for-2024/"><u>[Updated] Innovative Backdrop Changer Toolkit Unveiled for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-openai-steering-clear-of-gpt-control/"><u>Are OpenAI Steering Clear of GPT Control?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asrock-x600tm-itx-ultra-compact-am5-mini-itx-board-for-stylish-htpc-builds/"><u>ASRock X600TM-ITX: Ultra-Compact AM5 Mini-ITX Board for Stylish HTPC Builds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-your-perfect-trip-with-7-free-ai-aided-instant-itinerary-tools/"><u>Craft Your Perfect Trip with 7 Free AI-Aided, Instant Itinerary Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogues-with-bots-mimicking-human-interaction/"><u>Dialogues with Bots: Mimicking Human Interaction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-potential-engineering-specialized-chatgpt-models/"><u>GPT's Potential: Engineering Specialized ChatGPT Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-personalized-medicine-breakthroughs/"><u>Leveraging ChatGPT for Personalized Medicine Breakthroughs</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubleshooting-tips-repairing-broken-game-data/"><u>PC Troubleshooting Tips: Repairing Broken Game Data</u></a></li>
-<li><a href="https://fox-that.techidaily.com/protect-your-iphone-from-liquid-damage-remedies-for-liquid-detected-in-connector/"><u>Protect Your iPhone From Liquid Damage – Remedies for 'Liquid Detected in Connector'</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-13-pro-max-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 13 Pro Max Prevention & Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-a-new-era-gpts-groundbreaking-upgrades/"><u>The Dawn of a New Era: GPT's Groundbreaking Upgrades</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-quiet-revolution-in-refrigeration-exclusive-review-of-icebergs-thermal-icefloe-oasis-models-on-a-budget/"><u>The Quiet Revolution in Refrigeration: Exclusive Review of Iceberg's Thermal IceFLOE Oasis Models on a Budget</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-your-chatgpt-experience-a-plugin-journey/"><u>Transforming Your ChatGPT Experience: A Plugin Journey</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-audiovisual-excellence-on-youtube-through-enhancements/"><u>[New] 2024 Approved Audiovisual Excellence on YouTube Through Enhancements</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-creating-music-from-videos-instagrams-secret-sauce/"><u>[New] Creating Music From Videos Instagram's Secret Sauce</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimize-your-social-media-with-autoplay-vids-on-fb/"><u>[New] Optimize Your Social Media with Autoplay Vids on FB</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-6-budget-friendly-youtube-outro-makers/"><u>[Updated] Top 6 Budget-Friendly YouTube Outro Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webaacflac/"><u>「無償Web版AACからFLACへの移行 - 動画ビデオ編集ソフト」</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-science-of-attractiveness-building-engaging-audio-introductions/"><u>2024 Approved The Science of Attractiveness Building Engaging Audio Introductions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-chats-master-the-art-of-keeping-them-under-wraps-not-gone-forever/"><u>ChatGPT Chats: Master the Art of Keeping Them Under Wraps, Not Gone Forever</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descubre-las-herramientas-mas-eficientes-los-7-mejores-programas-gratuitos-de-grabacion-de-pantalla-en-windows-8/"><u>Descubre Las Herramientas Más Eficientes: Los 7 Mejores Programas Gratuitos De Grabación De Pantalla en Windows 8</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/exploring-boundaries-sharing-360-photos-from-mobile-devices/"><u>Exploring Boundaries Sharing 360 Photos From Mobile Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-transforming-ape-audio-files-into-ogg-format-with-ease/"><u>Free Online Conversion: Transforming APE Audio Files Into OGG Format with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-om-m4v-naar-wma-te-veranderen-veilige-en-gemakkelijke-oplossing-met-movavi/"><u>Gratis Online Om M4V Naar WMA Te Veranderen - Veilige en Gemakkelijke Oplossing Met Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/switch-your-audio-from-ogg-to-mp4-at-no-cost-utilize-our-user-friendly-service/"><u>Switch Your Audio From OGG to MP4 at No Cost - Utilize Our User-Friendly Service</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verdingvrije-webbedienst-voor-mxf-gif-converter-met-movavi/"><u>Verdingvrije Webbedienst Voor MXF-GIF Converter Met Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223806994-webm-mp4/"><u>オンラインで変換！高画質のみにフォーカス - WEBM MP4コンバーター無料版</u></a></li>
 </ul></div>
 

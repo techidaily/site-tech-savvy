@@ -1,7 +1,7 @@
 ---
 title: The Complete Anthropic Guide to Claude 3 Usage
-date: 2024-09-11T16:40:03.076Z
-updated: 2024-09-17T16:09:23.363Z
+date: 2024-09-18T17:50:24.249Z
+updated: 2024-09-22T18:53:24.295Z
 tags:
   - chatgpt
   - open-ai
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
  It's a nice touch for those who spend time perfecting their prompt prowess and want to share these tips with the world.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Anthropic's Prompt Library
 
  As said, Anthropic has covered a vast number of subjects in its prompt library. The prompts take different formats depending on the subject matter.
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 ![anthropic prompt library dream interpreter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-dream-interpreter-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whereas the Corporate Clairvoyant prompt features a user input designed to analyze and summarize a report, highlighting important features.
@@ -90,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
  While ChatGPT 4 responded:
 
 ![chatgpt plus dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-plus-dream-interpreter-prompt-library-output.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's pretty similar, covering the same thoughts, feelings, and imagery. However, given the number of websites, blog posts, and books both tools have been trained on, those details are relatively easy to discern.
 
@@ -135,16 +135,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ish-on-titles-creative-concepts-for-cookery-vids-for-2024/"><u>[New] Dish on Titles Creative Concepts for Cookery Vids for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-design-your-digital-joke/"><u>2024 Approved Design Your Digital Joke</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-tokens-maximizing-chatgpt-capacity/"><u>Beyond Tokens: Maximizing ChatGPT Capacity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-steps-for-downloading-high-quality-hindi-songs-as-mp3s-from-popular-online-platforms-like-youtube-and-more/"><u>Easy Steps for Downloading High-Quality Hindi Songs as MP3s From Popular Online Platforms Like YouTube and More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-techniques-to-divide-videos-into-30-second-intervals-a-comprehensive-guide/"><u>Easy Techniques to Divide Videos Into 30-Second Intervals: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-techniques-for-reducing-size-of-zoom-meeting-videos-in-windows/"><u>Effective Techniques for Reducing Size of Zoom Meeting Videos in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficient-top-5-elearning-platforms-for-crafting-engaging-how-to-vids/"><u>Efficient Top 5 eLearning Platforms for Crafting Engaging How-To Vids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-bulk-transformation-of-wmv-videos-into-mov-a-beginners-guide/"><u>Effortless Bulk Transformation of WMV Videos Into MOV - A Beginner's Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-se-2022-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone SE (2022)? Complete Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-streamlining-console-experience-with-computer-playback-tech/"><u>In 2024, Streamlining Console Experience with Computer Playback Tech</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-use-audio-ducking-to-fade-out-music-in-powerdirector/"><u>Updated 2024 Approved How to Use Audio Ducking to Fade Out Music in PowerDirector?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-8-linux-platforms-for-video-mastery-for-2024/"><u>[Updated] Best 8 Linux Platforms for Video Mastery for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-fine-tune-video-quality-for-instagram-excellence-for-2024/"><u>[Updated] Fine-Tune Video Quality for Instagram Excellence for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-portable-dvd-players-on-the-market-top-picks-for-your-next-road-trip/"><u>Best Portable DVD Players on the Market: Top Picks for Your Next Road Trip</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clarity-in-chaos-explaining-generative-ai/"><u>Clarity in Chaos: Explaining Generative AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-how-nvidia-g-sync-smoothes-out-game-frames/"><u>Discover How Nvidia G-Sync Smoothes Out Game Frames</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-c33-2023-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme C33 2023</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-xripad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone XR/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-dialogue-in-multiple-languages-using-chatgpt/"><u>Optimizing Dialogue in Multiple Languages Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shield-your-website-block-unauthorized-ai-crawlers/"><u>Shield Your Website: Block Unauthorized AI Crawlers</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-procedure-of-sfc-scanning/"><u>Unraveling the Procedure of SFC Scanning</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone SE (2022) | Dr.fone</u></a></li>
 </ul></div>
 

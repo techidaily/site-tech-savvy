@@ -1,7 +1,7 @@
 ---
 title: Integrating ChatGPT for Dynamic and Informative Presentations
-date: 2024-09-10T16:03:08.545Z
-updated: 2024-09-17T16:29:07.601Z
+date: 2024-09-15T18:06:25.582Z
+updated: 2024-09-22T17:13:15.186Z
 tags:
   - chatgpt
   - open-ai
@@ -73,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Compile the Presentation With SlidesAI
 
  With SlidesAI installed, you can now begin creating your presentation. You can do this in the same blank presentation you made in the previous step. SlidesAI will automatically add new slides and fill them with appropriate content.
@@ -89,37 +96,31 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 ![Choosing a theme in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the **Text** tab and click **Create Slides**.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
- Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
-
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
 
 ## 4\. Add the Finishing Touches and Export the Presentation
 
  Now you can customize the slides and add the finishing touches. Remember that AI is still prone to making mistakes, so proofread your presentation to ensure there aren't any blunders. If the main content looks good, you can then start making visual improvements like [adding animations to your slides](https://www.makeuseof.com/add-animation-google-slides/).
 
 ![The Magic Write tool in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-magic-write.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There's a chance that SlidesAI adds irrelevant images to some slides. In that case, you can replace the image with SlideAI's Magic Write tool. This feature considers the slide's content and suggests relevant stock photos.
 
@@ -131,19 +132,6 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
  Once your slideshow is all set, it's time to start preparing for the presentation. If you want to present on Google Slides, there's only a little left to do other than rehearse.
 
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to **File > Download** and then select **Microsoft PowerPoint**.
 
@@ -174,18 +162,21 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-deciphering-screen-recorders-bandicam-or-camtasia-in-2024/"><u>[New] Deciphering Screen Recorders Bandicam or Camtasia, In 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-chase-laughter-and-tears-on-instagram-with-these-10-feeds/"><u>[Updated] 2024 Approved Chase Laughter & Tears on Instagram with These 10 Feeds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030092152-vobavi/"><u>「無劣化転送」: VOBファイルを安全にAVI形式に変換するテクニック</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029445114-pc/"><u>「PCやスマートフォンで行うビデオ通話の記録方法について詳しく解説」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028409186-9/"><u>9人気ファイルコンバータ転送ツールリスト - 動画、オーディオファイルの簡単な変換方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027795560-youtube5/"><u>広告ゼロの視聴: YouTubeでおすすめの5手法</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guida-rapida-alla-conversione-mp4-mp3-con-windows-11-senza-costi/"><u>Guida Rapida Alla Conversione MP4-MP3 Con Windows 11, Senza Costi!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-smart-7-hd-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix Smart 7 HD Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029656323-iphonedvd/"><u>IPhone動画をスムーズにDVD化する - フリー・シンプル・セキュアメソッド</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-v29-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo V29 Pro FRP</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-nokia-c12-plus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Nokia C12 Plus Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028055917-1080p-vs-720p/"><u>ハイクォリティー動画のための解像度ガイド - 1080P vs 720Pを理解しよう！</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-easy-insights-into-effective-use-of-showmore-screen-recorder/"><u>[New] 2024 Approved Easy Insights Into Effective Use of ShowMore Screen Recorder</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unveiling-the-best-vr-applications-for-phones-for-2024/"><u>[New] Unveiling the Best VR Applications for Phones for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-convert-mov-files-to-gifs-instantly-a-user-friendly-online-tool/"><u>1. Convert MOV Files to GIFs Instantly: A User-Friendly Online Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-windows-movie-maker-in-depth-analysis-and-insights-explore-the-rise-and-fall/"><u>1. Windows Movie Maker: In-Depth Analysis & Insights - Explore the Rise and Fall</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movaiff-movavi-online-converter/"><u>無料で行うMOVファイルからAIFF変換ツール - Movavi Online Converter</u></a></li>
+<li><a href="https://network-issues.techidaily.com/achieving-compatibility-perfection-win10-plus-nvidia/"><u>Achieving Compatibility Perfection: Win10 + Nvidia</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-video-color-grading-tools-top-5-free-applications-for-ios-and-android-devices/"><u>Best Video Color Grading Tools: Top 5 Free Applications for iOS and Android Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-8-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 8 Without Apple ID Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kostenloos-omheen-m4v-in-flv-vuurgrens-movavi-convertor/"><u>Kostenloos Omheen - M4V in FLV Vuurgrens Movavi Convertor</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-online-a-solucao-perfeita-para-m4r-to-mp3-graca-gratuita/"><u>Movavi Online, a Solução Perfeita Para M4R to MP3 Graça Gratuita!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-entry-into-fortnite-expert-tips-for-swift-login-solutions/"><u>Smooth Entry Into Fortnite: Expert Tips for Swift Login Solutions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcome-difficulties-when-trying-to-boot-football-manager-2023/"><u>Solution Guide: Overcome Difficulties When Trying To Boot Football Manager 2023</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-artisans-guide-to-creating-sound-alterations-without-cost/"><u>The Artisan's Guide to Creating Sound Alterations Without Cost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-vob-videos-to-wmv-file-type-at-no-cost-using-movavis-web-service/"><u>Transform Your VOB Videos to WMV File Type at No Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-ranking-the-top-web-based-photography-software/"><u>Ultimate Guide: Ranking the Top Web-Based Photography Software</u></a></li>
 </ul></div>
 

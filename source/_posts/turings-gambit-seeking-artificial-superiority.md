@@ -1,7 +1,7 @@
 ---
 title: "Turing's Gambit: Seeking Artificial Superiority"
-date: 2024-09-10T16:14:22.847Z
-updated: 2024-09-17T16:39:33.937Z
+date: 2024-09-19T17:37:22.181Z
+updated: 2024-09-22T16:29:45.691Z
 tags:
   - chatgpt
   - open-ai
@@ -65,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Eugene Goostman
 
  In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
@@ -90,6 +83,19 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore, [Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/). This is currently available to users in the UK and the United States.
@@ -98,18 +104,18 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -138,19 +144,13 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/onfirming-correct-youtube-ad-revenue-allocation-for-2024/"><u>[New] Confirming Correct YouTube Ad Revenue Allocation for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-experience-beyond-reality-with-these-immersive-titles-for-2024/"><u>[Updated] Experience Beyond Reality with These Immersive Titles for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-10-financially-friendly-live-streaming-apps-ios-and-android-reviewed/"><u>2024 Approved 10 Financially Friendly Live Streaming Apps IOS & Android Reviewed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/commanding-delivery-analysis-update-v8-for-2024/"><u>Commanding Delivery Analysis Update V8 for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/fine-tuning-your-fb-videos-aspect-ratios-decoded-for-2024/"><u>Fine-Tuning Your FB Videos Aspect Ratios Decoded for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-get-free-full-hd-movie-downloads-directly-onto-your-computer/"><u>How to Get Free Full HD Movie Downloads Directly Onto Your Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-stream-avi-videos-using-your-chromecast-device-top-3-methods/"><u>How to Stream AVI Videos Using Your Chromecast Device - Top 3 Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-transfer-videos-compatible-with-apple-products/"><u>How to Transfer Videos Compatible with Apple Products</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-t2-pro-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo T2 Pro 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-secure-your-fb-story-views-with-these-5-techniques/"><u>In 2024, Secure Your FB Story Views with These 5 Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tiktok-age-update-made-simple-user-friendly-techniques/"><u>In 2024, TikTok Age Update Made Simple User-Friendly Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-multiple-m4v-videos-into-a-single-file-without-compromising-on-clarity/"><u>Integrating Multiple M4V Videos Into a Single File Without Compromising on Clarity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/itunes-mp32024/"><u>ITunes MP3添付障害への回答術：2024年版ガイド</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/uploading-in-bulk-a-comprehensive-guide-to-multimedia-on-ig-for-2024/"><u>Uploading in Bulk A Comprehensive Guide to Multimedia on IG for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-swf-wav-movavi/"><u>無成本 Web 瀏覽器 SWF 到 WAV 格式轉換 - 利用 Movavi 工具</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-fongo-leading-canadian-voice-over-ip-solutions/"><u>Expert Evaluation of Fongo: Leading Canadian Voice over IP Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experts-rate-the-effectiveness-of-the-inexpensive-amazonbasics-six-sheet-paper-shredder/"><u>Experts Rate the Effectiveness of the Inexpensive AmazonBasics Six-Sheet Paper Shredder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/formato-gratuito-para-convertir-video-flv-a-ogv-por-movavi-paso-a-paso/"><u>Formato Gratuito Para Convertir Video FLV a OGV Por Movavi: Paso a Paso</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuito-online-convertidor-de-archivos-wma-a-formatos-comprimidos-con-conversor-ramemwma/"><u>Gratuito Online: Convertidor De Archivos WMA a Formatos Comprimidos Con Conversor RAMEmWMA</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-pushing-the-envelope-on-instagram-larger-videos-explained/"><u>In 2024, Pushing the Envelope on Instagram Larger Videos Explained</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-angles-the-complete-manual-for-effective-video-turns-for-2024/"><u>Instagram Angles The Complete Manual for Effective Video Turns for 2024</u></a></li>
 </ul></div>
 

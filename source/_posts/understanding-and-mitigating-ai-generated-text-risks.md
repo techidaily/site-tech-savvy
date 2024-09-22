@@ -1,7 +1,7 @@
 ---
 title: Understanding and Mitigating AI-Generated Text Risks
-date: 2024-09-14T16:39:00.520Z
-updated: 2024-09-17T16:14:09.065Z
+date: 2024-09-19T16:09:55.900Z
+updated: 2024-09-22T17:22:30.539Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
  Another drawback of using AI to write is the increased likelihood of unintentional plagiarism.[The Guardian](https://www.theguardian.com/us-news/2023/jan/06/new-york-city-schools-ban-ai-chatbot-chatgpt) reports that one of the reasons schools in New York City banned ChatGPT is the risk of students using it to write assignments and passing them off as their work.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Algorithms Devaluing Your Content
 
  Publishers who use AI to write risk having their site penalized by search engines. According to Google, sites with lots of unhelpful content are less likely to rank well in Search. Google states that its team is constantly working to ensure users see more original, helpful content written by people, for people, in search results.
@@ -74,16 +81,16 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
  Do you want to know if a human or AI wrote what you're reading? Being able to spot AI-generated text can help you evaluate its credibility. Here are a few ways to spot AI-generated text.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Look for Repetition of Words and Phrases
 
 ![Some text illustrating repetition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ai-repetition.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Even though GPT-3 can generate coherent sentences, AI writing tools frequently appear to have difficulty producing long-form, high-quality content.
 
@@ -97,42 +104,35 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
 ![Gibberish text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gibberish.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  AI tools may be incapable of correctly interpreting the context of a piece of writing. This could lead to content that lacks the coherence and logical flow of human-written content.
 
  AI-generated content is sometimes characterized by grammatical mistakes, punctuation errors, and even paragraphs with a disjointed structure.
 
  Unsurprisingly, though, excellent grammar can be a sign of machine-generated text. This is because grammar is rule-based; AI systems are usually better than people at following logic.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Examine Any Fact-Heavy, Dry Texts
 
 ![Some factual, dry texts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bald-eagle-facts.jpg)
 
- An AI writing tool can quickly generate facts and simple sentences but not in-depth commentaries. So if you're reading an article and notice it's heavy on facts and light on opinions, it's likely written by a bot.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ An AI writing tool can quickly generate facts and simple sentences but not in-depth commentaries. So if you're reading an article and notice it's heavy on facts and light on opinions, it's likely written by a bot.
 
 ### 4\. Check for the Absence of Emotions or Personal Experiences
 
  One obvious problem with current AI writing tools is their inability to display human emotions and subjective experiences. These things are hard to teach because there are no logical steps explaining how to feel or perceive the world. If you notice an article has a flat tone or emotions that feel forced, a bot may have written it.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Use an AI Content Detector Tool
 
@@ -143,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
  Remember, though, AI content detector tools aren't perfect and may be ineffective against new language models and small amounts of text.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI-Generated Text: The Risks and How to Spot It
@@ -172,19 +172,16 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-superior-hd-gameplay-through-top-captures/"><u>[New] In 2024, Superior HD Gameplay Through Top Captures</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-enhancing-profile-clips-for-impact-for-2024/"><u>[Updated] Enhancing Profile Clips for Impact for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-step-by-step-guide-effortless-setup-of-the-kingdom-add-on-in-your-kodi-media-center/"><u>1. Step-by-Step Guide: Effortless Setup of the Kingdom Add-On in Your Kodi Media Center</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/3mp4/"><u>3優れた無料方法：MP4動画からフレーム画像を取得・保存するステップバイステップガイド</u></a></li>
-<li><a href="https://win-dash.techidaily.com/pc1/"><u>初心者でも簡単なPCゲーム実況動画作成法：1つのソフトウェアで始めよう！</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024drm/"><u>新時代にぴったり！2024用無料ソフトでDRMから自由な鑑賞方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029984622-dvd/"><u>DVDのビデオ・ツリートップシステムフォルダーの安全な複製手順</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/effortlessly-sync-youtube-videos-with-fb-feeds-using-autoplay-mode-for-2024/"><u>Effortlessly Sync YouTube Videos with FB Feeds Using Autoplay Mode for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-15-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 15 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-apple-iphone-x-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From Apple iPhone X? 5 Tips You Must Know</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-issues-preventing-football-manager-2023-from-starting-up/"><u>Resolved: Issues Preventing Football Manager 2023 From Starting Up</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/tutela-completa-sobre-a-criacao-de-mundos-personalizados-no-minecraft-guia-do-usuario/"><u>Tutela Completa Sobre a Criação De Mundos Personalizados No Minecraft: Guia Do Usuário!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029484348-veoh/"><u>Veohで見たい映画やアニメ動画を安全にダウンロードする手順</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027017437-wonderfox/"><u>WonderFoxアフィリエイト収入を最大化する方法</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-understanding-and-optimizing-your-social-media-videos-on-fb/"><u>[New] In 2024, Understanding & Optimizing Your Social Media Videos on FB</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-amateur-to-professional-transform-your-minecraft-recordings-with-mac/"><u>[Updated] 2024 Approved From Amateur to Professional Transform Your Minecraft Recordings with Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-5-tools-to-make-a-gif-meme/"><u>2024 Approved 5 Tools to Make a GIF Meme</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725289045639-winx-dvd-ripper-platinum/"><u>擁有完美解析力的WinX DVD Ripper Platinum - 官方網址購買專業版鑰匙</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-convertir-facilmente-tus-videos-wma-al-comodo-formato-flv-usando-movavi-gratis-y-en-linea/"><u>Cómo Convertir Fácilmente Tus Videos WMA Al Cómodo Formato FLV Usando Movavi - Gratis Y en Línea</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converti-file-tiff-in-formato-jpeg-online-e-gratuito-con-movavi/"><u>Converti File TIFF in Formato JPEG Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-m525-mouse-drivers-and-installation-software/"><u>Download Logitech M525 Mouse Drivers & Installation Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flvwebm-movavi/"><u>FlvからWebmへの無料デジタルフォーマット変換 - Movaviで行う方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/geen-keukenkostje-koppen-waardig-3g2-fietsen-in-gratis-mov-videodateien-met-movavi/"><u>Geen Keukenkostje Koppen: Waardig 3G2 Fietsen in Gratis MOV Videodateien Met Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seguranca-no-software-de-multimidia-a-solucao-eficiente-do-movavi/"><u>Segurança No Software De Multimídia - A Solução Eficiente Do Movavi</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-ai-text-to-video-for-2024/"><u>What Is AI Text to Video for 2024</u></a></li>
 </ul></div>
 

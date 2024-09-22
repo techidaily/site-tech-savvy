@@ -1,7 +1,7 @@
 ---
 title: AI's Expanding Footprint in Misinformation
-date: 2024-09-15T16:16:36.119Z
-updated: 2024-09-17T16:16:33.786Z
+date: 2024-09-18T17:51:19.184Z
+updated: 2024-09-22T17:52:11.879Z
 tags:
   - chatgpt
   - open-ai
@@ -69,6 +69,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -77,13 +84,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  It's crucial, then, to be able to [identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is [the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/).
@@ -91,13 +91,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  You might have come across tools like [Resemble AI](https://www.resemble.ai/), [Speechify](https://speechify.com/), [FakeYou](https://fakeyou.com/), and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by [The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -109,6 +102,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -133,18 +133,20 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-flawless-frequency-facilitator-for-voices/"><u>[Updated] Flawless Frequency Facilitator for Voices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-turn-on-or-off-comments-on-youtube/"><u>[Updated] How to Turn on or Off Comments on YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-camon-20-premier-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Camon 20 Premier 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/boost-your-contents-reach-with-these-tiktok-unboxing-strategies-for-2024/"><u>Boost Your Content’s Reach with These TikTok Unboxing Strategies for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-guide-converting-twitch-streams-into-1080p-mp4-files-on-your-pc/"><u>Free Guide: Converting Twitch Streams Into 1080P MP4 Files on Your PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/global-access-unleashed-two-quick-fixes-for-removing-dvd-region-locks-on-your-pc/"><u>Global Access Unleashed: Two Quick Fixes for Removing DVD Region Locks on Your PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-easy-conversion-of-mov-video-format-to-mp4-4k-for-crystal-clear-viewing-experience/"><u>Guide: Easy Conversion of MOV Video Format to MP4 4K for Crystal Clear Viewing Experience</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-a05-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy A05 Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-duplicate-a-dvd-quickly-the-ultimate-guide-to-free-dvd-copying-software-top-picks/"><u>How to Duplicate a DVD Quickly: The Ultimate Guide to Free DVD Copying Software (Top Picks)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-breathless-battles-olympic-short-track/"><u>In 2024, Breathless Battles Olympic Short Track</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-step-by-step-building-a-youtube-empire-from-scratch/"><u>In 2024, Step by Step Building a YouTube Empire From Scratch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/installing-aeon-nox-silvo-add-on-for-kodi-comprehensive-tutorial/"><u>Installing Aeon Nox Silvo Add-On for Kodi - Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/itunesm4amp3/"><u>ITunesでM4A音声ファイルをMP3にリバートする手順と、失敗時の別解法</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-crafted-perfection-transforming-pics-into-words-with-apps/"><u>[Updated] Crafted Perfection Transforming Pics Into Words with Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-shambling-successes-the-cutthroat-list-of-best-zombies-gaming/"><u>[Updated] In 2024, Shambling Successes The Cutthroat List of Best Zombies Gaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unleashing-the-best-mobile-moba-battles/"><u>[Updated] In 2024, Unleashing the Best Mobile MOBA Battles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movivaiv-3gmp4/"><u>使用 MoviVaiv 提供的移植器：即時無限制地在線上更改3G到MP4格式</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-13t-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi 13T Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-basics-how-does-ai-utilize-transfer-learning/"><u>Mastering the Basics: How Does AI Utilize Transfer Learning?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/strategies-to-address-and-fix-alan-wake-2s-stalled-game-launch/"><u>Strategies To Address and Fix Alan Wake 2'S Stalled Game Launch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-15-softwares-de-edicao-de-audio-mais-eficientes-para-windows-e-mac-facil-acesso-publico/"><u>Top 15 Softwares De Edição De Áudio Mais Eficientes Para Windows E Mac - Fácil Acesso Público</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-leader-prospetti-per-trasformare-5-milioni-di-euro-in-pdf-liberamente-usati-nel-2024/"><u>Top 6 Leader Prospetti per Trasformare 5 Milioni Di Euro in PDF Liberamente Usati Nel 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-performantes-carte-sd-compatibles-gopro-votre-guide-ultime-pour-choisir/"><u>Top Performantes Carte SD Compatibles GoPro: Votre Guide Ultime Pour Choisir</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-audio-rom-en-format-mp3-sans-frais-guide-de-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier Audio ROM en Format MP3 Sans Frais - Guide De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tu-archivos-m4a-en-formatos-flv-sin-coste-con-nuestro-conversor-online-gratis-y-eficiente-movavi/"><u>Transforma Tu Archivos M4A en Formatos FLV Sin Coste Con Nuestro Conversor Online Gratis Y Eficiente - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformate-gratuita-de-imagenes-jpg-a-jpeg-online-con-movavi/"><u>Transfórmate Gratuita De Imágenes JPG a JPEG Online Con Movavi</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-expert-picks-top-speech-transcription-tools-for-android-and-ios-users-for-2024/"><u>Updated Expert Picks Top Speech Transcription Tools for Android and iOS Users for 2024</u></a></li>
 </ul></div>
 

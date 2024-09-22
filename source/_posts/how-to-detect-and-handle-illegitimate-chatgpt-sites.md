@@ -1,7 +1,7 @@
 ---
 title: How to Detect and Handle Illegitimate ChatGPT Sites
-date: 2024-09-16T16:30:43.287Z
-updated: 2024-09-17T16:13:24.842Z
+date: 2024-09-21T16:23:45.286Z
+updated: 2024-09-22T17:05:24.115Z
 tags:
   - chatgpt
   - open-ai
@@ -67,6 +67,19 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 
  In contrast, if a website sells ChatGPT-related products, such as AI writing detection tools, premium ChatGPT prompts, courses, etc., you should check its reliability thoroughly.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Other Ways to Assess the Credibility of a Website
 
 ![A Hook Stealing Login Credentials From a Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/phishing.jpg)
@@ -80,10 +93,25 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 * If there is no padlock symbol beside the website URL and you see "Non-secure" written there, the website doesn't have the [SSL-protection](https://www.makeuseof.com/tag/ssl-certificate-need-one/), which is a phishing sign.  
 ![official chatgpt website with https lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/official-chatgpt-website-with-https-lock.jpg)
 * Search using the website's URL on Google or any other search engine. If there are bad reviews or negative comments about the website on public forums, that's another sign it could be malicious.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * If there are no details about the company that owns the website or the site lacks important pages (like a privacy policy or contact page), it might be a scam.
 * If the website doesn't have any reviews or online presence, that suggests it's pretty new, so it's best to steer clear of it.
 
  We know criminals will try everything to trick unsuspecting users into their scams. But knowing most of the signs of a ChatGPT phishing site gives you a big advantage and boosts your security.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Should You Do if You Spot a ChatGPT Phishing Website?
 
@@ -91,29 +119,9 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 
  Besides that, post about the website with its URL in a public forum (somewhere like Reddit or X) and explain why you believe it is suspicious. It will prevent other users from falling victim to it and maybe encourage a security researcher to investigate it.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Already Fallen Victim to a ChatGPT Phishing Website? Here's What to Do Next
 
 ![handcuffed hands typing on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/handcuffed-hands-typing-on-a-keyboard.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have already fallen victim to a ChatGPT phishing website, you can take a few steps to undo some of the damage.
 
@@ -127,13 +135,6 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
  If you have downloaded an attachment disguised as an important document or file, [scan your device for malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) to ensure it hasn't been infected. If you've installed any apps, uninstall them as soon as possible.
 
  If you have clicked on a link or a popup on the website, [check your browser for signs of hijacking](https://www.makeuseof.com/what-is-browser-hijacking/). If it appears that your browser has been hijacked, uninstall it completely and then install it again.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Don't Fall Prey to ChatGPT Phishing Websites
 
@@ -156,20 +157,20 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-capture-and-conserve-the-instagram-freedom-toolkit-for-2024/"><u>[New] Capture and Conserve The Instagram Freedom Toolkit for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-dota-underlords-keeps-crashing/"><u>[SOLVED] Dota Underlords Keeps Crashing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-selecting-superior-free-online-srt-translation-services-tips-and-tricks/"><u>[Updated] Selecting Superior Free Online SRT Translation Services Tips & Tricks</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/collect-lifes-moments-tiktok-files-free-and-pure-for-2024/"><u>Collect Life's Moments - TikTok Files, FREE & Pure for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-chatgpt-insights-into-microsofts-breakthrough-in-nlp/"><u>Decoding ChatGPT: Insights Into Microsoft's Breakthrough in NLP</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-economics-of-successful-podcasting/"><u>In 2024, The Economics of Successful Podcasting</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-updated-graphics-card-drivers-for-your-lenovo-legion-ebyon-16ach6h-laptop/"><u>Install Updated Graphics Card Drivers for Your Lenovo Legion Ebyon-16ACH6H Laptop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-crafting-transparent-gifs-online-for-free-and-quick-results/"><u>Step-by-Step Guide to Crafting Transparent GIFs Online for Free and Quick Results</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-videos-into-a-perfect-169-aspect-ratio/"><u>Step-by-Step Guide: Transforming Videos Into a Perfect 16:9 Aspect Ratio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-creating-dvds-compatible-with-all-dvd-players-and-optimal-dvd-conversion-techniques/"><u>The Ultimate Guide to Creating DVDs Compatible with All DVD Players & Optimal DVD Conversion Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-platforms-for-downloading-cartoon-episodes-and-simple-steps-to-get-them/"><u>Top Platforms for Downloading Cartoon Episodes & Simple Steps to Get Them</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshoot-lack-of-sound-and-non-dts-compatibility-on-mx-video-player/"><u>Troubleshoot Lack of Sound & Non-DTS Compatibility on MX Video Player</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-free-episodes-discover-the-best-websites-ranked-1-11-for-high-quality-show-and-series-download/"><u>Ultimate Guide to FREE Episodes: Discover the Best Websites Ranked #1-#11 for High-Quality Show and Series Download</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-guide-to-text-preset-mastery/"><u>[New] 2024 Approved The Ultimate Guide to Text Preset Mastery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-5-best-graphics-cards-for-4k-video-editing-and-rendering/"><u>[New] 5 Best Graphics Cards for 4K Video Editing and Rendering</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc-for-2024/"><u>[Updated] Unveiling WinTV Magic Compre Written Guide to Capturing Live on Windows PC for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-places-to-find-background-music-for-videos/"><u>2024 Approved Top Places to Find Background Music for Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/android-2024-premium-cloud-savers-guide/"><u>Android 2024 Premium Cloud Savers Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/bridging-light-and-time-iphones-extended-exposure-techniques/"><u>Bridging Light and Time IPhone's Extended Exposure Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/formato-gif-a-mkv-descubra-como-convertir-gratis-en-la-web-con-herramientas-de-movavi/"><u>Formato GIF a MKV: Descubra Como Convertir Gratis en La Web Con Herramientas De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-the-power-of-ai-top-10-chatgpt-and-vs-code-tactics/"><u>Harness the Power of AI: Top 10 ChatGPT & VS Code Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/identifying-chameleon-ais-via-strategic-mentions-in-dialogue/"><u>Identifying Chameleon AIs via Strategic Mentions in Dialogue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-valheim-agriculture-seed-selection-insights/"><u>In 2024, Mastering Valheim Agriculture Seed Selection Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-itel-a60-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Itel A60 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-to-overcome-language-barriers-with-chatgpts-help/"><u>Leveraging AI to Overcome Language Barriers with ChatGPT's Help</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pro-genius-in-ai-prompting-leading-courses-ranked/"><u>Pro Genius in AI Prompting: Leading Courses Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-custom-ai-crafting-chatgpt-from-scratch/"><u>The Art of Custom AI: Crafting ChatGPT From Scratch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wordsmiths-workshop-building-rpg-scenarios-via-chatgpt/"><u>Wordsmith's Workshop: Building RPG Scenarios via ChatGPT</u></a></li>
 </ul></div>
 

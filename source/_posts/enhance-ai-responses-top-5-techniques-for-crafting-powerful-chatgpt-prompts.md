@@ -1,7 +1,7 @@
 ---
 title: "Enhance AI Responses: Top 5 Techniques for Crafting Powerful ChatGPT Prompts"
-date: 2024-09-10T16:03:51.667Z
-updated: 2024-09-17T16:07:21.421Z
+date: 2024-09-16T17:24:27.857Z
+updated: 2024-09-22T18:29:00.743Z
 tags:
   - chatgpt
   - open-ai
@@ -59,16 +59,10 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
  The third video, titled Advanced ChatGPT Guide, is the one you want to pay particular attention to if you want to understand advanced prompts. Twarog goes into details of prompt engineering with a series of examples. Even if the examples aren't what you want to do with ChatGPT, go through these as an exercise to truly understand the finer points of composing a prompt.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4. Micah Johns
@@ -81,16 +75,16 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
  Micah's larger [How to Use ChatGPT playlist](https://www.youtube.com/playlist?list=PLRc1YiX2Z0mpeXlmv6n7ZsVPVn-2etOua) has several other real-world applications for ChatGPT. For example, you'll learn how to write a 5-page essay in 10 minutes with AI or make your superhero comic with ChatGPT and Midjourney, one of the [best free AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/) .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5. Learn Prompting
 
 ![Learn Prompting is a free online course for beginner, intermediate, or advanced AI users to learn all aspects of prompt engineering](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-learn-prompting.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Learn Prompting is a free online course to understand how to write prompts for any AI app, not just ChatGPT. Sander Schulhoff, a computer science student at the University of Maryland, designed it. It caters to a range of users, from complete novices to those with domain expertise or programming knowledge.
 
@@ -117,19 +111,21 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-auteurs-toolkit-5-critical-cinematographic-insights/"><u>[Updated] In 2024, The Auteur's Toolkit 5 Critical Cinematographic Insights</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-google-hangouts-recording-guide/"><u>2024 Approved Google Hangouts Recording Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-leading-virtual-realities-iphone-and-android-guide/"><u>2024 Approved The Leading Virtual Realities IPhone & Android Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/boosting-visibility-key-steps-in-submitting-on-reddit/"><u>Boosting Visibility Key Steps in Submitting on Reddit</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dvdipad2024/"><u>DVD素晴らしい世界をiPadに移して！2024年のチャート・アップデート</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-steps-for-downloading-high-quality-hindi-songs-as-mp3s-from-popular-online-platforms-like-youtube-and-more/"><u>Easy Steps for Downloading High-Quality Hindi Songs as MP3s From Popular Online Platforms Like YouTube and More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-techniques-to-divide-videos-into-30-second-intervals-a-comprehensive-guide/"><u>Easy Techniques to Divide Videos Into 30-Second Intervals: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-techniques-for-reducing-size-of-zoom-meeting-videos-in-windows/"><u>Effective Techniques for Reducing Size of Zoom Meeting Videos in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficient-top-5-elearning-platforms-for-crafting-engaging-how-to-vids/"><u>Efficient Top 5 eLearning Platforms for Crafting Engaging How-To Vids</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-gt-5-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme GT 5 Phone?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/review-ultra-hd-blade-cam-at-full-spectrum-for-2024/"><u>Review Ultra HD Blade Cam at Full Spectrum for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-sphere-titans-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Social Sphere Titans: A Deep Dive Into Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-secrets-to-recording-high-quality-overwatch-matches/"><u>[Updated] 2024 Approved Secrets to Recording High-Quality Overwatch Matches</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-escape-artists-manual-to-disguised-youtube-archives/"><u>[Updated] The Escape Artist's Manual to Disguised YouTube Archives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-next-step-in-ai-conversation/"><u>ChatGPT: The Next Step in AI Conversation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/comparing-m1-laptop-performance-in-air-vs-pro-for-2024/"><u>Comparing M1 Laptop Performance in Air Vs. Pro for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enriched-design-processes-using-chatgpt-for-3d-printing/"><u>Enriched Design Processes Using ChatGPT for 3D Printing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ensuring-effective-integration-with-apples-platform/"><u>Ensuring Effective Integration with Apple's Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-essential-chatgpt-techniques-for-time-mastery/"><u>Harnessing AI: Essential ChatGPT Techniques for Time Mastery</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-g2-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mac-users-manual-recording-high-quality-audio-with-audacity/"><u>Mac Users' Manual Recording High-Quality Audio with Audacity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proven-top-6-ai-powered-notes-organizing-tools-reviewed/"><u>Proven Top 6 AI-Powered Notes Organizing Tools Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-and-free-eradicate-red-eye-in-iphone-photography-tips-for-2024/"><u>Swift and FREE Eradicate Red-Eye in iPhone Photography Tips for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dangers-of-ai-writing-and-how-to-spot-ai-generated-text/"><u>The Dangers of AI Writing and How to Spot AI-Generated Text</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-comparative-showdown-for-creativity-in-bots/"><u>The Ultimate Comparative Showdown for Creativity in Bots</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-ultimate-guide-to-enhancing-tiktok-video-themes-for-2024/"><u>The Ultimate Guide to Enhancing TikTok Video Themes for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-the-basics-of-motion-design/"><u>Understanding the Basics of Motion Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-poetic-potential-with-chatgpt-assistance/"><u>Unlocking Poetic Potential with ChatGPT Assistance</u></a></li>
 </ul></div>
 

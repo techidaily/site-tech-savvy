@@ -1,7 +1,7 @@
 ---
 title: Expert Guide to CodeGPT Integration in VS Code
-date: 2024-09-10T16:14:12.277Z
-updated: 2024-09-17T16:39:10.577Z
+date: 2024-09-16T16:50:03.390Z
+updated: 2024-09-22T17:32:35.932Z
 tags:
   - chatgpt
   - open-ai
@@ -129,14 +129,20 @@ else:
 
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
 
- CodeGPT will explain what the code does on the chat window.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ CodeGPT will explain what the code does on the chat window.
 
 ## Documenting Your Code Using CodeGPT
 
@@ -165,10 +171,10 @@ def divide(x, y):
  These are clear and correct inline comments.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Understanding How Generative AI Works
@@ -194,20 +200,17 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-selection-best-5-free-convertors-for-video-from-gifs/"><u>[New] Exclusive Selection Best 5 Free Convertors for Video From GIFs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-financial-breakdown-of-youtube-shorts-royalties/"><u>[New] In 2024, The Financial Breakdown of YouTube Shorts Royalties</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723006319029-solved-rocket-league-wont-launch/"><u>[Solved] Rocket League Won't Launch</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-new-users-on-the-road-to-zoom-room-mastery/"><u>[Updated] In 2024, New Users on the Road to Zoom Room Mastery</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-titles-pro-elevate-your-youtube-game/"><u>2024 Approved Prime Titles Pro Elevate Your YouTube Game</u></a></li>
-<li><a href="https://facebook.techidaily.com/changing-identity-online-facebook-name-revision-tips/"><u>Changing Identity Online: Facebook Name Revision Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-law-a-conversational-overview/"><u>ChatGPT & Law: A Conversational Overview</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevated-expertise-is-copilot-pro-right-for-you/"><u>Elevated Expertise - Is Copilot Pro Right for You?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-interaction-with-chatgpts-new-tools/"><u>Enhancing Your Interaction with ChatGPT's New Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-digital-world-a-guide-by-toms-hardware-experts/"><u>Navigating the Digital World: A Guide by Tom's Hardware Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-twin-titans-of-technology-myai-vs-bings-skype-bot/"><u>The Twin Titans of Technology: MyAI vs Bing's Skype Bot</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-to-correct-microsoftdirectxdirectinputdll-problems-on-your-computer/"><u>Troubleshooting Techniques to Correct 'Microsoft.DirectX.DirectInput.dll' Problems on Your Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unseen-horizons-revealing-the-quintessential-emerging-ai-hardware/"><u>Unseen Horizons: Revealing the Quintessential Emerging AI Hardware</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-how-to-generate-speech-from-text-the-top-text-to-speech-converters/"><u>Updated 2024 Approved How To Generate Speech From Text | The Top Text-to-Speech Converters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/weighing-risks-chatgpt-and-your-privacy/"><u>Weighing Risks: ChatGPT and Your Privacy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-easy-steps-to-document-video-calls/"><u>[Updated] Easy Steps to Document Video Calls</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-from-still-shots-to-movies-mastering-logitech-webcam-videos/"><u>[Updated] In 2024, From Still Shots to Movies Mastering Logitech Webcam Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-checklist-for-nfl-live-broadcasting-for-2024/"><u>[Updated] The Ultimate Checklist for NFL Live Broadcasting for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-choices-for-livestreaming-made-simple-mac-edition-for-2024/"><u>Best Choices for Livestreaming Made Simple - Mac Edition for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-learning-how-chatgpt-benefits-5-key-areas-in-schools/"><u>Boosting Learning: How ChatGPT Benefits 5 Key Areas in Schools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-your-creative-catalyst-for-poetic-works/"><u>ChatGPT as Your Creative Catalyst for Poetic Works</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatterbot-security-staying-one-step-ahead/"><u>Chatterbot Security: Staying One Step Ahead</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-realm-of-wealth-in-like-a-dragon-on-pc-top-techniques-revealed-for-unlimited-success/"><u>Conquer the Realm of Wealth in 'Like a Dragon' On PC: Top Techniques Revealed for Unlimited Success</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-mastering-youtube-screens-final-touches/"><u>In 2024, Mastering YouTube Screens' Final Touches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skype-vs-snapchat-top-8-in-ai-divergence/"><u>Skype vs Snapchat: Top 8 in AI Divergence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/time-honored-tech-selfies-with-iphone-x-for-2024/"><u>Time-Honored Tech Selfies with iPhone X for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-quests-engaging-with-chatgpt-as-a-game-master/"><u>Virtual Quests: Engaging with ChatGPT as a Game Master</u></a></li>
 </ul></div>
 

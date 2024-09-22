@@ -1,7 +1,7 @@
 ---
 title: "Doubt on ZeroGPT: Are Other AI Detectors Trusted Equally?"
-date: 2024-09-14T16:37:30.866Z
-updated: 2024-09-17T16:22:23.387Z
+date: 2024-09-16T16:53:45.593Z
+updated: 2024-09-22T16:17:30.404Z
 tags:
   - chatgpt
   - open-ai
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 
  To be fair, I was aiming for this result. I kept the text generic and used “salesy” language. But the point that a human wrote this remains just as valid. This is not an inconvenience or something that can just be shrugged off. Errors like this can have serious ramifications for writers, students, and other professionals who create written works.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Test Three: Testing ZeroGPT on Fiction
 
  For the third test, we are going to use ChatGPT and ask it to write some fiction. To do this, we created a scenario and prompted ChatGPT to write a brief introduction to a fictional story.
@@ -70,24 +77,24 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 
 ![Screenshot of ChatGPT fiction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-fiction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And here was the response from ZeroGPT:
 
 ![Screenshot of ZeroGPT failing fiction test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-failing-fiction-test.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As is apparent from the result, ZeroGPT is unable to tell fact from fiction when dealing with fiction!
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Test Four: News Articles
@@ -98,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 
 ![Screenshot of ZeroGPT correctly identifying AI news article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-correctly-identifying-ai-news-article.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The tool so consistently flagged each news article as AI-generated that we decided to test it on a dummy news article that we wrote for the purpose.
 
 ![Screenshot of ZeroGPT misidentifying news story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-misidentifying-news-story.jpg)
@@ -114,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
  But the point remains valid. This was written by a human using research found on the internet.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Aren't AI-Detection Tools Very Good?
@@ -173,17 +173,14 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-comprehensive-guide-to-zoom-screen-casts/"><u>[New] In 2024, The Comprehensive Guide to Zoom Screen Casts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-dissecting-biggest-fifa-footage-trends-in-graphs/"><u>2024 Approved Dissecting Biggest FIFA Footage Trends in Graphs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-iphone-backup-flawless-integration-with-snapchat-photos/"><u>2024 Approved Navigating iPhone Backup Flawless Integration with Snapchat Photos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/4k-movmp4hevcmkv/"><u>高効率で滑らかな4K再生: MOV、MP4、HEVC、MKVファイルの最適化テクニック</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998936232-battlefield-2042-performance-optimized-say-goodbye-to-framerate-drops-and-glitchy-gameplay/"><u>Battlefield #2042 Performance Optimized - Say Goodbye to Framerate Drops and Glitchy Gameplay</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-beyond-the-reach-of-openai/"><u>ChatGPT: Beyond the Reach of OpenAI?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-magic-in-words-top-4-ai-story-generators-reviewed/"><u>Crafting Magic in Words: Top 4 AI Story Generators Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/google-news-feeds-revolutionary-shift/"><u>Google News Feed's Revolutionary Shift</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 mini Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-gpt-3-with-python/"><u>How to Use GPT-3 With Python</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-s-top-picks-free-whiteboard-animation-software-for-windows-and-macos/"><u>Updated 2024 Approved S Top Picks Free Whiteboard Animation Software for Windows and macOS</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-direct-path-to-delight-your-ifunny-meme-guidebook/"><u>[Updated] In 2024, Direct Path to Delight Your iFunny Meme Guidebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pro-video-production-mastering-the-coordination-between-windows-photos-and-storyremix/"><u>[Updated] Pro Video Production Mastering the Coordination Between Windows, Photos, and StoryRemix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wma-ogg/"><u>移動維藍 - 免費在線 WMA 到 OGG 文件格式的無限制過渡</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/divers-formes-de-paiement-chez-movavi-options-et-avantages-expliques/"><u>Divers Formes De Paiement Chez Movavi: Options Et Avantages Expliqués</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-conversion-tool-transform-avi-files-into-ogv-format-move-avni/"><u>Free Conversion Tool: Transform AVI Files Into OGV Format - Move Avni</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/passer-de-av-a-numerique-pour-gratuits-toujours-avec-movavi/"><u>Passer De AV À Numérique Pour Gratuits - Toujours Avec Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spooky-celebrations-across-continents/"><u>Spooky Celebrations Across Continents</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tips-and-techniques-to-combat-layer-shift-issues-on-your-3d-printer/"><u>Tips & Techniques to Combat Layer Shift Issues on Your 3D Printer</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/why-learn-croatian-discover-these-7-reasons-to-start-your-journey-today/"><u>Why Learn Croatian? - Discover These 7 Reasons to Start Your Journey Today</u></a></li>
 </ul></div>
 

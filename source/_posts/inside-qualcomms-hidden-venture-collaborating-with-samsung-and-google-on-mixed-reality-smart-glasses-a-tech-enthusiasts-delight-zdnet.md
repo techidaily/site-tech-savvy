@@ -1,7 +1,7 @@
 ---
 title: "Inside Qualcomm's Hidden Venture: Collaborating with Samsung & Google on Mixed Reality Smart Glasses - A Tech Enthusiast's Delight | ZDNet"
-date: 2024-09-19 11:57:53
-updated: 2024-09-20 10:58:46
+date: 2024-09-16T17:24:13.279Z
+updated: 2024-09-22T17:02:47.385Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,34 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-iphone-savvy-techniques-for-storing-and-streaming-animated-images-for-2024/"><u>[New] IPhone-Savvy Techniques for Storing and Streaming Animated Images for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-picks-best-win-11-webcams-for-clear-capture-for-2024/"><u>[New] Premium Picks Best Win 11 Webcams for Clear Capture for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-revolutionizing-content-creation-the-future-of-live-video-on-facebook-for-2024/"><u>[Updated] Revolutionizing Content Creation The Future of Live Video on Facebook for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fixes-when-fallout-4-goes-quiet-on-a-pc-setup/"><u>Comprehensive Fixes When Fallout 4 Goes Quiet on a PC Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-ai-advances-interactive-apple-and-microsofts-chatgpt/"><u>Explore AI Advances: Interactive Apple & Microsoft's ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-awful-crash-in-chrome-browser-on-pc/"><u>Fixing Awful Crash in Chrome Browser on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-versus-fortune-tellers-in-future-projections/"><u>GPT Versus Fortune Tellers in Future Projections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-standards-of-dependability-in-healthcare/"><u>GPT’s Standards of Dependability in Healthcare</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplified-concepts-of-artificial-intelligence-unveiled/"><u>Simplified Concepts of Artificial Intelligence Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamline-your-playtime-5-techniques-for-gamers/"><u>Streamline Your Playtime 5 Techniques for Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-of-generative-techs-abilities/"><u>The Hidden Dangers of Generative Tech's Abilities</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-magic-6-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor Magic 6 Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

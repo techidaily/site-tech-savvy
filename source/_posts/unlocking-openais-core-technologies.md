@@ -1,7 +1,7 @@
 ---
 title: Unlocking OpenAI's Core Technologies
-date: 2024-09-13T16:37:04.656Z
-updated: 2024-09-17T16:15:18.261Z
+date: 2024-09-17T18:25:32.974Z
+updated: 2024-09-22T18:17:03.430Z
 tags:
   - chatgpt
   - open-ai
@@ -62,16 +62,16 @@ thumbnail: https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd463518
 
  The latest generation, ChatGPT-4, has 45 billion parameters, which means it has been trained in a more extensive dataset of text and code than its predecessor, making it more accurate, creative, and fluent.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. DALL-E
 
 ![DALL-E Playground Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dall-e-playground-homepage.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [DALL-E is a generative AI model](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) capable of generating images from text descriptions. It was created in January 2021 and has since undergone several improvements.
 
@@ -89,9 +89,23 @@ thumbnail: https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd463518
 
  Though Codex was a nifty service, it was shut down in March 2023, with OpenAI recommending that users opt for ChatGPT instead.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Challenges and Controversies Faced by OpenAI
 
  OpenAI was founded to advance AI research and prevent its monopolization. But the research company faces challenges on different fronts.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Regulatory Issues
 
@@ -102,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd463518
  OpenAI has begun creating regulatory measures trying to prevent these scenarios. But some of these measures have also prevented the use of the models, even within normal parameters.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Secrecy vs. Openness
@@ -114,23 +128,9 @@ thumbnail: https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd463518
 
  However, as AI advances, so do its applications and chances of being used for malicious purposes. This has led OpenAI to try to find a balance between hiding and sharing research, despite the former going against their mission.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Ethical Issues
 
  There have been cases where [OpenAI’s models have shown biased content](https://www.makeuseof.com/does-chatgpt-lie/) due to the type of training data they were built with. Addressing this problem is complicated as it will need a lot of fine-tuning and comprehensive data selection. And even at that, it would be almost impossible to eradicate biased results.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Competition
 
@@ -159,17 +159,20 @@ thumbnail: https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd463518
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financial-forecasts-in-focus-select-stock-youtube-channels/"><u>[New] 2024 Approved Financial Forecasts in Focus Select Stock YouTube Channels</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tailoring-twitter-video-thumbnails-a-step-by-step-guide-for-2024/"><u>[New] Tailoring Twitter Video Thumbnails A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-note-30-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Note 30 5G</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-policy-scope-and-structure/"><u>AI Policy: Scope & Structure</u></a></li>
-<li><a href="https://fox-access.techidaily.com/digital-renaissance-evolving-your-vintage-photographs-into-videos/"><u>Digital Renaissance Evolving Your Vintage Photographs Into Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-the-accuracy-of-cgp-in-medicine/"><u>Evaluating the Accuracy of CGP in Medicine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fusing-technology-and-innovation-constructing-web-applications-with-gpt-3/"><u>Fusing Technology and Innovation: Constructing Web Applications with GPT-3</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/how-to-utilize-facebooks-auto-video-functionality/"><u>How to Utilize Facebook's Auto-Video Functionality</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-youtubes-queue-with-precision-a-comprehensive-tutorial-for-2024/"><u>Navigating YouTube's Queue with Precision A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-search-technology-meets-you-bings-ai-powered-android-and-ios/"><u>Seamless Search Technology Meets You - Bing's AI-Powered Android & iOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/virtual-companionship-using-chatgpt-to-connect-people/"><u>Virtual Companionship: Using ChatGPT to Connect People</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-soundscape-strategy-incorporating-melodies-into-vimeo-videos-for-2024/"><u>[Updated] The Soundscape Strategy Incorporating Melodies Into Vimeo Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uncomplicated-methodology-win-os-clownvoice-tweaking-guide/"><u>2024 Approved Uncomplicated Methodology Win-OS Clownvoice Tweaking Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-driven-search-engines-unveiling-the-top-options-for-smarter-web-navigation/"><u>AI-Driven Search Engines: Unveiling the Top Options for Smarter Web Navigation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-easily-transform-m4r-audio-files-into-aiff-format/"><u>Free Online Converter: Easily Transform M4R Audio Files Into AIFF Format</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-2023s-mastered-entry-editor-for-multi-platform-devices/"><u>In 2024, 2023'S Mastered Entry Editor for Multi-Platform Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-demystifying-zoom-sessions-into-smaller-groups/"><u>In 2024, Demystifying Zoom Sessions Into Smaller Groups</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-skyrocketing-earnings-through-video-affiliates/"><u>In 2024, Skyrocketing Earnings Through Video Affiliates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkv-to-mp4-conversion-guide-easy-tutorial-with-movavi/"><u>MKV to MP4 Conversion Guide - Easy Tutorial with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavis-no-cost-tool-for-swiftly-transforming-png-files-into-high-quality-jpegs/"><u>Movavi's No-Cost Tool for Swiftly Transforming PNG Files Into High-Quality JPEGs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/non-retweeted-video-tweet-guide-for-iphone-and-android-users-for-2024/"><u>Non-Retweeted Video Tweet Guide for iPhone & Android Users for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/passo-a-passo-como-transformar-arquivos-nef-em-jpeg-usando-o-windows-ou-mac/"><u>Passo a Passo: Como Transformar Arquivos NEF Em JPEG Usando O Windows Ou Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/telechargement-gratuit-convertissez-votre-fichier-rmvb-en-version-m4v-via-le-service-de-movavi/"><u>Téléchargement Gratuit : Convertissez Votre Fichier RMVB en Version M4V via Le Service De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-file-mxf-in-mp3-senza-costi-con-il-servizio-di-conversione-online-di-movavi/"><u>Trasforma I File MXF in MP3 Senza Costi Con Il Servizio Di Conversione Online Di Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-ksuserdll-file-errors-on-your-pc-tips-and-fixes/"><u>Troubleshooting ksuser.dll File Errors on Your PC - Tips and Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-flac-movavi/"><u>무료 앱을 사용하여 Online FLAC 크리티비톡 편집 - Movavi</u></a></li>
 </ul></div>
 

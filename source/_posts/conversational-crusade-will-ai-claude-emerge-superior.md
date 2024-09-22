@@ -1,7 +1,7 @@
 ---
 title: "Conversational Crusade: Will AI Claude Emerge Superior?"
-date: 2024-09-15T16:36:57.147Z
-updated: 2024-09-17T16:44:12.625Z
+date: 2024-09-18T16:27:46.098Z
+updated: 2024-09-22T18:45:05.390Z
 tags:
   - chatgpt
   - open-ai
@@ -108,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
@@ -122,16 +115,10 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
@@ -139,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -163,17 +157,16 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-dji-mini-and-air-2-mixing-made-easy-with-20-free-luts/"><u>[New] 2024 Approved DJI Mini & Air 2 Mixing Made Easy with 20 Free LUTS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-software-for-live-broadcasting/"><u>[New] Best Software for Live Broadcasting</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-demystify-the-screen-time-analyze-your-posts-viewership-for-2024/"><u>[New] Demystify the Screen Time Analyze Your Post's Viewership for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-reviewing-the-high-quality-video-on-galaxy-s8/"><u>2024 Approved Reviewing the High-Quality Video on Galaxy S8</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-system-stability-with-breaks/"><u>Enhancing System Stability with Breaks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-camon-30-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Camon 30 Pro 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/master-the-quick-art-of-tiktok-film-rate/"><u>Master the Quick Art of TikTok Film Rate</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-sound-editing-with-these-4-strategies-to-normalize-wav-audio-files/"><u>Simplify Sound Editing with These 4 Strategies to Normalize WAV Audio Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-premiere-pro-buffering-issues-discover-over-10-effective-fixes/"><u>Solving Premiere Pro Buffering Issues: Discover Over 10 Effective Fixes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tech-driven-pleasure-exploring-vr-in-media-for-2024/"><u>Tech-Driven Pleasure Exploring VR in Media for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-no-cost-sites-for-hd-movie-streams-of-blockbuster-films/"><u>Top 10 No-Cost Sites for HD Movie Streams of Blockbuster Films</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-pros-guide-from-playback-to-perfected-overwatch-recordings/"><u>[New] The Pro's Guide From Playback to Perfected Overwatch Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screenshot-supreme-in-depth-recorder-reviews-for-2024/"><u>[Updated] Screenshot Supreme In-Depth Recorder Reviews for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-seamless-editing-mastering-the-filmora-experience/"><u>[Updated] The Art of Seamless Editing Mastering the Filmora Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-essential-rotators-playbook-for-youtube-video-spinning/"><u>[Updated] The Essential Rotator's Playbook for YouTube Video Spinning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-movavi-image-editing-suite-buy-now-and-transform-your-pictures/"><u>1. Movavi Image Editing Suite: Buy Now & Transform Your Pictures!</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5b2x5yop5qplusu546h5qch5q2j55qe6auy5pwi5oqa6kgt44cq5b2x54mh5asn5bcp6kq5pw05oyh5y2x44cr/"><u>影像比率校正的高效技術【影片大小調整指南】</u></a></li>
+<li><a href="https://extra-information.techidaily.com/craft-your-own-cinematic-magic-making-slow-motion-video-from-photo-apps/"><u>Craft Your Own Cinematic Magic Making Slow Motion Video From Photo Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-mute-google-meet-for-2024/"><u>How to Mute Google Meet for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transcode-music-files-from-mp3-to-m4a-at-no-cost-using-movavis-web-service/"><u>Transcode Music Files From MP3 to M4A at No Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformation-facile-dun-fichier-webp-en-jpg-par-movavi-service-internet-gratuit/"><u>Transformation Facile D'un Fichier Webp en Jpg Par Movavi - Service Internet Gratuit</u></a></li>
 </ul></div>
 

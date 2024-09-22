@@ -1,7 +1,7 @@
 ---
 title: Top 6 Pitfalls in GPT-Based Dialogues
-date: 2024-09-12T16:18:40.113Z
-updated: 2024-09-17T16:14:00.663Z
+date: 2024-09-19T18:53:18.867Z
+updated: 2024-09-22T16:58:39.272Z
 tags:
   - chatgpt
   - open-ai
@@ -71,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -90,6 +83,20 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of [crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/). While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
@@ -97,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
  Examples are especially important when generating unique content like jokes, music, or cover letters. For example, in the screenshot below, we asked ChatGPT to generate some sarcasm about musicians once we provided the musician's name. The highlight here is that we didn't provide any examples.
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
@@ -113,35 +113,29 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
- Loved the second set of jokes? Well, the moral of the story is to use examples more often.
-
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -174,20 +168,18 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-outro-kings-6-top-suggestions/"><u>[New] 2024 Approved Free YouTube Outro Kings 6 TOP Suggestions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhance-listening-pleasure-constructing-a-youtube-playlist/"><u>[Updated] In 2024, Enhance Listening Pleasure Constructing a YouTube Playlist</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-nextgen-tv-including-the-best-local-channels-online/"><u>2024 Approved NextGen TV Including the Best Local Channels Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-comprehensive-look-celebrating-15-outstanding-unboxing-vloggers/"><u>A Comprehensive Look Celebrating 15 Outstanding Unboxing Vloggers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/android-wrapper-for-windows-samsung/"><u>Android Wrapper for Windows (Samsung)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-we-confide-in-chatgpt/"><u>Can We Confide in ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbot-evolution-premium-plan-with-chatgpt-at-20-limited-to-us/"><u>ChatBot Evolution: Premium Plan with ChatGPT at $20, Limited to US</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-chatgpt-transforming-data-to-insights/"><u>Decoding ChatGPT: Transforming Data to Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-engaging-presentation-creation/"><u>Harnessing ChatGPT for Engaging Presentation Creation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1724765904134-macx-dvd/"><u>MacX DVDコレクションでお得な情報が見つかる! プロモ節度大解放</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-digital-discussion-with-rtx-ai/"><u>Mastering the Art of Digital Discussion with RTX AI</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/my-recovered-videos-not-functional/"><u>My Recovered Videos: Not Functional?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/optimize-youtube-submission-swift-rendering-and-uploading-methods/"><u>Optimize YouTube Submission - Swift Rendering and Uploading Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tale-of-two-ais-notion-ai-vs-chatgpt-which-prevails/"><u>Tale of Two AIs: Notion AI Vs. ChatGPT - Which Prevails?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-unveiled-falsehood-of-win-chatgpt-client-malware/"><u>Truth Unveiled: Falsehood of Win ChatGPT Client Malware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-comprehensive-photo-editing-and-slideshow-creation-tool-unleash-your-imagination/"><u>1. Comprehensive Photo Editing & Slideshow Creation Tool | Unleash Your Imagination</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-profit-on-facebook-essential-insights-and-hacks/"><u>2024 Approved Mastering Profit on Facebook Essential Insights & Hacks</u></a></li>
+<li><a href="https://common-error.techidaily.com/advanced-fixes-for-the-infamous-fatal-error-that-plagues-halo-4-ue4/"><u>Advanced Fixes for the Infamous Fatal Error That Plagues Halo 4 UE4</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-income-a-complete-guide-to-youtube-ad-profits/"><u>Boosting Income A Complete Guide to YouTube Ad Profits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converti-file-video-3gp-a-mp3-gratuitamente-online-con-movavi/"><u>Converti File Video 3Gp a MP3 Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertir-archivos-nsv-a-formato-mpeg-gratuito-guia-de-movavi/"><u>Convertir Archivos NSV a Formato MPEG Gratuito: Guía De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertissez-vos-images-animees-gif-en-photos-statiques-png-sans-frais-solution-facile-a-laide-de-movavi/"><u>Convertissez Vos Images Animées GIF en Photos Statiques PNG Sans Frais – Solution Facile À L'aide De Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-steps-for-deleting-windows-10-memory-dumps/"><u>Easy Steps for Deleting Windows 10 Memory Dumps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-use-chatgpt-successfully-without-falling-into-key-mistakes-a-guide-for-creators/"><u>How to Use ChatGPT Successfully Without Falling Into Key Mistakes – A Guide for Creators</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/incremental-diminution-strategies-for-fl-studio-enthusiasts/"><u>Incremental Diminution Strategies for FL Studio Enthusiasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-samsung-galaxy-a05-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Samsung Galaxy A05 has been deleted</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slideshow-creation-with-movavi-free-download-and-easy-use/"><u>Slideshow Creation with Movavi: Free Download & Easy Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kak-delat-skrinshot-v-operacionnoj-sisteme-windows-11-tutorial/"><u>Как Делать Скриншот В Операционной Системе Windows 11 - Tutorial</u></a></li>
 </ul></div>
 

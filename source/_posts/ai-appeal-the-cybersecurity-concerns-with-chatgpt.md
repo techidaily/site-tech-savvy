@@ -1,0 +1,127 @@
+---
+title: "AI Appeal: The Cybersecurity Concerns with ChatGPT"
+date: 2024-09-15T17:09:08.137Z
+updated: 2024-09-22T16:38:41.019Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes AI Appeal: The Cybersecurity Concerns with ChatGPT"
+excerpt: "This Article Describes AI Appeal: The Cybersecurity Concerns with ChatGPT"
+thumbnail: https://thmb.techidaily.com/71ccc2fedcffdaa9357153f28278ee3778285e29e6f3d8460fc68588e03103f5.jpg
+---
+
+## AI Appeal: The Cybersecurity Concerns with ChatGPT
+
+ A working phone number, an email, and an internet connection. That’s all you need to create an OpenAI ChatGPT account. The process is quick and simple, and you can create multiple accounts if you want to. But hackers are putting in enormous resources to steal ChatGPT accounts, even the free ones.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ So what for? Why are ChatGPT accounts becoming a major attraction for hackers? What’s the reason behind the sudden surge in stolen ChatGPT accounts?
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Why Are ChatGPT Accounts Being Hacked?
+
+ An [investigation report](https://www.group-ib.com/media-center/press-releases/stealers-chatgpt-credentials/) by cybersecurity research firm, Group-IB has revealed that over 100,000 ChatGPT accounts have been compromised at the time of writing, and are being pawned off in covert black markets. The accounts which were stolen in a non-selective hacking campaign are typically compromised by threat actors using info stealer malware, some of which has been sitting in their victim’s computers even before the launch of ChatGPT.
+
+ So why are hackers going after ChatGPT accounts, and why are people willing to pay for these stolen accounts?
+
+### Stealing Sensitive Information
+
+![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
+
+ At first, losing your ChatGPT account doesn’t seem like something you should be worried about. But it is. Sure, if you lose a free account, you can create another within a few minutes. But what about the data it contains?
+
+ Remember that time you asked ChatGPT to suggest a strong password for your Gmail account? Or that time you used ChatGPT to process a confidential work document? How about the numerous times that you’ve asked the chatbot personal questions that can reveal a lot about your identity?
+
+ ChatGPT accounts may contain sensitive information that could be dangerous in the hands of malicious actors. As the chatbot becomes intricately woven into almost every aspect of our digital life, it becomes much more of a gold mine of personal data. This is one of the reasons hackers are gunning for as many of them as they can get their hands on. At the very least, this could lead to phishing attacks; it could lead to more serious issues, however, like identity theft.
+
+ Aware of such threats, companies like Google and Samsung—as well as Microsoft, a major backer of OpenAI—have all either warned or explicitly banned their staff from sharing company data with the AI chatbot. The fact that these companies are issuing such warnings means that mistakes might already be happening.
+
+### Reselling ChatGPT Accounts
+
+ While most of the world can access the ChatGPT website, some countries are officially banned from the platform. At the time of writing, China, with more than a billion potential users, is on this list. While residents from banned countries can use a VPN and other measures to bypass this restriction, buying cheap, stolen premium accounts is also appealing. This naturally creates a market for stolen [ChatGPT Plus accounts](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), some of which are auctioned off to more than one user. With a readily available market, hackers are naturally incentivized to steal ChatGPT accounts.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Protect Your ChatGPT Account
+
+ Since ChatGPT accounts have become a prime target for hackers, how can you protect your ChatGPT account? Here are two ways to stay safe.
+
+### 1\. Set Up Two-Factor Authentication (2FA) on Your Account
+
+[Multi-factor authentication like 2FA](https://www.makeuseof.com/what-is-multi-factor-authentication/) is the gold standard for securing your online accounts; your ChatGPT account is no exception. Here's how to set up 2FA for your ChatGPT account:
+
+1. Tap your account name in the bottom right of your ChatGPT chat interface.  
+![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/setting-up-2fa-on-chatgpt.jpg)
+2. Tap **Settings > Data controls** and then **Enable** beside **Enable two-factor authentication** to turn on the feature for your account  
+![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Unfortunately, at the time of writing, the 2FA feature has been temporarily disabled. If you can access the feature at the time of reading this, turn it on. If not, check back and turn it on whenever OpenAI restores this vital feature.
+
+### 2\. Clear Your ChatGPT Conversations
+
+ As secure as it is, two-factor authentication is not a fool-proof security measure. To ensure that the sensitive information you've shared in your ChatGPT conversations doesn't fall into the wrong hands, regularly clear your [saved ChatGPT conversations](https://www.makeuseof.com/save-chatgpt-chats/). To do this:
+
+1. Tap your account name in the bottom left corner of your ChatGPT interface.
+2. Go to **Clear Conversations > Confirm clear conversations** to delete all your saved conversations.
+
+## Protect Your ChatGPT Accounts From Hackers
+
+ While the threat of losing your ChatGPT account might not seem like something to lose sleep over, losing it to malicious actors could be a big problem. ChatGPT should receive the same level of attention you give to other sensitive accounts like your email, especially if you use it for a wide range of personal tasks. Don't be caught unaware: take the necessary steps to protect your ChatGPT account and yourself.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ So what for? Why are ChatGPT accounts becoming a major attraction for hackers? What’s the reason behind the sudden surge in stolen ChatGPT accounts?
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-financial-incentives-behind-vlogger-rating-videos/"><u>[New] In 2024, Financial Incentives Behind Vlogger Rating Videos?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-playful-escape-the-ultimate-relief-list/"><u>[New] In 2024, Playful Escape The Ultimate Relief List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-beyond-glitter-the-pure-reality-of-recordcast-experience/"><u>[Updated] Beyond Glitter The Pure Reality of RecordCast Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-cutting-edge-fullscreen-capture-programs-for-2024/"><u>[Updated] Cutting-Edge Fullscreen Capture Programs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-soft-sonata-reducing-volume-in-os/"><u>[Updated] In 2024, Soft Sonata Reducing Volume in OS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-full-potential-of-zoom-and-fb-live-broadcasts/"><u>[Updated] Unlocking the Full Potential of ZOOM & FB Live Broadcasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-12-premier-video-game-entrances-by-top-youtubers-free-and-paid-analysis/"><u>2024 Approved 12 Premier Video Game Entrances by Top Youtubers Free & Paid Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wmv-mkv-movavi/"><u>免費在網路上的 WMV到 MKV 動畫格式轉換 - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/capturing-your-moments-with-movavis-premium-webcam-encoding-tools/"><u>Capturing Your Moments with Movavi's Premium Webcam Encoding Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-converting-audio-files-m4r-in-mp3-with-online-tools-discover-how-movavi-does-it/"><u>Gratis Converting Audio Files (M4R) in MP3 with Online Tools - Discover How Movavi Does It!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-y78plus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo Y78+ Phone?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riporta-i-file-wma-a-formato-m4b-online-gratuito-conversione-rapida-con-movavi/"><u>Riporta I File WMA a Formato M4B Online Gratuito - Conversione Rapida Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-based-format-converter-quickly-modify-mp4-videos-and-various-media-types-from-anywhere/"><u>Web-Based Format Converter - Quickly Modify MP4 Videos and Various Media Types From Anywhere</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726227963473-mpg-swf-movavi/"><u>무료 MPG SWF 파일에서 웹 게시로 전환: Movavi의 가이드</u></a></li>
+</ul></div>
+

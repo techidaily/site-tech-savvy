@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Virtual Reality: Stanford's Innovative Tech Abolishes Bulky VR Gear with Cutting-Edge AI | ZDNet"
-date: 2024-09-17 17:13:55
-updated: 2024-09-20 12:41:59
+date: 2024-09-19T16:09:37.623Z
+updated: 2024-09-22T16:42:50.910Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,40 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-eco-friendly-visuals-for-film-enthusiasts/"><u>[Updated] In 2024, Eco-Friendly Visuals for Film Enthusiasts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unveiling-tiktoks-visual-makeover-techniques-for-2024/"><u>[Updated] Unveiling TikTok's Visual Makeover Techniques for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chaos-and-law-italys-instant-ban-on-ai-language-model/"><u>Chaos and Law: Italy’s Instant Ban on AI Language Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-codegpt-could-it-redefine-coding-standards/"><u>Demystifying CodeGPT: Could It Redefine Coding Standards?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/downloading-insta-videos-in-two-simple-ways-for-2024/"><u>Downloading Insta Videos in Two Simple Ways for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-defy-2-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola Defy 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/manners-for-interacting-with-ai-gpt-alexa-and-siri/"><u>Manners for Interacting with AI: GPT, Alexa & Siri</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ai-conversations-chatgpt-for-macos-users/"><u>Navigating AI Conversations: ChatGPT for macOS Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatbot-content-limits-personal-perspectives-and-effects/"><u>Navigating Chatbot Content Limits: Personal Perspectives & Effects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-classroom-with-chatgpts-five-essential-tools/"><u>Navigating the Classroom with ChatGPT's Five Essential Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-xs-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone XS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trio-of-titans-chatgpt-microsofts-ai-googles-bard-edition/"><u>Trio of Titans: ChatGPT, Microsoft's AI, Google's Bard Edition</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Safeguard Your Info - Exiting ChatGPT's Service
-date: 2024-09-15T16:18:49.236Z
-updated: 2024-09-17T16:44:37.105Z
+date: 2024-09-20T16:52:32.721Z
+updated: 2024-09-22T17:58:09.910Z
 tags:
   - chatgpt
   - open-ai
@@ -64,28 +64,28 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In your settings, click on the **Data controls** option. Now, you'll see a setting named **Chat history & training**. This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
 
  ChatGPT lets you turn the feature back on by clicking the **Enable chat history** option that appears over your history list, but this will re-enable both your chat history and the chat data collection for training.
 
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
@@ -115,14 +115,20 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-innovative-watermarks-for-impactful-insta-imagery-for-2024/"><u>[New] Innovative Watermarks for Impactful Insta Imagery for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-ringtone-recommendations-for-your-chromium-phone/"><u>[New] Ringtone Recommendations for Your Chromium Phone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-power-of-creativity-magix-video-pro-x-demystified/"><u>[New] The Power of Creativity Magix Video Pro X Demystified</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-11-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme 11 Pro Lock Screen Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proven-strategies-for-effective-gpt-3-application-at-openai/"><u>Proven Strategies for Effective GPT-3 Application at OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speed-up-your-workflow-prime-10-ai-tools-for-pdfs/"><u>Speed Up Your Workflow: Prime 10 AI Tools for PDFs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-tools-amplifying-chatgpt-and-vs-code-functionality/"><u>Top 6 Tools: Amplifying ChatGPT and VS Code Functionality</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-2024s-premium-nintendo-switch-holsters/"><u>Unveiling the 2024'S Premium Nintendo Switch Holsters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-20-minutes-to-master-vrecorder-instalment/"><u>[Updated] 20 Minutes To Master VRecorder Instalment</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-boosting-visibility-on-tiktok-with-smart-hashtags/"><u>[Updated] Boosting Visibility on TikTok with Smart Hashtags</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-top-6-nft-environments-for-creatives/"><u>[Updated] Unveiling the Top 6 NFT Environments for Creatives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4flac-movavi/"><u>網路上無限制地自動MP4到FLAC格式轉移 - MOVAVI音頻播放器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/54sh5paz44gn57ch5y2y44gq5yuv55s744gl44kj6zplusz5qw944ov44kh44kk44or44g444gu5asj5oplusbic0g44og44o844o044kh44ot/"><u>無料で簡単な動画から音楽ファイルへの変換 - ムーヴァビ</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726222685384-202-4/"><u>最新且最完美的202 4 影像會面工具選擇指南 - 建議列表</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-pro-cs6-free-download-for-mac-os-x/"><u>Adobe Premiere Pro CS6 Free Download for Mac OS X</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descargue-y-conviertanle-sus-archivos-oma-directamente-a-formato-de-alta-calidad-mp3-sin-costo-alguno-utilizando-el-servicio-en-linea-de-conversion-rapida-e11/"><u>Descargue Y Conviértanle Sus Archivos OMA Directamente a Formato De Alta Calidad MP3 Sin Costo Alguno - Utilizando El Servicio en Línea De Conversión Rápida E Intuitiva De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-audio-file-converter-flac-to-aiff-by-movavi/"><u>Free Online Audio File Converter - FLAC to AIFF by Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/m4v-inhoud-snel-in-gratis-mov-vachten-expertise-movavi-voor-kuntvormingsconversie/"><u>M4V-Inhoud Snel in Gratis MOV Vachten - Expertise Movavi Voor Kuntvormingsconversie</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-gratuit-logiciels-pour-creer-des-logos-sans-compte/"><u>Top 8 Gratuit Logiciels Pour Créer Des Logos Sans Compte</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformacion-instantanea-y-sin-coste-convertir-archivos-pgm-en-jpg-usando-movavi/"><u>Transformación Instantánea Y Sin Coste: Convertir Archivos PGM en JPG Usando Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vervang-tga-bestanden-gratis-en-online-in-gifs-met-movavi-converter/"><u>Vervang TGA-Bestanden Gratis en Online in GIF's Met Movavi Converter</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Titans Clash: Google's Gemini Vs. OpenAI's ChatGPT"
-date: 2024-09-13T16:37:06.842Z
-updated: 2024-09-17T16:19:26.319Z
+date: 2024-09-18T16:19:43.577Z
+updated: 2024-09-22T17:50:08.550Z
 tags:
   - chatgpt
   - open-ai
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Google Gemini AI
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
@@ -90,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
  Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
@@ -103,6 +110,19 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
@@ -110,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated [using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/).
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
@@ -127,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
 
@@ -158,14 +164,19 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-driving-engagement-and-visibility-effective-strategies-for-fb-video-marketing/"><u>2024 Approved Driving Engagement and Visibility Effective Strategies for FB Video Marketing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/discover-innovative-strategies-in-creating-stunning-fb-ad-videos/"><u>Discover Innovative Strategies in Creating Stunning FB Ad Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-methods-to-elevate-the-acoustics-in-your-videos-the-ultimate-trickbook/"><u>Free Methods to Elevate the Acoustics in Your Videos - The Ultimate Trickbook!</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-13c-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi 13C 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-safely-get-your-favorite-shows-on-chia-anime-downloaded/"><u>How to Safely Get Your Favorite Shows on Chia Anime Downloaded!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-successfully-transform-cda-files-into-mp3-format-debunking-the-myth-of-instant-conversion/"><u>How To Successfully Transform CDA Files Into MP3 Format - Debunking The Myth of Instant Conversion</u></a></li>
-<li><a href="https://article-posts.techidaily.com/how-to-use-zoom-in-gmail-best-ways/"><u>How to Use Zoom in Gmail [Best Ways]</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-clearer-sound-with-these-ipad-tips/"><u>In 2024, Clearer Sound with These iPad Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-13t-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi 13T Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-from-novice-to-pro-youtube-editing-and-alternatives/"><u>[New] In 2024, From Novice to Pro YouTube Editing & Alternatives</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ranking-times-best-top-15-timeless-stop-motion-flicks/"><u>[Updated] Ranking Time's Best - Top 15 Timeless Stop-Motion Flicks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-playlist-15-ways-to-revamp-a-live-stream/"><u>2024 Approved The Ultimate Playlist 15 Ways to Revamp a Live Stream</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-closer-look-at-genius-widecam-f100-camera-addressing-problems-with-image-distortion-and-acoustic-echoes/"><u>A Closer Look at Genius WideCam F100 Camera - Addressing Problems with Image Distortion and Acoustic Echoes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/audio-prowess-in-windows-11-redefined/"><u>Audio Prowess in Windows 11 Redefined</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-asus-zenbook-s16-analysis-with-amd-ryzen-ai-9-hx/"><u>Comprehensive Asus Zenbook S16 Analysis with AMD Ryzen AI 9 HX</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converting-vob-to-mp4-for-free-step-by-step-guide-on-windows-and-mac/"><u>Converting VOB to MP4 for Free: Step-by-Step Guide on Windows and Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crear-presentaciones-impresionantes-con-slideshow-en-mac-guia-simple-de-movavi/"><u>Crear Presentaciones Impresionantes Con SlideShow en Mac: Guía Simple De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descargar-y-convertir-archivos-m4b-a-mp3-sin-coste-guia-completa-de-conversion-en-movavi/"><u>Descargar Y Convertir Archivos M4B a MP3 Sin Coste: Guía Completa De Conversión en Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/emoji-mastery-for-iphone-users-tips-and-tricks-revealed/"><u>Emoji Mastery for iPhone Users: Tips & Tricks Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/learn-how-to-make-an-effective-screen-capture-with-your-iphone-11-top-4-techniques-revealed-by-movavi/"><u>Learn How to Make an Effective Screen Capture with Your iPhone 11: Top 4 Techniques Revealed by Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/por-que-choose-movavi-uma-exploracao-na-vantagem-da-inovacao-em-software-multimedia/"><u>Por Que Choose Movavi? Uma Exploração Na Vantagem Da Inovação Em Software Multimedia</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-elder-scrolls-online-successfully-overcoming-blackwood-regions-lag-challenges/"><u>The Elder Scrolls Online: Successfully Overcoming Blackwood Region's Lag Challenges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpemp3-movavi/"><u>オンラインで快適なMPEファイルをMP3に自由に変換 - Movavi</u></a></li>
 </ul></div>
 

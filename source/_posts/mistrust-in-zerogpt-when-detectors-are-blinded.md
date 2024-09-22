@@ -1,7 +1,7 @@
 ---
 title: "Mistrust in ZeroGPT: When Detectors Are Blinded"
-date: 2024-09-12T16:29:25.745Z
-updated: 2024-09-17T16:05:52.911Z
+date: 2024-09-17T18:45:41.074Z
+updated: 2024-09-22T16:09:51.717Z
 tags:
   - chatgpt
   - open-ai
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 
  To be fair, I was aiming for this result. I kept the text generic and used “salesy” language. But the point that a human wrote this remains just as valid. This is not an inconvenience or something that can just be shrugged off. Errors like this can have serious ramifications for writers, students, and other professionals who create written works.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Test Three: Testing ZeroGPT on Fiction
 
  For the third test, we are going to use ChatGPT and ask it to write some fiction. To do this, we created a scenario and prompted ChatGPT to write a brief introduction to a fictional story.
@@ -69,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
  We kept it simple and just asked to write an intro for a story about two strangers who meet on a railway platform:
 
 ![Screenshot of ChatGPT fiction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-fiction.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And here was the response from ZeroGPT:
 
@@ -95,15 +95,28 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 
 ![Screenshot of ZeroGPT misidentifying news story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-misidentifying-news-story.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It did at least identify some of the articles as human-generated, but it flagged over 70% as AI-generated. Again, we need to be fair here; this was a fairly basic re-hash of the Bing article and was hardly Pulitzer Prize quality.
 
  But the point remains valid. This was written by a human using research found on the internet.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Aren't AI-Detection Tools Very Good?
@@ -120,41 +133,22 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 
  Another factor that must be considered is what constitutes AI-generated content. If AI-generated content is simply reworded, is it human or AI-generated content? This represents another major challenge—the blurring of the lines between the two makes defining machine-created content almost impossible.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Looking to the Future of AI Detection
 
 ![cyber-glasses-1938449_1280](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cyber-glasses-1938449_1280.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This may sound like we are knocking tools like ZeroGPT. This isn’t the case; they face massive challenges, and the technology is barely out of diapers. The rapid uptake of tools like ChatGPT has created a demand for AI detection, and the technology should be given a chance to mature and learn.
 
  These tools can’t be expected to face the challenges posed by chatbots on their own. But they can play a valuable part in a concerted and multifaceted effort to address the challenges of AI. They represent one piece of a larger puzzle that includes ethical AI practices, human oversight, and ongoing research and development.
 
  The challenges that these tools face are mirror images of the challenges that society faces as we grapple with the dilemmas associated with a new technological age.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI or Not AI? That Is the Question
 
@@ -185,21 +179,17 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hack-the-youtube-timeline-increase-or-decrease-sound/"><u>[New] 2024 Approved Hack the YouTube Timeline Increase or Decrease Sound</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-skype-to-mp3-capturing-calls-at-no-charge/"><u>[New] In 2024, Skype to MP3 Capturing Calls at No Charge</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-lg-4k-display-a-comprehensive-overview/"><u>[New] Ultimate LG 4K Display A Comprehensive Overview</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-digital-dominance-10-screen-capture-software-ranked/"><u>[Updated] In 2024, Digital Dominance #10 Screen Capture Software Ranked</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-skills-a-tailored-approach-to-graphic-careers/"><u>2024 Approved Harnessing Skills A Tailored Approach to Graphic Careers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-network-configurations-in-win11/"><u>Accessing Network Configurations in Win11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oneplus-nord-ce-3-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your OnePlus Nord CE 3 5G Lock Screen Password</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-real-vs-counterfeit-deciphering-authentic-youtube-supports/"><u>In 2024, Real Vs. Counterfeit Deciphering Authentic YouTube Supports</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-solution-resolving-your-magic-mouse-tracking-glitches/"><u>Quick Solution: Resolving Your Magic Mouse Tracking Glitches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-transition-upgrading-your-videos-from-hd-to-sd-quick-and-effective-techniques/"><u>Seamless Transition: Upgrading Your Videos From HD to SD Quick & Effective Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-the-issue-of-non-playable-tiktoks-in-browser-and-mobile-apps-a-step-by-step-guide/"><u>Solving the Issue of Non-Playable TikToks in Browser & Mobile Apps - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-recording-sound-with-your-hp-laptops-built-in-microphone-and-speakers/"><u>Step-by-Step Guide: Recording Sound with Your HP Laptop's Built-In Microphone and Speakers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-setting-up-the-aspire-addon-in-kodi-nexus-and-matrix-platforms/"><u>Step-by-Step Guide: Setting Up the Aspire Addon in Kodi, Nexus & Matrix Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-for-enhancing-video-quality-to-1080p-and-60fps/"><u>Step-by-Step Tutorial for Enhancing Video Quality to 1080P & 60FPS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-avi-to-dvd-transcoder-software-for-windows-11/"><u>Top-Rated AVI to DVD Transcoder Software for Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-how-to-record-your-desktop-and-microphone-simultaneeously-on-windows-10/"><u>Ultimate Guide: How to Record Your Desktop and Microphone Simultaneeously on Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-list-of-ad-free-android-capturing-apps/"><u>[New] 2024 Approved Ultimate List of Ad-Free Android Capturing Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-gratis-online-dpx-zu-jpg-konvertieren-mit-movavi-bildbearbeitungs-tool/"><u>1. Gratis Online: DPX Zu JPG Konvertieren Mit Movavi - Bildbearbeitungs-Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-elite-list-of-gamer-speakers-in-depth-review-and-comparisons-zdnet/"><u>2024'S Elite List of Gamer Speakers: In-Depth Review & Comparisons | ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movaviarwtiff/"><u>移除線上即用Movavi轉換器免費變更ARW成TIFF文件</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/achieving-geometric-brilliance-making-mc-circles-and-spheres/"><u>Achieving Geometric Brilliance Making MC Circles & Spheres</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crea-slideshow-con-di-movavi-scarica-ora-e-inizia/"><u>Crea Slideshow Con Di Movavi - Scarica Ora E Inizia!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descubra-as-maiores-ferramentas-de-estrategia-video-o-guia-definitivo-para-especialistas-em-conteudo-softwares/"><u>Descubra as Maiores Ferramentas De Estratégia Vídeo: O Guia Definitivo Para Especialistas Em Conteúdo Softwares</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-timeless-design-of-keychron-k2-hes-mid-century-edition-review/"><u>Discover the Timeless Design of Keychron K2 HE’s Mid-Century Edition Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavimp3-online-asfmp3/"><u>Movaviの無料アクセス型MP3フォーマット変換 - Online ASFからMP3へ</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/non-athletic-games-the-best-10-front-rows/"><u>Non-Athletic Games The Best 10 Front Rows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unraveling-the-mystery-understanding-and-using-slug-lines/"><u>Unraveling the Mystery Understanding & Using Slug Lines</u></a></li>
 </ul></div>
 

@@ -1,0 +1,172 @@
+---
+title: "Demystifying Predictive AI: Functionality Uncovered"
+date: 2024-09-20T16:07:50.435Z
+updated: 2024-09-22T16:14:34.269Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Demystifying Predictive AI: Functionality Uncovered"
+excerpt: "This Article Describes Demystifying Predictive AI: Functionality Uncovered"
+thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c8336694d98304c7450ff8c427.png
+---
+
+## Demystifying Predictive AI: Functionality Uncovered
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+### Quick Links
+
+* [What Is Predictive AI, and How Does It Work?](https://proteahair.pxf.io/znernm)
+* [Examples of Predictive AI](https://martinic.evyy.net/m5azrm)
+* [How Is Predictive AI Different From Generative AI?](https://review-au.sjv.io/wqnrq3)
+
+### Key Takeaways
+
+* Predictive AI makes projections using past data, like weather forecasts and stock market trends.
+* Examples of predictive AI include predictive text, security threat identification, and app suggestions.
+* Predictive AI uses data to make predictions, whereas generative AI uses information to create content.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ You've probably heard of generative AI, but how much do you know about predictive AI? They sound similar, but have some key differences, along with a heap of ways you're probably already using it!
+
+## What Is Predictive AI, and How Does It Work?
+
+ Predictive AI uses information from things that have already happened to make predictions and projections for what might happen in the future. To be used successfully, it requires access to high-quality data and subject matter expertise from humans to correctly identify trends.
+
+ These algorithms collect data from multiple points of information. For example, to measure how a sports team might perform over the whole season, predictive AI could gather information from essential success metrics like chances created, chances faced, and performances against certain teams.
+
+ Once predictive AI models have gathered the information they need, users can make decisions and conduct further research if necessary.
+
+## Examples of Predictive AI
+
+ Predictive AI is already used in multiple industries, and you may even have experienced this technology in action yourself. For example, companies use predictive AI to detect potential data breaches, and smartphone providers can help you type more accurately.
+
+ Below are some of the best examples of predictive AI in action.
+
+### 1\. Predictive Text
+
+Close
+
+ Predictive text is one of the best examples of predictive AI in action. Based on analysis of the language you're typing in and your past behavior, predictive text will guess what you're going to type next. Predictive text can also help you correct common errors, and Apple, in particular, has made huge strides with this. In fact, inline text is one of the [iOS 17 features that requires an iPhone 12 or later](https://www.makeuseof.com/ios-17-features-require-iphone-12-or-later/).
+
+ Besides analyzing your past typing habits, predictive text can also use the context of your conversations or documents to provide better typing and spelling recommendations. You can [disable inline predictive text on your Mac](https://www.makeuseof.com/disable-inline-predictive-text-on-mac/) if you own an Apple computer, and it's also possible to [turn on predictive text suggestions on Android](https://www.makeuseof.com/how-to-turn-on-predictive-text-android/).
+
+### 2\. Identifying Potential Security Threats
+
+![facebook unusual login email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/facebook-unusual-login.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Cybersecurity is one of the most important areas in which predictive AI is prominent, and [predictive analytics can help solve cybercrime in many ways](https://www.makeuseof.com/predictive-analytics-combat-cybercrime/). One example where you may have experienced predictive AI in security is when signing into an account or trying to use your bank card in an unfamiliar location.
+
+ You'll often receive an email or text message warning you of an unusual sign-in and prompting you to take action if needed. Requesting to change your password can also prompt such notifications. To ensure that you don't fall victim to security breaches, it's worth learning about [takeover fraud and how to prevent these threats](https://www.makeuseof.com/what-is-account-takeover-fraud/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 3\. App and Content Suggestions
+
+![Spotify's niche mixes are playlists made for you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/spotify-niche-mixes-desktop.png)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Your smartphones and apps are becoming much better at offering recommendations, largely because of predictive AI. For example, if you use Google Drive, you may see a "You often open around this time" message on your main documents. You'll also see "Based on past activity" or "You've opened frequently."
+
+ If you use your smartphone, you'll often see that recommendations for opening apps and other actions change depending on your habits at each time of the day. Apps also use your consumption behaviors to deliver better recommendations; for example, [Spotify uses AI](https://www.makeuseof.com/how-spotify-uses-ai/) to recommend (and create) playlists.
+
+### 4\. Economic Projections
+
+ Predictive AI is also prominent in the world of finance, and it can help economists consider how financial markets will change over time. For example, based on historical data and current global affairs, predictive AI can determine whether certain currency exchange rates will increase or decrease. Since predictive AI is also good at identifying consumer behaviors, it's possible to use the tool to determine how industry trends will change.
+
+ This technology can also predict stock market movements and cryptocurrency price changes. If you plan on trading with AI, it's worth checking out these [AI-based crypto tools](https://www.makeuseof.com/top-ai-based-crypto-tools/) as a starting point.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 5\. Weather Forecasts
+
+ Predicting the weather has always been difficult, but meteorologists will likely be able to lean on AI for more assistance in the future. Although the tool is relatively new in this space, Google AI Research Program Manager Abdoulaye Diack suggests that GraphCast can predict the weather up to 10 days in advance better than standard forecasting methods.
+
+ Predictive AI can measure more weather data in shorter periods. Being able to better predict the weather in the short term is nice on a personal level, as it means you'll know exactly what to wear outside. But if we zoom out and look at the bigger picture, predictive AI could also be a valuable tool for helping to innovate in climate change initiatives and predict major storms.
+
+### 6\. Business Decisions
+
+ Companies use predictive AI to make better decisions and projections for the coming year. Since predictive AI is very good at measuring consumer behaviors, businesses can accurately determine the success of their current products and offerings over 6-12 months. To fill gaps in the market, they can also use the information they gather to launch and test new products.
+
+ With predictive AI, businesses can also decide what to include in advertising campaigns. Moreover, they can determine where they should allocate their budgets more effectively. We've written a round-up of [essential AI tools for business owners to know about](https://www.makeuseof.com/ai-tools-for-business-owners/) if you're interested in learning more.
+
+## How Is Predictive AI Different From Generative AI?
+
+ Predictive and generative AI both use machine learning, but generative AI analyzes available information to create new content rather than draw conclusions.
+
+ Generative AI and predictive AI can work together. For example, an economist could use predictive AI to determine an upcoming recession or market crash. Meanwhile, they can use generative AI to help produce research papers or other content about what to do if that happens (or how to make the most of it).
+
+ Predictive AI is more present in many of our lives than we may initially think, and its use will increase as it becomes more accurate.
+
+</article
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-pioneering-the-way-with-innovative-approaches-to-youtube-banners/"><u>[Updated] Pioneering the Way with Innovative Approaches to YouTube Banners</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-simplifying-streaming-key-tactics-for-youtube-and-twitch-via-obs/"><u>[Updated] Simplifying Streaming Key Tactics for YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-comprehensive-photo-editing-and-slideshow-creation-tool-unleash-your-imagination/"><u>1. Comprehensive Photo Editing & Slideshow Creation Tool | Unleash Your Imagination</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4flac-movavi/"><u>網路上無限制地自動MP4到FLAC格式轉移 - MOVAVI音頻播放器</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/all-about-color-grading-for-2024/"><u>All About Color Grading for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converti-file-video-3gp-a-mp3-gratuitamente-online-con-movavi/"><u>Converti File Video 3Gp a MP3 Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertir-archivos-nsv-a-formato-mpeg-gratuito-guia-de-movavi/"><u>Convertir Archivos NSV a Formato MPEG Gratuito: Guía De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertissez-vos-images-animees-gif-en-photos-statiques-png-sans-frais-solution-facile-a-laide-de-movavi/"><u>Convertissez Vos Images Animées GIF en Photos Statiques PNG Sans Frais – Solution Facile À L'aide De Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-the-prime-6-headgear-choices-for-capturing-life-with-gopro/"><u>Discovering the Prime 6 Headgear Choices for Capturing Life with GoPro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-15-pro-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 15 Pro Without Backup? | Stellar</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581510823-journey-into-croatias-culture-start-learning-its-language-today/"><u>Journey Into Croatia's Culture - Start Learning Its Language Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-confidentiality-techniques-to-keep-chatgpt-conversations-private/"><u>Securing Confidentiality: Techniques to Keep ChatGPT Conversations Private</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slideshow-creation-with-movavi-free-download-and-easy-use/"><u>Slideshow Creation with Movavi: Free Download & Easy Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kak-delat-skrinshot-v-operacionnoj-sisteme-windows-11-tutorial/"><u>Как Делать Скриншот В Операционной Системе Windows 11 - Tutorial</u></a></li>
+</ul></div>
+

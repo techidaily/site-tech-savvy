@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Detective Duty: Step Into 4 Virtual Investigations"
-date: 2024-09-11T16:35:09.638Z
-updated: 2024-09-17T16:45:48.491Z
+date: 2024-09-15T16:43:01.246Z
+updated: 2024-09-22T16:08:26.241Z
 tags:
   - chatgpt
   - open-ai
@@ -65,10 +65,10 @@ Author Screenshot by Mihir Patkar - No attribution required
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Murdle
@@ -84,10 +84,10 @@ Author Screenshot by Mihir Patkar - No attribution required
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
@@ -115,13 +115,21 @@ Author Screenshot by Mihir Patkar - No attribution required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/est-collection-sites-for-quick-access-to-youtube-vids/"><u>[New] Best Collection Sites for Quick Access to YouTube Vids</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-instagram-post-scheduling/"><u>[Updated] Mastering the Art of Instagram Post Scheduling</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-easypodstream-how-to-set-up-and-broadcast-with-minimal-hassle/"><u>2024 Approved EasyPodStream How To Set Up and Broadcast with Minimal Hassle</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-magic-tricks-unveiling-9-daily-life-boosters/"><u>GPT's Magic Tricks: Unveiling 9 Daily Life Boosters</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solving-freeze-during-3d-rendering/"><u>Solving Freeze During 3D Rendering</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-digital-crimes-4-ai-driven-suspenseful-mysteries/"><u>Unraveling Digital Crimes: 4 AI-Driven Suspenseful Mysteries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-versatile-implementation-of-chatgpt/"><u>Unveiling the Versatile Implementation of ChatGPT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-maiden-recording-appraisal-article/"><u>[Updated] Maiden Recording Appraisal Article</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wav-avi-movavi/"><u>無需花錢的在線 WAV 至 AVI 格式改變 - 利用 Movavi 翻譯器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertendo-arquivos-mmf-de-graca-o-solucao-mais-simplificada-do-movavi/"><u>Convertendo Arquivos MMF De Graça: O Solução Mais Simplificada Do Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dj-delight-choosing-ultimate-event-videos/"><u>DJ Delight Choosing Ultimate Event Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios-for-2024/"><u>Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-v30-by-drfone-android/"><u>How to Bypass FRP on Vivo V30?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726224271579-movavi-mkv-3gp/"><u>Movavi 提供：免費在網路上讓 MKV 影片轉成 3GP格式的服務</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-s23plus-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from S23+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformar-tu-musica-aac-en-calidad-wav-con-la-herramienta-gratuita-de-movavi-online/"><u>Transformar Tu Música AAC en Calidad WAV Con La Herramienta Gratuita De Movavi Online.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-full-potential-with-final-cut-pro-for-2024/"><u>Unlocking Full Potential with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-power-of-animated-special-effects-for-engaging-content/"><u>Unlocking the Power of Animated Special Effects for Engaging Content</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-discover-the-best-free-animated-logo-design-software/"><u>Updated 2024 Approved Discover the Best Free Animated Logo Design Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726227347193-cr2-png-movavi/"><u>오늘날의 CR2 이미지를 PNG로 자유성 원격 변환에 액세스 - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726219411649-wavmp3-movavi/"><u>ワークフローを簡素化する無料WAVファイルからMP3への直接変換 - Movavi</u></a></li>
 </ul></div>
 

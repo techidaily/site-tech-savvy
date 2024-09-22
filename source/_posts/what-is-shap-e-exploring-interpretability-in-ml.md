@@ -1,7 +1,7 @@
 ---
 title: What Is SHAP E? Exploring Interpretability in ML
-date: 2024-09-13T16:35:37.308Z
-updated: 2024-09-17T16:48:28.981Z
+date: 2024-09-16T16:58:17.826Z
+updated: 2024-09-22T16:40:46.873Z
 tags:
   - chatgpt
   - open-ai
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
  Although it is still a work in progress, Shap-E is a step ahead of OpenAI's [POINT-E](https://openai.com/research/point-e), which produces 3D point clouds based on text prompts. The point clouds are limited in their expressiveness and resolution, often producing blurry or incomplete shapes.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generate 3D Models Using OpenAI's Shap-E
@@ -92,17 +92,15 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-new-era-of-streaming-leading-voices-of-female-creators/"><u>[New] In 2024, A New Era of Streaming Leading Voices of Female Creators</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-seamless-strategies-downloading-graphics-images-from-facebook-and-beyond-for-2024/"><u>[New] Seamless Strategies Downloading Graphics Images From Facebook & Beyond for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-perfect-pitch-for-producers-techniques-for-flawless-vocal-recordings/"><u>[Updated] 2024 Approved Perfect Pitch for Producers Techniques for Flawless Vocal Recordings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-navigating-through-your-instagram-post-eye-balls-for-2024/"><u>[Updated] Navigating Through Your Instagram Post Eye-Balls for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-elevate-your-tweeted-visuals-ultimate-gif-saver-guide/"><u>2024 Approved Elevate Your Tweeted Visuals Ultimate GIF Saver Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-dandd-characters-with-chatgpt-and-ai-artistry-tools/"><u>Crafting D&D Characters with ChatGPT and AI Artistry Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-7-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 7 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mental-health-horizons-with-the-help-of-ai-innovations/"><u>Mental Health Horizons with the Help of AI Innovations</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seconds-needed-for-playback-20mb-video-example/"><u>Seconds Needed for Playback - 20Mb Video Example</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-unleashing-of-chatgpt/"><u>The Unleashing of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-risks-when-chatting-with-advanced-ais-like-chatgpt/"><u>Understanding Risks When Chatting with Advanced AIs Like ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visionary-ventures-mindmapping-with-chatai/"><u>Visionary Ventures: Mindmapping with ChatAI</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-smooth-art-of-mov-saving-a-win10-insight/"><u>[New] In 2024, The Smooth Art of MOV Saving A Win10 Insight</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-smart-choice-essential-steps-in-upgrading-your-tech-for-2024/"><u>[New] The Smart Choice Essential Steps in Upgrading Your Tech for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-professional-movavi-video-editor-suite-streamlined-bvba-tools-for-efficient-videoproductie-and-uptake/"><u>1. Professional Movavi Video Editor Suite: Streamlined BVBA Tools for Efficient Videoproductie & Uptake</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/efficient-group-coordination-with-skype-windows-mac-for-2024/"><u>Efficient Group Coordination with Skype (Windows, Mac) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-jpg-to-jpeg-converter-by-movavi-edit-your-images-hassle-free/"><u>Free Online JPG to JPEG Converter by Movavi - Edit Your Images Hassle-Free</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-honor-magic-v2-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Honor Magic V2</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-which-ones-right-for-you-obs-or-twitch-studio-reviewed/"><u>In 2024, Which One's Right for You? - OBS or Twitch Studio Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-investing-in-a-blu-ray-disc-player-worth-it/"><u>Is Investing in a Blu-Ray Disc Player Worth It?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4-swf-movavi/"><u>MP4 SWF 최신 토대화 전환 기술 - Movavi 가이드</u></a></li>
 </ul></div>
 

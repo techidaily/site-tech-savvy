@@ -1,7 +1,7 @@
 ---
 title: Character Depth and Complexity Through 11 Ingenious ChatGPT Prompts
-date: 2024-09-13T16:35:24.925Z
-updated: 2024-09-17T16:05:38.882Z
+date: 2024-09-18T16:07:57.241Z
+updated: 2024-09-22T17:45:59.409Z
 tags:
   - chatgpt
   - open-ai
@@ -62,15 +62,22 @@ thumbnail: https://thmb.techidaily.com/4cdf9e1e7a019fd8723bea435ee85e9220196351b
 
  That said, expanding the prompt with extra info about the historical or cultural context you’re interested in can yield greater insight for your character development and world-building.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. What Style of Clothing Would People Wear in This Environment?
 
 ![ChatGPT Results From Prompt on Style of Clothing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-results-from-prompt-on-style-of-clothing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whether you use ChatGPT or [mobile apps for world-building](https://www.makeuseof.com/world-building-apps-for-android/), its principles don’t change: think about where your story’s set and what this territory or culture consists of.
@@ -79,40 +86,20 @@ thumbnail: https://thmb.techidaily.com/4cdf9e1e7a019fd8723bea435ee85e9220196351b
 
  Just give ChatGPT some key details about the real or made-up setting, such as its climate and dangers, and ask what people would wear in it. You’ll get a list of tips on how to dress your characters for the occasion.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. What Language Would My Character Speak if…?
 
 ![Prompt About Character Language on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/prompt-about-character-language-on-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another real-world fact about a character you may need to research is their language. This is handy with historical fiction or a story set in a country you don’t know the language of.
 
  Just ask ChatGPT for the linguistic characteristics of a specific region and time. The chatbot will give you as much relevant lore as it can find in its pool of knowledge.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Translate the Following Text Into…
 
@@ -123,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/4cdf9e1e7a019fd8723bea435ee85e9220196351b
  Type or paste in the passage you want to be translated, mention what language you want it rendered into, and submit the prompt so OpenAI’s program can work its magic.
 
  The translations are quite accurate but not perfect. Have a human translator or native speaker check these parts of your story to ensure they flow naturally and don’t contain mistakes.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Does This Scene Flow Well and Make Sense?
 
@@ -135,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/4cdf9e1e7a019fd8723bea435ee85e9220196351b
  If you use the prompt above, you’ll typically get a list of what happens in the scene and a simple assessment of its flow and coherence.
 
  You can then ask the chatbot additional questions about how to improve the scene, what would make a character’s specific action more realistic, and more. ChatGPT will offer solutions to the best of its abilities.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. What Can You Tell About My Character From This Scene?
 
@@ -163,13 +164,6 @@ thumbnail: https://thmb.techidaily.com/4cdf9e1e7a019fd8723bea435ee85e9220196351b
  If that’s something you can live with, just provide the chatbot with the storyline so far and explain what part of it you need help with.
 
  The response will be detailed, insightful, and the potential start of a more productive brainstorming session. This is why [ChatGPT and DALL-E are used in D&D character creation](https://www.makeuseof.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/) so much.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Summarize My Character’s Development So Far
 
@@ -204,20 +198,19 @@ thumbnail: https://thmb.techidaily.com/4cdf9e1e7a019fd8723bea435ee85e9220196351b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/1716069790233-updated-in-2024-utilizing-inbuilt-cameras-for-screen-recording-on-mate-and-p-series-smartphones-mate-10-mate-20-p20-p10/"><u>[Updated] In 2024, Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10).</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-obs-mac-integration-step-by-step-installation-walkthrough-for-2024/"><u>[Updated] OBS Mac Integration Step-by-Step Installation Walkthrough for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-pinnacle-mac-gif-sorter/"><u>[Updated] Pinnacle Mac GIF Sorter</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-how-nvidia-g-sync-smoothes-out-game-frames/"><u>Discover How Nvidia G-Sync Smoothes Out Game Frames</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone XS Max</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/embellish-videos-and-stories-with-charts-notes-and-more-for-2024/"><u>Embellish Videos & Stories with Charts, Notes & More for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-5s-transformation-4-future-features-we-anticipate/"><u>GPT-5's Transformation: 4 Future Features We Anticipate</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-x9b-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor X9b Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-timekeeping-redefined-by-chatgpt-for-smartwatchers/"><u>Intelligent Timekeeping Redefined by ChatGPT for Smartwatchers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-intelligence-exploring-ai-dialogues/"><u>Interactive Intelligence: Exploring AI Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/local-llm-advantages-and-drawbacks-a-quick-guide/"><u>Local LLM: Advantages & Drawbacks – A Quick Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-step-in-talking-machines-ai-breakthroughs/"><u>Next Step in Talking Machines: AI Breakthroughs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/simple-way-to-blur-faces-in-picsart/"><u>Simple Way To Blur Faces in Picsart</u></a></li>
-<li><a href="https://extra-information.techidaily.com/steps-to-crafting-powerful-end-of-episode-notes/"><u>Steps to Crafting Powerful End-of-Episode Notes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasking-fraudgpt-proactive-steps-for-cyber-safety/"><u>Unmasking FraudGPT: Proactive Steps for Cyber Safety</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-achieving-seamless-group-discussions-in-google-chat/"><u>[New] 2024 Approved Achieving Seamless Group Discussions in Google Chat</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-beyond-borders-with-virtual-reality-tours/"><u>[New] 2024 Approved Beyond Borders with Virtual Reality Tours</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-journey-through-creative-commons-a-users-guide/"><u>[New] In 2024, The Journey Through Creative Commons A User's Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlock-creative-potential-10-premium-android-and-pc-editors/"><u>[New] Unlock Creative Potential 10 Premium Android and PC Editors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automated-intelligence-insight-contrasting-gpt-auto-vs-conversational-ai/"><u>Automated Intelligence Insight: Contrasting GPT Auto vs Conversational AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chaos-and-law-italys-instant-ban-on-ai-language-model/"><u>Chaos and Law: Italy’s Instant Ban on AI Language Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-codegpt-could-it-redefine-coding-standards/"><u>Demystifying CodeGPT: Could It Redefine Coding Standards?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/exceptional-quality-hd-video-documenters-for-2024/"><u>Exceptional Quality HD Video Documenters for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone 13 mini</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-captivating-content-the-basics-of-removing-background-from-videos/"><u>In 2024, Captivating Content The Basics of Removing Background From Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-how-to-find-your-niche-and-style-a-starters-guide/"><u>In 2024, How to Find Your Niche and Style - a Starter's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ai-conversations-chatgpt-for-macos-users/"><u>Navigating AI Conversations: ChatGPT for macOS Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-gigabyte-b650-aorus-elite-ax-ice-motherboard-costly-but-cool-with-extensive-usb-support/"><u>Review of the Gigabyte B650 Aorus Elite AX Ice Motherboard - Costly but Cool with Extensive USB Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trio-of-titans-chatgpt-microsofts-ai-googles-bard-edition/"><u>Trio of Titans: ChatGPT, Microsoft's AI, Google's Bard Edition</u></a></li>
 </ul></div>
 

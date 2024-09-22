@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Google’s Stealthy Smart Eyewear: A Sign of Groundbreaking Innovation on Horizon? | ZDNet"
-date: 2024-09-17 21:27:43
-updated: 2024-09-20 10:23:22
+date: 2024-09-17T18:14:06.763Z
+updated: 2024-09-22T16:35:21.429Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,30 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-quick-steps-for-effective-double-take-filming-for-2024/"><u>[Updated] Essential Quick Steps for Effective Double Take Filming for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comment-changer-un-fichier-video-au-format-quicktime-et-inversement-guide-complet/"><u>Comment Changer Un Fichier Vidéo Au Format QuickTime Et Inversement - Guide Complet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-steps-transforming-yourself-into-an-expert-video-editor/"><u>Essential Steps: Transforming Yourself Into an Expert Video Editor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-ogg-format-converter-online-opus-naar-ogg-omzetten-met-gratis-movavi-service/"><u>Gratuit Ogg-Format Converter: Online OPUS Naar Ogg Omzetten Met Gratis Movavi Service</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-setup-the-logitech-brio-cam-drivers-on-your-windows-computer/"><u>How to Download and Setup the Logitech Brio Cam Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-14-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 14 From Your Apple ID</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-vsdc-insight-an-in-depth-look-at-its-features-and-rivals/"><u>In 2024, VSDC Insight An In-Depth Look at Its Features and Rivals</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/troubleshooting-tips-for-a-stable-windows-11-photo-experience/"><u>Troubleshooting Tips for a Stable Windows 11 Photo Experience</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: AI Breakthrough at Stanford Paves the Way for Seamless VR Experiences, Bidding Farewell to Heavy Headsets | ZDNet
-date: 2024-09-19 21:11:33
-updated: 2024-09-20 11:40:28
+date: 2024-09-15T16:24:20.588Z
+updated: 2024-09-22T18:52:16.278Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,34 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-film-editing-expertise-exchange/"><u>[New] Film Editing Expertise Exchange</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-windowsmac-recording-skype-chats-and-calls/"><u>[New] Windows/Mac Recording Skype Chats & Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-screen-capture-tools/"><u>[Updated] In 2024, The Ultimate Guide to Screen Capture Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-a78-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo A78 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726222534617-movavi/"><u>無限量數字化翻譯服務 - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-transformar-archivos-de-audio-wav-a-formato-mp3-sin-costo-alguno-con-herramientas-en-linea/"><u>Cómo Transformar Archivos De Audio WAV a Formato MP3 Sin Costo Alguno Con Herramientas en Línea</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-compress-videos-for-easy-sharing-on-whats-app-pc-online-or-mobile-guide/"><u>How to Compress Videos for Easy Sharing on What's App: PC, Online or Mobile Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-v27-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo V27 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a15-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy A15 5G Phone Without Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/les-apps-de-diapositives-les-plus-performantes-sur-ios-et-android-un-top-10-comparatif/"><u>Les Apps De Diapositives Les Plus Performantes Sur iOS Et Android : Un Top 10 Comparatif</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-pc-reset-errors-techniques-and-troubleshooting-tips/"><u>Overcoming PC Reset Errors: Techniques and Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-pick-5-premier-software-solutions-for-on-screen-drawing-and-animation/"><u>Ultimate Pick: 5 Premier Software Solutions for On-Screen Drawing & Animation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-y27s-by-drfone-android/"><u>Universal Unlock Pattern for Vivo Y27s</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Rethinking AI Assessment Beyond the Turing Trials
-date: 2024-09-14T16:17:31.412Z
-updated: 2024-09-17T16:35:06.712Z
+date: 2024-09-20T16:26:02.612Z
+updated: 2024-09-22T19:05:41.058Z
 tags:
   - chatgpt
   - open-ai
@@ -62,27 +62,20 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can [identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the [thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014\.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However, [artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
 
@@ -94,26 +87,27 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes [AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  According to the AI classification framework developed by [Chris Saad](https://docsend.com/view/et7755yasfpj3iy6), the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance, [ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/), describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -140,21 +134,16 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-easy-guide-start-audio-capture-on-windows-10-for-2024/"><u>[Updated] Easy Guide Start Audio Capture on Windows 10 for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-from-last-to-first-deconstructing-your-video-watch-list-for-2024/"><u>[Updated] From Last to First Deconstructing Your Video Watch List for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029514587-google-meet/"><u>「密かに録音：Google Meetの裏技はこれからどう進化しますか？」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028748565-5/"><u>「無限再生動画を実現するための5手順解説と方法」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adobe-premiere-promp4/"><u>「Adobe Premiere ProでエクスポートしたMP4動画が再生失敗する対策ガイド」</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-connected-world-sharing-twitter-media-in-whatsapp-chat/"><u>2024 Approved The Connected World Sharing Twitter Media in WhatsApp Chat</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024-top5/"><u>2024年の流行! ベストビデオ効果ツールTOP5を紹介します</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avi-windows-10/"><u>AVIビデオファイルを改良: Windows 10利用者向けガイド</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boosting-your-twitter-following-a-complete-guide/"><u>Boosting Your Twitter Following: A Complete Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/circulating-content-the-art-of-playlist-sharing/"><u>Circulating Content The Art of Playlist Sharing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-play-40c-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Play 40C To Phone | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-compilation-of-hd-android-video-apps/"><u>In 2024, The Ultimate Compilation of Hd Android Video Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030262041-mp3/"><u>MP3ファイルのサンプリング周波数変更ガイド</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/online-movie-converter-change-mov-to-mp4-at-no-cost-for-pcs-and-mac-users/"><u>Online Movie Converter: Change MOV to MP4 at No Cost for PCs and Mac Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029367775-movavi/"><u>フリーツアルゴリズムとオンラインスクリプトで簡単にMOV画像をAVI形式に切り替えます</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-top-7-maximos-convertidores-de-dvd-herramientas-ideales-para-pc-y-mac/"><u>1. Top 7 Máximos Convertidores De DVD: Herramientas Ideales Para PC Y Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi-wma-movavi/"><u>線上免費 AVI 到 WMA 自動轉換 - 使用 Movavi 影像編碼工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-15-innovative-youtube-concepts-ultimate-guide-to-trending-topics/"><u>Best 15 Innovative YouTube Concepts: Ultimate Guide to Trending Topics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-tool-from-pbmeps-to-bmp-movavi/"><u>Free Online Conversion Tool: From PBM/EPS to BMP - Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-meizu-21-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Meizu 21 Pro?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-find-x6-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo Find X6 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/professional-approaches-for-logging-youtube-streams-for-2024/"><u>Professional Approaches for Logging YouTube Streams for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionary-editing-video-tools-triumph-on-m1-power-for-2024/"><u>Revolutionary Editing Video Tools Triumph on M1 Power for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>Youth Voices Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726225932485-aviogg-movavi/"><u>오피니 상자를 사용하ず 웹에서 AVI/OGG 비디오 클립을 무료로 전환하는 방법 – Movavi</u></a></li>
 </ul></div>
 

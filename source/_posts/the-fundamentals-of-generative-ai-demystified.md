@@ -1,7 +1,7 @@
 ---
 title: The Fundamentals of Generative AI Demystified
-date: 2024-09-10T16:20:26.691Z
-updated: 2024-09-17T16:09:26.998Z
+date: 2024-09-17T18:26:54.832Z
+updated: 2024-09-22T19:07:18.019Z
 tags:
   - chatgpt
   - open-ai
@@ -50,13 +50,6 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
  There are hundreds of generative AI models currently in development or already being deployed in the consumer AI market. Some of the popular ones you should know of include:
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Generative Pre-Trained Transformer (GPT)
 
 ![chatgpt 4 answer question on number of data points june 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-4-answer-question-on-number-of-data-points-june-2023.jpg)
@@ -68,15 +61,22 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  PaLM, an experimental large language model by Google, is a powerful generative AI model capable of performing a large range of tasks like creative writing, code generation, language translation, and a number of other text-based natural language tasks. Like GPT, PaLM was trained on a large corpus of text data sourced from a wide array of sources across the web. It is [the AI model that powers Google's Bard AI](https://www.makeuseof.com/what-is-google-palm-2/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Music Language Model (MusicLM)
 
  MusicLM is another generative AI model from Google. It is designed to generate "high-fidelity" music from simple text prompts. Trained on thousands of hours of music across various genres, the generative model can create unique music by using simple descriptions of the music you need as inputs. If you're wondering how good it is, here's [our review of the MusicLM model](https://www.makeuseof.com/google-musiclm-overview-how-to-use/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. DALL-E
 
@@ -85,10 +85,10 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  Beyond generative AI models, you'll also find generative AI products like Midjourney, DALL-E image generator, Stable Diffusion image generator, Hugging Chat, and several other impressive AI products powered by generative AI models.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Has Generative AI Exploded In Popularity?
@@ -122,16 +122,17 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/debunking-myths-gpt-pc-app-wrongly-categorized/"><u>Debunking Myths: GPT PC App Wrongly Categorized</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a34-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A34 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-watching-experience-download-youtube-captions-in-3-ways/"><u>In 2024, Streamline Your Watching Experience Download YouTube Captions in 3 Ways</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/microsoft-and-ai-merge-for-next-gen-bing-searches/"><u>Microsoft and AI Merge for Next-Gen Bing Searches</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simplifying-your-fb-live-broadcasts-on-zoom/"><u>Simplifying Your FB Live Broadcasts on Zoom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/techniques-for-concealing-your-ai-dialogues-intact/"><u>Techniques for Concealing Your AI Dialogues Intact</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-next-decade-of-defenses-top-cybersecurity-forecasts/"><u>The Next Decade of Defenses: Top Cybersecurity Forecasts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-8-vr-gaming-accessories-for-2024/"><u>Top 8 VR Gaming Accessories for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-getting-anthem-to-echo-in-your-system/"><u>Troubleshooting Audio Problems - Getting Anthem to Echo in Your System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-better-well-being-ais-promise-in-therapy/"><u>Unlocking Better Well-Being: AI's Promise in Therapy</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-dissecting-the-distinctions-triller-vs-tiktoks-interface-max-156-chars/"><u>[New] Dissecting the Distinctions Triller V/S TikTok's Interface (Max 156 Chars)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-easy-steps-for-recording-video-from-your-switch-for-2024/"><u>[New] Easy Steps for Recording Video From Your Switch for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-navigating-vlcs-features-for-mp4-and-diverse-format-changes/"><u>[New] In 2024, Navigating VLC's Features for MP4 & Diverse Format Changes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-fifth-round-of-top-time-lapse-capture-apps/"><u>[Updated] 2024 Approved Fifth Round of Top Time-Lapse Capture Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-belief-deciphering-nine-widely-held-ai-bot-assumptions/"><u>Beyond Belief: Deciphering Nine Widely Held AI Bot Assumptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-chatgpt-premium-upsides-and-downsides/"><u>Delving Into ChatGPT Premium: Upsides and Downsides</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elevate-your-portraits-with-hdr-techniques-for-2024/"><u>Elevate Your Portraits with HDR Techniques for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-gpt-for-emotional-support-and-connection/"><u>Harnessing GPT for Emotional Support and Connection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-via-bash-a-guide-to-shellgpt/"><u>Mastering ChatGPT via Bash: A Guide to ShellGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-gpt-eight-critical-concerns-explored/"><u>OpenAI's GPT: Eight Critical Concerns Explored</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/tunefab-screen-recorder-review/"><u>Tunefab Screen Recorder Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-list-smoothest-video-recording-mobile-apps/"><u>Ultimate List Smoothest Video Recording Mobile Apps</u></a></li>
 </ul></div>
 

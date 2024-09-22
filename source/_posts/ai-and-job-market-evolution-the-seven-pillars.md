@@ -1,7 +1,7 @@
 ---
 title: AI & Job Market Evolution – The Seven Pillars
-date: 2024-09-13T16:30:30.042Z
-updated: 2024-09-17T16:31:08.286Z
+date: 2024-09-17T17:16:07.610Z
+updated: 2024-09-22T17:53:41.711Z
 tags:
   - chatgpt
   - open-ai
@@ -60,16 +60,16 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
  For some, this might be alarming, as they fear they might lose their jobs. And though that is a valid fear, you may find reassurance in knowing the [reasons AI can't replace humans at work](https://www.makeuseof.com/reasons-artificial-intelligence-cant-replace-humans/). What's perhaps more likely is that AI will simply remove the drudgery out of office work and allow more room for planning and creative thought.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Creative Jobs Will Become Much Easier
 
 ![Two women looking at a computer and iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creative-activities-that-boost-your-mental-health.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Speaking of creativity, creative AI tools like DALL-E and Midjourney have taken the art world by storm. We won't get into how many artists are protesting against the use of such tools, as they deem it unfair to have them use their copyrighted artwork for reference.
 
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![Illustration of two computers and app icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/illustration-of-two-computers-and-app-icons.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Planning, organizing, designing, and scheduling a social media campaign is no easy task. There are so many things that you need to keep in mind, such as your brand image, tonality, target audience, brand colors, style guide, and more. It's a job that requires an entire team of creative people.
@@ -108,16 +108,16 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
 ![Feature cover of a happy construction worker behind his desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/feature-cover-of-a-happy-construction-worker-behind-his-desk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Blue-collar jobs such as farmer, plumber, electrician, mechanic, construction worker, and more are likely to become far more lucrative than ever before in history—perhaps even more than some white-collar jobs. Why? Because unlike white-collar work, many blue-collar jobs require manual labor and cannot be easily automated.
 
  Generative AI can easily learn the patterns of a desk job and produce useful results, but all of those capabilities are limited to software. This is not to say that AI isn't used in some blue-collar jobs, as it is, but software alone can't fix a leaky toilet, plow land, build a house, perform pest control, remove dents from your car, or repair a broken air conditioner.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adapt and Work With AI
 
@@ -144,17 +144,20 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-unmask-background-ambiance-free-or-paid-solutions-explored/"><u>[New] In 2024, Unmask Background Ambiance - Free or Paid Solutions Explored</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-innovation-in-social-media-redefining-the-role-of-facebook-stories/"><u>[Updated] 2024 Approved Innovation in Social Media Redefining the Role of Facebook Stories</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-premium-cameras-for-next-level-music-video-production/"><u>2024 Approved Premium Cameras for Next-Level Music Video Production</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-documenting-the-fun-video-your-nintendo-switch-games/"><u>In 2024, Documenting the Fun Video Your Nintendo Switch Games</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-elevating-your-vlog-through-proper-lighting/"><u>In 2024, Elevating Your Vlog Through Proper Lighting</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-korean-with-ease-unveiling-the-top-6-web-based-solutions/"><u>Learn Korean with Ease: Unveiling the Top 6 Web-Based Solutions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-trim-cut-and-edit-divx-videos-for-free-top-tools/"><u>New Trim, Cut, and Edit Divx Videos for Free Top Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviews-in-retrospect-the-untrustworthy-truth/"><u>Reviews in Retrospect: The Untrustworthy Truth</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-setting-up-diggz-xenon-plus-and-a-complimentary-add-on-with-kodi-matrix-v19/"><u>Step-by-Step Tutorial: Setting Up Diggz Xenon Plus and a Complimentary Add-On with Kodi Matrix V19</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-converting-and-sharing-videos-from-youtube-to-tiktok/"><u>The Ultimate Guide to Converting and Sharing Videos From YouTube to TikTok</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-no-cost-mts-video-format-changer-transform-your-videos-into-mov-mp4-and-more-in-high-definition/"><u>Top No-Cost MTS Video Format Changer: Transform Your Videos Into MOV, MP4 & More in High Definition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-recommended-tools-for-downloading-content-from-myvidster-a-comprehensive-guide/"><u>Top Recommended Tools for Downloading Content From MyVidster: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eal-results-with-ethical-audience-engagement-on-youtube-for-2024/"><u>[New] Real Results with Ethical Audience Engagement on Youtube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-elevate-your-farm-the-top-7-stardew-modifications/"><u>[Updated] 2024 Approved Elevate Your Farm The Top 7 Stardew Modifications</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-in-depth-list-of-best-virtual-playgrounds/"><u>[Updated] In 2024, In-Depth List of Best Virtual Playgrounds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-picart-a-guide-to-clear-backgrounds/"><u>[Updated] Mastering PicArt A Guide to Clear Backgrounds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726222534617-movavi/"><u>無限量數字化翻譯服務 - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-transformar-archivos-de-audio-wav-a-formato-mp3-sin-costo-alguno-con-herramientas-en-linea/"><u>Cómo Transformar Archivos De Audio WAV a Formato MP3 Sin Costo Alguno Con Herramientas en Línea</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-barriers-fix-steam-remote-play-woes/"><u>Eliminating Barriers: Fix Steam Remote Play Woes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-note-30-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix Note 30?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-compress-videos-for-easy-sharing-on-whats-app-pc-online-or-mobile-guide/"><u>How to Compress Videos for Easy Sharing on What's App: PC, Online or Mobile Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-7-hd-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 7 HD to Outlook | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/les-apps-de-diapositives-les-plus-performantes-sur-ios-et-android-un-top-10-comparatif/"><u>Les Apps De Diapositives Les Plus Performantes Sur iOS Et Android : Un Top 10 Comparatif</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meilleures-capteurs-decrans-compatibles-avec-nimporte-quel-appareil-critiques-top-13-par-movavi/"><u>Meilleures Capteurs D’Écrans Compatibles Avec N'importe Quel Appareil | Critiques Top 13 Par Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-culprits-behind-frame-drops-in-cod-modern-warfare-3-what-to-know/"><u>The Culprits Behind Frame Drops in COD: Modern Warfare 3 - What to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-premium-gaming-memory-chips-by-movavi-maximizing-your-pcs-potential/"><u>The Ultimate List of Premium Gaming Memory Chips by Movavi: Maximizing Your PC's Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-pick-5-premier-software-solutions-for-on-screen-drawing-and-animation/"><u>Ultimate Pick: 5 Premier Software Solutions for On-Screen Drawing & Animation</u></a></li>
 </ul></div>
 

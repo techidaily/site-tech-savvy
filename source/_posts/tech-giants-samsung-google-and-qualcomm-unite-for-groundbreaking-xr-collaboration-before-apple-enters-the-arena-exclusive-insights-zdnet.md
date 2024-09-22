@@ -1,7 +1,7 @@
 ---
 title: "Tech Giants Samsung, Google & Qualcomm Unite for Groundbreaking XR Collaboration Before Apple Enters the Arena: Exclusive Insights | ZDNet"
-date: 2024-09-18 12:16:41
-updated: 2024-09-20 12:18:22
+date: 2024-09-17T18:28:34.408Z
+updated: 2024-09-22T17:00:31.652Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-greatest-hits-of-iphone-movie-streaming/"><u>[New] 2024 Approved The Greatest Hits of iPhone Movie Streaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-picture-a-close-look-at-the-google-podcasts-app/"><u>Complete Picture A Close Look at the Google Podcasts App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuita-de-video-de-m4v-a-formato-wma-en-internet-utiliza-la-herramienta-online-de-movavi/"><u>Conversión Gratuita De Vídeo De M4V a Formato WMA en Internet - Utiliza La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-dead-by-daylight-from-crashing-expert-tips/"><u>How To Prevent Dead By Daylight From Crashing : Expert Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/toutes-les-etapes-pour-convertir-3gp-a-mp4-en-ligne-gratuitement-guide-movavi/"><u>Toutes Les Étapes Pour Convertir 3GP À MP4 en Ligne Gratuitement - Guide Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/videoda-resimli-girisini-tanimlayan-3-universite-yone-kullanilabilir-alternatifler/"><u>Video'da Resimli Girişini Tanımlayan 3 Üniversite Yöne Kullanılabilir Alternatifler</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: How to Tap Into Anthropic's AI Creative Store
-date: 2024-09-12T16:04:24.744Z
-updated: 2024-09-17T16:21:29.984Z
+date: 2024-09-19T17:29:43.960Z
+updated: 2024-09-22T18:27:45.309Z
 tags:
   - chatgpt
   - open-ai
@@ -52,6 +52,19 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 
  It's a nice touch for those who spend time perfecting their prompt prowess and want to share these tips with the world.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Anthropic's Prompt Library
 
  As said, Anthropic has covered a vast number of subjects in its prompt library. The prompts take different formats depending on the subject matter.
@@ -63,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
  Whereas the Corporate Clairvoyant prompt features a user input designed to analyze and summarize a report, highlighting important features.
 
 ![anthropic prompt library corporate clairvoyant option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-corporate-clairvoyant-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Using any of the prompts is simple: just copy and paste them into Claude (or another AI chatbot), tweak them to your liking, and you're good to go.
 
@@ -88,10 +94,16 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 ![claude 3 dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-dream-interpreter-prompt-library-output.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While ChatGPT 4 responded:
@@ -135,20 +147,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-conquer-iphone-photography-by-perfecting-motion-capture/"><u>[Updated] Conquer iPhone Photography by Perfecting Motion Capture</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-contemplating-if-video-selfies-need-validation-on-instagram/"><u>[Updated] Contemplating if Video Selfies Need Validation On Instagram</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-unlocking-data-in-twitter-archives-for-2024/"><u>[Updated] Unlocking Data in Twitter Archives for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-optimal-performance-desktops-today/"><u>2024 Approved Optimal Performance Desktops Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-chatbots-and-risks-insight-into-the-top-3-privacy-hurdles/"><u>Cutting-Edge Chatbots & Risks: Insight Into the Top 3 Privacy Hurdles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-your-experience-with-freshly-updated-rtx-2080-super-nvidia-drivers-compatible-with-windows-1110/"><u>Enhance Your Experience with Freshly Updated RTX 2080 Super Nvidia Drivers - Compatible with Windows 11/10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-motorola-moto-g34-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Motorola Moto G34 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/"><u>How to Use ChatGPT and DALL-E to Create Characters for Dungeons & Dragons</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-zte-blade-a73-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on ZTE Blade A73 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scaling-up-intelligence-identifying-this-years-most-promising-ai-tech/"><u>Scaling Up Intelligence: Identifying This Year's Most Promising AI Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spotting-the-copiers-openais-detective-for-gpt-outputs/"><u>Spotting the Copiers: OpenAI's Detective for GPT Outputs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/token-triumph-geminis-1m-impact-shifted/"><u>Token Triumph: Gemini’s $1M Impact Shifted</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-video-popularity-predictor-top-8-insight/"><u>Ultimate Video Popularity Predictor Top 8 Insight</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unlock-youtube-numbers-for-enhanced-performance/"><u>Unlock YouTube Numbers for Enhanced Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-more-from-chatgpt-through-token-optimization/"><u>Unlocking More From ChatGPT Through Token Optimization</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-supreme-cameras-for-extreme-sports-fans/"><u>[New] Supreme Cameras for Extreme Sports Fans</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-uncover-and-revive-inaudible-fb-video-posts-the-ultimate-list-of-12-fixes/"><u>[Updated] 2024 Approved Uncover & Revive Inaudible FB Video Posts – The Ultimate List of 12 Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/becoming-a-valued-member-of-openais-cybersecurity-ecosystem-through-their-bug-bounty-offerings/"><u>Becoming a Valued Member of OpenAI's Cybersecurity Ecosystem Through Their Bug Bounty Offerings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-youtube-storytelling-a-comprehensive-overview/"><u>ChatGPT for YouTube Storytelling - A Comprehensive Overview</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/comment-decouper-une-photographie-guide-dutilisation-de-movievi-photo-editor-coupeur-image/"><u>Comment Découper Une Photographie: Guide D'Utilisation De Movievi Photo Editor - Coupeur Imagé</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-crafting-immersive-experienences-adding-sounds-to-reels/"><u>In 2024, Crafting Immersive Experienences Adding Sounds to Reels</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/laymans-guide-to-ai-world/"><u>Layman's Guide to AI World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unseen-threats-of-macgpt-based-apps/"><u>The Unseen Threats of MacGPT-Based Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unearthing-hidden-ai-advantages-top-5-unused-chatgpt-features/"><u>Unearthing Hidden AI Advantages: Top 5 Unused ChatGPT Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-the-power-of-free-copyright-free-image-repositories/"><u>Unleashing the Power of Free, Copyright-Free Image Repositories</u></a></li>
 </ul></div>
 

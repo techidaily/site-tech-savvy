@@ -1,7 +1,7 @@
 ---
 title: "The End of an Eye-Catching Era: Google Ditches Augmented Reality Glasses for Immersive XR Experiences | InfoTech Daily"
-date: 2024-09-19 13:30:22
-updated: 2024-09-20 12:47:46
+date: 2024-09-17T16:34:31.423Z
+updated: 2024-09-22T17:09:30.255Z
 tags:
   - ar+vr
 categories:
@@ -64,11 +64,30 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-integrating-text-in-multimedia-techniques-for-youtube-video-enhancement/"><u>[New] 2024 Approved Integrating Text in Multimedia Techniques for YouTube Video Enhancement</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ensuring-accurate-earnings-tracking-for-creators/"><u>[New] In 2024, Ensuring Accurate Earnings Tracking for Creators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-crafting-visual-brilliance-mastering-luts-in-ae/"><u>2024 Approved Crafting Visual Brilliance Mastering LUTs in AE</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-in-game-captures-of-lol-tips-for-three-techniques/"><u>2024 Approved In-Game Captures of LOL Tips for Three Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converti-file-tiff-in-formato-jpeg-online-e-gratuito-con-movavi/"><u>Converti File TIFF in Formato JPEG Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-instagram-stories-speed-control-techniques/"><u>Elevating Instagram Stories Speed Control Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/geen-keukenkostje-koppen-waardig-3g2-fietsen-in-gratis-mov-videodateien-met-movavi/"><u>Geen Keukenkostje Koppen: Waardig 3G2 Fietsen in Gratis MOV Videodateien Met Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-konverteren-van-mkv-naar-m4a-online-movavi/"><u>Gratuit Konverteren Van MKV Naar M4A Online - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transfiere-archivo-pgm-a-formato-png-sin-coste-metodo-online-de-convertir-imagenes/"><u>Transfiere Archivo PGM a Formato PNG Sin Coste: Método Online De Convertir Imágenes</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

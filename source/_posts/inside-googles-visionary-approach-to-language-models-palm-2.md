@@ -1,7 +1,7 @@
 ---
 title: "Inside Google's Visionary Approach to Language Models: PaLM 2"
-date: 2024-09-10T16:00:19.703Z
-updated: 2024-09-17T16:34:00.504Z
+date: 2024-09-18T18:00:52.059Z
+updated: 2024-09-22T16:55:59.105Z
 tags:
   - chatgpt
   - open-ai
@@ -65,16 +65,10 @@ While OpenAI is leading the way for generative AI development, many have accused
  No matter how much researchers attempt to cleanse LLM training data, it's inevitable some will slip through. The next phase is to continue training PaLM 2 to reduce those toxic responses.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It's a Boom Period for Large Language Models
@@ -100,14 +94,15 @@ While OpenAI is leading the way for generative AI development, many have accused
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-preeminent-6-social-media-sites-favored-by-professionals/"><u>[Updated] Preeminent 6 Social Media Sites Favored by Professionals</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-best-video-software-vlc-against-mx/"><u>[Updated] Unveiling Best Video Software VLC Against MX</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/building-brands-on-the-buzzing-platform-of-instagram-marketing-for-2024/"><u>Building Brands on the Buzzing Platform of Instagram Marketing for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/complete-guide-to-adding-and-enjoying-the-boys-add-on-via-matrix-aio-on-kodi-platform/"><u>Complete Guide to Adding and Enjoying the Boys Add-On via Matrix AIO on Kodi Platform</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dvd-to-mp4-windows-10116/"><u>DVD to MP4コンバート -Windows 10/11で失わずに最良の6メソッド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-techniques-for-transforming-mp4-files-into-3gp-format-learn-how/"><u>Effective Techniques for Transforming MP4 Files Into 3GP Format - Learn How!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-troubleshooting-guide-for-restoring-audio-capture-with-streamlabs-on-windows-computers/"><u>Effective Troubleshooting Guide for Restoring Audio Capture with Streamlabs on Windows Computers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-12-pro-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme 12 Pro 5G</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dispatching-dreadful-green-screen-distortion-on-mac-editing-sessions/"><u>[New] In 2024, Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unhindered-video-streaming-with-chromes-performance-fixes/"><u>[New] In 2024, Unhindered Video Streaming with Chrome's Performance Fixes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagram-incorporating-music-in-videos-and-stories/"><u>[Updated] 2024 Approved Mastering Instagram Incorporating Music in Videos & Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-profit-from-youtube-monetize-youtube-shorts-and-boost-your-income-for-2024/"><u>[Updated] Profit From YouTube Monetize YouTube Shorts and Boost Your Income for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-long-to-brief-how-to-shorten-youtube-footage/"><u>2024 Approved From Long to Brief How to Shorten YouTube Footage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726224262254-avivob-movavi/"><u>天井のないオンラインで無料でAVIとVOBを変換する - Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-webm-to-flac-converter-online-movavi/"><u>Gratis WebM-to-FLAC Converter Online - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-office-meetings-the-ultimate-guide-to-changing-your-microsoft-teams-background-with-ease/"><u>Mastering Office Meetings: The Ultimate Guide to Changing Your Microsoft Teams Background with Ease</u></a></li>
+<li><a href="https://blog-min.techidaily.com/upgrade-to-winxdvd-pro-premium-apps-and-features-now-available-at-no-extra-cost/"><u>Upgrade to WinXDVD Pro: Premium Apps & Features Now Available at No Extra Cost</u></a></li>
 </ul></div>
 

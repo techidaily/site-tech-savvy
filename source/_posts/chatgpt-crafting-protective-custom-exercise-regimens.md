@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT: Crafting Protective, Custom Exercise Regimens"
-date: 2024-09-10T16:45:26.202Z
-updated: 2024-09-17T16:17:59.406Z
+date: 2024-09-20T17:16:37.135Z
+updated: 2024-09-22T16:07:36.693Z
 tags:
   - chatgpt
   - open-ai
@@ -84,34 +84,28 @@ thumbnail: https://thmb.techidaily.com/82378f8f7280345f4bdbfe88330aef6297f2b5615
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from [top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/).
 
  What if you have more specific questions about how to perform the exercises correctly? The chatbot can help with that, too.
 
 ![ChatGPT deadlifts prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-deadlifts-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
 
  If you ever need to double-check the way to perform a certain exercise, or simply try out a new series of strength workouts, then ChatGPT is a helpful resource. The simple, straightforward responses and training plans offer a lot of information for beginner and more experienced athletes looking to increase their strength. Just be sure to verify the information with reputable sources before you take ChatGPT's advice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It's Possible to Use ChatGPT to Help With Your Fitness Goals
@@ -137,20 +131,20 @@ thumbnail: https://thmb.techidaily.com/82378f8f7280345f4bdbfe88330aef6297f2b5615
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-master-anonymous-instagram-story-browsing-on-pc-tablet-and-phones/"><u>[Updated] Master Anonymous Instagram Story Browsing on PC, Tablet & Phones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-definition-horizons-the-intricacies-of-dell-p2715q-screening/"><u>2024 Approved High-Definition Horizons The Intricacies of Dell P2715Q Screening</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-action-6-analytical-applications-unveiled/"><u>ChatGPT in Action: 6 Analytical Applications Unveiled</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/dealing-with-incompatible-video-codings/"><u>Dealing with Incompatible Video Codings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/entrepreneurs-guide-navigating-through-essential-ai-applications/"><u>Entrepreneur's Guide: Navigating Through Essential AI Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-speech-5-techniques-for-directing-chatgpt-by-voice/"><u>Harness the Power of Speech: 5 Techniques for Directing ChatGPT by Voice</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/high-definition-top-win-11-cameras-and-recorder-list-for-2024/"><u>High Definition Top Win 11 Cameras and Recorder List for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-resolve-format-error-not-a-pdf-or-corrupted-error-of-pdf-file-by-stellar-guide/"><u>How to Resolve Format error not a PDF or corrupted Error of PDF File</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-luminous-leverage-5-key-videography-aids/"><u>In 2024, Luminous Leverage 5 Key Videography Aids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keeping-industrial-communication-private-with-gpt/"><u>Keeping Industrial Communication Private with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-through-local-llm-advantages-and-disadvantages/"><u>Navigating Through Local LLM Advantages & Disadvantages</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/step-by-step-reviving-corrupt-nikon-movies/"><u>Step-By-Step: Reviving Corrupt Nikon Movies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-flawed-logic-of-ai-based-medical-advice/"><u>The Flawed Logic of AI-Based Medical Advice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-swift-italian-ban-on-chatgpt-a-closer-look/"><u>The Swift Italian Ban on ChatGPT: A Closer Look</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/writing-engaging-youtube-scripts-with-chatgpt-help/"><u>Writing Engaging YouTube Scripts with ChatGPT Help</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-budget-friendly-high-quality-earphones-for-gaming-for-2024/"><u>[Updated] Budget-Friendly, High-Quality Earphones for Gaming for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-hidden-potential-of-instagrams-question-marker-for-2024/"><u>[Updated] Unlocking Hidden Potential of Instagram’s Question Marker for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevate-your-videography-premiere-to-youtube-upload/"><u>2024 Approved Elevate Your Videography Premiere to YouTube Upload</u></a></li>
+<li><a href="https://video-capture.techidaily.com/award-winning-open-source-solutions-for-professional-video-editing/"><u>Award-Winning Open Source Solutions for Professional Video Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuita-de-archivos-musicales-transforma-tu-aif-en-un-formato-m4r-por-medio-de-movavi/"><u>Conversión Gratuita De Archivos Musicales: Transforma Tu AIF en Un Formato M4R Por Medio De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-rapida-e-semplice-mov-a-wmv-il-servizio-web-migliore-e-gratuito-movavi/"><u>Conversione Rapida E Semplice MOV a WMV: Il Servizio Web Migliore E Gratuito - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertissez-un-fichier-aiff-au-format-mp3-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Un Fichier AIFF Au Format MP3 Gratuitement - en Ligne Avec Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extensive-review-gopro-hero4-slr4-black-edition-for-2024/"><u>Extensive Review GoPro Hero4 SLR4 Black Edition for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-your-call-of-duty-warzone-black-screen-problem-with-these-latest-tips/"><u>Fixing Your Call of Duty: Warzone Black Screen Problem with These Latest Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-convert-flv-to-asf-with-movavi/"><u>Free Online Converter - Convert FLV to ASF with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-conversione-da-oggv-a-webm-online-trimix-di-movavi/"><u>Gratis Conversione Da OGGV a WebM - OnLine Trimix Di Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-14-pro-max-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 14 Pro Max or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-fortnite-on-iphone-using-geforce-cloud-gaming/"><u>Playing Fortnite on iPhone Using GeForce Cloud Gaming</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-your-hcmon-driver-problems-effective-fixes-for-installation-errors/"><u>Solve Your HCMon Driver Problems: Effective Fixes for Installation Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rw2-jpg-javascript/"><u>무료 RW2 JPG 변환기 – 게스트비젼 이미지를 JavaSCRIPT을 사용하여 빠르고 신중한 방식으로 전환</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Seduction by Software: Deception in Digital Dating"
-date: 2024-09-14T16:35:48.572Z
-updated: 2024-09-17T16:09:04.092Z
+date: 2024-09-20T17:01:45.918Z
+updated: 2024-09-22T16:10:55.191Z
 tags:
   - chatgpt
   - open-ai
@@ -65,10 +65,10 @@ Close
  Unfortunately, AI images are hard to detect. Your best bet would be to do a [reverse image search](https://www.makeuseof.com/tag/reverse-image-search-apps/) and sift through relevant results.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Building Deceptively Authentic-Looking Profiles
@@ -82,13 +82,6 @@ Close
  And here’s ChatGPT writing an entire biography for your dating profile.
 
 ![Asking ChatGPT to Create a Dating Profile for a Female](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-creating-dating-profile-bio.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Since this process consumes so much time, it also requires a bigger payoff. So, scammers tend to ask for more. Once they earn your trust, they’ll ask for help with various “problems,” like hospital bills, loan payments, or tuition fees. Some will even claim to visit you if you shoulder their ticket.
 
@@ -106,13 +99,6 @@ Close
 
  Don’t cave in if you get targeted. Call 1-800-CALL-FBI, send an FBI tip, or visit your local FBI field office should you find yourself in this situation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Integrating AI Models With Brute-Force Hacking Systems
 
  While open-source language models support some AI advancements, they’re also prone to exploitation. Criminals will take advantage of anything. You can’t expect them to ignore the algorithm behind highly sophisticated language models like [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) and [OpenAssistant](https://huggingface.co/OpenAssistant).
@@ -121,6 +107,13 @@ Close
 
  You have no control over what scammers do. To protect your accounts, make sure you [create a truly secure password](https://www.makeuseof.com/what-makes-a-password-truly-secure/) comprising special characters, alphanumeric combinations, and 14+ characters.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Imitating Real People With Voice Cloning
 
  AI voice generators started as a cool toy. Users would turn sample tracks of their favorite artists into covers or even new songs. Take Heart on My Sleeve as an example. TikTok user [Ghostwriter977](https://www.tiktok.com/@ghostwriter977) made a super-realistic song imitating Drake and The Weeknd, although neither artist sang it.
@@ -128,6 +121,19 @@ Close
  Despite the jokes and memes around it, [speech synthesis is very dangerous](https://www.makeuseof.com/ai-voice-generators-security-threat/). It enables criminals to execute sophisticated attacks. For instance, romance scammers exploit voice cloning tools to call targets and leave deceptive recordings. Victims who are unfamiliar with speech synthesis won’t notice anything unusual.
 
  Protect yourself from AI voice clone scams by studying how synthesized outputs sound. Explore these generators. They merely create near-identical clones—you’ll still spot some imperfections and inconsistencies.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Yourself Against AI Dating Scammers
 
@@ -154,19 +160,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-saving-strategies-securing-your-mov-on-windows-pcs/"><u>[Updated] 2024 Approved Saving Strategies Securing Your .mov On Windows PCs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-asmr-and-wellness-what-are-its-promising-side-effects/"><u>[Updated] ASMR & Wellness What Are Its Promising Side-Effects?</u></a></li>
-<li><a href="https://article-files.techidaily.com/best-of-breed-premium-4k-camera-mounts-for-pros/"><u>Best of Breed Premium 4K Camera Mounts for Pros</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/excellent-voice-capture-gadgets-top-7-list-2023-for-2024/"><u>Excellent Voice Capture Gadgets, Top 7 List 2023 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-the-intricacies-of-videos-using-the-frame-by-frame-function-in-vlc-media-player/"><u>Explore the Intricacies of Videos Using the Frame-by-Frame Function in VLC Media Player</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-capturing-on-screen-activity-and-audio-on-your-acer-laptop/"><u>Guide: Capturing On-Screen Activity & Audio on Your Acer Laptop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-compatibility-problems-with-new-minecraft-launchers/"><u>How to Overcome Compatibility Problems with New Minecraft Launchers?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-resolve-file-size-exceeds-drive-capacity-on-your-external-memory-device/"><u>How to Resolve 'File Size Exceeds Drive Capacity' On Your External Memory Device</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/itunesmoviesanywhereiphoneipadts/"><u>ITunesやMoviesAnywhereなどでiPhone/iPadでTSファイルのプレーヤー設定</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mark-your-calendars-for-march-the-second-gen-ipad-revolution-with-enhanced-features-is-set-to-hit-shelves-soon/"><u>Mark Your Calendars for March: The Second-Gen iPad Revolution with Enhanced Features Is Set to Hit Shelves Soon!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-format-transformation-techniques-for-changing-videoaudio-types/"><u>Mastering Format Transformation: Techniques for Changing Video/Audio Types</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-overcome-error-0x80072f8f-in-windows-1110-update-processes/"><u>Step-by-Step Solutions to Overcome Error 0X80072F8F in Windows 11/10 Update Processes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-gionee-by-drfone-android/"><u>Three Ways to Sim Unlock Gionee</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-squeezing-light-from-iphone-nocturnes/"><u>[New] Squeezing Light From iPhone Nocturnes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-price-to-performance-laptops-under-500-gaming-edition/"><u>[Updated] In 2024, Best Price-to-Performance Laptops Under $500 (Gaming Edition)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approach-stitching-gopro-sequences-in-holoscopic-clips/"><u>2024 Approved Innovative Approach Stitching GoPro Sequences in Holoscopic Clips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4bflacmovavi/"><u>免費線上M4B到FLAC轉換：如何使用Movavi轉錄工具進行音效改造</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aiff-to-mp3-movavi/"><u>AIFF to MP3 무료 제공 - Movavi에서 최신 알고리즘 사용</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/criacrs-bluetooth-fm-transmitter-cp24-assessment-space-saving-with-flaws-exposed/"><u>Criacr's Bluetooth FM Transmitter CP24 Assessment: Space-Saving with Flaws Exposed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-recurring-breakdowns-in-pathfinders-wrath-of-the-righteous-adventure/"><u>Fixing the Recurring Breakdowns in Pathfinder's Wrath of the Righteous Adventure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transforming-gif-images-into-high-quality-tiff-format-with-ease/"><u>Free Online Converter: Transforming GIF Images Into High-Quality TIFF Format with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-online-konverteren-van-mod-naar-wma-proficient-takken-met-movavi/"><u>Gratuit Online Konverteren Van MOD Naar WMA: Proficiënt Takken Met Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-rapida-para-editar-y-cortar-videos-en-dispositivos-con-android-metodos-faciles-de-aplicar/"><u>Guía Rápida Para Editar Y Cortar Videos en Dispositivos Con Android: Métodos Fáciles De Aplicar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-tecno-phantom-v-fold-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Tecno Phantom V Fold to iPod | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scopri-il-segreto-di-creare-uno-storyboard-tutorial-in-7-facilissimi-passaggi/"><u>Scopri Il Segreto Di Creare Uno Storyboard: Tutorial in 7 Facilissimi Passaggi!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-on-the-horizon-for-apple-event-date-rumors-and-breakthrough-news-revealed/"><u>What's on the Horizon for Apple? Event Date, Rumors & Breakthrough News Revealed</u></a></li>
 </ul></div>
 

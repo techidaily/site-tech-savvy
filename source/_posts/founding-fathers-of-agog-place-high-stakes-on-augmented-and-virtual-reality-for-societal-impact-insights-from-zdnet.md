@@ -1,7 +1,7 @@
 ---
 title: Founding Fathers of Agog Place High Stakes on Augmented & Virtual Reality for Societal Impact - Insights From ZDNet
-date: 2024-09-18 16:23:51
-updated: 2024-09-20 10:56:47
+date: 2024-09-19T17:32:26.887Z
+updated: 2024-09-22T16:29:34.005Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unraveling-the-mystery-of-non-uploading-video-features/"><u>[New] In 2024, Unraveling the Mystery of Non-Uploading Video Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixing-non-appearing-thumbnails-in-youtube-shorts/"><u>[Updated] In 2024, Fixing Non-Appearing Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-m4v3g2/"><u>線上無成本Movavi M4V至3G2影像格式轉換工具</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descubra-como-convertir-su-contenido-mxf-a-diferentes-tipos-de-archivo-sin-costes-usando-webs-de-conversion-gratis/"><u>Descubra Como Convertir Su Contenido MXF a Diferentes Tipos De Archivo Sin Costes Usando Webs De Conversión Gratis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998072967-fix-the-crashing-issue-in-elite-dangerous-on-your-computer-today/"><u>Fix the Crashing Issue in Elite Dangerous on Your Computer Today!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/free-software-to-fix-corrupted-photographs-and-prevent-data-loss/"><u>Free Software to Fix Corrupted Photographs and Prevent Data Loss</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-15-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 15 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/onikuma-headset-mic-not-working-solved/"><u>Onikuma Headset Mic Not Working [SOLVED]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transferer-un-fichier-wma-vers-un-format-wav-sans-frais-utilisez-movavi/"><u>Transférer Un Fichier WMA Vers Un Format WAV Sans Frais - Utilisez Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi-mov-movavi/"><u>모비크스 사이트에서 무료 AVI 및 MOV 영상 더 잘 제공하는 원활한 격리: MOVAVI 변환기</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

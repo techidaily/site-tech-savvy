@@ -1,7 +1,7 @@
 ---
 title: "Clarity in Chaos: Explaining Generative AI"
-date: 2024-09-10T16:12:47.460Z
-updated: 2024-09-17T16:14:56.760Z
+date: 2024-09-20T17:09:15.009Z
+updated: 2024-09-22T16:17:19.525Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
 ![chatgpt 4 answer question on number of data points june 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-4-answer-question-on-number-of-data-points-june-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  GPT, developed by OpenAI, is among the most recognizable names in the generative AI space. Its popularity hinges on its effectiveness as a conversational AI model and the viral success of the ChatGPT chatbot, which uses GPT as its underlying technology. It is a large language model designed to generate human-like text when prompted. Typical of any generative AI model, [all iterations of the GPT model](https://www.makeuseof.com/gpt-models-explained-and-compared/) have been trained on a massive amount of diverse text data.
 
 ### 2\. Pathways Language Model (PaLM)
@@ -61,28 +68,34 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  PaLM, an experimental large language model by Google, is a powerful generative AI model capable of performing a large range of tasks like creative writing, code generation, language translation, and a number of other text-based natural language tasks. Like GPT, PaLM was trained on a large corpus of text data sourced from a wide array of sources across the web. It is [the AI model that powers Google's Bard AI](https://www.makeuseof.com/what-is-google-palm-2/).
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Music Language Model (MusicLM)
 
  MusicLM is another generative AI model from Google. It is designed to generate "high-fidelity" music from simple text prompts. Trained on thousands of hours of music across various genres, the generative model can create unique music by using simple descriptions of the music you need as inputs. If you're wondering how good it is, here's [our review of the MusicLM model](https://www.makeuseof.com/google-musiclm-overview-how-to-use/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. DALL-E
 
 [DALL-E is OpenAI's AI image generation model](http://www.makeuseof.com/what-is-dall-e-ai-image-generator/) designed to create multiple styles of unique imagery from text prompts. It is a multimodal implementation of the GPT model, trained on numerous text-image pairs from various sources across the internet.
 
  Beyond generative AI models, you'll also find generative AI products like Midjourney, DALL-E image generator, Stable Diffusion image generator, Hugging Chat, and several other impressive AI products powered by generative AI models.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Has Generative AI Exploded In Popularity?
 
@@ -93,13 +106,6 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  While ChatGPT has been the tip of the spear in propelling the hype around generative AI, it didn't do it alone. 2022 will be remembered as the year generative AI tools went mainstream. From conversational AI chatbots to code and art generators, the second half of 2022 was the first time multiple AI tools that had both mass appeal and practical day-to-day uses had hit the market. With these tools came the popularity of its underlying technology—generative AI.
 
  Generative AI tools such as Bing AI, Google's Bard, DALL-E, ChatGPT, and Midjourney have seamlessly woven themselves into the fabric of our daily lives, constantly presenting us with their remarkable creations. Whether it's the captivating write-ups crafted by ChatGPT or the astonishingly lifelike images conjured by Midjourney, generative AI has become an ever-present companion, accompanying us day in and day out. This is the genesis of the recent popularity of generative AI.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Embrace Generative AI
 
@@ -122,19 +128,19 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-effortless-guide-how-to-automate-recording-of-your-google-gatherings-for-2024/"><u>[New] Effortless Guide How to Automate Recording of Your Google Gatherings for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-photo-grandeur-with-our-best-grid-apps-list/"><u>[Updated] Photo Grandeur with Our Best Grid Apps List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-writes-the-future-top-5-unseen-power-ups-for-conversations/"><u>AI' Writes the Future: Top 5 Unseen Power-Ups for Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-control-in-ai-alignment-quest/"><u>Crafting Control in AI Alignment Quest</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-into-ai-nine-gatherings-for-novices/"><u>Dive Into AI: Nine Gatherings for Novices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-10t-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Realme 10T 5G</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-vlc-mp4-and-various-format-conversion-techniques/"><u>In 2024, Mastering VLC MP4 & Various Format Conversion Techniques</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-v30-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme V30 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-autonomy-in-development-with-non-chatgpt-software/"><u>Redefining Autonomy in Development with Non-ChatGPT Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/securing-your-spatial-content-mastering-the-art-of-360-degree-video-filming-and-uploading-for-2024/"><u>Securing Your Spatial Content Mastering the Art of 360-Degree Video Filming & Uploading for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-seamless-mkv-file-integration-in-sony-vegas-pro/"><u>Step-by-Step Guide: Seamless MKV File Integration in Sony Vegas Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-speakers-guide-to-directing-chatgpt-ai/"><u>The Speaker's Guide to Directing ChatGPT AI</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-civi-3-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi Civi 3 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-gpt-4-in-chatgpt-conversations-today/"><u>Utilizing GPT-4 in ChatGPT Conversations Today</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-effective-strategies-to-capture-and-save-google-voice-dialogues/"><u>[New] In 2024, Effective Strategies to Capture and Save Google Voice Dialogues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screen-grab-king-macos-recorder-free/"><u>[New] Screen Grab King MacOS Recorder, Free</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-the-mechanics-behind-instagrams-content-curation-for-2024/"><u>[New] Unveiling the Mechanics Behind Instagram’s Content Curation for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-6-reel-enhancing-applications-for-instagram-for-2024/"><u>[Updated] Top 6 Reel-Enhancing Applications for Instagram for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-joke-tastic-iphones-today/"><u>2024 Approved Joke-Tastic iPhones Today</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-vs-camera-edition-deciding-between-gopro-hero-and-polaroid-cube/"><u>2024 Approved Vs. Camera Edition Deciding Between GoPro Hero & Polaroid Cube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726221618622-2024/"><u>與時俱進：2024年最有前途的影片色彩调整软件，为影片精准配色指南</u></a></li>
+<li><a href="https://blog-min.techidaily.com/aiff-m4a-mp3/"><u>AIFF 모바일화 - 원통 대상 M4A 및 MP3 파일로 쉽게 전환하는 무료 도구</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flash-flac-ogg-movavi/"><u>Flash Flac 無料網路轉成 Ogg - 使用 Movavi 音頻編輯器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-converte-facilmente-de-aac-para-mp3-com-o-movavi-sem-custo-algum/"><u>Gratis Online: Converte Facilmente De AAC Para MP3 Com O Movavi - Sem Custo Algum</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-xs-max-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone XS Max to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-converter-voor-mpeg-4-videodateien-veerkrachtig-omzetten-naar-mp4-gratis-met-movavi-konverter/"><u>Online Converter Voor MPEG-4 Videodateien - Veerkrachtig Omzetten Naar MP4 Gratis Met Movavi Konverter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pef-en-png-direct-converteert-voor-gratis-movavi/"><u>PEF en PNG Direct Converteert Voor Gratis - Movavi</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-7-sonic-alterations-mastering-the-art-of-digital-audio-transformation-for-2024/"><u>Top 7 Sonic Alterations Mastering the Art of Digital Audio Transformation for 2024</u></a></li>
 </ul></div>
 

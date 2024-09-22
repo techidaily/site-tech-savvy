@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Therapy: Infusing GPT Into Cognitive Techniques"
-date: 2024-09-15T16:23:15.818Z
-updated: 2024-09-17T16:43:06.875Z
+date: 2024-09-21T17:01:36.736Z
+updated: 2024-09-22T16:34:21.574Z
 tags:
   - chatgpt
   - open-ai
@@ -67,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 ![ChatGPT being trained as CBT therapist-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-chatgpt-being-trained-as-cbt-therapist-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can tweak the above in a way that works best for you.
@@ -92,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 ![ChatGPT response with actions that can be taken today](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-chatgpt-response-with-actions-that-can-be-taken-today.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Precautions and Limitations of Using ChatGPT for CBT
@@ -131,18 +125,17 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-ultimate-mac-screenshot-strategy-revealed/"><u>[New] 2024 Approved The Ultimate Mac Screenshot Strategy Revealed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-6-effective-ways-to-add-live-facebook-content-online/"><u>[Updated] 2024 Approved 6 Effective Ways to Add Live Facebook Content Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-reactivating-your-frozen-google-chrome-browser-instantly/"><u>Expert Advice on Reactivating Your Frozen Google Chrome Browser Instantly</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/exporting-mp3-files-from-watched-facebook-vids-for-2024/"><u>Exporting MP3 Files From Watched Facebook Vids for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-delete-your-chatgpt-history/"><u>How to Delete Your ChatGPT History</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-xr-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone XR</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-overcoming-forbidden-errors/"><u>Mastering the Art of Overcoming Forbidden Errors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-gopros-time-lapse-potential-for-2024/"><u>Navigating Through GoPro's Time-Lapse Potential for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-wellbeing-objectives-via-ai-insight/"><u>Navigating Wellbeing Objectives via AI Insight</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-artificial-intelligences-journey-boons-and-busts/"><u>Understanding Artificial Intelligence's Journey: Boons & Busts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-voice-potential-5-innovative-gpt-commands/"><u>Unleash Voice Potential: 5 Innovative GPT Commands</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726026981437-2024/"><u>ゲフォース エクスペリエンスのビデオ録画失敗時：最新対策手引き2024年度版</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-drive-sales-through-smart-use-of-snapchats-tools-for-2024/"><u>[Updated] Drive Sales Through Smart Use of Snapchat's Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-implementing-soft-cessation-of-sounds-using-audacity-procedures/"><u>[Updated] Implementing Soft Cessation of Sounds Using Audacity Procedures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-futures-canvas-unveiling-6-pioneers-of-nft-artistry/"><u>[Updated] The Future's Canvas Unveiling 6 Pioneers of NFT Artistry</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-convertir-et-transferer-des-videos-vhs-en-format-dvd-sur-votre-ordinateur/"><u>Comment Convertir Et Transférer Des Vidéos VHS en Format DVD Sur Votre Ordinateur ?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-use-emoji-on-the-iphone/"><u>How to Use Emoji on the iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ideal-android-video-recording-tools-ranked-five-best/"><u>In 2024, Ideal Android Video Recording Tools Ranked Five Best</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-revolutionizing-game-soundscapes-with-ps-console-tweaks/"><u>In 2024, Revolutionizing Game Soundscapes with PS Console Tweaks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-playlist-portability-service-to-service-swap/"><u>In 2024, The Art of Playlist Portability Service to Service Swap</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-powered-dialogues-into-task-management/"><u>Integrating GPT-Powered Dialogues Into Task Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-us-launch-of-enhanced-ai-gpt-plus-20-mo/"><u>Step Into the Future: US Launch of Enhanced AI: GPT-Plus ($20 Mo)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-up-your-online-research-ai-powered-bing-on-ios-and-android/"><u>Step Up Your Online Research: AI-Powered Bing on iOS and Android.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/text-only-vs-extended-chatgpt-with-browsing-capabilities/"><u>Text-Only vs Extended ChatGPT with Browsing Capabilities</u></a></li>
 </ul></div>
 

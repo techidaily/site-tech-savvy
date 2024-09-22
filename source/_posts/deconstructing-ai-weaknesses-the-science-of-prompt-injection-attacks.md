@@ -1,7 +1,7 @@
 ---
 title: "Deconstructing AI Weaknesses: The Science of Prompt Injection Attacks"
-date: 2024-09-14T16:15:28.970Z
-updated: 2024-09-17T16:39:32.949Z
+date: 2024-09-18T17:25:42.829Z
+updated: 2024-09-22T18:25:46.982Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
 
  For example, someone could manipulate the AI into instructing you to enter your username and password in an illegitimate form, using the AI's authority and trustworthiness to make a phishing attack succeed. Theoretically, autonomous AI (such as reading and responding to messages) could also receive and act upon unwanted external instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do Prompt Injection Attacks Work?
 
  Prompt injection attacks work by feeding additional instructions to an AI without the consent or knowledge of the user. Hackers can accomplish this in a few ways, including DAN attacks and indirect prompt injection attacks.
@@ -53,21 +60,22 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
 ![conversing with chatgpt following a dan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/conversing-with-chatgpt-following-a-dan-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  DAN (Do Anything Now) attacks are a type of prompt injection attack that involve ["jailbreaking" generative AI models like ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). These jailbreaking attacks don't pose a risk to you as the end user—but they do broaden the capacity of the AI, enabling it to become a tool for abuse.
 
  For example, security researcher [Alejandro Vidal](https://twitter.com/doblepensador/status/1635721485665837059) used a DAN prompt to make OpenAI's GPT-4 generate Python code for a keylogger. Used maliciously, jailbroken AI substantially lowers the skill-based barriers associated with cybercrime and could enable new hackers to make more sophisticated attacks.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Training Data Poisoning Attacks
 
@@ -83,31 +91,11 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
 
 ![indirect ai prompt attack demostrated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/indirect-ai-prompt-attack-demostrated.png)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Grekshake/[GitHub](https://github.com/greshake)
 
  A paper titled Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection on [arXiv](https://arxiv.org/pdf/2302.12173.pdf) \[PDF\] demonstrated a theoretical attack where the AI could be instructed to persuade the user to sign up for a phishing website within the answer, using hidden text (invisible to the human eye but perfectly readable to an AI model) to inject the information sneakily. Another attack by the same research team documented on [GitHub](https://greshake.github.io/) showed an attack where Copilot (formerly Bing Chat) was made to convince a user that it was a live support agent seeking credit card information.
 
  Indirect prompt injection attacks are threatening because they could manipulate the answers you receive from a trustworthy AI model—but that isn't the only threat they pose. As mentioned earlier, they could also cause any autonomous AI you may use to act in unexpected—and potentially harmful—ways.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are AI Prompt Injection Attacks a Threat?
 
@@ -134,15 +122,20 @@ Grekshake/[GitHub](https://github.com/greshake)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/1-ultimate-tutorial-adjusting-audio-levels-with-ease-using-vlcs-equalizer/"><u>1. Ultimate Tutorial: Adjusting Audio Levels with Ease Using VLC's Equalizer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028362684-ts/"><u>高度なテクニックで「TSファイル」から明瞭に分離された音声解析: 第一・第二方法解説</u></a></li>
-<li><a href="https://fox-info.techidaily.com/covert-measures-for-efficient-home-based-learning-for-2024/"><u>Covert Measures for Efficient Home-Based Learning for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721460512789-fix-a-glitchy-airdrop-in-no-time-learn-from-our-ultimate-16-tips/"><u>Fix a Glitchy AirDrop in No Time - Learn From Our Ultimate 16 Tips!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-elevate-your-characters-audio-presence-in-free-fire-naturally-for-2024/"><u>How to Elevate Your Character's Audio Presence in Free Fire, Naturally for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-mastery-over-iphone-hdr-issues-with-4-best-practices-for-editors/"><u>In 2024, [Advanced] Mastery Over iPhone HDR Issues with 4 Best Practices for Editors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027605305-mkv/"><u>MKVファイルを携帯電話画面に表示する方法とトラブルシューティング</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-video-privacy-made-easy-top-blur-apps-for-face-and-background/"><u>New Video Privacy Made Easy Top Blur Apps for Face and Background</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sketch-masters-on-ipados-top-8-artistic-apps/"><u>Sketch Masters on iPadOS Top 8 Artistic Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027237111-youtube/"><u>YouTubeビデオの向き変更に必要な簡単ガイド - どのようにすれば実現できますか？</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-generate-funny-image-jokes-at-flipfotohub/"><u>[New] Generate Funny Image Jokes at FlipFotoHub</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-shoppers-ultimate-list-of-top-rated-webcams/"><u>[Updated] Shopper’s Ultimate List of Top-Rated Webcams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-personalizing-your-windows-photos-experience-add-filters-sound/"><u>2024 Approved Personalizing Your Windows Photos Experience Add Filters, Sound</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-at-the-helm-unveiling-the-top-8-productive-chrome-extensions/"><u>AI at the Helm: Unveiling the Top 8 Productive Chrome Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-detective-duty-step-into-4-virtual-investigations/"><u>AI-Powered Detective Duty: Step Into 4 Virtual Investigations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/blending-iphone-videos-a-simple-guide/"><u>Blending iPhone Videos A Simple Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/communicate-instantly-with-chatgpt/"><u>Communicate Instantly with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-sphere-shifts-with-impending-gpt-4-release/"><u>DIY Sphere Shifts with Impending GPT-4 Release</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-90-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor 90 Phone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-innovation-in-visuals-a-guide-to-the-leading-5-monitors/"><u>In 2024, Innovation in Visuals A Guide to the Leading 5 Monitors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-best-5-ai-prompt-generators-for-any-ai-tool/"><u>The Best 5 AI Prompt Generators For Any AI Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-openais-core-technologies/"><u>Unlocking OpenAI's Core Technologies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ish-virtual-spectators-boosting-youtube-traffic/"><u>Vanquish Virtual Spectators Boosting YouTube Traffic</u></a></li>
 </ul></div>
 

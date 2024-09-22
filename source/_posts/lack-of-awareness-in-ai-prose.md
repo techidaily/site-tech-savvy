@@ -1,7 +1,7 @@
 ---
 title: Lack of Awareness in AI Prose
-date: 2024-09-16T16:35:41.924Z
-updated: 2024-09-17T16:36:40.625Z
+date: 2024-09-16T18:51:54.039Z
+updated: 2024-09-22T16:32:39.016Z
 tags:
   - chatgpt
   - open-ai
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/8d42a5be41c7b4a2ee5933ca8170ed38361404ba7
  AI chatbots like ChatGPT are designed to mimic natural human language as much as possible. So while AI text may have discernable patterns, those patterns are not so obvious even to a powerful tool like ChatGPT. This is why ChatGPT can not spot its own writing, as well as [why AI-text detector tools do not work](https://www.makeuseof.com/ai-content-detectors-dont-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Recognize Its Own Writing In the Future?
@@ -96,19 +96,20 @@ thumbnail: https://thmb.techidaily.com/8d42a5be41c7b4a2ee5933ca8170ed38361404ba7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-optimal-tools-for-high-quality-zoom-recordings/"><u>[New] Optimal Tools for High-Quality Zoom Recordings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-reinstating-windows-photo-viewer-on-windows-10-a-twin-strategy/"><u>[New] Reinstating Windows Photo Viewer on Windows 10 A Twin Strategy</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-key-disparities-in-360-degree-and-vr-videos/"><u>[Updated] The Key Disparities in 360-Degree & VR Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/crucial-factors-to-evaluate-when-investing-in-a-new-gaming-console/"><u>Crucial Factors To Evaluate When Investing in a New Gaming Console</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-open-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-haptic-realities-now/"><u>In 2024, Haptic Realities Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mpeg-to-mp4-conversion-mastery-updated-methods-for-seamless-format-switching-on-all-platforms/"><u>MPEG to MP4 Conversion Mastery: Updated Methods for Seamless Format Switching on All Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/page-not-found-discover-how-wonderfox-leads-you-right-where-you-need-to-go/"><u>Page Not Found? Discover How WonderFox Leads You Right Where You Need To Go</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speedy-disney-disc-extraction-the-best-dvd-ripper-tools-online/"><u>Speedy Disney Disc Extraction: The Best DVD Ripper Tools Online</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speedy-mic-testing-tutorial-achieve-perfect-sound-fidelity-without-hassle/"><u>Speedy Mic Testing Tutorial - Achieve Perfect Sound Fidelity Without Hassle</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-accurate-dvd-to-dvd-duplication-using-windows-11-and-earlier-versions/"><u>Step-by-Step Guide: Accurate DVD to DVD Duplication Using Windows 11 & Earlier Versions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-mts-videos-into-compatible-formats-via-computer-or-web-applications/"><u>Step-by-Step Guide: Transforming MTS Videos Into Compatible Formats via Computer or Web Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/telegram-upload-guide-sending-videos-over-2gb/"><u>Telegram Upload Guide: Sending Videos Over 2GB</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-digital-migration-made-simple-top-5-file-transfer-routes-for-computers/"><u>[Updated] In 2024, Digital Migration Made Simple Top 5 File Transfer Routes for Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-change-webm-files-into-wav-format-with-movavi/"><u>Free Online Converter: Change WebM Files Into WAV Format with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuito-e-online-converter-imagens-em-formato-pgm-com-a-ferramenta-de-conversao-de-imagens-do-movavi/"><u>Gratuito E Online: Converter Imagens Em Formato PGM Com a Ferramenta De Conversão De Imagens Do Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-paso-a-paso-para-cambiar-imagenes-desde-raw-a-jpg-sin-coste-mediante-movavi/"><u>Guía Paso a Paso Para Cambiar Imágenes Desde RAW a JPG Sin Coste Mediante Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-change-your-voice-in-a-song-lyric-video-tips-for-perfect-audio-effects-with-voice-modulation-software/"><u>How To Change Your Voice In A Song Lyric Video: Tips for Perfect Audio Effects with Voice Modulation Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-open-and-watch-swf-files-easy-guide-by-movieviewer/"><u>How to Open and Watch SWF Files - Easy Guide by MovieViewer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-upload-videos-on-instagram-from-your-computer-pc-or-mac-easy-guide/"><u>How to Upload Videos on Instagram From Your Computer (PC or Mac) - Easy Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/les-12-techniques-ingredients-pour-converter-du-raw-cr2-en-jpg-via-des-serveurs-virtuels-et-des-pcs-guide-de-2024/"><u>Les 12 Techniques Ingrédients Pour Converter Du RAW CR2 En JPG Via Des Serveurs Virtuels Et Des PCs - Guide De 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/live-photography-to-continuous-visual-storytelling-for-2024/"><u>Live Photography to Continuous Visual Storytelling for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/preeminent-6-social-media-sites-favored-by-professionals/"><u>Preeminent 6 Social Media Sites Favored by Professionals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-your-troubled-realtek-rtl8723be-network-adapter-drivers/"><u>Quick Fixes for Your Troubled Realtek RTL8723BE Network Adapter Drivers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-complete-selection-of-free-online-meeting-applications/"><u>The Complete Selection of FREE Online Meeting Applications</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-note-30-vip-racing-edition-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Note 30 VIP Racing Edition without backup.</u></a></li>
+<li><a href="https://facebook.techidaily.com/whatsapp-extends-timeline-for-privacy-update-announcement/"><u>WhatsApp Extends Timeline for Privacy Update Announcement</u></a></li>
 </ul></div>
 

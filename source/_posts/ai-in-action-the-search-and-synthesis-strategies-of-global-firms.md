@@ -1,7 +1,7 @@
 ---
 title: "AI in Action: The Search and Synthesis Strategies of Global Firms"
-date: 2024-09-15T16:23:29.449Z
-updated: 2024-09-17T16:16:12.743Z
+date: 2024-09-17T18:22:23.734Z
+updated: 2024-09-22T17:17:12.076Z
 tags:
   - chatgpt
   - open-ai
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
  Google, on the other hand, is also coming up with new AI features of its own. Google launched its [ChatGPT-like chatbot called Bard](http://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) , but eventually, the company wants to bring AI features into its main products as well. This includes the company's regular search experience, where AI-generated answers will complement, not replace, regular search results.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Will I Be Able to Use Generative AI Search?
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
  As for actual AI-powered search engines, you can now join the waitlist for "the new Bing" at Microsoft's website. As for Google, there's no waitlist, but the company might eventually open up its work on AI sometime over the next few months.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generative AI Search is Great
@@ -105,19 +105,18 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/mts-mts/"><u>.MTSファイルを組み合わせる最適な手法 - MTS動画連結ガイド</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastering-fast-fb-videos-innovative-techniques-and-software-roundup/"><u>[New] 2024 Approved Mastering Fast FB Videos Innovative Techniques and Software Roundup</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-audio-storytelling-in-media-production-masterclass/"><u>[New] Audio Storytelling in Media Production Masterclass</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-perfecting-cinematography-using-luts-for-polished-colors-for-2024/"><u>[New] Perfecting Cinematography Using Luts for Polished Colors for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unlocking-popularity-a-comprehensive-list-of-instagrams-top-25-tags/"><u>[New] Unlocking Popularity A Comprehensive List of Instagram's Top 25 Tags</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-srt-editing-a-comprehensive-mac-guide/"><u>2024 Approved Mastering SRT Editing A Comprehensive Mac Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-blade-a73-5g-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Blade A73 5G using Video Repair Utility?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-recording-skype-meetings-on-modern-operating-systems/"><u>In 2024, Recording Skype Meetings on Modern Operating Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-sharing-high-resolution-videos-on-whatsapp-explore-three-strategies-for-success/"><u>Mastering the Art of Sharing High-Resolution Videos on WhatsApp - Explore Three Strategies for Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/midi-to-wav-converter-gratis-software-fur-windows-10/"><u>Midi to Wav Converter - Gratis Software Für Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movipadiphone/"><u>MOVファイルがiPad/iPhone上で再生しない問題：その理由と対策詳細</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-cadence-in-coding-envisioning-the-leading-luminaries-amongst-ai-music-architects/"><u>New In 2024, Cadence in Coding Envisioning the Leading Luminaries Amongst AI Music Architects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-transfers-of-sony-vegas-avi-files-top-strategies-revealed/"><u>Seamless Transfers of Sony Vegas AVI Files: Top Strategies Revealed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-features-of-the-garmin-forerunner-945-expert-gps-smartwatch-analysis/"><u>Top Features of the Garmin Forerunner 945: Expert GPS Smartwatch Analysis</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-guide-to-submit-your-podcast-successfully/"><u>[New] Guide to Submit Your Podcast Successfully</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-perfect-your-skype-screen-record-with-obs/"><u>[Updated] Perfect Your Skype Screen Record with OBS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-swiftness-at-a-click-managing-youtubes-video-speed-settings/"><u>[Updated] Swiftness at a Click Managing YouTube's Video Speed Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vob-mjpeg-movavi/"><u>網路直接無障礙 VOB 到 MJPEG 轉換 - 使用 Movavi 工具</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-techniques-for-acquiring-pristine-images-for-2024/"><u>Expert Techniques for Acquiring Pristine Images for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/legal-harmonies-unpacking-music-policy-on-instagram/"><u>Legal Harmonies Unpacking Music Policy on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quickstream-simple-steps-for-live-podcast-broadcasting/"><u>Quickstream Simple Steps for Live Podcast Broadcasting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tutoriel-masterclass-pour-la-fabrication-de-screencasts-avec-movavi-guide-exhaustif/"><u>Tutoriel Masterclass Pour La Fabrication De Screencasts Avec Movavi : Guide Exhaustif</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-hardware-through-toms-lens/"><u>Unveiling the Latest in PC Hardware Through Tom's Lens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-media-library-with-movavi-premium-video-converter-on-sale/"><u>Upgrade Your Media Library with Movavi - Premium Video Converter on Sale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wma-swf-online/"><u>WMA 파일을 SWF로 무료 변환 - Online 서비스</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wmvogv-onlinetoolscom/"><u>WMV/OGV 이미지를 무료로 스트리밍하는 방법 - Onlinetools.com</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webptiff-movavi/"><u>무료 혼합 WEBP/TIFF 변환 - Movavi 사용자가 원하는 소스 이미지에 대한 안내</u></a></li>
 </ul></div>
 

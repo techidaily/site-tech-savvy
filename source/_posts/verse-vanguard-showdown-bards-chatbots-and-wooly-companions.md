@@ -1,7 +1,7 @@
 ---
 title: "Verse Vanguard Showdown: Bards, ChatBots & Wooly Companions"
-date: 2024-09-13T16:11:28.468Z
-updated: 2024-09-17T16:21:49.689Z
+date: 2024-09-16T18:51:25.779Z
+updated: 2024-09-22T18:53:27.648Z
 tags:
   - chatgpt
   - open-ai
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/c0dd113ef640e63463952867f5a2b0cf9994895a1
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -86,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/c0dd113ef640e63463952867f5a2b0cf9994895a1
  None of our models could respond that the correct term for a pea-shaped object is "pisiform," with ChatGPT going so far as to suggest that peas have a "three-dimensional geometric shape that is perfectly round and symmetrical."
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
 
@@ -104,28 +104,15 @@ thumbnail: https://thmb.techidaily.com/c0dd113ef640e63463952867f5a2b0cf9994895a1
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the [best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/).
 
@@ -146,6 +133,19 @@ thumbnail: https://thmb.techidaily.com/c0dd113ef640e63463952867f5a2b0cf9994895a1
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
  You read it here first, folks.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -172,17 +172,21 @@ thumbnail: https://thmb.techidaily.com/c0dd113ef640e63463952867f5a2b0cf9994895a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-optimized-obs-operations-on-android-platforms/"><u>[New] 2024 Approved Optimized OBS Operations on Android Platforms</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-simplifying-the-process-sharing-tiktok-content-with-facebook/"><u>[New] 2024 Approved Simplifying the Process Sharing TikTok Content with Facebook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-spectral-stories-telling-tales-through-color/"><u>[New] Spectral Stories Telling Tales Through Color</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726026946814-flac/"><u>「一括変換手順：FLACを使った最高音質のハイレゾビットアップテクニック」</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directx-management-downloading-and-updating-made-simple/"><u>DirectX Management: Downloading & Updating Made Simple</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-m14-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy M14 5G FRP Bypass</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-14-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi 14 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-gt-3-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme GT 3 and Browser | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reignite-printing-with-simple-tips-for-canon-windows/"><u>Reignite Printing with Simple Tips for Canon, Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ipad-supported-video-formats-and-easy-conversion-tips/"><u>Understanding iPad Supported Video Formats & Easy Conversion Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wechat-pc/"><u>WeChat 通話の記録・再生: PCやスマートフォンでの手引き</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-integrating-sounds-and-music-into-your-instagram-videos/"><u>[New] Integrating Sounds and Music Into Your Instagram Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-leading-video-technology-of-2024-our-top-10-picks/"><u>[New] Leading Video Technology of 2024 – Our Top 10 Picks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-enhance-vfx-quality-best-tiktok-watermark-removers/"><u>[Updated] In 2024, Enhance VFX Quality Best TikTok Watermark Removers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-quick-thumbnail-tips-for-youtube-success/"><u>2024 Approved Quick Thumbnail Tips for YouTube Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bert-and-gpt-explained-the-linguistic-frontier/"><u>BERT and GPT Explained: The Linguistic Frontier</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolving-developer-workflows-with-ai/"><u>Evolving Developer Workflows with AI</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-moto-g-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-sign-up-to-use-the-ai-powered-bing-search-engine/"><u>How to Sign Up to Use the AI-Powered Bing Search Engine</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-images-with-ae-luts-step-by-step/"><u>In 2024, Optimizing Images with AE LUTs Step-by-Step</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-artificial-intelligence-in-literature-best-book-suggestion-apps/"><u>Leveraging Artificial Intelligence in Literature: Best Book Suggestion Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-thought-outdoing-the-original-test/"><u>Mastering Thought: Outdoing the Original Test</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/questioning-the-benefit-of-ai-driven-chat-bots/"><u>Questioning the Benefit of AI-Driven Chat Bots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-quicker-periscope-livestreams/"><u>Tips for Quicker Periscope Livestreams</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-dont-pay-full-price-4-clever-ways-to-get-filmora-discount-codes-for-2024/"><u>Updated Dont Pay Full Price 4 Clever Ways to Get Filmora Discount Codes for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/we-tried-mistral-ais-le-chat-ai-chatbot-and-heres-how-it-compares-to-chatgpt/"><u>We Tried Mistral AI's Le Chat AI Chatbot, and Here's How It Compares to ChatGPT</u></a></li>
 </ul></div>
 

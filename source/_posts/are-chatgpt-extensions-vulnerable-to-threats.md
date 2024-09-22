@@ -1,7 +1,7 @@
 ---
 title: Are ChatGPT Extensions Vulnerable to Threats?
-date: 2024-09-13T16:16:05.094Z
-updated: 2024-09-17T16:02:38.185Z
+date: 2024-09-19T18:37:26.431Z
+updated: 2024-09-22T18:47:10.510Z
 tags:
   - chatgpt
   - open-ai
@@ -76,22 +76,16 @@ Close
 
  OpenAI's servers tend to get busy pretty quickly, and you'll often find that ChatGPT is unusable because of it. If you're looking for an alternative to rely on as your AI assistant, then there are quite a few legit chatbots that you can use.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Bing Chat
 
 ![Bing chat response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-response.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you cannot access OpenAI's ChatGPT, then the best alternative is [Bing Chat](https://www.bing.com/new). It is available on the desktop through the Microsoft Edge browser and on mobile via the Bing search app. Bing Chat is highly conversational and can provide sources from the web for all of its responses.
 
@@ -105,27 +99,27 @@ Close
 
  But while Perplexity works well as a search-engine-cum-chatbot, its conversational abilities could be better. It works best as a research tool rather than an AI assistant. Still, the fact that you can download and use it without signing up is incredible, compared to other third-party apps that require your personal info one way or the other.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Nova AI
 
 ![Nova AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nova-ai-response.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Available as a web, mobile, and watchOS app, [Nova AI](http://novaapp.ai/) is a worthy ChatGPT alternative that you can use to have a friendly conversation, ask questions, and conduct research. However, you will have to sign up and log in before use.
 
  The basic functionality is pretty much the same as ChatGPT. Type a prompt and Nova will respond back with a coherent and detailed response. What's surprising is that the conversational abilities are on par with ChatGPT. It's available on both Android and iOS, making it one of the best cross-platform chatbots out there.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Watch Out for Shady Third-Party ChatGPT Apps and Browser Extensions
 
@@ -152,20 +146,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-engineering-captivating-video-teasers-for-online-presence/"><u>[New] 2024 Approved Engineering Captivating Video Teasers for Online Presence</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-perfect-your-strategy-top-rated-techniques-for-video-marketing/"><u>[New] Perfect Your Strategy Top-Rated Techniques for Video Marketing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-creating-memorable-youtube-shorts-10-must-do-tips/"><u>2024 Approved Creating Memorable YouTube Shorts - 10 Must-Do Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030109700-dvd/"><u>最新オファー! 国際標準の日本語DVDコピーツールを含む、リーズナブルなソフト選び方 - 今すぐダウンロード</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/1724313138730-abbyyocr/"><u>ABBYYの最新OCRソリューション – 複雑な帳票レイアウトをスキャンしてデータ抽出と自由出力に対応</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/craft-engaging-youtube-stays-strategies-to-shine-without-thousand-supporters/"><u>Craft Engaging YouTube Stays Strategies to Shine without Thousand Supporters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028458378-freemake/"><u>Freemakeビデオ変換ツールの不通知事情とその解消方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030344163-gopro/"><u>GoPro映像上下反転技術：ステップバイステップで学ぶ</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy M14 5G Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mrsa-is-an-example-of-a-bacteria-that-has-developed-resistance-to-commonly-used-antibiotics-like-methicillin/"><u>MRSA Is an Example of a Bacteria that Has Developed Resistance to Commonly Used Antibiotics Like Methicillin.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-step-by-step-walkthrough-on-how-to-play-pokemon-go/"><u>Ultimate Step-by-Step Walkthrough on How to Play 'Pokémon Go'</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028589953-youtube/"><u>YouTubeで動画として利用可能なスクリーンショットのアップロード手順</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028890848-youtubemp3/"><u>YouTubeでMP3ファイルのアップロード手順解説</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029646716-iphoneyoutube/"><u>ステップバイステップ: IPhoneにYouTube音楽コンテンツをダウンロードする方法</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-professional-videographers-choice-for-screen-recordings/"><u>[New] 2024 Approved Professional Videographer's Choice for Screen Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anonymized-chatgpt-interactions-with-a-vpn/"><u>Anonymized ChatGPT Interactions with a VPN?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chagpts-side-hustle-guide-profitability-in-focus/"><u>ChaGPT's Side Hustle Guide: Profitability in Focus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-dilemma-properly-set-up-yet-unresponsive/"><u>Device Dilemma: Properly Set Up Yet Unresponsive</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-lava-yuva-3-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Lava Yuva 3 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-knowledge-for-exporting-chatgpt-data-sequences/"><u>Essential Knowledge for Exporting ChatGPT Data Sequences</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-nokia-xr21-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Nokia XR21 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nubia-red-magic-9-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nubia Red Magic 9 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jestful-journey-through-tech-portable-computing-and-vpn-evolution/"><u>Jestful Journey Through Tech: Portable Computing & VPN Evolution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/limpact-de-lanalyse-de-procedes-sur-les-ameliorations-des-performances-saisons-dexplications-avec-des-donnees-precise/"><u>L'Impact De L'Analyse De Procédés Sur Les Améliorations Des Performances - Saisons D'Explications Avec Des Données Précise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ai-landscapes-mastering-the-art-of-transfer-learning/"><u>Navigating AI Landscapes: Mastering the Art of Transfer Learning</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-mac-users-rejoice-best-alternatives-to-pinnacle-studio/"><u>New 2024 Approved Mac Users, Rejoice! Best Alternatives to Pinnacle Studio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rethinking-ai-assessment-beyond-the-turing-trials/"><u>Rethinking AI Assessment Beyond the Turing Trials</u></a></li>
 </ul></div>
 

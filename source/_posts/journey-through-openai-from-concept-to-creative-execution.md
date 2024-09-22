@@ -1,7 +1,7 @@
 ---
 title: "Journey Through OpenAI: From Concept to Creative Execution"
-date: 2024-09-13T16:37:51.480Z
-updated: 2024-09-17T16:29:48.642Z
+date: 2024-09-20T17:54:33.793Z
+updated: 2024-09-22T18:04:45.991Z
 tags:
   - chatgpt
   - open-ai
@@ -62,6 +62,19 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 ![Text completion model test via CLI more complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli-more-complete.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Speech-to-Text
 
  You can transcribe and translate audio speech using the OpenAI transcription and translation endpoints. The speech-to-text endpoints are based on the Whisper v2-large model, developed through large-scale weak supervision.
@@ -71,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  The endpoint usage is simple. All you have to do is to supply the model with an audio file and call the **openai.Audio.translate** or **openai.Audio.transcribe** endpoint to translate or transcribe it respectively. These endpoints accept a maximum file size of 25 MB and support most audio file types, including mp3, mp4, MPEG, MPGA, m4a, wav, and webm.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Text Comparison
@@ -100,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 ![OpenAI code completion command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-code-completion-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image Generation
@@ -120,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 ![Image generation test for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/image-generation-test-for-openai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the OpenAI API
 
 ![OpenAI API secret key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-api-secret-key-page.jpg)
@@ -140,10 +146,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 5. Present data (user requests and model responses) in a visually appealing UI, and your app is ready for real-world use.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Can You Create With the OpenAI API?
@@ -182,15 +188,19 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-comprehensive-guide-to-capturing-lol-showdowns-for-2024/"><u>[Updated] Comprehensive Guide to Capturing LOL Showdowns for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-seamless-sharing-strategies-insta-tik-tok-integration/"><u>[Updated] Seamless Sharing Strategies Insta-Tik Tok Integration</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-unveiling-the-core-technology-behind-superior-screen-captures-by-recmeister/"><u>2024 Approved Unveiling the Core Technology Behind Superior Screen Captures by Recmeister</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-motorola-g54-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Motorola G54 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-communication-skills-expert-advice-on-implementing-microsoft-chatgpt/"><u>Boost Your Communication Skills: Expert Advice on Implementing Microsoft ChatGPT</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/boosting-income-through-effective-video-marketing/"><u>Boosting Income Through Effective Video Marketing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-avi-speeches-into-high-quality-wav-format/"><u>Step-by-Step Guide: Transforming AVI Speeches Into High-Quality WAV Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-your-swf-videos-into-mp4-format/"><u>Step-by-Step Guide: Transforming Your SWF Videos Into MP4 Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-process-transforming-avchd-videos-in-handbrake-and-discovering-the-best-substitutes/"><u>Step-by-Step Process: Transforming AVCHD Videos in HandBrake and Discovering the Best Substitutes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranking-video-transcoder-effortlessly-convert-from-high-mb-to-low-mb-files/"><u>Top-Ranking Video Transcoder: Effortlessly Convert From High MB to Low MB Files</u></a></li>
+<li><a href="https://techidaily.com/fixed-arch-bluetooth-mouse-not-working-after-windows-11-creators-update/"><u>[FIXED] Arch Bluetooth Mouse Not Working After Windows 11 Creators Update</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-develop-engaging-facebook-visuals/"><u>[New] 2024 Approved Develop Engaging FACEbook Visuals</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-video-vanguard-sj6-legend-against-xiaomis-yi-kickstart-for-2024/"><u>[New] Video Vanguard SJ6 Legend Against Xiaomi's Yi Kickstart for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-simplified-approach-to-decoding-facebook-statistics/"><u>[Updated] Simplified Approach to Decoding Facebook Statistics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-spotify-how-to-halt-default-podcast-additions/"><u>[Updated] Spotify How to Halt Default Podcast Additions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-outstanding-storytelling-on-screen/"><u>2024 Approved Outstanding Storytelling on Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-13-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 without Passcode or Face ID</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rmvb-mov-movavi/"><u>網上無需金錢，從 RMVB 改為 MOV - Movavi 高效格式更新</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gestalte-deine-fotos-mit-professionellen-filtern-and-effekten-in-der-movavi-photo-editor-app/"><u>Gestalte Deine Fotos Mit Professionellen Filtern & Effekten in Der Movavi Photo-Editor App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-free-mpg-video-converter-supports-3gp-gif-mov-formats-movavi/"><u>Online Free MPG Video Converter - Supports 3GP, GIF, MOV Formats - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-balancing-act-weighing-up-chatgpts-role-in-innovative-narratives/"><u>The Balancing Act: Weighing Up ChatGPT’s Role in Innovative Narratives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-ultimate-screen-recording-tools-for-enhancing-your-roblox-gaming-sessions-with-movavi/"><u>Top 7 Ultimate Screen Recording Tools for Enhancing Your Roblox Gaming Sessions with Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-nubia-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Nubia IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/versie-wma-naar-aiff-met-algemene-vrije-lichamen-betalenlijk-echtzeit-converteerapp-movavi/"><u>Versie WMA Naar AIFF Met Algemene Vrije Lichamen: Betalenlijk Echtzeit-ConverteerApp - Movavi</u></a></li>
 </ul></div>
 

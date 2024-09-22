@@ -1,7 +1,7 @@
 ---
 title: Step Into the Future of Browsing with AgentGPT
-date: 2024-09-12T16:43:51.384Z
-updated: 2024-09-17T16:07:40.589Z
+date: 2024-09-21T16:46:14.611Z
+updated: 2024-09-22T17:17:37.947Z
 tags:
   - chatgpt
   - open-ai
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ![Assembling AgentGPT agent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/deal-finder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We have named our agent "Deal Finder." You can name your agent anything you want; just make sure that name is related to its function or goal. This will make it easy to identify your agents once you save several of them on your side panel.
@@ -76,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  Although the example provides a vague goal, based on how GPT works, I'd advise you to be more specific with your goals. The more specific you are, the more efficient and accurate your agent will be. Since goals are basically prompts, you may want to [level up your prompting skills](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) to make better goals.
 
  Now, before clicking that deploy agent button, let's first configure our agent.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Configure Agent
 
@@ -93,16 +86,16 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ![Basic settings in AgentGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/basic-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From here, you can set and configure your API, preferred language, model, and execution mode. Make sure to choose the latest model of GPT, as this will provide a better-performing agent. In terms of mode, you can either choose between **Automatic Mode** or **Pause Mode**. Automatic Mode allows your agent to continue executing tasks until it is finished, while Pause Mode makes your agent pause for every step it takes.
@@ -124,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  Once you've assembled and configured your agent, you hit **Deploy Agent** for your agent to start. You can monitor the entire process through the main console of the website. When finished, you can choose to save the agent to store the output within AgentGPT. You can also save your output locally as a PDF, Image, or just a text copy.
 
 ![PDF generated by AgentGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you can see, our Deal Finder agent successfully provided us with a promo code, a free shipping voucher, and a bundle offer!
 
@@ -158,20 +158,19 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-techniques-to-maximize-windows-11/"><u>[New] Exclusive Techniques to Maximize Windows 11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-insider-secrets-for-online-gamers-channel-templates/"><u>2024 Approved Insider Secrets for Online Gamers' Channel Templates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adopt-chatgpts-latest-features-a-comprehensible-guide/"><u>Adopt ChatGPT's Latest Features: A Comprehensible Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-renaissance-discover-how-gpts-new-features-elevate-us/"><u>AI Renaissance: Discover How GPT’s New Features Elevate Us</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-geforce-rtx-2070-driver-update-for-microsoft-windows-platforms-10-8-7/"><u>Get the Newest GeForce RTX 2070 Driver Update for Microsoft Windows Platforms (10, 8, 7)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-htc-u23-screen-sharing-drfone-by-drfone-android/"><u>How To Do HTC U23 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-lava-storm-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Lava Storm 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-rides-guide-to-requesting-gpt-for-auto-customization/"><u>Optimizing Rides: Guide to Requesting GPT for Auto Customization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-site-design-with-chatgpts-methodology/"><u>Revolutionize Your Site Design with ChatGPT’s Methodology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speed-up-your-workflow-prime-10-ai-tools-for-pdfs/"><u>Speed Up Your Workflow: Prime 10 AI Tools for PDFs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/strategies-for-smooth-running-hp-screens/"><u>Strategies for Smooth-Running HP Screens</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-silent-guardians-of-online-communication-ai-restrictions-and-you/"><u>The Silent Guardians of Online Communication: AI Restrictions & You</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-tools-amplifying-chatgpt-and-vs-code-functionality/"><u>Top 6 Tools: Amplifying ChatGPT and VS Code Functionality</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-pioneering-online-presence-with-cutting-edge-360-videos-for-facebook/"><u>[New] 2024 Approved Pioneering Online Presence with Cutting-Edge 360 Videos for Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-rainbow-six-extraction-crashing-on-pc/"><u>[SOLVED] Rainbow Six Extraction Crashing on PC</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ion-of-chiseled-cheeks-starting-your-youtube-aesthetic-venture-for-2024/"><u>Champion of Chiseled Cheeks Starting Your YouTube Aesthetic Venture for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cracking-gpts-code-exposing-ai-realities/"><u>Cracking GPT's Code: Exposing AI Realities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-palm-2-versus-ais-gpt-4-comparative-analysis/"><u>Google's PaLM 2 Versus AI's GPT-4: Comparative Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-a1-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo A1 5G Lock Screen Password</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-impact-a-guide-to-customizing-game-banners/"><u>In 2024, Maximizing Impact A Guide to Customizing Game Banners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-search-of-ultimate-generative-genius-notion-or-gpt-3/"><u>In Search of Ultimate Generative Genius? Notion or GPT-3?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-why-hackers-target-chatgpt-accounts/"><u>Inside Why Hackers Target ChatGPT Accounts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-spreadsheet-tasks-with-chatgpt-tech/"><u>Revolutionizing Spreadsheet Tasks with ChatGPT Tech</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/secrets-revealed-the-best-youtube-thumbnails-for-virality/"><u>Secrets Revealed The Best YouTube Thumbnails for Virality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-use-of-chatgpt-in-employment-searches/"><u>Strategic Use of ChatGPT in Employment Searches</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-mastering-the-art-of-silencing-sound-in-windows-10-videos/"><u>Updated 2024 Approved Mastering the Art of Silencing Sound in Windows 10 Videos</u></a></li>
 </ul></div>
 

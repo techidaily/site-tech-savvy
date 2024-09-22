@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Conversational Agents: Bard Vs. Bing Chatbot"
-date: 2024-09-16T16:26:11.539Z
-updated: 2024-09-17T16:21:58.668Z
+date: 2024-09-21T17:50:33.879Z
+updated: 2024-09-22T18:08:12.309Z
 tags:
   - chatgpt
   - open-ai
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bing Chat vs. Google Bard: Ease of Use
 
  There is nothing complicated about either model. If you have used a messaging app, you can use these tools. However, we did notice some differences that are relevant here.
@@ -81,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
@@ -96,7 +82,21 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As both platforms are going through rapid development, the user experience will continue to improve.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
 
@@ -107,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
  GPT-4 is a generative model. It generates answers based on the text it's been trained on. By contrast, [LaMDA works differently](https://www.makeuseof.com/what-is-google-lamda-ai/)—it is a discriminative model, meaning it can distinguish between various kinds of text.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
 
@@ -130,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
  Both tools are incredibly powerful and can generate intelligent answers to any prompt. But both have pros and cons, and the ultimate choice is likely to be decided by factors like user preferences and the desired output type.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
 
@@ -154,20 +154,20 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-pro-simplified-youtube-live-streaming-with-obs/"><u>[Updated] In 2024, From Novice to Pro Simplified YouTube Live Streaming with OBS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030383855-2024youtube/"><u>「最新メソッド2024」YouTubeからのミュージックファイル、パソコンへ自由に！</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-frugal-success-in-acquiring-espn-footage-your-ultimate-diy-strategy-for-video-downloads/"><u>Achieve Frugal Success in Acquiring ESPN Footage - Your Ultimate DIY Strategy for Video Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-5-substitutes-for-screenflow-on-windows-and-macos-a-comprehensive-guide/"><u>Best 5 Substitutes for ScreenFlow on Windows and macOS: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easily-extract-and-save-animated-images-from-facebook-for-desktop-and-mobile-use/"><u>Easily Extract and Save Animated Images From Facebook for Desktop & Mobile Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-transfer-techniques-moving-the-dvd-film-interstellar-to-ios-devices/"><u>Effortless Transfer Techniques: Moving the DVD Film 'Interstellar' To iOS Devices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/elevate-your-live-streaming-with-phone-webcams-and-filming-hacks-for-2024/"><u>Elevate Your Live Streaming with Phone Webcams and Filming Hacks for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhancing-windows-11-ambiance-with-wallpaper-ideas/"><u>Enhancing Windows 11 Ambiance with Wallpaper Ideas</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-intern-to-innovator-the-metamate-movement/"><u>From Intern to Innovator: The Metamate Movement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029225629-gyao/"><u>Gyao動画の保存:最も簡単な２つの手順</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/overcome-lag-and-frame-drops-essential-hacks-for-a-fluid-hogwarts-legacy-gaming-experience-in-202n/"><u>Overcome Lag and Frame Drops: Essential Hacks for a Fluid Hogwarts Legacy Gaming Experience in 202N</u></a></li>
-<li><a href="https://fox-links.techidaily.com/premium-matchmakers-15-perfect-gear-compatible-with-gopro/"><u>Premium Matchmakers 15 Perfect Gear Compatible with GoPro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-guide-elgato-software-downloads/"><u>Quick and Simple Guide: Elgato Software Downloads</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-capturing-your-screen-in-windows-11-with-these-4-handy-tricks/"><u>The Complete Guide to Capturing Your Screen in Windows 11 with These 4 Handy Tricks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027635479-vob/"><u>VOBファイル編集手引き: 優れた無料編集ツール</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-guide-from-script-writing-to-final-audio-in-videos/"><u>[New] In 2024, Ultimate Guide From Script Writing to Final Audio in Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-top-10-non-vimeo-editors-for-user-generated-content-for-2024/"><u>[New] Top 10 Non-Vimeo Editors for User-Generated Content for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-convert-twitter-video-to-audiomp4webm/"><u>[Updated] In 2024, Convert Twitter Video to Audio/MP4/WebM</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-gratuita-di-video-m4v-a-mov-su-internet-tramite-il-servizio-convertimovavi-t1726233810812118/"><u>Conversione Gratuita Di Video M4V a MOV Su Internet Tramite Il Servizio ConvertiMovavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-rapida-e-gratuita-da-mp3-a-mp4-tramite-movavicom-prova-ora/"><u>Conversione Rapida E Gratuita Da MP3 a MP4 Tramite movavi.com – Prova Ora!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converta-seus-gifs-gratuitamente-em-bmp-no-movavi-ferramenta-de-conversao-on-line-sem-custo/"><u>Converta Seus GIFs Gratuitamente Em BMP No Movavi - Ferramenta De Conversão On-Line Sem Custo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converti-video-da-quicktime-ad-avi-su-internet-gratuito-con-movavi/"><u>Converti Video Da QuickTime Ad AVI Su Internet Gratuito Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/de-beste-manieren-om-mkv-tot-dvd-op-windowsmac-toe-te-konverteren/"><u>De Beste Manieren Om MKV Tot DVD Op Windows/Mac Toe Te Konverteren</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descubre-las-mejores-tecnicas-de-grabacion-para-tus-videos-de-tiktok-en-todos-los-equipos-usando-movavi/"><u>Descubre Las Mejores Técnicas De Grabación Para Tus Vídeos De TikTok en Todos Los Equipos Usando Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diferencas-essenciais-entre-formatos-de-video-mov-vs-mp4-explicado/"><u>Diferenças Essenciais Entre Formatos De Vídeo - MOV Vs. MP4 Explicado!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-lava-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Lava?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-risks-is-using-chatgpt-a-fireable-offense-exploring-10-scenarios/"><u>Navigating Risks: Is Using ChatGPT a Fireable Offense? Exploring 10 Scenarios</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-importance-of-accurate-slug-line-writing-in-screenplays/"><u>The Importance of Accurate Slug Line Writing in Screenplays</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-prime-cloud-storage-options/"><u>Unveiling Prime Cloud Storage Options</u></a></li>
 </ul></div>
 

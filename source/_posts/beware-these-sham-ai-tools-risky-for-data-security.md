@@ -1,7 +1,7 @@
 ---
 title: "Beware: These Sham AI Tools Risky for Data Security"
-date: 2024-09-10T16:20:16.599Z
-updated: 2024-09-17T16:04:13.095Z
+date: 2024-09-21T16:29:46.784Z
+updated: 2024-09-22T17:43:08.076Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
@@ -57,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
@@ -86,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
@@ -101,19 +102,6 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -142,20 +130,19 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-saturating-the-market-precision-in-sharing-through-shorts/"><u>[Updated] Saturating the Market Precision in Sharing Through Shorts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027644894-avidemux/"><u>映像の向き変える秘密: AVIDEMUXを使った直感的手法</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ual-hook-creating-captivating-youtube-thumbnails-to-drive-traffic-for-2024/"><u>A Visual Hook Creating Captivating YouTube Thumbnails to Drive Traffic for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-closed-to-open-mastering-srt-files-in-macos-for-2024/"><u>From Closed to Open Mastering SRT Files in macOS for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-avoiding-motion-illusions-tips-for-vr-users/"><u>In 2024, Avoiding Motion Illusions Tips for VR Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-review-of-facetunes-latest-updates/"><u>In 2024, Comprehensive Review of Facetune's Latest Updates</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mastering-the-art-of-recording-private-whatsapp-calls/"><u>In 2024, Mastering the Art of Recording Private WhatsApp Calls</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/kootek-laptop-cooler-evaluation-an-excellent-choice-for-optimal-performance/"><u>Kootek Laptop Cooler Evaluation: An Excellent Choice for Optimal Performance</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-best-fast-photo-viewer-for-windows-11/"><u>Top Best Fast Photo Viewer for Windows 11?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027697726-vlc/"><u>VLCメディアプレーヤー用動画コンパクト化 - より小さなファイルにしてください</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wavpackmp3wav/"><u>WavPack形式のファイルをMP3やWAVに効率良く変換するための手順</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wavwma-3/"><u>WAVファイルからWMAへの鮮明な品質保持: 3方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027330601-windows-1011/"><u>Windows 10/11初学者ガイド：ビデオから音声を取り除く手順</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-10flac/"><u>Windows 10上で効率的にFLAC音楽ファイル再生のコツ</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windowsiphone/"><u>WindowsとiPhoneで動画ファイル形式変換ガイド</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-exclusive-video-editing-software-just-for-vimeo-pros/"><u>[New] 2024 Approved Exclusive Video Editing Software Just For Vimeo Pros</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-precision-viewing-top-5-gaming-displays-with-hdmi-21-support-ps5/"><u>[Updated] 2024 Approved Precision Viewing Top 5 Gaming Displays with HDMI 2.1 Support [PS5]</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-joshis-success-youtube-earnings-strategy/"><u>[Updated] In 2024, Joshi's Success YouTube Earnings Strategy</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-optimized-vimeo-video-exporting-apps-for-2024/"><u>[Updated] Optimized Vimeo Video Exporting Apps for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024-top-10/"><u>2024 年度流行的 Top 10 逐格动画应用 - 快速浏览</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-optimize-your-online-presence-incorporating-video-filters-in-zoom/"><u>2024 Approved Optimize Your Online Presence Incorporating Video Filters in Zoom</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-guide-to-androids-best-video-editors/"><u>2024 Approved The Essential Guide to Android's Best Video Editors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-streaming-files-effortlessly-from-ts-to-wmv-for-free-with-movavi/"><u>Convert Streaming Files Effortlessly: From Ts to Wmv for Free with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converti-file-opus-a-formato-m4a-gratuitamente-con-moviemaker/"><u>Converti File Opus a Formato M4A Gratuitamente Con MovieMaker</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-troubleshooting-steps-resolving-last-epoch-errors-in-windowslinux-systems/"><u>Essential Troubleshooting Steps: Resolving 'Last Epoch' Errors in Windows/Linux Systems</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-x50iplus-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-xiaomi-14-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Xiaomi 14</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-file-audiovideo-in-avi-senza-costi-su-movavi-servizio-di-conversione-gratuito-online/"><u>Trasforma I File Audio/Video in AVI Senza Costi Su Movavi - Servizio Di Conversione Gratuito Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tutorial-rapide-transformation-de-fichiers-3gp-vers-groovy-3g2-en-ligne-sans-frais-utilisation-de-movavi/"><u>Tutorial Rapide : Transformation De Fichiers 3GP Vers Groovy 3G2 en Ligne Sans Frais, Utilisation De Movavi</u></a></li>
 </ul></div>
 

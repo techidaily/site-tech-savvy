@@ -1,7 +1,7 @@
 ---
 title: "Beneath the Surface: TruthGPT and Its Origins"
-date: 2024-09-14T16:33:39.669Z
-updated: 2024-09-17T16:06:32.846Z
+date: 2024-09-20T16:41:03.584Z
+updated: 2024-09-22T18:50:12.902Z
 tags:
   - chatgpt
   - open-ai
@@ -56,21 +56,22 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
 
  So, is this idea of a maximum truth-seeking AI even practical?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Building TruthGPT Is a Huge Challenge
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you [understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/), it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
@@ -80,13 +81,6 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
  Of course, accuracy can also be tackled from the algorithm side. However, irrespective of the algorithm, language ambiguity still represents a big problem for the accuracy of AI models. Even humans often struggle to accurately interpret a sentence or phrase's meaning, leading to misinformation. For AI models, ambiguity can lead to misinterpretations resulting in inaccuracies.
 
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is TruthGPT an Exciting Possibility?
 
@@ -111,16 +105,19 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-adding-borders-to-your-photos/"><u>[New] Mastering Instagram Adding Borders to Your Photos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-freely-stream-your-films-easy-to-use-mov-player-software/"><u>[Updated] Freely Stream Your Films Easy-to-Use MOV PLAYER Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enjoy-vr-on-planes-meta-quest-devices-now-function-above-ground/"><u>Enjoy VR on Planes: Meta Quest Devices Now Function Above Ground!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fine-tuning-film-views-through-zoom-adjustment/"><u>Fine-Tuning Film Views Through Zoom Adjustment</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone4k/"><u>IPhone上で最適化された4Kビデオ再生方法と問題解決ポイント</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-modifying-webex-meeting-captures-a-comprehensive-tutorial/"><u>Master the Art of Modifying Webex Meeting Captures - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-insta-ready-videos-three-simple-techniques-to-perfectly-crop-your-content/"><u>Mastering Insta-Ready Videos: Three Simple Techniques to Perfectly Crop Your Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-multifunctional-desktop-tools-a-guide-to-efficient-media-file-management/"><u>Mastering the Art of Multifunctional Desktop Tools: A Guide to Efficient Media File Management</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-creating-engaging-video-posts/"><u>The Ultimate Guide to Creating Engaging Video Posts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-15-video-compressors-optimize-your-pcs-performance-with-these-tools/"><u>Top 15 Video Compressors: Optimize Your PC's Performance with These Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-smooth-process-incorporating-igtv-in-stories/"><u>[New] Smooth Process Incorporating IGTV in Stories</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-embedding-yt-playlists-seamlessly-on-webpages/"><u>[Updated] Embedding YT Playlists Seamlessly on Webpages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024ai10/"><u>2024年度・人気無料AI絵画制作プラットフォーム上位10選【専門家推薦版】</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/neftiff-movavi/"><u>移動突破: NEF到TIFF的無限制免費轉換器 - 提供由Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-novel-approach-to-delivery-reinvented-box-revelations/"><u>A Novel Approach to Delivery Reinvented Box Revelations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-free-and-premium-video-combiner-tools-for-windows-10-a-complete-guide/"><u>Best Free & Premium Video Combiner Tools for Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-of-blind-faith-in-ai-top-6-concerns-to-consider/"><u>Beware of Blind Faith in AI: Top 6 Concerns to Consider</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-convertir-archivo-mov-a-formato-de-linea-libre-usando-herramienta-online-sin-coste-movavi-explicado-paso-a-paso/"><u>Cómo Convertir Archivo MOV a Formato De Línea Libre Usando Herramienta Online Sin Coste - MOVavi Explicado Paso a Paso</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-ai-interaction-the-mechanics-behind-chatbot-conversations/"><u>Demystifying AI Interaction: The Mechanics Behind Chatbot Conversations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/losing-no-quality-the-ultimate-guide-on-combining-multiple-dvds-into-a-single-file/"><u>Losing No Quality: The Ultimate Guide on Combining Multiple DVDs Into a Single File</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mkv-wmv-movavi/"><u>MKV, WMV 포맷터에서 원거리로 무료 전환하기 - Movavi의 가장 나은 방법!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavis-solution-convert-snd-formats-to-mp3wav-online-at-no-cost/"><u>Movavi's Solution: Convert .SND Formats to MP3/WAV Online at No Cost</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-a-dead-sound-blaster-microphone-expert-tips-and-solutions/"><u>Reviving a Dead Sound Blaster Microphone - Expert Tips and Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riconverti-i-tuoi-file-audio-wav-in-formato-video-webm-su-internet-senza-costi-traduci-audio-a-filmato-via-webmovavi/"><u>Riconverti I Tuoi File Audio WAV in Formato Video WEBM Su Internet Senza Costi - Traduci Audio a Filmato via Webmovavi</u></a></li>
 </ul></div>
 

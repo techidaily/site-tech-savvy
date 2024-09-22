@@ -1,7 +1,7 @@
 ---
 title: Meta Pauses Production of Current & Future 'Quest' Virtual Reality Devices, Sources Confirm
-date: 2024-09-19 22:36:32
-updated: 2024-09-20 10:24:17
+date: 2024-09-19T17:07:55.462Z
+updated: 2024-09-22T18:38:32.615Z
 tags:
   - ar+vr
 categories:
@@ -64,11 +64,37 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-audiovisual-alchemy-transform-your-footage-with-these-5-vimeo-editing-methods/"><u>[New] 2024 Approved Audiovisual Alchemy Transform Your Footage with These 5 Vimeo Editing Methods</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>[New] 2024 Approved Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-threads-in-time-looms-guide-to-capturing-moments/"><u>[New] In 2024, Threads in Time Loom’s Guide to Capturing Moments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-change-mp4-videos-to-gif-format-using-movavi/"><u>Free Online Converter: Change MP4 Videos to GIF Format Using Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-mp4-to-avi-format-with-moveavi/"><u>Free Online Converter: Transform MP4 to AVI Format with Moveavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuitamente-converti-file-webp-in-formato-gif-su-internet-con-il-servizio-facile-di-movavi/"><u>Gratuitamente Converti File WEBP in Formato GIF Su Internet Con Il Servizio Facile Di Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuite-de-conversion-mp3-en-videos-flv-avec-movavi/"><u>Gratuité De Conversion MP3 en Vidéos FLV Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/i-piu-ottimi-applicazioni-gratuite-per-la-produzione-di-musica-guida-settembre-202-italia/"><u>I Più Ottimi Applicazioni Gratuite per La Produzione Di Musica: Guida Settembre 202지 [Italia]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/journey-through-high-dynamic-range-pc-viewing-and-creative-pursuits-for-2024/"><u>Journey Through High Dynamic Range PC Viewing & Creative Pursuits for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/la-solution-definitive-pour-gerer-des-fichiers-vob-top-5-lecteurs-compatibles-avec-windows-et-mac-explique/"><u>La Solution Définitive Pour Gérer Des Fichiers VOB : Top 5 Lecteurs Compatibles Avec Windows Et Mac, Expliqué!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/logiciel-de-montage-video-professionnel-movavi-suite-pour-le-marketing-dentreprise/"><u>Logiciel De Montage Vidéo Professionnel : Movavi Suite Pour Le Marketing D'Entreprise</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-excel-tasks-with-these-3-powerful-chatgpt-tricks/"><u>Mastering Excel Tasks with These 3 Powerful ChatGPT Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-hp-deskjet-3755-inkjet-all-in-one-printer-driver-installation-guide-for-windows-1087/"><u>New HP DeskJet 3755 Inkjet All-in-One Printer Driver Installation Guide for Windows 10/8/7</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-file-eraser-5-windows-standard-en-setting-scheduler-for-erasing-files-folders/"><u>Stellar File Eraser 5 Windows Standard en Setting Scheduler for Erasing Files Folders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-quintet-of-success-how-chatgpt-skyrocketed/"><u>The Quintet of Success: How ChatGPT Skyrocketed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-facebooks-visual-library-the-ultimate-photo-search-tutorial/"><u>Unlocking Facebook's Visual Library: The Ultimate Photo Search Tutorial</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

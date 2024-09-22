@@ -1,7 +1,7 @@
 ---
 title: "Deceitful GPT Add-On: Harvests Facebook Logins"
-date: 2024-09-10T16:23:37.628Z
-updated: 2024-09-17T16:15:13.814Z
+date: 2024-09-16T18:59:20.141Z
+updated: 2024-09-22T16:59:50.782Z
 tags:
   - chatgpt
   - open-ai
@@ -51,10 +51,10 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -78,14 +78,16 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/achieve-smarter-web-development-with-integrated-gpt-3/"><u>Achieve Smarter Web Development with Integrated GPT-3</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/assessing-the-impact-of-ai-on-search-algorithms/"><u>Assessing the Impact of AI on Search Algorithms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-chatgpts-impact-on-personal-data-safety/"><u>Evaluating ChatGPT's Impact on Personal Data Safety</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-interaction-with-these-top-5-tools/"><u>Mastering AI Interaction with These Top 5 Tools</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/maximizing-your-amazon-prime-experience-with-toshibas-55lf711u20-fire-tv-reviewed/"><u>Maximizing Your Amazon Prime Experience with Toshiba's 55LF711U20 Fire TV Reviewed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/ultimate-index-ranked-6-fb-lite-downloads-for-2024/"><u>Ultimate Index Ranked 6 FB Lite Downloads for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-your-pc-potential-gpt-3s-repair-guide/"><u>Unleash Your PC Potential - GPT-3's Repair Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-top-9-innovative-websites-offering-unique-3d-graffiti-typefaces/"><u>[Updated] 2024 Approved Top 9 Innovative Websites Offering Unique 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-complete-guide-to-utilizing-zoom-in-windows-10/"><u>[Updated] A Complete Guide to Utilizing Zoom in Windows 10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-pc-best-8-video-capture-tools-for-windows-10-for-2024/"><u>[Updated] Elevate Your PC Best 8 Video Capture Tools for Windows 10 for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-12-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 12? Find the Best Solution Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-gpts-evolutionary-journey-from-1-to-4/"><u>Decoding GPT's Evolutionary Journey From 1 to 4</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-13-mini-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 13 mini with iTunes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/investigating-the-significance-of-facebooks-tactile-interaction/"><u>Investigating the Significance of Facebook's Tactile Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-designing-unique-chatgpt-experiences/"><u>Mastering GPT: Designing Unique ChatGPT Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-wave-on-iphones-chatgpt-written-for-you/"><u>New Wave on iPhones: ChatGPT' Written for You</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/non-gta-narratives-urban-games-of-similar-flair-for-2024/"><u>Non-GTA Narratives Urban Games of Similar Flair for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diving Into the World of SHAP Explaining AI
-date: 2024-09-15T16:43:00.344Z
-updated: 2024-09-17T16:13:04.833Z
+date: 2024-09-20T18:39:45.960Z
+updated: 2024-09-22T17:56:22.898Z
 tags:
   - chatgpt
   - open-ai
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
  Although it is still a work in progress, Shap-E is a step ahead of OpenAI's [POINT-E](https://openai.com/research/point-e), which produces 3D point clouds based on text prompts. The point clouds are limited in their expressiveness and resolution, often producing blurry or incomplete shapes.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generate 3D Models Using OpenAI's Shap-E
@@ -92,18 +92,15 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cinema-for-all-a-comparative-look-at-vimeo-and-youtube/"><u>[New] 2024 Approved Cinema for All? A Comparative Look at Vimeo & YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-navigate-easy-customization-for-youtube-channel-urls/"><u>[New] In 2024, Navigate Easy Customization for YouTube Channel URLs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-canons-lut-collection-maximize-image-impact-free-and-paid-choices/"><u>[Updated] 2024 Approved Canon’s LUT Collection Maximize Image Impact - FREE & Paid Choices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieving-harmony-using-ai-for-regular-meditation/"><u>Achieving Harmony: Using AI for Regular Meditation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-breakthrough-unlocking-six-new-frontiers-with-the-code-conductor/"><u>ChatGPT Breakthrough: Unlocking Six New Frontiers with the Code Conductor</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-v27e-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo V27e</u></a></li>
-<li><a href="https://extra-information.techidaily.com/effective-use-of-zoom-on-your-chrome-based-device/"><u>Effective Use of Zoom on Your Chrome-Based Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fitness-coaching-revolution-integrating-gpt-solutions/"><u>Fitness Coaching Revolution: Integrating GPT Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-technology-for-easy-web-app-development/"><u>Leveraging ChatGPT Technology for Easy Web App Development</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-lag-effective-solutions-for-deadlock-free-gaming-on-pc-and-ps5-platforms/"><u>Overcome Lag: Effective Solutions for Deadlock-Free Gaming on PC and PS5 Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prioritize-value-discard-the-unnecessary-gpt-enhancements/"><u>Prioritize Value: Discard the Unnecessary GPT Enhancements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reconciling-service-misalignment-in-chatgpts-external-links/"><u>Reconciling Service Misalignment in ChatGPT's External Links</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-strategies-leveraging-chatgpt-in-health-management/"><u>Top Strategies: Leveraging ChatGPT in Health Management</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-swift-growing-youtube-sources-for-inspiration/"><u>[Updated] Unveiling the Swift-Growing YouTube Sources for Inspiration</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-6s-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 6s for Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-your-tabletop-adventures-using-ai-inspiration/"><u>Boosting Your Tabletop Adventures Using AI Inspiration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exposing-ai-susceptibility-to-prompt-injection-techniques/"><u>Exposing AI Susceptibility to Prompt Injection Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-htc-u23-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass HTC U23 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-streaming-platforms-reviewed-and-rated/"><u>In 2024, Premier Streaming Platforms Reviewed & Rated</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-productivity-a-guide-to-gpt-3-at-your-service/"><u>Maximizing Productivity: A Guide to GPT-3 at Your Service</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-gpt-coding-utilizing-openais-platform-with-ease/"><u>Navigating Through GPT-Coding: Utilizing OpenAI's Platform with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-common-iphone-13-setbacks-a-step-by-step-fix-it-list/"><u>Overcoming Common iPhone 13 Setbacks - A Step-by-Step Fix It List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-excel-features-unattainable-by-chatgpt/"><u>Top Excel Features Unattainable by ChatGPT</u></a></li>
 </ul></div>
 

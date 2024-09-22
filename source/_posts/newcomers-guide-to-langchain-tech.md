@@ -1,7 +1,7 @@
 ---
 title: Newcomers' Guide to LangChain Tech
-date: 2024-09-13T16:23:23.398Z
-updated: 2024-09-17T16:06:22.922Z
+date: 2024-09-19T17:28:16.977Z
+updated: 2024-09-22T17:49:11.476Z
 tags:
   - chatgpt
   - open-ai
@@ -60,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Setting Up Your Development Environment
 
  First, [create a virtual environment](https://www.makeuseof.com/create-manage-python-virtual-environments/) and install the dependencies below:
@@ -82,10 +75,16 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
  The command above installs the packages and creates a virtual environment.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Import the Installed Dependencies
@@ -98,6 +97,13 @@ from langchain.memory import ConversationBufferWindowMemory`
 
  The LangChain classes outline and execute the language model chains.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Access OpenAI API Key
 
  Next, get the OpenAI API key. To access OpenAI’s API key, you must have an OpenAI account, then move to the [OpenAI API platform](https://platform.openai.com/).
@@ -106,26 +112,27 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-dashboard.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, click the **Create new secret key** button to get a new API key.
 
 ![OpenAI API key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-page.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Enter the requested name of the API key.
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-naming.jpeg)
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will receive a **secret key** prompt.
 
@@ -171,13 +178,6 @@ print(output)`
 
 ![Output of developing an application using LangChain](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-output.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Above is the expected output.
 
 ## The Rising Influence of LLMs
@@ -205,18 +205,21 @@ print(output)`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-live-skype-broadcasts-using-obs-software-for-2024/"><u>[New] Enhancing Live Skype Broadcasts Using OBS Software for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-tricks-to-improve-instagram-video-load-speeds-mobile/"><u>[New] In 2024, Tricks to Improve Instagram Video Load Speeds (Mobile)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-video-editors-unite-adobe-and-youtube-integration-tips/"><u>[Updated] 2024 Approved Video Editors Unite Adobe and YouTube Integration Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avchdm2tsmts/"><u>AVCHDフォーマットへのM2TS・MTS変換手順：徹底ガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-tools-and-software-how-to-convert-audio-files-from-aac-to-mp3-format-easily/"><u>Best Tools & Software: How to Convert Audio Files From AAC to MP3 Format Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/c00d36c4/"><u>C00D36C4エラーに見舞われた動画/音声再生 -修正手順の総集編</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-safe-methods-for-copying-and-transferring-content-from-dvds-and-cds/"><u>Comprehensive Guide: Safe Methods for Copying & Transferring Content From DVDs & CDs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/expert-advice-on-virtual-dialogue-how-to-excel-in-remote-conversations-for-2024/"><u>Expert Advice on Virtual Dialogue How to Excel in Remote Conversations for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-infinix-note-30-pro-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Infinix Note 30 Pro.</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/learn-the-best-6-alternative-streaming-platforms/"><u>Learn The Best 6 Alternative Streaming Platforms</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/mejor-guia-completa-de-extractores-gratuitos-de-dvd-en-windows-10-2020-transforma-tus-peliculas-desde-mp4-avi-y-wmv/"><u>Mejor Guía Completa De Extractores Gratuitos De DVD en Windows 10 (2020): Transforma Tus Películas Desde MP4, AVI Y WMV</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-ultimate-dvd-conversion-guide-from-physical-to-digital-in-no-time-for-2024/"><u>The Ultimate DVD Conversion Guide From Physical to Digital in No Time for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-or-fresh-install-audio-drivers-for-windows-7-directly-here/"><u>Update or Fresh-Install Audio Drivers for Windows 7 Directly Here</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-binge-worthy-vids-the-most-shared-content-on-fb-featured-here/"><u>[New] Binge-Worthy Vids! The Most Shared Content on FB Featured Here</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-swift-and-smooth-your-ultimate-guide-to-iphone-podcast-downloading/"><u>[New] Swift & Smooth Your Ultimate Guide to iPhone Podcast Downloading</u></a></li>
+<li><a href="https://driver-error.techidaily.com/download-asus-mb168b-graphics-card-drivers-compatible-with-windows-1078/"><u>Download ASUS MB168B Graphics Card Drivers Compatible with Windows 10/7/8</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-marketing-strategies-using-cookiebot-technology/"><u>Elevate Your Marketing Strategies Using Cookiebot Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/expedite-access-to-your-gaming-steam-id/"><u>Expedite Access to Your Gaming Steam ID</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-transforming-mxf-files-into-mp4-format-with-movavi/"><u>Free Online Conversion: Transforming MXF Files Into MP4 Format with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-video-creation-and-editing-on-your-mac-with-av-movivid-tutorials/"><u>Mastering Video Creation and Editing on Your Mac with Av MoviVid Tutorials</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nba-2k21-green-hiccup-patch-details-and-how-its-gone/"><u>NBA 2K21 Green Hiccup: Patch Details & How It's Gone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-change-your-m4r-tracks-to-high-quality-aiff-file-using-our-no-cost-online-tool/"><u>Seamlessly Change Your M4R Tracks to High-Quality AIFF File Using Our No-Cost Online Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-why-your-yahoo-mail-might-fail-to-receive-messages/"><u>Solving the Issue: Why Your Yahoo Mail Might Fail to Receive Messages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformar-archivos-de-video-3gp-a-formato-mp4-facilmente-y-sin-costo-usando-el-servicio-en-linea-de-convertir-videos-de-movavi/"><u>Transformar Archivos De Video 3GP a Formato MP4 Fácilmente Y Sin Costo Usando El Servicio en Línea De Convertir Videos De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-immagini-png-in-gif-gratuitamente-online-con-movavi/"><u>Trasforma Immagini PNG in GIF Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-note-13-proplus-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi Note 13 Pro+ 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/au-wmvmovavi/"><u>あなたのAU WMVを自由に変換：Movavi 無料オンラインツール</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gifogvmovavi/"><u>オンラインでフリーGIF/OGVファイルを効率よく変換:Movaviの方法</u></a></li>
 </ul></div>
 

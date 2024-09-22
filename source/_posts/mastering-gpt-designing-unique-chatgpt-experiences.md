@@ -1,7 +1,7 @@
 ---
 title: "Mastering GPT: Designing Unique ChatGPT Experiences"
-date: 2024-09-16T16:12:00.829Z
-updated: 2024-09-17T16:23:02.045Z
+date: 2024-09-19T17:21:26.056Z
+updated: 2024-09-22T16:29:08.087Z
 tags:
   - chatgpt
   - open-ai
@@ -70,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
  If you find that it's not fulfilling your instructions as well as you want, go back to the**Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Upload Files as a Knowledge Base
 
  In addition to backing up your GPT with rules, you can also upload files you would like your GPT to draw information from. In our case, we uploaded copies of the Player's Handbook by Jeremy Crawford and the Dungeon Master's Guide. Both are essential D&D books.
@@ -84,13 +91,6 @@ Here's how to upload source documents to your custom GPT:
  Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
 
  If, for instance, you were trying to make a GPT that is an expert in Florida tax laws, you would get all the Florida tax legal documents you can find and upload them here to form a knowledge base your GPT can work with.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add or Remove Capabilities
 
@@ -122,13 +122,6 @@ Go back when you're finished.
 
  Currently, you seem to be able to add only one action at a time. If you click the**Examples** dropdown menu, you'll see a few examples of schemas OpenAI has added to aid in creating your own schema.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Configure Conversation Starters
 
  Now that you've gotten most of the GPT building out of the way, you can add or remove conversation starters. They help you and others using your GPT to get into the flow of things.
@@ -139,10 +132,10 @@ Go back when you're finished.
 ![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can add more conversation starters as required.
@@ -153,15 +146,22 @@ You can add more conversation starters as required.
 
 ![Share dropdown menu in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/share-dropdown-menu-in-gpt-builder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While it won't make any difference, for now, you can choose whether you'd like to publish to the public, via links, or only to yourself. None of the sharing options work, by the way. We have to wait for an update. But, if you want friends to use your AI, return to ChatGPT's home, open the GPT's chat, and copy the URL in your browser's address bar.
 
  If you click the pencil icon in the share menu, you'll enter your builder profile, where you can change your GPT and profile options when this feature is fully released.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT's Limitations Still Apply to GPT Builder
@@ -185,20 +185,15 @@ You can add more conversation starters as required.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-ideal-places-to-step-into-new-realities-for-2024/"><u>[New] Ideal Places to Step Into New Realities for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-turbocharge-your-instagram-videos-online-tactics-for-2024/"><u>[New] Turbocharge Your Instagram Videos Online Tactics for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-8-best-video-conferencing-software-for-small-business-safely/"><u>[Updated] In 2024, 8 Best Video Conferencing Software for Small Business Safely</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-techniques-for-streaming-seminars-on-a-fee-free-basis/"><u>[Updated] Techniques for Streaming Seminars on a Fee-Free Basis</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-ideas-to-boost-package-prelude-joy/"><u>2024 Approved Innovative Ideas to Boost Package Prelude Joy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-more-with-ai-goal-setting-for-health-enhancement/"><u>Achieve More With AI: Goal-Setting for Health Enhancement</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/achieving-verified-on-instagram-accelerating-follower-count-through-effective-techniques-for-2024/"><u>Achieving Verified on Instagram Accelerating Follower Count Through Effective Techniques for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortlessly-share-massive-files-in-messenger-discover-these-four-tricks/"><u>Effortlessly Share Massive Files in Messenger: Discover These Four Tricks!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-capturing-the-moment-leading-recorder-analysis/"><u>In 2024, Capturing the Moment Leading Recorder Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-dall-e-with-gpt-4-for-ai-driven-visuals/"><u>Integrating DALL-E with GPT-4 for AI-Driven Visuals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interpretation-inquiry-which-wins-gpt3-or-google/"><u>Interpretation Inquiry: Which Wins, GPT3 or Google?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/investigating-chatgpts-influence-on-data-protection/"><u>Investigating ChatGPT's Influence on Data Protection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-through-claude-3s-features/"><u>Navigating Through Claude 3'S Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguard-digital-assets-block-scrapers/"><u>Safeguard Digital Assets: Block Scrapers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-echoes-of-privacy-recovering-from-a-hack-for-2024/"><u>[New] Echoes of Privacy Recovering From a Hack for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-convert-your-srt-files-for-free-with-top-websites/"><u>[Updated] Convert Your SRT Files for FREE with Top Websites</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-simplified-process-for-name-change-in-google-meet-laptopmobile-for-2024/"><u>[Updated] Simplified Process for Name Change in Google Meet (Laptop/Mobile) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223253789-aac-movavi/"><u>AAC形式のオーディオ・ファイルを自由に変換する - 最新Movaviツール</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/high-definition-at-its-peak-top-10-4k-screens/"><u>High Definition at Its Peak #Top 10 4K Screens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4-format-change-made-easy-and-gratis-with-online-video-editor-discover-movavi-solutions/"><u>MP4 Format Change Made Easy and Gratis with Online Video Editor - Discover Movavi Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-fixing-0x8009030e-on-virt-environments/"><u>Step-by-Step Guide: Fixing 0X8009030E on Virt Environments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tu-archivo-mef-en-formato-diferente-sin-coste-soluciones-mejoradas-por-movavi/"><u>Transforma Tu Archivo MEF en Formato Diferente Sin Coste: Soluciones Mejoradas Por Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vypravienie-s-ziskom-najlepsich-napojov-klic-aktivity-provideoeditace-zretelne-otvorene/"><u>Vyprávienie S Ziskom Najlepších Nápojov: Klíč Aktivity ProVideoEditace Zreteľne Otvorene</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/what-exactly-is-disconitro-insider-info-for-freepaid-users/"><u>What Exactly Is DiscoNitro? Insider Info for Free/Paid Users</u></a></li>
 </ul></div>
 

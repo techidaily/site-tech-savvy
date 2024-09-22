@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Upcoming Apple AR/VR Device with Cutting-Edge Eye and Hand Tracking Capabilities"
-date: 2024-09-18 14:43:48
-updated: 2024-09-20 12:46:49
+date: 2024-09-17T17:15:05.920Z
+updated: 2024-09-22T18:02:24.510Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,42 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-championed-by-artists-the-top-6-nft-maker-tools-for-2024/"><u>[New] Championed by Artists The Top 6 NFT Maker Tools for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elucidating-techniques-in-user-motion-detection/"><u>[Updated] In 2024, Elucidating Techniques in User Motion Detection</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-roadmap-to-a-top-ranked-facebook-profile/"><u>[Updated] In 2024, The Roadmap to a Top-Ranked Facebook Profile</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-legal-implications-and-tips-when-archiving-whatsapp-call-recordings-for-2024/"><u>[Updated] Legal Implications & Tips When Archiving WhatsApp Call Recordings for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-a-complete-guide-to-downloading-and-backup-of-instagram-vids-on-pcmacos/"><u>2024 Approved A Complete Guide to Downloading & Backup of Instagram Vids on PC/macOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/basic-understanding-of-e-story-crafting/"><u>Basic Understanding of E-Story Crafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-through-web-development-hurdles-with-fourfold-gpt-guidance/"><u>Cut Through Web Development Hurdles with Fourfold GPT Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-dread-to-grasp-the-8-essential-benefits-of-ai-in-education/"><u>From Dread to Grasp: The 8 Essential Benefits of AI in Education</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818350627-geforce-1060-get-new-nvidia-drivers-now/"><u>GeForce 1060: Get New Nvidia Drivers Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-mastering-chatgpt-can-transform-your-job-search-strategies/"><u>How Mastering ChatGPT Can Transform Your Job Search Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-3-data-4-best-extensions-and-apps-at-a-glance/"><u>Mastering GPT-3 Data: 4 Best Extensions & Apps at a Glance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-launches-chatgpt-plus-for-20month-but-only-in-the-us/"><u>OpenAI Launches ChatGPT Plus for $20/Month, but Only in the US</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-fixes-for-6-typical-chatgpt-problems/"><u>Quick Fixes for 6 Typical ChatGPT Problems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-mac-movie-making-handbook-2023-edition-for-2024/"><u>The Ultimate Mac Movie Making Handbook (2023 Edition) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-medical-misinformation-from-ai-expertise/"><u>Unmasking Medical Misinformation From AI Expertise</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

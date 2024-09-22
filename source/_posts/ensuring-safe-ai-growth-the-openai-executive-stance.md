@@ -1,7 +1,7 @@
 ---
 title: Ensuring Safe AI Growth - The OpenAI Executive Stance
-date: 2024-09-13T16:43:25.826Z
-updated: 2024-09-17T16:16:58.202Z
+date: 2024-09-17T16:37:21.601Z
+updated: 2024-09-22T16:36:59.636Z
 tags:
   - chatgpt
   - open-ai
@@ -71,10 +71,10 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  It isn't surprising that Altman has something of a bias here, as ChatGPT is the brainchild of the company he runs. But further regulation could lead to larger, pre-established AI companies having an advantage over smaller organizations, especially if licenses, permits, and long testing periods are made a legal requirement (as this could incur more costs and require more personnel).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Regulation Is a Point of Contention
@@ -98,19 +98,20 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-comprehensive-guide-to-visual-effects-in-online-platforms/"><u>[Updated] In 2024, The Comprehensive Guide to Visual Effects in Online Platforms</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-creators-lab-building-an-unstoppable-channel/"><u>[Updated] The Creator's Lab Building an Unstoppable Channel</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/1-comprehensive-guide-step-by-step-instructions-on-downloading-videos-from-anon-v-platform/"><u>1. Comprehensive Guide: Step-by-Step Instructions on Downloading Videos From Anon-V Platform</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-eye-catching-youtube-most-followed-channels/"><u>2024 Approved Eye-Catching YouTube Most Followed Channels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bring-ai-talk-to-life-on-android-via-widgets/"><u>Bring AI Talk to Life on Android via Widgets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-tool-for-banks-vulnerabilities/"><u>ChatGPT: A Tool for Banks' Vulnerabilities?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decreasing-display-dissonance-in-win11/"><u>Decreasing Display Dissonance in Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-gpt-35-writes-journey-to-gpt-4s-innovations/"><u>From GPT-3.5' Writes: Journey to GPT-4's Innovations</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-meizu-21-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Meizu 21 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-7-responsible-approaches-to-content-creation/"><u>Mastering AI: 7 Responsible Approaches to Content Creation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/overcoming-disneys-digital-locks-effective-strategies-for-legally-ripping-your-own-dvds/"><u>Overcoming Disney's Digital Locks: Effective Strategies for Legally Ripping Your Own DVDs</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-microsoft-store-glitch-error-code-0x800704cf/"><u>Steps to Resolve Microsoft Store Glitch (Error Code 0X800704CF)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-imagination-chatgpts-role-in-storytelling/"><u>Unleashing Imagination: ChatGPT's Role in Storytelling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-movavi-wtv-converter/"><u>«無償WEB上の動画形式変換ツール - Movavi WTV Converter»</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-video-recording-rumble-obs-versus-shadowreplay/"><u>[New] 2024 Approved Video Recording Rumble OBS Versus ShadowReplay</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decoding-the-essence-of-asmr-videos/"><u>[Updated] 2024 Approved Decoding the Essence of ASMR Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-find-the-best-and-easy-guide-to-use/"><u>7 : Find the Best and Easy Guide to Use!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpegifmovavi/"><u>簡単なステップでMPE画像を自由にGIFに変換：Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-video-conference-quality-a-guide-to-using-zoom-and-skype-for-2024/"><u>Boosting Video Conference Quality A Guide to Using ZOOM & SKYPE for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversor-libre-en-linea-3gpp-para-formato-m4a-por-movavi/"><u>Conversor Libre en Línea 3GPP Para Formato M4A Por Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/entendendo-o-contraste-de-mov-e-mp4-qual-tem-as-vantagens/"><u>Entendendo O Contraste De MOV E MP4: Qual Tem as Vantagens?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-7-comedy-youtube-video-ideas-that-funny-people-can-try/"><u>In 2024, 7 Comedy YouTube Video Ideas That Funny People Can Try</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/joy-con-compatibility-guide-for-classic-games/"><u>Joy-Con Compatibility Guide for Classic Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-beveled-video-format-converter-m4v-to-aac-free-download-at-movavi/"><u>Online Beveled Video Format Converter M4V to AAC Free Download at Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategie-avanzate-per-la-compressione-dei-file-video-mp4-utilizzando-il-software-di-movavi-tutorial-completo-e-facile-da-seguire/"><u>Strategie Avanzate per La Compressione Dei File Video MP4 Utilizzando Il Software Di Movavi: Tutorial Completo E Facile Da Seguire</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your OnePlus 11R | Dr.fone</u></a></li>
 </ul></div>
 

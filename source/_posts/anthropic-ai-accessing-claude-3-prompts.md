@@ -1,7 +1,7 @@
 ---
 title: "Anthropic AI: Accessing Claude 3 Prompts"
-date: 2024-09-12T16:28:15.742Z
-updated: 2024-09-17T16:36:16.693Z
+date: 2024-09-15T16:42:12.879Z
+updated: 2024-09-22T18:59:08.388Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![anthropic prompt library corporate clairvoyant option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-corporate-clairvoyant-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Using any of the prompts is simple: just copy and paste them into Claude (or another AI chatbot), tweak them to your liking, and you're good to go.
 
 ## Is the Anthropic Prompt Library Any Good?
@@ -80,22 +87,21 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![claude 3 dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-dream-interpreter-prompt-library-output.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While ChatGPT 4 responded:
 
 ![chatgpt plus dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-plus-dream-interpreter-prompt-library-output.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's pretty similar, covering the same thoughts, feelings, and imagery. However, given the number of websites, blog posts, and books both tools have been trained on, those details are relatively easy to discern.
@@ -135,16 +141,12 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/1-success-top-strategies-for-converting-bup-files-to-mp4-smoothly/"><u>1. Success! Top Strategies for Converting BUP Files to MP4 Smoothly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-ultimate-tutorial-adjusting-audio-levels-with-ease-using-vlcs-equalizer/"><u>1. Ultimate Tutorial: Adjusting Audio Levels with Ease Using VLC's Equalizer</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-preeminent-platforms-twitter-like-experiences/"><u>2024 Approved Preeminent Platforms Twitter-Like Experiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028362684-ts/"><u>高度なテクニックで「TSファイル」から明瞭に分離された音声解析: 第一・第二方法解説</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/byb-e430-led-lamp-an-elite-swing-arm-lighting-solution-revealed-through-in-depth-review/"><u>BYB E430 LED Lamp: An Elite Swing Arm Lighting Solution Revealed Through In-Depth Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-a-deep-dive-law-enforcement-cracks-down-on-mullvad-vpn-premier-selection-of-free-pc-gaming-experiences-the-ultimate-guide-to-mechanical-ke33/"><u>Decoding TruthGPT: A Deep Dive | Law Enforcement Cracks Down on Mullvad VPN | Premier Selection of FREE PC Gaming Experiences | The Ultimate Guide to Mechanical Keyboard Setups</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027605305-mkv/"><u>MKVファイルを携帯電話画面に表示する方法とトラブルシューティング</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-realtek-ethernet-controller-driver-on-windows-os/"><u>Step-by-Step Guide: Updating Your Realtek Ethernet Controller Driver on Windows OS</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-in-2024-how-to-enable-the-text-to-speech-function-on-iphone/"><u>Updated In 2024, How to Enable the Text to Speech Function on iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027237111-youtube/"><u>YouTubeビデオの向き変更に必要な簡単ガイド - どのようにすれば実現できますか？</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aximize-your-video-sound-best-free-wav-extractors-from-youtube/"><u>[New] Maximize Your Video Sound Best Free WAV Extractors From YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-maxed-out-status-of-gpt-on-pc/"><u>Bypassing Maxed Out Status of GPT on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-education-how-to-keep-young-users-safe-in-5-ways/"><u>ChatGPT in Education: How to Keep Young Users Safe, In 5 Ways</u></a></li>
+<li><a href="https://fox-info.techidaily.com/discover-the-elite-ranked-10-tv-streaming-platforms/"><u>Discover the Elite Ranked 10 TV Streaming Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-business-acumen-with-essential-ai-innovations/"><u>Elevate Your Business Acumen with Essential AI Innovations</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gptbot-ais-rise-and-website-restrictions/"><u>Unveiling GPTBot: AI's Rise & Website Restrictions</u></a></li>
 </ul></div>
 

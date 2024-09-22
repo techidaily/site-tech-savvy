@@ -1,7 +1,7 @@
 ---
 title: Maximizing Anthropic's Prompt Potential via Claude 3
-date: 2024-09-13T16:01:08.199Z
-updated: 2024-09-17T16:41:55.102Z
+date: 2024-09-16T16:00:40.671Z
+updated: 2024-09-22T17:40:48.997Z
 tags:
   - chatgpt
   - open-ai
@@ -65,20 +65,13 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 ![anthropic prompt library corporate clairvoyant option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-corporate-clairvoyant-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Using any of the prompts is simple: just copy and paste them into Claude (or another AI chatbot), tweak them to your liking, and you're good to go.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is the Anthropic Prompt Library Any Good?
 
@@ -97,6 +90,19 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
  While ChatGPT 4 responded:
 
 ![chatgpt plus dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-plus-dream-interpreter-prompt-library-output.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's pretty similar, covering the same thoughts, feelings, and imagery. However, given the number of websites, blog posts, and books both tools have been trained on, those details are relatively easy to discern.
 
@@ -135,19 +141,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-hashtags-with-leading-apps-on-fb-twitter-and-instagram/"><u>[Updated] Mastering Hashtags with Leading Apps on FB, Twitter & Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-seven-best-youtube-live-streaming-tools-for-iphoneandroid/"><u>[Updated] Unveiling The Seven Best YouTube Live Streaming Tools for iPhone/Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44cm44ki44oz44oe44cn44gn6ieq55sx44gr6kal44gf44ge77yb5yuv55s744oa44km44oz44ot44o844oj44go5lplusd5a2y5oml6acg/"><u>「アベマ」で自由に見たい！動画ダウンロードと保存手順</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-snaps-cutting-edge-filters-and-lenses-unveiled/"><u>2024 Approved Essential Snaps Cutting-Edge Filters & Lenses Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5/"><u>無料で使える人気のオンラインスクリーンレコーダー5本質選択</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-beginners-guide-converting-m4v-videos-into-common-mpg-mpeg-and-mp4-file-types-effortlessly/"><u>A Beginner's Guide: Converting M4V Videos Into Common MPG, MPEG and MP4 File Types Effortlessly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-sites-to-enjoy-uncut-high-school-dxd-anime-online/"><u>Best Sites to Enjoy Uncut High School DxD Anime Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-sound-fidelity-step-by-step-guide-to-convert-mp3-files-to-higher-320kbps-quality/"><u>Boosting Sound Fidelity: Step-by-Step Guide to Convert MP3 Files to Higher 320Kbps Quality</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-steps-to-protect-and-password-proof-your-windows-system/"><u>Essential Steps to Protect and Password-Proof Your Windows System</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y36-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y36 Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/panoramic-portals-cutting-edge-filmscapes-for-2024/"><u>Panoramic Portals Cutting-Edge Filmscapes for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme 11 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-hid-compatible-mouse-driver-essential-steps/"><u>Update Your HID Compatible Mouse Driver: Essential Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-premium-clock-selections-for-your-big-day-on-mobile/"><u>[Updated] Premium Clock Selections for Your Big Day on Mobile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cambia-file-mmf-a-mp3-online-e-gratuitamente-con-movavi-trasforma-i-tuoi-file-musica/"><u>Cambia File MMF a MP3 Online E Gratuitamente Con Movavi - Trasforma I Tuoi File Musica</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuite-du-fichier-aif-au-format-mp4-sur-linternet-movavi/"><u>Conversion Gratuite Du Fichier AIF Au Format MP4 Sur L'Internet - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-top-6-best-video-stitching-tools-of-2024-compare-leading-options-on-android-and-ios-with-movavis-expert-list/"><u>Discover the Top 6 Best Video Stitching Tools of 2024: Compare Leading Options on Android & iOS with Movavi's Expert List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-of-3gp-files-to-wma-movavi/"><u>Free Online Conversion of 3GP Files to WMA - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giggles-in-a-box-iphone-fun-for-2024/"><u>Giggles in a Box (iPhone Fun) for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f14-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F14 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-safely-acquire-and-duplicate-the-first-season-of-squid-game-for-personal-use/"><u>How to Safely Acquire & Duplicate the First Season of Squid Game for Personal Use</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-add-free-text-animation-to-videos/"><u>In 2024, How to Add Free Text Animation to Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/os-melhores-programas-de-producao-musica-digital-para-pc-e-mac-descoberta-das-opcoes-principais/"><u>Os Melhores Programas De Produção Musica Digital Para PC E MAC Descoberta Das Opções Principais</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-guide-to-tiktok-substitutes-updated-list/"><u>The Ultimate Guide to TikTok Substitutes (Updated List)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trouvez-les-sites-les-plus-securises-et-legaux-pour-telecharger-des-jeux-gratuits-sur-ordinateur-notre-top-10/"><u>Trouvez Les Sites Les Plus Sécurisés Et Légaux Pour Télécharger Des Jeux Gratuits Sur Ordinateur - Notre Top 10!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4v-jpgpng/"><u>오늘날의 원격 모바일용 M4V를 JPG/PNG로 전환하는 가장 좋은 방법</u></a></li>
 </ul></div>
 

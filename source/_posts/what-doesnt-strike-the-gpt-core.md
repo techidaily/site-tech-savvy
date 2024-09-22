@@ -1,7 +1,7 @@
 ---
 title: What Doesn't Strike the GPT Core?
-date: 2024-09-10T16:23:05.849Z
-updated: 2024-09-17T16:39:33.655Z
+date: 2024-09-19T16:08:12.741Z
+updated: 2024-09-22T19:02:35.647Z
 tags:
   - chatgpt
   - open-ai
@@ -66,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 
  However, the current versions of ChatGPT only seem to be able to write simple malware programs, which can also be buggy at times. But regardless of this, [the chatbot can be exploited for malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Invade Personal Privacy or Security
 
  Since its launch in late 2022, [ChatGPT's potential as a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/) has been a point of concern. But can you use ChatGPT to invade someone else's personal boundaries?
@@ -94,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
  It's better to consult dedicated websites or professionals if you're looking for solid predictions, be it in finance, politics, or sports.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Answer Bigoted or Hateful Questions
@@ -110,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 
  Additionally, ChatGPT will not engage with any prompts that promote harm to the user or others.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Provide Its Own Opinion
 
  While ChatGPT does use artificial intelligence, it is not a sentient being. Because of this, ChatGPT cannot provide its own opinion on any topic or event.
@@ -126,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
  If you ask ChatGPT for an opinion on something, you'll likely get a similar response to that shown below.
 
 ![chatgpt opinion request screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-opinion-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
 
@@ -138,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
  ChatGPT Plus is a paid subscription that costs $20 monthly. If you use ChatGPT a lot and want access to all the service's features, you may want to consider upgrading to Plus.
 
  At the time of writing, ChatGPT's browsing feature is disabled but is expected to return in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Isn't an All-in-One Solution
 
@@ -162,20 +162,18 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-snap-into-hilarity-meme-creation-made-simple/"><u>[New] Snap Into Hilarity Meme Creation Made Simple</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-climbing-the-feed-ladder-the-most-effective-hashtags-for-likes-and-followers-on-insta-for-2024/"><u>[Updated] Climbing the Feed Ladder The Most Effective Hashtags for Likes and Followers on Insta for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-fresh-conversation-starters-keeping-listeners-hooked/"><u>[Updated] Fresh Conversation Starters Keeping Listeners Hooked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp420247/"><u>「MP4ビデオを分解してご利用ください：2024新世代最高のフリーソフト7品評」</u></a></li>
-<li><a href="https://games-able.techidaily.com/apple-arcades-edge-in-portable-entertainment-play/"><u>Apple Arcade's Edge in Portable Entertainment Play</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/boosting-income-via-social-media-snapchats-methods/"><u>Boosting Income via Social Media Snapchat's Methods</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-a05sfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel A05sFRP Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iwara/"><u>Iwaraコンテンツをダウンロード保存するための詳細な手順: 最強の方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/latest-enhancement-of-wonderfox-the-advanced-video-downloader-is-released/"><u>Latest Enhancement of WonderFox: The Advanced Video Downloader Is Released!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/most-effective-and-user-friendly-dvd-to-mkv-converter-software-in-202n4-for-windows/"><u>Most Effective and User-Friendly DVD to MKV Converter Software in 202N4 for Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premium-tools-for-pros-masterful-4k-video-production-software-rankings/"><u>Premium Tools for Pros: Masterful 4K Video Production Software Rankings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-personal-videos-on-youtube-a-step-by-step-guide-to-making-them-private/"><u>Protecting Personal Videos on YouTube: A Step-by-Step Guide to Making Them Private</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/speedy-retrieval-of-snap-archive/"><u>Speedy Retrieval of Snap Archive</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-the-art-of-slack-notifications-and-reminders/"><u>Ultimate Guide: Mastering the Art of Slack Notifications and Reminders</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-mac-video-editing-install-lumafusion-or-try-these-other-options/"><u>Updated 2024 Approved Mac Video Editing Install Lumafusion or Try These Other Options</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-dream-houses-in-minecraft-top-6-ideas/"><u>[New] 2024 Approved Dream Houses in Minecraft Top 6 Ideas</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-make-your-mark-stand-out-with-youtube-studio-editing/"><u>[New] 2024 Approved Make Your Mark Stand Out with YouTube Studio Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-manual-for-personalizing-android-ringtones-and-sounds/"><u>[New] The Essential Manual for Personalizing Android Ringtones and Sounds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-kostenloze-video-heropnemen-van-websites-meer-oplossingen-en-programmen/"><u>1. Kostenloze Video Heropnemen Van Websites: Meer Oplossingen en Programmen</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/gifflv-movavi/"><u>線上GIF與FLV的轉換無費用解決方案: 利用Movavi 改造器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726225243211-m4v3gp-movavi/"><u>在线转换M4V为3GP的免费工具 - 使用 Movavi 视频编辑软件</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversor-livre-ogv-para-avi-online-ferramentas-de-conversao-gratuita-do-movavi/"><u>Conversor Livre OGV Para AVI Online - Ferramentas De Conversão Gratuita Do Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-guide-addressing-the-crash-problem-in-persona-ebe5-strikers-on-your-computer/"><u>Fix Guide: Addressing the Crash Problem in Persona Ebe5 Strikers on Your Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-glitches-a-win11-victory-story/"><u>Fixing Glitches: A Win11 Victory Story</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-of-mkv-files-to-3gp-format-with-movavi/"><u>Free Online Conversion of MKV Files to 3GP Format with Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-troubleshooting-for-d3dx933dll-missing-error-on-your-pc/"><u>Quick Troubleshooting for d3dx9_33.dll Missing Error on Your PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/showdown-the-ultimate-face-off-between-apples-iphone-15-pro-and-pro-max-models/"><u>Showdown: The Ultimate Face-Off Between Apple's iPhone 15 Pro and Pro Max Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkv-webm-movavi/"><u>원격 가용 MKV 및 WEBM 비디오를 공유적으로 변환하는 방법 - Movavi</u></a></li>
 </ul></div>
 

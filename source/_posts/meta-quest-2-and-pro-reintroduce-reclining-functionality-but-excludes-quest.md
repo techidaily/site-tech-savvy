@@ -1,7 +1,7 @@
 ---
 title: Meta Quest 2 & Pro Reintroduce Reclining Functionality, But Excludes Quest
-date: 2024-09-18 20:31:54
-updated: 2024-09-20 12:31:28
+date: 2024-09-17T17:28:07.977Z
+updated: 2024-09-22T18:23:15.635Z
 tags:
   - ar+vr
 categories:
@@ -64,11 +64,34 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-hololens-by-microsoft-a-3d-dream-come-true/"><u>[New] Exploring HoloLens by Microsoft A 3D Dream Come True</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-game-on-essential-samsung-gear-vr-experiences/"><u>[New] In 2024, Game On Essential Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-obs-review-comprehensive-look-at-screen-recorder-excellence/"><u>[New] In 2024, OBS Review Comprehensive Look at Screen Recorder Excellence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-film-swapping-ideas-best-replacements-1-7/"><u>[Updated] In 2024, Film Swapping Ideas Best Replacements #1-7</u></a></li>
+<li><a href="https://article-tips.techidaily.com/11-best-beginnerwaterproofvlogging-camera-for-kids-easy-to-use-for-2024/"><u>11 Best Beginner/Waterproof/Vlogging Camera for Kids (Easy-to-Use) for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuite-de-fichiers-ape-au-format-flac-guide-simple-movavi/"><u>Conversion Gratuite De Fichiers APE Au Format FLAC : Guide Simple - Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-to-install-driver-packs-enhance-your-xbox-controllers-in-no-time/"><u>Easy-to-Install Driver Packs: Enhance Your Xbox Controllers in No Time</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-fix-outriders-game-latency-problems/"><u>Effective Solutions to Fix Outriders Game Latency Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-simple-para-convertir-archivos-ppm-a-jpg-sin-coste-haga-uso-del-servicio-de-conversion-gratuito-de-movavi/"><u>Guía Simple Para Convertir Archivos PPM a JPG Sin Coste - Haga Uso Del Servicio De Conversión Gratuito De Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-poco-c65-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Poco C65? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformer-gratuitement-un-fichier-3gp-en-video-flv-tutorial-video-de-conversion-rapide-avec-movavi/"><u>Transformer Gratuitement Un Fichier .3Gp en Vidéo FLV - Tutorial Vidéo De Conversion Rapide Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformez-vos-fichiers-ogv-en-webm-facilement-et-gratuitement-via-movavi-online-tutoriel-rapide/"><u>Transformez Vos Fichiers OGV en Webm Facilement Et Gratuitement via Movavi Online - Tutoriel Rapide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
