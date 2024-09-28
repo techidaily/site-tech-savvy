@@ -1,7 +1,7 @@
 ---
 title: "The EU Blueprint on AI: Insights Into ChatGPT Evolution"
-date: 2024-09-18T18:33:12.659Z
-updated: 2024-09-22T17:10:20.881Z
+date: 2024-09-23T18:04:04.238Z
+updated: 2024-09-28T18:40:12.913Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/75622c9aef94101b38b55f9079234e66e622d3109
 
  While the EU AI Act has several objectives, its main aim is to somewhat reign in AI. This will be done by assessing the risk levels of AI systems, ensuring they follow EU laws, and enforcing transparency requirements for AI systems.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who Will Be Affected by the EU AI Act?
 
 ![wooden court hammer on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/court-hammer-1.jpg)
@@ -61,9 +68,23 @@ thumbnail: https://thmb.techidaily.com/75622c9aef94101b38b55f9079234e66e622d3109
 
  Evidently, the scope is large, spanning the AI industry. Thousands of AI organizations may be affected by this act, including ChatGPT creator, OpenAI. This has led to contention between the EU and OpenAI CEO Sam Altman. In fact, Altman has threatened to pull OpenAI, and therefore ChatGPT, out of the EU because of it. So, why has he made such a striking statement?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Is Sam Altman Threatening to Pull ChatGPT From the EU?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
 
@@ -76,16 +97,10 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Interestingly, this threat came shortly after [Altman advocated for further AI regulation within the US](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/) to mitigate the risks of AI development. We'll leave how that looks up to you.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The EU's AI Act Could Alter AI Development
@@ -107,5 +122,24 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-non-ad-revenue-stream-on-youtube-the-self-sustaining-creators-tale/"><u>[Updated] In 2024, Crafting a Non-Ad Revenue Stream on YouTube The Self-Sustaining Creator’s Tale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/14-chatgpt-and-summarize-inbox-ai-driven-email-assistance/"><u>14 ChatGPT & Summarize Inbox: AI-Driven Email Assistance</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-scrutinizing-the-efficacy-of-vidma-for-video-capture-tech/"><u>2024 Approved Scrutinizing the Efficacy of Vidma for Video Capture Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/31-maximizing-email-potential-with-chatgpt-and-inbox-summarizers/"><u>31 Maximizing Email Potential with ChatGPT & Inbox Summarizers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ingenious-ways-to-leverage-chatgpt-for-employment/"><u>5 Ingenious Ways to Leverage ChatGPT for Employment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-ai-powered-pdf-tools-unveiled-by-gpt/"><u>6 AI Powered PDF Tools Unveiled by GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-essential-free-ai-apps-for-email-crafting/"><u>8 Essential Free AI Apps for Email Crafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-to-utilizing-openais-language-power/"><u>A Step-by-Step Guide to Utilizing OpenAI’s Language Power</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721431369176-chatgpt-evolved-discover-the-features-that-matter-most/"><u>ChatGPT Evolved: Discover the Features That Matter Most</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-use-zoom-video-filters-to-make-a-high-quality-video-call-for-2024/"><u>How to Use Zoom Video Filters to Make a High-Quality Video Call for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-experts-guide-to-growing-valheim-crops-successfully/"><u>In 2024, The Expert's Guide to Growing Valheim Crops Successfully</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-tecno-pop-7-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Tecno Pop 7 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-narzo-60x-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme Narzo 60x 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-resolving-iphone-photos-import-error-in-windows-pcs/"><u>Quick-Fix: Resolving iPhone Photos Import Error in Windows PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-editors-archive-curating-timeless-vhs-effects-for-the-digital-age/"><u>The Editor's Archive Curating Timeless VHS Effects for the Digital Age</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-tutorial-reviving-your-epson-wf-7nf020-with-fresh-windows-drivers/"><u>The Ultimate Tutorial: Reviving Your Epson WF-7nf020 with Fresh Windows Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721419017133-unlock-the-full-potential-of-your-smartphone-with-bing-ai-search/"><u>Unlock the Full Potential of Your Smartphone: With Bing AI Search.</u></a></li>
+</ul></div>
 

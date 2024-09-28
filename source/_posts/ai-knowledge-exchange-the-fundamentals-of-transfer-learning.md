@@ -1,7 +1,7 @@
 ---
 title: "AI Knowledge Exchange: The Fundamentals of Transfer Learning"
-date: 2024-09-15T16:40:55.031Z
-updated: 2024-09-22T16:34:35.773Z
+date: 2024-09-24T17:27:28.628Z
+updated: 2024-09-28T17:18:01.299Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
 
  This works since cats and dogs share many traits the pre-trained model can already identify. Since the cat-classifying model can identify the various traits of a cat, such as having four legs, fur coats, and prominent snouts, the dog-classifying model can skip all the training to identify those traits and inherit them from the original model. After inheriting all those neural networks, you then cut off the last layers of the trained model used to identify the more specific traits of a cat and replace them with a dataset specific to dogs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What AI Models Can You Use for Transfer Learning?
 
  To use transfer learning, you'll need a pre-trained model. A pre-trained model is commonly known as an AI model trained for the purpose of gaining general knowledge on a particular subject or idea. These types of pre-trained models are purposely made for people to fine-tune and make more application-specific models. Some of the most popular pre-trained models are for NLP, like [BERT and GPT](https://www.makeuseof.com/gpt-vs-bert/), and computer vision, such as VGG19 and Inceptionv3\.
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
  Although popular, these easily fine-tunable models aren't the only ones you can use for transfer learning. You can also use models trained on tasks more specific than general object or language recognition. As long as the model has developed neural networks applicable to the model you're trying to train, you can use just about any model for transfer learning.
 
  You can get publicly available pre-trained models from places like TensorFlow Hub, Hugging Face, and the OpenAI model marketplace.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Benefits of Using AI Transfer Learning
 
@@ -56,16 +70,16 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
 
  Training an AI model from scratch is possible, but you need greater resources to do so.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does Transfer Learning Work?
 
 ![Transfer-Learning-Illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/final.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In essence, there are three stages when it comes to transfer learning.
 
@@ -86,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
  So while transfer learning is a handy AI learning technique, limitations exist, and it isn't a silver bullet.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Use Transfer Learning?
@@ -115,5 +129,20 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-transform-the-mundane-into-stunning-create-with-our-video-templates/"><u>[New] In 2024, Transform the Mundane Into Stunning Create with Our Video Templates</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-undisclosed-aspects-what-you-dont-notice-as-a-story-viewer/"><u>[Updated] 2024 Approved The Undisclosed Aspects What You Don’t Notice as a Story Viewer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-masterclass-in-brief-lapses-top-5/"><u>2024 Approved Masterclass in Brief Lapses #Top 5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-ways-to-make-chatgpt-your-perfect-dungeon-master-assistant/"><u>6 Ways to Make ChatGPT Your Perfect Dungeon Master Assistant</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-groundbreaking-tools-excluding-chatgpt-for-code-writing/"><u>7 Groundbreaking Tools Excluding ChatGPT for Code Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-pioneering-features-of-bard-excitingly-debuted-at-googles-2023-event/"><u>7 Pioneering Features of Bard, Excitingly Debuted at Google's 2023 Event</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-keys-to-understanding-the-future-of-prompt-engineering-jobs/"><u>9 Keys to Understanding the Future of Prompt Engineering Jobs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-guide-to-leveraging-chatgpt-in-your-companys-success/"><u>A Guide to Leveraging ChatGPT in Your Company's Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429893410-ballads-battleground-chatgpt-vs-shepherds-alpacas-unite/"><u>Ballads Battleground: ChatGPT vs Shepherds, Alpacas Unite</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-feature-dissection-the-sony-fdr-x1000-videographer-for-2024/"><u>Full Feature Dissection - The Sony FDR-X1000 Videographer for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-sony-xperia-1-v-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Sony Xperia 1 V and Browser | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/obscure-watching-methods-5-unique-stories-apps-for-2024/"><u>Obscure Watching Methods 5 Unique Stories Apps for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-syncopated-future-facebook-and-spotifys-boombox-dream/"><u>Unveiling the Syncopated Future: Facebook and Spotify's Boombox Dream</u></a></li>
+</ul></div>
 

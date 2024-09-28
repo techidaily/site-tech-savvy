@@ -1,7 +1,7 @@
 ---
 title: "Challenging Bots: Clause's Quest Versus GPT Task Mastery"
-date: 2024-09-20T18:46:24.137Z
-updated: 2024-09-22T17:56:33.497Z
+date: 2024-09-23T16:11:09.854Z
+updated: 2024-09-28T17:50:53.891Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
 
  ChatGPT's two most recent versions, GPT-3.5 and GPT-4, can be used, though the latter is only available via ChatGPT Plus. GPT-4 has far more parameters than GPT-3.5 and a higher character input and output limit. Again, both iterations of ChatGPT will be discussed here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude: a Quick Comparison
 
  Before discussing ChatGPT and Claude's pros and cons in depth, we've provided a simple comparison table that you can use to understand the basics.
@@ -59,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
 | **VPN Support**          | No                                              | Yes                                         |
 
  As you can see, there are several differences to consider.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT's Pros and Cons
 
@@ -103,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
  So, how does Claude compare to ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Claude's Pros
@@ -133,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
 
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
@@ -156,14 +163,14 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
 
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Mathematical Abilities
 
@@ -173,22 +180,16 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
 
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When given the same problem, Claude gave us the following response:
 
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
 
@@ -209,10 +210,10 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT and Claude May Become Close Rivals
@@ -234,5 +235,24 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/tep-by-step-process-for-free-youtube-educational-events-for-2024/"><u>[New] Step-by-Step Process for Free Youtube Educational Events for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-exciting-neural-network-options-for-your-phone-beyond-gpt/"><u>10 Exciting Neural Network Options for Your Phone Beyond GPT</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-keep-the-sparkle-alive-sustaining-your-snapchat-streak/"><u>2024 Approved Keep the Sparkle Alive Sustaining Your Snapchat Streak</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-rise-in-rankings-14-high-impact-gaming-videos-for-youtube/"><u>2024 Approved Rise in Rankings 14 High-Impact Gaming Videos for YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725286955708-2024-5/"><u>2024 환경에서 가장 나은 5가지 이미지 해상도 개선 전략</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-clear-winners-why-ios-beats-webchatgpt/"><u>6 Clear Winners: Why iOS Beats WebchatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-key-factors-optimizing-chatgpt-use-in-mental-health-interventions/"><u>6 Key Factors: Optimizing ChatGPT Use in Mental Health Interventions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-concerns-about-automated-messaging-ai/"><u>7 Concerns About Automated Messaging AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-incredible-ways-chatgpt-can-enhance-your-workday-productivity/"><u>7 Incredible Ways ChatGPT Can Enhance Your Workday Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721434736849-avoid-the-misleading-google-bard-protect-your-device/"><u>Avoid the Misleading Google Bard — Protect Your Device!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-terraria-customization-choices-for-2024/"><u>Best Terraria Customization Choices for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-nest-audio-vs-nest-mini/"><u>Google Nest Audio Vs. Nest Mini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721433072602-gpt-4-at-your-fingertips-but-plus-continues-to-offer-unmatched-services/"><u>GPT-4 at Your Fingertips; But Plus Continues To Offer Unmatched Services</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-fold-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Google Pixel Fold Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721404975415-join-openais-quest-track-and-report-software-glitches/"><u>Join OpenAI's Quest: Track and Report Software Glitches</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/launching-zoom-sessions-smoothly-with-android/"><u>Launching Zoom Sessions Smoothly with Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/outdoor-gadgets-for-making-road-trip-videos/"><u>Outdoor Gadgets for Making Road-Trip Videos</u></a></li>
+</ul></div>
 

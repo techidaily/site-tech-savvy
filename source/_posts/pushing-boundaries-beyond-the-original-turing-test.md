@@ -1,7 +1,7 @@
 ---
 title: "Pushing Boundaries: Beyond the Original Turing Test"
-date: 2024-09-19T16:13:57.896Z
-updated: 2024-09-22T17:52:59.144Z
+date: 2024-09-24T18:28:30.106Z
+updated: 2024-09-28T18:07:13.648Z
 tags:
   - chatgpt
   - open-ai
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -65,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Eugene Goostman
 
  In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
@@ -79,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
  Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Google's LaMBDA
 
@@ -90,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore, [Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/). This is currently available to users in the UK and the United States.
@@ -105,11 +105,25 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -136,5 +150,26 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-perfectly-capture-audio-remotely/"><u>[New] 2024 Approved How to Perfectly Capture Audio Remotely</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-uncover-the-best-practices-for-video-seo-on-facebook/"><u>[Updated] 2024 Approved Uncover the Best Practices for Video SEO on Facebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unveiling-sources-instagram-pictures-inverse-search-guide/"><u>[Updated] In 2024, Unveiling Sources Instagram Pictures' Inverse Search Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-innovate-iconoclastic-images-using-giphy-for-2024/"><u>[Updated] Innovate Iconoclastic Images Using Giphy for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-real-world-application-perfecting-your-instagram-livestream-with-obs/"><u>[Updated] Real-World Application Perfecting Your Instagram Livestream with OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chagpt-unveiled-android-and-ios-application/"><u>ChaGPT Unveiled: Android & iOS Application</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-ethical-ai-journeys-the-role-of-governance-opensai-suggests/"><u>Charting Ethical AI Journeys: The Role of Governance, OpensAI Suggests</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-gpt-1-to-gpt-4-an-in-depth-analysis/"><u>From GPT-1 To GPT-4: An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-script-to-scenario-chatgpts-six-steps-to-perfecting-roleplay/"><u>From Script to Scenario: ChatGPT's Six Steps to Perfecting Roleplay</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oppo-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo Phone Screen?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disassociate-onedrive-from-microsoft-account-in-windows/"><u>How to Disassociate OneDrive From Microsoft Account in Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-p55-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P55 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-x-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone X</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-value-with-zte-blade-a3y-an-incisive-review-for-budget-smartphone-enthusiasts/"><u>Maximizing Value with ZTE Blade A3Y: An Incisive Review for Budget Smartphone Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peak-tools-enhancing-gpt-and-vs-code-collaboration/"><u>Peak Tools: Enhancing GPT & VS Code Collaboration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revealing-the-hidden-powers-of-your-conversational-ai/"><u>Revealing the Hidden Powers of Your Conversational AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-intrigue-9-techniques-chatgpt-uses-in-fiction/"><u>The Art of Intrigue: 9 Techniques ChatGPT Uses in Fiction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rationale-behind-the-rhythm-chatgpt-4-and-its-slower-beat/"><u>The Rationale Behind the Rhythm: ChatGPT-4 & Its Slower Beat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-top-9-powerful-chatgpt-tools/"><u>Unveiling the Top 9 Powerful ChatGPT Tools</u></a></li>
+</ul></div>
 

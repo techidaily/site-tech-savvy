@@ -1,7 +1,7 @@
 ---
 title: Acclaimed 20 ChatGPT Conversation Patterns From GitHub
-date: 2024-09-20T16:11:48.579Z
-updated: 2024-09-22T18:13:04.660Z
+date: 2024-09-21T18:35:23.222Z
+updated: 2024-09-28T16:57:06.026Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
 ![ChatGPT Creating a Detailed Life Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-life-coach-plan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Translate Foreign Text
 
 ![ChatGPT Translating Tagalog Text to English](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-tagalog-to-english-translation.jpg)
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 ## 4\. Write Code Snippets
 
 ![ChatGPT Writing Codes as a Frontend Developer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-frontend-developer-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Programming has a steep learning curve. You have to master debugging strategies, coding languages, and functionality implementation. New programmers might find the process overwhelming.
 
@@ -121,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
 ![ChatGPT Answering as Tomie and Suggesting Harmful Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-tomie-suggesting-harmful-information.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Provide Emergency Response Assistance
 
 ![ChatGPT Providing Emergency Response Tips for Senior Having a Seizure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-providing-emergency-response-tips.jpg)
@@ -142,22 +135,29 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
 ![Requesting ChatGPT to Refractor Code Samples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-to-refractor-code.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT helps simplify poorly written code. It organizes functions, spots duplicates, and suggests simpler alternatives, making programs more manageable.
 
 ![ChatGPT Providing Clean and Refractored Sample Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-refractoring-dirty-sample-code.jpg)
 
  Just make sure you test the restructured codes.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 11\. Write Cover Letters
 
 ![CChatGPT Writing a Cover Letter for a Content Writer Job Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/content-writer-application-cover-letter.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many professionals struggle with writing cover letters. You have to condense your work experience, intention, and skills without selling yourself short. Otherwise, recruiters might skip your application altogether.
 
@@ -184,6 +184,19 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
  ChatGPT can simulate chemical reaction vessels. It demonstrates how different properties and substances change when you mix them. For accuracy, the residue from previous mixes also alters results.
 
 ![ChatGPT Providing Sample Chemical Reactions After Mixing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-chemical-formula-reactions.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While simulations can't replace experiments, they're useful for researching hazardous elements that are hard to obtain. Just note that ChatGPT still observes limitations. It might not display chemical reactions involving illicit substances.
 
@@ -213,13 +226,6 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
 ![ChatGPT Continuing Literary Analysis of The Old Pond](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-literary-analysis-continuation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 16\. Friendly Emotional Support
 
  ChatGPT can help you cope with loneliness. For instance, this prompt instructs ChatGPT to talk like a human friend providing emotional support. It removes the typical disclaimers and explanations that AI chatbots say.
@@ -228,13 +234,34 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
 ![ChatGPT Providing Friendly Advice and Emotional Support](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-providing-friendly-support.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Be careful when using [ChatGPT as a mental health coach](https://www.makeuseof.com/how-use-chatgpt-safely-mental-health-coach/). AI merely scrapes information from its training datasets and presents them in natural language—it can't empathize with you.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 17\. Debate Coach and Practice
 
  Aspiring debaters can use ChatGPT as a pseudo coach. It helps you prepare for debate competitions by organizing your team structure and suggesting opening arguments for each speaker. A solid intro sets the tone for your succeeding statements.
 
 ![ChatGPT Creating Structure and Arguments for Debate Team Speakers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-lists-debate-team-speakers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT also develops simple yet effective drills to hone your debate skills. Forming justified, logical arguments impromptu takes practice. You might stutter during debate competitions if you can't organize your thoughts quickly and efficiently.
 
@@ -244,24 +271,18 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
 ![ChatGPT Creating Key Arguments and Counterarguments for AI Environmental Impact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-key-arguments-and-counterarguments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 18\. Playlist Generator
 
  If you feel too lazy to make a playlist, ask ChatGPT for music recommendations. It can analyze your reference track and provide songs with a similar beat, theme, and genre. Take this sample playlist as an example.
 
 ![ChatGPT Making Pop Playlist Based on Dalla Dalla Itzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-making-playlist.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Free ChatGPT users can only reference songs released before the platform's knowledge cut-off date: September 2021\. For a more sophisticated playlist generator, consider [Spotify's AI DJ](https://www.makeuseof.com/how-to-access-spotifys-ai-dj/).
 
@@ -306,5 +327,20 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-embark-on-a-digital-communication-adventure-with-google-meet/"><u>[New] 2024 Approved Embark on a Digital Communication Adventure with Google Meet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effortless-guide-to-free-melodies-in-youtube-productions/"><u>[Updated] In 2024, Effortless Guide to Free Melodies in YouTube Productions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-surge-to-subscriber-success-with-strategic-tactics/"><u>2024 Approved Surge to Subscriber Success with Strategic Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-ways-ai-tools-enhance-your-academic-research/"><u>4 Ways AI Tools Enhance Your Academic Research</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-essential-warnings-before-choosing-ai-as-your-mental-health-companion/"><u>5 Essential Warnings Before Choosing AI as Your Mental Health Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-strategies-for-leveraging-chatgpts-visual-ai/"><u>7 Strategies for Leveraging ChatGPT's Visual AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-reasons-why-teachers-should-embrace-ai-instead-of-fearing-it/"><u>8 Reasons Why Teachers Should Embrace AI Instead of Fearing It</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/compatibilidad-de-archivo-av1-con-handbrake-es-posible-codificarlo/"><u>Compatibilidad De Archivo AV1 Con HandBrake - ¿Es Posible Codificarlo?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-14-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 14 to iPad | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-rugged-asus-chromebook-c202sa-ideal-choice-for-students-and-kids/"><u>In-Depth Review of the Rugged ASUS Chromebook C202SA: Ideal Choice for Students and Kids</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-dealing-with-persistent-death-stranding-pc-instability-problems/"><u>Resolved: Dealing with Persistent Death Stranding PC Instability Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-screenshots-with-your-logitech-keyboard/"><u>Step-by-Step Guide: Capturing Screenshots with Your Logitech Keyboard</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vivid-visions-elevating-your-photographic-skills/"><u>Vivid Visions Elevating Your Photographic Skills</u></a></li>
+</ul></div>
 

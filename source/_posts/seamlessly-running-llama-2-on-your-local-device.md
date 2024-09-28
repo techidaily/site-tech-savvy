@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Running Llama 2 on Your Local Device
-date: 2024-09-20T16:27:56.729Z
-updated: 2024-09-22T16:52:08.435Z
+date: 2024-09-26T16:21:25.159Z
+updated: 2024-09-28T17:32:19.796Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
  Now that you have Desktop development with C++ installed, it's time to download the Text-Generation-WebUI one-click installer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Install Text-Generation-WebUI
 
  The Text-Generation-WebUI one-click installer is a script that automatically creates the required folders and sets up the Conda environment and all necessary requirements to run an AI model.
@@ -64,6 +71,14 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 4. A terminal will open and start the setup. Early on, the setup will pause and ask you what GPU you are using. Select the appropriate type of GPU installed on your computer and hit enter. For those without a dedicated graphics card, select **None (I want to run models in CPU mode)**. Keep in mind that running on CPU mode is much slower when compared to running the model with a dedicated GPU.  
 ![Selecting GPU hardware installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/5-select-gpu-settings.jpg)
 5. Once the setup is complete, you can now launch Text-Generation-WebUI locally. You can do so by opening your preferred web browser and entering the provided IP address on the URL.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![How to launch-Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/6-launch-text-generation-webui.jpg)
 6. The WebUI is now ready for use.  
 ![Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/7-text-generation-webui-view.jpg)
@@ -84,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
 ![HuggingFace model naming convention](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/huggingface-model-naming-convention-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this example, the model can be identified as a medium-sized Llama 2 model trained on 13 billion parameters optimized for chat inferencing using a dedicated CPU.
 
  For those running on a dedicated GPU, choose a **GPTQ** model, while for those using a CPU, choose **GGML**. If you want to chat with the model like you would with ChatGPT, choose **chat**, but if you want to experiment with the model with its full capabilities, use the **standard** model. As for parameters, know that using bigger models will provide better results at the expense of performance. I would personally recommend you start with a 7B model. As for quantization, use q4, as it's only for inferencing.
@@ -102,27 +124,7 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
 ![Placing Llama 2 model to model folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/9-place-model-to-model-folder.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now that you have your model downloaded and placed in the model folder, it's time to configure the model loader.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 4: Configure Text-Generation-WebUI
 
@@ -135,13 +137,20 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 4. To use the model, open the Chat tab and start testing the model.  
 ![Testing Llama 2 locally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/12-testing-llama-2-locally.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Congratulations, you've successfully loaded Llama2 on your local computer!
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try Out Other LLMs
@@ -165,5 +174,22 @@ Now that you have your model downloaded and placed in the model folder, it's tim
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhance-your-instagram-content-with-effective-captioning/"><u>[New] Enhance Your Instagram Content with Effective Captioning</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-the-modern-content-creators-dilemma/"><u>[New] In 2024, Decoding the Modern Content Creator's Dilemma</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-groundbreaking-ai-programs-for-emotional-balance/"><u>5 Groundbreaking AI Programs for Emotional Balance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-offbeat-uses-for-language-models/"><u>5 Offbeat Uses for Language Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-ways-to-use-chatgpt-as-a-video-game-scriptwriter/"><u>6 Ways to Use ChatGPT as a Video Game Scriptwriter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-ways-you-can-use-chatgpt-as-a-cooking-assistant/"><u>7 Ways You Can Use ChatGPT as a Cooking Assistant</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/compreendemos-gritos-de-alegria-e-felicidade-no-portugues/"><u>Compreendemos Gritos De Alegria E Felicidade No Português</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/get-your-free-hevc-h265-codec-for-seamless-4k8k-streaming-experience/"><u>Get Your Free HEVC (H.265) Codec for Seamless 4K/8K Streaming Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-itel-a70-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Itel A70 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-driver-update-and-quick-setup-free-downloads-available/"><u>HP Driver Update & Quick Setup – Free Downloads Available</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastery-in-mixing-pro-tools-prowess-tips-and-tricks/"><u>Mastery in Mixing Pro Tools Prowess Tips and Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721406388661-the-era-of-individual-ai-openais-personalized-gpt-shops/"><u>The Era of Individual AI: OpenAI's Personalized GPT Shops!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721404782548-transform-how-you-search-bings-ai-ready-for-mobile-devices/"><u>Transform How You Search: Bing’s AI Ready for Mobile Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-the-power-of-chatgpt-on-your-phone-strategies-for-both-iphone-and-android-users/"><u>Unleashing the Power of ChatGPT on Your Phone: Strategies for Both iPhone and Android Users</u></a></li>
+</ul></div>
 

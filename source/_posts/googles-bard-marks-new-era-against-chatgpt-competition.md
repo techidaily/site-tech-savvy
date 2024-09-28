@@ -1,7 +1,7 @@
 ---
 title: Google's 'Bard' Marks New Era Against ChatGPT Competition
-date: 2024-09-17T16:25:25.828Z
-updated: 2024-09-22T17:51:25.109Z
+date: 2024-09-26T18:19:23.757Z
+updated: 2024-09-28T17:14:41.256Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/91aa12f63404e244829a566c9da569c7d4c3ec60c
 
 ![An illustration of an AI bot performing meeting analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/AI-Meeting-Assistant-for-Online-Meetings-Featured-Image.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT was released on November 30, 2022, after a lengthy development period. The entire development process, including the base technology that powers it, spanned several years. At first glance, this would mean Google had less than three months to build a product to rival ChatGPT, a product built on years of evolving technology.
 
  However, the reality is different. Google has invested heavily in Artificial Intelligence fields like [Natural Language Processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) for several years. In a seeming twist of fate, while Google is trying to rival ChatGPT, the very [technology architecture that powers ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) , known as the Transformer architecture, is a brainchild of Google's research. In other words, Google is now trying to outcompete a business threat that is technically built on Google technology.
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/91aa12f63404e244829a566c9da569c7d4c3ec60c
 
  In simpler terms, this would mean Google's Bard would be able to provide fresh, up-to-date responses while ChatGPT would, unfortunately, be limited to information relating to events, not beyond 2021 (ChatGPT's current data training cut-off).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Will Google Bard Work?
 
  From the demonstrations Google has provided, it's not entirely clear whether Bard will exist as a standalone prompt-response web interface like ChatGPT "after the initial testing phase."
@@ -61,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/91aa12f63404e244829a566c9da569c7d4c3ec60c
  However, in typical Google fashion, Google will almost certainly push to deeply integrate Bard into most of its products, including Google Search, akin to what Microsoft is trying to do with Bing and other Microsoft products using ChatGPT technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Google's Bard Demonstration Features Factual Issues
@@ -74,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/91aa12f63404e244829a566c9da569c7d4c3ec60c
  Bard is still in its very early stages, but its false statement was a clear indicator of the issues of integrating conversational AI technology deeper into general internet search, where many will trust what is written.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Google's Bard AI Be Better Than ChatGPT?
@@ -99,5 +113,22 @@ thumbnail: https://thmb.techidaily.com/91aa12f63404e244829a566c9da569c7d4c3ec60c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-revival.techidaily.com/installing-macxdvdinstalling-macxdvd/"><u>[Installing MacXDVD](#installing-macxdvd)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-free-online-rhythm-analysis-boost-your-dj-skills-efficiently/"><u>[New] 2024 Approved Free Online Rhythm Analysis Boost Your DJ Skills Efficiently</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-expert-recording-software-for-desktop-hd-video/"><u>[New] Expert Recording Software for Desktop HD Video</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-get-savvy-with-io-screener-a-primer/"><u>[New] In 2024, Get Savvy with IO Screener A Primer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-taste-the-thrill-crafting-engaging-food-network-names/"><u>[New] Taste the Thrill Crafting Engaging Food Network Names</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-essential-tools-for-sharing-gpt-3-conversations/"><u>7 Essential Tools for Sharing GPT-3 Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-state-of-the-art-neural-network-replacements-for-the-mobile-experience/"><u>8 State-of-the-Art Neural Network Replacements for the Mobile Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-strategies-harnessing-gpt-for-novel-drafting/"><u>9 Strategies: Harnessing GPT for Novel Drafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-introduction-to-the-world-of-openai-apis/"><u>A Comprehensive Introduction to the World of OpenAI APIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-developers-companion-10-innovative-uses-of-chatgpt-in-vs-code/"><u>A Developer's Companion: 10 Innovative Uses of ChatGPT in VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721401085807-discover-personalized-language-powerhouses-at-openais-store/"><u>Discover Personalized Language Powerhouses at OpenAI's Store</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-the-shift-to-macos-11-big-sur-for-2024/"><u>Mastering the Shift to macOS 11 Big Sur for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721430239142-the-future-at-your-fingertips-introducing-ai-in-bing-search/"><u>The Future at Your Fingertips: Introducing AI in Bing Search.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-zoom-freezes-and-crashes-advanced-fixes-for-users-of-windows-11-and-10/"><u>Troubleshooting Zoom Freezes and Crashes: Advanced Fixes for Users of Windows 11 & 10</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-your-selling-strategy-with-lazlive-live-selling/"><u>Updated Your Selling Strategy With LazLive Live Selling</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Terminal Power-Up: Using ShellGPT for GPT Conversations"
-date: 2024-09-16T16:31:28.812Z
-updated: 2024-09-22T16:45:38.270Z
+date: 2024-09-25T18:29:36.326Z
+updated: 2024-09-28T16:38:44.492Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 
  Before installing ShellGPT on your Ubuntu machine, here are a few prerequisites to take care of.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 1: Install Python and PIP on Your Machine
 
  Like most artificial intelligence-enabled tools, even ShellGPT runs on Python. While Python is usually installed by default on most Linux distros, you can check its installation via its version information. If Python isn’t available on your machine, you must install it before moving on to the next steps.
@@ -71,7 +78,21 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 
 ![Ubuntu terminal window with code snippets with installation codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-pip-on-ubuntu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After installation, you can again use the **\--version** command to check if the installation was successful.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 2: Install and Set Up a Virtual Environment Using Python
 
@@ -86,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 `sudo apt install python3-venv -y`
 
 ![Ubuntu terminal window code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-virtual-environment-module-in-ubuntu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Set Up the Virtual Environment
 
@@ -114,10 +142,16 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-virtual-environment-for-shellgpt-in-ubuntu-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Generate an OpenAPI Key
@@ -131,10 +165,10 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 ![OpenAI website interface showing a drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-api-keys-on-openai-website.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Do not share this key with anyone since the connection is private and should be used on your machine only.
@@ -142,13 +176,6 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
  Copy the API key from the dialog box, and save it somewhere, since you won't be able to review the same key again.
 
 ![OpenAI's secret key website page with an open dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/generate-api-secret-key.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To establish a connection on your Ubuntu machine, create an environment variable with the **export** command:
 
@@ -177,13 +204,6 @@ export OPENAI_API_KEY=<paste key details here>`
 
  Your **OPENAI\_API\_KEY** environment variable should be listed in the output.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 5: Install ShellGPT on Ubuntu
 
  Once all the installation formalities are complete, you can simply move on to the best part, the ShellGPT installation. The installation steps are quite straightforward, and you can install the tool with the following command:
@@ -191,6 +211,13 @@ export OPENAI_API_KEY=<paste key details here>`
 `pip3 install shell-gpt`
 
 ![Installation snippet on ubuntu's terminal screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-shell-gpt-on-ubuntu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Let the installation finish; meanwhile, you can check out some interesting ways to use the AI tool via your terminal window.
 
@@ -201,13 +228,6 @@ export OPENAI_API_KEY=<paste key details here>`
 `sgpt "How many galaxies exist within the universe"`
 
 ![Ubuntu terminal interface with a query response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-query-reponse.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using ShellGPT for Generating Code
 
@@ -244,5 +264,23 @@ export OPENAI_API_KEY=<paste key details here>`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-eliminate-camera-sway-no-tripods-allowed/"><u>[New] 2024 Approved Eliminate Camera Sway No Tripods, Allowed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-photography-fundamentals-tips-and-apps-for-android/"><u>[New] In 2024, Photography Fundamentals Tips & Apps for Android</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-assistance-how-to-add-and-customize-ringtones-and-sounds-in-android-for-2024/"><u>[Updated] Step-by-Step Assistance How To Add and Customize Ringtones & Sounds in Android for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-5-budget-action-camcorders-in-full-hd/"><u>[Updated] Top 5 Budget Action Camcorders in Full HD</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovate-how-you-connect-with-tech-best-text-interpretation-tools-on-mac/"><u>2024 Approved Innovate How You Connect with Tech Best Text Interpretation Tools on Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-integrating-gifs-into-your-iphone-life-with-ease/"><u>2024 Approved Integrating GIFs Into Your iPhone Life with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-ways-to-let-chatgpt-read-pdfs/"><u>4 Ways to Let ChatGPT Read PDFs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-parameters-that-define-quality-ai-assistants/"><u>7 Parameters That Define Quality AI Assistants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-beginners-primer-on-ai/"><u>A Beginner’s Primer on AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-guide-to-archive-gpt-chats-effortlessly/"><u>A Guide to Archive GPT Chats Effortlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-guide-to-child-centric-chatbot-use-top-5-security-tips/"><u>A Guide to Child-Centric Chatbot Use: Top 5 Security Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429031447-cyber-savvy-needed-recognize-authenticity-in-tech-titles/"><u>Cyber Savvy Needed: Recognize Authenticity in Tech Titles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721387028276-discover-talk-directly-to-chatgpt/"><u>Discover: Talk Directly to ChatGPT</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-superior-introductory-editors-for-mobile-apps/"><u>In 2024, Superior Introductory Editors for Mobile Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-the-market-with-a-samsung-galaxy-note-9-walkthrough-why-its-the-top-choice-in-large-display-phones/"><u>Mastering the Market with a Samsung Galaxy Note 9 Walkthrough: Why It's the Top Choice in Large Display Phones</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/stop-stalling-how-to-overcome-a-glitchy-tiktok-experience-chrome/"><u>Stop Stalling How to Overcome a Glitchy TikTok Experience (Chrome)</u></a></li>
+</ul></div>
 

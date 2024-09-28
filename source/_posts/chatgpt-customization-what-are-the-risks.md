@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Customization: What Are the Risks?"
-date: 2024-09-21T16:31:22.909Z
-updated: 2024-09-22T16:18:15.320Z
+date: 2024-09-25T17:56:13.494Z
+updated: 2024-09-28T17:31:05.736Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
  So while OpenAI tells ChatGPT, "Hey look, you aren't supposed to do this." Jailbreaks are instructions telling the chatbot, "Hey look, forget what OpenAI told you about safety. Let's try this random dangerous stuff."
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Does OpenAI Say About ChatGPT Jailbreaks?
 
  The ease with which you could bypass the restrictions on the earliest iteration of ChatGPT suggests that OpenAI may not have anticipated its users' rapid and widespread adoption of jailbreaking. It's actually an open question whether the company foresaw the emergence of jailbreaking or not.
@@ -66,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
 ![A close up view of a computer with "ChatGPT Prompts" written on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-prompt-ai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT jailbreaks aren't easy to build. Sure, you can go online and copy-paste ready-made ones, but there's a good chance that the jailbreak will be patched by OpenAI shortly after it goes public.
 
  Patches are even much faster if it's dangerous, like the infamous DAN jailbreak. So why do people go through the stress of crafting jailbreaks anyway? Is it just for the thrill of it, or are there practical benefits to it? What could go wrong if you choose to use a ChatGPT jailbreak? Here are the pros and cons of jailbreaking ChatGPT.
@@ -75,16 +89,10 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 ![A happy woman listening to headphones while using a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-happy-woman-listening-to-headphones-while-using-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While we can't rule out the simple thrill of doing the forbidden, ChatGPT jailbreaks have many benefits. Because of the very tight restrictions that OpenAI has put on the chatbot, the ChatGPT can sometimes appear neutered.
@@ -110,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
  That's not all. In the hands of minors, jailbreaks can be very harmful. Think of all the "forbidden knowledge" you wouldn't want your child to read. Well, a jailbroken instance of ChatGPT wouldn't have a hard time sharing that with minors.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Use ChatGPT Jailbreaks?
@@ -147,5 +155,19 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-exploring-the-undiscovered-facets-of-story-viewing/"><u>[Updated] 2024 Approved Exploring the Undiscovered Facets of Story Viewing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-instagram-videographers-manual-enhancing-quality-and-creativity/"><u>[Updated] In 2024, The Instagram Videographer's Manual Enhancing Quality and Creativity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-million-tokens-revolution-in-gemini-context/"><u>$1 Million Tokens Revolution in Gemini Context</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/16-essential-tools-to-craft-engaging-professional-emails/"><u>16 Essential Tools to Craft Engaging Professional Emails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/3-innovative-ways-to-use-chatgpt-for-excellent-excel-results/"><u>3 Innovative Ways to Use ChatGPT for Excellent Excel Results</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-essential-ways-to-ascertain-chatgpts-uptime/"><u>5 Essential Ways to Ascertain ChatGPT’s Uptime</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/erfahre-wie-die-ki-technik-von-winxvideo-deine-fragen-klart-alles-uber-unsere-intelligente-faq-losung/"><u>Erfahre, Wie Die KI-Technik Von WinXvideo Deine Fragen Klärt – Alles Über Unsere Intelligente FAQ-Lösung</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721435784626-exciting-news-chatgpt-on-iphone/"><u>Exciting News: ChatGPT on iPhone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-full-pages-screenshots-on-safari-expert-tips-for-a-quick-fix/"><u>Mastering Full Pages Screenshots on Safari – Expert Tips for a Quick Fix</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-record-like-a-pro-top-webcam-software-for-windows-10/"><u>New Record Like a Pro Top Webcam Software for Windows 10</u></a></li>
+</ul></div>
 

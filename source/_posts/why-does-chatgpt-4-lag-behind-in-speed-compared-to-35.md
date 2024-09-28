@@ -1,7 +1,7 @@
 ---
 title: Why Does ChatGPT-4 Lag Behind in Speed, Compared to 3.5?
-date: 2024-09-19T19:14:24.049Z
-updated: 2024-09-22T18:52:38.523Z
+date: 2024-09-22T17:39:00.976Z
+updated: 2024-09-28T16:45:26.767Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
 ![loading text and bar symbol on black exterior wall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/black-wall-loading.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Many noticed upon the release of GPT-4 that OpenAI's new chatbot was incredibly slow. This left scores of users frustrated, as GPT-4 was meant to be a step up from GPT-3.5, not backward. As a result, GPT-4 users have been taking to online platforms, such as Reddit and OpenAI's community board, to discuss the issue.
 
  On [OpenAI's Community Forum](https://community.openai.com/t/gpt-4-extremely-slow-compared-to-3-5/106298), a number of users have come forward with their GPT-4 delay frustrations. One user stated that GPT-4 was "extremely slow" on their end and that even small requests made to the chatbot resulted in unusually long delays of over 30 seconds.
@@ -59,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
  With delays and failed or half-baked responses, it seems that GPT-4 is littered with issues that are quickly putting users off.
 
  So why, exactly, is this happening? Is there something wrong with GPT-4?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Is GPT-4 Slow Compared to GPT-3.5?
 
@@ -75,15 +89,28 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
  But the biggest reason GPT-4 is slow is the number of parameters GPT-4 can call upon versus GPT-3.5\. The phenomenal rise in parameters simply means it takes the newer GPT model longer to process information and respond accurately. You get better answers with increased complexity, but getting there takes a little longer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Choose GPT-3.5 Over GPT-4?
 
 ![digital graphic of openai logo on glass tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-ai-logo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So, with these issues in mind, should you use [GPT-3.5 or GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/)?
 
@@ -92,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
  However, you should note that GPT-4 isn't just GPT-3.5 but slower. This version of OpenAI's chatbot has numerous advantages over its predecessor. If you're looking for a more advanced AI chatbot and don't mind waiting longer for responses, it may be worth transitioning from GPT-3.5 to GPT-4\.
 
  Over time, GPT-4's delays may be lessened or entirely resolved, so patience could be a virtue here. Whether you try switching to GPT-4 now or wait a little longer to see how things play out with this version, you can still get a lot out of OpenAI's nifty little chatbot.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## GPT-4 Is More Advanced but Comes With a Lag
 
@@ -121,5 +141,23 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ultimate-screenplay-treasures-for-each-movie-division/"><u>[Updated] 2024 Approved Ultimate Screenplay Treasures for Each Movie Division</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-ways-your-work-could-get-compromised-using-chatgpt/"><u>10 Ways Your Work Could Get Compromised Using ChatGPT</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-recording-techniques-with-adobe-presenter/"><u>2024 Approved Mastering Recording Techniques with Adobe Presenter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024-windows-10-11-8-7dvd/"><u>2024 Windows 10-11-8-7系统上的十个推荐专业版本的免费DVD刻录软件</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-free-ai-tools-to-generate-professional-emails-with-chatgpt-and-summarize-your-inbox/"><u>5 Free AI Tools to Generate Professional Emails With ChatGPT & Summarize Your Inbox</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-communities-for-beginners-to-learn-about-ai-tools/"><u>9 Communities for Beginners to Learn About AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-beginners-guide-to-efficiently-using-chatgpt-extensions/"><u>A Beginner's Guide to Efficiently Using ChatGPT Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-gemini-versus-chatgpt-the-ultimate-test/"><u>A Deep Dive: Gemini Versus ChatGPT – The Ultimate Test</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-process-for-local-llama-2-setup/"><u>A Step-By-Step Process for Local Llama 2 Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721419742232-chatgpt-for-your-apple-device-now-available/"><u>ChatGPT for Your Apple Device Now Available</u></a></li>
+<li><a href="https://win11.techidaily.com/enrich-text-messaging-with-emoji-15-on-windows-11/"><u>Enrich Text Messaging with Emoji 15 on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-rtx-2070-super-graphics-card-driver-updates-and-download-instructions-for-windows/"><u>Nvidia GeForce RTX 2070 Super Graphics Card Driver Updates and Download Instructions for Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tiktok-phenomena-the-twitter-top-ten-chart-for-2024/"><u>TikTok Phenomena The Twitter Top Ten Chart for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-14-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 14 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/videotwit-grabber-capture-tweets-visuals-for-ios/"><u>VideoTwit Grabber Capture Tweets' Visuals for iOS</u></a></li>
+</ul></div>
 

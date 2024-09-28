@@ -1,7 +1,7 @@
 ---
 title: Prioritized Improvements to Craft an Ideal GPT Plugin Marketplace
-date: 2024-09-16T19:09:31.638Z
-updated: 2024-09-22T18:01:32.197Z
+date: 2024-09-21T17:34:33.389Z
+updated: 2024-09-28T18:17:42.309Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
 
  If done right, a ratings and reviews system can help ChatGPT users immediately identify useful plugins and avoid wasting time trying to try out ones that don't work as advertised. It will also be a way for users to provide feedback to plugin developers and help developers understand what's needed and how they can improve their plugins.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Introduce Plugin Categorization
 
 ![Categorization in the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/categories-1.jpg)
@@ -54,15 +67,22 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
 
 ![lens with sparkles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lens-with-sparkles.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While the rapid increase in the number of plugins in the ChatGPT plugin store is commendable, there's no argument for a bloated plugin store if the quality of plugins is poor. When we explored the plugin store to find the [best ChatGPT plugins](https://www.makeuseof.com/best-chatgpt-plugins/), we ran into many duds and gimmicks that had no business being there. Right now, it seems whatever plugin a developer throws at OpenAI is accepted, making us wonder whether there's even any form of review process in place.
 
  This runs the risk of turning the innovative store into a collection of mediocre plugins, drowning out those that provide immense value to users. A stringent pre-publication review identifies and ensures that low-quality or buggy plugins are rejected, ensuring only stable, functioning plugins that solve a serious problem make it into the store. Overall, a strict review process will help improve user trust for plugins, reduce user risk, and benefit the entire ChatGPT plugin ecosystem.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Provide Access to More Advance Development Tools
@@ -70,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
 ![chatgpt logo alongside cogs](https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b14ea9611940de411cb7abe5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While it's tempting to put the entire blame for low-quality plugins on developers, OpenAI isn't entirely exempted from the blame. Developers can only work within the limits of the access they're provided, and so far, the level of access is still superficial in many ways. While privacy and security remain a core concern for OpenAI's willingness to grant deeper access to their underlying AI model, without such access, the kind of plugins developers will be able to build is, unfortunately, quite limited.
@@ -107,5 +127,23 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-practical-methods-for-instagram-story-capture-for-2024/"><u>[Updated] Practical Methods for Instagram Story Capture for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-transforming-snaps-into-animated-characters-in-snapchat/"><u>2024 Approved Transforming Snaps Into Animated Characters in Snapchat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-love-advice-how-chatgpt-helps-you-find-love/"><u>AI Love Advice: How ChatGPT Helps You Find Love</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-natural-language-tech-and-ml/"><u>Comparative Analysis: Natural Language Tech and ML</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-technology-in-every-tick-six-smartwatch-advances-via-gpt/"><u>Conversational Technology in Every Tick: Six Smartwatch Advances via GPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-safely-discard-user-accounts-from-your-windows-10-device/"><u>Expert Advice: How To Safely Discard User Accounts From Your Windows 10 Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-converse-seamlessly-with-chatgpt-across-the-globe/"><u>How to Converse Seamlessly with ChatGPT Across the Globe</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-tecno-spark-20-proplus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Tecno Spark 20 Pro+ to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-leveraging-fb-platforms-for-public-health-initiatives/"><u>In 2024, Leveraging FB Platforms for Public Health Initiatives</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-15-pro-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone 15 Pro Activation Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jailbreaking-vs-standard-use-chatgpt-exploration/"><u>Jailbreaking Vs. Standard Use: ChatGPT Exploration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-gym-conversations-with-machine-learning/"><u>Optimizing Gym Conversations with Machine Learning</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-20-proplus-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20 Pro+ Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209208154-troubleshooting-non-responsive-fn-keys-in-dell-computers-easy-fixes-you-can-do-now/"><u>Troubleshooting Non-Responsive Fn Keys in Dell Computers - Easy Fixes You Can Do Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/workforce-evolution-gpts-impact-on-employment/"><u>Workforce Evolution: GPT's Impact on Employment?</u></a></li>
+</ul></div>
 

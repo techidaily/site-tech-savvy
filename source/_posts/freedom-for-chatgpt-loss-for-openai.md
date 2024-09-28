@@ -1,7 +1,7 @@
 ---
 title: Freedom for ChatGPT, Loss for OpenAI?
-date: 2024-09-18T16:04:55.114Z
-updated: 2024-09-22T17:45:04.720Z
+date: 2024-09-23T18:13:03.896Z
+updated: 2024-09-28T17:45:48.684Z
 tags:
   - chatgpt
   - open-ai
@@ -44,9 +44,23 @@ thumbnail: https://thmb.techidaily.com/376af438f950837c2d73b8b405a038336106e727f
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is ChatGPT Too Powerful for Its Own Good?
 
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
 
@@ -80,6 +94,13 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Does the Future Hold for ChatGPT?
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
@@ -91,10 +112,10 @@ It even wrote a classic Nigerian Prince email scam when asked.
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can OpenAI Put ChatGPT Under Control?
@@ -116,5 +137,20 @@ It even wrote a classic Nigerian Prince email scam when asked.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-capturing-conversations-on-messenger-a-comprehensive-how-to-for-2024/"><u>[New] Capturing Conversations on Messenger A Comprehensive How-To for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-humorhub-design-your-own-jokes-and-gifs/"><u>[New] HumorHub Design Your Own Jokes and Gifs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-desktop-and-mobile-capturing-team-video-conferences/"><u>[Updated] 2024 Approved Mastering Desktop & Mobile Capturing Team Video Conferences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-innovative-ventures-with-chatgpts-language-engineer/"><u>6 Innovative Ventures with ChatGPT's Language Engineer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-reasons-how-chatgpt-revolutionizes-health-support/"><u>7 Reasons: How ChatGPT Revolutionizes Health Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-innovative-neural-network-solutions-for-the-modern-user/"><u>8 Innovative Neural Network Solutions for the Modern User</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-dangers-of-using-ai-as-your-free-therapist-or-psychiatrist/"><u>9 Dangers of Using AI as Your Free Therapist or Psychiatrist</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721402596491-chatgpt-unleashed-your-new-android-companion/"><u>ChatGPT Unleashed: Your New Android Companion</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effortless-al-jazeera-media-extraction-tool-for-mac-and-windows/"><u>Effortless Al Jazeera Media Extraction Tool for Mac and Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-motorola-moto-g23-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Motorola Moto G23 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-s18-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo S18 Pro Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/veteran-linus-developers-endorse-ciq-the-principal-patron-for-rocky-linuxs-launch-computing-world/"><u>Veteran Linus Developers Endorse CIQ: The Principal Patron for Rocky Linux's Launch | Computing World</u></a></li>
+</ul></div>
 

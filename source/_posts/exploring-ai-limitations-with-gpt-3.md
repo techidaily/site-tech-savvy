@@ -1,7 +1,7 @@
 ---
 title: Exploring AI Limitations with GPT-3
-date: 2024-09-20T18:04:13.132Z
-updated: 2024-09-22T16:24:13.512Z
+date: 2024-09-21T16:23:42.513Z
+updated: 2024-09-28T16:15:06.496Z
 tags:
   - chatgpt
   - open-ai
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
 
  If you're looking for recent news, weather updates, and other real-time data, ChatGPT won't be of much use. [Other AI chatbots like Claude](https://www.makeuseof.com/what-is-claude-ai-why-use-it/) have been trained with more recent information, but you still won't be able to access data less than a few months old.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Give Criminal Advice
 
  ChatGPT follows a strict ethical code, part of which prevents the chatbot from providing criminal advice. You can't ask ChatGPT how to commit a crime, conceal evidence, lie to law enforcement, or conduct any other criminal activities. On top of this, ChatGPT won't engage with any prompts about illegal drugs.
@@ -76,6 +83,19 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
 
  Even if you mention some personal information in a ChatGPT conversation, you can [delete any ChatGPT conversations](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) as and when you wish.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Give Predictions
 
  ChatGPT knows a lot, but it cannot predict the future. This isn't just because predicting the future is a risky game. As previously discussed, ChatGPT only has access to data before September 2021, so making any predictions using this older information would be very tough.
@@ -85,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
  In the same respect, ChatGPT also can't make political or scientific predictions with its training data. You can forget about getting any sports predictions out of ChatGPT, too.
 
  It's better to consult dedicated websites or professionals if you're looking for solid predictions, be it in finance, politics, or sports.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Answer Bigoted or Hateful Questions
 
@@ -113,13 +126,20 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
 
 ![chatgpt opinion request screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-opinion-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Look Up Web Results
@@ -131,13 +151,6 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
  ChatGPT Plus is a paid subscription that costs $20 monthly. If you use ChatGPT a lot and want access to all the service's features, you may want to consider upgrading to Plus.
 
  At the time of writing, ChatGPT's browsing feature is disabled but is expected to return in the future.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Isn't an All-in-One Solution
 
@@ -160,5 +173,18 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-a-comprehensive-list-of-15-competitors-to-gopro-cameras/"><u>[New] In 2024, A Comprehensive List of 15 Competitors to GoPro Cameras</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-joyful-account-access-instructions/"><u>2024 Approved Joyful Account Access Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-catalysts-da-vincis-triumph-in-image-generation-ai/"><u>Creative Catalysts: Da Vinci’s Triumph in Image Generation AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-words-to-waves-mastering-sound-synthesis-via-ai/"><u>From Words to Waves: Mastering Sound Synthesis via AI</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/humor-hub-picture-composer-for-2024/"><u>Humor Hub Picture Composer for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-narzo-60-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme Narzo 60 5G Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-videos-enhance-your-watch-time-for-2024/"><u>Instagram Videos Enhance Your Watch Time for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-features-of-llama-2-with-ease/"><u>Navigating the Features of Llama 2 with Ease</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-methods-for-computer-based-vhs-artistic-touches/"><u>Perfect Methods for Computer-Based VHS Artistic Touches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/supercharge-your-day-examining-7-ways-chatgpt-elevates-productivity/"><u>Supercharge Your Day: Examining 7 Ways ChatGPT Elevates Productivity</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-stellar/"><u>Windows 用の失われたファイルを復元する Stellar データリカバリ -無料版でも利用可能</u></a></li>
+</ul></div>
 

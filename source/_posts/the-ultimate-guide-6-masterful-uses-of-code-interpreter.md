@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: 6 Masterful Uses of Code Interpreter"
-date: 2024-09-20T16:15:29.263Z
-updated: 2024-09-22T18:22:35.844Z
+date: 2024-09-25T16:42:12.508Z
+updated: 2024-09-28T17:32:14.465Z
 tags:
   - chatgpt
   - open-ai
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
@@ -94,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Read, Edit and Create Documents
 
  File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
@@ -107,10 +121,16 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
@@ -127,18 +147,18 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
 
@@ -163,5 +183,24 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-battle-royale-concrete-fists-vs-digital-screens/"><u>[New] Battle Royale Concrete Fists vs Digital Screens</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726224904894-movaviwtvmp4/"><u>網路上無需付錢，用Movavi做WTV到MP4的轉換 - 自由版</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-winning-proposals-the-chatgpt-method/"><u>Crafting Winning Proposals: The ChatGPT Method</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-science-of-openai-ai/"><u>Discover the Science of OpenAI AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/establish-a-home-friendly-low-cost-windows-simulation/"><u>Establish a Home-Friendly, Low-Cost Windows Simulation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/evaluating-wirecast-other-options-to-consider/"><u>Evaluating WireCast Other Options To Consider</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-lava-storm-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Lava Storm 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-strategies-for-dominating-youtube-search-results-through-seo/"><u>In 2024, Strategies for Dominating YouTube Search Results Through SEO</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/initiating-effective-chatgpt-dialogues/"><u>Initiating Effective ChatGPT Dialogues</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pro-cameras-who-wins-gopro-and-garmin-virb-comparison/"><u>Pro Cameras, Who Wins? GoPro & Garmin VIRB Comparison</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ps5-variants-explored-an-in-depth-look-at-ps5-slim-against-the-regular-ps5/"><u>PS5 Variants Explored: An In-Depth Look at PS5 Slim Against The Regular PS5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rethinking-health-with-ai-can-chatgpt-help/"><u>Rethinking Health with AI: Can ChatGPT Help?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-gaming-universe-expanded-how-bzs-innovation-meets-microsofts-ai-prowess-interview-series/"><u>The Gaming Universe Expanded: How BZ's Innovation Meets Microsoft's AI Prowess [Interview Series]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-resolving-connection-issues-with-your-stadia-headset/"><u>Troubleshooting Guide: Resolving Connection Issues with Your Stadia Headset</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-and-utilizing-gpt-3-shared-links-effectively/"><u>Understanding and Utilizing GPT-3 Shared Links Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/you-can-now-use-bings-ai-powered-search-on-android-and-ios/"><u>You Can Now Use Bing's AI-Powered Search on Android and iOS</u></a></li>
+</ul></div>
 

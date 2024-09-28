@@ -1,7 +1,7 @@
 ---
 title: "Illuminating the AI Realm: Upsides & Downfalls"
-date: 2024-09-16T17:01:36.199Z
-updated: 2024-09-22T18:51:45.768Z
+date: 2024-09-27T18:18:33.562Z
+updated: 2024-09-28T17:48:15.067Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
  The AI we use today, ANI (aka weak AI), is mainly about pattern recognition and making programmed inferences. In the same way we humans use our senses to navigate the world around us and act accordingly, AI uses the data we give it to do all sorts of things.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Examples of AI
 
  When you google something, AI displays the search results you're most likely to find helpful based on the keywords in your text. For example, on YouTube, AI recommends videos you're most likely to want to watch based on your watch history (and other factors).
@@ -49,6 +56,19 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  On Amazon, AI decides the order of the product listings, so you find what you're looking for faster. When using the self-driving mode on a Tesla, AI uses the car's sensors to perceive its surroundings and decide when to accelerate, make turns, hit the brakes, and more. We could go on, but you get the idea.
 
  We made AI for the same reason we make any technology: to reduce suffering and increase pleasure. Today, AI helps us translate languages, [avoid traffic jams](https://www.makeuseof.com/tag/how-google-predicts-traffic/), prevent fraud, manage inventory, [automate household chores](https://www.makeuseof.com/tech-ease-overwhelming-feeling-everyday-tasks-chores/), create diet plans, trade stocks, create content, [make artwork](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/), study analytics, and more.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are the Risks and Dangers of Using AI?
 
@@ -63,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  Furthermore, AI tools are now used to impersonate celebrities, politicians, and public figures via [deepfake technology](https://www.makeuseof.com/tag/what-are-deepfakes-explained/) and voice cloning. This is extremely dangerous for obvious reasons. Unfortunately, as the tech improves, it'll become more difficult to tell what's real and what's fake.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Should Be a Tool, Not a Weapon
@@ -94,5 +114,24 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-elite-editing-experience-photonshift-phenomenon-for-2024/"><u>[New] Elite Editing Experience PhotonShift Phenomenon for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-updated-guide-leading-camcorders-for-ocean-exploration/"><u>[New] Updated Guide Leading Camcorders for Ocean Exploration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/11-pro-tips-to-leverage-chatgpt-in-character-creation-success/"><u>11 Pro Tips to Leverage ChatGPT in Character Creation Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-2023s-best-intro-editor-app-for-all-your-devices/"><u>2024 Approved 2023’S Best Intro Editor App for All Your Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-navigating-your-way-through-screen-recording-on-mac-os-x/"><u>2024 Approved Navigating Your Way Through Screen Recording on Mac OS X</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-realme-gt-3-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Realme GT 3 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-secret-capabilities-of-gpt-for-immersive-dialogue-adventures/"><u>5 Secret Capabilities of GPT for Immersive Dialogue Adventures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ways-kids-can-use-chatgpt-safely/"><u>5 Ways Kids Can Use ChatGPT Safely</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-simple-steps-to-sidestep-gpt-dialogue-dangers/"><u>6 Simple Steps to Sidestep GPT Dialogue Dangers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-balanced-view-on-choosing-a-local-llm-model/"><u>A Balanced View on Choosing a Local LLM Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-primer-on-claude-3s-capabilities-and-applications/"><u>A Primer on Claude 3'S Capabilities and Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721404930285-ai-hub-unveils-tailored-gpt-marketplace-your-guide/"><u>AI Hub Unveils Tailored GPT Marketplace – Your Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-y27s-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo Y27s FRP</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-infinix-smart-8-plus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Infinix Smart 8 Plus without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-find-x6-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo Find X6 Pro Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721372081731-no-membership-necessary-gpt-4-available-to-all-with-platinum-benefits-still-worth-it/"><u>No Membership Necessary: GPT-4 Available to All, with Platinum Benefits Still Worth It.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-skype-audio-problems-quickly-and-effortlessly/"><u>Resolve Your Skype Audio Problems Quickly & Effortlessly</u></a></li>
+</ul></div>
 

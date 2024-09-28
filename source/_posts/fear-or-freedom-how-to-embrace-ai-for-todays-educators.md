@@ -1,7 +1,7 @@
 ---
 title: Fear or Freedom? How to Embrace AI for Today's Educators
-date: 2024-09-21T16:37:46.812Z
-updated: 2024-09-22T18:12:34.774Z
+date: 2024-09-22T18:28:58.101Z
+updated: 2024-09-28T17:20:15.405Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,19 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
  Apart from sparking creativity, art generators can help students play around with different art styles. Indeed, most artists have a specialty. But exploring various techniques gives them deeper insights into other art forms.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Chatbots Help Students With Research
 
  While students should never submit AI-generated content as is, there’s nothing wrong with reading them. Chatbots streamline research. They provide condensed, straightforward outputs comprising details from widely known and trusted resources.
@@ -57,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
  The best approach is to use chatbots at the start of the research process. Have them simplify topics first. Otherwise, students might have trouble following more complex journals, academic papers, and scholarly databases.
 
  Consider using Bing instead of ChatGPT for research. Bing Chat lists its sources, making it easier to double-check the information presented.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. AI Tools Automate Work Tasks
 
@@ -77,24 +83,31 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
 ![A Smiling Female Teacher and a Female Student Talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/female-teacher-and-student-in-class.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’ve ever misunderstood your students, you’re not alone. Many people have trouble reading the thoughts, emotions, and desires of someone younger than them. Cultural generation gaps are hard to overcome.
 
  Although empathy is innate, you can practice it online by conversing with chatbots. Ask AI to portray different personas. The below image shows how ChatGPT would illustrate a 20-year-old male college student whose personal problems are interfering with school.
 
 ![ChatGPT Roleplaying as Jeff a 20 year old College Kid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-roleplaying-as-college-kid.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You could also ask ChatGPT for advice.
 
 ![ChatGPT Giving Advice About Student Falling Behind in Classes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-giving-advice.jpg)
 
  Just note that AI isn’t sentient. It only acts out personas based on its trained datasets—chatting with AI won’t replace in-person consultations. Try reaching out to your students to gain first-hand insights into their lives.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Using AI Still Requires Critical Thinking
 
@@ -108,35 +121,35 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
 ![Hosting a Group Video With Four People on a Tablet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/group-video-call-on-tablet.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Audio-visual aids play a crucial role in modern learning environments. Educators use pre-recorded assets to demonstrate complex topics that might be challenging to explain verbally. You’ll find them in digital and in-person classes alike.
 
  Despite the importance of these assets, not many classes get quality presentations. Crafting them requires expensive resources. Educators rarely have the skills, time, and equipment to produce high-definition videos alone.
 
  To resolve this issue, schools should equip lecturers and professors with [AI-driven video enhancers](https://www.makeuseof.com/tag/video-quality-enhancers/). They upgrade low-quality media to 720p, 1080p, or 4K. You’ll find these helpful when editing films taken on smartphones or shot in poor lighting conditions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. AI Creates New Job Opportunities
 
 ![Job Search Results for AI on Upwork](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/upwork-ai-job-search.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Despite what skeptics fear, AI won’t entirely replace human jobs. It's primarily designed to execute rote work. Complex tasks that require critical thinking, creative designs, and subjective interpretations still require human workers.
 
  If anything, AI creates more job opportunities. Global tech leaders investing billions in the AI race need skilled professionals who can materialize their vision. They’ll pay a handsome sum for the building of AI systems.
 
  Considering the AI industry’s rapid growth, educators should let students explore various tools as early as possible. Show them the [different careers in AI](https://www.makeuseof.com/best-careers-artificial-intelligence/). Computer programmers could look into system building, while communication experts might excel in prompt engineering.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Teach and Study the Responsible Use of AI
 
@@ -161,5 +174,19 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhancing-virtual-meetings-zooming-up-your-skype-game/"><u>[New] 2024 Approved Enhancing Virtual Meetings Zooming Up Your Skype Game</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-capture-and-safeguard-periscope-videos-effectively/"><u>[New] In 2024, Capture & Safeguard Periscope Videos Effectively</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-clarity-chronicles-for-beginners-unraveling-resolution-factors/"><u>[Updated] Clarity Chronicles for Beginners Unraveling Resolution Factors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-starting-vlogging-right-the-top-equipmentsoftware-for-2024/"><u>[Updated] Starting Vlogging Right The Top Equipment/Software for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-uploading-srt-text-in-digital-communities/"><u>2024 Approved Mastering the Art of Uploading SRT Text in Digital Communities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-critical-avenues-artificial-intelligence-and-cybercrime-synergy/"><u>5 Critical Avenues: Artificial Intelligence and Cybercrime Synergy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-predictable-gpt-automobile-setup-snags-and-solutions/"><u>6 Predictable GPT Automobile Setup Snags & Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-reasons-why-content-writers-cant-rely-on-ai-chatbots/"><u>8 Reasons Why Content Writers Can't Rely on AI Chatbots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-approach-to-clearing-older-gpt-discussions/"><u>A Step-by-Step Approach to Clearing Older GPT Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721417617825-all-now-free-explore-gpt-4-but-dont-disregard-plus-perks/"><u>All Now Free: Explore GPT-4, But Don't Disregard Plus Perks.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elevate-your-film-edits-with-final-cuts-top-10-tools-for-2024/"><u>Elevate Your Film Edits with Final Cut’s Top 10 Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-mac-high-quality-video-and-audible-recording/"><u>In 2024, Mac High-Quality Video & Audible Recording</u></a></li>
+</ul></div>
 

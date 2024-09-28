@@ -1,7 +1,7 @@
 ---
 title: "Bot Safeguards: Identifying 3 Major Privacy Concerns Today"
-date: 2024-09-19T17:25:31.484Z
-updated: 2024-09-22T19:04:13.876Z
+date: 2024-09-25T17:19:29.111Z
+updated: 2024-09-28T16:37:30.222Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
 
  But is the case the same for GPT-4?
@@ -72,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Data Theft
 
  Like any online tool or platform, chatbots are vulnerable to cybercrime. Even if a chatbot did all it could to protect users and their data, there's always a chance that a savvy hacker will manage to infiltrate its internal systems.
@@ -85,10 +99,16 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Malware Infection
@@ -102,16 +122,10 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Chatbots Aren't Impervious to Privacy Issues
@@ -139,5 +153,23 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-a-quick-dive-into-obs-zoom-fusion-steps/"><u>[New] 2024 Approved A Quick Dive Into OBS-Zoom Fusion Steps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-navigating-virtual-spaces-easily-with-this-list-of-free-online-tools/"><u>[New] In 2024, Navigating Virtual Spaces Easily With This List of Free Online Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-panoramic-precision-battle-gear-vs-lgcam-showdown/"><u>[Updated] Panoramic Precision Battle Gear Vs LGCam Showdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-advantages-adopting-chatgpt-in-professional-development/"><u>6 Advantages: Adopting ChatGPT in Professional Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-top-innovations-outshining-mobile-openais-ai-companion/"><u>8 Top Innovations Outshining Mobile OpenAI's AI Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-reasons-you-should-upgrade-to-chatgpt-plus/"><u>9 Reasons You Should Upgrade to ChatGPT Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-the-latency-of-chatgpt-4-and-gpt-35/"><u>A Deep Dive Into the Latency of ChatGPT-4 and GPT-3.5</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/building-a-brand-in-the-metaverse-ecosystem/"><u>Building a Brand in the Metaverse Ecosystem</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chucklechisel-designing-memes-in-adobe-for-2024/"><u>ChuckleChisel Designing Memes in Adobe for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/deciphering-content-control-youtube-vs-creative-commons-license-for-2024/"><u>Deciphering Content Control YouTube Vs. Creative Commons License for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721437209416-emoji-free-twitter-stream-linuss-hidden-tech-trojans-explained-and-ai-chatbot-woes/"><u>Emoji-Free Twitter Stream, Linus's Hidden Tech, Trojans Explained, & AI ChatBot Woes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-from-digital-to-physical-crafting-flawless-dvds-on-a-mac/"><u>In 2024, From Digital to Physical Crafting Flawless DVDs on a Mac</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-xr21-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia XR21 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721415270731-mislead-no-more-recognize-real-and-rigged-chatgpt-apps/"><u>Mislead No More: Recognize Real and Rigged ChatGPT Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721436126988-spoofing-chatbots-how-some-apps-mislead-and-compromise-users/"><u>Spoofing ChatBots: How Some Apps Mislead & Compromise Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/tricks-and-tips-staying-incognito-on-steam/"><u>Tricks and Tips: Staying Incognito on Steam</u></a></li>
+</ul></div>
 

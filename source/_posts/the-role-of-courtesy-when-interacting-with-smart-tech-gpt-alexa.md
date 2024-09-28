@@ -1,7 +1,7 @@
 ---
 title: The Role of Courtesy When Interacting With Smart Tech (GPT, Alexa)
-date: 2024-09-15T16:15:28.139Z
-updated: 2024-09-22T16:22:59.103Z
+date: 2024-09-26T16:14:50.441Z
+updated: 2024-09-28T16:47:24.823Z
 tags:
   - chatgpt
   - open-ai
@@ -42,9 +42,23 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
  For instance, if you use derogatory words when addressing [Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/), it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's [Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/), which includes a **Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the [Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
@@ -56,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
  AI chatbots can be rude to you, just like humans. For instance, a [Reddit user](https://www.reddit.com/r/bing/comments/110eagl/the%5Fcustomer%5Fservice%5Fof%5Fthe%5Fnew%5Fbing%5Fchat%5Fis/) shared a screenshot of Microsoft's Bing AI in beta mode, responding rudely and arguing during an interaction. An AI chatbot can also be rude if you jailbreak it to disobey its content policy, which is one reason [you shouldn't trust every generative AI screenshot](https://www.makeuseof.com/why-you-shouldnt-trust-ai-chatbot-conversation-screenshots/) you see. Someone may have specifically asked the AI to be rude, screen-capped it for the drama, and posted it online.
@@ -65,10 +86,10 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
  On the other hand, you can [set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -94,5 +115,24 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-prime-7-fps-titles-you-cant-miss/"><u>[New] 2024 Approved Prime 7 FPS Titles You Can't Miss</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-perfecting-your-photos-utilizing-psxs-erase-feature-for-2024/"><u>[New] Perfecting Your Photos Utilizing PSX's Erase Feature for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-methods-for-eliminating-invisible-youtube-playback/"><u>[Updated] Methods for Eliminating Invisible YouTube Playback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-innovative-companions-to-replace-gpt-on-your-phone/"><u>10 Innovative Companions to Replace GPT on Your Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-chatgpt-scams-to-watch-out-for/"><u>5 ChatGPT Scams to Watch Out For</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ways-to-use-chatgpt-without-an-openai-account/"><u>5 Ways to Use ChatGPT Without an OpenAI Account</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-cybernetic-assistants-to-hone-your-prompt-proficiency/"><u>7 Cybernetic Assistants to Hone Your Prompt Proficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-shared-links-in-openais-chatgpt/"><u>A Deep Dive Into Shared Links in OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-turings-trial-future-outcomes/"><u>A Deep Dive Into Turing's Trial: Future Outcomes?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721399583846-chatgpt-and-ios-an-unstoppable-combo/"><u>ChatGPT and iOS: An Unstoppable Combo!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/from-amateur-to-pro-excelling-at-instagram-editing/"><u>From Amateur to Pro Excelling at Instagram Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721427608874-gpt-4-open-to-all-yet-premium-users-reap-6-exclusive-advantages/"><u>GPT-4: Open to All; Yet, Premium Users Reap 6 Exclusive Advantages</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-edge-2023-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Edge 2023 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-realme-narzo-60-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme Narzo 60 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-apple-iphone-15-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Apple iPhone 15 Pro on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-simple-techniques-for-amd-driver-downloads/"><u>Unlocking Simple Techniques for AMD Driver Downloads</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-frustration-ended-heres-how-to-fix-it/"><u>Zoom Frustration Ended: Here's How to Fix It</u></a></li>
+</ul></div>
 

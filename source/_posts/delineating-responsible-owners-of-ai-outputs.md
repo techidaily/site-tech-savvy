@@ -1,7 +1,7 @@
 ---
 title: Delineating Responsible Owners of AI Outputs
-date: 2024-09-16T19:22:33.125Z
-updated: 2024-09-22T16:51:30.195Z
+date: 2024-09-25T17:32:35.746Z
+updated: 2024-09-28T18:27:11.437Z
 tags:
   - chatgpt
   - open-ai
@@ -60,6 +60,13 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -67,6 +74,13 @@ Close
  Although the USCO issued a copyright in September 2022, it said it did it in error. When it came to light that the comic book was produced using MidJourney AI, its copyright protection was revoked.
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
 
@@ -78,16 +92,16 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
 
@@ -104,10 +118,10 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -133,5 +147,21 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-definitive-io-screen-recorder-guidebook/"><u>[New] In 2024, The Definitive IO Screen Recorder Guidebook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-top-music-choices-for-captivating-video-experiences/"><u>[Updated] In 2024, Top Music Choices for Captivating Video Experiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gimbal-guide-to-enhancing-mirrorless-and-dslr-footage/"><u>2024 Approved Gimbal Guide to Enhancing Mirrorless and DSLR Footage</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-70-lite-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor 70 Lite 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-content-detectors-dont-work-and-thats-a-big-problem/"><u>AI Content Detectors Don’t Work, and That’s a Big Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-reading-journey-top-5-ai-enhanced-book-platforms/"><u>Enhance Your Reading Journey - Top 5 AI-Enhanced Book Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-ai-scrutiny-post-turing-test-paradigm-shift/"><u>Reimagining AI Scrutiny Post-Turing Test Paradigm Shift</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategic-brand-integrations-within-youtube-realms/"><u>Strategic Brand Integrations Within YouTube Realms</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-10-2d-animation-software-free-and-paid/"><u>The Best of the Best Top 10 2D Animation Software (Free & Paid)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-your-source-for-computer-hardware-insights/"><u>Tom's Tech Review: Your Source for Computer Hardware Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-v29-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo V29 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-uses-for-tailored-chatgpt-guidance/"><u>Top 5 Uses for Tailored ChatGPT Guidance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-resolve-unreal-engine-4-pc-crashes/"><u>Troubleshooting Steps to Resolve Unreal Engine 4 PC Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-power-of-chatgpt-in-multiple-languages/"><u>Unlocking the Power of ChatGPT in Multiple Languages</u></a></li>
+</ul></div>
 

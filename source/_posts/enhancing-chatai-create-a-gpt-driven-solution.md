@@ -1,7 +1,7 @@
 ---
 title: "Enhancing ChatAI: Create a GPT-Driven Solution"
-date: 2024-09-19T16:20:58.312Z
-updated: 2024-09-22T18:02:29.799Z
+date: 2024-09-26T17:21:54.644Z
+updated: 2024-09-28T18:02:11.174Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,19 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 
  At the time of writing, "Create a GPT" is still in beta. This means not all features are fully online, and the product isn't finished. Bear this in mind while building your GPT and prepare to encounter issues. Also, it's possible that your finished GPT may be erased when a future update comes knocking.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Give Your GPT a Primary Description and a Picture
 
  For the sake of this piece, we'll be demonstrating how to build a Dungeons and Dragons 5th Edition dungeon master.
@@ -45,6 +58,14 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 1. Now that you're in the GPT Builder, the first question you'll get is what you want to make. You can keep this first part short and sweet and input a single sentence. In this case, we said, "Make a Dungeons & Dragons 5e dungeon master who oversees D&D campaigns."  
 ![Primary description for a D&D GPT in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/primary-description-for-a-d-d-gpt-in-gpt-builder.jpg)
 2. Next, give your GPT a name. ChatGPT will suggest one for you, but you can still type in anything you want.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
 
@@ -100,10 +121,10 @@ Here's how to upload source documents to your custom GPT:
 ![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add APIs for Third-Party Services
@@ -117,10 +138,10 @@ Here's how to upload source documents to your custom GPT:
 5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Go back when you're finished.
@@ -128,6 +149,19 @@ Go back when you're finished.
  If you don't enter a valid privacy policy, you won't be allowed to share your GPT with the public.
 
  Currently, you seem to be able to add only one action at a time. If you click the**Examples** dropdown menu, you'll see a few examples of schemas OpenAI has added to aid in creating your own schema.
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Configure Conversation Starters
 
@@ -139,20 +173,19 @@ Go back when you're finished.
 ![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can add more conversation starters as required.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Save and Publish Your GPT
 
@@ -183,5 +216,22 @@ You can add more conversation starters as required.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-chronological-displacement-effects/"><u>[New] Crafting Chronological Displacement Effects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10plus-gpt-upgrades-for-mindful-living-and-exercise/"><u>10+ GPT Upgrades for Mindful Living and Exercise</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-auditory-aesthetics-incorporating-youtube-music-into-videos/"><u>2024 Approved Auditory Aesthetics Incorporating YouTube Music Into Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-dominate-your-niche-on-fb-with-these-10-keyword-strategies/"><u>2024 Approved Dominate Your Niche on FB with These 10 Keyword Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-reasons-gpt-lacks-specialized-cryptanalysis-skills/"><u>5 Reasons GPT Lacks Specialized Cryptanalysis Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-things-you-can-do-with-chatgpts-code-interpreter/"><u>6 Things You Can Do with ChatGPT's Code Interpreter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-ethical-strategies-for-ai-in-writing-and-editing/"><u>7 Ethical Strategies for AI in Writing and Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-insights-on-integrating-chatgpt-in-health-advice/"><u>7 Insights on Integrating ChatGPT in Health Advice</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-netgear-ex6200-ac1200-wireless-wi-fi-signal-booster-a-comprehensive-review/"><u>Expert Analysis: Netgear EX6200 AC1200 Wireless Wi-Fi Signal Booster - A Comprehensive Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721430143746-gpt-4-welcomes-everyone-despite-freedom-to-use-plus-continues-offering-6-superior-services/"><u>GPT-4 Welcomes Everyone: Despite Freedom to Use, Plus Continues Offering 6 Superior Services.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-preserve-your-roblox-experience-with-flawless-recording-mac-for-2024/"><u>How to Preserve Your Roblox Experience with Flawless Recording (Mac) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/huawei-p10-review-unpacking-its-impressive-specs-and-features/"><u>Huawei P10 Review Unpacking Its Impressive Specs and Features</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>In 2024, PC Games Memory - Freeze and Capture 6 Ways to Win</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721406916382-no-subscriptions-for-gpt-4-however-select-plus-membership-retains-its-unique-6-features/"><u>No Subscriptions for GPT-4: However, Select Plus Membership Retains Its Unique 6 Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reconnecting-with-iphone-x-reviving-facial-biometrics-for-2024/"><u>Reconnecting with iPhone X Reviving Facial Biometrics for 2024</u></a></li>
+</ul></div>
 

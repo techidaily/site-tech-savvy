@@ -1,7 +1,7 @@
 ---
 title: "Secure Data: Block Unauthorized Scrappers"
-date: 2024-09-16T17:11:54.080Z
-updated: 2024-09-22T18:30:19.546Z
+date: 2024-09-25T16:26:18.482Z
+updated: 2024-09-28T16:52:43.218Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 
  OpenAI's web crawler is called GPTBot, and according to [OpenAI's documentation](https://platform.openai.com/docs/gptbot), giving GPTBot access to your website can help train the AI model to become safer, and more accurate, and it can even help expand the AI model's capabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Prevent OpenAI From Crawling Your Website
 
  Like most other web crawlers, GPTBot can be blocked from accessing your website by modifying the website's **robots.txt** protocol (also known as the robots exclusion protocol). This .txt file is hosted on the website's server, and it controls how web crawlers and other automated programs behave on your website.
@@ -48,6 +55,19 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 
  Here's how to control what GPTBot can do on your website:
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Completely Block GPTBot From Accessing Your Website
 
 1. [Set up the robot.txt file](https://www.makeuseof.com/tag/how-to-correctly-set-up-robots-txt/), and then edit it with any text editing tool.
@@ -57,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 Disallow: /`
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Block Only Certain Pages From Being Accessed by GPTBot
@@ -75,10 +95,10 @@ Disallow: /directory-2/`
  However, keep in mind that changing the **robot.txt** file is not a retroactive solution, and any information that GPTBot may have already gathered from your website will not be recoverable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OpenAI Allows Website Owners to Opt-Out From Crawling
@@ -106,5 +126,21 @@ Disallow: /directory-2/`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-optimize-video-engagement-through-resizing-thumbnails-on-youtube/"><u>[New] 2024 Approved How to Optimize Video Engagement Through Resizing Thumbnails on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-streamline-visual-clarity-with-proficient-bg-removal-techniques/"><u>[New] 2024 Approved Streamline Visual Clarity with Proficient BG Removal Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats/"><u>[New] Transformative Power of VLC From MP4 to a Multitude of Formats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-reasons-why-generative-ai-security-issues-will-only-worsen/"><u>8 Reasons Why Generative AI Security Issues Will Only Worsen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-detailed-comparison-of-all-gpt-models/"><u>A Detailed Comparison of All GPT Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-limitations-the-7-puzzling-questions-it-struggles-with/"><u>ChatGPT Limitations: The 7 Puzzling Questions It Struggles With</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721427447705-emoji-cleared-tweets-linuss-leaks-revealed-trojan-truths-told-and-chatgpt-problems-unpacked/"><u>Emoji Cleared Tweets, Linus's Leaks Revealed, Trojan Truths Told, & ChatGPT Problems Unpacked</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-knowledge-for-effective-screensaver-use-in-mobile-applications/"><u>Essential Knowledge for Effective Screensaver Use in Mobile Applications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/explore-our-12-tycoon-classics-for-engrossing-experiences-for-2024/"><u>Explore Our #12 Tycoon Classics for Engrossing Experiences for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721431297671-just-start-chatting-chatgpt-ready/"><u>Just Start Chatting - ChatGPT Ready</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unleash-fcpxs-full-potential-a-guide-to-managing-storage-and-freeing-up-space/"><u>New 2024 Approved Unleash FCPXs Full Potential A Guide to Managing Storage and Freeing Up Space</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721430643520-pioneer-personal-text-artistry-with-openais-curated-gpt-shops/"><u>Pioneer Personal Text Artistry with OpenAI's Curated GPT Shops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721424588761-streamline-your-search-with-bings-intelligent-ai-features/"><u>Streamline Your Search with Bing's Intelligent AI Features</u></a></li>
+</ul></div>
 

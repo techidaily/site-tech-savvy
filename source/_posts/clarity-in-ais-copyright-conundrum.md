@@ -1,7 +1,7 @@
 ---
 title: Clarity in AI's Copyright Conundrum
-date: 2024-09-18T17:27:46.418Z
-updated: 2024-09-22T16:48:26.791Z
+date: 2024-09-25T16:57:37.273Z
+updated: 2024-09-28T16:00:30.542Z
 tags:
   - chatgpt
   - open-ai
@@ -60,6 +60,13 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -67,6 +74,13 @@ Close
  Although the USCO issued a copyright in September 2022, it said it did it in error. When it came to light that the comic book was produced using MidJourney AI, its copyright protection was revoked.
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
 
@@ -83,10 +97,10 @@ Close
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
@@ -104,10 +118,10 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -133,5 +147,21 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-embark-on-a-joyful-journey-downloading-tiktok-for-macbook/"><u>[New] Embark on a Joyful Journey Downloading TikTok for MacBook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategies-for-capturing-high-quality-periscope-broadcasts/"><u>2024 Approved Strategies for Capturing High-Quality Periscope Broadcasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-ai-story-generators-worth-trying/"><u>4 AI Story Generators Worth Trying</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-indispensable-qualities-in-selecting-robot-based-support/"><u>7 Indispensable Qualities in Selecting Robot-Based Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-reasons-to-consider-using-chatgpt-for-health-advice/"><u>7 Reasons to Consider Using ChatGPT for Health Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721402550569-earn-extra-cash-by-hunting-software-glitches-with-openai/"><u>Earn Extra Cash by Hunting Software Glitches with OpenAI!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-age-of-empires-iv-installed-overcoming-downloading-hurdles-on-the-megastore/"><u>Getting Age of Empires IV Installed: Overcoming Downloading Hurdles on the MegaStore</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-helldivers-2s-sudden-crashes-on-your-computer-expert-advice-and-tips/"><u>How to Fix Helldivers 2'S Sudden Crashes on Your Computer: Expert Advice and Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-critical-choices-for-perfect-snaps/"><u>In 2024, Critical Choices for Perfect Snaps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-googles-cutting-edge-ai-venture-the-mission-and-milestones-of-project-gemini/"><u>Inside Google's Cutting-Edge AI Venture: The Mission and Milestones of Project Gemini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721417752360-mastering-conversations-just-add-chatgpt-and-android/"><u>Mastering Conversations - Just Add ChatGPT & Android!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721410547181-to-use-or-not-to-use-local-llm-heres-why/"><u>To Use or Not to Use Local LLM? Here's Why!</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-itel-p40-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Itel P40</u></a></li>
+</ul></div>
 

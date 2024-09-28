@@ -1,7 +1,7 @@
 ---
 title: "OpenAI's AI Conversations: A Security Review"
-date: 2024-09-18T17:09:40.937Z
-updated: 2024-09-22T16:12:11.688Z
+date: 2024-09-25T17:52:46.803Z
+updated: 2024-09-28T17:59:26.905Z
 tags:
   - chatgpt
   - open-ai
@@ -42,43 +42,43 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
  Moreover, ChatGPT asks for minimal information. You can create an account with just your name and email address.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conversations
 
  OpenAI keeps ChatGPT conversations secure, but it reserves the right to monitor them. AI trainers continuously look for areas of improvement. Since the platform comprises vast yet limited datasets, resolving errors, bugs, and vulnerabilities requires system-wide updates.
 
  However, OpenAI can only monitor convos for research purposes. Distributing or selling them to third parties violates its own terms of use.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Public Information
 
  According to the [BBC](https://www.sciencefocus.com/future-technology/gpt-3/), OpenAI trained ChaGPT on 300 billion words. It collects data from public web pages, like social media platforms, business websites, and comment sections. Unless you’ve gone off the grid and erased your digital footprint, ChatGPT likely has your information.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Security Risks Does ChatGPT Present?
 
  While ChatGPT isn’t inherently dangerous, the platform still presents security risks. Crooks can bypass restrictions to execute various cyberattacks.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Convincing Phishing Emails
 
 ![Making ChatGPT Write a Spam Email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/spam-email-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Instead of spending hours writing emails, crooks use ChatGPT. It’s fast and accurate. Advanced language models (such as GPT-3.5 and GPT-4) can produce hundreds of coherent, convincing phishing emails within minutes. They even adopt unique tones and writing styles.
@@ -96,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
  Remember: you have no control over how crooks operate. The best approach is to contact the Federal Trade Commission (FTC) once you notice [signs of identity theft](https://www.makeuseof.com/what-is-identity-theft/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Malware Production
@@ -114,16 +114,23 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
 ![ChatGPT Refusing to Write Code for the Trojan Virus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-trojan-virus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Meanwhile, the below photo shows that ChatGPT will give you harmful information if you phrase your prompts correctly.
 
 ![ChatGPT Writing a Code Snippet for Viruses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-code-snippet.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Intellectual Property Theft
 
@@ -186,5 +193,17 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-adding-tracks-to-youtubes-playlist/"><u>[New] 2024 Approved Step-by-Step Adding Tracks to YouTube's Playlist</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-step-by-step-guide-downloading-and-installing-obs-for-macos/"><u>[Updated] 2024 Approved Step-by-Step Guide Downloading & Installing OBS for macOS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-how-to-seamless-transition-of-photos-from-your-device-to-snapchat/"><u>2024 Approved How-To Seamless Transition of Photos From Your Device to Snapchat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-your-path-to-fitness-ai-assisted-strategy/"><u>Crafting Your Path to Fitness: AI-Assisted Strategy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-chat-and-whisper-api-release-a-game-changer-for-companies/"><u>GPT-Chat and Whisper API Release - A Game Changer for Companies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-castevaluation-synopsis/"><u>In 2024, CastEvaluation Synopsis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/linguistic-legends-ai-translation-faceoff/"><u>Linguistic Legends: AI Translation Faceoff</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-steps-implementing-bavarder-on-linux/"><u>Simple Steps: Implementing Bavarder on Linux</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-abcs-of-amassing-affection-on-fb-squaring-up-your-video-strategy/"><u>The ABC's of Amassing Affection on FB Squaring Up Your Video Strategy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-debate-over-desktop-enhancements-fails-to-hold-water-in-todays-tech-landscape/"><u>Why the Debate Over Desktop Enhancements Fails to Hold Water in Today's Tech Landscape</u></a></li>
+</ul></div>
 

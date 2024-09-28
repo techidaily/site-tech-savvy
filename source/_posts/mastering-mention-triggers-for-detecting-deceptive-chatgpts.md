@@ -1,7 +1,7 @@
 ---
 title: Mastering Mention Triggers for Detecting Deceptive ChatGPTs
-date: 2024-09-16T16:20:51.261Z
-updated: 2024-09-22T18:32:01.811Z
+date: 2024-09-22T16:50:57.475Z
+updated: 2024-09-28T16:49:05.974Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 * [What Is ChatGPT's GPT Mentions Feature?](https://appsumo.8odi.net/gmezyk)
 * [How to Use the GPT Mentions Feature](https://boody-eco-wear.pxf.io/qyo4oo)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI's ChatGPT Plus offers a new feature called GPT Mentions, allowing users to combine multiple custom GPTs in one conversation.
@@ -36,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 **SCROLL TO CONTINUE WITH CONTENT**
 
  OpenAI's premium version of ChatGPT, known as ChatGPT Plus, offers users a range of extra features in exchange for the monthly subscription fee. ChatGPT Plus's newest feature, GPT call-outs or mentions, may prove very useful to you if you use various GPTs within the ChatGPT interface. So, how does this feature work, and how can it benefit you?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is ChatGPT's GPT Mentions Feature?
 
@@ -65,27 +79,20 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, you're chatting with Canva until you click "X" on the **Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
 
@@ -98,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
@@ -127,5 +134,22 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-cinematic-chronicles-reviewing-high-fidelity-recorders/"><u>[New] In 2024, Cinematic Chronicles Reviewing High-Fidelity Recorders</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-quickly-uncover-lately-watched-facebook-videos/"><u>[New] In 2024, Quickly Uncover Lately Watched Facebook Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-explore-5-pro-game-record-methods-in-windows-11-for-2024/"><u>[Updated] Explore 5 Pro Game Record Methods in Windows 11 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-webcam-master-ultimate-live-recording-guide-for-2024/"><u>[Updated] WebCam Master Ultimate Live Recording Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advancing-essay-craft-with-chatgpt-expertise/"><u>Advancing Essay Craft with ChatGPT Expertise</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bring-your-footage-to-life-master-the-art-with-these-11-color-edits/"><u>Bring Your Footage to Life Master the Art with These 11 Color Edits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-unprecedented-paths-gpt-4-debut-by-openai/"><u>Charting Unprecedented Paths: GPT-4 Debut by OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-web-design-complexities-using-gpts-fourfold-methodology/"><u>Conquer Web Design Complexities Using GPT’s Fourfold Methodology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engage-with-gpt-3s-beta-web-integration-advances/"><u>Engage with GPT-3's Beta Web Integration Advances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fallacious-chrome-extension-steals-facebook-sign-in-info/"><u>Fallacious Chrome Extension: Steals FACEBOOK Sign-In Info</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-halt-windows-11-data-harvesting/"><u>Guide to Halt Windows 11 Data Harvesting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722896344098-trouble-with-your-new-iphone-15-reset-and-resolve-issues-today/"><u>Trouble with Your New iPhone 15? Reset and Resolve Issues Today!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-and-correcting-6-typical-gpt-malfunctions/"><u>Understanding & Correcting 6 Typical GPT Malfunctions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-machine-learning-enigmas-the-black-box-phenomenon/"><u>Unraveling Machine Learning Enigmas: The Black Box Phenomenon</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/why-are-instavids-tilted-upside-down-for-2024/"><u>Why Are InstaVids Tilted Upside Down for 2024</u></a></li>
+</ul></div>
 

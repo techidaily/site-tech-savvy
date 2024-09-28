@@ -1,7 +1,7 @@
 ---
 title: "Authenticator: OpenAI's Device to Identify Fake ChatGPT Texts"
-date: 2024-09-20T18:48:15.603Z
-updated: 2024-09-22T17:24:56.537Z
+date: 2024-09-24T17:47:33.517Z
+updated: 2024-09-28T16:32:35.192Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
  So instead of hoovering up information and recreating its best approximation, the GPT-Classifier attempts to compare similarities between known human text and known AI text to find discrepencies that reveal the source writer.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## GPT-Classifier's Detection Is Currently Limited
 
  While the idea of easily spotting AI-generated text will be music to the ears of editors and educators, OpenAI has cautioned that its "classifier is not fully reliable."
@@ -44,9 +51,30 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
 ![gpt classifier tool testing human written text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpt-classifier-tool-testing-human-written-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A cursory test of the GPT-Classifier spotted a human-generated example and marked it "very unlikely to be AI-generated," and also correctly indicated that a ChatGPT-generated snippet on USB issues was "possibly AI generated."
 
 ![gpt classifier tool testing ai written text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpt-classifier-tool-testing-ai-written-text.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Demand for ChatGPT Detection Is High
 
@@ -67,12 +95,20 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-directing-the-stream-a-close-look-at-obs-vs-twitch-studio-for-2024/"><u>[Updated] Directing the Stream A Close Look at OBS vs Twitch Studio for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-science-behind-optimal-instagram-timings/"><u>[Updated] In 2024, The Science Behind Optimal Instagram Timings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-vr-clarity-achieved/"><u>[Updated] Ultimate VR Clarity Achieved</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensible-guide-to-chatgpt/"><u>A Comprehensible Guide to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-new-era-of-accessibility-with-gpt-4/"><u>A New Era of Accessibility with GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721427288824-avoid-googles-wizard-bot-potential-cyber-threat-alert/"><u>Avoid Google's Wizard Bot — Potential Cyber Threat Alert!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/circlesmiths-arsenal-for-2024/"><u>Circlesmith's Arsenal for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721406565152-fraudulent-app-alert-spot-sham-gpt-tools-and-secure-info/"><u>Fraudulent App Alert: Spot Sham GPT Tools & Secure Info!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-plus-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Plus Phone without Any Data Loss</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721434077213-is-truthgpt-coin-trustworthy-scam-alert/"><u>Is TruthGPT Coin Trustworthy? Scam Alert!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pinterest-vid-extraction-made-easy-the-best-tools-ranked/"><u>Pinterest Vid Extraction Made Easy The Best Tools Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721383063018-twitter-without-gifs-linuss-tech-revelations-trojans-decoded-and-chatbot-snags/"><u>Twitter without GIFs, Linus’s Tech Revelations, Trojans Decoded, & ChatBot Snags.</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/online-3gp-movavi/"><u>무료 서비스를 사용하여 Online 상호 작용에서 3GP 코어를 구조화하기 - Movavi 지원</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Artists' Legal Battles: Opposing OpenAI & Meta in AI Controversy"
-date: 2024-09-17T16:11:36.967Z
-updated: 2024-09-22T16:24:20.270Z
+date: 2024-09-23T18:05:00.220Z
+updated: 2024-09-28T18:34:56.296Z
 tags:
   - chatgpt
   - open-ai
@@ -36,9 +36,23 @@ thumbnail: https://thmb.techidaily.com/32a49341dcd2e3ff58b1a58ec7c331011d71244cd
 
  Coincidentally, a [separate class action lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.cand.414822/gov.uscourts.cand.414822.1.0%5F1.pdf) \[PDF\] against OpenAI alleges the company used unauthorized private information to train ChatGPT. Google is also facing a similar lawsuit over allegedly using stolen data to train Google Bard. This is why you should [make it a habit to protect your personal information](https://www.makeuseof.com/online-safety-habits-data-privacy/), though publishing work and private personal data are not the same.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are the Chances Sarah Silverman Could Win the Lawsuit?
 
 ![Ai cloud with robot head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ai-cloud-with-robot-head.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-head%5F32471117.htm)
 
@@ -47,6 +61,13 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
  Furthermore, Meta disclosed where it acquired the books it used to train its AI model—the source was traced to an e-book torrent website. Similarly, the class action lawsuit against OpenAI also mentions illegal websites where OpenAI is suspected to have obtained the copyrighted materials, but OpenAI is yet to confirm its sources.
 
  If it's proven that OpenAI and Meta used illegal torrent websites to acquire copyrighted materials to train its AI models, Silverman may have a shot of winning the lawsuit. However, AI models are uncharted territory with no precedent for courts to rely on to make a ruling based on AI copyright infringement. In fact, that's one of the reasons why [the EU proposed an AI Act.](https://www.makeuseof.com/what-is-the-eu-ai-act-how-would-it-affect-chatgpt/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Future of AI Models and Copyright Law?
 
@@ -57,10 +78,16 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
  The EU parliament drafted the closest glimpse into the future of how AI models will comply with copyright law. If the EU AI Act is assented into law, AI models like ChatGPT and Bard will be required to publish all their dataset sources and copyrighted data used for training. This will help clear up any confusion if the AI models accessed copyrighted books, movies, music, and photos for training through illegal piracy websites.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The AI Class Action Lawsuit Ruling Will Set a Legal Precedent
@@ -86,5 +113,26 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-maximize-reach-essential-youtube-seo-tools-unlocked/"><u>[New] 2024 Approved Maximize Reach Essential YouTube SEO Tools Unlocked</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-apk-masterclass-enjoy-funimate-on-android-for-2024/"><u>[New] APK Masterclass Enjoy Funimate on Android for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-the-financial-aspects-of-youtube-success-for-2024/"><u>[New] Navigating the Financial Aspects of YouTube Success for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-live-recording-setup-on-xbox-for-gamers-for-2024/"><u>[Updated] Live Recording Setup on Xbox for Gamers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-routes-to-confirm-gpt-functionality-now/"><u>4 Routes to Confirm GPT Functionality Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-common-auto-gpt-installation-issues-and-how-to-resolve-them/"><u>6 Common Auto-GPT Installation Issues and How to Resolve Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-critical-errors-to-evade-in-chatai-engagements/"><u>6 Critical Errors to Evade in ChatAI Engagements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-critical-appraisal-chatgpt-and-its-8-major-flaws/"><u>A Critical Appraisal: ChatGPT and Its 8 Major Flaws</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-guide-to-efficient-user-personas-via-chatgpt-tech/"><u>A Guide to Efficient User Personas via ChatGPT Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-new-era-of-file-management-with-ais-best-tools/"><u>A New Era of File Management with AI's Best Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-overview-dji-inspire-2-for-2024/"><u>Comprehensive Overview - DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721434605372-dive-into-intelligent-data-the-new-bing-search-app/"><u>Dive Into Intelligent Data: The New Bing Search App.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-steelseries-gaming-mouse-install-software-download/"><u>Free SteelSeries Gaming Mouse Install Software Download</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-14-pro-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone 14 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-11-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme 11 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429252723-ios-enthusiasts-meet-your-new-chatbuddy/"><u>IOS Enthusiasts, Meet Your New ChatBuddy!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimize-your-typography-workflow-in-adobe-affects/"><u>Optimize Your Typography Workflow in Adobe Affects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721434995265-redefine-mobile-browsing-bings-intelligent-search-now-available/"><u>Redefine Mobile Browsing - Bing's Intelligent Search Now Available.</u></a></li>
+</ul></div>
 

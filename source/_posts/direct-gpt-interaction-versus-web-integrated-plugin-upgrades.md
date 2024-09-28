@@ -1,7 +1,7 @@
 ---
 title: Direct GPT Interaction Versus Web Integrated Plugin Upgrades
-date: 2024-09-19T19:06:28.109Z
-updated: 2024-09-22T16:06:12.370Z
+date: 2024-09-26T18:28:51.138Z
+updated: 2024-09-28T18:05:45.491Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  So why did the first version work and the second didn't? What is the difference between the first and the second? If you haven't figured it out yet, the secret is the GPT model involved and the extra tools it can use. Beyond the name, below are some of the ChatGPT versions you should know.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The 4 ChatGPT Versions You Should Know
 
  The four ChatGPT versions you should familiarize yourself with are:
@@ -59,35 +66,22 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
 ![ChatGPT running on the default GPT-3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-on-the-default-gpt-3-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  GPT-3.5 is the default version used by both free and paid-tier ChatGPT users. It can do most of what you'd expect in any version of ChatGPT. This variant, solely powered by the GPT-3.5 turbo model, is the base version of ChatGPT and has the least capabilities of all the available models.
 
  Once you sign up for a ChatGPT account, you should automatically have access to this version. So, when should you use this version of ChatGPT?
 
  The ChatGPT GPT-4 model has a limit of 25 messages every three hours (although OpenAI is experimenting with this figure, and some users report up to 50 or even 100 messages every three hours). If you're planning a long prompting session spanning several hours, you might be better off using the GPT-3.5 model, which has no message limit. Although you might not enjoy as much creativity as on the GPT-4 powered ChatGPT models, you'll only notice differences in select tasks.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. ChatGPT Running Default GPT-4
 
 ![Default ChatGPT GPT-4 model version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-chatgpt-gpt-4-model-version.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT using GPT-4 is superior to any ChatGPT version that runs on GPT-3.5, as it is the most advanced GPT model currently integrated with ChatGPT. GPT-4 gives ChatGPT more creativity and improved reasoning and mathematics abilities.
 
@@ -103,20 +97,27 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  In July 2023, due to abuse, OpenAI temporarily disabled the browsing feature.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. ChatGPT Running GPT-4 with Plugins
 
 ![ChatGPT running GPT-4 plus plugins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-gpt-4-plus-plugins.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT with plugins is probably the most versatile version of ChatGPT. Exclusively available to ChatGPT Plus users, this variant of ChatGPT significantly extends ChatGPT's abilities beyond what it was originally designed to handle. For instance, while regular ChatGPT can not interface with a PDF file or, say, create flowcharts, ChatGPT with plugins can do so effectively as long as you pick the right plugin for the task.
 
  From everything like [using ChatGPT to chat with a PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) to creating memes, you'll find a host of ChatGPT Plugins on the plugin store that does much of what you want to achieve. The list of available plugins is actively growing, and with it, the list of new things you can achieve with this version of ChatGPT. Here are some of [the best ChatGPT plugins you can try right now](https://www.makeuseof.com/best-chatgpt-plugins/).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which ChatGPT Version Is the Best?
 
@@ -143,5 +144,20 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-essential-elements-for-implementing-channel-banners-in-games/"><u>[New] 2024 Approved Essential Elements for Implementing Channel Banners in Games</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-step-by-step-adding-movie-maker-videos-to-vimeo-stream/"><u>[Updated] 2024 Approved Step-by-Step Adding Movie Maker Videos to Vimeo Stream</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-insiders-guide-to-creating-viral-instagram-reels-for-2024/"><u>[Updated] The Insider’s Guide to Creating Viral Instagram Reels for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-top-tricks-in-sports-video-production-for-2024/"><u>[Updated] Top Tricks in Sports Video Production for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-channel-personality-complimentary-youtube-graphics/"><u>2024 Approved Channel Personality Complimentary YouTube Graphics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-tactics-podcast-recording-on-ios-devices-for-voice-broadcasts/"><u>2024 Approved Top Tactics Podcast Recording on iOS Devices for Voice Broadcasts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/breakthrough-ai-creative-workstation/"><u>Breakthrough AI Creative Workstation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-itel-p55-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Itel P55 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-nlp-mastery-comparing-gpt-and-bert-systems/"><u>Demystifying NLP Mastery: Comparing GPT and BERT Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-claude-pro-a-deep-dive-into-its-capabilities/"><u>Introducing Claude Pro: A Deep Dive Into Its Capabilities</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-m6-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco M6 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-ai-tools-transforming-online-information-hunts/"><u>Revolutionary AI Tools Transforming Online Information Hunts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-remote-professionals-guide-maximizing-ai-in-work-life/"><u>The Remote Professional's Guide: Maximizing AI in Work Life</u></a></li>
+</ul></div>
 

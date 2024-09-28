@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT: An Editorial Assistant?"
-date: 2024-09-17T16:54:06.253Z
-updated: 2024-09-22T18:44:47.843Z
+date: 2024-09-22T17:16:50.588Z
+updated: 2024-09-28T17:03:15.057Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 ![ChatGPT recommendations for what spelling errors to fix](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spelling-answers.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT’s response proved that it was capable of not only correcting the misspelled words but also correcting the misused words like “there” and “wright.” It also goes on to explain exactly what it changed to correct the spelling, so the writer can learn from any mistakes.
 
 ### Check Punctuation
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![asking ChatGPT to proofread this paragraph for punctuation mistakes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/punctuation.jpeg)
 
 ![ChatGPT's answer to any punctuation mistakes in the paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/punctuation-answer.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT was able to correct all the punctuation errors. This included replacing the question marks with periods and placing commas where they were needed.
 
@@ -66,7 +80,21 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 ![ChatGPT's proofreading answer to grammatical errors in paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/grammar-answer.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT was impressive with its ability to correct all grammar mistakes. Not only was it able to detect the subject-verb agreement issues, but it also found multiple errors with tense. As an added bonus, ChatGPT also corrected the order placement of multiple subjects in a sentence.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Check Passive Voice
 
@@ -76,27 +104,7 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 ![ChatGPT's answers to proofreading a paragraph for passive voice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pv-answer.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Impressively, ChatGPT found all the passive voice issues and was able to make the proper changes to make the sentences active voice.
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check Everything at Once
 
@@ -104,23 +112,9 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 ![Asking ChatGPT to Proofread a Paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/just-proofread.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT's answers to proofreading a paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/just-proofread-answers.jpeg)
 
  ChatGPT fixed all the mistakes—however, it also claimed that it fixed issues that weren’t there. For example, it said that “ChatGPT should be capitalized” and that a period should be added to the second sentence when both of those suggestions already existed in the original.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Types of Written Work ChatGPT Can Proofread
 
@@ -138,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
  It is a great tool and writers can [use ChatGPT to succeed in this new age of technology](https://www.makeuseof.com/tips-writers-to-succeed-ai-content/). However, it is important to know the limitations of AI—it can’t beat the experience of a trained human professional.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to Look Out For
 
  ChatGPT is upfront when you ask if it can proofread your work. It says it’s not perfect and could make mistakes. It is incredibly important to consider every suggestion it makes and know whether it is correct or not.
@@ -145,13 +146,26 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![ChatGPT's send a message screen with explaination that it may produce wrong information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/send-a-message.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Furthermore, ChatGPT may try to overcorrect your work—meaning the paragraph you put in comes out reading like ChatGPT wrote it. It’s important to make sure that your finished written work is still your own writing. If you copy and paste overcorrected work, you are risking the chance of it getting [flagged by an AI-generated content checker](https://www.makeuseof.com/accurate-ai-text-detectors/).
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try Using ChatGPT to Find Errors in Your Own Work
 
@@ -176,5 +190,26 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-instagrams-repost-policy/"><u>[New] 2024 Approved Navigating Instagram's Repost Policy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-camstudio-2023-screen-recorder-insights-and-reviews/"><u>[New] CamStudio 2023 Screen Recorder Insights & Reviews</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-guide-to-efficient-video-capture-with-zd-software-tools/"><u>[New] In 2024, Step-by-Step Guide to Efficient Video Capture with ZD Software Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-streamlining-the-process-of-google-voice-call-capture/"><u>[Updated] 2024 Approved Streamlining the Process of Google Voice Call Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-video-format-for-youtube-uploading/"><u>[Updated] In 2024, Best Video Format for YouTube Uploading</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chapter-1-registering-for-chatgpts-latest-extensions/"><u>Chapter 1: Registering for ChatGPT's Latest Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-chatgpt-4s-dilatory-nature-vs-35-speed/"><u>Decoding ChatGPT-4's Dilatory Nature Vs. 3.5 Speed</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-7-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 7 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-xs-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone XS iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/learn-how-to-change-number-on-tiktok-with-working-methods/"><u>Learn How to Change Number on TikTok with Working Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-neural-networks-snapchat-ai-vs-gpt/"><u>Navigating Neural Networks: Snapchat AI vs GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opt-for-basic-textual-chatgpt-or-enhanced-web-integrated-version/"><u>Opt for Basic Textual ChatGPT or Enhanced Web-Integrated Version</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-windows-11-without-admin-authorization/"><u>Resetting Windows 11 Without Admin Authorization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721418556638-streamlined-chatgpt-chrome-extension-your-new-partner/"><u>Streamlined ChatGPT: Chrome Extension, Your New Partner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-to-you-engage-with-8-specialized-ai-tools/"><u>Tailored to You: Engage with 8 Specialized AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-chuckles-by-code-from-laptops-to-vpn-safeguarding/"><u>The Art of Chuckles by Code: From Laptops to VPN Safeguarding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-voice-activated-chatgpt-in-cars/"><u>The Dawn of Voice-Activated ChatGPT in Cars</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truth-about-chatgpt-windows-apps-authenticity/"><u>Truth About ChatGPT Windows App's Authenticity</u></a></li>
+</ul></div>
 

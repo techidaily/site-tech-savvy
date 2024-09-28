@@ -1,7 +1,7 @@
 ---
 title: "From Text to Talk: AI Breathing Life Into Prompts and Commands"
-date: 2024-09-18T17:05:18.481Z
-updated: 2024-09-22T18:59:21.324Z
+date: 2024-09-27T17:03:12.983Z
+updated: 2024-09-28T16:42:39.642Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/15566fd0d6cad9f26c793e08c16498fac2c5b4803
 
  ChatGPT's new text-to-speech model is only available to Plus and Enterprise subscribers using the official Android and iOS apps and is expected to roll out within the next two weeks (starting from September 25, 2023). Furthermore, the new voice feature is limited to English to begin with, though we would expect this to change rapidly.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT Can Recognize and Analyze Images and Photographs
 
  The second part of OpenAI's ChatGPT update is the ability to analyze and talk images uploaded to the tool. The visual image analysis option was featured in the GPT-4 update videos but hasn't been discussed much since that time ([ChatGPT Code Interpreter aside](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/)).
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/15566fd0d6cad9f26c793e08c16498fac2c5b4803
  Calling it "similar to Google Lens" does it an injustice, really. The ability to chat back and forth about the image to gain more information and context makes it extremely useful for a broad range of settings. However, it's important to note the fine print, with OpenAI making it clear that it has limited ChatGPT's "ability to analyze and make direct statements about people" for privacy and accuracy reasons. Still, could an OpenAI-powered "Who Is This" tool be in the works for the future? (Let's hope not!)
 
  Like the new text-to-speech model, OpenAI will roll out image recognition in the next two weeks, though it will be available on all platforms, not just the ChatGPT app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Privacy, Security, and Other Issues
 
@@ -61,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/15566fd0d6cad9f26c793e08c16498fac2c5b4803
  Given this is the tip of the iceberg, expect pushback against ChatGPT's newfound voice, especially once there is a predictable uptick in unsavory headlines claiming ChatGPT is being used to commit fraud and so on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OpenAI Is Making ChatGPT the Go-To AI App
@@ -90,5 +104,24 @@ thumbnail: https://thmb.techidaily.com/15566fd0d6cad9f26c793e08c16498fac2c5b4803
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-record-the-screen-of-the-iphone-7/"><u>[Updated] In 2024, How to Record the Screen Of The iPhone 7</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-seamless-speech-to-text-translation-in-microsoft-office-suite-word/"><u>[Updated] In 2024, Seamless Speech-to-Text Translation in Microsoft Office Suite (Word)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snap-your-way-unique-discover-over-120-private-story-creation-tips-and-tricks-for-2024/"><u>[Updated] Snap Your Way Unique Discover over 120 Private Story Creation Tips and Tricks for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/advanced-techniques-for-voice-to-text-transcription-in-whatsapp/"><u>Advanced Techniques for Voice-to-Text Transcription in WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-gpt-enhanced-jobs-the-next-big-income-boost/"><u>Are GPT-Enhanced Jobs the Next Big Income Boost?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diving-into-digital-dialogue-googles-groundbreayer-palm-2/"><u>Diving Into Digital Dialogue: Google's Groundbreayer, PaLM 2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-pathfinder-wrath-of-the-righteous-not-opening-challenge/"><u>Effective Solutions for 'Pathfinder: Wrath of the Righteous' Not Opening Challenge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-gemini-navigating-through-its-artificial-intelligence-landscape/"><u>Google’s Gemini: Navigating Through Its Artificial Intelligence Landscape</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-a1x-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo A1x 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-complexity-transformative-techniques-for-3d-printing-with-chatgpt/"><u>Simplify Complexity: Transformative Techniques for 3D Printing with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-transformation-crafting-a-personalized-chatgpt/"><u>Tailored Transformation: Crafting a Personalized ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-chat-comparison-coin-how-gpt-stacks-up-against-bingbot/"><u>The Chat Comparison Coin: How GPT Stacks Up Against BingBot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-voice-commands-for-mastering-chatgpt/"><u>Top 5 Voice Commands for Mastering ChatGPT</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitsoundscape-audio-from-tweets-for-2024/"><u>TwitSoundscape Audio From Tweets for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-restore-your-airpods-clarity-with-these-10-techniques/"><u>Ultimate Guide: Restore Your AirPods' Clarity with These 10 Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-distrust-in-artificial-intelligence-isnt-extreme/"><u>Why Distrust in Artificial Intelligence Isn't Extreme</u></a></li>
+</ul></div>
 

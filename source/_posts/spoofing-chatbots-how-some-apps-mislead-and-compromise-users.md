@@ -1,7 +1,7 @@
 ---
 title: "Spoofing ChatBots: How Some Apps Mislead & Compromise Users!"
-date: 2024-09-15T16:58:51.355Z
-updated: 2024-09-22T17:22:05.814Z
+date: 2024-09-22T17:46:06.148Z
+updated: 2024-09-28T16:29:46.863Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/105583134b01cefeafa4fc25f0d100c3206487cae
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
@@ -56,14 +63,14 @@ thumbnail: https://thmb.techidaily.com/105583134b01cefeafa4fc25f0d100c3206487cae
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
 
@@ -73,16 +80,16 @@ thumbnail: https://thmb.techidaily.com/105583134b01cefeafa4fc25f0d100c3206487cae
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
@@ -97,16 +104,10 @@ thumbnail: https://thmb.techidaily.com/105583134b01cefeafa4fc25f0d100c3206487cae
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
@@ -134,5 +135,19 @@ thumbnail: https://thmb.techidaily.com/105583134b01cefeafa4fc25f0d100c3206487cae
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-giggle-engine-photo-assembler/"><u>[New] Giggle Engine Photo Assembler</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-backward-glance-decoding-youtube-video-reversals/"><u>[Updated] 2024 Approved Backward Glance Decoding YouTube Video Reversals</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-screen-scribes-a-critical-look-at-modern-recorders/"><u>[Updated] In 2024, Screen Scribes A Critical Look at Modern Recorders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-journey-to-new-realities-the-prime-10-smartphone-vr-headsets/"><u>2024 Approved Journey to New Realities - The Prime 10 Smartphone VR Headsets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/24-next-gen-pos-applications-beyond-openais-innovations/"><u>24 Next-Gen POS Applications Beyond OpenAI's Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-responsible-ways-to-use-ai-as-a-content-writer-or-editor/"><u>7 Responsible Ways to Use AI as a Content Writer or Editor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-big-problems-with-openais-chatgpt/"><u>8 Big Problems With OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-ways-that-chatgpt-can-help-content-creators/"><u>9 Ways That ChatGPT Can Help Content Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-guide-to-employing-chatgpt-for-translators/"><u>A Comprehensive Guide to Employing ChatGPT for Translators</u></a></li>
+<li><a href="https://fox-http.techidaily.com/excellent-html5-video-tools-you-must-check-for-2024/"><u>Excellent HTML5 Video Tools You Must Check for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23plus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-top-social-media-sites-faceook-tweetbook-instagram-yootube/"><u>Navigating the Top Social Media Sites: Faceook | TweetBook | InstaGram | YooTube</u></a></li>
+</ul></div>
 

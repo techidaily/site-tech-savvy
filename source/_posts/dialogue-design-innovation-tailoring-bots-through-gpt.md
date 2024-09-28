@@ -1,7 +1,7 @@
 ---
 title: "Dialogue Design Innovation: Tailoring Bots Through GPT"
-date: 2024-09-18T18:27:21.486Z
-updated: 2024-09-22T17:00:42.782Z
+date: 2024-09-24T18:21:39.940Z
+updated: 2024-09-28T17:55:39.282Z
 tags:
   - chatgpt
   - open-ai
@@ -45,8 +45,23 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 1. Now that you're in the GPT Builder, the first question you'll get is what you want to make. You can keep this first part short and sweet and input a single sentence. In this case, we said, "Make a Dungeons & Dragons 5e dungeon master who oversees D&D campaigns."  
 ![Primary description for a D&D GPT in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/primary-description-for-a-d-d-gpt-in-gpt-builder.jpg)
 2. Next, give your GPT a name. ChatGPT will suggest one for you, but you can still type in anything you want.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can manually change the image, name, description, and instructions for your GPT by clicking**Configure** . Click the profile picture to change it, and edit the details in the**Name** **Description** and**Instructions** fields to change them without typing prompts.
 
@@ -81,9 +96,23 @@ Here's how to upload source documents to your custom GPT:
 3. Click**Upload files** and add files from your computer.  
 ![GPT Knowledge source documents uploading in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-knowledge-source-documents-uploading-in-gpt-builder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
 
  If, for instance, you were trying to make a GPT that is an expert in Florida tax laws, you would get all the Florida tax legal documents you can find and upload them here to form a knowledge base your GPT can work with.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add or Remove Capabilities
 
@@ -100,10 +129,10 @@ Here's how to upload source documents to your custom GPT:
 ![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add APIs for Third-Party Services
@@ -115,13 +144,6 @@ Here's how to upload source documents to your custom GPT:
 3. Copy and paste your OpenAPI schema into the input box.
 4. **Optional:** Scroll down and enter an authentication method and privacy policy.
 5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Go back when you're finished.
 
@@ -140,35 +162,22 @@ Go back when you're finished.
 
 You can add more conversation starters as required.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Save and Publish Your GPT
 
  In the future, we expect OpenAI will create a community marketplace for custom GPTs. But while a framework for it is in the works, it's not yet available. Still, you can save your GPT and view your builder profile by clicking the**Save** dropdown menu in the top-right corner.
 
 ![Share dropdown menu in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/share-dropdown-menu-in-gpt-builder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While it won't make any difference, for now, you can choose whether you'd like to publish to the public, via links, or only to yourself. None of the sharing options work, by the way. We have to wait for an update. But, if you want friends to use your AI, return to ChatGPT's home, open the GPT's chat, and copy the URL in your browser's address bar.
 
  If you click the pencil icon in the share menu, you'll enter your builder profile, where you can change your GPT and profile options when this feature is fully released.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT's Limitations Still Apply to GPT Builder
 
@@ -189,5 +198,22 @@ You can add more conversation starters as required.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-syncing-sound-transferring-music-directly-to-youtube/"><u>[New] 2024 Approved Syncing Sound Transferring Music Directly to YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-sniff-out-recent-unfollowers-on-instagram/"><u>[Updated] In 2024, Sniff Out Recent Unfollowers on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-kinemasters-guide-to-fluid-film-segments/"><u>[Updated] Kinemaster's Guide to Fluid Film Segments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-global-tech-titans-talk-about-the-ai-era/"><u>10 Global Tech Titans Talk About the AI Era</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-6-low-cost-ultra-clear-4k-projection/"><u>2024 Approved Prime 6 Low-Cost, Ultra-Clear 4K Projection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-evolved-conversational-bots-for-smartphones-without-gpt/"><u>7 Evolved Conversational Bots for Smartphones Without GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-obstacles-preventing-gpt-jailbreaking/"><u>7 Obstacles Preventing GPT Jailbreaking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-ways-chatgpt-can-make-your-life-easier/"><u>9 Ways ChatGPT Can Make Your Life Easier</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mov-wma/"><u>無料で簡単な MOV から WMA へのオンライン変換 - 動画会社</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429042472-cleanse-tweets-of-cursive-symbols-linuss-disclosures-trojan-explanation-and-chatbot-issues/"><u>Cleanse Tweets of Cursive Symbols, Linus’s Disclosures, Trojan Explanation, & ChatBot Issues.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3-enhanced-with-editing-features-room-for-improvement/"><u>DALL-E 3 Enhanced with Editing Features: Room for Improvement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721360500157-false-flags-unmasking-fake-tech-mimicking-gpt-services/"><u>False Flags: Unmasking Fake Tech Mimicking GPT Services!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429558277-no-emojis-on-twitter-linuss-leaks-trojan-explained-and-chatbot-glitches-highlighted/"><u>No Emojis on Twitter, Linus’s Leaks, Trojan Explained, & ChatBot Glitches Highlighted.</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-guide-to-softening-youtube-videos-surroundings-for-2024/"><u>Quick Guide to Softening YouTube Videos' Surroundings for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/understanding-uks-colloquialisms-vs-usas-vernacular/"><u>Understanding UK's Colloquialisms vs USA's Vernacular</u></a></li>
+</ul></div>
 

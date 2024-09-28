@@ -1,7 +1,7 @@
 ---
 title: "The Fact-Checker’s Manual: Making Sense of AI Health Tips"
-date: 2024-09-16T16:10:18.018Z
-updated: 2024-09-22T16:07:01.072Z
+date: 2024-09-21T16:01:19.546Z
+updated: 2024-09-28T17:10:58.864Z
 tags:
   - chatgpt
   - open-ai
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/184d7cf1dfbfc8948b40afe261697d83b7fb70b65
 
 ![screenshot NHS website physical activity guidelines](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-nhs-website-physical-activity-guidelines.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Those that end in .com, or commercial sites, may also provide helpful information. In many instances, however, these sites are more focused on selling you something, according to the [National Institute on Aging](https://www.nia.nih.gov/health/how-find-reliable-health-information-online). If you're trying to fact-check other information, then a nonprofit or educational site may offer more neutral facts.
 
 ## 4\. Use Apps With Care
@@ -63,10 +70,16 @@ thumbnail: https://thmb.techidaily.com/184d7cf1dfbfc8948b40afe261697d83b7fb70b65
  In general, health apps should complement professional medical advice—not replace it. In this instance, they may not provide the best way to fact-check information from other sources.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Take Care With Personal Sites, Influencers, and Other Individuals
@@ -81,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/184d7cf1dfbfc8948b40afe261697d83b7fb70b65
 
  If you’re trying to double-check information from ChatGPT or similar sources, however, then this may not be the best avenue in general.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Trust Your Gut
 
  If your AI bot presents health information that doesn’t seem quite right, then trust your gut. Although these applications are incredibly powerful, they aren’t all-knowing.
@@ -90,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/184d7cf1dfbfc8948b40afe261697d83b7fb70b65
  In these events, take extra care to run the provided information by a trusted medical resource (or your own physician).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Trusted Resources to Double-Check Health Information From ChatGPT
@@ -117,5 +137,18 @@ thumbnail: https://thmb.techidaily.com/184d7cf1dfbfc8948b40afe261697d83b7fb70b65
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capturing-your-mi-11-screens-step-by-step/"><u>[Updated] In 2024, Capturing Your Mi 11 Screens - Step by Step</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-utilizing-picture-in-picture-on-chrome-everywhere/"><u>2024 Approved Utilizing Picture In Picture on Chrome Everywhere</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-your-sidekick-crafting-epic-stories-through-chatgpts-aid/"><u>AI Your Sidekick: Crafting Epic Stories Through ChatGPT's Aid</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/blizzards-new-chapter-with-microsoft-unveils-innovative-use-of-ai-in-gaming-and-artistry-audio-analysis/"><u>Blizzard's New Chapter with Microsoft Unveils Innovative Use of AI in Gaming & Artistry [Audio Analysis]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-through-the-chatter-debunking-nine-biggies-of-ai-dialogue/"><u>Cut Through the Chatter: Debunking Nine Biggies of AI Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-employment-preparing-for-ai-driven-transformation/"><u>Future Employment: Preparing for AI-Driven Transformation</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-realme-gt-3-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Realme GT 3 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-conversations-gpt-plus-a-premium-plan-for-us-citizens-20mth/"><u>Master Your Conversations: GPT-Plus, a Premium Plan for US Citizens ($20/Mth)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-world-of-warcraft-performance-eliminate-lag-with-these-proven-techniques/"><u>Optimize World of Warcraft Performance - Eliminate Lag with These Proven Techniques</u></a></li>
+</ul></div>
 

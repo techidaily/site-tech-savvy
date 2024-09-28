@@ -1,7 +1,7 @@
 ---
 title: "From GPT to Microphone: My Podcast Saga"
-date: 2024-09-15T17:03:57.410Z
-updated: 2024-09-22T17:17:04.534Z
+date: 2024-09-24T18:31:38.292Z
+updated: 2024-09-28T16:36:47.256Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 
  This risked making the end product sound very different to every other show, but it was worth it to find something to add to the list of [things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 Limitations With ChatGPT’s Scriptwriting Abilities
 
 ![Script by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-script.jpg)
@@ -59,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
  ChatGPT 3.5 is unsuitable for topical writing. It has been [trained on a dataset that contains material up to September 2021](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/), so the shortcoming here is obvious.
 
  For the Really Useful Podcast, this meant that the show’s news section would remain conversational. Instead, the introduction to the section would be created with ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. ChatGPT Doesn’t Quite Understand
 
@@ -76,14 +90,14 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-recommend-fail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Variations were attempted, but all resulted in largely the same response. Unperturbed, the recorded podcast featured a shortened version of this “script.”
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How the ChatGPT-Scripted Podcast Turned Out
 
@@ -117,19 +131,6 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-news.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For the show’s middle section (explainers, tips, and tricks) the intro prompt was:
 
 > _Write an introduction to discussion about decrypting ransomware, games not working on Windows 11, and why you shouldn't pay to use Microsoft Word_
@@ -147,10 +148,10 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
  The finished Really Useful Podcast can be listened to on [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), and you can subscribe on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-really-useful-podcast/id1437847131). To give you an idea of how the scripted sections turned out, I’ve edited them into a compressed edition.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Use ChatGPT to Write a Podcast?
@@ -182,5 +183,18 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-decoding-music-copyright-rules-in-the-world-of-instagram/"><u>[Updated] 2024 Approved Decoding Music Copyright Rules in the World of Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>[Updated] In 2024, Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-crops-and-cultivation-compilation-for-2024/"><u>[Updated] The Ultimate Crops & Cultivation Compilation for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-can-i-view-all-shared-videos-and-photos-on-messenger/"><u>2024 Approved Can I View All Shared Videos And Photos on Messenger?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-and-bard-safely-steer-your-money-moves/"><u>Can ChatGPT and Bard Safely Steer Your Money Moves?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-what-claude-3-offers-and-how-to-use-it/"><u>Explore What Claude 3 Offers and How to Use It</u></a></li>
+<li><a href="https://article-files.techidaily.com/guide-to-the-most-preferred-free-video-players-our-best-12-picks-pcmobile-for-2024/"><u>Guide to the Most Preferred Free Video Players Our Best 12 Picks (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/in-depth-analysis-of-samsungs-stunning-un65ru8000fxza-tv-intelligent-innovation-meets-elegant-display/"><u>In-Depth Analysis of Samsung's Stunning UN65RU8000FXZA TV - Intelligent Innovation Meets Elegant Display</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-passions-gaming-strategy-and-artistry-via-my-bots/"><u>Revolutionize Your Passions: Gaming Strategy & Artistry via My Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-of-claude-3-what-it-does-and-how-to-use-it/"><u>The Essence of Claude 3 – What It Does & How to Use It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/write-like-a-pro-hixplusgpt4-synergy/"><u>Write Like a Pro: HIX+GPT4 Synergy</u></a></li>
+</ul></div>
 

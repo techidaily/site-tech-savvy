@@ -1,7 +1,7 @@
 ---
 title: "The ChatBot Revolution: Creating From Create a GPT Foundations"
-date: 2024-09-19T19:08:37.649Z
-updated: 2024-09-22T16:59:56.961Z
+date: 2024-09-23T17:48:39.838Z
+updated: 2024-09-28T17:21:32.638Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb488
 
  At the time of writing, "Create a GPT" is still in beta. This means not all features are fully online, and the product isn't finished. Bear this in mind while building your GPT and prepare to encounter issues. Also, it's possible that your finished GPT may be erased when a future update comes knocking.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Give Your GPT a Primary Description and a Picture
 
  For the sake of this piece, we'll be demonstrating how to build a Dungeons and Dragons 5th Edition dungeon master.
@@ -45,8 +52,23 @@ thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb488
 1. Now that you're in the GPT Builder, the first question you'll get is what you want to make. You can keep this first part short and sweet and input a single sentence. In this case, we said, "Make a Dungeons & Dragons 5e dungeon master who oversees D&D campaigns."  
 ![Primary description for a D&D GPT in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/primary-description-for-a-d-d-gpt-in-gpt-builder.jpg)
 2. Next, give your GPT a name. ChatGPT will suggest one for you, but you can still type in anything you want.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can manually change the image, name, description, and instructions for your GPT by clicking**Configure** . Click the profile picture to change it, and edit the details in the**Name** **Description** and**Instructions** fields to change them without typing prompts.
 
@@ -70,6 +92,19 @@ thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb488
 
  If you find that it's not fulfilling your instructions as well as you want, go back to the**Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Upload Files as a Knowledge Base
 
  In addition to backing up your GPT with rules, you can also upload files you would like your GPT to draw information from. In our case, we uploaded copies of the Player's Handbook by Jeremy Crawford and the Dungeon Master's Guide. Both are essential D&D books.
@@ -80,6 +115,19 @@ Here's how to upload source documents to your custom GPT:
 2. Scroll down to the section titled**Knowledge** .
 3. Click**Upload files** and add files from your computer.  
 ![GPT Knowledge source documents uploading in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-knowledge-source-documents-uploading-in-gpt-builder.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
 
@@ -109,13 +157,6 @@ Here's how to upload source documents to your custom GPT:
 4. **Optional:** Scroll down and enter an authentication method and privacy policy.
 5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Go back when you're finished.
 
  If you don't enter a valid privacy policy, you won't be allowed to share your GPT with the public.
@@ -132,10 +173,10 @@ Go back when you're finished.
 ![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can add more conversation starters as required.
@@ -146,23 +187,9 @@ You can add more conversation starters as required.
 
 ![Share dropdown menu in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/share-dropdown-menu-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While it won't make any difference, for now, you can choose whether you'd like to publish to the public, via links, or only to yourself. None of the sharing options work, by the way. We have to wait for an update. But, if you want friends to use your AI, return to ChatGPT's home, open the GPT's chat, and copy the URL in your browser's address bar.
 
  If you click the pencil icon in the share menu, you'll enter your builder profile, where you can change your GPT and profile options when this feature is fully released.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT's Limitations Still Apply to GPT Builder
 
@@ -183,5 +210,18 @@ You can add more conversation starters as required.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-giggle-guides-essential-websites-for-humorous-ringtones/"><u>[New] Giggle Guides Essential Websites for Humorous Ringtones</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-whatsapp-video-transfers-from-tweeted-content/"><u>[New] WhatsApp Video Transfers From Tweeted Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-master-your-message-15-powerful-snap-ideas/"><u>[Updated] 2024 Approved Master Your Message 15 Powerful Snap Ideas</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-gestures-in-tech-landscape/"><u>2024 Approved Unveiling Gestures in Tech Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-innovative-ways-chatgpt-can-improve-your-daily-planning/"><u>4 Innovative Ways ChatGPT Can Improve Your Daily Planning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-major-blunders-when-crafting-texts-using-chatgpt/"><u>4 Major Blunders When Crafting Texts Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-ways-to-tackle-real-time-dialogue-disruptions-with-chatgpt/"><u>7 Ways to Tackle Real-Time Dialogue Disruptions with ChatGPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-revived-status-update-code-unlocked/"><u>Device Revived: Status Update - Code Unlocked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721378648420-digital-distrust-spotting-impostor-chatgpt-sites-for-security/"><u>Digital Distrust: Spotting Impostor ChatGPT Sites for Security</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-utilizing-b-roll-in-video-production-effectively/"><u>In 2024, Utilizing B-Roll in Video Production Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721436651003-twitters-without-smiles-linuss-leaked-knowledge-trojan-deconstruction-and-gpt-shortcomings-explored/"><u>Twitters Without Smiles, Linus’s Leaked Knowledge, Trojan Deconstruction, & GPT Shortcomings Explored.</u></a></li>
+</ul></div>
 

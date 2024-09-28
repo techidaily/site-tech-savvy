@@ -1,7 +1,7 @@
 ---
 title: Mastering The Art of Crafting Powerful ChatGPT Prompts
-date: 2024-09-21T16:23:36.863Z
-updated: 2024-09-22T18:09:52.718Z
+date: 2024-09-21T17:33:38.233Z
+updated: 2024-09-28T16:34:36.017Z
 tags:
   - chatgpt
   - open-ai
@@ -48,9 +48,35 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 
  Multiple words or phrases of each prompt are replaceable to customize it for your query. The must-fill parts are marked in brackets for you to replace the original text, while optional replacements are colored red or blue.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3. Adrian Twarog
 
 ![Adrian Twarog's "Ultimate ChatGPT Resource Guide" is the best free series of YouTube lessons to learn how to write ChatGPT prompts and then use it in advanced applications, or even to make your own ChatGPT clone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-adrian-twarog.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  YouTuber Adrian Twarog has quite a following for his how-to and tutorial videos on myriad topics like web development, apps, and AI. He deep-dived into the system and has already made videos on creating a ChatGPT clone or making your Discord bot with the OpenAI models. Naturally, this requires understanding the core principles of how ChatGPT works, and he's imparting all that knowledge in a series of YouTube videos.
 
@@ -59,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
  The third video, titled Advanced ChatGPT Guide, is the one you want to pay particular attention to if you want to understand advanced prompts. Twarog goes into details of prompt engineering with a series of examples. Even if the examples aren't what you want to do with ChatGPT, go through these as an exercise to truly understand the finer points of composing a prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4. Micah Johns
@@ -86,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
  The course then goes into advanced practices like applied prompting (contributed by users), fine-tuning, images, and more, where you'll learn techniques like Chain of Thought, Self Consistency, etc. It might sound like a lot of jargon, but it'll be clear and easy to understand if you go through the course step-by-step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Learning ChatGPT With a Personal Project
@@ -109,5 +135,18 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-nurturing-relationships-inspiring-connections-with-your-viewers-for-2024/"><u>[Updated] Nurturing Relationships Inspiring Connections With Your Viewers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bargain-tech-meets-ransomware-unraveling-secrets/"><u>Bargain Tech Meets Ransomware Unraveling Secrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-productivity-essential-ai-tools-for-writers/"><u>Boost Your Productivity: Essential AI Tools for Writers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-easy-collaboration-with-youtube-musics-innovative-personal-radio-streaming-option/"><u>Discover the Easy Collaboration with YouTube Music’s Innovative Personal Radio Streaming Option</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-11r-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus 11R Without Password | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone XS Max?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-remove-jello-effect-from-an-aerial-video/"><u>In 2024, How to Remove Jello Effect From an Aerial Video</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/join-the-bug-sniffers-club-at-openai-where-expertise-meets-rewards/"><u>Join the Bug-Sniffers Club at OpenAI, Where Expertise Meets Rewards</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamline-your-watch-party-multi-video-views-made-easy/"><u>Streamline Your Watch Party Multi-Video Views Made Easy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-content-creation-hixplusgpt-4/"><u>The Future of Content Creation: HIX+GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-of-gpt-4-collectively/"><u>Unlocking the Potential of GPT-4 Collectively</u></a></li>
+</ul></div>
 

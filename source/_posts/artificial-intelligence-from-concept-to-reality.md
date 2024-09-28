@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence: From Concept to Reality"
-date: 2024-09-20T18:35:12.838Z
-updated: 2024-09-22T16:26:30.537Z
+date: 2024-09-25T16:54:33.781Z
+updated: 2024-09-28T16:46:51.398Z
 tags:
   - chatgpt
   - open-ai
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Technological developments accelerated during this period. The accessibility of IT resources enabled researchers to materialize theories, imagined concepts, and speculations. They were laying the foundation for cybernetics.
 
 * **1914:** Spanish civil engineer Leonardo Torres y Quevedo created El Ajedrecista, which translates to The Chess Player in English. It's an early use of automation. The Chess Player performed an endgame move using its rook and king to checkmate an opposing player.
@@ -53,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63
 * **1950:** Alan Turing formally published the Turing Test. It's one of the earliest and most widely used interrogation methods for [testing the accuracy of AI systems](https://www.makeuseof.com/test-factors-ai-chatbots-accuracy/).
 
  The dawn of modern AI fitting accumulates with Alan Turing's paper and the [Turing Test, which attempts to answer the question](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/), "Can machines think?"
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1951-2000: Exploring the Applications of AI Technologies
 
@@ -72,19 +86,6 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 
 ![The Black First Generation iPhone on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/original-iphone-first-gen.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone%5FFirst%5FGeneration%5F8GB%5F%283680455198%29.jpg)
 
  Consumers gained access to innovative, groundbreaking technologies that made their lives more convenient. They slowly adopted these new gadgets. The iPod replaced the Sony Walkman, gaming consoles put arcades out of business, and Wikipedia beat Encyclopædia Britannica.
@@ -97,23 +98,9 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
  Interestingly, despite this period featuring some of the most iconic tech from recent decades, AI wasn't fully on the radar for most consumers, with personal and home assistant tools like Siri and Alexa only appearing in the next period.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2011-2020: The Spread and Development of AI-Driven Applications
 
 ![Camera, Smartphone, Keyboard, an Laptop on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/various-gadgets-on-table.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Companies began developing stable AI-driven solutions during this period. They integrate AI into various software and hardware systems, like virtual assistants, grammar checkers, laptops, smartphones, and [augmented reality apps](https://www.makeuseof.com/tag/best-augmented-reality-apps-android/).
 
@@ -125,6 +112,13 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
  During this period, consumers were likely to use AI applications without even realizing it, even though visual and voice recognition tools (for most consumers) were still young. Towards the end of the decade, AI development kicked up a notch, but still not as dramatically as what was to come.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2021-Present: Global Tech Leaders Kick off the Great AI Race
 
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
@@ -135,6 +129,13 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 * **2023:** Other global tech companies followed suit. Google launched Bard, Microsoft released Bing Chat, Meta developed an open-source language model called LLaMA, and OpenAI released GPT-4, its upgraded model.
 
  There are also numerous [other AI web apps](https://www.makeuseof.com/best-ai-web-apps/) and [AI-based health apps](https://www.makeuseof.com/best-ai-apps-monitor-your-health/) available for use or in development, and so many more to come.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How AI Will Shape the Future
 
@@ -159,5 +160,26 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-pioneering-televised-facebook-interactions-via-live-streams-for-2024/"><u>[New] Pioneering Televised Facebook Interactions via Live Streams for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-from-oven-to-screen-cooking-videos-unveiled/"><u>[Updated] From Oven to Screen Cooking Videos Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-record-a-timelapse-video-on-ipad/"><u>[Updated] How to Record a Timelapse Video on iPad</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-quick-visuals-accompanied-by-audio/"><u>[Updated] Quick Visuals Accompanied by Audio</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-a-comprehensive-look-at-decelerating-youtube-video-speed-50-chars/"><u>2024 Approved A Comprehensive Look at Decelerating YouTube Video Speed (50 Chars)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-expanding-networks-integrating-youtube-and-facebook/"><u>2024 Approved Expanding Networks Integrating YouTube and Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-tool-foundations-starting-with-9-community-guides/"><u>AI Tool Foundations: Starting with 9 Community Guides</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpts-effectiveness-independent-or-not/"><u>Auto-GPT's Effectiveness: Independent or Not?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/caution-your-data-and-chatgpt-on-mobile/"><u>Caution: Your Data & ChatGPT on Mobile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-interactivity-chatgpt-and-its-plug-ins/"><u>Enhancing Interactivity: ChatGPT and Its Plug-Ins</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-x-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone X and iPad</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-art-of-recording-facebook-lives-discover-4-key-strategies/"><u>In 2024, The Art of Recording Facebook Lives Discover 4 Key Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-learning-on-utilizing-openais-api-capabilities/"><u>Interactive Learning on Utilizing OpenAI's API Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-mac-friendly-communication-with-gpt/"><u>Introducing Mac-Friendly Communication with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/narrative-navigators-face-off-gpt-versus-google-bard/"><u>Narrative Navigators Face-Off: GPT Versus Google Bard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sharpen-your-interview-edge-chatgpts-role-in-practice/"><u>Sharpen Your Interview Edge: ChatGPT's Role in Practice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-walkthrough-for-deploying-codegpt-extension-on-vs-code-platform/"><u>The Ultimate Walkthrough for Deploying CodeGPT Extension on VS Code Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-ride-gpt-steps-to-customization/"><u>Transform Your Ride: GPT Steps to Customization</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-stardom-made-easy-essential-editing-strategies-explored-for-2024/"><u>YouTube Stardom Made Easy Essential Editing Strategies Explored for 2024</u></a></li>
+</ul></div>
 

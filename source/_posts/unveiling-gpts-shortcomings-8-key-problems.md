@@ -1,7 +1,7 @@
 ---
 title: "Unveiling GPT's Shortcomings: 8 Key Problems"
-date: 2024-09-16T16:17:54.725Z
-updated: 2024-09-22T17:16:17.747Z
+date: 2024-09-24T16:05:26.182Z
+updated: 2024-09-28T16:45:42.219Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 
  Learning [how to use ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) is simple, and it's equally easy to be fooled into thinking that the AI system performs without any trouble. However, since its release, key problems have emerged around privacy, security, and its wider impact on people's lives, from jobs to education.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Security Threats and Privacy Concerns
 
  There are plenty of [things that you must not share with AI chatbots](https://www.makeuseof.com/things-you-must-not-share-with-ai-chatbots/), and for good reason. Writing about your financial details or confidential workplace information comes with a risk. OpenAI retains your chat history on its servers and may share this data with a select number of third-party groups.
@@ -57,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
  These changes are a great start, but the improvements should be extended to all ChatGPT users.
 
  You might not think that you would share your personal details so easily, but we're all susceptible to a slip of the tongue, and a good example of this is how a [Samsung employee shared company information with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Concerns Over ChatGPT Training and Privacy Issues
 
@@ -88,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 
 ![Bing AI search results show hallucinations regarding an image description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-hallucinates-image-description.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can see more hilarious hallucinations in our comparison between [ChatGPT vs. Microsoft Bing AI vs. Google Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/). It's not hard to imagine people using ChatGPT to get quick facts and information, expecting those results to be true. But so far, ChatGPT can't get it right, and teaming up with an equally inaccurate Bing search engine only made things worse.
 
 ## 4\. ChatGPT Has Bias Baked Into Its System
@@ -111,23 +118,9 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 
  By contrast, a similar AI chatbot called Sparrow—owned by Google's parent company, Alphabet—was released in September 2022\. However, it was purposely kept behind closed doors because of similar safety concerns. Around the same time, Facebook released an AI language model called Galactica, intended to help with academic research. However, it was rapidly recalled after many people criticized it for outputting wrong and biased results related to scientific research.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. ChatGPT Might Take Jobs From Humans
 
 ![litlte girl holding hands with robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/litlte-girl-holding-hands-with-robot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The dust has yet to settle after the rapid development and deployment of ChatGPT, but that hasn't stopped the underlying technology from being stitched into several commercial apps. Among the [apps that have integrated GPT-4](https://www.makeuseof.com/apps-integrate-use-gpt4/) are Duolingo and Khan Academy.
 
@@ -153,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 
  In the short term, schools and universities are updating their policies and ruling whether students can or cannot use AI to help them with an assignment. It's not only English-based subjects that are at risk either; ChatGPT can help with any task involving brainstorming, summarizing, or drawing analytical conclusions.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. ChatGPT Can Cause Real-World Harm
 
  It wasn't long before someone tried to [jailbreak ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/), resulting in an AI model that could bypass OpenAI's guard rails meant to prevent it from generating offensive and dangerous text.
@@ -170,11 +156,31 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 
 ![Close-up of computer code on a screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-scammers-malware.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The rate at which ChatGPT can produce information has already caused problems for Stack Exchange, a website dedicated to providing correct answers to everyday questions. Soon after ChatGPT was released, users flooded the site with answers they asked ChatGPT to generate.
 
  Without enough human volunteers to sort through the backlog, it would be impossible to maintain a high level of quality answers. Not to mention, many of the answers were incorrect. To avoid the website being damaged, a ban was placed on all answers generated using ChatGPT.
 
  The spread of fake information is a serious concern, too. The scale at which ChatGPT can produce text, coupled with the ability to make even incorrect information sound convincingly right, makes everything on the internet questionable. It's a critical combination that amplifies [the dangers of deepfake technology](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. OpenAI Holds All the Power
 
@@ -187,21 +193,22 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 ![ChatGPT explains whether AI code should be made open source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-ai-chat-gpt-open-source.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While OpenAI considers safety a high priority, there is a lot that we don't know about how the models themselves work, for better or worse. At the end of the day, the only choice we have is to unquestioningly trust that OpenAI will research, develop, and use ChatGPT responsibly.
 
  Whether we agree with its methods or not, it's worth remembering that OpenAI is a private company that will continue developing ChatGPT according to its own goals and ethical standards.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tackling AI's Biggest Problems
 
@@ -232,5 +239,23 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-harness-your-windows-10-sound-power/"><u>[Updated] Harness Your Windows 10 Sound Power</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-building-striking-soundbite-trailers-for-podcasts/"><u>2024 Approved Building Striking Soundbite Trailers for Podcasts</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bard-by-google-next-chapter-in-ai-evolution-after-gpt/"><u>Bard by Google: Next Chapter in AI Evolution After GPT</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-xs-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your iPhone XS Max</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-gameplay-by-improving-fps-and-reducing-tremors-in-the-ascent/"><u>Enhance Gameplay by Improving FPS and Reducing Tremors in 'The Ascent'</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721405554846-free-gpt-4-for-everyone-nonetheless-select-plus-membership-continues-to-provide-unique-services/"><u>Free GPT-4 for Everyone; Nonetheless, Select Plus Membership Continues to Provide Unique Services.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721425749303-gpt-4-unlocked-for-all-yet-6-chatgpt-plus-advantages-remain/"><u>GPT-4: Unlocked For All, Yet 6 ChatGPT Plus Advantages Remain</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-decoding-facebooks-automatic-video-advancements/"><u>In 2024, Decoding Facebook's Automatic Video Advancements</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Motorola Moto G Stylus (2023) Phone?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-display-just-a-blink/"><u>No Display, Just a Blink</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-meditative-moments-with-chatgpt/"><u>Optimizing Meditative Moments with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-new-voice-revolution-in-luxury-cars/"><u>The New VOICE Revolution in Luxury Cars</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/triggering-gpt-alerts-for-detecting-con-art-ai-systems/"><u>Triggering GPT Alerts for Detecting Con Art AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-openais-shap-explainer/"><u>Understanding OpenAI's SHAP Explainer</u></a></li>
+</ul></div>
 

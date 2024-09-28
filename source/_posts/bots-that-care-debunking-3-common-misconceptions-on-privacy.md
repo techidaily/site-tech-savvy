@@ -1,7 +1,7 @@
 ---
 title: Bots That Care? Debunking 3 Common Misconceptions on Privacy
-date: 2024-09-16T16:35:38.164Z
-updated: 2024-09-22T16:37:56.093Z
+date: 2024-09-27T16:47:06.476Z
+updated: 2024-09-28T16:55:22.843Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  But the concerns don't stop here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How Does ChatGPT Learn?
 
  In order to provide information, large language models are trained with huge amounts of data. According to [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3), ChatGPT-4 alone was fed 300 billion words of information during its training period. This isn't taken straight from a few encyclopedias. Rather, chatbot developers use masses of information from the internet to train their models. This can include data from books, movies, articles, Wikipedia entries, blog posts, comments, and even review sites.
@@ -53,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  This is where things get a little blurry. If you ask ChatGPT-3.5 directly whether it has access to product reviews or article comments, you'll get a firm negative. As you can see in the screenshot below, GPT-3.5 states that it wasn't given access to user article comments or product reviews in its training.
 
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
 
@@ -72,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Data Theft
 
  Like any online tool or platform, chatbots are vulnerable to cybercrime. Even if a chatbot did all it could to protect users and their data, there's always a chance that a savvy hacker will manage to infiltrate its internal systems.
@@ -84,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Malware Infection
 
  If you're using a shady chatbot without realizing it, you may find the chatbot providing you with links to malicious websites. Maybe the chatbot has alerted you of a tempting giveaway, or provided a source for one of its statements. If the operators of the service have illicit intentions, the entire point of the platform may be to spread malware and scams via malicious links.
@@ -102,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Chatbots Aren't Impervious to Privacy Issues
@@ -133,5 +147,26 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-fashioning-small-homes-with-eastern-aesthetics-for-2024/"><u>[New] Fashioning Small Homes with Eastern Aesthetics for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-most-reliable-image-archiving-sites-for-2024/"><u>[New] Most Reliable Image Archiving Sites for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-tos-selecting-free-powerful-iphoneipad-edits/"><u>[Updated] How-To's Selecting Free, Powerful iPhone/iPad Edits</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-gt-neo-5-se-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme GT Neo 5 SE Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-how-companies-employ-chatgpt/"><u>Behind the Scenes: How Companies Employ ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-visual-performance-monitors-for-next-gen-console-gamers-ps5xbox-series/"><u>Best Visual Performance Monitors for Next-Gen Console Gamers (PS5/Xbox Series)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-personalized-secure-fitness-plans/"><u>ChatGPT's Role in Personalized, Secure Fitness Plans</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debating-top-talkers-gpt-vs-huggingchats-clash/"><u>Debating Top Talkers: GPT vs HuggingChat's Clash</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-audio-failures-on-netflix-quickly/"><u>Diagnosing and Repairing Audio Failures on Netflix Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-empathy-through-chatgpt-utilization/"><u>Enhancing Empathy Through ChatGPT Utilization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-ai-top-8-reasons-educators-should-adapt/"><u>Harnessing the Power of AI: Top 8 Reasons Educators Should Adapt</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-leading-websites-for-text-embellishments/"><u>In 2024, Explore Leading Websites for Text Embellishments</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/"><u>Is It Wise to Delegate Money Matters to AI?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/navigating-the-world-of-zoom-audio-to-text-tools-for-2024/"><u>Navigating the World of Zoom Audio to Text Tools for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-dialogue-engines-creating-your-own-ai/"><u>Personalized Dialogue Engines: Creating Your Own AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-path-to-ingenious-visuals-mastery-over-microsofts-copilot/"><u>The Path to Ingenious Visuals: Mastery Over Microsoft's Copilot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-winning-business-proposals-with-chatgpt/"><u>Writing Winning Business Proposals with ChatGPT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/bes-most-lucrative-star-title/"><u>YouTube's Most Lucrative Star Title</u></a></li>
+</ul></div>
 

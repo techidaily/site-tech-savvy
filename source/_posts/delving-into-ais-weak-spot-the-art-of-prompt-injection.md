@@ -1,7 +1,7 @@
 ---
 title: "Delving Into AI's Weak Spot: The Art of Prompt Injection"
-date: 2024-09-21T19:10:54.968Z
-updated: 2024-09-22T16:06:18.657Z
+date: 2024-09-25T16:05:44.834Z
+updated: 2024-09-28T17:07:36.222Z
 tags:
   - chatgpt
   - open-ai
@@ -44,19 +44,33 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
  For example, someone could manipulate the AI into instructing you to enter your username and password in an illegitimate form, using the AI's authority and trustworthiness to make a phishing attack succeed. Theoretically, autonomous AI (such as reading and responding to messages) could also receive and act upon unwanted external instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do Prompt Injection Attacks Work?
 
  Prompt injection attacks work by feeding additional instructions to an AI without the consent or knowledge of the user. Hackers can accomplish this in a few ways, including DAN attacks and indirect prompt injection attacks.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### DAN (Do Anything Now) Attacks
 
 ![conversing with chatgpt following a dan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/conversing-with-chatgpt-following-a-dan-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  DAN (Do Anything Now) attacks are a type of prompt injection attack that involve ["jailbreaking" generative AI models like ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). These jailbreaking attacks don't pose a risk to you as the end user—but they do broaden the capacity of the AI, enabling it to become a tool for abuse.
@@ -64,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
  For example, security researcher [Alejandro Vidal](https://twitter.com/doblepensador/status/1635721485665837059) used a DAN prompt to make OpenAI's GPT-4 generate Python code for a keylogger. Used maliciously, jailbroken AI substantially lowers the skill-based barriers associated with cybercrime and could enable new hackers to make more sophisticated attacks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Training Data Poisoning Attacks
@@ -77,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
  The potential applications of training data poisoning attacks are practically limitless. For example, an AI used to filter phishing attempts from a chat or email platform could theoretically have its training data modified. If hackers taught the AI moderator that certain types of phishing attempts were acceptable, they could send phishing messages while remaining undetected.
 
  Training data poisoning attacks can't harm you directly but can make other threats possible. If you want to guard yourself against these attacks, remember that AI is not foolproof and that you should scrutinize anything you encounter online.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Indirect Prompt Injection Attacks
 
@@ -120,5 +127,18 @@ Grekshake/[GitHub](https://github.com/greshake)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-smooth-visual-journeys-master-fades-in-a-flash-for-2024/"><u>[Updated] Smooth Visual Journeys Master Fades in a Flash for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-a15-4g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy A15 4G FRP</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/a-quick-dive-into-obs-zoom-fusion-steps-for-2024/"><u>A Quick Dive Into OBS-Zoom Fusion Steps for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advancing-crypto-discussions-via-gpt-innovations/"><u>Advancing Crypto Discussions via GPT Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-communicators-from-idea-to-interaction-using-gpt/"><u>AI Communicators: From Idea to Interaction - Using GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/balancing-ai-realism-six-key-cues-for-authentic-respitsonses/"><u>Balancing AI Realism: Six Key Cues for Authentic Respitsonses</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-dslr-530-driver-download-how-to-update-and-install-latest-version/"><u>Canon DSLR-530 Driver Download: How to Update & Install Latest Version</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-rusts-infamous-display-error-effectively/"><u>Expert Tips for Resolving Rust's Infamous Display Error Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improving-blog-commentaries-with-ai-wisdom/"><u>Improving Blog Commentaries with AI Wisdom</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-innovative-practices-for-enhancing-vhs-photos-via-pcs/"><u>In 2024, Innovative Practices for Enhancing VHS Photos via PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-power-of-dfu-mode-to-resolve-these-5-iphone-malfunctions/"><u>Unlock the Power of DFU Mode to Resolve These 5 iPhone Malfunctions</u></a></li>
+</ul></div>
 

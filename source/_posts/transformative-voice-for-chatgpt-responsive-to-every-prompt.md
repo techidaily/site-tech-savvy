@@ -1,7 +1,7 @@
 ---
 title: "Transformative Voice for ChatGPT: Responsive to Every Prompt"
-date: 2024-09-19T16:24:37.297Z
-updated: 2024-09-22T18:41:23.736Z
+date: 2024-09-24T16:25:59.622Z
+updated: 2024-09-28T16:20:06.548Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 
  ChatGPT's new text-to-speech model is only available to Plus and Enterprise subscribers using the official Android and iOS apps and is expected to roll out within the next two weeks (starting from September 25, 2023). Furthermore, the new voice feature is limited to English to begin with, though we would expect this to change rapidly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT Can Recognize and Analyze Images and Photographs
 
  The second part of OpenAI's ChatGPT update is the ability to analyze and talk images uploaded to the tool. The visual image analysis option was featured in the GPT-4 update videos but hasn't been discussed much since that time ([ChatGPT Code Interpreter aside](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/)).
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
  Calling it "similar to Google Lens" does it an injustice, really. The ability to chat back and forth about the image to gain more information and context makes it extremely useful for a broad range of settings. However, it's important to note the fine print, with OpenAI making it clear that it has limited ChatGPT's "ability to analyze and make direct statements about people" for privacy and accuracy reasons. Still, could an OpenAI-powered "Who Is This" tool be in the works for the future? (Let's hope not!)
 
  Like the new text-to-speech model, OpenAI will roll out image recognition in the next two weeks, though it will be available on all platforms, not just the ChatGPT app.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Privacy, Security, and Other Issues
 
@@ -61,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
  Given this is the tip of the iceberg, expect pushback against ChatGPT's newfound voice, especially once there is a predictable uptick in unsavory headlines claiming ChatGPT is being used to commit fraud and so on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OpenAI Is Making ChatGPT the Go-To AI App
@@ -90,5 +104,24 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamline-your-slide-share-experience-with-webcam/"><u>[New] 2024 Approved Streamline Your Slide Share Experience with Webcam</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-leading-titles-in-editing-webcam-videos-effectively-for-2024/"><u>[New] Leading Titles in Editing Webcam Videos Effectively for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-hdr-conversion-playbook-starting-with-sdr/"><u>[New] The Ultimate HDR Conversion Playbook - Starting with SDR</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-monetization-policy-updated-requirements-and-guidelines/"><u>[New] YouTube Monetization Policy Updated Requirements and Guidelines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-enhanced-ai-tools-justified-by-costs-incurred/"><u>Are Enhanced AI Tools Justified by Costs Incurred?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-blackout-phenomenon-in-pc-titles-on-windows/"><u>Combatting Blackout Phenomenon in PC Titles on Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dubai-2020-expo-transforming-language-education/"><u>Dubai 2020 Expo: Transforming Language Education</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-abodes-productivity-with-chatgpt-techniques/"><u>Elevate Your Abode's Productivity with ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mitigating-pressure-chatgpt-techniques/"><u>Mitigating Pressure: ChatGPT Techniques</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-add-wow-to-your-videos-best-animated-text-apps-for-phone/"><u>New In 2024, Add Wow to Your Videos Best Animated Text Apps for Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-budget-no-barrier-to-adventure-find-your-plan-with-these-7-free-apps/"><u>No Budget, No Barrier to Adventure – Find Your Plan with These 7 Free Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/noise-free-listening-a-step-by-step-guide-to-repairing-glitchy-airpods-audio/"><u>Noise-Free Listening: A Step-by-Step Guide to Repairing Glitchy AirPods Audio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/restoring-full-chatgpt-functionality-fixing-key-obstacles/"><u>Restoring Full ChatGPT Functionality: Fixing Key Obstacles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sparkling-ai-chat-mastering-chatgpts-10-enhancements/"><u>Sparkling AI Chat: Mastering ChatGPT's 10 Enhancements</u></a></li>
+<li><a href="https://facebook.techidaily.com/terrifying-realities-in-metas-media-empire/"><u>Terrifying Realities in Meta’s Media Empire</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-chrome-productivity-boosts-with-cutting-edge-ai-technology/"><u>Top 8 Chrome Productivity Boosts with Cutting-Edge AI Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-dall-es-potential-with-png-and-jpg-conversions/"><u>Unlocking DALL-E's Potential with PNG and JPG Conversions</u></a></li>
+</ul></div>
 

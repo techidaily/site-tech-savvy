@@ -1,7 +1,7 @@
 ---
 title: Why Claude 3 Is Taking the Center Stage Over ChatGPT's Dominance
-date: 2024-09-16T18:15:09.372Z
-updated: 2024-09-22T18:43:21.622Z
+date: 2024-09-22T17:06:53.388Z
+updated: 2024-09-28T18:33:49.404Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,14 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 2. Sample 2  
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
@@ -74,13 +82,26 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
 ![Coconut to wealth by Claude writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-claude.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  Claude Offers Multimodality for Free
@@ -88,10 +109,16 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
@@ -135,5 +162,26 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-becoming-a-star-spectator-on-the-social-stage-for-2024/"><u>[New] Becoming a Star Spectator on the Social Stage for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-performance-goggles-ranked-drone-flyings-best/"><u>[Updated] High-Performance Goggles Ranked Drone Flying's Best</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-chatgpt-pdf-plugins-that-can-save-you-time-and-effort/"><u>10 ChatGPT PDF Plugins That Can Save You Time and Effort</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/17-chatgpt-and-inbox-summarizer-top-17-ai-email-aids/"><u>17 ChatGPT & Inbox Summarizer: Top 17 AI Email Aids</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-digital-dimensions-metaverse-vs-omniverse-explained/"><u>2024 Approved Digital Dimensions Metaverse Vs. Omniverse Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-pickups-for-novice-gopro-owners/"><u>2024 Approved Prime Pickups for Novice GoPro Owners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/9-insights-into-the-future-workforce-for-prompt-crafting/"><u>9 Insights Into the Future Workforce for Prompt Crafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-forefront-ai-and-its-stand-against-chatgpt/"><u>A Deep Dive Into Forefront AI and Its Stand Against ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abruptly-end-your-chatgpt-experience/"><u>Abruptly End Your ChatGPT Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/backup-plans-for-elusive-chatgpt-exchanges/"><u>Backup Plans for Elusive ChatGPT Exchanges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721435790388-debunking-claims-chatgpt-app-on-windows-not-so-fast/"><u>Debunking Claims: ChatGPT App on Windows? Not So Fast!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721421041266-gpt-4-free-and-open-to-all-yet-premium-users-reap-rewards-from-platinums-unparalleled-experience/"><u>GPT-4: Free and Open to All; Yet Premium Users Reap Rewards From Platinum's Unparalleled Experience.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-cutting-edge-online-resources-for-glittering-3d-typography/"><u>In 2024, Cutting-Edge Online Resources for Glittering 3D Typography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721400851018-leap-into-a-new-era-of-web-exploration-bing-on-mobile-platforms/"><u>Leap Into a New Era of Web Exploration: Bing on Mobile Platforms.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-14-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 14 Plus Prevention & Solution</u></a></li>
+<li><a href="https://fox-http.techidaily.com/samsung-ue590-unveiled-ultra-hd-4k-and-freesync-edition/"><u>Samsung UE590 Unveiled Ultra HD 4K & FreeSync Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-audio-capture-techniques-for-window-warriors/"><u>Top 5 Audio Capture Techniques for Window Warriors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721391506101-tweet-no-more-emojis-linuss-leaks-trojan-breakdown-and-chatgpt-woes/"><u>Tweet No More Emojis, Linus's Leaks, Trojan Breakdown, & ChatGPT Woes.</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-freedom-awaits-explore-these-top-6-youtube-shortdowners-for-2024/"><u>Your Freedom Awaits Explore These Top 6 YouTube Shortdowners for 2024</u></a></li>
+</ul></div>
 

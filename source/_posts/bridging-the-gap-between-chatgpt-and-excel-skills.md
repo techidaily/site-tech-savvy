@@ -1,7 +1,7 @@
 ---
 title: Bridging the Gap Between ChatGPT & Excel Skills
-date: 2024-09-20T16:47:12.434Z
-updated: 2024-09-22T16:51:00.500Z
+date: 2024-09-23T16:54:33.729Z
+updated: 2024-09-28T18:06:13.988Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/0afe9beb0b64de5cc7a966e66ff258745b01178cd
 
  For example, if you need help with a formula, type in something like "Can you help me with a VLOOKUP formula?" or "What's the formula to calculate the average of a range of cells?" and ChatGPT will respond. Similarly, if you need help with a specific macro, you can ask ChatGPT for assistance.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Examples of Using ChatGPT With Excel
 
  To get started, open a chat window with ChatGPT and ask for help. Here are some examples of how you can use ChatGPT to improve your Excel skills:
@@ -48,25 +55,11 @@ thumbnail: https://thmb.techidaily.com/0afe9beb0b64de5cc7a966e66ff258745b01178cd
 
  Here are some examples of common ChatGPT prompts and code that can be useful while working with Excel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Rounding Numbers
 
  To round a number to the nearest whole number, you can ask ChatGPT, "What is the formula to round a number to the nearest whole number?", and ChatGPT will respond with the formula "=ROUND(A1,0)".
 
 ![ChatGPT showing the formula to round a number to the nearest whole number on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-round-number.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Calculating Averages
 
@@ -75,10 +68,17 @@ thumbnail: https://thmb.techidaily.com/0afe9beb0b64de5cc7a966e66ff258745b01178cd
 ![ChatGPT showing the formula to calculate the average of cells on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-average.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Sorting and Filtering Data
@@ -87,28 +87,41 @@ thumbnail: https://thmb.techidaily.com/0afe9beb0b64de5cc7a966e66ff258745b01178cd
 
 ![ChatGPT showing an example macro for the sort filter on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-sort-filter.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. More Advanced Examples
 
  You can ask, "Can you create a macro that filters data based on specific criteria?", and ChatGPT will respond with the suitable macro code.
 
 ![ChatGPT showing the macro to create filters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-macro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can ask “Create a macro that copies filtered data to a new worksheet”, ChatGPT will respond with:
 
 ![ChatGPT showing the macro to copy filtered data to a new worksheet on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-macro-to-workbook.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you ask “Calculate the weighted average of a range of cells”, it will respond with:
@@ -162,5 +175,24 @@ thumbnail: https://thmb.techidaily.com/0afe9beb0b64de5cc7a966e66ff258745b01178cd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-technique-for-anonymous-footage-via-image-smoothing/"><u>[New] Technique for Anonymous Footage via Image Smoothing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-ace-your-reel-rankings-by-following-leading-tiktok-strategies-for-2024/"><u>[Updated] Ace Your Reel Rankings by Following Leading TikTok Strategies for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/18-next-level-sales-management-applications-beyond-gpts-realm/"><u>18 Next-Level Sales Management Applications Beyond GPT's Realm</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-ace-the-art-of-online-fame-trending-on-youtube/"><u>2024 Approved Ace the Art of Online Fame Trending on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/26-cutting-edge-solutions-to-replace-chatgpts-pos-software/"><u>26 Cutting-Edge Solutions to Replace ChatGPT's POS Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-strong-reasons-ios-app-superiority-in-gpt-domain/"><u>6 Strong Reasons: IOS App Superiority in GPT Domain</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-peek-into-hugging-faces-workings-and-uses/"><u>A Peek Into Hugging Face’s Workings and Uses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-to-structuring-chatgpt-conversations/"><u>A Step-by-Step Guide to Structuring ChatGPT Conversations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-biometrics-from-fingerprint-scanners-to-facial-recognition/"><u>Demystifying Biometrics: From Fingerprint Scanners to Facial Recognition</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/flirtatious-formulations-heartfelt-german-phrases/"><u>Flirtatious Formulations: Heartfelt German Phrases</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-spark-10-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Spark 10 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721392425670-navigate-the-web-with-ease-bings-ai-search-on-ios-and-android/"><u>Navigate the Web with Ease: Bing's AI Search on iOS & Android</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-freezes-troubleshoot-your-google-chrome-for-smooth-browsing/"><u>No More Freezes: Troubleshoot Your Google Chrome for Smooth Browsing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721373940749-seamless-ai-powered-bing-search-across-ios-and-android/"><u>Seamless AI-Powered Bing Search Across iOS and Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-gaming-monitors-for-xbox-series-x-a-buyers-guide-for-2024/"><u>Top Gaming Monitors for Xbox Series X - A Buyer's Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-avi-videos-into-mkvs-without-cost-master-the-process-with-vlc-media-player-and-handbrake-software/"><u>Transforming AVI Videos Into MKVs without Cost: Master the Process with VLC Media Player & Handbrake Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721424969962-twitters-without-symbols-linuss-exposed-content-trojans-demystified-and-gpt-errors-spotlighted/"><u>Twitters Without Symbols, Linus’s Exposed Content, Trojans Demystified, & GPT Errors Spotlighted.</u></a></li>
+</ul></div>
 

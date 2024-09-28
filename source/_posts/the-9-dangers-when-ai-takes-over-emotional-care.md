@@ -1,7 +1,7 @@
 ---
 title: "The 9 Dangers: When AI Takes Over Emotional Care"
-date: 2024-09-15T16:38:14.965Z
-updated: 2024-09-22T17:53:31.629Z
+date: 2024-09-24T17:30:40.282Z
+updated: 2024-09-28T18:30:49.005Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 
 ![ChatGPT Can't Tell What Percentage of the Population has Anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-on-anxiety-disorder-statistics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Considering these constraints, an over-reliance on AI chatbots leaves you prone to outdated, ineffective advice. Medical innovations occur frequently. You need professionals to guide you through new treatment programs and recent findings.
 
  Likewise, ask about disproven methods. Blindly following controversial, groundless practices based on alternative medicine may worsen your condition. Stick to evidence-based options.
@@ -62,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 
 ![Bing Chat Explains Anxiety Medication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-prescription-meds.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Meanwhile, ChatGPT diverts the topic to alternative medicine. It likely limits outputs to prevent saying anything harmful or misleading.
 
 ![ChatGPT Can't Provide Prescription Medication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-prescription-medication.jpg)
@@ -83,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 
  A professional counselor or therapist would go beyond what AI suggests. You can use AI output as a starting point to better understand academic journals and research papers, but be sure to do deeper research or consult a professional.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Self-Diagnoses Are Rarely Accurate
 
  AI enables self-diagnoses. Instead of paying for therapy, patients ask chatbots to mimic mental health professionals. It’s quicker and cheaper than booking consultations.
@@ -100,14 +93,14 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 
 ![ChatGPT Can't Determine Your Disease Based on Symptoms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-explaining-anxiety-symptoms.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As a general rule, avoid self-diagnosis altogether. Getting on the wrong treatment plan or overlooking symptoms will cause more complications.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. AI Has No Access to Your Medical Records
 
@@ -117,18 +110,25 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 
 ![Sharing Finance Problems With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/telling-chatgpt-about-finance-problems.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With enough context, AI could start providing personalized plans. The problem is that generative AI tools have token limits—they only remember a finite amount of data.
 
 ![ChatGPT Addressing the Root Cause of Finance-Related Anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-finance-related-anxiety.jpg)
 
- The exact limits vary per platform. Bing Chat starts new chats after 20 turns, while ChatGPT remembers the last 3,000 words of conversations. But either way, neither tool will accommodate all your medical records. At best, generative AI tools can only string together select information, such as recent diagnoses or your current emotions.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The exact limits vary per platform. Bing Chat starts new chats after 20 turns, while ChatGPT remembers the last 3,000 words of conversations. But either way, neither tool will accommodate all your medical records. At best, generative AI tools can only string together select information, such as recent diagnoses or your current emotions.
 
 ## 8\. Machines Can’t Empathize With You
 
@@ -142,15 +142,28 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 
 ![Bing Chat Can't Empathize With Someone With Depression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-depression.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Meanwhile, ChatGPT asks open-ended questions but provides simplistic tips you’ll find anywhere else online.
 
 ![ChatGPT Giving Advice for Depression and Debt Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-advice-for-depression.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. AI Doesn’t Track Your Progress
@@ -184,5 +197,17 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-revitalize-your-visuals-expertly-curated-list-of-the-best-10-editors/"><u>[New] 2024 Approved Revitalize Your Visuals Expertly Curated List of the Best 10 Editors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-privishield-shield-and-cam-cover/"><u>2024 Approved PriviShield Shield & Cam Cover</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/advanced-strategies-for-quiet-capturing-for-2024/"><u>Advanced Strategies for Quiet Capturing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-compelling-verses-with-ai-powered-assistance/"><u>Crafting Compelling Verses with AI-Powered Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cybercrimes-calculated-courtship-schemes/"><u>Cybercrime’s Calculated Courtship Schemes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-elite-8-films-on-facebook/"><u>In 2024, Elite 8 Films on Facebook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-a05-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy A05</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-creativity-with-chatgpts-advanced-image-recognition/"><u>Maximizing Creativity with ChatGPT's Advanced Image Recognition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-communication-with-9-advantages-in-chatgptplus/"><u>Optimal Communication with 9 Advantages in ChatGPT+</u></a></li>
+</ul></div>
 

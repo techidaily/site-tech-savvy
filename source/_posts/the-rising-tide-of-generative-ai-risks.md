@@ -1,7 +1,7 @@
 ---
 title: The Rising Tide of Generative AI Risks
-date: 2024-09-17T16:38:12.260Z
-updated: 2024-09-22T18:38:39.686Z
+date: 2024-09-22T17:09:53.962Z
+updated: 2024-09-28T16:06:35.375Z
 tags:
   - chatgpt
   - open-ai
@@ -54,9 +54,36 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 ![Jailbreaking ChatGPT With DAN Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dan-jailbreak-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here’s ChatGPT with a bold yet false statement.
 
 ![ChatGPT Making Baseless Predictions About Bitcoin Prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-predicting-bitcoin-prices.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. AI Compromises Security for Versatility
 
@@ -71,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
  And here’s Bing Chat refusing to play an “immoral” persona.
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. New Generative AI Tools Hit the Market Regularly
 
@@ -88,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
  While OpenAI quickly resolved the issue, it emphasizes the importance of system regulation and risk management. AI is maturing faster than anyone anticipated. Even tech leaders worry that this superintelligent technology could cause massive damage in the wrong hands.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. AI Is Still Evolving
 
 ![ChatGPT, Bard, Bing, and Snapchat AI Logos Side by Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/different-ai-logos.jpg)
@@ -97,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
  Although they may be innovative, experimental features also create new issues. [High-profile mishaps with machine learning technologies](https://www.makeuseof.com/examples-machine-learning-artificial-intelligence-went-wrong/) range from flawed Google SERPs to biased chatbots spitting racial slurs.
 
  Of course, developers can fix these issues. Just note that crooks won’t hesitate to exploit even seemingly harmless bugs—some damages are irreversible. So be careful when exploring new platforms.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Many Don’t Understand AI Yet
 
@@ -115,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 ![Searching for ChatGPT on Google Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-play-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Black-Hat Hackers Have More to Gain That White-Hat Hackers
 
  Black-hat hackers typically have [more to gain than ethical hackers](https://www.makeuseof.com/white-hat-hacker/). Yes, pen testing for global tech leaders pays well, but only a percentage of cybersecurity professionals land these jobs. Most do freelance work online. Platforms like [HackerOne](https://www.hackerone.com/) and [Bugcrowd](https://www.bugcrowd.com/) pay a few hundred bucks for common bugs.
@@ -129,19 +156,6 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
  Alternatively, crooks make tens of thousands by exploiting insecurities. They might blackmail companies by leaking confidential data or commit ID theft with stolen [Personally Identifiable Information (PII)](https://www.makeuseof.com/what-is-personally-identifiable-information/).
 
  Every institution, small or large, must implement AI systems properly. Contrary to popular belief, hackers go beyond tech startups and SMBs. Some of the most [historic data breaches in the past decade](https://www.makeuseof.com/historic-data-breaches/) involve Facebook, Yahoo!, and even the U.S. government.
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Protect Yourself From the Security Risks of AI
 
@@ -166,5 +180,22 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-boost-sound-level-for-twitters-quiet-vids/"><u>[New] In 2024, Boost Sound Level for Twitter's Quiet Vids</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-bridging-the-gap-tweeting-plus-tumblr-video-uploads-for-2024/"><u>[Updated] Bridging the Gap Tweeting + Tumblr Video Uploads for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-avatar-asymmetry-artistry-sketching-distorted-images/"><u>[Updated] In 2024, Avatar Asymmetry Artistry Sketching Distorted Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/character-depth-explored-top-11-chatgpt-inquiry-models/"><u>Character Depth Explored: Top 11 ChatGPT Inquiry Models</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conocer-el-mes-completo-todos-los-dias-del-ciclo-semanal-en-espanol/"><u>Conocer El Mes Completo: Todos Los Días Del Ciclo Semanal en Español</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-linguistics-tech-nlp-vs-ml/"><u>Dissecting Linguistics Tech: NLP vs ML</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-list-of-leading-artificial-intelligence-note-taking-apps/"><u>Essential List of Leading Artificial Intelligence Note-Taking Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/has-openai-fallen-behind-gpt/"><u>Has OpenAI Fallen Behind GPT?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-10-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo Reno 10 Pro 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-8-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 8 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-safe-use-of-deep-learning-algos/"><u>Mastering Safe Use of Deep Learning Algos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/modern-ai-metrics-beyond-the-historical-turing-index/"><u>Modern AI Metrics: Beyond the Historical Turing Index</u></a></li>
+</ul></div>
 

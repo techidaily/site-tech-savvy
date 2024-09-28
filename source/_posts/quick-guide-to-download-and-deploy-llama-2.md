@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Download & Deploy Llama 2
-date: 2024-09-18T17:12:00.442Z
-updated: 2024-09-22T18:28:02.347Z
+date: 2024-09-23T17:05:22.579Z
+updated: 2024-09-28T17:29:48.105Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,14 @@ thumbnail: https://thmb.techidaily.com/9ea24c6282003fe5eaf1336598f1ab6b49832d478
 4. A terminal will open and start the setup. Early on, the setup will pause and ask you what GPU you are using. Select the appropriate type of GPU installed on your computer and hit enter. For those without a dedicated graphics card, select **None (I want to run models in CPU mode)**. Keep in mind that running on CPU mode is much slower when compared to running the model with a dedicated GPU.  
 ![Selecting GPU hardware installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/5-select-gpu-settings.jpg)
 5. Once the setup is complete, you can now launch Text-Generation-WebUI locally. You can do so by opening your preferred web browser and entering the provided IP address on the URL.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![How to launch-Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/6-launch-text-generation-webui.jpg)
 6. The WebUI is now ready for use.  
 ![Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/7-text-generation-webui-view.jpg)
@@ -84,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/9ea24c6282003fe5eaf1336598f1ab6b49832d478
 
 ![HuggingFace model naming convention](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/huggingface-model-naming-convention-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this example, the model can be identified as a medium-sized Llama 2 model trained on 13 billion parameters optimized for chat inferencing using a dedicated CPU.
 
  For those running on a dedicated GPU, choose a **GPTQ** model, while for those using a CPU, choose **GGML**. If you want to chat with the model like you would with ChatGPT, choose **chat**, but if you want to experiment with the model with its full capabilities, use the **standard** model. As for parameters, know that using bigger models will provide better results at the expense of performance. I would personally recommend you start with a 7B model. As for quantization, use q4, as it's only for inferencing.
@@ -98,18 +113,25 @@ thumbnail: https://thmb.techidaily.com/9ea24c6282003fe5eaf1336598f1ab6b49832d478
 
 ![Downloading Llama 2 model of your preference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/8-download-llama-2-model.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the download is finished, place the model in **text-generation-webui-main** \> **models**.
 
 ![Placing Llama 2 model to model folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/9-place-model-to-model-folder.jpg)
 
-Now that you have your model downloaded and placed in the model folder, it's time to configure the model loader.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Now that you have your model downloaded and placed in the model folder, it's time to configure the model loader.
 
 ## Step 4: Configure Text-Generation-WebUI
 
@@ -121,20 +143,13 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 ![Setting model loader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/10-select-model-loader.jpg)
 4. To use the model, open the Chat tab and start testing the model.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Testing Llama 2 locally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/12-testing-llama-2-locally.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Congratulations, you've successfully loaded Llama2 on your local computer!
@@ -160,5 +175,26 @@ Now that you have your model downloaded and placed in the model folder, it's tim
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>[New] 2024 Approved Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-integrating-virtual-boards-into-remote-discussions-iphoneipadandroid-and-computers-for-2024/"><u>[New] Integrating Virtual Boards Into Remote Discussions IPhone/iPad/Android and Computers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-echoai-creatives-harmonizing-image-edits/"><u>[Updated] EchoAI Creatives Harmonizing Image Edits</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mac-tricks-for-dynamic-instagram-video-size-adjustment/"><u>[Updated] Mac Tricks for Dynamic Instagram Video Size Adjustment</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-borders-on-instagrams-short-films-for-2024/"><u>[Updated] Mastering Borders on Instagram's Short Films for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abandon-chatgpt-step-by-step/"><u>Abandon ChatGPT: Step by Step</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-as-therapy-the-unseen-risks-you-should-know/"><u>AI as Therapy: The Unseen Risks You Should Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-approaches-to-streamline-domestic-life/"><u>AI-Driven Approaches to Streamline Domestic Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-impact-on-modern-day-job-seekers/"><u>ChatGPT's Impact on Modern-Day Job Seekers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-less-tweets-for-clarity-linuss-revealed-secrets-trojans-explained-and-ai-conversational-challenges/"><u>Emoji-Less Tweets for Clarity, Linus's Revealed Secrets, Trojans Explained, & AI Conversational Challenges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-gpt-4-for-everyone-nonetheless-select-plus-membership-continues-to-provide-unique-services/"><u>Free GPT-4 for Everyone; Nonetheless, Select Plus Membership Continues to Provide Unique Services</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y77t-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y77t phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-non-number-registration-guide-for-telegram-and-more/"><u>The Non-Number Registration Guide for Telegram & More</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-missing-shelldll-error-messages-in-windows-systems/"><u>The Ultimate Fix for Missing Shell.dll Error Messages in Windows Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-virtual-reality-experience-playlist-for-2024/"><u>The Ultimate Virtual Reality Experience Playlist for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-mechanics-behind-ai-chatbots/"><u>Unveiling the Mechanics Behind AI Chatbots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-a-vector-database-and-how-do-they-boost-ai/"><u>What Is a Vector Database, and How Do They Boost AI?</u></a></li>
+</ul></div>
 

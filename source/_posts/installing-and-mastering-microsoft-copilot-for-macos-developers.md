@@ -1,7 +1,7 @@
 ---
 title: Installing and Mastering Microsoft Copilot for macOS Developers
-date: 2024-09-16T18:03:36.646Z
-updated: 2024-09-22T18:02:28.075Z
+date: 2024-09-26T16:28:28.164Z
+updated: 2024-09-28T18:06:21.771Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 * [Install Microsoft Copilot as a Web App on Your Mac](https://arkmc.pxf.io/znergr)
 * [Getting Started With Microsoft Copilot on Your Mac](https://imp.i357552.net/jzg4rq)
 * [The Benefits of Using Copilot Over ChatGPT](https://modlily.sjv.io/aw92wr)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -63,36 +70,37 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 ![Adding a new shortcut in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-a-new-shortcut-in-macos.jpg)
 3. Drag the **Open App** action from the right sidebar to the empty space on the left.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click the blue **App** field and use the search bar to find and select **Copilot**.  
 ![Creating a simple Open app shortcut to quickly open Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/creating-a-simple-open-app-shortcut-to-quickly-open-copilot.jpg)
 5. Next, switch to the **Info (i)** tab of the sidebar and click **Add Keyboard Shortcut**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Assigning a custom keyboard shortcut to launch Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-launch-copilot.jpg)
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other [useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/). Then, hit the **Return** key.  
-![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
-
- You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
 
 ## Install Microsoft Copilot as a Web App on Your Mac
 
@@ -106,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 ![Adding Copilot web app to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-copilot-web-app-to-the-dock.jpg)
 
  You'll find the Copilot web app on your Dock immediately. Launch it to begin.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Getting Started With Microsoft Copilot on Your Mac
 
@@ -121,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
  At this point, you're all set to use Copilot on your Mac at its full potential. If you want to make further tweaks, click the **three-line** icon in the top-left corner to access the app's settings menu. Here, you can change the theme, region and language, permissions, and privacy settings for Copilot.
 
  You can clear your Copilot search history by heading to the app's privacy settings menu.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Benefits of Using Copilot Over ChatGPT
 
@@ -152,5 +160,21 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-guide-obtaining-vlc-player-at-no-cost-and-safety-on-mac/"><u>[New] Guide Obtaining VLC Player at No Cost & Safety on Mac</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-uninterrupted-sound-sharing-on-qyoutube-for-2024/"><u>[Updated] Uninterrupted Sound Sharing on QYoutube for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-economically-sound-artificial-intelligence-options/"><u>6 Economically Sound Artificial Intelligence Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-critical-thoughts-on-ai-as-therapy-substitutes/"><u>7 Critical Thoughts on AI as Therapy Substitutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-solutions-to-smooth-gpt-stream-interruptions/"><u>7 Solutions to Smooth GPT Stream Interruptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-tale-of-two-botms-mistral-and-chatgpt-showdown/"><u>A Tale of Two Botms: Mistral and ChatGPT Showdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721424669426-app-alert-chatgpt-now-on-ios/"><u>App Alert: ChatGPT Now on iOS!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721411498941-bringing-advanced-search-to-your-fingers-bings-ai-for-smartphones/"><u>Bringing Advanced Search to Your Fingers: Bing’s AI for Smartphones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-secrets-to-unhiding-apps-on-your-iphone-device/"><u>Discover the Secrets to Unhiding Apps on Your iPhone Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-zte-axon-40-lite-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does ZTE Axon 40 Lite Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-image-editors-ultimate-toolkit-review/"><u>In 2024, The Image Editor's Ultimate Toolkit Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-gaming-experience-achieved-fixing-crashes-in-lunar-client-on-your-computer/"><u>Smooth Gaming Experience Achieved: Fixing Crashes in Lunar Client on Your Computer</u></a></li>
+</ul></div>
 

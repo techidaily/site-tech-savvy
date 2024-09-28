@@ -1,7 +1,7 @@
 ---
 title: AI's Role in Crafting Healthful Eating
-date: 2024-09-16T18:37:58.309Z
-updated: 2024-09-22T16:38:53.620Z
+date: 2024-09-24T17:20:50.559Z
+updated: 2024-09-28T17:43:15.666Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
  ChatGPT can indeed help you create a healthy meal plan. In fact, it can help you create anything you’d like, even an unhealthy meal plan. But before you use ChatGPT to help you build your meal plan, there are several factors of your meal plan you need to figure out first.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Meal Plan Preferences
 
  First, you have to decide on what your goals are. Are you meal planning to lose weight, maintain your weight, or [gain weight in a healthy way](https://www.makeuseof.com/weight-gain-apps/)? Secondly, do you have any specific food preferences, allergies, or restrictions?
@@ -56,35 +63,27 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
  BMR is the energy your body uses while at rest. Knowing these numbers is important to your particular goals. All you have to do is type "**How do I calculate my TDEE and BMR?**" into ChatGPT, and it automatically generates the needed equations and formulas.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use ChatGPT to Create a Healthy Meal Plan
 
  Now is the time you can start playing around with ChatGPT and see how it can help you come up with some healthy meal plan ideas. Remember to include all the details of your meal plan in your prompts. ChatGPT can give you a better response if you’re more in-depth about what you're asking for.
 
  In addition, you can even ask ChatGPT to include a full grocery list of all the ingredients you need as well as the measurements for each item.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Meal Plan Example Prompts for ChatGPT
 
 ![chatgpt AI chatbot online tool meal plan example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-meal-plan-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here are some examples of prompts you can type into ChatGPT to help you build a healthy meal plan. A healthy meal plan is different for everyone, so always add as many or as few details as you want.
@@ -102,6 +101,19 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
  Additionally, ChatGPT doesn't work too well if you want to save money or [live a zero-waste lifestyle](https://www.makeuseof.com/zero-waste-youtube-channels/). You can ask ChatGPT to create a month-long meal plan, for instance, but it doesn't automatically share ingredients across multiple recipes.
 
  This can result in spending an enormous amount of money on groceries and lots of extra unused ingredients.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Better Meal Planning Alternatives to ChatGPT
 
@@ -127,16 +139,23 @@ Close
 
 ![Eat this much meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-meal-plan.jpg)
 
-![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
+
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can You Trust ChatGPT to Create a Healthy Meal Plan?
 
@@ -161,5 +180,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-recovery.techidaily.com/1722873499752-current-month-find-your-dream-apple-watch-at-unbelievable-discounts/"><u>[Current Month]: Find Your Dream Apple Watch at Unbelievable Discounts!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-depth-review-screen-capture-with-vlc-player-for-2024/"><u>[Updated] In-Depth Review Screen Capture with VLC Player for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/27-best-alternatives-to-openais-mobile-pos-software/"><u>27 Best Alternatives to OpenAI's Mobile POS Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-reasons-why-chatgpt-became-the-fastest-growing-app-of-all-time/"><u>5 Reasons Why ChatGPT Became the Fastest Growing App of All Time</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-free-travel-planning-ai-and-chatgpt-apps-to-get-an-instant-itinerary/"><u>7 Free Travel Planning AI and ChatGPT Apps to Get an Instant Itinerary</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/add-filters-to-video-pc-and-mobile-for-2024/"><u>Add Filters to Video [PC & Mobile] for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721415282261-become-an-in-demand-bug-hunter-join-openais-reward-scheme-today/"><u>Become an In-Demand Bug Hunter; Join OpenAI’s Reward Scheme Today</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing your hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-reno-10-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Reno 10 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-infinix-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Infinix Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429377788-twitters-cleared-of-smileys-linuss-uncovering-trojans-breakdown-and-ai-gpt-issues-displayed/"><u>Twitters Cleared of Smileys, Linus's Uncovering, Trojans Breakdown, & AI GPT Issues Displayed</u></a></li>
+</ul></div>
 
