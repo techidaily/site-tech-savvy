@@ -165,18 +165,5 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-experts-pathway-transforming-sdr-footage-into-hdri/"><u>[New] 2024 Approved The Expert's Pathway Transforming SDR Footage Into HDRI</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-budget-planning-for-music-video-production-for-2024/"><u>[New] Budget Planning for Music Video Production for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-the-art-of-changing-windows-11-backgrounds/"><u>[Updated] Master the Art of Changing Windows 11 Backgrounds</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-rotational-photography-versus-3d-scanning/"><u>2024 Approved Full-Rotational Photography versus 3D Scanning</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/best-6-celebrity-text-to-speech-ai-voice-generators-you-may-like-for-2024/"><u>Best 6 Celebrity Text to Speech AI Voice Generators You May Like for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-how-the-newest-echo-reshapes-our-homes/"><u>Comprehensive Review: How the Newest Echo Reshapes Our Homes</u></a></li>
-<li><a href="https://howto.techidaily.com/infinix-zero-5g-2023-turbo-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Zero 5G 2023 Turbo Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforma-tu-archivos-m4a-en-formatos-flv-sin-coste-con-nuestro-conversor-online-gratis-y-eficiente-movavi/"><u>Transforma Tu Archivos M4A en Formatos FLV Sin Coste Con Nuestro Conversor Online Gratis Y Eficiente - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformate-gratuita-de-imagenes-jpg-a-jpeg-online-con-movavi/"><u>Transfórmate Gratuita De Imágenes JPG a JPEG Online Con Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-facilement-votre-fichier-m4v-en-mp4-gratuitement-sur-internet-avec-movavi/"><u>Transformez Facilement Votre Fichier M4V en MP4 Gratuitement Sur Internet Avec Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-un-fichier-audio-au-format-ogg-en-wav-gratuitement-en-ligne-ezyram/"><u>Transformez Un Fichier Audio Au Format OGG en WAV Gratuitement en Ligne - Ezyram</u></a></li>
-</ul></div>
+
 

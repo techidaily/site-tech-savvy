@@ -67,20 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unlock-free-music-anytime-facebook-app/"><u>[New] In 2024, Unlock Free Music, Anytime - Facebook App</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-youtubes-queue-with-precision-a-comprehensive-tutorial/"><u>[New] Navigating YouTube's Queue with Precision A Comprehensive Tutorial</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-virtual-upgrade-social-story-snipper-for-2024/"><u>[New] Virtual Upgrade Social Story Snipper for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-a-step-by-step-roadmap-for-lasting-tiktok-account-loss-for-2024/"><u>[Updated] A Step-by-Step Roadmap for Lasting TikTok Account Loss for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bard-by-google-spotting-ai-powered-dialogues-within-googles-search-results/"><u>Bard by Google: Spotting AI-Powered Dialogues Within Google's Search Results</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-gen-assistants-join-the-8-specialized-ai-movement/"><u>Next-Gen Assistants: Join the 8 Specialized AI Movement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/perplexity-ai-the-secret-weapon-in-ai-driven-google-search-youre-missing-out-on/"><u>Perplexity AI: The Secret Weapon in AI-Driven Google Search You're Missing Out On</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-algorithmic-illusion-of-affection/"><u>The Algorithmic Illusion of Affection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-visionaries-their-views-on-artificial-intelligence/"><u>Top 10 Visionaries: Their Views on Artificial Intelligence</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-narzo-60x-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme Narzo 60x 5G Bricked Devices | Dr.fone</u></a></li>
-</ul></div>
+
 
 <!-- affiliate ads begin -->
 <span id="1793213">

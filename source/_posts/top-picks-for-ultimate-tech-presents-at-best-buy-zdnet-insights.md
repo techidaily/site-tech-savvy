@@ -67,18 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-creating-custom-tiktok-ringtone-for-mobile-devices/"><u>[Updated] Creating Custom TikTok Ringtone for Mobile Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bot-communication-how-they-pretend-to-speak/"><u>Bot Communication: How They Pretend to Speak</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-the-power-of-hundreds-of-ai-solutions-for-business-innovation-insights-by-zdnet/"><u>Harnessing the Power of Hundreds of AI Solutions for Business Innovation | Insights by ZDNET</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-outlook-how-does-predictive-ai-work/"><u>Inside Outlook: How Does Predictive AI Work?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-ai-search-access-bing-on-your-devices/"><u>Introducing AI Search: Access Bing on Your Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/myai-meets-chatgpt-which-social-platform-to-choose/"><u>MyAI Meets ChatGPT: Which Social Platform to Choose?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secrets-to-keeping-your-chatgpt-dialogues-confidential-no-deletes-required/"><u>Secrets to Keeping Your ChatGPT Dialogues Confidential, No Deletes Required</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/self-expression-through-instacraze-100-captivating-captions/"><u>Self-Expression Through #InstaCraze 100 Captivating Captions</u></a></li>
-</ul></div>
+
 
 <!-- affiliate ads begin -->
 <a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
