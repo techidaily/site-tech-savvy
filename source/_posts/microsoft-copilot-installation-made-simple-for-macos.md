@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Copilot: Installation Made Simple for macOS"
-date: 2024-09-15T16:58:22.658Z
-updated: 2024-09-22T17:59:26.901Z
+date: 2024-10-01T19:13:01.542Z
+updated: 2024-10-03T16:32:30.287Z
 tags:
   - chatgpt
   - open-ai
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
  Double-click its icon to start using Copilot right away. Jump to the **Getting Started** section below to get acquainted with the app.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Launch Copilot on Mac With a Keyboard Shortcut
@@ -78,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Install Microsoft Copilot as a Web App on Your Mac
 
  If you have an Intel Mac, you won't be able to install Copilot's iPad app from the Mac App Store. Instead, you'll need to install Microsoft Copilot as a web app on macOS Sonoma or later:
@@ -96,7 +89,27 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 
 ![Adding Copilot web app to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-copilot-web-app-to-the-dock.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll find the Copilot web app on your Dock immediately. Launch it to begin.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Getting Started With Microsoft Copilot on Your Mac
 
@@ -108,25 +121,25 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 3. You can choose from **Creative**, **Balanced**, and **Precise**. By default, it's set to **Creative**, which gets you descriptive responses. I use the **Precise** setting as I prefer concise responses with only the facts that I need.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Changing tone in the Copilot app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/changing-tone-in-the-copilot-app.jpg)
 4. Additionally, you can click **Sign in** in the top-left corner of the window and log in with your Microsoft account. This allows you to ask more questions and have longer conversations with the AI chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At this point, you're all set to use Copilot on your Mac at its full potential. If you want to make further tweaks, click the **three-line** icon in the top-left corner to access the app's settings menu. Here, you can change the theme, region and language, permissions, and privacy settings for Copilot.
 
  You can clear your Copilot search history by heading to the app's privacy settings menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Benefits of Using Copilot Over ChatGPT
 
@@ -151,5 +164,18 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-insider-secrets-to-sharpen-your-photoshop-skills/"><u>[New] Insider Secrets to Sharpen Your Photoshop Skills</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-filmmakers-playbook-for-dynamic-tiktok-video-reactions-via-filmora/"><u>[Updated] Filmmaker’s Playbook for Dynamic TikTok Video Reactions via Filmora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-new-developer-landscape/"><u>AI and the New Developer Landscape</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquer-latency-and-echo-in-your-discord-voice-chats-essential-fixes-for-desktop-users-guide/"><u>Conquer Latency & Echo in Your Discord Voice Chats - Essential Fixes for Desktop Users (Guide )</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-precise-chatgpt-prompts-in-health-and-wellness/"><u>Crafting Precise ChatGPT Prompts in Health & Wellness</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-fix-route-no-current-nvidia-output/"><u>Direct Fix Route: No Current NVIDIA Output</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-criteria-top-7-considerations-for-an-effective-bot-service/"><u>Essential Criteria: Top 7 Considerations for an Effective Bot Service</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/families-ai-and-the-future-of-tech-interaction/"><u>Families, AI & The Future of Tech Interaction</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/phrases-francaises-pour-repondre-merci/"><u>Phrases Françaises Pour Répondre Merci</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/total-cost-transparency-embarking-on-a-podcast-adventure/"><u>Total Cost Transparency Embarking on a Podcast Adventure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-vector-databases-in-ai/"><u>Unveiling the Power of Vector Databases in AI</u></a></li>
+</ul></div>
 

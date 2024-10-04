@@ -1,7 +1,7 @@
 ---
 title: "Cybercriminals and AI: Using GPT to Compromise Your Finances"
-date: 2024-09-22T17:41:32.165Z
-updated: 2024-09-28T16:03:19.525Z
+date: 2024-10-02T19:35:17.494Z
+updated: 2024-10-04T01:03:27.049Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with [a successful phishing attack](http://www.makeuseof.com/what-is-phishing/). Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -106,19 +106,24 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/1715859998430-new-top-offline-mobile-world-choose-the-ultimate-game-for-fun/"><u>[New] Top Offline Mobile World - Choose the Ultimate Game for Fun!</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alpha-vs-bravo-top-ai-chatbots-comparison/"><u>Alpha Vs. Bravo: Top AI Chatbots Comparison</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-proficient-is-chatgpt-at-making-drinks/"><u>How Proficient Is ChatGPT at Making Drinks?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Nokia 150 (2023)? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-a59-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo A59 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-redmi-12-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Redmi 12</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-meizu-21-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Meizu 21 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-of-remedying-world-of-warcrafts-error-code-132/"><u>Mastery of Remedying World of Warcraft’s Error Code 132</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/practicality-meets-potential-in-chatgpt-applications/"><u>Practicality Meets Potential in ChatGPT Applications</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sky-high-selfies-made-easy-dji-spark-reviewed/"><u>Sky High Selfies Made Easy DJI Spark Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swift-solutions-to-the-most-frequent-chatgpt-setbacks/"><u>Swift Solutions to the Most Frequent ChatGPT Setbacks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-for-free-4-tactics-to-utilize-gpt-4/"><u>Tech for Free: 4 Tactics to Utilize GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-vector-databases-and-machine-learning/"><u>The Intersection of Vector Databases and Machine Learning</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-ps3-classics-on-your-pc-with-top-tools/"><u>[New] Mastering PS3 Classics on Your PC with Top Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-understanding-macos-big-sur-minimum-requirements/"><u>2024 Approved Understanding MacOS Big Sur Minimum Requirements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uniting-fandoms-top-20-best-anime-songs/"><u>2024 Approved Uniting Fandoms Top 20 Best Anime Songs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-venture-into-virtual-worlds-a-close-look-at-lgs-360-tech/"><u>2024 Approved Venture Into Virtual Worlds A Close Look at LG's 360 Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advance-your-wellness-journey-with-leading-8-plugins/"><u>Advance Your Wellness Journey with Leading 8 Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-marketplace-risks-with-chatgpt-apps-alerted/"><u>Apple's Marketplace Risks with ChatGPT Apps Alerted</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/choosing-the-right-gimbal-dslr-vs-mirrorless-edition-for-2024/"><u>Choosing the Right Gimbal DSLR vs Mirrorless Edition for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ips-to-cut-unwanted-sounds-from-your-videos/"><u>DIY Tips to Cut Unwanted Sounds From Your Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-professionalism-in-resume-crafting-chatgpt-techniques/"><u>Elevate Professionalism in Resume Crafting (ChatGPT Techniques)</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-techniques-to-revive-corrupted-files-within-your-windows-11-os/"><u>Expert Techniques to Revive Corrupted Files Within Your Windows 11 OS</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovate-ai-dialogues-crafting-bespoke-chatgpt/"><u>Innovate AI Dialogues: Crafting Bespoke ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-gpt-tips-to-dodge-scammers/"><u>Real GPT Tips to Dodge Scammers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-guide-when-you-encounter-a-dark-display-with-epic-games-launcher/"><u>Solution Guide: When You Encounter a Dark Display with Epic Games Launcher</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-planning-achieving-wellness-with-ai/"><u>Strategic Planning: Achieving Wellness with AI</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-comparison-of-leading-social-media-giants-facebook-vs-twitter-vs-instagram-vs-youtube/"><u>The Ultimate Comparison of Leading Social Media Giants: Facebook Vs. Twitter Vs. Instagram Vs. YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-advanced-features-with-9-superior-chatgpt-pluses/"><u>Unlock Advanced Features with 9 Superior ChatGPT Pluses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/which-ai-tool-leads-for-coding-github-copilot-or-gpt-3-examined/"><u>Which AI Tool Leads for Coding? GitHub Copilot or GPT-3 Examined</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-ios-chatgpt-triumphs-over-browser-counterparts/"><u>Why iOS ChatGPT Triumphs Over Browser Counterparts</u></a></li>
 </ul></div>
 

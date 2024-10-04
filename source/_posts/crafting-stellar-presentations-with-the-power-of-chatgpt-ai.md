@@ -1,7 +1,7 @@
 ---
 title: Crafting Stellar Presentations with the Power of ChatGPT AI
-date: 2024-09-17T16:07:28.335Z
-updated: 2024-09-22T16:56:42.238Z
+date: 2024-09-29T22:33:06.021Z
+updated: 2024-10-03T19:00:37.581Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  Once you've generated the presentation, all that is left is to make some final changes and export the presentation to any format you like. If you want to create a PowerPoint slideshow with AI, you can follow these same steps and then export the slideshow to PowerPoint.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Generate the Presentation Text With ChatGPT
 
  The first step in creating a presentation is to generate the text with ChatGPT. To get a proper output, you must provide ChatGPT with some basic information about the presentation, such as the topic, the audience, and the main points you want to cover.
@@ -74,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Compile the Presentation With SlidesAI
@@ -92,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 4. Select the presentation type and the number of slides from the right.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
@@ -109,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Add the Finishing Touches and Export the Presentation
 
@@ -127,14 +147,14 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to **File > Download** and then select **Microsoft PowerPoint**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create Efficient Presentations in Minutes
 
@@ -161,5 +181,17 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-warriors-epic-valhallas-endgame/"><u>[New] 2024 Approved Warriors' Epic Valhalla's Endgame</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-convenient-approach-to-downloading-the-funniest-tweets-gifs-on-pc/"><u>[New] In 2024, Convenient Approach to Downloading the Funniest Tweets (GIFs) on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-your-youtube-empire-with-creator-studio-tools/"><u>[Updated] Master Your YouTube Empire with Creator Studio Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alerting-against-deceptive-chatgpt-platforms/"><u>Alerting Against Deceptive ChatGPT Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-windows-application-journey/"><u>ChatGPT: A Windows Application Journey</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-dialogue-game-with-these-7-chrome-extension-tools/"><u>Elevate Your Dialogue Game with These 7 Chrome Extension Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/employing-chatgpt-in-cognitive-therapeutic-techniques/"><u>Employing ChatGPT in Cognitive Therapeutic Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208162474-how-to-repair-broken-voice-communication-on-overwatch-instantly/"><u>How to Repair Broken Voice Communication on Overwatch Instantly!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-essential-manual-for-roku-and-fb-live/"><u>In 2024, The Essential Manual for Roku and FB Live</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-honor-x7b-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Honor X7b Device</u></a></li>
+</ul></div>
 

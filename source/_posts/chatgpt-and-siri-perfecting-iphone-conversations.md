@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and Siri: Perfecting iPhone Conversations"
-date: 2024-09-15T16:42:48.442Z
-updated: 2024-09-22T17:16:30.251Z
+date: 2024-09-26T21:46:11.995Z
+updated: 2024-10-03T19:05:25.255Z
 tags:
   - chatgpt
   - open-ai
@@ -45,6 +45,19 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
 ![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
@@ -80,19 +93,33 @@ Close
 
 ![add shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![add API key here option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-api-key-here-option.jpg)
 
 ![paste API key in workflow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key-in-workflow.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Congratulations, you now have your very own ChatGPT shortcut set up on your iPhone. Now for the million-dollar question: how do you use the shortcut with Siri on your iPhone?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using the ChatGPT Shortcut With Siri on Your iPhone
@@ -103,22 +130,23 @@ Close
 
 ![allow OpenAI access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-openai-access.jpg)
 
-![allow speech recognition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-speech-recognition.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![allow speech recognition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-speech-recognition.jpg)
+
 ![ChatGPT launched with siri](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-launched-with-siri.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -147,5 +175,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-swift-tactics-for-addressing-misconduct-on-online-platforms-like-discord-for-2024/"><u>[New] Swift Tactics for Addressing Misconduct on Online Platforms Like Discord for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-notch-animated-text-settings-for-2024/"><u>[Updated] Top-Notch Animated Text Settings for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-charting-the-course-to-youtube-livestream-mastery/"><u>2024 Approved Charting the Course to YouTube Livestream Mastery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypassing-glitches-ensure-seamless-in-game-voice-chat-in-call-of-duty-warzone-on-pc-and-console-systems/"><u>Bypassing Glitches: Ensure Seamless In-Game Voice Chat in Call of Duty Warzone on PC and Console Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-counseling-from-ai-unveiling-5-new-bots/"><u>Cutting-Edge Counseling From AI: Unveiling 5 New Bots</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-video-presentation-boost-adding-bb-and-lc-frameworks-for-2024/"><u>Facebook Video Presentation Boost Adding BB and LC Frameworks for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-newest-drivers-for-your-hp-laserjet-p3n-p3015-with-this-comprehensive-resource-for-windows-users/"><u>Find and Install the Newest Drivers for Your HP LaserJet P3n (P3015) with This Comprehensive Resource for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-reactivate-a-frozen-chatgpt-on-iphones/"><u>How to Reactivate a Frozen ChatGPT on iPhones</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-a38-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo A38 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pitting-two-titans-of-chatbots-gpt-and-huggingchat/"><u>Pitting Two Titans of ChatBots: GPT & HuggingChat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professional-data-annihilation-explained-bitraser-enterprise-edition-video-tutorial/"><u>Professional Data Annihilation Explained – BitRaser Enterprise Edition Video Tutorial</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-poco-c55-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Poco C55 Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-tabletop-experience-with-gpt-powered-imagination-boosting/"><u>Transformative Tabletop Experience with GPT-Powered Imagination Boosting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-mac-potential-chatgpt-use/"><u>Unlocking Mac Potential: ChatGPT Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-are-the-implications-of-altering-chatgpt/"><u>What Are the Implications of Altering ChatGPT?</u></a></li>
+</ul></div>
 

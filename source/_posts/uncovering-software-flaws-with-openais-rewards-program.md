@@ -1,7 +1,7 @@
 ---
 title: Uncovering Software Flaws with OpenAI's Rewards Program
-date: 2024-09-17T16:44:08.997Z
-updated: 2024-09-22T17:06:52.266Z
+date: 2024-10-01T19:53:57.573Z
+updated: 2024-10-03T17:09:16.163Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -57,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
@@ -76,14 +90,14 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
- Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
 ## Which Vulnerabilities Are Eligible for Rewards?
 
@@ -94,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
@@ -123,5 +137,21 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/orrect-yt-monetization-checklist-maximize-your-earnings/"><u>[New] Correct YT Monetization Checklist – Maximize Your Earnings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-your-video-content-for-a-fanbase-boom/"><u>[New] In 2024, Elevating Your Video Content for a Fanbase Boom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-quality-video-capture-for-beginner-creators/"><u>[Updated] In 2024, High-Quality Video Capture for Beginner Creators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-complete-checklist-for-youtubes-resolution-width-and-height-settings/"><u>[Updated] The Complete Checklist for YouTube's Resolution, Width & Height Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-spreadsheet-skills-with-chatgpts-insight/"><u>Elevate Spreadsheet Skills with ChatGPT's Insight</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fixing-windows-10-calculator-issues-comprehensive-solutions-guide/"><u>Fixing Windows 10 Calculator Issues - Comprehensive Solutions Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-kitchen-clips-to-high-tech-how-ai-influences-paperclip-problem-solving/"><u>From Kitchen Clips to High-Tech: How AI Influences Paperclip Problem Solving</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/professionelle-dvd-konvertierung-7-kostenlose-tools-fur-windows-and-macos-benutzer/"><u>Professionelle DVD-Konvertierung: 7 Kostenlose Tools Für Windows & macOS Benutzer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-quality-aid-crafting-top-7-web-based-assistance-tools/"><u>Quick and Quality Aid Crafting: Top 7 Web-Based Assistance Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redesigning-careers-with-the-power-of-generative-ai/"><u>Redesigning Careers with the Power of Generative AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steps-to-handle-maxed-out-windows-chatgpt/"><u>Steps to Handle Maxed-Out Windows ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-comparative-analysis-of-online-bot-intelligence/"><u>The Comparative Analysis of Online Bot Intelligence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-premier-pro-templates-for-the-year-2023-for-2024/"><u>Top Premier Pro Templates for the Year 2023 for 2024</u></a></li>
+</ul></div>
 

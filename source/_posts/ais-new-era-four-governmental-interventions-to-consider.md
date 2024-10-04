@@ -1,7 +1,7 @@
 ---
 title: "AI's New Era: Four Governmental Interventions to Consider"
-date: 2024-09-27T18:45:26.709Z
-updated: 2024-09-28T17:37:23.063Z
+date: 2024-09-28T18:55:49.552Z
+updated: 2024-10-03T17:24:31.523Z
 tags:
   - chatgpt
   - open-ai
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 ![binary code background showing a woman face to face with a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  AI companies frequently boast about their commitment to ethical guidelines in developing AI systems. At least on paper, they are all proponents of responsible AI development. In the media, Google execs have emphasized how the company takes AI safety and ethics seriously. Similarly, "Safe and ethical AI" is a mantra for OpenAI's CEO, Sam Altman. These are quite applaudable.
@@ -68,16 +68,16 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 * That humans retain ultimate control of AI systems and their decision-making transparently.
 * AI systems are intentionally limited in ways that are advantageous to humans.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Dedicated Regulatory Agency
 
 ![engineer monitoring ssh logins on linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/engineer_monitoring_ssh_logins.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Owing to its potential impact on human civilization, discussion around AI safety typically draws parallel to the risk of a health crisis or a nuclear disaster. Avoiding potential nuclear incidents necessitates a dedicated agency like the US's NRC (Nuclear Regulatory Commission). Avoiding the risk of dangerous health crises necessitates the establishment of the FDA (Food and Drug Administration)
 
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 ![An illustration of copyright thief](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/copyright-protected-illustration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Existing copyright laws and legal frameworks crumble in the face of Artificial Intelligence. The way AI tools, especially generative AI tools, are designed makes them seem like a publicly endorsed copyright infringement machine that you can't do anything about.
@@ -117,10 +117,16 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 * Clear pathways for collaboration with right holders. If AI systems are going to use people's intellectual property anyway, there should be clear pathways or frameworks for AI developers and rights-owners to collaborate, especially in terms of financial compensations, if the derivative work of such intellectual properties is commercialized.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Regulation Is a Desperately Needed Fix
@@ -146,22 +152,21 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-precise-methods-for-creating-impactful-client-spots-on-film/"><u>[New] Precise Methods for Creating Impactful Client Spots on Film</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-elite-converter-mp4-to-instant-fb-access-2023/"><u>[Updated] Elite Converter MP4 to Instant FB Access 2023</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-earnings-update-navigating-youtube-monetization/"><u>[Updated] In 2024, Earnings Update Navigating YouTube Monetization</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-virality-understanding-what-makes-triller-different-from-tiktok/"><u>2024 Approved Beyond Virality Understanding What Makes Triller Different From TikTok</u></a></li>
-<li><a href="https://win-able.techidaily.com/b/"><u>B站留下来了！办法一、二：精准无误地获取视频</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/brainpower-battlegrounds-gpt-and-google-bard-collide/"><u>Brainpower Battlegrounds: GPT & Google Bard Collide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-an-emerging-seo-hurdle/"><u>ChatGPT: An Emerging SEO Hurdle?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cyber-survival-skills-predictive-trends-for-protection/"><u>Cyber Survival Skills: Predictive Trends for Protection</u></a></li>
-<li><a href="https://solve-info.techidaily.com/enhanced-user-tracking-with-cookiebot-technology/"><u>Enhanced User Tracking with Cookiebot Technology</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/how-to-resolve-the-darkened-interface-of-zoom-meetings-on-pc-a-definitive-2024-tutorial/"><u>How to Resolve the Darkened Interface of Zoom Meetings on PC: A Definitive 2024 Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/labor-landscapes-altered-by-ais-advances/"><u>Labor Landscapes Altered by AI's Advances</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-art-gpt-powered-image-creation/"><u>Mastering AI Art: GPT-Powered Image Creation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavi-trasforma-i-tuoi-file-aiff-in-formato-wav-senza-costi-guida-rapida/"><u>Movavi: Trasforma I Tuoi File AIFF in Formato WAV Senza Costi - Guida Rapida</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-originality-openais-gpt-output-detector/"><u>Protecting Originality: OpenAI's GPT Output Detector</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-forbidden-queries-for-ai-engagement/"><u>The Forbidden Queries for AI Engagement</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-note-30-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Note 30 5G without backup.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmatched-efficiency-choosing-the-top-5-expert-ai-prompt-creators/"><u>Unmatched Efficiency: Choosing the Top 5 Expert AI Prompt Creators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-amazonprimes-winning-tweets-of-the-year-2023-for-2024/"><u>[New] AmazonPrime's Winning Tweets of the Year 2023 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-beyond-views-a-triadic-approach-to-analyzing-youtube-income/"><u>[Updated] In 2024, Beyond Views A Triadic Approach to Analyzing YouTube Income</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-safe-ways-to-download-and-convert-youtubes-audios-as-mp3/"><u>[Updated] In 2024, Safe Ways to Download and Convert YouTube's Audios as MP3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuita-de-archivos-mp4-a-formato-aac-online-con-herramientas-profesionales-movavi/"><u>Conversión Gratuita De Archivos MP4 a Formato AAC Online Con Herramientas Profesionales - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-aifc-to-mp4-for-free-with-movavis-online-file-converter/"><u>Convert .AIFC to MP4 for Free with Movavi's Online File Converter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-tod-to-mp4-in-minutes-moveavi/"><u>Free Online Converter: Tod to MP4 in Minutes - Moveavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-rendern-van-rw2-naar-jpeg-online-movavi-converter/"><u>Gratuit Rendern Van RW2 Naar JPEG Online - Movavi Converter</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-c12-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nokia C12 Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavimp3m2ts/"><u>Movaviのサポートを借りて、フリーオンラインでMP3からM2TSへ容易に変換！</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-convert-your-flv-videos-to-lossless-flac-audio-streaming-no-cost/"><u>Seamlessly Convert Your FLV Videos to Lossless FLAC Audio Streaming - No Cost!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/study-finds-omotons-t1-compact-tablet-holder-to-be-durable-and-economical-choice/"><u>Study Finds Omoton's T1 Compact Tablet Holder to Be Durable & Economical Choice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transcodificar-de-mpeg-a-mp3-online-gratis-y-rapido-con-convertidor-profesional/"><u>Transcodificar De MPEG a MP3 Online Gratis Y Rápido Con Convertidor Profesional</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/transformar-un-dvd-al-formato-mp4-rapida-y-eficientemente-como-hacerlo-en-solo-5-minutos/"><u>Transformar Un DVD Al Formato MP4 Rápida Y Eficientemente - Cómo Hacerlo en Solo 5 Minutos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-connection-linking-your-airpods-with-macbook-air/"><u>Wireless Connection: Linking Your AirPods with MacBook Air</u></a></li>
 </ul></div>
 

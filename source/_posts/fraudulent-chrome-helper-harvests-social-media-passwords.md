@@ -1,7 +1,7 @@
 ---
 title: "Fraudulent Chrome Helper: Harvests Social Media Passwords"
-date: 2024-09-21T18:44:11.297Z
-updated: 2024-09-28T18:02:10.881Z
+date: 2024-09-29T19:47:08.998Z
+updated: 2024-10-03T17:03:10.992Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably [sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Thousands of Facebook Accounts May Have Been Compromised
@@ -54,10 +54,10 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Malicious App Has Been Removed from Chrome
@@ -65,10 +65,10 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -92,22 +92,20 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-recording-realities-evaluating-the-power-and-precision-of-apeaksoftware/"><u>[New] 2024 Approved Recording Realities – Evaluating the Power and Precision of Apeaksoftware</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-top-6-best-4k-full-frame-camera/"><u>[New] Top 6 Best 4K Full Frame Camera</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube/"><u>[Updated] 2024 Approved From the Shadows to Spotlight Rise in Popularity with These Steps on YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pioneering-the-future-workplace-through-virtual-tech/"><u>[Updated] 2024 Approved Pioneering the Future Workplace Through Virtual Tech</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-10-zero-cost-video-collaboration-platforms-for-enterprises-and-education/"><u>[Updated] In 2024, Best 10 Zero-Cost Video Collaboration Platforms For Enterprises & Education</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elevate-zoom-audio-clarity-with-strategic-effective-tweaks/"><u>[Updated] In 2024, Elevate Zoom Audio Clarity with Strategic, Effective Tweaks</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-basic-vimeo-plus-or-vimeo-pro-which-is-right-for-you/"><u>[Updated] In 2024, Vimeo Basic, Vimeo Plus or Vimeo Pro Which Is Right for You?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-cross-platform-connectivity-sharing-youtube-and-twitter-videos-on-snapchat/"><u>2024 Approved Cross Platform Connectivity Sharing YouTube & Twitter Videos on Snapchat</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-vpns-facilitate-chatgpt-engagements/"><u>Can VPNs Facilitate ChatGPT Engagements?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/child-friendly-gpt-interactions-the-essential-5-tips/"><u>Child-Friendly GPT Interactions: The Essential 5 Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delineating-the-5-significant-distinctions-in-ai-upgrades/"><u>Delineating the 5 Significant Distinctions in AI Upgrades</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/factors-shaping-the-careers-of-future-prompt-designers/"><u>Factors Shaping the Careers of Future Prompt Designers</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-jargon-ai-explained-straightforwardly/"><u>No Jargon: AI Explained Straightforwardly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-innovative-use-of-gpt-in-industry-today/"><u>The Innovative Use of GPT in Industry Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-fitness-tools-top-8-ai-integrations/"><u>Transformative Fitness Tools: Top 8 AI Integrations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-truthgpt-coin-and-is-it-a-scam/"><u>What Is TruthGPT Coin, and Is It a Scam?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-use-the-instagram-question-sticker-in-2024/"><u>[New] How to Use the Instagram Question Sticker, In 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-backup-blueprint-from-your-phone-to-your-snap-story/"><u>[Updated] In 2024, Backup Blueprint From Your Phone to Your Snap Story</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows916/"><u>『Windowsとスマートフォン両方で使える』初級者が作れる9分16秒動画の制作手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-windows-11iso-3/"><u>1. Windows 11上でISOイメージファイルを起動手順: 3つの異なるアプローチ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/youtubepciphoneandroid/"><u>完全無料でオフライン再生可能！YouTube動画【PC・iPhone・Android】見方大特集</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/access-unlimited-reading-materials-with-the-comprehensive-platform-scribd/"><u>Access Unlimited Reading Materials with the Comprehensive Platform, Scribd</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokiawithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokiawith/without a PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-hot-40s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Hot 40’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-editprime-vision/"><u>In 2024, EditPrime Vision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028283339-losslesscut/"><u>LosslessCutを使用してファイル統合の詳細手順</u></a></li>
+<li><a href="https://blog-min.techidaily.com/revolutionize-your-drive-the-7-key-improvements-needed-in-apple-carplay-technology/"><u>Revolutionize Your Drive: The 7 Key Improvements Needed in Apple CarPlay Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-on-how-to-upload-dvd-footage-to-youtube-platform/"><u>Ultimate Tutorial on How to Upload DVD Footage to YouTube Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028164808-windows-10/"><u>Windows 10で効果的に動画を統合するためのガイド【ビデオ編集手順】</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-10-3/"><u>Windows 10のスクリーン録画テクニック - オプション3つ選択肢解説</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Analyzing GPT-3 and User Data Safety
-date: 2024-09-22T17:06:13.566Z
-updated: 2024-09-28T16:38:11.305Z
+date: 2024-09-26T20:55:41.576Z
+updated: 2024-10-03T18:14:20.828Z
 tags:
   - chatgpt
   - open-ai
@@ -42,25 +42,11 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 
  The real risk is that it collects data from your conversations with ChatGPT. When you’re using the AI, it’s extremely easy to feed it your private information by mistake. All you need to do is forget to censor a document that you ask it to proofread, and you could be in real trouble.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Your Account and Billing Information
 
  OpenAI stores your name, contact details, login credentials, payment information, and transaction records. It only keeps the latter if you sign up for a premium account. This information is basic, and you can expect almost any website with which you have an account to collect it from you.
 
  If you email the company or reach out to its customer support, it records your name, email address, and the content of your message. Similarly, it records your social media contact details and any personal information you share if you leave a comment on its social pages.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Your Device Information
 
@@ -69,28 +55,34 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
  OpenAI [uses cookies to track your browsing activity](https://www.makeuseof.com/a-beginners-guide-to-cookies/) both in the chat window and on its site. It claims to use this information for analytics and to find out exactly how you interact with ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Information That You Put Into the Chat
 
 ![A conversation with ChatGPT in which it says OpenAI stores the text of conversations.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-issues-does-it-keep-logs.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT records and stores transcripts of your conversations. This means any information you put into the chat, including personal information, is logged. It’s easy to fall into the trap of accidentally giving ChatGPT your private details without realizing it until it’s too late, especially if you use it to proofread personal or professional documents.
 
  Using ChatGPT for your work gets a little more dangerous because it will store confidential information that you type in about the company you work for, your employees, and your clients. For example, if you use it to collate feedback and organize it into a report, you might unknowingly give it your customers’ contact details.
 
  The privacy policy states that if you intend to enter personal data into the chat, you need to provide the people involved with adequate privacy notices. You also need to obtain their consent, and be able to show OpenAI that you are processing this data within the law. Further, if you’re entering information defined as private [according to GDPR](https://www.makeuseof.com/what-is-gdpr/), you must contact OpenAI to execute its Data Processing Addendum.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does ChatGPT Record Your Conversations?
 
@@ -105,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 ## Who Can See My ChatGPT Data?
 
 ![A conversation with ChatGPT in which it admits AI trainers can see our logs.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-issues-who-can-see-our-conversations-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your personal information is available to a surprising number of people and entities. In its privacy policy, OpenAI states that it shares this data with:
 
@@ -121,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
  OpenAI claims it may disclose your information to companies with which it is affiliated too. It doesn’t say much more about this, other than that its affiliates must obey its privacy policy when handling your data.
 
  And finally, OpenAI’s training staff will review your conversations and use them to improve the AI. They also ensure that what you’re saying in your chats complies with the company’s policies. If you enter personal information into the chatbot, the trainers can see it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Regulatory Pressure Force OpenAI to Take Privacy More Seriously?
 
@@ -161,20 +167,18 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-block-youtube-ads-on-chromefirefoxandroidiphone/"><u>[Updated] In 2024, How to Block YouTube Ads on Chrome/Firefox/Android/iPhone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-windows-10-gamers-guide-to-effective-video-capture/"><u>[Updated] In 2024, Windows 10 Gamers' Guide to Effective Video Capture</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/avoiding-common-nocturnal-photography-errors/"><u>Avoiding Common Nocturnal Photography Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-with-bots-understanding-censorship-practices/"><u>Behind the Scenes with Bots: Understanding Censorship Practices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cut-the-red-tape-speak-to-chatgpt/"><u>Cut the Red Tape – Speak to ChatGPT!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-turn-on-chatgpts-new-beta-web-browsing-and-plugins-features/"><u>How to Turn on ChatGPT's New Beta Web Browsing and Plugins Features</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-nokia-130-music-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Nokia 130 Music to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-14-ultra-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi 14 Ultra FRP Bypass Instantly</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-14-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 14 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inspiration-unleashed-nine-ways-chatgpt-bolsters-novelists/"><u>Inspiration Unleashed: Nine Ways ChatGPT Bolsters Novelists</u></a></li>
-<li><a href="https://blog-min.techidaily.com/rapid-solutions-for-resolving-amazon-prime-video-error-5004-issues/"><u>Rapid Solutions for Resolving Amazon Prime Video Error 5004 Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-uses-for-chatgpts-code-interpreter/"><u>Top 6 Uses for ChatGPT's Code Interpreter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-titans-comparative-study-of-notion-and-chatgpt/"><u>Unveiling the Titans: Comparative Study of Notion and ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-caution-is-essential-when-it-comes-to-ai/"><u>Why Caution Is Essential When It Comes to AI</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-step-by-step-guide-through-the-landscape-of-srt/"><u>[New] A Step-by-Step Guide Through the Landscape of SRT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi/"><u>AVI マナーで圧縮するたび - 初心者から始める方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginners-guide-mastering-the-basics-of-avi-video-conversion-with-a-free-tool/"><u>Beginner's Guide: Mastering the Basics of AVI Video Conversion with a Free Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-ffmpeg-and-handbrake-features-performance-and-best-use-cases/"><u>Comparing FFmpeg & HandBrake: Features, Performance & Best Use-Cases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-any-youtube-video-into-high-quality-audio-for-free-top-picks-for-easy-use/"><u>Convert Any YouTube Video Into High-Quality Audio for Free: Top Picks for Easy Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-animation-mastery-crafting-gifs-without-using-photoshop/"><u>DIY Animation Mastery - Crafting GIFs without Using Photoshop</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-elite-sound-collection-top-10-for-spotify-audiophiles/"><u>In 2024, Elite Sound Collection Top 10 for Spotify Audiophiles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4movavi/"><u>MP4ビデオ編集のステップ：『MOVAVI』で効率よくリマスター</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-programs-3d-animation-crafting/"><u>Pioneering Programs 3D Animation Crafting</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-motorola-edgeplus-2023-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Motorola Edge+ (2023)? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-xiaomi-redmi-a2-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Xiaomi Redmi A2 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiling-secrets-sharper-facebook-videos-on-android/"><u>Unveiling Secrets Sharper Facebook Videos on Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-premiere-pro-compatibility-ensure-smooth-performance-on-your-computer/"><u>Updated 2024 Approved Premiere Pro Compatibility Ensure Smooth Performance on Your Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond General Guidance: How ChatGPT Tailors Instructions to You"
-date: 2024-09-27T18:11:29.986Z
-updated: 2024-09-28T17:02:33.530Z
+date: 2024-10-01T19:12:17.359Z
+updated: 2024-10-03T21:33:21.723Z
 tags:
   - chatgpt
   - open-ai
@@ -48,10 +48,16 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 ![toggling on custom instructions on ChatGPT Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/toggling-on-custom-instructions-on-chatgpt-settings-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the feature is turned on, you have to provide instructions that you want ChatGPT to retain across all your chat sessions.
@@ -62,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 3. Up next, you'll find two fields for providing custom instruction. Click on **Show tips** below each editor to see some examples of what kind of instructions should be provided on both fields.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * For the first editor, provide information about yourself.  
@@ -75,13 +81,26 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 4. After entering your custom instructions on both fields, click **Save.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once your instructions have been saved, your account is ready to use the Custom Instructions feature. If you are still unsure what to do with this incredible new feature, we have a few ideas for you.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Can You Do With ChatGPT Custom Instructions?
 
@@ -94,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 * Outline relevant beliefs, values, or ethical stances you hold that should guide ChatGPT's responses.
 
  The urge to provide personal information to ChatGPT might increase with the introduction of this new feature, but [avoid providing any sensitive information to ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/), even in the instructions' editor. If you have plugins turned on for your account, third-party plugin developers can access any sensitive information you share using the feature.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Personalize ChatGPT to Your Taste
 
@@ -127,20 +139,15 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/artificial-empathy-does-ai-possess-a-heartfelt-understanding/"><u>Artificial Empathy: Does AI Possess a Heartfelt Understanding?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bards-future-shaped-by-palm-2-7-development-insights/"><u>Bard's Future Shaped by PaLM 2: 7 Development Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deceptive-gpt-protocol-grabs-facebook-sign-in-info/"><u>Deceptive GPT Protocol: Grabs FACEBOOK Sign-In Info</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-review-on-apples-newest-streaming-device-apple-tv-hd-series-3-4k/"><u>Expert Review on Apple's Newest Streaming Device - Apple TV HD Series 3 4K</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-boosting-engagement-editing-for-perfect-video-titles-and-descriptions/"><u>In 2024, Boosting Engagement Editing for Perfect Video Titles & Descriptions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-bypassing-education-tips-on-skipping-edgenuity-online-video-lessons/"><u>In 2024, Bypassing Education Tips on Skipping Edgenuity Online Video Lessons</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-metadata-the-power-of-accurate-video-tags-for-2024/"><u>Mastering Metadata The Power of Accurate Video Tags for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ai-control-mechanisms/"><u>Navigating AI Control Mechanisms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pathfinder-to-peak-physicality-chatgpts-assistance/"><u>Pathfinder to Peak Physicality: ChatGPT's Assistance</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/prime-tools-for-cinematic-creation-top-ten-picks-for-2024/"><u>Prime Tools for Cinematic Creation Top Ten Picks for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/restore-sound-to-your-anthem-gameplay-fixes-for-mute-problems-on-windows-10/"><u>Restore Sound to Your Anthem Gameplay: Fixes for Mute Problems on Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revamping-window-11-ui-simple-steps-to-adjust-default-fonts/"><u>Revamping Window 11 UI: Simple Steps to Adjust Default Fonts</u></a></li>
-<li><a href="https://facebook.techidaily.com/selective-engagement-cutting-down-on-social-media-noise/"><u>Selective Engagement: Cutting Down on Social Media Noise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shield-site-from-web-scouring-ais/"><u>Shield Site From Web-Scouring AIs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-distinctiveness-of-auto-gpt-in-relation-to-chatgpt/"><u>Understanding the Distinctiveness of Auto-GPT in Relation to ChatGPT</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>[New] 2024 Approved Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-upload-shorts-video-on-youtube/"><u>[New] In 2024, How to Upload Shorts Video on YouTube?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-samsung-camera-toolkit-review-2023-edition/"><u>[Updated] 2024 Approved Samsung Camera Toolkit Review – 2023 Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-set-you-apart-on-snapchat-explore-over-120-innovative-narrative-ideas-for-stories/"><u>[Updated] In 2024, Set You Apart on Snapchat Explore Over 120 Innovative Narrative Ideas for Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/202n-top7/"><u>「最新動画変換ツール！202n オススメのフリーソフトライブラリTOP7」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44ki44oz44oe44cn44gn6ieq55sx44gr6kal44gf44ge77yb5yuv55s744oa44km44oz44ot44o844oj44go5lplusd5a2y5oml6acg/"><u>「アベマ」で自由に見たい！動画ダウンロードと保存手順</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-savvy-flyers-selection-least-expensive-drone-brands/"><u>2024 Approved Savvy Flyers' Selection Least Expensive Drone Brands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-windows-1111/"><u>4人気の動画切り取り手法: Windows 11と11対応</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5/"><u>無料で使える人気のオンラインスクリーンレコーダー5本質選択</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-12-pro-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 12 Pro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Creating Nutritionally Sound Menus with ChatGPT
-date: 2024-09-21T16:10:03.631Z
-updated: 2024-09-28T18:36:05.883Z
+date: 2024-09-28T16:48:23.755Z
+updated: 2024-10-03T18:34:18.471Z
 tags:
   - chatgpt
   - open-ai
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 * How long do you want the cooking time to be for each meal?
 * How much do you want the cost per meal to be if you're cooking on a budget?
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use ChatGPT to Determine Your TDEE and BMR
 
 ![ChatGPT AI chatbot online tool TDEE BMR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tdee-bmr.jpg)
@@ -73,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 
 ![chatgpt AI chatbot online tool meal plan example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-meal-plan-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here are some examples of prompts you can type into ChatGPT to help you build a healthy meal plan. A healthy meal plan is different for everyone, so always add as many or as few details as you want.
 
 * Five-day vegan meal plan for weight loss that serves two adults with three meals per day, has a 30-minute cook time, costs $10 per meal, and contains 1800 calories per day.
@@ -87,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 * One-week meal plan with three meals, one snack, and no dietary restrictions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Problems With ChatGPT Meal Plans
@@ -103,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 
  This can result in spending an enormous amount of money on groceries and lots of extra unused ingredients.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Better Meal Planning Alternatives to ChatGPT
 
  While ChatGPT is fun to use to play around with possible meal plans, it’s not entirely reliable, and you should use it with caution. On the other hand, there are plenty of [excellent meal planning apps](https://www.makeuseof.com/top-meal-planning-apps-healthy-eating/) available that can make your healthy meal plan easier to organize and keep track of.
@@ -110,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
  The [SideChef app can help you meal plan better](https://www.makeuseof.com/review-sidechef-app-meal-plan-eat-healthier/) and eat healthier. It is an app that creates a meal plan based on your dietary restrictions, cooking goal, serving size, and ingredients to avoid.
 
 ![SideChef meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-meal-plan-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![SideChef preferences mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-preferences.jpg)
 
@@ -127,22 +127,22 @@ Close
 
 ![Eat this much meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-meal-plan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Trust ChatGPT to Create a Healthy Meal Plan?
@@ -170,19 +170,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-echoes-of-amusement-comical-tune-transformations/"><u>[New] 2024 Approved Echoes of Amusement Comical Tune Transformations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-experts-techniques-for-clearing-figma-backdrops/"><u>[Updated] The Expert's Techniques for Clearing Figma Backdrops</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/are-you-fed-up-with-viewing-static-and-stagnant-pictures-captured-in-your-memorable-moments-you-can-present-the-historical-moments-of-your-life-creatively-b/"><u>Are You Fed up with Viewing Static and Stagnant Pictures Captured in Your Memorable Moments? You Can Present the Historical Moments of Your Life Creatively by Adding the Ken Burns Effect. You Might Be Wondering How, Here Is the Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbot-authenticity-beyond-plagiarism-fears/"><u>ChatBot Authenticity: Beyond Plagiarism Fears</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-language-bots-for-work-bing-chat-or-chatgpt-9-factors/"><u>Choosing Language Bots for Work: Bing Chat or ChatGPT? 9 Factors</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/comparative-analysis-of-american-spelling-versus-british/"><u>Comparative Analysis of American Spelling Versus British</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deepen-relationships-with-emotional-intelligence-assistance/"><u>Deepen Relationships with Emotional Intelligence Assistance</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-se-2022-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone SE (2022) Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-2017-data-overload-infographics-and-surprising-yt-stats/"><u>In 2024, 2017 Data Overload Infographics & Surprising YT Stats</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-spark-10-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Tecno Spark 10 5G Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-artificebased-illusions-discover-6-proven-prompting-tactics/"><u>Overcoming Artificebased Illusions: Discover 6 Proven Prompting Tactics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-saving-chatgpt-messages-incognito/"><u>The Art of Saving ChatGPT Messages Incognito</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-industries-through-chatgpt-and-whisper-apis/"><u>Transforming Industries Through ChatGPT and Whisper APIs</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/windows-8-video-editor-easy-avi-file-editing-made-possible-2023-edition-for-2024/"><u>Windows 8 Video Editor Easy AVI File Editing Made Possible - 2023 Edition for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/raft-memorable-content-explore-youtubes-top-10-creative-responses/"><u>[New] Craft Memorable Content Explore YouTube's Top 10 Creative Responses</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-overwatch-the-ultimate-guide-to-recording-gameplay/"><u>[Updated] 2024 Approved Overwatch The Ultimate Guide to Recording Gameplay</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-perfecting-online-visuals-beauty-focused-color-correction/"><u>[Updated] In 2024, Perfecting Online Visuals Beauty-Focused Color Correction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726228120118-flvm4a/"><u>最適な無償FLVからM4Aへのオンライン変換方法：ムヴァビの紹介</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuite-et-facile-de-fichiers-mp3-vers-format-webm-en-ligne-avec-movavi/"><u>Conversion Gratuite Et Facile De Fichiers MP3 Vers Format WebM en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertir-archivo-3gp-gratuito-en-forma-digital-swf-usando-la-herramienta-online-de-movavi/"><u>Convertir Archivo 3GP Gratuito en Forma Digital SWF Usando La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-cashback-system-by-movavi-guaranteed-refunds/"><u>Efficient Cashback System by Movavi - Guaranteed Refunds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-audio-file-switching-change-aiff-to-m4r-on-the-web-with-movevis-no-cost-tool/"><u>Effortless Audio File Switching: Change AIFF to M4R On the Web with MoveVi's No-Cost Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-paso-a-paso-como-desactivar-el-ruido-en-reuniones-de-zoom-con-movavi/"><u>Guía Paso a Paso: Cómo Desactivar El Ruido en Reuniones De Zoom Con Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-gratuitamente-cambia-archivos-mp3-a-linea-descubre-las-mejores-opciones-para-convertir-musica-en-streaming/"><u>Movavi Gratuitamente Cambia Archivos MP3 a Línea: Descubre Las Mejores Opciones Para Convertir Música en Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3-file-creation-from-aifc-no-cost-easy-process-by-movavi/"><u>MP3 File Creation From AIFC - No Cost, Easy Process by Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-12-viewer-apps-per-photo-su-windows-10-11-e-mac-os/"><u>Top 12 Viewer Apps per Photo Su Windows 10, 11 E Mac OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-the-potential-for-in-depth-storage-analysis-with-diskusage-on-windows/"><u>Unleashing the Potential for In-Depth Storage Analysis with DiskUsage on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4b-and-m4v-movavi/"><u>오픈 소스를 바탕으로 M4B & M4V 포맷터를 구조화하는 게이트가 아닌 무료 해상학 - Movavi</u></a></li>
 </ul></div>
 

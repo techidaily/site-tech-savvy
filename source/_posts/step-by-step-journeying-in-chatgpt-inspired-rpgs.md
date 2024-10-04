@@ -1,7 +1,7 @@
 ---
 title: "Step by Step: Journeying in ChatGPT-Inspired RPGs"
-date: 2024-09-26T16:41:52.209Z
-updated: 2024-09-28T18:36:57.337Z
+date: 2024-10-03T01:03:27.582Z
+updated: 2024-10-03T16:02:50.526Z
 tags:
   - chatgpt
   - open-ai
@@ -70,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -90,6 +83,19 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
@@ -121,6 +127,13 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -140,13 +153,6 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 > 5\. Completing a quest adds to the player's XP.
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
@@ -191,22 +197,15 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
@@ -310,6 +309,13 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -335,24 +341,16 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-boosting-video-conference-quality-a-guide-to-using-zoom-and-skype/"><u>[Updated] 2024 Approved Boosting Video Conference Quality A Guide to Using ZOOM & SKYPE</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-art-of-game-recording-a-comprehensive-look-for-2024/"><u>[Updated] The Art of Game Recording A Comprehensive Look for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bend-ai-language-to-your-will/"><u>Bend AI Language to Your Will</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-workflow-top-8-ai-infused-chrome-plug-ins/"><u>Boost Your Workflow: Top 8 AI-Infused Chrome Plug-Ins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversation-algorithms-ais-way-to-talk-like-us/"><u>Conversation Algorithms: AI's Way to Talk Like Us</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/critical-indicators-when-opting-for-bot-services/"><u>Critical Indicators When Opting for Bot Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-chatgpt-now-with-gpt-4-integration/"><u>Elevate Your ChatGPT Now with GPT-4 Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-future-of-ai-with-gpt-4-without-investment/"><u>Exploring the Future of AI with GPT-4 Without Investment</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/frame-your-cinematic-tales-three-paths-for-instagram-borders-for-2024/"><u>Frame Your Cinematic Tales Three Paths for Instagram Borders for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-lava-yuva-3-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Lava Yuva 3 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-daily-deeds-for-digital-diaries-tips-on-virtual-journeys/"><u>In 2024, Daily Deeds for Digital Diaries Tips on Virtual Journeys</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-quick-and-easy-steps-for-photos-in-your-instagram-gallery/"><u>In 2024, Quick and Easy Steps for Photos in Your Instagram Gallery</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-shorts-thumbnail-dilemnas-and-quick-fixes/"><u>In 2024, YouTube's Shorts Thumbnail Dilemnas & Quick Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/invisible-errors-chatgpts-dilemma/"><u>Invisible Errors: ChatGPT's Dilemma</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/narrative-crafting-via-chatgpt-text-games/"><u>Narrative Crafting via ChatGPT Text Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-ai-contender-is-gemini-superior-to-chatgpt/"><u>New AI Contender: Is Gemini Superior to ChatGPT?</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719373142604-sidestep-common-snip-and-sketch-screenshot-hurdles-4-fixes/"><u>Sidestep Common Snip & Sketch Screenshot Hurdles: 4 Fixes.</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-android-essentials-the-most-popular-apps-you-need/"><u>Updated In 2024, Android Essentials The Most Popular Apps You Need</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-find-your-got-ringtone-leading-online-retailers/"><u>[Updated] 2024 Approved Find Your GoT Ringtone - Leading Online Retailers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-filmora-tutorial-converting-avi-to-gif-seamlessly/"><u>[Updated] In 2024, Filmora Tutorial Converting AVI to GIF Seamlessly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-streaming-windows-and-mac-guide/"><u>[Updated] OBS Streaming [Windows and Mac Guide]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converti-file-pgm-in-formato-jpg-gratuitamente-online-utilizzando-movavi/"><u>Converti File PGM in Formato JPG Gratuitamente Online Utilizzando Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-self-editing-tools-for-car-footage-catch-up-with-modern-video-enhancing-techniques/"><u>Discover The Leading Self-Editing Tools for Car Footage: Catch Up with Modern Video Enhancing Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inizia-subito-a-registrare-i-tuoi-file-audio-da-internet-con-movavi/"><u>Inizia Subito a Registrare I Tuoi File Audio Da Internet Con Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia Phone FRP Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/les-6-methodes-pratiques-pour-diviser-une-video-avec-des-outils-departementaux-et-web/"><u>Les 6 Méthodes Pratiques Pour Diviser Une Vidéo Avec Des Outils Départementaux Et Web</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-install-the-latest-epson-drivers-on-windows-without-a-hitch/"><u>Simple Steps: Install the Latest Epson Drivers on Windows Without a Hitch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/topo-15-melhores-aplicativos-de-conversao-mp4-para-mp3-para-2024-software-mais-usado/"><u>Topo 15 Melhores Aplicativos De Conversão MP4 Para MP3 Para 2024 - Software Mais Usado</u></a></li>
 </ul></div>
 

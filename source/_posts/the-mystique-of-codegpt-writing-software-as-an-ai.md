@@ -1,7 +1,7 @@
 ---
 title: "The Mystique of CodeGPT: Writing Software as an AI?"
-date: 2024-09-18T18:15:28.250Z
-updated: 2024-09-22T18:25:04.986Z
+date: 2024-10-02T16:42:10.163Z
+updated: 2024-10-03T17:49:22.493Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/5c4901379d06e76779eeda32a494315f2bc02d2e9
 * [How Much Does CodeGPT Cost?](https://coinrule.sjv.io/rqzonv)
 * [Can CodeGPT Really Write Code?](https://sentrypc.7eer.net/dkpkgn)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * CodeGPT is an AI-powered coding assistant that helps programmers write and fix code, with features like auto-completion and code explanation.
@@ -38,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/5c4901379d06e76779eeda32a494315f2bc02d2e9
 
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is CodeGPT?
 
  CodeGPT is a dedicated extension that uses different artificial intelligence (AI) models to help programmers write and fix code. It includes various features geared towards faster and easier programming, including auto-completion, code explanation, refactoring, documentation, unit testing, error-checking, and bug-fixing. It also has a ChatGPT-like interface you can access from your code editor.
@@ -47,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/5c4901379d06e76779eeda32a494315f2bc02d2e9
  While there are several [code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/), macOS, and Windows, CodeGPT is only available in two. Today, you can either [install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Does CodeGPT Cost?
@@ -62,10 +76,16 @@ thumbnail: https://thmb.techidaily.com/5c4901379d06e76779eeda32a494315f2bc02d2e9
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can [access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/), you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can CodeGPT Really Write Code?
@@ -165,5 +185,24 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-strategies-to-escalate-your-instagram-presence/"><u>[Updated] Strategies to Escalate Your Instagram Presence</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unleashing-the-power-of-screen-capture-with-hp-notebooks-for-2024/"><u>[Updated] Unleashing the Power of Screen Capture with HP Notebooks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-key-clues-suggesting-windows-reboot-required/"><u>3 Key Clues Suggesting Windows Reboot Required</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-proven-methods-to-address-no-user-logon-glitch-in-counter-strike-global-offensive/"><u>5 Proven Methods to Address No User Logon Glitch in Counter Strike: Global Offensive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerating-adoption-chatgpts-quintet-of-advantages/"><u>Accelerating Adoption: ChatGPT’s Quintet of Advantages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-simplified-an-introduction-via-9-online-clusters/"><u>AI Simplified: An Introduction via 9 Online Clusters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-disregard-for-its-creations/"><u>AI's Disregard for Its Creations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/check-for-cybersecurity-loopholes-in-chatgpt/"><u>Check for Cybersecurity Loopholes in ChatGPT</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-6s-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 6s Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-chat-experience-with-these-forgotten-ai-features/"><u>Elevate Your Chat Experience with These Forgotten AI Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-y55s-5g-2023-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo Y55s 5G (2023) Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-google-pixel-7a-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Google Pixel 7a Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-note-30-vip-racing-edition-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Note 30 VIP Racing Edition Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-leveraging-user-feedback-with-instagram-story-questions/"><u>In 2024, Leveraging User Feedback with Instagram Story Questions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-cryptocurrency-chatter-best-8-gpt-plugin-combo-insights/"><u>Optimal Cryptocurrency Chatter: Best 8 GPT Plugin Combo Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/talk-like-a-pro-introducing-gpt-plus-for-us-residents-only-us20-mo/"><u>Talk Like a Pro: Introducing GPT-Plus for US Residents Only (US$20 Mo)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-factors-when-to-implement-ai-tools-for-emotional-wellbeing/"><u>Top 6 Factors: When to Implement AI Tools for Emotional Wellbeing</u></a></li>
+</ul></div>
 

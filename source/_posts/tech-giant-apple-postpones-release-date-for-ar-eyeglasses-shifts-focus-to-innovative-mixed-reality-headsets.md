@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Postpones Release Date for AR Eyeglasses; Shifts Focus to Innovative Mixed Reality Headsets
-date: 2024-09-16T16:53:12.008Z
-updated: 2024-09-22T18:01:35.044Z
+date: 2024-09-26T17:57:13.202Z
+updated: 2024-10-03T21:42:59.250Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-commercial-free-android-vision-capturer/"><u>[New] 2024 Approved Commercial-Free Android Vision Capturer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-effortless-large-file-sharing-iphone-to-mac-streamlined-guide/"><u>[New] 2024 Approved Effortless Large File Sharing IPhone to Mac Streamlined Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-screens-sole-contender-software-or-hardware-triumph/"><u>[New] 2024 Approved The Screen's Sole Contender Software or Hardware Triumph?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-generative-ais-functioning-and-corporate-implementations/"><u>Behind the Scenes: Generative AI's Functioning & Corporate Implementations</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-tips-to-enhance-your-steam-streaming-speed/"><u>Effortless Tips to Enhance Your Steam Streaming Speed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-eradicated-graphic-driver-installed-flawlessly/"><u>Error Eradicated: Graphic Driver Installed Flawlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-scholarly-essays/"><u>Leveraging ChatGPT for Scholarly Essays</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-how-to-stop-assassins-creed-odyssey-from-crashing-on-pc-easily/"><u>Say Goodbye: How to Stop Assassin's Creed Odyssey From Crashing on PC Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-enhancing-photography-on-iphone-and-ipad/"><u>Ultimate Guide: Enhancing Photography on iPhone & iPad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-claude-pros-unique-offerings-compared-to-gptplus/"><u>Understanding Claude Pro's Unique Offerings Compared to GPT+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-world-discovery-selecting-the-finest-7-free-ai-itinerary-tools/"><u>Unlock World Discovery: Selecting the Finest 7 FREE AI Itinerary Tools</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

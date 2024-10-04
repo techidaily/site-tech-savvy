@@ -1,7 +1,7 @@
 ---
 title: "Predicting the Unpredictable: ChatGPT or Horoscopes?"
-date: 2024-09-24T16:45:01.945Z
-updated: 2024-09-28T16:56:47.270Z
+date: 2024-09-27T18:40:30.889Z
+updated: 2024-10-03T20:46:06.914Z
 tags:
   - chatgpt
   - open-ai
@@ -43,15 +43,22 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
  Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Choose Your ChatGPT Fortune Telling Questions Wisely
 
 ![Fortune Teller doing a Reading for a Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fortune-teller-doing-a-reading-for-a-client-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another thing we've learned from movies is that knowing the future is a dangerous thing. As a large language model which has already ingested and digested most of the internet, ChatGPT, or Agnes, as she now calls herself, could possibly make reliable predictions of when and how you're going to die. You probably don't want to know, so don't ask.
 
@@ -60,15 +67,28 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
  What follows is her prediction and how it played out in real life.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Well Did ChatGPT Predict the Future?
 
 ![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
 
@@ -110,26 +130,6 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
 
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
 
  Horoscopes contain the details you want them to contain, and if you're looking for deeper meaning, you'll find it simply because you want to find it. You could read the horoscope for any of the star signs and find a meaning attached because the writing is meant to be general and apply to as many people as possible.
@@ -157,16 +157,14 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ecoding-the-essence-of-asmr-videos/"><u>[New] Decoding the Essence of ASMR Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-ghostly-lens-takedown-reviews/"><u>[New] In 2024, Ghostly Lens Takedown Reviews</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-essential-tips-for-youtube-edits-with-sony-vegas/"><u>2024 Approved Essential Tips for YouTube Edits with Sony Vegas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-solutions-for-managing-excessive-cpu-consumption-caused-by-dwmexe-on-windows-exp/"><u>Effective Solutions for Managing Excessive CPU Consumption Caused by dwm.exe on Windows eXP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-installation-guide-for-the-celebratory-version-of-windows-10-os-upgrade/"><u>Effortless Installation Guide for the Celebratory Version of Windows 10 OS Upgrade</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-breathtaking-gameplay-fluidity-in-skyrim-special-editions-latest-fps-refresh/"><u>Experience Breathtaking Gameplay Fluidity in Skyrim Special Edition's Latest FPS Refresh</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fixed-repairing-disk-errors-on-windows-11/"><u>Fixed: Repairing Disk Errors on Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x5-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Poco X5 Bootloader Easily</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-streamlining-your-editing-workflow-with-final-cut-pro-tips/"><u>In 2024, Streamlining Your Editing Workflow with Final Cut Pro Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-the-soundscape-solving-silent-issues-with-your-acer-pc/"><u>Revive the Soundscape: Solving Silent Issues with Your Acer PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-dissecting-the-utility-of-sns-hdr-for-hdri-tasks/"><u>[Updated] 2024 Approved Dissecting the Utility of SNS HDR for HDRI Tasks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-finding-legal-music-a-producers-manual/"><u>[Updated] 2024 Approved Finding Legal Music A Producer's Manual</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-apex-screen-capture-tools-the-elite-line-up/"><u>In 2024, Apex Screen Capture Tools The Elite Line-Up</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/investing-made-efficient-gpts-crypto-trading-aid/"><u>Investing Made Efficient: GPT's Crypto Trading Aid</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/note-taking-done-right-gpts-approach-explained/"><u>Note-Taking Done Right - GPT's Approach Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/push-boundaries-of-dialogue-the-undiscovered-functions-in-chatgpt/"><u>Push Boundaries of Dialogue: The Undiscovered Functions in ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-gen-hackers-tracking-7-emerging-trends/"><u>The Next-Gen Hackers: Tracking 7 Emerging Trends</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nline-essentials-video-to-text-conversion-hacks/"><u>Top Online Essentials Video to Text Conversion Hacks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-lore-into-literature-via-chatgpt-techniques/"><u>Transforming Lore Into Literature via ChatGPT Techniques</u></a></li>
 </ul></div>
 

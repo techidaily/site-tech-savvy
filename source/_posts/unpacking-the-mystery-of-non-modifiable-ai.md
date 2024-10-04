@@ -1,7 +1,7 @@
 ---
 title: Unpacking the Mystery of Non-Modifiable AI
-date: 2024-09-25T18:43:18.899Z
-updated: 2024-09-28T16:42:31.329Z
+date: 2024-09-26T22:31:02.686Z
+updated: 2024-10-03T23:56:43.696Z
 tags:
   - chatgpt
   - open-ai
@@ -38,23 +38,9 @@ thumbnail: https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a6412
 
  Today, the landscape has evolved. Prompting proficiency is becoming a mainstream skill. Through a combination of experience gained from repeated use and access to freely available ChatGPT prompting guides, ChatGPT users have honed their prompting abilities. Rather than seeking out workarounds like jailbreaks, a bulk of ChatGPT users have become more adept at using different prompting strategies to achieve goals they would have required jailbreaks to achieve in the past.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. The Rise of Uncensored Chatbots
 
 ![uncensored chatbots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/uncensored-chatbots.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As large tech firms tighten content moderation on mainstream AI chatbots like ChatGPT, smaller, profit-focused startups opt for fewer restrictions, betting on demand for censorship-free AI chatbots. With a little research, you'll find dozens of AI chatbot platforms offering uncensored chatbots that can do almost anything you want them to do.
 
@@ -65,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a6412
 ![Image of a padlock on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/towfiqu-barbhuiya-fna5pazqhmm-un.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In ChatGPT's early months, [jailbreaking ChatGPT was as simple as copy-pasting prompts](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) from online sources. You could entirely alter ChatGPT's personality with just a few lines of tricky instructions. With simple prompts, you could turn ChatGPT into an evil villain teaching how to make bombs or a chatbot willing to use all forms of profanity without restraint. It was a free-for-all that produced infamous jailbreaks like DAN (Do Anything Now). DAN involved a set of seemingly harmless instructions that compelled the chatbot to do anything it was asked without refusing. Shockingly, these crude tricks worked back then.
@@ -79,18 +65,25 @@ thumbnail: https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a6412
 
 ![Uninterested Formal Man Looking at a Laptop Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cybersecurity-fatigue-fatuted-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A driving force behind many users' attempts to jailbreak ChatGPT was the thrill and excitement of doing so in the early days. As a new technology, getting ChatGPT to misbehave was entertaining and earned bragging rights. While there are countless practical applications for ChatGPT jailbreaks, many pursued them for the "wow, look what I did" appeal. Gradually, though, the excitement stemming from the novelty has faded, and along with it, people's interest in dedicating time to jailbreaks.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Jailbreaks Are Patched Rapidly
 
 ![ChatGPT jailbreaks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-jailbreaks.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A common practice within the ChatGPT jailbreaking community is sharing every successful exploit when discovered. The problem is that when exploits are shared widely, OpenAI often becomes aware of them and fixes the vulnerabilities. This means the jailbreaks stop working before people who would be interested can even try them.
 
@@ -105,15 +98,22 @@ thumbnail: https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a6412
  You'll find a surprisingly long list of powerful uncensored LLMs you can deploy on your computer with lax censorship. Some notable ones are the Llama 7B (uncensored), Zephyr 7B Alpha, Manticore 13B, Vicuna 13B, and GPT-4-X-Alpaca.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Professional Jailbreakers Now Sale for Profit
 
 ![A Group of Businessmen in Suits Discussing Projects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/group-of-people-discussing-project.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Why dedicate precious time to developing jailbreaking prompts if you'll get nothing from it? Well, some professionals now sell jailbreaks for profit. These professional jailbreak creators design jailbreaks that perform specific tasks and list them for sale on prompt marketplaces such as PromptBase. Depending on their capabilities, these jailbreaking prompts might sell for anywhere between $2 to $15 per prompt. Some complicated multi-step exploits may cost significantly more.
 
@@ -144,20 +144,22 @@ thumbnail: https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a6412
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-simplifying-video-production-in-captivate-software/"><u>[New] 2024 Approved Simplifying Video Production in Captivate Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-video-construction-lab/"><u>[New] In 2024, Video Construction Lab</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-ultimate-snapchat-plus-twitter-duo-video-posting-guide/"><u>[Updated] 2024 Approved The Ultimate Snapchat + Twitter Duo (Video Posting Guide)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-fast-track-speeding-up-vimeo-videos/"><u>[Updated] Fast Track Speeding Up Vimeo Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-creation-mastering-social-media-posts/"><u>AI-Driven Content Creation: Mastering Social Media Posts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/broadcast-battleground-pick-your-preferred-livestreaming-champion-vmixwirecast/"><u>Broadcast Battleground Pick Your Preferred Livestreaming Champion (VMix/Wirecast)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-driven-strategies-for-effortless-home-life/"><u>GPT-Driven Strategies for Effortless Home Life</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-accessing-social-network-videos-seamlessly-on-apple-tv/"><u>In 2024, Accessing Social Network Videos Seamlessly on Apple TV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-collaboration-chatgpt-in-google-workspace/"><u>Intelligent Collaboration: ChatGPT in Google Workspace</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-blaze-curve-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Blaze Curve 5G Phone FRP Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-tech-woes-chatgpts-repair-manual/"><u>Optimizing Tech Woes - ChatGPT's Repair Manual</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamlessly-switch-between-languages-with-the-power-of-chatgpt/"><u>Seamlessly Switch Between Languages with the Power of ChatGPT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-evolution-of-hand-tracking-systems-over-time-for-2024/"><u>The Evolution of Hand Tracking Systems Over Time for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-waiting-game-why-is-chatgpt-4-lagging/"><u>The Waiting Game: Why Is ChatGPT-4 Lagging?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-next-for-google-pixel-projecting-cost-launch-dates-and-new-hardware-specs-in-focus/"><u>What's Next for Google Pixel: Projecting Cost, Launch Dates & New Hardware Specs in Focus</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-tackling-frame-loss-best-practices-for-obs-users/"><u>[New] 2024 Approved Tackling Frame Loss Best Practices for OBS Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-artistarc-complete-assessment-and-tutorial-series-24/"><u>[Updated] ArtistArc Complete Assessment & Tutorial Series '24</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-logitechs-4k-pro-webcam-a-complete-exploration/"><u>[Updated] In 2024, Logitech's 4K Pro Webcam A Complete Exploration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-vitas-video-editor-full-review-2024/"><u>[Updated] Ultimate Guide to Vita's Video Editor - Full Review 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726228040834-wmv/"><u>専用WMVファイルコンバーター - 無料で使えるオンラインツール</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-mp3-to-m4a-at-no-cost-with-webaudiotools-by-movavi/"><u>Convert MP3 to M4a at No Cost with WebAudioTools by Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-android-camera-techniques-and-tools/"><u>Cutting-Edge Android Camera Techniques & Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-audio-conversion-download-and-convert-your-f4v-videos-to-high-quality-mp3s-at-no-cost/"><u>Effortless Audio Conversion: Download and Convert Your F4V Videos to High-Quality MP3s at No Cost!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-change-ogg-files-into-webm-format-with-ease-movavi/"><u>Free Online Conversion: Change OGG Files Into WebM Format with Ease - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-m4b-audio-files-into-mp4-format-using-movavi-tools/"><u>Free Online Converter: Transform M4B Audio Files Into MP4 Format Using Movavi Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-convert-music-files-to-mp3-format-on-windows-and-mac-a-comprehensive-guide/"><u>How to Convert Music Files to MP3 Format on Windows and Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726225422714-movavi-wtv/"><u>Movavi 提供免費線上WTV串流影片 - 全面選擇</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/pixma-mp620-searching-for-driver-on-win11-repository/"><u>Pixma MP620: Searching for Driver on Win11 Repository</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-watching-and-sharing-2024-summer-olympics-online/"><u>Step-by-Step Tutorial on Watching and Sharing 2024 Summer Olympics Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-optimizing-phone-as-window-recording-device/"><u>Techniques for Optimizing Phone as Window Recording Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformacion-gratuita-de-archivos-de-video-de-m4v-a-avi-en-linea-con-movavi-todos-los-pasos-detallados/"><u>Transformación Gratuita De Archivos De Vídeo De M4V a AVI en Línea Con Movavi: Todos Los Pasos Detallados</u></a></li>
 </ul></div>
 

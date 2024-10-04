@@ -1,7 +1,7 @@
 ---
 title: "Understanding AI Interpretability: SHAP E Explained"
-date: 2024-09-23T16:04:16.977Z
-updated: 2024-09-28T16:09:41.309Z
+date: 2024-09-30T17:29:23.950Z
+updated: 2024-10-03T21:01:25.124Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
  By combining these two components, Shap-E can generate realistic and diverse 3D models that match the given text or image input and can be viewed from different angles and lighting conditions.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How You Can Use OpenAI's Shap-E
@@ -54,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
  You can also report issues and find solutions to issues already raised by others on the Shap-E GitHub page.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What You Can Do With OpenAI's Shap-E
@@ -73,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 ![Screenshot of text-3D images from OpenAI's Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-text-3d-images-from-openai-s-github.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As an architect, you can use Shap-E to create 3D models of buildings and structures based on written descriptions. You can specify the structures' dimensions, materials, colors, and styles using simple sentences. For example, you can prompt it with: "Make a skyscraper with 60 floors and glass balustrades," and export the result(s) to other software for further editing if you like the results you get.
@@ -88,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
  Although it is still a work in progress, Shap-E is a step ahead of OpenAI's [POINT-E](https://openai.com/research/point-e), which produces 3D point clouds based on text prompts. The point clouds are limited in their expressiveness and resolution, often producing blurry or incomplete shapes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generate 3D Models Using OpenAI's Shap-E
@@ -119,24 +113,20 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-from-raw-footage-to-broadcast-gold-twitch-recording-techniques-for-2024/"><u>[New] From Raw Footage to Broadcast Gold Twitch Recording Techniques for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-giggle-geniuses-selecting-superior-memery-apps/"><u>[New] Giggle Geniuses Selecting Superior Memery Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solved-how-to-use-your-laptop-as-a-monitor/"><u>[Solved] How to Use Your Laptop As A Monitor</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-non-native-screen-capture-applications/"><u>[Updated] Top 10 Non-Native Screen Capture Applications</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-hilarious-hits-for-iphones/"><u>2024 Approved Hilarious Hits for iPhones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>2024 Approved Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/5pya5paw54sh5paz44oh44oh44kj44ki44ox44os44o844ok44o844op44oz44kt44oz44kwic3li5xnllvjg7vpn7plo7dlho3nljmr5tovipjgqzjgqtjg4k/"><u>最新無料メディアプレーヤーランキング -動画・音声再生比較ガイド</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-motorola-moto-g73-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Motorola Moto G73 5G?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/laugh-out-loud-on-your-iphone/"><u>Laugh Out Loud on Your iPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-low-memory-error-on-fantasy-school-of-magical-art/"><u>Remedying Low-Memory Error on Fantasy School of Magical Art</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-headphone-detection-issues-in-windows-11-comprehensive-solutions/"><u>Solving Headphone Detection Issues in Windows 11 - Comprehensive Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-identifying-and-assessing-device-driver-health-via-windows-device-manager/"><u>Step-by-Step Guide: Identifying and Assessing Device Driver Health via Windows Device Manager</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-solutions-for-correcting-driverpowerstatefailure/"><u>Step-by-Step Solutions for Correcting DRIVER_POWER_STATE_FAILURE</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-definitive-guide-to-understanding-and-implementing-usb-selective-suspend/"><u>The Definitive Guide to Understanding and Implementing USB Selective Suspend</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-definitive-guide-to-why-the-apple-iphone-12-is-your-next-must-have-smartphone/"><u>The Definitive Guide to Why the Apple iPhone 12 Is Your Next Must-Have Smartphone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-reynolds-number-is-a-dimensionless-quantity-that-helps-predict-flow-patterns-and-is-defined-as-re-rvdm-for-pipe-flow/"><u>The Reynolds Number Is a Dimensionless Quantity that Helps Predict Flow Patterns and Is Defined as Re = ρVD/Μ for Pipe Flow.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-walkthrough-connecting-and-using-your-wireless-printer-with-ease/"><u>The Ultimate Walkthrough: Connecting and Using Your Wireless Printer with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-to-get-and-run-kodi-on-your-xbox-one-easy-steps-inside/"><u>Ultimate Tutorial to Get and Run Kodi on Your Xbox One - Easy Steps Inside!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-of-your-computers-memory-how-to-test-genuine-ram-pace-in-latest-windows-environments/"><u>Unveiling the Secrets of Your Computer's Memory: How to Test Genuine RAM Pace in Latest Windows Environments</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-skyrocketing-popularity-youtube-visibility-techniques/"><u>[New] In 2024, Skyrocketing Popularity YouTube Visibility Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-window-into-the-world-a-complete-guide-to-live-tv-recording-on-your-pc/"><u>[Updated] In 2024, Window Into the World A Complete Guide to Live TV Recording on Your PC</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chagpt-for-the-entrepreneurs-wallet-an-analytical-look/"><u>ChaGPT for the Entrepreneur's Wallet: An Analytical Look</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/da-vincis-digital-palette-the-best-image-ideas-yet/"><u>Da Vinci's Digital Palette: The Best Image Ideas Yet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/erase-your-chatgpt-footprints/"><u>Erase Your ChatGPT Footprints</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-a-malfunctioning-computer-with-chatgpts-assistance-effective-strategies/"><u>Fixing a Malfunctioning Computer with ChatGPT's Assistance: Effective Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancers-ai-assistant-showdown-which-language-tool-prevails/"><u>Freelancer's AI Assistant Showdown: Which Language Tool Prevails?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancers-ai-decision-guide-weighing-bing-chat-and-chatgpt/"><u>Freelancer's AI Decision Guide: Weighing Bing Chat & ChatGPT</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-poco-x6-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Poco X6?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-x100-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo X100 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-android-widget-tutorial/"><u>Mastering ChatGPT: Android Widget Tutorial</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/photo-finesse-leading-edits-for-social-media-savvy-for-2024/"><u>Photo Finesse Leading Edits for Social Media Savvy for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-t2x-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo T2x 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quintessential-6-giants-mammoth-data-model-excellence/"><u>Quintessential 6 Giants: Mammoth Data Model Excellence</u></a></li>
 </ul></div>
 

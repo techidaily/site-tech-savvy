@@ -1,7 +1,7 @@
 ---
 title: "Copilot: Your Key to Unlocking the Full Power of Free GPT-4 Turbo"
-date: 2024-09-25T17:51:56.505Z
-updated: 2024-09-28T17:58:13.872Z
+date: 2024-09-29T19:12:26.620Z
+updated: 2024-10-03T19:58:45.870Z
 tags:
   - chatgpt
   - open-ai
@@ -39,47 +39,47 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing **Win + C**. Or, if you're lucky enough to own a [laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/), just press that to bring up the assistant at any time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don't have a Copilot button yet or use a different operating system, you can still use the [Copilot website](https://copilot.microsoft.com/). Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
@@ -115,16 +115,24 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-unfollower-detection-on-instagram/"><u>[New] Unfollower Detection on Instagram</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-teams-efficiency-discover-the-surprising-impact-of-ai-on-productivity-insights-and-strategies-from-zdnet/"><u>Boost Your Team's Efficiency: Discover the Surprising Impact of AI on Productivity – Insights and Strategies From ZDNet</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-xs-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone XS</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-13-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 13</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-mechanics-of-claude-pro-compared-to-gptplusplus/"><u>Deciphering the Mechanics of Claude Pro Compared to GPT+Plus</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-official-logitech-g29-game-controller-software-for-various-versions-of-windows/"><u>Free Download: Official Logitech G29 Game Controller Software for Various Versions of Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/on-device-intelligence-explained-concepts-and-mechanisms/"><u>On-Device Intelligence Explained: Concepts & Mechanisms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-your-life-with-winchatgpt-app/"><u>Simplify Your Life with WinChatGPT App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-the-impact-of-ai-on-digital-playgrounds/"><u>Unleashing Potential: The Impact of AI on Digital Playgrounds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasking-impostors-the-role-of-attention-notation-in-ai-dialogue/"><u>Unmasking Impostors: The Role of Attention Notation in AI Dialogue</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-insta-marketing-dynamo-crafting-winning-strategies-with-videos-on-social-media/"><u>[New] In 2024, Insta-Marketing Dynamo Crafting Winning Strategies with Videos on Social Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-construct-your-own-home-made-google-cardboard-vr-device/"><u>[Updated] How to Construct Your Own Home-Made Google Cardboard VR Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-editing-pro-tips-for-aspiring-sports-video-makers/"><u>[Updated] In 2024, Editing Pro Tips for Aspiring Sports Video Makers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-obs-playbook-for-twitch-and-youtube-streaming/"><u>[Updated] In 2024, The Ultimate OBS Playbook for Twitch & YouTube Streaming</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-visual-virtuosity-expertly-adding-motion-blur-to-facial-images-via-picsart/"><u>[Updated] In 2024, Visual Virtuosity Expertly Adding Motion Blur to Facial Images via Picsart</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024mp4aac/"><u>「2024年度版・簡単なMP4からAACへのダウンサイジングガイド」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027589878-windows/"><u>「Windowsマシンにおすすめのビデオ記録方法とそのステップバイステップガイド」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44oe44kk44od44k44o85zcr44gr44gr44ot44oh44kq44ks5yq55p6c55qe44gr44kr44od44oi44gz44kl5oml6acg44cn/"><u>「ツイッター向けにビデオを効果的にカットする手順」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-livestream-audiovideo-creators-hub/"><u>2024 Approved LiveStream Audio/Video Creators Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024mp4gif5/"><u>2024年度優秀MP4GIF変換無料プログラムベスト5紹介</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027371273-9/"><u>人気動画カッターを見つける:使いやすくて便利な9つのピックアップリスト!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-8-no-cost-web-based-voice-recorders-no-signup-or-payment-necessary/"><u>Best 8 No-Cost Web-Based Voice Recorders - No Signup or Payment Necessary!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-windows-7-audio-editing-applications-top-picks-for-quality-recordings/"><u>Best Windows 7 Audio Editing Applications: Top Picks for Quality Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-your-avi-files-perfectly-for-iphone-with-our-top-picks-of-desktop-and-cloud-services/"><u>Convert Your AVI Files Perfectly for iPhone with Our Top Picks of Desktop and Cloud Services</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-audio-experience-on-windows-11-tips-for-louder-speakers-and-headphones/"><u>Enhancing Audio Experience on Windows 11: Tips for Louder Speakers and Headphones</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-social-networks-explored-connecting-through-facebook-twitter-instagram-and-youtube/"><u>Essential Social Networks Explored: Connecting Through Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-poco-f5-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Poco F5 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028656211-pc2/"><u>PC上で選択したブラウザウィンドウを記録する優れた2つのテクニック</u></a></li>
 </ul></div>
 

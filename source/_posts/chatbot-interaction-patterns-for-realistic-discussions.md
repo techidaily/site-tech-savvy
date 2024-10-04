@@ -1,7 +1,7 @@
 ---
 title: Chatbot Interaction Patterns for Realistic Discussions
-date: 2024-09-20T17:45:09.584Z
-updated: 2024-09-22T18:18:55.182Z
+date: 2024-10-01T20:03:48.895Z
+updated: 2024-10-03T21:52:40.793Z
 tags:
   - chatgpt
   - open-ai
@@ -85,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 ![digital graphic of chatbot hologram above person's open hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatbot-help-hand.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Thanakorn Lappattara/[Vecteezy](https://www.vecteezy.com/photo/25075224-artificial-intelligence-communication-and-interaction-with-technology-big-data-collection-to-process-results-chatbot-chat-with-ai-information-exchange-technology-automated-robotic)
@@ -107,13 +107,6 @@ Image Credit: Thanakorn Lappattara/[Vecteezy](https://www.vecteezy.com/photo/250
 
  Desdemona's long-standing joke about keeping humans in aquariums may be unsettling to some, but her ability to respond to non-rehearsed prompts shows the potential AI has to interact with humans in a friendly and conversational manner.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI Is Only Getting Smarter
 
  Over the past decade, huge strides have been made in the AI field, with chatbots now being able to tell jokes, write essays, translate languages, and provide a huge amount of information. Above all, they have the incredible ability to simulate human conversations. One day, we may see chatbots surpass human ability, but for now, there's a lot of room for improvement.
@@ -123,6 +116,13 @@ Image Credit: Thanakorn Lappattara/[Vecteezy](https://www.vecteezy.com/photo/250
 **SCROLL TO CONTINUE WITH CONTENT**
 
  Chatbots have been a quirky yet useful online tool for some time. The rise of AI-based language models, such as GPT-4 and the ChatGPT chatbot it powers, has given the human-bot-human interface a new flare. But how do AI chatbots simulate human-like conversations? How can a computer simulate conversations with people?
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are Chatbots? How Do Chatbots Work?
 
@@ -149,6 +149,13 @@ Image Credit: Thanakorn Lappattara/[Vecteezy](https://www.vecteezy.com/photo/250
  But this chatbot is a far cry from the modern versions we use today.
 
 ![evie.bot website chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/evie-bot-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you can see in the screenshot above, Evie isn't great at answering questions accurately or keeping conversational history in mind. In just a few seconds, the chatbot said its name was Eliza but then changed it to Adam in the next response.
 
@@ -172,16 +179,16 @@ Image Credit: Thanakorn Lappattara/[Vecteezy](https://www.vecteezy.com/photo/250
 
  ChatGPT's natural language processing also plays a big role in how it responds to users, including recognizing specific language patterns and sentiments. In its training, the algorithm was provided with examples of human conversations to better understand how humans communicate. The algorithm can even keep note of cues, like greetings and farewells, to monitor the stage of the conversation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Are AI Chatbots Advancing?
 
 ![digital graphic of chatbot hologram above person's open hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatbot-help-hand.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: Thanakorn Lappattara/[Vecteezy](https://www.vecteezy.com/photo/25075224-artificial-intelligence-communication-and-interaction-with-technology-big-data-collection-to-process-results-chatbot-chat-with-ai-information-exchange-technology-automated-robotic)
 
@@ -199,54 +206,54 @@ Image Credit: Thanakorn Lappattara/[Vecteezy](https://www.vecteezy.com/photo/250
 
  Desdemona's long-standing joke about keeping humans in aquariums may be unsettling to some, but her ability to respond to non-rehearsed prompts shows the potential AI has to interact with humans in a friendly and conversational manner.
 
-## AI Is Only Getting Smarter
-
- Over the past decade, huge strides have been made in the AI field, with chatbots now being able to tell jokes, write essays, translate languages, and provide a huge amount of information. Above all, they have the incredible ability to simulate human conversations. One day, we may see chatbots surpass human ability, but for now, there's a lot of room for improvement.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- Chatbots have been a quirky yet useful online tool for some time. The rise of AI-based language models, such as GPT-4 and the ChatGPT chatbot it powers, has given the human-bot-human interface a new flare. But how do AI chatbots simulate human-like conversations? How can a computer simulate conversations with people?
-
-## What Are Chatbots? How Do Chatbots Work?
-
- Before the likes of ChatGPT, Claude, and Google Bard, there were more rudimentary chatbots. These are known as rule-based chatbots or decision-tree chatbots.
-
- A rule-based chatbot doesn't adapt to situations or understand context and cannot simulate human logic. Rather, they have a series of rules, patterns, and dialog trees set out by the developer that they must adhere to.
-
- Rule-based chatbots follow pre-defined conditions when given a prompt. Keywords are an important factor here. User inputs are scanned by the chatbot for specific words to help it understand what is being asked. Without the ability to understand context, a rule-based chatbot must rely on clues like this to provide a useful response.
-
- Many businesses use rule-based chatbots as a buffer between a customer and a human representative. If you've ever tried contacting your energy or cell service provider, you may have been asked to explain your query to a chatbot first. Alternatively, a chatbot may pop up when you visit a website for questions.
-
- Rule-based chatbots can't answer very convoluted, layered questions. They're designed to respond to short and simple queries, such as "Change my account details." A question containing many variables will likely be beyond the scope of a rule-based chatbot, either because it is not trained to interpret natural language or because its database of knowledge is limited.
-
- Rule-based chatbots can't improve without manual intervention on the development end. This is because they can't learn from previous interactions.
-
- AI chatbots are also given rules. ChatGPT, for instance, cannot swear or provide criminal advice. However, the way AI chatbots function and interact stretches far beyond what any rule-based chatbot can handle.
-
-## How AI Chatbots Work
-
- AI chatbots didn't start with ChatGPT. Before ChatGPT hit the mainstream, some less advanced chatbots still used AI to interact with their human users.
-
- Take [Eviebot](https://www.eviebot.com/en/), for example. Launched in 2008, Evie uses AI to interact with users. As a learning AI chatbot, Evie can build her conversational skills by noting what other users have typed in the past. In fact, Evie uses the same AI system as Cleverbot, another chatbot that became a mainstream hit in the late 2000s and early 2010s.
-
- But this chatbot is a far cry from the modern versions we use today.
-
-![evie.bot website chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/evie-bot-1.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## AI Is Only Getting Smarter
+
+ Over the past decade, huge strides have been made in the AI field, with chatbots now being able to tell jokes, write essays, translate languages, and provide a huge amount of information. Above all, they have the incredible ability to simulate human conversations. One day, we may see chatbots surpass human ability, but for now, there's a lot of room for improvement.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Chatbots have been a quirky yet useful online tool for some time. The rise of AI-based language models, such as GPT-4 and the ChatGPT chatbot it powers, has given the human-bot-human interface a new flare. But how do AI chatbots simulate human-like conversations? How can a computer simulate conversations with people?
+
+## What Are Chatbots? How Do Chatbots Work?
+
+ Before the likes of ChatGPT, Claude, and Google Bard, there were more rudimentary chatbots. These are known as rule-based chatbots or decision-tree chatbots.
+
+ A rule-based chatbot doesn't adapt to situations or understand context and cannot simulate human logic. Rather, they have a series of rules, patterns, and dialog trees set out by the developer that they must adhere to.
+
+ Rule-based chatbots follow pre-defined conditions when given a prompt. Keywords are an important factor here. User inputs are scanned by the chatbot for specific words to help it understand what is being asked. Without the ability to understand context, a rule-based chatbot must rely on clues like this to provide a useful response.
+
+ Many businesses use rule-based chatbots as a buffer between a customer and a human representative. If you've ever tried contacting your energy or cell service provider, you may have been asked to explain your query to a chatbot first. Alternatively, a chatbot may pop up when you visit a website for questions.
+
+ Rule-based chatbots can't answer very convoluted, layered questions. They're designed to respond to short and simple queries, such as "Change my account details." A question containing many variables will likely be beyond the scope of a rule-based chatbot, either because it is not trained to interpret natural language or because its database of knowledge is limited.
+
+ Rule-based chatbots can't improve without manual intervention on the development end. This is because they can't learn from previous interactions.
+
+ AI chatbots are also given rules. ChatGPT, for instance, cannot swear or provide criminal advice. However, the way AI chatbots function and interact stretches far beyond what any rule-based chatbot can handle.
+
+## How AI Chatbots Work
+
+ AI chatbots didn't start with ChatGPT. Before ChatGPT hit the mainstream, some less advanced chatbots still used AI to interact with their human users.
+
+ Take [Eviebot](https://www.eviebot.com/en/), for example. Launched in 2008, Evie uses AI to interact with users. As a learning AI chatbot, Evie can build her conversational skills by noting what other users have typed in the past. In fact, Evie uses the same AI system as Cleverbot, another chatbot that became a mainstream hit in the late 2000s and early 2010s.
+
+ But this chatbot is a far cry from the modern versions we use today.
+
+![evie.bot website chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/evie-bot-1.jpg)
 
  As you can see in the screenshot above, Evie isn't great at answering questions accurately or keeping conversational history in mind. In just a few seconds, the chatbot said its name was Eliza but then changed it to Adam in the next response.
 
@@ -255,10 +262,10 @@ Image Credit: Thanakorn Lappattara/[Vecteezy](https://www.vecteezy.com/photo/250
  Sites like Cleverbot and Evie are certainly entertaining, but they're not suited for practical use. In late 2022, the world began to see how incredibly useful AI chatbots could be.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do Chatbots Simulate Conversations?
@@ -333,11 +340,25 @@ Image Credit: Thanakorn Lappattara/[Vecteezy](https://www.vecteezy.com/photo/250
 
 ![evie.bot website chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/evie-bot-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see in the screenshot above, Evie isn't great at answering questions accurately or keeping conversational history in mind. In just a few seconds, the chatbot said its name was Eliza but then changed it to Adam in the next response.
 
  Additionally, Evie isn't a great informational resource. When we asked Evie how big the sun was, she responded, "Bigger than my future." While comical, Evie isn't adept at providing users with facts, regardless of how common they may be. If you're looking for a more fun-filled or bizarre chatbot experience, Evie may be the right choice for you.
 
  Sites like Cleverbot and Evie are certainly entertaining, but they're not suited for practical use. In late 2022, the world began to see how incredibly useful AI chatbots could be.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do Chatbots Simulate Conversations?
 
@@ -392,5 +413,24 @@ Image Credit: Thanakorn Lappattara/[Vecteezy](https://www.vecteezy.com/photo/250
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-streamlined-iphone-snapchat-linkage-for-photographs-and-memories-for-2024/"><u>[New] Streamlined iPhone-Snapchat Linkage for Photographs & Memories for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-lineup-of-photo-backdrop-alternatives/"><u>[Updated] Exclusive Lineup of Photo Backdrop Alternatives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brief-walkthrough-installing-llama-2-on-personal-hardware/"><u>Brief Walkthrough: Installing Llama 2 on Personal Hardware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-writes-its-own-tale-with-plus-plan/"><u>ChatGPT' Writes Its Own Tale with Plus Plan</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-ai-applications-for-modern-writers/"><u>Cutting Edge AI Applications for Modern Writers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fostering-your-style-in-chatgpts-language-outputs/"><u>Fostering Your Style in ChatGPT's Language Outputs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-x7b-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor X7b</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-13t-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi 13T Pro Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovation-unleashed-blizzards-integration-with-microsoft-expands-ai-creativity-frontiers-tech-expo-recap/"><u>Innovation Unleashed: Blizzard's Integration with Microsoft Expands AI Creativity Frontiers [Tech Expo Recap]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/join-the-elite-club-of-bug-detectives-at-openai/"><u>Join the Elite Club of Bug Detectives at OpenAI!</u></a></li>
+<li><a href="https://facebook.techidaily.com/like-twitter-facebook-is-testing-a-prompt-to-promote-informed-sharing/"><u>Like Twitter, Facebook Is Testing a Prompt to Promote Informed Sharing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/push-boundaries-of-browsing-and-ai-talking-with-these-extensions/"><u>Push Boundaries of Browsing and AI Talking with These Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reach-new-heights-of-conversational-ai-in-chrome-with-these-extensions/"><u>Reach New Heights of Conversational AI in Chrome with These Extensions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-computer-components-and-gear-reviews/"><u>Tom's Tech Insights: In-Depth Computer Components and Gear Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/upconversion-unveiled-sdr-to-hdri-a-complete-guide/"><u>Upconversion Unveiled SDR to HDRI - A Complete Guide</u></a></li>
+</ul></div>
 

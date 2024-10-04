@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Digital Maze: Understanding 3 Key Chatbot Issues"
-date: 2024-09-21T17:43:10.613Z
-updated: 2024-09-22T16:31:21.252Z
+date: 2024-09-26T17:25:02.654Z
+updated: 2024-10-03T18:05:17.789Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb52
 
  But the concerns don't stop here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How Does ChatGPT Learn?
 
  In order to provide information, large language models are trained with huge amounts of data. According to [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3), ChatGPT-4 alone was fed 300 billion words of information during its training period. This isn't taken straight from a few encyclopedias. Rather, chatbot developers use masses of information from the internet to train their models. This can include data from books, movies, articles, Wikipedia entries, blog posts, comments, and even review sites.
@@ -53,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb52
  This is where things get a little blurry. If you ask ChatGPT-3.5 directly whether it has access to product reviews or article comments, you'll get a firm negative. As you can see in the screenshot below, GPT-3.5 states that it wasn't given access to user article comments or product reviews in its training.
 
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
 
@@ -85,16 +99,10 @@ thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb52
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Malware Infection
@@ -108,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb52
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Chatbots Aren't Impervious to Privacy Issues
@@ -139,5 +147,22 @@ thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb52
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-overview-and-assessment-parrots-advanced-edition/"><u>[New] Overview and Assessment - Parrot's Advanced Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-11-brainy-battles-general-knowledge-channels-revealed/"><u>[Updated] Top 11 Brainy Battles General Knowledge Channels Revealed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-optimizing-facebook-search-efficiency-101/"><u>2024 Approved Optimizing Facebook Search Efficiency 101</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-ai-comparing-notions-prowess-against-chatgpt/"><u>Choosing AI: Comparing Notion's Prowess Against ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-navigate-apples-podcast-acceptance-policy-for-2024/"><u>How to Navigate Apple's Podcast Acceptance Policy for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-efficient-screenshot-and-video-recorder-choice-guide-for-pc/"><u>In 2024, Efficient Screenshot & Video Recorder Choice Guide for PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-t2x-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo T2x 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-laying-the-foundation-of-zoom-room-use/"><u>In 2024, Laying the Foundation of Zoom Room Use</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-virality-secrets-effective-hashtag-strategies/"><u>In 2024, YouTube's Virality Secrets Effective Hashtag Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-character-creation-integrating-gpt-dall-e-in-dandd/"><u>Mastering Character Creation: Integrating GPT, DALL-E in D&D</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-minefield-of-generative-ai-nightshade-as-your-safeguard/"><u>Navigating the Minefield of Generative AI: Nightshade as Your Safeguard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/open-secrets-mechanical-keyboards-unveiled/"><u>Open Secrets: Mechanical Keyboards Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twittrick-uncovered-metasig-initiative/"><u>TwitTrick Uncovered: Metasig Initiative</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-itel-p40-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-chatgpt-pioneer-the-next-wave-of-healthtech/"><u>Will ChatGPT Pioneer the Next Wave of Healthtech?</u></a></li>
+</ul></div>
 

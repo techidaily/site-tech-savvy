@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Plugin Basics: Uses and Applications"
-date: 2024-09-23T17:29:42.916Z
-updated: 2024-09-28T17:18:07.956Z
+date: 2024-09-29T00:31:44.487Z
+updated: 2024-10-03T18:32:56.115Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are ChatGPT's Default Plugins?
 
  ChatGPT's three built-in plugins are offered to all ChatGPT Plus users. ChatGPT Plus uses GPT-4, OpenAI's latest LLM version, which comes with the DALL-E 3, Code Interpreter, and Browse with Bing plugins.
@@ -52,23 +59,9 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
  When you open your ChatGPT Plus account, each of these plugins will be active by default, meaning you don't need to activate anything manually to use them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use ChatGPT's Standard Plugins
 
  If you don't have a ChatGPT Plus account, you won't be able to access these plugins. So, consider signing up for the $20 monthly premium plan if you want to overcome this barrier.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Browse with Bing
 
@@ -98,25 +91,11 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
 ![chatgpt-dalle output mouse next to river](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-output-mouse-next-to-river.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, we ask for changes.
 
 ![chatgpt-dalle mouse next to river changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-mouse-next-to-river-changed-colour.png)
 
  Though we asked ChatGPT to keep the image identical aside from one change, it made the change but also changed almost everything else about the image. Keep this downside in mind when using this plugin.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Code Interpreter
 
@@ -125,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 ![screenshot of ChatGPT python response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-response.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If ChatGPT picks up on any errors in your code, it will notify you and provide a correction.
@@ -138,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
  After uploading the document, ChatGPT will analyze it and give you its interpretation.
 
 ![screenshot of file upload for code interpretation in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/upload-python-gpt.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also ask ChatGPT to give you Python code for the function or program you want to create. However, this isn't part of the Interpreter plugin, so it can be used with GPT-3.5 or GPT-4\.
 
@@ -151,15 +137,29 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
 ![screenshot of chatgpt web search result in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-search.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![screenshot of ChatGPT mobile app dall-e response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-dalle.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Screenshot of ChatGPT python interpreter in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-python.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -187,18 +187,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-inspirational-hiring-vids-1-10/"><u>[New] 2024 Approved Discover Inspirational Hiring Vids #1-10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-funimate-pro-apk-review-and-how-to-guide/"><u>2024 Approved Funimate Pro APK Review and How-To Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/asf-mkv/"><u>ASF 투 MKV 영상 전환 - 웹 블로드에서 무료 가용성</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-vs-gpt-a-deep-dive-into-4-crucial-enhancements-for-users/"><u>Claude vs GPT: A Deep Dive Into 4 Crucial Enhancements for Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-email-subject-lines-the-chatgpt-way/"><u>Enhancing Email Subject Lines: The ChatGPT Way</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-advanced-electronics-with-toms-equipment-chronicles/"><u>Explore Advanced Electronics with Tom's Equipment Chronicles</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-v2-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Magic V2 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-stock-strategy-streams-the-most-valuable-online-sources/"><u>In 2024, Stock Strategy Streams The Most Valuable Online Sources</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-with-personal-gpts/"><u>Innovate with Personal GPTs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-at-your-fingertips-introducing-ai-in-bing-search/"><u>The Future at Your Fingertips: Introducing AI in Bing Search</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-leading-social-media-sites-facebook-twitter-instagram-and-youtube-explained/"><u>The Leading Social Media Sites: Facebook, Twitter, Instagram & Youtube Explained</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-strategies-for-human-authors-surpassing-ai-composition/"><u>Top Strategies for Human Authors Surpassing AI Composition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-a-step-by-step-approach-to-documenting-every-exciting-moment-on-discord/"><u>2024 Approved A Step-by-Step Approach to Documenting Every Exciting Moment on Discord</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jpeg-moviavi/"><u>無料JPEGコンバートサービス - MoviAVIプログラム オンラインで利用可能</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exclusive-sites-for-secure-and-quick-download-of-youtube-ringtones-for-2024/"><u>Exclusive Sites for Secure & Quick Download of YouTube Ringtones for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-konvertereen-van-aiff-naar-mp4-met-online-tools-movavi/"><u>Gratis Konvertereen Van AIFF Naar MP4 Met Online-Tools - Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immersive-virtue-verse-selection-for-ar-vr-worlds/"><u>Immersive Virtue Verse Selection for AR-VR Worlds</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 15 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-testing-of-the-garmin-forerunner-treadmill-tracking-device/"><u>In-Depth Testing of the Garmin Forerunner Treadmill Tracking Device</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-crafting-an-elegant-audio-dissolve-experience/"><u>New 2024 Approved Crafting an Elegant Audio Dissolve Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-power-of-animated-special-effects-for-engaging-content/"><u>Unlocking the Power of Animated Special Effects for Engaging Content</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-trimming-3gp-videos-tips-tricks-and-best-practices/"><u>Updated Trimming 3GP Videos Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-mef/"><u>WEB에서 자연스럽게 가격이나 무시하고 MEF 데이터의 완벽한 전환</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726219411649-wavmp3-movavi/"><u>ワークフローを簡素化する無料WAVファイルからMP3への直接変換 - Movavi</u></a></li>
 </ul></div>
 

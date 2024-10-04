@@ -1,7 +1,7 @@
 ---
 title: "Verifying Virtual Medicine: Tips for ChatGPT and AI Sources"
-date: 2024-09-17T18:29:39.838Z
-updated: 2024-09-22T18:37:27.103Z
+date: 2024-09-27T16:02:12.272Z
+updated: 2024-10-04T00:09:54.181Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 
  When prompted, the chatbot itself will even reiterate this idea. Although [AI technology will affect the future of healthcare](https://www.makeuseof.com/ai-will-power-future-healthcare/) in a number of ways, it isn't likely to replace the human component in the near future. For the most important medical questions, continue to rely on your personal physician or healthcare provider.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Rely on Established Medical Resources
 
  Many medical resources available online provide reliable, reputable, evidence-based information. Even better, they present the facts in a straightforward way, making them more accessible to people from all sorts of backgrounds (not only medical professionals). These are some examples:
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 
  Those that end in .com, or commercial sites, may also provide helpful information. In many instances, however, these sites are more focused on selling you something, according to the [National Institute on Aging](https://www.nia.nih.gov/health/how-find-reliable-health-information-online). If you're trying to fact-check other information, then a nonprofit or educational site may offer more neutral facts.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Use Apps With Care
 
  When it comes to health apps, exercising caution is crucial. While official apps from hospitals and medical facilities are generally considered trustworthy, apps from companies or individuals may not always provide the most accurate or reliable information.
@@ -61,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
  If you want to rely on an app, then evaluate the source, check out user reviews and ratings, and check for endorsements or certifications from reputable healthcare organizations.
 
  In general, health apps should complement professional medical advice—not replace it. In this instance, they may not provide the best way to fact-check information from other sources.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Take Care With Personal Sites, Influencers, and Other Individuals
 
@@ -82,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
  If you’re trying to double-check information from ChatGPT or similar sources, however, then this may not be the best avenue in general.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Trust Your Gut
@@ -95,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
  In addition, AI hallucination responses—in which artificially intelligent chatbots present factually incorrect information in an authoritative manner—are still an issue. While there are [ways to spot AI hallucination](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) in a chatbot's responses, it can be tricky to separate the true information from the false.
 
  In these events, take extra care to run the provided information by a trusted medical resource (or your own physician).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Trusted Resources to Double-Check Health Information From ChatGPT
 
@@ -117,5 +131,18 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-confirmation-procedures-for-youtube-users/"><u>[New] Confirmation Procedures for YouTube Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-seamlessly-integrate-the-ken-burns-effect-into-camtasia-for-2024/"><u>[New] Seamlessly Integrate the Ken Burns Effect Into Camtasia for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-video-technology-in-teaching-practices/"><u>[Updated] Leveraging Video Technology in Teaching Practices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-face-edits-leading-iphone-and-android-apps/"><u>2024 Approved Expert Face Edits Leading iPhone & Android Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-xcover-6-pro-tactical-edition-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Galaxy XCover 6 Pro Tactical Edition has native MKV support?</u></a></li>
+<li><a href="https://facebook.techidaily.com/driving-viral-campaigns-with-strategic-fb-posting-techniques/"><u>Driving Viral Campaigns with Strategic FB Posting Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-rapide-convertissez-facilement-vos-fichiers-aac-en-ogg-gratuitement-sur-internet-avec-movavi/"><u>Guide Rapide : Convertissez Facilement Vos Fichiers AAC en OGG Gratuitement Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-works-legal-guardianship/"><u>Mastering AI Works' Legal Guardianship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-key-to-fluent-conversations-gpts-language-decoding-power/"><u>The Key to Fluent Conversations: GPT's Language Decoding Power</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/worth-it-or-a-luxury-expense-for-advanced-ai-outputs/"><u>Worth It or a Luxury Expense for Advanced AI Outputs?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writers-guide-ai-driven-storytelling-techniques/"><u>Writers’ Guide: AI-Driven Storytelling Techniques</u></a></li>
+</ul></div>
 

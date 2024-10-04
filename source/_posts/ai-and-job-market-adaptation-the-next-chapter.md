@@ -1,7 +1,7 @@
 ---
 title: "AI & Job Market Adaptation: The Next Chapter"
-date: 2024-09-20T18:34:17.230Z
-updated: 2024-09-22T19:15:06.709Z
+date: 2024-09-27T00:07:46.531Z
+updated: 2024-10-03T19:27:50.231Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 
 ![a magnifying glass on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/research-job-market.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One of the biggest problems with text-based generative AI tools such as ChatGPT is inaccuracy. When you talk to ChatGPT, you instinctively trust what it is saying. However, keep in mind that these AI tools don't actually know if what they are saying is true and simply present information in a way that seems human-like and is therefore perceived as trustworthy.
 
  In other words, there is a clear gap that needs to be solved. To fill that gap is the job of fact-checkers. And as these AI tools become mainstream, we will require an increasing number of fact-checkers working behind the scenes to make sure the bots give reliable and accurate information and limit the spread of misinformation.
@@ -65,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 ![Two women looking at a computer and iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creative-activities-that-boost-your-mental-health.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Speaking of creativity, creative AI tools like DALL-E and Midjourney have taken the art world by storm. We won't get into how many artists are protesting against the use of such tools, as they deem it unfair to have them use their copyrighted artwork for reference.
@@ -93,37 +100,38 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 
 ![A clock and a calendar with stationery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Reminders-Notion-Feature-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Given how generative AI will allow many of us to work much faster than before, it's fair to assume that some jobs will see a decline in the number of hours required, leading to shorter workdays.
 
  Since [human capital will become less necessary](https://www.makeuseof.com/types-of-jobs-risk-ai/) going forward, companies will increasingly embrace automation in white-collar jobs. But since some level of human intervention will still be required, employees in some industries will be asked to work fewer hours.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Blue-Collar Jobs Will Become Far More Lucrative
 
 ![Feature cover of a happy construction worker behind his desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/feature-cover-of-a-happy-construction-worker-behind-his-desk.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Blue-collar jobs such as farmer, plumber, electrician, mechanic, construction worker, and more are likely to become far more lucrative than ever before in history—perhaps even more than some white-collar jobs. Why? Because unlike white-collar work, many blue-collar jobs require manual labor and cannot be easily automated.
 
  Generative AI can easily learn the patterns of a desk job and produce useful results, but all of those capabilities are limited to software. This is not to say that AI isn't used in some blue-collar jobs, as it is, but software alone can't fix a leaky toilet, plow land, build a house, perform pest control, remove dents from your car, or repair a broken air conditioner.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adapt and Work With AI
 
@@ -148,5 +156,22 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-reimagining-received-gifts-the-joy-of-openness/"><u>[New] 2024 Approved Reimagining Received Gifts The Joy of Openness</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-discover-world-wonders-with-these-top-10-videos-for-2024/"><u>[Updated] Discover World Wonders with These Top 10 Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-elevate-social-media-content-to-hd-clarity-on-facebook/"><u>2024 Approved Elevate Social Media Content to HD Clarity on Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-essential-guide-to-capturing-skype-conversations-on-windowsmac/"><u>2024 Approved The Essential Guide to Capturing Skype Conversations on Windows/Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-mobile-banking-mastery-navigating-financial-services-in-the-digital-era/"><u>ABBYY Mobile Banking Mastery: Navigating Financial Services in the Digital Era</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-timeline-flowtemplateasteria/"><u>ABBYY Timeline FlowTemplate紹介：ASTERIAウォープで最新機能を解析する</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-breakthrough-with-abbyy-achieving-a-remarkable-60-yearly-increase-in-profits-spotlighted-in-the-idc-marketscape-report/"><u>AI Breakthrough with ABBYY: Achieving a Remarkable 60% Yearly Increase in Profits - Spotlighted in the IDC MarketScape Report</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automated-conversion-tracking-with-the-help-of-cookiebot-technology/"><u>Automated Conversion Tracking with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-traffic-with-effective-page-seo-strategies/"><u>Boost Traffic with Effective Page SEO Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-visibility-with-powerful-page-optimization-techniques/"><u>Boosting Visibility with Powerful Page Optimization Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-analysis-abbyys-intelligent-automation-trends-and-breakthroughs/"><u>Comprehensive Analysis: ABBYY's Intelligent Automation Trends and Breakthroughs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-gt-5-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme GT 5 Pro Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/locate-vanished-settings-a-guide-to-finding-them-on-win11/"><u>Locate Vanished Settings: A Guide to Finding Them on Win11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tp67-thermometer-assessment-cost-effective-yet-inconsistent-performance/"><u>TP67 Thermometer Assessment: Cost-Effective Yet Inconsistent Performance</u></a></li>
+</ul></div>
 

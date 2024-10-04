@@ -1,7 +1,7 @@
 ---
 title: Optimal ChatGPT Command Strategies Unveiled
-date: 2024-09-23T17:04:24.679Z
-updated: 2024-09-28T16:07:33.583Z
+date: 2024-09-30T20:14:57.993Z
+updated: 2024-10-04T00:18:23.268Z
 tags:
   - chatgpt
   - open-ai
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 * [Provide Data for Personalized Responses](https://united.elfm.net/zqobdx)
 * [Make the Best of Custom Instructions](https://caperobbin.sjv.io/9grow5)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Personalize ChatGPT's responses to ensure safety and suitability for children. Specify age restrictions and content boundaries.
@@ -55,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 ![A woman and an access restricted sign](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/access-control-policies.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can use [the ChatGPT custom instructions feature](https://www.makeuseof.com/what-is-chatgpt-custom-instructions-feature/) to specify safety rules for your ChatGPT account or those used by minors. If you want to ensure your kid is safe when using ChatGPT, you can use custom instructions to generate responses suitable for children under the age of X, where X is your child's age. You can also get more specific if there are certain topics you want ChatGPT to avoid that may not necessarily be inappropriate for that age.
@@ -91,6 +84,13 @@ Please use the key=>value pair provided to determine how to structure your respo
 
 Whenever I reach out for help regarding a resume, I need you to refer to the information provided at "<https://www.makeuseof.com/how-to-write-cv-for-tech-job/>" to guide our interaction. Based on the insights from that page, you should pose a series of eight targeted questions to me. My responses to these questions will be the foundation upon which you will construct a professional and effective resume tailored to a technology role. This specific procedure should be activated only when I'm seeking assistance with a tech-related resume. Moreover, I would like our exchange to be sequential, where you will present each subsequent question only after I have provided a thorough answer to the one preceding it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Specify Your Writing Style
 
  While capable of producing quality writing, ChatGPT's write-ups often lack a consistent personal voice and style. If you use ChatGPT primarily or frequently for creating write-ups and need the chatbot to maintain a consistent style across all sessions, custom instructions might be your way out.
@@ -102,6 +102,13 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
  Here's what the results should look like. Read through, copy the results, and paste them into the second field of the custom instruction feature.
 
 ![Personal preference Map in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/personal-preference-map-in-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Provide Data for Personalized Responses
 
@@ -115,29 +122,16 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
 ![Setting preferred ways to respond in ChatGPT Custom Instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/setting-preferred-ways-to-respond-in-chatgpt-custom-instructions.jpg)
 3. You can also make it respond to specific professional requirements.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Setting preferred ways to respond using ChatGPT Custom Instructions feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/setting-preferred-ways-to-respond-using-chatgpt-custom-instructions-feature.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  These are just three quick examples to get the ball rolling, but there are countless ways you can adapt ChatGPT custom instructions to your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make the Best of Custom Instructions
 
@@ -160,22 +154,14 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-premier-mic-choices-perfected-for-high-res-videos-for-2024/"><u>[New] Premier Mic Choices Perfected for High-Res Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elites-free-guide-to-10-caption-download-tools-for-2024/"><u>[Updated] Elite's Free Guide to 10 Caption Download Tools for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-gameplay-streaming-tools-revealed-obs-or-fraps/"><u>[Updated] Gameplay Streaming Tools Revealed OBS or Fraps?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-free-media-server-options-top-6-plex-substitutes-for-safe-viewing-during-the-2023-pandemic/"><u>Best Free Media Server Options: Top 6 Plex Substitutes for Safe Viewing During the 2023 Pandemic</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/carbon-capture-a-lifesaver-for-our-planets-future/"><u>Carbon Capture: A Lifesaver for Our Planet's Future?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-gptbot-understanding-its-role-and-bans/"><u>Decoding GPTBot: Understanding Its Role and Bans</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-into-the-world-of-ai-at-bing-how-to-signup/"><u>Dive Into the World of AI at Bing: How-To Signup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/everyone-enjoys-gpt-4-for-free-yet-6-advantages-of-premium/"><u>Everyone Enjoys GPT-4 for Free; Yet, 6 Advantages of Premium.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-impact-on-cybersecurity-landscapes/"><u>GPT's Impact on Cybersecurity Landscapes</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-s24plus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy S24+ to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-swiftrecord-the-quick-windows-11-recorder/"><u>In 2024, SwiftRecord - The Quick Windows 11 Recorder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-online-chatbots-8-key-distinctions/"><u>Navigating Online Chatbots: 8 Key Distinctions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/pulse-pounding-perfection-create-compelling-tiktok-videos-with-templates/"><u>Pulse-Pounding Perfection Create Compelling TikTok Videos with Templates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/silverman-and-co-legal-challenge-to-ai-developments-by-tech-firms/"><u>Silverman & Co.: Legal Challenge to AI Developments by Tech Firms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/start-immediately-experiment-with-8-tailored-models/"><u>Start Immediately: Experiment with 8 Tailored Models</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-access-government-recorded-content-for-free-online/"><u>[New] How to Access Government-Recorded Content for Free Online</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-itel-a70-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-note-30-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Note 30 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-hidden-shotshaper-advanced-stealthy-methods-for-capturing-images/"><u>In 2024, Hidden ShotShaper Advanced Stealthy Methods for Capturing Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones-for-2024/"><u>Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-multimedia-projects-with-the-power-of-video-converter-factory-pro-try-now-for-free/"><u>Upgrade Your Multimedia Projects with the Power of Video Converter Factory Pro - Try Now for FREE!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wavpackmp3wav/"><u>WavPack形式のファイルをMP3やWAVに効率良く変換するための手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wavwma-3/"><u>WAVファイルからWMAへの鮮明な品質保持: 3方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-10flac/"><u>Windows 10上で効率的にFLAC音楽ファイル再生のコツ</u></a></li>
 </ul></div>
 

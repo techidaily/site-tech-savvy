@@ -1,7 +1,7 @@
 ---
 title: The Intriguing World of Generative AI
-date: 2024-09-20T17:56:11.003Z
-updated: 2024-09-22T16:03:35.723Z
+date: 2024-09-28T17:51:55.599Z
+updated: 2024-10-03T17:35:41.779Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
  So if you want to create a generative AI model that generates pictures of cars, you'd have to feed the model a huge dataset of car images. To create an impressive model, you'd need to feed it pictures of as many car brands and models as you can think of. With enough training, the algorithm will learn what each car brand or model looks like, and we'll be able to create images of almost any car you can think of on demand.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Popular Generative AI Models
 
  There are hundreds of generative AI models currently in development or already being deployed in the consumer AI market. Some of the popular ones you should know of include:
@@ -54,17 +61,31 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
 ![chatgpt 4 answer question on number of data points june 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-4-answer-question-on-number-of-data-points-june-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  GPT, developed by OpenAI, is among the most recognizable names in the generative AI space. Its popularity hinges on its effectiveness as a conversational AI model and the viral success of the ChatGPT chatbot, which uses GPT as its underlying technology. It is a large language model designed to generate human-like text when prompted. Typical of any generative AI model, [all iterations of the GPT model](https://www.makeuseof.com/gpt-models-explained-and-compared/) have been trained on a massive amount of diverse text data.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Pathways Language Model (PaLM)
 
  PaLM, an experimental large language model by Google, is a powerful generative AI model capable of performing a large range of tasks like creative writing, code generation, language translation, and a number of other text-based natural language tasks. Like GPT, PaLM was trained on a large corpus of text data sourced from a wide array of sources across the web. It is [the AI model that powers Google's Bard AI](https://www.makeuseof.com/what-is-google-palm-2/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Music Language Model (MusicLM)
@@ -77,13 +98,6 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
  Beyond generative AI models, you'll also find generative AI products like Midjourney, DALL-E image generator, Stable Diffusion image generator, Hugging Chat, and several other impressive AI products powered by generative AI models.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Has Generative AI Exploded In Popularity?
 
  On 30th November 2022, OpenAI CEO Sam Altman announced the launch of ChatGPT in a tweet. Despite being OpenAI's CEO, Altman was relatively unknown in the larger internet community, and his tweet came with little to no fanfare.
@@ -93,13 +107,6 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  While ChatGPT has been the tip of the spear in propelling the hype around generative AI, it didn't do it alone. 2022 will be remembered as the year generative AI tools went mainstream. From conversational AI chatbots to code and art generators, the second half of 2022 was the first time multiple AI tools that had both mass appeal and practical day-to-day uses had hit the market. With these tools came the popularity of its underlying technology—generative AI.
 
  Generative AI tools such as Bing AI, Google's Bard, DALL-E, ChatGPT, and Midjourney have seamlessly woven themselves into the fabric of our daily lives, constantly presenting us with their remarkable creations. Whether it's the captivating write-ups crafted by ChatGPT or the astonishingly lifelike images conjured by Midjourney, generative AI has become an ever-present companion, accompanying us day in and day out. This is the genesis of the recent popularity of generative AI.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Embrace Generative AI
 
@@ -120,5 +127,26 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-enhancing-youtube-content-via-finalcut-pro-techniques/"><u>[New] 2024 Approved Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-setup-and-evaluate-facebook-instream-ads/"><u>[Updated] 2024 Approved How to Setup and Evaluate Facebook Instream Ads?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-comprehensively-reviewing-youtubes-restrictions-vs-cc-flexibility/"><u>[Updated] In 2024, Comprehensively Reviewing YouTube's Restrictions Vs. CC Flexibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-fake-news-a-potential-risk/"><u>AI-Driven Fake News: A Potential Risk?</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1724313320603-aiocr-abbyy/"><u>AI駆使したOCR技術で最適化された会計書類処理 - ABBYY製品レビュー</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alternatives-to-chatgpt-7-tools-for-programming-efficiency/"><u>Alternatives to ChatGPT: 7 Tools for Programming Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deactivate-chatgpts-record-functionality-for-secure-talks/"><u>Deactivate ChatGPT’s Record Functionality for Secure Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-claude-3-and-its-potential/"><u>Demystifying Claude 3 and Its Potential</u></a></li>
+<li><a href="https://facebook.techidaily.com/effortless-spot-sharing-on-facebook-chatrooms/"><u>Effortless Spot Sharing on Facebook Chatrooms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-tech-for-developing-habitual-inner-peace-practices/"><u>GPT-Tech for Developing Habitual Inner Peace Practices</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-x8b-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X8b Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone 12 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-magic-v2-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor Magic V2? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-infuses-bing-with-advanced-ai/"><u>Microsoft Infuses Bing With Advanced AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-as-a-professional-writer/"><u>Navigating ChatGPT as a Professional Writer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-ghostly-gpt-interactions/"><u>Reviving Ghostly GPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-ai-talks-in-chrome-here-are-7-tips/"><u>Revolutionize AI Talks in Chrome, Here Are 7 Tips</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-v27e-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/understanding-the-distinctions-between-process-intelligence-and-bi-techniques-for-strategic-decision-making/"><u>Understanding the Distinctions Between Process Intelligence and BI Techniques for Strategic Decision-Making</u></a></li>
+</ul></div>
 

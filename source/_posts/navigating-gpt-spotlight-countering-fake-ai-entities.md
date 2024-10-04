@@ -1,7 +1,7 @@
 ---
 title: "Navigating GPT Spotlight: Countering Fake AI Entities"
-date: 2024-09-18T16:55:58.215Z
-updated: 2024-09-22T18:15:41.536Z
+date: 2024-09-26T17:10:23.507Z
+updated: 2024-10-03T17:59:24.433Z
 tags:
   - chatgpt
   - open-ai
@@ -53,18 +53,24 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
  So, how can you use this?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
@@ -76,15 +82,28 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
@@ -98,16 +117,10 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
@@ -133,5 +146,23 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-choose-wisely-the-ultimate-list-of-mac-gif-tools-for-2024/"><u>[New] Choose Wisely The Ultimate List of Mac GIF Tools for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-note-12-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi Note 12 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-trustworthiness-of-chatgpt/"><u>Assessing the Trustworthiness of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-ai-barriers-the-power-of-transfer-learning/"><u>Breaking Down AI Barriers: The Power of Transfer Learning</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/fast-and-simple-solutions-for-fixing-the-notorious-ghost-recon-breakpoint-game-crashes/"><u>Fast & Simple Solutions for Fixing the Notorious Ghost Recon Breakpoint Game Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-transforming-the-handy-culture/"><u>GPT-4: Transforming The Handy Culture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-enhanced-research-methods-for-essays/"><u>GPT-Enhanced Research Methods for Essays</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-successfully-update-the-driver-for-your-usb-microphoneheadset-in-windows-windows-11-10-and-7/"><u>How To Successfully Update The Driver For Your USB Microphone/Headset in Windows (Windows 11, 10, And 7)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-unlocking-advanced-android-screen-recording/"><u>In 2024, Unlocking Advanced Android Screen Recording</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/itunesmp3wav-dvd/"><u>ITunesでMP3やWAVファイルのみ抽出する - DVDから</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mkv-decoding-best-apps-for-mac/"><u>MKV Decoding Best Apps for Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcome-body-stream-failures-chatgpts-fix-guide/"><u>Overcome Body Stream Failures: ChatGPT's Fix Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-dialogue-chatgpt-plus-now-available-in-the-us-20mo/"><u>Revolutionize Dialogue: ChatGPT Plus Now Available in the US ($20/Mo)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/steps-for-retrieving-twitters-video-content-without-charge-across-various-platforms/"><u>Steps for Retrieving Twitter's Video Content Without Charge Across Various Platforms</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-7-video-mergers-without-watermark/"><u>Updated 2024 Approved 7 Video Mergers Without Watermark</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-iphone-your-portal-to-chatgpt-wonderland/"><u>Your iPhone, Your Portal to ChatGPT Wonderland</u></a></li>
+</ul></div>
 

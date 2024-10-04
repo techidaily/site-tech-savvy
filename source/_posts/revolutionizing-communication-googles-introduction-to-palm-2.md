@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Communication: Google's Introduction to PaLM 2"
-date: 2024-09-25T17:59:27.996Z
-updated: 2024-09-28T18:42:46.723Z
+date: 2024-09-29T16:43:38.289Z
+updated: 2024-10-03T22:55:53.190Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ While OpenAI is leading the way for generative AI development, many have accused
  With Gecko able to process around 20 tokens per second—tokens are the values assigned to real words for use by generative AI models—it looks likely to be a game-changer for mobile deployable AI tools.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PaLM 2 Training Data
@@ -60,10 +60,10 @@ While OpenAI is leading the way for generative AI development, many have accused
  But it's not just spoken languages. Linking to Google's demand for PaLM 2 to deliver better scientific and mathematical reasoning, the LLM has also been trained in more than 20 programming languages, which makes it a phenomenal asset for programmers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PaLM 2 Is Already Powering Google Services—But Still Requires Fine Tuning
@@ -79,10 +79,10 @@ While OpenAI is leading the way for generative AI development, many have accused
  No matter how much researchers attempt to cleanse LLM training data, it's inevitable some will slip through. The next phase is to continue training PaLM 2 to reduce those toxic responses.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It's a Boom Period for Large Language Models
@@ -108,19 +108,17 @@ While OpenAI is leading the way for generative AI development, many have accused
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-earnings-on-youtube-the-crucial-number-of-video-views-for-money/"><u>[Updated] Earnings on YouTube The Crucial Number of Video Views for Money</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pc-videography-leveraging-windows-hdr/"><u>[Updated] PC Videography Leveraging Windows HDR</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-uniting-platforms-post-videos-across-twitter-and-tumblr/"><u>[Updated] Uniting Platforms Post Videos Across Twitter & Tumblr</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-unlock-enhanced-audio-visual-sync-subtitle-addition-to-wmp/"><u>2024 Approved Unlock Enhanced Audio-Visual Sync Subtitle Addition to WMP</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/capture-the-moment-digitally-enhance-livestreams-using-manycams-advanced-virtual-webcam-features/"><u>Capture the Moment Digitally: Enhance Livestreams Using ManyCam's Advanced Virtual Webcam Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-video-editing-solutions-with-shafin-tech-and-movavi/"><u>Explore Video Editing Solutions with Shafin Tech and Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-disable-windows-11-lock-screen-easily/"><u>How to Disable Windows 11 Lock Screen, Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-and-update-the-realtek-high-definition-sound-driver-on-windows-11/"><u>How to Fix and Update the Realtek High Definition Sound Driver on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-pair-your-wireless-bluetooth-headset-with-a-playstation-4-console-a-step-by-step-guide-with-images/"><u>How to Pair Your Wireless Bluetooth Headset with a PlayStation 4 Console: A Step-by-Step Guide with Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-stop-windows-10-update-completely/"><u>How to Stop Windows 10 Update Completely</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-successfully-pair-your-printer-with-windows-10-expert-guide/"><u>How To Successfully Pair Your Printer With Windows 10: Expert Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-troubleshoot-and-set-up-bluetooth-connection-between-an-android-phone-and-computer/"><u>How to Troubleshoot and Set Up Bluetooth Connection Between an Android Phone and Computer</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-monetary-scope-of-mr-beasts-ventures/"><u>[New] The Monetary Scope of Mr. Beast’s Ventures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-learn-the-art-of-adding-borders-on-insta-videos/"><u>[Updated] In 2024, Learn the Art of Adding Borders on Insta Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-ultimate-guide-instagrams-video-maximum-length-rule/"><u>[Updated] In 2024, Ultimate Guide Instagram's Video Maximum Length Rule</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-virtual-reality-goggles-makers/"><u>[Updated] Leading Virtual Reality Goggles Makers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725285495078-winx-dvd-ripper/"><u>「コピーレス・ビデオ操作の達人：WinX DVD Ripper フリーソフトダウンロード指南」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024drm/"><u>新時代にぴったり！2024用無料ソフトでDRMから自由な鑑賞方法</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-joy-of-robotic-engineering-a-comprehensive-guide-to-the-makeblock-mbot-diy-kit/"><u>Discover the Joy of Robotic Engineering: A Comprehensive Guide to the Makeblock mBot DIY Kit!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029984622-dvd/"><u>DVDのビデオ・ツリートップシステムフォルダーの安全な複製手順</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enabling-creativity-with-free-online-and-offline-animation-methods/"><u>Enabling Creativity with Free Online & Offline Animation Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-when-windows-cant-identify-the-right-printer-driver/"><u>Troubleshooting Guide: When Windows Can't Identify the Right Printer Driver</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029484348-veoh/"><u>Veohで見たい映画やアニメ動画を安全にダウンロードする手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027017437-wonderfox/"><u>WonderFoxアフィリエイト収入を最大化する方法</u></a></li>
 </ul></div>
 

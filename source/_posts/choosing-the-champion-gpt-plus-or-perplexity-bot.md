@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Champion: GPT Plus or Perplexity Bot"
-date: 2024-09-18T16:40:11.150Z
-updated: 2024-09-22T18:40:59.962Z
+date: 2024-09-27T16:43:15.563Z
+updated: 2024-10-03T23:25:22.904Z
 tags:
   - chatgpt
   - open-ai
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/f9167146a20f7f71fc0a8f732e38b185988119c4a
 
  Then again, [ChatGPT Plus is still well worth the money](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), especially if you want access to GPT-4 and priority access to new features. There's no clear winner here, as Perplexity is also worth trying out, considering it's free.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Responses
 
  To compare the performance in terms of responses, we conducted a series of tests between the two chatbots. We presented the same questions to both language models for a better analysis.
@@ -65,28 +72,15 @@ thumbnail: https://thmb.techidaily.com/f9167146a20f7f71fc0a8f732e38b185988119c4a
 ![ChatGPT 4 response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-4-response.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The tests revealed that ChatGPT Plus consistently outperformed Perplexity by providing detailed and clear responses. In addition, it demonstrated a superior ability to provide well-reasoned and elaborative answers.
 
 ![Perplexity AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-response.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Perplexity produced responses of decent quality but lacked the level of clarity and detail exhibited by ChatGPT Plus. However, while the answers might not be elaborate, they are accurate. You'll often find that Perplexity is great at finding sources that help you find the right answers.
 
@@ -100,11 +94,32 @@ thumbnail: https://thmb.techidaily.com/f9167146a20f7f71fc0a8f732e38b185988119c4a
 
 ![Perplexity AI Chat Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-chat-interface.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Perplexity AI Popular Topics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-popular-topics.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  The Perplexity app also boasts a voice command feature that allows users to send prompts hands-free. While there are [ways to control ChatGPT Plus with your voice](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/), there is no official feature that can help you do so.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Speed and Stability
 
@@ -116,13 +131,6 @@ Close
 
  Both of these chatbots are also matched in terms of stability. OpenAI gives priority access to Plus subscribers, so you can access the service even during peak usage hours. Perplexity AI has a relatively smaller user base, and stability issues aren't something to worry about.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Comparison With Bing
 
  Microsoft's investment in OpenAI allowed them to incorporate a version of GPT-4 into Bing. Bing Chat is their newest AI-powered chatbot/search engine, which has been highly impressive. You can use it on the web and phone by downloading the Bing AI app.
@@ -130,13 +138,6 @@ Close
  It works similarly to Perplexity but uses the newer GPT-4 language model. This means Bing Chat is the best of both worlds. It can access information from the internet in real-time, provide sources, and solve complex problems.
 
  Unfortunately, it still feels like a beta version at the moment. Microsoft is being cautious with its approach, and this means that Bing Chat simply won't respond to prompts it considers "controversial." However, it's still worth trying out as it's free.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Plus vs. Perplexity: Two Impressively Different Chatbots
 
@@ -161,5 +162,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-content-distribution-a-close-look-at-igtv-and-youtube/"><u>[New] Navigating Content Distribution A Close Look at IGTV and YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-xp-workspace-your-next-creative-filmmaker-for-2024/"><u>[New] XP Workspace Your Next Creative Filmmaker for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-your-music-collection-youtube-playlists-guide/"><u>[Updated] Crafting Your Music Collection YouTube Playlists Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-ai-conquer-math-queries/"><u>Can AI Conquer Math Queries?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guard-against-data-thieves-with-ai-literacy-and-caution/"><u>Guard Against Data Thieves with AI Literacy and Caution</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-essential-tweets-choosing-the-right-converter/"><u>In 2024, Essential Tweets Choosing the Right Converter</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-on-demand-acting-rights-form/"><u>In 2024, On-Demand Acting Rights Form</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-start-guide-bavarder-chatgpt-on-linux/"><u>Quick-Start Guide: Bavarder ChatGPT on Linux</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sign-up-strategies-for-embracing-chatgpt-plugins/"><u>Sign Up Strategies for Embracing ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-tinged-tenderninas-ai-love-scams-exposed/"><u>Tech-Tinged Tenderninas: AI Love Scams Exposed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-search-can-gpt-disrupt-it/"><u>The Future of Search: Can GPT Disrupt It?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-maximum-potential-an-expert-review-of-the-m-mookka-1000a-peak-power-jumper-for-automobiles/"><u>Unlocking Maximum Potential: An Expert Review of the M MOOKKA 1000A Peak Power Jumper for Automobiles</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-a15-4g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy A15 4G Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

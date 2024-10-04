@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's New Voice: Mastering Prompt and Command Interactions"
-date: 2024-09-26T18:21:47.643Z
-updated: 2024-09-28T18:28:10.098Z
+date: 2024-09-27T21:04:52.628Z
+updated: 2024-10-03T23:42:30.984Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
  ChatGPT's new text-to-speech model is only available to Plus and Enterprise subscribers using the official Android and iOS apps and is expected to roll out within the next two weeks (starting from September 25, 2023). Furthermore, the new voice feature is limited to English to begin with, though we would expect this to change rapidly.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Can Recognize and Analyze Images and Photographs
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
  Like the new text-to-speech model, OpenAI will roll out image recognition in the next two weeks, though it will be available on all platforms, not just the ChatGPT app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Privacy, Security, and Other Issues
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
  Given this is the tip of the iceberg, expect pushback against ChatGPT's newfound voice, especially once there is a predictable uptick in unsavory headlines claiming ChatGPT is being used to commit fraud and so on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OpenAI Is Making ChatGPT the Go-To AI App
@@ -106,15 +106,18 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-successful-mukbang-video-journey/"><u>[Updated] In 2024, Crafting a Successful Mukbang Video Journey</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-photographys-top-10-digital-notebooks-for-smartphones/"><u>[Updated] Photography's Top 10 Digital Notebooks for Smartphones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-breakthroughs-essential-updates-in-the-latest-chatgpt-version/"><u>AI Breakthroughs: Essential Updates in the Latest ChatGPT Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-explained-the-tech-thats-shaping-interactive-futures/"><u>Chatbots Explained: The Tech That's Shaping Interactive Futures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/five-key-considerations-every-buyer-should-evaluate-before-acquiring-a-fitness-device/"><u>Five Key Considerations Every Buyer Should Evaluate Before Acquiring a Fitness Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-your-assassins-creed-revelations-up-and-running-fixes-and-tips-to-resolve-startup-problems/"><u>Get Your Assassin's Creed Revelations Up and Running: Fixes & Tips to Resolve Startup Problems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-reno-11f-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo Reno 11F 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-conundrum-of-tech-empathy-can-ai-mirror-our-feelings/"><u>The Conundrum of Tech Empathy: Can AI Mirror Our Feelings?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-itel-p55t-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Itel P55T Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-distinguished-crafters-superior-online-instagram-hlv-creators-for-2024/"><u>[New] Distinguished Crafters Superior Online Instagram HLV Creators for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-breaking-down-2023s-highest-viewed-tweets/"><u>2024 Approved Breaking Down 2023’S Highest-Viewed Tweets</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nubia-z50-ultra-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nubia Z50 Ultra Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cgp-a-verified-source-or-vague-suggestions/"><u>CGP: A Verified Source or Vague Suggestions?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-a54-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy A54 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-top-10-to-11-screen-capturing-tools-for-every-mac-user/"><u>In 2024, The Top 10 to 11 Screen Capturing Tools for Every Mac User</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/minds-eye-marvels-da-vinci-3s-top-30-ai-image-ideas/"><u>Mind’s Eye Marvels: Da Vinci 3'S Top 30 AI Image Ideas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-writing-tools-is-auto-gpt-worth-it-without-gpt-4-enhancement/"><u>Navigating AI Writing Tools: Is Auto-GPT Worth It without GPT-4 Enhancement?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swift-fixes-for-windows-installation-troubleshooting/"><u>Swift Fixes for Windows Installation Troubleshooting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-digital-revolution-in-classrooms-top-8-reasons-to-adapt-with-ai/"><u>The Digital Revolution in Classrooms: Top 8 Reasons to Adapt with AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-changer-essential-nintendo-switch-customizations/"><u>The Game Changer: Essential Nintendo Switch Customizations</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-infinix-smart-8-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Infinix Smart 8 Pro Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-browsing-experience-7-extensions-for-ai-enthusiasts/"><u>Transform Your Browsing Experience: 7 Extensions for AI Enthusiasts</u></a></li>
 </ul></div>
 

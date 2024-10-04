@@ -1,7 +1,7 @@
 ---
 title: Pushing the Envelope of ChatGPT Capabilities
-date: 2024-09-15T18:32:31.881Z
-updated: 2024-09-22T17:31:34.503Z
+date: 2024-09-29T22:51:50.731Z
+updated: 2024-10-04T00:21:38.783Z
 tags:
   - chatgpt
   - open-ai
@@ -66,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
  However, the current versions of ChatGPT only seem to be able to write simple malware programs, which can also be buggy at times. But regardless of this, [the chatbot can be exploited for malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Invade Personal Privacy or Security
 
  Since its launch in late 2022, [ChatGPT's potential as a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/) has been a point of concern. But can you use ChatGPT to invade someone else's personal boundaries?
@@ -82,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
  If you want ChatGPT to give you information on other people, you likely won't get far. The chatbot does not provide any personal information unless you have mentioned it during your conversation.
 
  Even if you mention some personal information in a ChatGPT conversation, you can [delete any ChatGPT conversations](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) as and when you wish.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Give Predictions
 
@@ -100,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
  It's better to consult dedicated websites or professionals if you're looking for solid predictions, be it in finance, politics, or sports.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Answer Bigoted or Hateful Questions
 
  As you may have guessed, ChatGPT is strictly against engaging with bigoted or hateful prompts. Racism, misogyny, homophobia, ableism, and transphobia are all a no-go for ChatGPT.
@@ -110,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
  Additionally, ChatGPT will not engage with any prompts that promote harm to the user or others.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Provide Its Own Opinion
 
  While ChatGPT does use artificial intelligence, it is not a sentient being. Because of this, ChatGPT cannot provide its own opinion on any topic or event.
@@ -119,6 +119,19 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
  If you ask ChatGPT for an opinion on something, you'll likely get a similar response to that shown below.
 
 ![chatgpt opinion request screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-opinion-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
 
@@ -133,10 +146,10 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
  At the time of writing, ChatGPT's browsing feature is disabled but is expected to return in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Isn't an All-in-One Solution
@@ -160,5 +173,19 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-5-best-ps2-emulators-android/"><u>[New] In 2024, 5 Best PS2 Emulators Android</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-camera-selection-guide-top-10-films-tools-ranked/"><u>[New] Pro Camera Selection Guide - Top 10 Films Tools Ranked</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fine-tune-your-cinematography-mastering-kinemaster-zoom-features/"><u>[Updated] Fine-Tune Your Cinematography Mastering Kinemaster Zoom Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unbeatable-8-webcams-for-clear-smooth-live-streaming/"><u>[Updated] Unbeatable 8 Webcams For Clear, Smooth Live Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-mechanisms-behind-ai-bot-censorship/"><u>Deciphering the Mechanisms Behind AI Bot Censorship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-dodging-chatgpt-written-errors/"><u>Expert Advice: Dodging ChatGPT' Written Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-to-know-the-most-recent-macbook-from-apple-what-just-debuted/"><u>Get to Know the Most Recent MacBook From Apple - What Just Debuted?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-excel-potential-via-three-chatgpt-techniques/"><u>Maximizing Excel Potential via Three ChatGPT Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-start-guide-making-your-gifs-count-as-emoji-stickers-in-telegram-for-2024/"><u>Quick-Start Guide Making Your GIFS Count as Emoji Stickers in Telegram for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-communication-gateway-gpt-plus-vpn/"><u>Secure Communication Gateway: GPT + VPN?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-game-changing-reasons-mastery-of-chatgpt-in-your-career/"><u>The Game-Changing Reasons: Mastery of ChatGPT in Your Career</u></a></li>
+<li><a href="https://win-dash.techidaily.com/this-title-clearly-states-the-purpose-of-the-content-a-guide-while-listing-all-relevant-versions-of-windows-and-indicating-that-its-a-downloadable-resource.158/"><u>This Title Clearly States the Purpose of the Content (a Guide) While Listing All Relevant Versions of Windows and Indicating that It's a Downloadable Resource.</u></a></li>
+</ul></div>
 

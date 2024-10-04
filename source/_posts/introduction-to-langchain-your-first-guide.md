@@ -1,7 +1,7 @@
 ---
 title: "Introduction to LangChain: Your First Guide"
-date: 2024-09-23T17:25:57.900Z
-updated: 2024-09-28T17:31:59.650Z
+date: 2024-10-02T19:06:47.671Z
+updated: 2024-10-03T16:16:23.496Z
 tags:
   - chatgpt
   - open-ai
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/3a448075901e947fee8e320c0c5a95f89ce7a4052
 * **Data Passing**: Due to the general text-based nature of LLMs, it is usually tricky to pass data to the model. LangChain solves this problem by using [indexes](https://docs.langchain.com/docs/components/indexing/). Indexes enable an application to import data in variable formats and store it in a way that makes it possible to serve it row-by-row to an LLM.
 * **Responses**: LangChain provides output parser tools to give answers in a suitable format as opposed to other LLMs whose model response consists of general text. When using AI in an application, it is preferred to have a structured response that you can program against.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Getting Started With LangChain LLM
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
@@ -84,13 +91,6 @@ from langchain.memory import ConversationBufferWindowMemory`
 
  The LangChain classes outline and execute the language model chains.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Access OpenAI API Key
 
  Next, get the OpenAI API key. To access OpenAI’s API key, you must have an OpenAI account, then move to the [OpenAI API platform](https://platform.openai.com/).
@@ -104,10 +104,16 @@ from langchain.memory import ConversationBufferWindowMemory`
 ![OpenAI API key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-page.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Enter the requested name of the API key.
@@ -118,14 +124,14 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
 
- Copy and store the API key in a safe place for future use.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Copy and store the API key in a safe place for future use.
 
 ## Developing an Application Using LangChain LLM
 
@@ -165,14 +171,14 @@ print(output)`
 
 ![Output of developing an application using LangChain](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-output.jpg)
 
- Above is the expected output.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Above is the expected output.
 
 ## The Rising Influence of LLMs
 
@@ -199,22 +205,18 @@ print(output)`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-quick-and-efficient-ipad-screen-recording-techniques-unveiled/"><u>[New] 2024 Approved Quick & Efficient iPad Screen Recording Techniques Unveiled</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-guide-for-capturing-console-playbacks-for-2024/"><u>[New] Essential Guide for Capturing Console Playbacks for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-discover-the-top-free-platforms-for-youtube-ops/"><u>2024 Approved Discover the Top Free Platforms for YouTube Ops</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-revolutionizing-audio-liberation-a-deep-dive-into-pazeras-extractor/"><u>2024 Approved Revolutionizing Audio Liberation A Deep Dive Into Pazera's Extractor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-revolutionaries-clash-palm-2-versus-gpt-4/"><u>AI Revolutionaries Clash: PaLM 2 Versus GPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bard-by-google-emerges-as-a-potent-contender-in-the-ai-arena-against-chatgpt/"><u>Bard by Google Emerges as a Potent Contender in the AI Arena Against ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciding-between-myai-and-chatgpt-an-in-depth-comparison-to-help-your-decision/"><u>Deciding Between MyAI and ChatGPT: An In-Depth Comparison to Help Your Decision</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excel-outshines-chatgpt-with-dynamic-multipurpose-power/"><u>Excel Outshines ChatGPT with Dynamic Multipurpose Power</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-iphone-timelapses-efficient-recording-tips/"><u>Master iPhone Timelapses Efficient Recording Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nine-futuristic-approaches-to-content-crafting-via-ai/"><u>Nine Futuristic Approaches to Content Crafting via AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/social-interaction-innovations-myai-or-googles-chatgpt/"><u>Social Interaction Innovations: MyAI or Google's ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-behavioral-techniques-with-gpt-assistance/"><u>Streamlining Behavioral Techniques with GPT Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/supreme-6-overachievers-heavyweight-lms-champions/"><u>Supreme 6 Overachievers: Heavyweight LMS Champions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-of-chatgpt-for-androidios/"><u>The Hidden Dangers of ChatGPT for Android/iOS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Motorola Moto E13? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-your-ai-interaction-signing-up-for-plugin-features/"><u>Upgrade Your AI Interaction: Signing Up for Plugin Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-chatgpt-fails-to-replace-human-writers-outright/"><u>Why ChatGPT Fails to Replace Human Writers Outright</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevate-edits-with-pixlr-ultimate-tips-list/"><u>[Updated] In 2024, Elevate Edits with Pixlr Ultimate Tips List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-update-the-latest-sony-s6500-model-review/"><u>[Updated] In-Depth Update The Latest Sony S6500 Model Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-you-really-getting-dolby-atmos-sound/"><u>Are You Really Getting Dolby Atmos Sound?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-asus-monitor-glitches-with-easy-fix-methods/"><u>End ASUS Monitor Glitches with Easy Fix Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-10-best-creative-youtube-video-reaction-ideas-you-should-know/"><u>In 2024, 10 Best Creative YouTube Video Reaction Ideas You Should Know</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-music-downloads-easily-change-soundcloud-songs-to-mp4-format-for-optimal-playback/"><u>Mastering Music Downloads: Easily Change SoundCloud Songs to MP4 Format for Optimal Playback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3windows-media-player-2024/"><u>MP3ファイルがうまく再生されない場合、Windows Media Player 2024で何をすべきか？解決策とヒント</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-are-you-thinking-about-whether-or-not-you-should-get-your-hands-on-a-vn-video-editor-for-mac-read-the-article-to-know-about-the-vn-video-e/"><u>New 2024 Approved Are You Thinking About Whether or Not You Should Get Your Hands on a VN Video Editor for Mac? Read the Article to Know About the VN Video Editors Unique Features and some of Its Alternatives</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-innovations-and-standouts-10-premier-podcast-hosting-providers/"><u>New Innovations and Standouts 10 Premier Podcast Hosting Providers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserving-video-fidelity-during-mov-file-format-change-to-m4v/"><u>Preserving Video Fidelity During MOV File Format Change to M4V</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-effective-guide-converting-mov-videos-into-mkv-format/"><u>Quick & Effective Guide: Converting MOV Videos Into MKV Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-merging-multiple-mp4-videos-a-simple-guide/"><u>Seamlessly Merging Multiple MP4 Videos: A Simple Guide</u></a></li>
 </ul></div>
 

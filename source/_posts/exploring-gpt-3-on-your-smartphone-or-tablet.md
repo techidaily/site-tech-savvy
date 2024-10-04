@@ -1,7 +1,7 @@
 ---
 title: Exploring GPT-3 on Your Smartphone or Tablet
-date: 2024-09-16T16:53:57.297Z
-updated: 2024-09-22T16:35:27.782Z
+date: 2024-09-26T17:45:29.390Z
+updated: 2024-10-04T00:55:26.996Z
 tags:
   - chatgpt
   - open-ai
@@ -87,11 +87,32 @@ Close
 
 ![SiriGPT insert API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-insert-api-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![SiriGPT prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-prompt-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  That's certainly a lot of work, and whether it's worth it depends on how much you use the shortcut. At its worst, it's a neat party trick, but at its best, you have the power of GPT in your hands, now with the voice of Siri powering it. Again, this is not the most convenient way of accessing ChatGPT, but it's surprising how well it works when it does.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Third-Party ChatGPT Apps for Android and iOS
 
@@ -105,13 +126,6 @@ Close
 
 ![perlexity-ai-invitation-screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perlexity-ai-invitation-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
 **Download:** Perplexity for [iOS](https://apps.apple.com/us/app/perplexity-ask-anything/id1668000334) (Free)
@@ -120,26 +134,32 @@ Close
 
 ![Nova GPT Android app homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-homescreen.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Nova GPT Android app prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-prompt.jpg)
 
 ![Nova GPT Android app text to speech](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-text-to-speech.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
 **Download:** Nova for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2024179/https://play.google.com/store/apps/details?id=com.scaleup.chatai&hl=en&gl=US) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Yourself From Scams
@@ -147,6 +167,13 @@ Close
  Amid all the excitement with AI, staying on your toes is important. You can easily fall victim to apps that steal your data, charge you for no reason, or annoy you with a constant barrage of ads.
 
  Your best bet is to go with the official app or use the web version in the absence of it. But, then, the Siri Shortcuts method is great, too. Furthermore, if you need a third-party ChatGPT app, stick with our recommendations. However, if you want the best experience, stick to the official ChatGPT website or the official ChatGPT app, or try Microsoft's Bing AI Chat.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Power of AI in the Palm of Your Hands
 
@@ -169,5 +196,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-leveraging-discord-for-efficient-media-broadcasting-techniques/"><u>[New] Leveraging Discord for Efficient Media Broadcasting Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chasing-deals-on-vr-gear-in-china/"><u>[Updated] Chasing Deals on VR Gear in China</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-select-a-premium-360-camera-today/"><u>[Updated] How to Select a Premium 360 Camera Today</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-dynamic-duels-revisited-best-hand-to-hand-games-ranked/"><u>[Updated] In 2024, Dynamic Duels Revisited Best Hand-to-Hand Games Ranked</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-revive-playstation-classics-the-5-best-android-emulation-software/"><u>[Updated] In 2024, Revive PlayStation Classics The 5 Best Android Emulation Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/biz-revolution-simplified-incoritsion-of-whisper-and-gptapis/"><u>Biz Revolution Simplified: Incoritsion of Whisper & GPTAPIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-chatgpts-memory-retention-feature/"><u>Eliminating ChatGPT’s Memory Retention Feature</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-epson-wf-er-7710-drivers-complete-guide-for-windows-users/"><u>Installing Epson WF-Er 7710 Drivers: Complete Guide for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-stagnation-in-human-progression-strategies-for-overcoming-non-launch-events/"><u>Resolving Stagnation in Human Progression: Strategies for Overcoming Non-Launch Events</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/separating-fact-from-fiction-in-ai-health-suggestions/"><u>Separating Fact From Fiction in AI Health Suggestions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-artificers-pitfall-spotting-pretend-projections-by-algorithms/"><u>The Artificer's Pitfall: Spotting Pretend Projections by Algorithms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-your-photographs-using-the-iphone-photos-app-an-easy-tutorial/"><u>Transform Your Photographs Using the iPhone Photos App: An Easy Tutorial</u></a></li>
+</ul></div>
 

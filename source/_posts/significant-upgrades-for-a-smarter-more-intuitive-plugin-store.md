@@ -1,7 +1,7 @@
 ---
 title: Significant Upgrades for a Smarter, More Intuitive Plugin Store
-date: 2024-09-17T19:12:01.989Z
-updated: 2024-09-22T18:39:54.687Z
+date: 2024-09-29T00:35:28.312Z
+updated: 2024-10-03T18:34:50.819Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
  If done right, a ratings and reviews system can help ChatGPT users immediately identify useful plugins and avoid wasting time trying to try out ones that don't work as advertised. It will also be a way for users to provide feedback to plugin developers and help developers understand what's needed and how they can improve their plugins.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Introduce Plugin Categorization
 
 ![Categorization in the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/categories-1.jpg)
@@ -58,15 +65,28 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
  This runs the risk of turning the innovative store into a collection of mediocre plugins, drowning out those that provide immense value to users. A stringent pre-publication review identifies and ensures that low-quality or buggy plugins are rejected, ensuring only stable, functioning plugins that solve a serious problem make it into the store. Overall, a strict review process will help improve user trust for plugins, reduce user risk, and benefit the entire ChatGPT plugin ecosystem.
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Provide Access to More Advance Development Tools
 
 ![chatgpt logo alongside cogs](https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b14ea9611940de411cb7abe5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While it's tempting to put the entire blame for low-quality plugins on developers, OpenAI isn't entirely exempted from the blame. Developers can only work within the limits of the access they're provided, and so far, the level of access is still superficial in many ways. While privacy and security remain a core concern for OpenAI's willingness to grant deeper access to their underlying AI model, without such access, the kind of plugins developers will be able to build is, unfortunately, quite limited.
@@ -76,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
  The solution? Improved, granular, and lower-level access to ChatGPT's underlying AI models. Granular access will allow developers to build more complex and powerful plugins that can harness the full capabilities of the model in innovative ways. And then maybe we'd be able to have plugins other than PDF readers and link readers everywhere on the plugin store.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OpenAI Should Rectify Early Missteps
@@ -107,5 +127,24 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-streamline-vimeo-video-publicity-tactics/"><u>[New] 2024 Approved Streamline Vimeo Video Publicity Tactics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-merging-primary-and-secondary-footage/"><u>[New] Comprehensive Guide Merging Primary and Secondary Footage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-imagination-to-reality-in-ai-artwork/"><u>Bridging Human Imagination to Reality in AI Artwork</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-ais-pivotal-role-in-prompt-creation-and-employment-trends/"><u>Dissecting AI's Pivotal Role in Prompt Creation & Employment Trends</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-most-recent-gigabyte-network-driver-for-enhanced-performance/"><u>Download the Most Recent Gigabyte Network Driver for Enhanced Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-your-films-innovative-kinemaster-transitions/"><u>Enhance Your Films Innovative Kinemaster Transitions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-code-with-microsoft-copilot-on-a-mac/"><u>Enhancing Your Code with Microsoft Copilot on a Mac</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-m14-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy M14 5G Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-polishing-job-experience-descriptions/"><u>In 2024, Polishing Job Experience Descriptions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-find-x7-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo Find X7 Phones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-ideation-strategies-leveraging-mind-mapping-and-chatgpt-synergy/"><u>Innovative Ideation Strategies: Leveraging Mind Mapping and ChatGPT Synergy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-6-standard-gpt-mistakes-and-remedies/"><u>Navigating Through 6 Standard GPT Mistakes & Remedies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-assessing-job-viability-and-growth-potential/"><u>Prompt Engineering: Assessing Job Viability and Growth Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/realize-creative-possibilities-with-openais-api-excellence/"><u>Realize Creative Possibilities with OpenAI's API Excellence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-with-chatgpt-and-android/"><u>Step Into the Future with ChatGPT and Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-ways-chatgpt-can-enhance-medical-guidance/"><u>Top 7 Ways ChatGPT Can Enhance Medical Guidance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-all-the-secrets-the-full-scoop-on-artificial-intelligence-from-apples-wwdc-2024/"><u>Unveiling All the Secrets: The Full Scoop on Artificial Intelligence From Apple's WWDC 2024</u></a></li>
+</ul></div>
 

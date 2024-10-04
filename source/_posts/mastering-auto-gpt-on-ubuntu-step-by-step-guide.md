@@ -1,7 +1,7 @@
 ---
 title: "Mastering Auto-GPT on Ubuntu: Step-by-Step Guide"
-date: 2024-09-19T18:19:10.179Z
-updated: 2024-09-22T16:23:51.823Z
+date: 2024-10-01T16:44:05.658Z
+updated: 2024-10-03T22:12:09.974Z
 tags:
   - chatgpt
   - open-ai
@@ -63,6 +63,13 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `cd Auto-GPT`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 1: Configure Auto-GPT on Ubuntu
 
  Now that you've correctly set up the environment for Auto-GPT, you need to configure your OpenAI API key as an environment variable.
@@ -74,6 +81,13 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  To generate an API key, click on the **Create new secret key** button, add any name, and copy the API key by pressing **Ctrl + C** or clicking the copy icon. You'll use this key as credentials for your AI assistant to use OpenAI's GPT technology.
 
 ![Creating OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-get-api-key.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once copied, paste the key inside the **.env** file. The env file will store all the API keys that you use with Auto-GPT. If you don't need a backend vector database like Pinecone, your OpenAI API key should be enough to use Auto-GPT.
 
@@ -101,6 +115,13 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Install Auto-GPT requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-install-requirements.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, try running Auto-GPT using:
 
 `python3 -m autogpt`
@@ -114,13 +135,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  With Auto-GPT installed, you can now make your own AI assistant. There are two modes when it comes to using Auto-GPT. In the default mode, you only need to provide a task. Based on the specified task, Auto-GPT will automatically generate your AI assistant's name, its role, and its goals.
 
 ![Auto-GPT auto mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-auto.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In manual mode, Auto-GPT will ask you to specify a name, a goal, and up to five goals you want the AI assistant to follow while doing its task. This mode allows you to be in control of how your AI assistant will function.
 
@@ -139,10 +153,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Input-Commands for Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-input-y.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can approve the AI's next action by typing "**y**" for yes. If you don't want the AI to continue with its plans, you can type "**n**" for no and exit.
@@ -153,16 +167,16 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Providing human feedback to Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-human-feedback.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once your AI assistant finishes its task, you can view its final output by opening the **/Auto-GPT-x.x.x/autogpt/auto\_gpt\_workspace** directory.
 
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
 
@@ -197,5 +211,26 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-perfecting-channel-art-a-step-by-step-instructional-manual/"><u>[New] 2024 Approved Perfecting Channel Art A Step-by-Step Instructional Manual</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-channel-your-earnings-effective-youtube-money-methods/"><u>[New] In 2024, Channel Your Earnings Effective YouTube Money Methods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-quantum-leap-the-most-astonishing-sci-fi-films-of-metaverses/"><u>[Updated] In 2024, Quantum Leap The Most Astonishing Sci-Fi Films of Metaverses</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-secrets-revealed-flawless-and-straightforward-ipad-screen-recording-for-2024/"><u>[Updated] Secrets Revealed Flawless and Straightforward iPad Screen Recording for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplify-gaming-sessions-with-xbox-zoom-techniques/"><u>2024 Approved Simplify Gaming Sessions with Xbox Zoom Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-ground-without-gpt-innovative-ai-for-code-autonomy/"><u>Breaking Ground Without GPT: Innovative AI for Code Autonomy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-fables-chatgpts-creative-edge/"><u>Crafting Fables: ChatGPT's Creative Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/duplicitous-chrome-app-thieves-of-social-media-login/"><u>Duplicitous Chrome App: Thieves of Social Media Login</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolving-knowledge-from-chatgpt-to-everyone/"><u>Evolving Knowledge From ChatGPT to Everyone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-powered-content-is-it-ses-kryptonite/"><u>GPT-Powered Content: Is It SE's Kryptonite?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-intelligence-gpt-4-elevates-ai/"><u>Pioneering Intelligence: GPT-4 Elevates AI</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-privacy-in-bespoke-gpt-scenarios/"><u>Protecting Privacy in Bespoke GPT Scenarios</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-the-silicon-sea-7-anticipated-shifts-in-security/"><u>Safeguarding the Silicon Sea: 7 Anticipated Shifts in Security</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/setting-up-a-liberated-chatgpt-on-pcs/"><u>Setting Up a Liberated ChatGPT on PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-false-identifications-in-apple-photos-for-easy-management/"><u>Troubleshoot False Identifications in Apple Photos for Easy Management</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor 90 Lite? | Dr.fone</u></a></li>
+</ul></div>
 

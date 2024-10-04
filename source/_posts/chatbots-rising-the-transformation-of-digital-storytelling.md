@@ -1,7 +1,7 @@
 ---
 title: "Chatbots Rising: The Transformation of Digital Storytelling"
-date: 2024-09-25T18:23:56.892Z
-updated: 2024-09-28T18:39:13.194Z
+date: 2024-09-29T18:51:18.297Z
+updated: 2024-10-03T18:19:51.093Z
 tags:
   - chatgpt
   - open-ai
@@ -52,33 +52,20 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
 
 ![ChatGPT Answering Question About Itself Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-stating-incorrect-information.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Despite these limitations, some writers wholly depend on ChatGPT for topic research. They want quick, convenient answers. However, you can’t replace proper research with AI chatbot conversations. You’ll end up publishing incorrect information.
 
  Many shady AI writers actually draw flak for spreading misinformation. Only use chatbots for preliminary research. Ask them to break down complex subjects before diving into academic journals and scholarly papers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Generic AI-Generated Articles Flood SERPs
 
 ![Google Analytics Google Search Results on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/google-search-results-on-smartphone.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unfortunately, you’ll find AI content ranking on Google. AI writers use the time and effort they save to improve their SEO, boosting page visibility. Some of them even utilize backlinks to fake authoritativeness.
 
@@ -87,16 +74,10 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
  The upside is that Google rewards well-researched content. Googlebot eventually replaces ranking AI articles that provide no added value to readers. Even results on page one could quickly drop. Just keep publishing quality pieces. You could also brush up on [Google’s helpful content guide update](https://www.makeuseof.com/tips-to-write-for-google-helpful-content-update/) to write even better.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Marketers Revamp Their SEO Strategies
@@ -108,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
  The below image shows Bing Chat’s keyword research on AI.
 
 ![Bing Chat Suggesting Keywords Based on Your Topic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-doing-seo-keyword-research.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Since Bing Chat wasn’t designed for SEO research, you must phrase your prompts properly. Don’t just say you need SEO analytics. Ask for specific data, like top-ranking LSI keywords, search volume analytics, and market trends.
 
@@ -127,18 +115,18 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
 
  But since they also use publicly available paraphrasing tools, Google still detects their template outputs. Their sites quickly lose authority afterwards. You can’t cheat the system. To produce original pieces with unique insights, research various official and non-official sources.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. More Articles Share Similar Angles
 
  AI chatbots produce template responses. They pull information from the exact datasets even if you regenerate responses several times. Take the below conversation as an example. This photo shows ChatGPT answering a general knowledge question about AI.
 
 ![ChatGPT Answering a Basic Question General Kowledge Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answers-general-knowledge-question-about-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We started a new chat and reused our prompt, but ChatGPT provided identical facts. It only rephrased its output.
 
@@ -157,10 +145,10 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
  Also, AI writing tools are unsustainable. [Google](https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t) prioritizes authoritative websites that publish well-researched articles—it might start cracking down on AI content soon. It already prohibits manipulating SERP rankings with AI, after all.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do AI Chatbots Positively or Negatively Impact the Content Industry?
@@ -188,18 +176,22 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-views-with-customized-thumbnail-sizes-on-youtube/"><u>[Updated] In 2024, Boosting Views with Customized Thumbnail Sizes on YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-video-crafting-for-the-modern-youtube-creator/"><u>[Updated] Video Crafting for the Modern YouTube Creator</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-teenyscreenmugger-evaluation-insights/"><u>2024 Approved TeenyScreenMugger Evaluation Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/banks-vs-ai-are-your-assets-safe-from-gpt-inspired-cyberthreats/"><u>Banks vs AI: Are Your Assets Safe From GPT-Inspired Cyberthreats?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquer-complexity-with-easy-auto-gpt-setup/"><u>Conquer Complexity with Easy Auto-GPT Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-do-i-transfer-my-ps4-titles-to-play-on-the-sony-ps5/"><u>How Do I Transfer My PS4 Titles to Play on the Sony PS5?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-lava-blaze-2-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Lava Blaze 2 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/improve-ai-dialogues-7-chrome-extension-picks/"><u>Improve AI Dialogues: 7 Chrome Extension Picks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-x100-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo X100 Pro to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-gt-5-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme GT 5 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-the-professional-landscape-top-6-reasons-for-mastering-chatgpt/"><u>Innovating the Professional Landscape: Top 6 Reasons for Mastering ChatGPT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-with-precision-advanced-techniques-in-utilizing-google-gemini/"><u>Navigating with Precision: Advanced Techniques in Utilizing Google Gemini</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-open-source-vision-for-visual-creators/"><u>Top Open-Source Vision for Visual Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-top-free-photo-editing-software-for-mac-comprehensive-list/"><u>1. Top Free Photo Editing Software for Mac - Comprehensive List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flac-wav-movavi/"><u>免費線上FLAC-WAV對換服務 - Movavi轉換工具解決方案</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726220170956-gifogv-movavi/"><u>無料動画形式変換ツール：GIFとOGVのためのオンラインマガジン - Movaviの詳細</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-gionee-f3-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Gionee F3 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/color-saturation-dropped-in-prints/"><u>Color Saturation Dropped in Prints</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-converter-web-service-transform-wmv-files-into-asf-format/"><u>Free Converter Web Service - Transform WMV Files Into ASF Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-omzetten-en-herstellen-van-online-bestandsen-met-movavi-zonder-inzichten/"><u>Gratis Omzetten En Herstellen Van Online Bestandsen Met Movavi - Zonder Inzichten</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuito-conversione-da-mov-ad-avi-su-internet-servizi-di-movavi/"><u>Gratuito Conversione Da MOV Ad AVI Su Internet - Servizi Di Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung Galaxy F54 5G? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-itel-p55-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Itel P55 5G?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-window-11s-power-saving-secrets/"><u>Inside Window 11'S Power-Saving Secrets</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-htc-u23-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your HTC U23 Phone Now with These Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-ricercati-siti-di-download-di-giochi-gratis-per-computer-ottobre-2024/"><u>Top 10 Ricercati Siti Di Download Di Giochi Gratis per Computer - Ottobre 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/transform-your-3gp-files-into-animation-music-video-amv-format-with-ease/"><u>Transform Your 3GP Files Into Animation Music Video (AMV) Format with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726220299174-wmvmp4-movavi/"><u>자이타리라인의 WMV/MP4 포맷터를 무료로 바꾸기: 최고 경품 Movavi</u></a></li>
 </ul></div>
 

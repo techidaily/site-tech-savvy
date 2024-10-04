@@ -1,7 +1,7 @@
 ---
 title: "Medical Mistakes: Reasons to Doubt ChatGPT Advice"
-date: 2024-09-20T16:47:42.503Z
-updated: 2024-09-22T16:26:36.213Z
+date: 2024-09-30T00:02:56.916Z
+updated: 2024-10-03T20:23:26.016Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
  Therefore, it cannot get current news on developments in medical fields. Yes, ChatGPT is unaware of the pig-to-human heart transplant or any other very recent breakthroughs in medical science.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. ChatGPT May Produce Incorrect Information
 
  ChatGPT can answer the questions you ask, but the responses can be inaccurate or biased. According to a [PLoS Digital Health](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198) study, ChatGPT performed with at least 50% accuracy across all USMLE examinations. And while it exceeded the 60% passing threshold in some aspects, there is still the possibility of error.
@@ -52,22 +59,16 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
  ChatGPT cannot perform a complete virtual checkup or even a physical examination; it can only reply to the symptoms you provide as messages. For a patient's safety and care, errors in physical examination—or completely ignoring physical examination—can be harmful. Because ChatGPT didn't physically examine you, it will offer an incorrect diagnosis.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. ChatGPT Can Provide False Information
 
 ![ChatGPT False Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-response.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A recent study by the [University of Maryland School of Medicine](https://www.medschool.umaryland.edu/news/2023/UM-School-of-Medicine-Study-Finds-ChatGPT-Helpful-for-Breast-Cancer-Screening-Advice-With-Certain-Caveats-.html) on ChatGPT's advice for breast cancer screening found the following results:
 
@@ -78,10 +79,16 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. ChatGPT Is Just an AI Language Model
@@ -89,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Not a Replacement for Your Doctor
 
@@ -115,5 +129,24 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-selecting-top-tech-for-aerial-and-visuals/"><u>[New] Selecting Top Tech for Aerial and Visuals</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-no-price-just-perfect-screen-recordings-on-android/"><u>[Updated] No Price, Just Perfect Screen Recordings on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-in-depth-evaluation-affordable-quality-and-rich-functions-in-the-keychron-c3-pro-wired-mechanical-keyboard/"><u>1. In-Depth Evaluation: Affordable Quality and Rich Functions in the Keychron C3 Pro Wired Mechanical Keyboard</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-assessing-the-financial-impact-of-music-videos/"><u>2024 Approved Assessing the Financial Impact of Music Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-record-games-with-no-hassle-nvidia-way/"><u>2024 Approved Record Games with No Hassle - NVIDIA Way</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-ultimate-guide-to-online-photo-cropting-accuracy/"><u>2024 Approved The Ultimate Guide to Online Photo Cropting Accuracy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerate-your-task-mastering-fast-application-launches-in-windows-11-with-easy-keyboard-commands/"><u>Accelerate Your Task: Mastering Fast Application Launches in Windows 11 with Easy Keyboard Commands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-10-entertaining-linux-terminal-commands-for-endless-hours-of-fun/"><u>Discover 10 Entertaining Linux Terminal Commands for Endless Hours of Fun</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-advanced-dell-xps-portables-say-goodbye-to-traditional-trackpads-with-integrated-haptic-solutions-and-adaptive-illuminated-keys/"><u>Discover the Advanced Dell XPS Portables - Say Goodbye to Traditional Trackpads with Integrated Haptic Solutions and Adaptive Illuminated Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-techniques-for-utilizing-the-dig-command-on-a-linux-system/"><u>Effective Techniques for Utilizing the 'Dig' Command on a Linux System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-google-pixel-7a-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Google Pixel 7a For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/reclaim-social-media-control-from-algorithms/"><u>Reclaim Social Media Control From Algorithms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-essential-windows-applications-must-have-tools-for-your-pc/"><u>Top 7 Essential Windows Applications: Must-Have Tools for Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-no-cost-aims3d-and-inkscape-professional-design-tools-to-replace-adobe-suite-on-windows/"><u>Top Rated No-Cost AIMS3D and Inkscape: Professional Design Tools to Replace Adobe Suite on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformar-imagens-jpeg-em-bmp-com-a-movavi-ferramenta-gratuita-e-facil-online/"><u>Transformar Imagens JPEG Em BMP Com a Movavi: Ferramenta Gratuita E Fácil Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-users-ultimate-tutorial-for-easy-python-installation/"><u>Windows Users' Ultimate Tutorial for Easy Python Installation</u></a></li>
+</ul></div>
 

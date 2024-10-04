@@ -1,7 +1,7 @@
 ---
 title: "Day-to-Day Duo Debate: Claude and Generative Power"
-date: 2024-09-17T16:18:35.337Z
-updated: 2024-09-22T16:12:49.869Z
+date: 2024-10-01T22:44:05.318Z
+updated: 2024-10-03T17:50:04.679Z
 tags:
   - chatgpt
   - open-ai
@@ -102,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 
  So, how does Claude compare to ChatGPT?
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Claude's Pros
 
  There are some [ways in which Claude outshines ChatGPT](https://www.makeuseof.com/ways-claude-ai-chatbot-better-than-chatgpt/), which we'll get into here.
@@ -125,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 
  Lastly, Claude 2 is entirely free to use, with no one-off fees or monthly subscriptions required for use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Claude's Cons
 
  Claude's biggest limitation is geographical availability. At the time of writing, Claude is only available to US and UK residents, while ChatGPT is available in most countries worldwide.
@@ -137,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Creative Abilities
 
  First, we asked both Claude and ChatGPT to provide us with a poem using the same prompt each time.
@@ -145,18 +152,32 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
 
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Mathematical Abilities
 
@@ -166,25 +187,18 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When given the same problem, Claude gave us the following response:
 
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Translation
 
@@ -201,13 +215,6 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 > Flowers bloom in spring, but they also bloom in summer. The grass beyond the meadow is green. The aroma of the tree bark makes for a rich atmosphere.
 
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT and Claude May Become Close Rivals
 
@@ -228,5 +235,22 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-understanding-ip-rules-for-instasongs/"><u>[New] 2024 Approved Understanding IP Rules for InstaSongs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-optimizing-your-workflow-efficiently-editing-360-degree-videos-in-premiere-pro/"><u>[New] Optimizing Your Workflow Efficiently Editing 360 Degree Videos in Premiere Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-editors-assistant-top-5-portable-devices-for-vfx-artists/"><u>[Updated] 2024 Approved Editor's Assistant Top 5 Portable Devices for VFX Artists</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-journey-into-virtual-realms-best-8-metaverse-visors-and-goggles-for-2024/"><u>[Updated] Journey Into Virtual Realms Best 8 Metaverse Visors & Goggles for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-speedy-sonic-tuning-devices-index-pc-tablet/"><u>[Updated] Speedy Sonic Tuning Devices Index (PC, Tablet)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-top-10-igtv-channels-you-should-start-following-now/"><u>2024 Approved Top 10 IGTV Channels You Should Start Following Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/androidios-accessibility-with-chatgpt/"><u>Android/iOS Accessibility with ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fading-audio-tracks-with-ease-in-adobe-premiere-pro-for-2024/"><u>Fading Audio Tracks with Ease in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-powered-gameplay-the-dandd-advantage-guide/"><u>GPT-Powered Gameplay: The D&D Advantage Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-presentations-7-leading-ai-innovators/"><u>Revolutionizing Presentations: 7 Leading AI Innovators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tracing-sentimental-codes-in-artificayer-emotion-interaction/"><u>Tracing Sentimental Codes in Artificayer-Emotion Interaction</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformez-votre-fichier-mkv-en-mp4-sans-depenser-un-centime-sur-place-avec-moveavi/"><u>Transformez Votre Fichier MKV en MP4 Sans Dépenser Un Centime - Sur Place Avec MoveAVI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-verse-potential-with-intelligent-ai-assistance/"><u>Unlocking Verse Potential with Intelligent AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gptbotinasmuch-as-it-challenges-copyright-norms/"><u>Unveiling GPTBot'inasmuch As It Challenges Copyright Norms</u></a></li>
+</ul></div>
 

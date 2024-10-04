@@ -1,7 +1,7 @@
 ---
 title: What Does Generative AI Entail? A Brief Overview
-date: 2024-09-26T18:16:29.382Z
-updated: 2024-09-28T16:38:26.987Z
+date: 2024-10-02T21:23:57.096Z
+updated: 2024-10-03T17:04:06.427Z
 tags:
   - chatgpt
   - open-ai
@@ -46,46 +46,52 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
  So if you want to create a generative AI model that generates pictures of cars, you'd have to feed the model a huge dataset of car images. To create an impressive model, you'd need to feed it pictures of as many car brands and models as you can think of. With enough training, the algorithm will learn what each car brand or model looks like, and we'll be able to create images of almost any car you can think of on demand.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Popular Generative AI Models
 
  There are hundreds of generative AI models currently in development or already being deployed in the consumer AI market. Some of the popular ones you should know of include:
 
 <!-- affiliate ads begin -->
-<span id="1983573">
+<span id="1983553">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Generative Pre-Trained Transformer (GPT)
 
 ![chatgpt 4 answer question on number of data points june 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-4-answer-question-on-number-of-data-points-june-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  GPT, developed by OpenAI, is among the most recognizable names in the generative AI space. Its popularity hinges on its effectiveness as a conversational AI model and the viral success of the ChatGPT chatbot, which uses GPT as its underlying technology. It is a large language model designed to generate human-like text when prompted. Typical of any generative AI model, [all iterations of the GPT model](https://www.makeuseof.com/gpt-models-explained-and-compared/) have been trained on a massive amount of diverse text data.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Pathways Language Model (PaLM)
 
  PaLM, an experimental large language model by Google, is a powerful generative AI model capable of performing a large range of tasks like creative writing, code generation, language translation, and a number of other text-based natural language tasks. Like GPT, PaLM was trained on a large corpus of text data sourced from a wide array of sources across the web. It is [the AI model that powers Google's Bard AI](https://www.makeuseof.com/what-is-google-palm-2/).
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Music Language Model (MusicLM)
 
@@ -97,13 +103,6 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
  Beyond generative AI models, you'll also find generative AI products like Midjourney, DALL-E image generator, Stable Diffusion image generator, Hugging Chat, and several other impressive AI products powered by generative AI models.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Has Generative AI Exploded In Popularity?
 
  On 30th November 2022, OpenAI CEO Sam Altman announced the launch of ChatGPT in a tweet. Despite being OpenAI's CEO, Altman was relatively unknown in the larger internet community, and his tweet came with little to no fanfare.
@@ -113,6 +112,13 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  While ChatGPT has been the tip of the spear in propelling the hype around generative AI, it didn't do it alone. 2022 will be remembered as the year generative AI tools went mainstream. From conversational AI chatbots to code and art generators, the second half of 2022 was the first time multiple AI tools that had both mass appeal and practical day-to-day uses had hit the market. With these tools came the popularity of its underlying technology—generative AI.
 
  Generative AI tools such as Bing AI, Google's Bard, DALL-E, ChatGPT, and Midjourney have seamlessly woven themselves into the fabric of our daily lives, constantly presenting us with their remarkable creations. Whether it's the captivating write-ups crafted by ChatGPT or the astonishingly lifelike images conjured by Midjourney, generative AI has become an ever-present companion, accompanying us day in and day out. This is the genesis of the recent popularity of generative AI.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Embrace Generative AI
 
@@ -135,17 +141,24 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-master-your-pcs-sounds-with-easy-recording-tool-x-recorder/"><u>[New] Master Your PC's Sounds with Easy Recording Tool – X-Recorder</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-video-cinematography-choosing-the-right-lenses/"><u>2024 Approved Pro Video Cinematography Choosing the Right Lenses</u></a></li>
-<li><a href="https://article-files.techidaily.com/access-no-cost-vod-media-player-on-windowsmacos-for-2024/"><u>Access No-Cost VOD Media Player on Windows/MacOS for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-governance-oversight-organizations/"><u>AI Governance: Oversight Organizations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bring-your-vision-to-life-incorporating-free-lut-filters-into-obs-projects-for-2024/"><u>Bring Your Vision to Life Incorporating Free LUT Filters Into OBS Projects for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delving-into-ai-prompt-design-professional-trajectory-analysis/"><u>Delving Into AI Prompt Design: Professional Trajectory Analysis</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/diy-guide-mastering-the-art-of-self-ejecting-iphones/"><u>DIY Guide: Mastering the Art of Self-Ejecting iPhones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-business-strategies-with-chatgpt-insights-and-ideas/"><u>Enhancing Business Strategies with ChatGPT Insights and Ideas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gateway-to-advanced-ai-without-expenditure-4-methods/"><u>Gateway to Advanced AI Without Expenditure: 4 Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-safari-image-errors-9-proven-solutions/"><u>IPhone Safari Image Errors: 9 Proven Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pros-cons-ai-driven-creative-writing-tools/"><u>Pros, Cons: AI-Driven Creative Writing Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/quick-and-simple-guide-transforming-rpl-files-into-mp4-in-minutes/"><u>Quick & Simple Guide: Transforming RPL Files Into MP4 in Minutes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-how-to-autoplay-facebook-videos/"><u>[New] 2024 Approved How to Autoplay Facebook Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-ensure-continuous-playback-of-youtube-videos-on-fb/"><u>[Updated] How to Ensure Continuous Playback of YouTube Videos on FB</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-ideal-practices-for-mobile-and-dslr-crafting-impeccable-igtv-videos/"><u>[Updated] In 2024, Ideal Practices for Mobile & DSLR Crafting Impeccable IGTV Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-stealth-watch-instagram-stories-without-profile-links-pc-android-ios-for-2024/"><u>[Updated] Mastering Stealth Watch Instagram Stories Without Profile Links [PC, Android, iOS] for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726224262254-avivob-movavi/"><u>天井のないオンラインで無料でAVIとVOBを変換する - Movavi</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elevate-your-gaming-experience-4-techniques-for-gameplay-snaps-for-2024/"><u>Elevate Your Gaming Experience 4 Techniques for Gameplay Snaps for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-mxf-to-mpeg-omzetter-tool-zoek-de-beste-waarderende-codec-conversie-met-movavi/"><u>Gratis Online MXF-to-MPEG Omzetter Tool - Zoek De Beste Waarderende Codec-Conversie Met Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-webm-to-flac-converter-online-movavi/"><u>Gratis WebM-to-FLAC Converter Online - Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/il-processo-di-rallentamento-ottimale-scoperte-e-tecniche-per-la-slowdown-video-nel-2024/"><u>Il Processo Di Rallentamento Ottimale: Scoperte E Tecniche per La Slowdown Video Nel 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-x100-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-windows-hdri-a-users-editing-handbook/"><u>In 2024, Windows HDRI A User’s Editing Handbook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-office-meetings-the-ultimate-guide-to-changing-your-microsoft-teams-background-with-ease/"><u>Mastering Office Meetings: The Ultimate Guide to Changing Your Microsoft Teams Background with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-mp4/"><u>Movavi 브로드캐스트 소개: MP4 비디오를 원형으로 만들기 위한 단계별 지침</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-mp4aac/"><u>Movavi: 最新の無償MP4動画AACフォーマット変換ツール</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-computing-trustworthy-advice-from-tom/"><u>Navigate the World of Computing: Trustworthy Advice From Tom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professionals-guide-to-top-10-fcp-tools-for-2024/"><u>Professional's Guide to Top 10 FCP Tools for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-15-free-raw-image-editing-tools-the-ultimate-guide-by-movavi/"><u>Top 15 Free RAW Image Editing Tools: The Ultimate Guide by Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-tuoi-audio-m4a-in-mp3-ad-alta-qualita-usando-il-solido-convertitore-movavi-prova-ora-gratuitamente/"><u>Trasforma I Tuoi Audio M4A in MP3 Ad Alta Qualità Usando Il Solido Convertitore Movavi - Prova Ora Gratuitamente!</u></a></li>
 </ul></div>
 

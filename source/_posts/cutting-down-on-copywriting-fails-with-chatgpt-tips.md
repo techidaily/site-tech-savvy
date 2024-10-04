@@ -1,7 +1,7 @@
 ---
 title: Cutting Down on Copywriting Fails with ChatGPT Tips
-date: 2024-09-17T18:57:19.201Z
-updated: 2024-09-22T17:32:27.438Z
+date: 2024-09-27T18:29:36.838Z
+updated: 2024-10-03T21:39:56.302Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 
  If you're learning to use ChatGPT for content creation, include [what AI hallucination is and how you can spot it](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) in your list of topics to master. More importantly, don't disregard human judgment and creativity. Remember, AI should augment your thinking and not replace it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't Ask ChatGPT for Research Links
 
  You'd likely be disappointed if you asked ChatGPT for internet links to research sources. ChatGPT will give you links, but they will be the wrong ones or not necessarily the best ones on the web.
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
  To test, we asked ChatGPT to give us JSTOR research paper links on British young adult fantasy writers who have written coming-of-age stories. The AI gave us five resources with titles, volume numbers, page numbers, and authors.
 
 ![ChatGPT giving JSTOR links to wrong resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-46.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  At first glance, the list looks credible. The JSTOR articles have impressive-sounding titles like "Constructing Hybrid Identity: Race and Nation in Sally Green's Half Bad Trilogy." But a Google search would quickly show that most links lead to the wrong JSTOR articles. One of the links led to a 404 landing page.
 
@@ -79,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 * Use more appropriate online resources for your research.
 * If you need sources for academic research, check [Google Scholar](https://scholar.google.com/) or [Elicit](http://elicit.org/), an AI research assistant.
 * Remember to critically assess the results and exercise judgment when selecting which ones to cite.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Don't Replace Workplace Connections With ChatGPT
 
@@ -105,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 ![ChatGPT giving a wrong answer to a prompt asking for a summary of Eric Allen's article on Hackernoon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To help ChatGPT, we copy-pasted the article in parts and asked for a summary after each upload. This time, ChatGPT was able to accomplish the task accurately. At one point, it gave us a comment instead of a summary, but we redirected it using another prompt.
@@ -118,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
  This example was a learn-by-doing experiment on how to use ChatGPT to summarize long and technical articles effectively. However, you can now access many internet resources and [learn prompting techniques to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/).
 
  Using recommended prompts is not a fail-safe method against hallucinations, but it can help you deliver accurate results. You can also review the [best ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) for more information on prompting techniques.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Maximize ChatGPT Capabilities, but Be Mindful of Its Limits
 
@@ -149,5 +163,18 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-secrets-of-facebook-cover-vids-for-aspiring-social-media-stars/"><u>2024 Approved Secrets of Facebook Cover Vids for Aspiring Social Media Stars</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-seamless-swivel-rotating-your-media-masterpieces-on-social-sites/"><u>2024 Approved The Seamless Swivel Rotating Your Media Masterpieces on Social Sites</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparative-guide-to-the-metaverse-and-multiplemetaverse-platforms-insightful-analysis-for-2024/"><u>Comparative Guide to the Metaverse & MultipleMetaverse Platforms (Insightful Analysis) for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easily-convert-wmv-videos-to-mp4-using-a-free-tool-compatible-with-mac-osx-and-windows-10-pcs/"><u>Easily Convert WMV Videos to MP4 Using a Free Tool Compatible with Mac OSX and Windows 10 PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-spaces-weaving-in-the-essence-of-daylight/"><u>In 2024, Inside Spaces Weaving in the Essence of Daylight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-chatgpt-access-roadblocks/"><u>Navigating Through ChatGPT Access Roadblocks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-ai-markets-for-creativity-exchange/"><u>Prime AI Markets for Creativity Exchange</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205973875-quick-fix-for-err-too-many-redirects-easy-steps-inside/"><u>Quick Fix for ERR TOO MANY REDIRECTS – Easy Steps Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-entering-and-exiting-your-iphones-safe-mode/"><u>Step-by-Step Guide: Entering & Exiting Your iPhone's Safe Mode</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitter-strips-emojis-linuss-secrets-exposed-trojan-threats-unveiled-and-chatbot-pitfalls/"><u>Twitter Strips Emojis, Linus's Secrets Exposed, Trojan Threats Unveiled, & ChatBot Pitfalls.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-chatgpts-power-in-android-with-simple-steps/"><u>Unlock ChatGPT's Power in Android with Simple Steps</u></a></li>
+</ul></div>
 

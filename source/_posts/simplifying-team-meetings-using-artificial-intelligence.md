@@ -1,7 +1,7 @@
 ---
 title: Simplifying Team Meetings Using Artificial Intelligence
-date: 2024-09-20T16:24:26.780Z
-updated: 2024-09-22T19:05:51.578Z
+date: 2024-10-01T22:44:38.842Z
+updated: 2024-10-03T22:51:18.338Z
 tags:
   - chatgpt
   - open-ai
@@ -44,13 +44,34 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
 ![ChatGPT asnwering the prompt "ideas for improving the collaboration between the project management department and the health and safety department during the installation of a new injection moulding machine on site"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/brainstorming-ideas-using-chatgpt.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT can also be used to brainstorm great ideas during a virtual meeting. For example, you can open the AI in another window and ask it to provide intuitive suggestions about the topics under discussion. These ideas can then be passed to the meeting members, and everyone can discuss their viability.
 
  ChatGPT can help provide a new angle that may solve the issue more efficiently. It can also provide a good starting point for your team to come up with fresh new ideas of their own. You can streamline this process of asking ChatGPT for new ideas by [using your voice to control ChatGPT](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Summarize the Meeting Transcript
 
 ![ChatGPT answering the prompt "Summarize this transcript in 150 words. I just need to know what was discussed in bullet points"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/summarizing-meeting-transcripts-using-chatgpt.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  An intuitive and time-saving way to use ChatGPT for your online session is to have it summarize the meeting transcript. All you have to do is provide the transcript and ask ChatGPT to summarize it within a word count of your choice.
 
@@ -59,28 +80,15 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
  Since the meeting is being conducted online, it can be recorded. You can then use an app like [Rev to transcribe your audio files](https://www.makeuseof.com/how-good-is-rev-transcribing-audio-files/). If the transcription is in PDF form, there is no need to worry. There are [several ways to let ChatGPT read PDF files](https://www.makeuseof.com/chatgpt-read-pdf-ways/) as well.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Decide the Next Course of Action
 
 ![ChatGPT answering the prompt "What is the next course of action based on the transcription of the meeting we just had"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/deciding-the-next-course-of-action-using-chatgpt.jpeg)
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  An essential part of meeting minutes is to jot down all follow-up actions at the end. This helps clarify what needs to be done next and prevents misunderstandings. Again, ChatGPT can help you with this at the press of a key.
 
@@ -109,5 +117,24 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-growth-strategies-for-youtube-videos-6-effortless-approaches-for-2024/"><u>[New] Growth Strategies for YouTube Videos 6 Effortless Approaches for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-create-memorable-thumbnails-discover-these-8-youtube-aids/"><u>[Updated] Create Memorable Thumbnails - Discover These 8 YouTube Aids</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-fundamental-narrative-structure-for-2024/"><u>[Updated] Fundamental Narrative Structure for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-secrets-of-successful-online-entrepreneurs-on-fb/"><u>[Updated] Secrets of Successful Online Entrepreneurs on FB</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oneplus-nord-ce-3-lite-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove OnePlus Nord CE 3 Lite 5G Fingerprint Lock</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-the-power-of-pip-on-modern-edge-browser/"><u>Explore the Power of PIP on Modern Edge Browser</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nokia-g22mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nokia G22Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-whats-ideal-for-you-understanding-vimeo-membership-tiers/"><u>In 2024, What's Ideal for You? Understanding Vimeo Membership Tiers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-practices-ensuring-safety-while-acquiring-new-applications-online/"><u>Secure Practices: Ensuring Safety While Acquiring New Applications Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solve-the-blank-cursor-issue-top-6-strategies-for-when-your-text-cursor-goes-white-in-windows/"><u>Solve the Blank Cursor Issue: Top 6 Strategies for When Your Text Cursor Goes White in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-accessing-windows-11s-group-policy-editor/"><u>Step-by-Step Guide: Accessing Windows 11'S Group Policy Editor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-adding-programs-from-the-microsoft-store-onto-your-windows-10-pc/"><u>Step-by-Step Guide: Adding Programs From the Microsoft Store Onto Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-solution-resolving-exit-code-e-in-minecraft-when-playing-on-a-windows-pc/"><u>Step-by-Step Solution: Resolving 'Exit Code E in Minecraft when Playing on a Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-for-burning-mp3s-directly-from-compact-discs-using-windows-software/"><u>Step-by-Step Tutorial for Burning MP3s Directly From Compact Discs Using Windows Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-tweaking-mouse-pointer-appearance-in-windows-10-for-personalized-comfort/"><u>Step-by-Step Tutorial: Tweaking Mouse Pointer Appearance in Windows 10 for Personalized Comfort</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-creative-process-behind-developing-the-iconic-3d-pipes-windows-wallpaper/"><u>The Creative Process Behind Developing the Iconic 3D Pipes Windows Wallpaper</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-5-choice-of-online-meeting-recorder-gadgets-for-2024/"><u>Ultimate 5 Choice of Online Meeting Recorder Gadgets for 2024</u></a></li>
+</ul></div>
 

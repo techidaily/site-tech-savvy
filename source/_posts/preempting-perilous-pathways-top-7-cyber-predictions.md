@@ -1,7 +1,7 @@
 ---
 title: "Preempting Perilous Pathways: Top 7 Cyber Predictions"
-date: 2024-09-20T16:53:06.970Z
-updated: 2024-09-22T16:39:43.926Z
+date: 2024-10-02T23:18:12.798Z
+updated: 2024-10-03T22:48:55.512Z
 tags:
   - chatgpt
   - open-ai
@@ -44,9 +44,29 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Increased Digital Supply Chain Attacks
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
@@ -81,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own [Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/). It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
@@ -94,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
  According to a [Statista report](https://www.statista.com/statistics/1377569/worldwide-annual-internet-of-things-attacks/), global IoT cyberattacks increased by over 243 percent between 2018 and 2022, from 32.7 million annual attacks, to a shocking 112.29 million.
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Further Exploit of Cloud Platforms
 
@@ -112,15 +125,22 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Continued Topical Email Scams
 
 ![laptop surrounded by cybersecurity buzzwords](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.
@@ -150,5 +170,20 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-youtube-success-with-tubebuddy-for-2024/"><u>[New] The Ultimate Guide to YouTube Success with TubeBuddy for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-your-guide-to-affordable-android-recording-with-top-8-free-apps-for-2024/"><u>[New] Your Guide to Affordable Android Recording with Top 8 Free Apps for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-perfecting-obs-streams-for-direct-facebook-engagement/"><u>[Updated] 2024 Approved Perfecting OBS Streams for Direct Facebook Engagement</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-find-anything-you-want-to-know-about-instagram-video-limit-for-2024/"><u>[Updated] Find Anything You Want to Know About Instagram Video Limit for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamline-your-skype-experience-with-obs-recordings/"><u>[Updated] In 2024, Streamline Your Skype Experience with OBS Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assisted-wellbeing-safe-practices-in-counseling/"><u>AI-Assisted Wellbeing: Safe Practices in Counseling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/culinary-creativity-unlocked-by-digital-mentors-chatgpt/"><u>Culinary Creativity Unlocked by Digital Mentors (ChatGPT)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dawn-of-digital-symphony-chatgpts-role-in-sound-design/"><u>Dawn of Digital Symphony: ChatGPT's Role in Sound Design</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-headphones-detected-by-windows-10-during-playback-for-smooth-audio-experience/"><u>How to Get Your Headphones Detected by Windows 10 During Playback for Smooth Audio Experience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-idevice-guide-for-youtube-video-upload/"><u>In 2024, Step-by-Step iDevice Guide for YouTube Video Upload</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-visual-storytelling-the-cutting-edge-6-instagram-reel-tools-for-2024/"><u>Mastering Visual Storytelling The Cutting-Edge 6 Instagram Reel Tools for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfected-phrasing-eliminating-mistakes-using-chatgpt/"><u>Perfected Phrasing: Eliminating Mistakes Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-titans-speak-out-discovering-ai-chatbot-kingpins/"><u>Tech Titans Speak Out: Discovering AI Chatbot Kingpins</u></a></li>
+</ul></div>
 

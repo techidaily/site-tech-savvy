@@ -1,7 +1,7 @@
 ---
 title: Harnessing ChatGPT for Professional Résumé Success
-date: 2024-09-15T18:41:58.160Z
-updated: 2024-09-22T17:43:52.463Z
+date: 2024-09-28T21:34:13.919Z
+updated: 2024-10-03T17:22:09.940Z
 tags:
   - chatgpt
   - open-ai
@@ -32,245 +32,18 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
  Standing out with your resume can be a huge challenge, but ChatGPT is a great tool to generate ideas and automate some of your editing. Learn how to write a high-quality resume with ChatGPT and how to fix common errors.
 
-## How to Write Your Resume With ChatGPT From Scratch
-
- When writing your resume with ChatGPT, you can choose to either write everything from scratch or use a plugin. If you don't have a premium subscription, you're limited to using ChatGPT without custom GPTs. Let's start by looking at how to use the free version.
-
-### How to Draft a Resume Outline With ChatGPT
-
- Contrary to popular belief, writing a resume in ChatGPT isn't as simple as a one-and-done prompt. You need to build on the information you add over time. Before adding customized information, it's worth asking the AI tool for a simple outline. To do this, I asked ChatGPT:
-
-> "Can you please help me write a resume? I want to land a job as a photographer at an agency."
-
- It's also worth asking ChatGPT to keep everything to one page if that's your preference. ChatGPT provides a simple outline, including suggestions to add contact information, related skills, and a statement or summary.
-
-![A resume outline developed with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-14-45.png)
-
- ChatGPT also suggested that we add references, related educational and professional history, and links to our portfolio.
-
-![ChatGPT resume outline asking us to add education, professional experience, etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-15-02.png)
-
- With these basics, you can spend some time thinking about how you want to customize your resume. Before you move on to the next section, consider learning about the most common [ChatGPT prompting mistakes to avoid](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/).
-
-### How to Write Your Professional Experience and Resume Summary With ChatGPT
-
- With an overall outline of your resume, you can start filling it out step-by-step. Based on our testing, it’s best to start with your professional experience. This will make it much easier for ChatGPT to generate the rest of your resume appropriately. I gave ChatGPT this prompt:
-
-> "For Professional Experience: I have run my own Instagram page for six years about landscape photography. I have grown it to 25,000 followers and achieved 300% year-on-year growth this year. I also have my own blog which has 100,000 monthly readers about travel in the US, for which I have taken all of the pictures. As a freelancer, I have a retainer with my local newspaper and have also worked with agencies. For one agency project, my images helped contribute to a campaign generating $10 million in revenue. Can you please add this to the Professional Experience section and re-generate the draft?"
-
- ChatGPT then fleshed out my **Professional Experience** section based on this information. You can ask to have your start and (if applicable) end dates added, but you can also add these manually if you'd prefer. Here's what ChatGPT gave me:
-
-![Professional Experience Outlined in a Resume With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-28-39.png)
-
- Rather helpfully, ChatGPT also adjusted my **Objective Statement** with the information provided:
-
-![An Objective Statement in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-31-09.png)
-
- The initial summary was quite long, so I asked ChatGPT to shorten it to 150 characters. But since that wasn't very informative, I upped the parameters to three sentences and 280 characters. The result was much better:
-
-![An edited resume summary in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-33-53.png)
-
- Besides avoiding common errors within ChatGPT, you should [avoid easy-to-overlook resume mistakes](https://www.makeuseof.com/resume-mistakes-easy-to-overlook/) when looking for a new job. Examples include putting education above experience and not customizing your resume for each application. You may also want to learn [how to create a resume in Canva](https://www.makeuseof.com/tag/how-to-create-resume-using-canva/) if you're interested in eye-catching designs.
-
-### How to Use ChatGPT to Outline Skills in Your Resume
-
- Ultimately, your employer will want your skills to match their job opening. Make sure you showcase them in the best way possible when writing your resume with ChatGPT. I gave quite a detailed prompt here:
-
-> "Perfect. Now, let's outline my skills. I'm advanced in Adobe Lightroom and Photoshop, with knowledge of color grading, editing exposure, and using histograms and layers. I also have an Adobe CC All Apps subscription. Furthermore, I've taken over 200,000 photos in various conditions, including golden hour and at night—along with during the winter and summer. Soft skills include time management (I use Google Calendar to block out my entire day) and being excellent at communicating with other people. My visual storytelling skills are evident in my 1,000+ blog posts that clearly highlight the full story of each journey I take. I also know how to use Fujifilm, Nikon, Sony, and Canon mirrorless cameras."
-
- ChatGPT then gave me a relatively detailed summary of the skills I asked it to showcase:
-
-![A summary of a person's skills on a resume created with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-44-08.png)
-
- I felt like these needed some more information, so I then asked ChatGPT:
-
-> "I think we need to add a bit more. Let's also talk about my creative skills, and move Visual Storytelling into that section. I know all about the exposure triangle and experimenting with different forms of lighting, along with using aperture priority, manual, and shutter priority modes."
-
- The edited section was much better and outlined the creative skills I wanted to showcase in further detail (along with putting these in a separate area).
-
-![Revised skills in a resume in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-46-26.png)
-
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
- ChatGPT also included the soft skills section that was in the first draft:
-
-![Skills outlined in a resume in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-47-54.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
- Once you've got the information you need, you can add these to your resume and tweak them further if you feel like doing so is necessary. Either way, it's important to proofread everything and make sure your resume is accurate before you send it to potential employers.
-
-## How to Add Your Educational History to Your Resume With ChatGPT
-
- While employers care more about your work and project experience than your education, the skills you pick up while studying are still worth adding. To start, I gave ChatGPT this prompt:
-
-> "Great, let's now move on to educational experience. I studied journalism at university, during which I did several multimedia programs and an optional photojournalism module. I learned how to tell stories through pictures and what captivates audiences, along with the best photographic practices and how to maintain integrity. At university, I also freelanced for companies in the local area and founded my own media team for the university's basketball team."
-
- ChatGPT gave me the following after I asked it to also include course dates and locations, which was pretty good:
-
-![Educational history on a ChatGPT resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-55-26.png)
-
- If you're specifically going for a job in the tech space, consider checking out [the best resume templates for tech professionals](https://www.makeuseof.com/best-resume-templates-for-tech-professionals/).
-
-## How to Write a Resume With ChatGPT Using a Custom GPT
-
- If you use ChatGPT premium, you can create a resume using a custom GPT. The prompts from the previous sections should also work when using a custom GPT. However, if you already have a resume, you can upload it to get feedback and improve from there. Here's how to do so:
-
-1. Choose a custom GPT by clicking on **Explore GPTs** and then typing **resume** in the search bar.  
-![Explore Custom GPTs in ChatGPT With a Premium Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-11-00-20.png)
-2. Write a prompt asking the custom GPT to analyze your resume.  
-![Asking a Custom GPT to Analyze Resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-11-01-29.png)
-3. Upload a PDF version of your resume.
-4. Wait for the GPT to analyze your resume and provide advice on how to change areas that need improvement. Consider using detailed prompts like the ones we've already discussed to make everything more relevant.  
-![The Resume by jobbright.ai plugin offering feedback on a resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-53-11.png)
-
- ChatGPT can help you customize your resume and save hours of time that you'd otherwise spend thinking about what to add. Use the tool to make your writing more concise and summarize the most important parts of your work-related experience. You can also analyze existing resumes if you already have an existing framework. Make sure that you proofread and customize everything to your own needs before you start applying for jobs.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- Standing out with your resume can be a huge challenge, but ChatGPT is a great tool to generate ideas and automate some of your editing. Learn how to write a high-quality resume with ChatGPT and how to fix common errors.
-
-## How to Write Your Resume With ChatGPT From Scratch
-
- When writing your resume with ChatGPT, you can choose to either write everything from scratch or use a plugin. If you don't have a premium subscription, you're limited to using ChatGPT without custom GPTs. Let's start by looking at how to use the free version.
-
-### How to Draft a Resume Outline With ChatGPT
-
- Contrary to popular belief, writing a resume in ChatGPT isn't as simple as a one-and-done prompt. You need to build on the information you add over time. Before adding customized information, it's worth asking the AI tool for a simple outline. To do this, I asked ChatGPT:
-
-> "Can you please help me write a resume? I want to land a job as a photographer at an agency."
-
- It's also worth asking ChatGPT to keep everything to one page if that's your preference. ChatGPT provides a simple outline, including suggestions to add contact information, related skills, and a statement or summary.
-
-![A resume outline developed with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-14-45.png)
-
- ChatGPT also suggested that we add references, related educational and professional history, and links to our portfolio.
-
-![ChatGPT resume outline asking us to add education, professional experience, etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-15-02.png)
-
- With these basics, you can spend some time thinking about how you want to customize your resume. Before you move on to the next section, consider learning about the most common [ChatGPT prompting mistakes to avoid](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/).
-
-### How to Write Your Professional Experience and Resume Summary With ChatGPT
-
- With an overall outline of your resume, you can start filling it out step-by-step. Based on our testing, it’s best to start with your professional experience. This will make it much easier for ChatGPT to generate the rest of your resume appropriately. I gave ChatGPT this prompt:
-
-> "For Professional Experience: I have run my own Instagram page for six years about landscape photography. I have grown it to 25,000 followers and achieved 300% year-on-year growth this year. I also have my own blog which has 100,000 monthly readers about travel in the US, for which I have taken all of the pictures. As a freelancer, I have a retainer with my local newspaper and have also worked with agencies. For one agency project, my images helped contribute to a campaign generating $10 million in revenue. Can you please add this to the Professional Experience section and re-generate the draft?"
-
- ChatGPT then fleshed out my **Professional Experience** section based on this information. You can ask to have your start and (if applicable) end dates added, but you can also add these manually if you'd prefer. Here's what ChatGPT gave me:
-
-![Professional Experience Outlined in a Resume With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-28-39.png)
-
- Rather helpfully, ChatGPT also adjusted my **Objective Statement** with the information provided:
-
-![An Objective Statement in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-31-09.png)
-
- The initial summary was quite long, so I asked ChatGPT to shorten it to 150 characters. But since that wasn't very informative, I upped the parameters to three sentences and 280 characters. The result was much better:
-
-![An edited resume summary in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-33-53.png)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
+<span id="1155462">
 					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
- Besides avoiding common errors within ChatGPT, you should [avoid easy-to-overlook resume mistakes](https://www.makeuseof.com/resume-mistakes-easy-to-overlook/) when looking for a new job. Examples include putting education above experience and not customizing your resume for each application. You may also want to learn [how to create a resume in Canva](https://www.makeuseof.com/tag/how-to-create-resume-using-canva/) if you're interested in eye-catching designs.
-
-### How to Use ChatGPT to Outline Skills in Your Resume
-
- Ultimately, your employer will want your skills to match their job opening. Make sure you showcase them in the best way possible when writing your resume with ChatGPT. I gave quite a detailed prompt here:
-
-> "Perfect. Now, let's outline my skills. I'm advanced in Adobe Lightroom and Photoshop, with knowledge of color grading, editing exposure, and using histograms and layers. I also have an Adobe CC All Apps subscription. Furthermore, I've taken over 200,000 photos in various conditions, including golden hour and at night—along with during the winter and summer. Soft skills include time management (I use Google Calendar to block out my entire day) and being excellent at communicating with other people. My visual storytelling skills are evident in my 1,000+ blog posts that clearly highlight the full story of each journey I take. I also know how to use Fujifilm, Nikon, Sony, and Canon mirrorless cameras."
-
- ChatGPT then gave me a relatively detailed summary of the skills I asked it to showcase:
-
-![A summary of a person's skills on a resume created with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-44-08.png)
-
- I felt like these needed some more information, so I then asked ChatGPT:
-
-> "I think we need to add a bit more. Let's also talk about my creative skills, and move Visual Storytelling into that section. I know all about the exposure triangle and experimenting with different forms of lighting, along with using aperture priority, manual, and shutter priority modes."
-
- The edited section was much better and outlined the creative skills I wanted to showcase in further detail (along with putting these in a separate area).
-
-![Revised skills in a resume in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-46-26.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
- ChatGPT also included the soft skills section that was in the first draft:
-
-![Skills outlined in a resume in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-47-54.png)
-
- Once you've got the information you need, you can add these to your resume and tweak them further if you feel like doing so is necessary. Either way, it's important to proofread everything and make sure your resume is accurate before you send it to potential employers.
-
-## How to Add Your Educational History to Your Resume With ChatGPT
-
- While employers care more about your work and project experience than your education, the skills you pick up while studying are still worth adding. To start, I gave ChatGPT this prompt:
-
-> "Great, let's now move on to educational experience. I studied journalism at university, during which I did several multimedia programs and an optional photojournalism module. I learned how to tell stories through pictures and what captivates audiences, along with the best photographic practices and how to maintain integrity. At university, I also freelanced for companies in the local area and founded my own media team for the university's basketball team."
-
- ChatGPT gave me the following after I asked it to also include course dates and locations, which was pretty good:
-
-![Educational history on a ChatGPT resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-55-26.png)
-
- If you're specifically going for a job in the tech space, consider checking out [the best resume templates for tech professionals](https://www.makeuseof.com/best-resume-templates-for-tech-professionals/).
-
-## How to Write a Resume With ChatGPT Using a Custom GPT
-
- If you use ChatGPT premium, you can create a resume using a custom GPT. The prompts from the previous sections should also work when using a custom GPT. However, if you already have a resume, you can upload it to get feedback and improve from there. Here's how to do so:
-
-1. Choose a custom GPT by clicking on **Explore GPTs** and then typing **resume** in the search bar.  
-![Explore Custom GPTs in ChatGPT With a Premium Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-11-00-20.png)
-2. Write a prompt asking the custom GPT to analyze your resume.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-![Asking a Custom GPT to Analyze Resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-11-01-29.png)
-3. Upload a PDF version of your resume.
-4. Wait for the GPT to analyze your resume and provide advice on how to change areas that need improvement. Consider using detailed prompts like the ones we've already discussed to make everything more relevant.  
-![The Resume by jobbright.ai plugin offering feedback on a resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-53-11.png)
-
- ChatGPT can help you customize your resume and save hours of time that you'd otherwise spend thinking about what to add. Use the tool to make your writing more concise and summarize the most important parts of your work-related experience. You can also analyze existing resumes if you already have an existing framework. Make sure that you proofread and customize everything to your own needs before you start applying for jobs.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- Standing out with your resume can be a huge challenge, but ChatGPT is a great tool to generate ideas and automate some of your editing. Learn how to write a high-quality resume with ChatGPT and how to fix common errors.
 
 ## How to Write Your Resume With ChatGPT From Scratch
 
@@ -289,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
  ChatGPT also suggested that we add references, related educational and professional history, and links to our portfolio.
 
 ![ChatGPT resume outline asking us to add education, professional experience, etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-15-02.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With these basics, you can spend some time thinking about how you want to customize your resume. Before you move on to the next section, consider learning about the most common [ChatGPT prompting mistakes to avoid](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/).
 
@@ -402,9 +182,127 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
 ![An Objective Statement in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-31-09.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The initial summary was quite long, so I asked ChatGPT to shorten it to 150 characters. But since that wasn't very informative, I upped the parameters to three sentences and 280 characters. The result was much better:
 
 ![An edited resume summary in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-33-53.png)
+
+ Besides avoiding common errors within ChatGPT, you should [avoid easy-to-overlook resume mistakes](https://www.makeuseof.com/resume-mistakes-easy-to-overlook/) when looking for a new job. Examples include putting education above experience and not customizing your resume for each application. You may also want to learn [how to create a resume in Canva](https://www.makeuseof.com/tag/how-to-create-resume-using-canva/) if you're interested in eye-catching designs.
+
+### How to Use ChatGPT to Outline Skills in Your Resume
+
+ Ultimately, your employer will want your skills to match their job opening. Make sure you showcase them in the best way possible when writing your resume with ChatGPT. I gave quite a detailed prompt here:
+
+> "Perfect. Now, let's outline my skills. I'm advanced in Adobe Lightroom and Photoshop, with knowledge of color grading, editing exposure, and using histograms and layers. I also have an Adobe CC All Apps subscription. Furthermore, I've taken over 200,000 photos in various conditions, including golden hour and at night—along with during the winter and summer. Soft skills include time management (I use Google Calendar to block out my entire day) and being excellent at communicating with other people. My visual storytelling skills are evident in my 1,000+ blog posts that clearly highlight the full story of each journey I take. I also know how to use Fujifilm, Nikon, Sony, and Canon mirrorless cameras."
+
+ ChatGPT then gave me a relatively detailed summary of the skills I asked it to showcase:
+
+![A summary of a person's skills on a resume created with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-44-08.png)
+
+ I felt like these needed some more information, so I then asked ChatGPT:
+
+> "I think we need to add a bit more. Let's also talk about my creative skills, and move Visual Storytelling into that section. I know all about the exposure triangle and experimenting with different forms of lighting, along with using aperture priority, manual, and shutter priority modes."
+
+ The edited section was much better and outlined the creative skills I wanted to showcase in further detail (along with putting these in a separate area).
+
+![Revised skills in a resume in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-46-26.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ ChatGPT also included the soft skills section that was in the first draft:
+
+![Skills outlined in a resume in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-47-54.png)
+
+ Once you've got the information you need, you can add these to your resume and tweak them further if you feel like doing so is necessary. Either way, it's important to proofread everything and make sure your resume is accurate before you send it to potential employers.
+
+## How to Add Your Educational History to Your Resume With ChatGPT
+
+ While employers care more about your work and project experience than your education, the skills you pick up while studying are still worth adding. To start, I gave ChatGPT this prompt:
+
+> "Great, let's now move on to educational experience. I studied journalism at university, during which I did several multimedia programs and an optional photojournalism module. I learned how to tell stories through pictures and what captivates audiences, along with the best photographic practices and how to maintain integrity. At university, I also freelanced for companies in the local area and founded my own media team for the university's basketball team."
+
+ ChatGPT gave me the following after I asked it to also include course dates and locations, which was pretty good:
+
+![Educational history on a ChatGPT resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-55-26.png)
+
+ If you're specifically going for a job in the tech space, consider checking out [the best resume templates for tech professionals](https://www.makeuseof.com/best-resume-templates-for-tech-professionals/).
+
+## How to Write a Resume With ChatGPT Using a Custom GPT
+
+ If you use ChatGPT premium, you can create a resume using a custom GPT. The prompts from the previous sections should also work when using a custom GPT. However, if you already have a resume, you can upload it to get feedback and improve from there. Here's how to do so:
+
+1. Choose a custom GPT by clicking on **Explore GPTs** and then typing **resume** in the search bar.  
+![Explore Custom GPTs in ChatGPT With a Premium Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-11-00-20.png)
+2. Write a prompt asking the custom GPT to analyze your resume.  
+
+![Asking a Custom GPT to Analyze Resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-11-01-29.png)
+3. Upload a PDF version of your resume.
+4. Wait for the GPT to analyze your resume and provide advice on how to change areas that need improvement. Consider using detailed prompts like the ones we've already discussed to make everything more relevant.  
+![The Resume by jobbright.ai plugin offering feedback on a resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-53-11.png)
+
+ ChatGPT can help you customize your resume and save hours of time that you'd otherwise spend thinking about what to add. Use the tool to make your writing more concise and summarize the most important parts of your work-related experience. You can also analyze existing resumes if you already have an existing framework. Make sure that you proofread and customize everything to your own needs before you start applying for jobs.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Standing out with your resume can be a huge challenge, but ChatGPT is a great tool to generate ideas and automate some of your editing. Learn how to write a high-quality resume with ChatGPT and how to fix common errors.
+
+## How to Write Your Resume With ChatGPT From Scratch
+
+ When writing your resume with ChatGPT, you can choose to either write everything from scratch or use a plugin. If you don't have a premium subscription, you're limited to using ChatGPT without custom GPTs. Let's start by looking at how to use the free version.
+
+### How to Draft a Resume Outline With ChatGPT
+
+ Contrary to popular belief, writing a resume in ChatGPT isn't as simple as a one-and-done prompt. You need to build on the information you add over time. Before adding customized information, it's worth asking the AI tool for a simple outline. To do this, I asked ChatGPT:
+
+> "Can you please help me write a resume? I want to land a job as a photographer at an agency."
+
+ It's also worth asking ChatGPT to keep everything to one page if that's your preference. ChatGPT provides a simple outline, including suggestions to add contact information, related skills, and a statement or summary.
+
+![A resume outline developed with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-14-45.png)
+
+ ChatGPT also suggested that we add references, related educational and professional history, and links to our portfolio.
+
+![ChatGPT resume outline asking us to add education, professional experience, etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-15-02.png)
+
+ With these basics, you can spend some time thinking about how you want to customize your resume. Before you move on to the next section, consider learning about the most common [ChatGPT prompting mistakes to avoid](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/).
+
+### How to Write Your Professional Experience and Resume Summary With ChatGPT
+
+ With an overall outline of your resume, you can start filling it out step-by-step. Based on our testing, it’s best to start with your professional experience. This will make it much easier for ChatGPT to generate the rest of your resume appropriately. I gave ChatGPT this prompt:
+
+> "For Professional Experience: I have run my own Instagram page for six years about landscape photography. I have grown it to 25,000 followers and achieved 300% year-on-year growth this year. I also have my own blog which has 100,000 monthly readers about travel in the US, for which I have taken all of the pictures. As a freelancer, I have a retainer with my local newspaper and have also worked with agencies. For one agency project, my images helped contribute to a campaign generating $10 million in revenue. Can you please add this to the Professional Experience section and re-generate the draft?"
+
+ ChatGPT then fleshed out my **Professional Experience** section based on this information. You can ask to have your start and (if applicable) end dates added, but you can also add these manually if you'd prefer. Here's what ChatGPT gave me:
+
+![Professional Experience Outlined in a Resume With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-28-39.png)
+
+ Rather helpfully, ChatGPT also adjusted my **Objective Statement** with the information provided:
+
+![An Objective Statement in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-31-09.png)
+
+ The initial summary was quite long, so I asked ChatGPT to shorten it to 150 characters. But since that wasn't very informative, I upped the parameters to three sentences and 280 characters. The result was much better:
+
+![An edited resume summary in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-33-53.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Besides avoiding common errors within ChatGPT, you should [avoid easy-to-overlook resume mistakes](https://www.makeuseof.com/resume-mistakes-easy-to-overlook/) when looking for a new job. Examples include putting education above experience and not customizing your resume for each application. You may also want to learn [how to create a resume in Canva](https://www.makeuseof.com/tag/how-to-create-resume-using-canva/) if you're interested in eye-catching designs.
 
@@ -451,6 +349,124 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 1. Choose a custom GPT by clicking on **Explore GPTs** and then typing **resume** in the search bar.  
 ![Explore Custom GPTs in ChatGPT With a Premium Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-11-00-20.png)
 2. Write a prompt asking the custom GPT to analyze your resume.  
+![Asking a Custom GPT to Analyze Resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-11-01-29.png)
+3. Upload a PDF version of your resume.
+4. Wait for the GPT to analyze your resume and provide advice on how to change areas that need improvement. Consider using detailed prompts like the ones we've already discussed to make everything more relevant.  
+![The Resume by jobbright.ai plugin offering feedback on a resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-53-11.png)
+
+ ChatGPT can help you customize your resume and save hours of time that you'd otherwise spend thinking about what to add. Use the tool to make your writing more concise and summarize the most important parts of your work-related experience. You can also analyze existing resumes if you already have an existing framework. Make sure that you proofread and customize everything to your own needs before you start applying for jobs.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Standing out with your resume can be a huge challenge, but ChatGPT is a great tool to generate ideas and automate some of your editing. Learn how to write a high-quality resume with ChatGPT and how to fix common errors.
+
+## How to Write Your Resume With ChatGPT From Scratch
+
+ When writing your resume with ChatGPT, you can choose to either write everything from scratch or use a plugin. If you don't have a premium subscription, you're limited to using ChatGPT without custom GPTs. Let's start by looking at how to use the free version.
+
+### How to Draft a Resume Outline With ChatGPT
+
+ Contrary to popular belief, writing a resume in ChatGPT isn't as simple as a one-and-done prompt. You need to build on the information you add over time. Before adding customized information, it's worth asking the AI tool for a simple outline. To do this, I asked ChatGPT:
+
+> "Can you please help me write a resume? I want to land a job as a photographer at an agency."
+
+ It's also worth asking ChatGPT to keep everything to one page if that's your preference. ChatGPT provides a simple outline, including suggestions to add contact information, related skills, and a statement or summary.
+
+![A resume outline developed with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-14-45.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ ChatGPT also suggested that we add references, related educational and professional history, and links to our portfolio.
+
+![ChatGPT resume outline asking us to add education, professional experience, etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-15-02.png)
+
+ With these basics, you can spend some time thinking about how you want to customize your resume. Before you move on to the next section, consider learning about the most common [ChatGPT prompting mistakes to avoid](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/).
+
+### How to Write Your Professional Experience and Resume Summary With ChatGPT
+
+ With an overall outline of your resume, you can start filling it out step-by-step. Based on our testing, it’s best to start with your professional experience. This will make it much easier for ChatGPT to generate the rest of your resume appropriately. I gave ChatGPT this prompt:
+
+> "For Professional Experience: I have run my own Instagram page for six years about landscape photography. I have grown it to 25,000 followers and achieved 300% year-on-year growth this year. I also have my own blog which has 100,000 monthly readers about travel in the US, for which I have taken all of the pictures. As a freelancer, I have a retainer with my local newspaper and have also worked with agencies. For one agency project, my images helped contribute to a campaign generating $10 million in revenue. Can you please add this to the Professional Experience section and re-generate the draft?"
+
+ ChatGPT then fleshed out my **Professional Experience** section based on this information. You can ask to have your start and (if applicable) end dates added, but you can also add these manually if you'd prefer. Here's what ChatGPT gave me:
+
+![Professional Experience Outlined in a Resume With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-28-39.png)
+
+ Rather helpfully, ChatGPT also adjusted my **Objective Statement** with the information provided:
+
+![An Objective Statement in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-31-09.png)
+
+ The initial summary was quite long, so I asked ChatGPT to shorten it to 150 characters. But since that wasn't very informative, I upped the parameters to three sentences and 280 characters. The result was much better:
+
+![An edited resume summary in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-33-53.png)
+
+ Besides avoiding common errors within ChatGPT, you should [avoid easy-to-overlook resume mistakes](https://www.makeuseof.com/resume-mistakes-easy-to-overlook/) when looking for a new job. Examples include putting education above experience and not customizing your resume for each application. You may also want to learn [how to create a resume in Canva](https://www.makeuseof.com/tag/how-to-create-resume-using-canva/) if you're interested in eye-catching designs.
+
+### How to Use ChatGPT to Outline Skills in Your Resume
+
+ Ultimately, your employer will want your skills to match their job opening. Make sure you showcase them in the best way possible when writing your resume with ChatGPT. I gave quite a detailed prompt here:
+
+> "Perfect. Now, let's outline my skills. I'm advanced in Adobe Lightroom and Photoshop, with knowledge of color grading, editing exposure, and using histograms and layers. I also have an Adobe CC All Apps subscription. Furthermore, I've taken over 200,000 photos in various conditions, including golden hour and at night—along with during the winter and summer. Soft skills include time management (I use Google Calendar to block out my entire day) and being excellent at communicating with other people. My visual storytelling skills are evident in my 1,000+ blog posts that clearly highlight the full story of each journey I take. I also know how to use Fujifilm, Nikon, Sony, and Canon mirrorless cameras."
+
+ ChatGPT then gave me a relatively detailed summary of the skills I asked it to showcase:
+
+![A summary of a person's skills on a resume created with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-44-08.png)
+
+ I felt like these needed some more information, so I then asked ChatGPT:
+
+> "I think we need to add a bit more. Let's also talk about my creative skills, and move Visual Storytelling into that section. I know all about the exposure triangle and experimenting with different forms of lighting, along with using aperture priority, manual, and shutter priority modes."
+
+ The edited section was much better and outlined the creative skills I wanted to showcase in further detail (along with putting these in a separate area).
+
+![Revised skills in a resume in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-46-26.png)
+
+ ChatGPT also included the soft skills section that was in the first draft:
+
+![Skills outlined in a resume in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-47-54.png)
+
+ Once you've got the information you need, you can add these to your resume and tweak them further if you feel like doing so is necessary. Either way, it's important to proofread everything and make sure your resume is accurate before you send it to potential employers.
+
+## How to Add Your Educational History to Your Resume With ChatGPT
+
+ While employers care more about your work and project experience than your education, the skills you pick up while studying are still worth adding. To start, I gave ChatGPT this prompt:
+
+> "Great, let's now move on to educational experience. I studied journalism at university, during which I did several multimedia programs and an optional photojournalism module. I learned how to tell stories through pictures and what captivates audiences, along with the best photographic practices and how to maintain integrity. At university, I also freelanced for companies in the local area and founded my own media team for the university's basketball team."
+
+ ChatGPT gave me the following after I asked it to also include course dates and locations, which was pretty good:
+
+![Educational history on a ChatGPT resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-55-26.png)
+
+ If you're specifically going for a job in the tech space, consider checking out [the best resume templates for tech professionals](https://www.makeuseof.com/best-resume-templates-for-tech-professionals/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Write a Resume With ChatGPT Using a Custom GPT
+
+ If you use ChatGPT premium, you can create a resume using a custom GPT. The prompts from the previous sections should also work when using a custom GPT. However, if you already have a resume, you can upload it to get feedback and improve from there. Here's how to do so:
+
+1. Choose a custom GPT by clicking on **Explore GPTs** and then typing **resume** in the search bar.  
+![Explore Custom GPTs in ChatGPT With a Premium Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-11-00-20.png)
+2. Write a prompt asking the custom GPT to analyze your resume.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Asking a Custom GPT to Analyze Resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-11-01-29.png)
 3. Upload a PDF version of your resume.
 4. Wait for the GPT to analyze your resume and provide advice on how to change areas that need improvement. Consider using detailed prompts like the ones we've already discussed to make everything more relevant.  
@@ -471,5 +487,23 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-spinning-stars-olympic-ice-celebrations/"><u>[New] Spinning Stars Olympic Ice Celebrations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capture-the-action-in-depth-guide-to-game-recording-on-win10/"><u>[Updated] In 2024, Capture the Action In-Depth Guide to Game Recording on Win10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bards-clash-with-gpt-vs-online-sheep-best-ai-ranked/"><u>Bards Clash with GPT, vs Online Sheep - Best AI Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-ipad-chatgpt-problems-9-techniques-to-try/"><u>Bypassing iPad ChatGPT Problems: 9 Techniques to Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-just-got-ios-friendly/"><u>ChatGPT Just Got iOS-Friendly!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dawn-of-the-bulbarian-10m-daily-study/"><u>Dawn of the Bulbarian: 10M Daily Study</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-cs2-microphone-functioning/"><u>Fixing the Issue: How to Get Your CS2 Microphone Functioning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-unlimited-the-mass-adoption-guide/"><u>GPT-4 Unlimited: The Mass Adoption Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-activate-stellar-data-recovery-for-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Activate Stellar Data Recovery for iPhone 7 | Stellar</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-enhancing-obs-on-a-thrifty-computer/"><u>In 2024, Enhancing OBS on a Thrifty Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-the-art-of-exclusion-in-fb-nostalgia/"><u>Master the Art of Exclusion in FB Nostalgia</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-the-auto-gpt-installer/"><u>Navigate the Auto-GPT Installer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-gpt-tailor-your-own-model/"><u>New GPT: Tailor Your Own Model</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/preserve-your-tiktok-videos-easily-android-and-ios-methods-for-2024/"><u>Preserve Your TikTok Videos Easily - Android & iOS Methods for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prevent-bot-data-exposure-with-caution/"><u>Prevent Bot Data Exposure with Caution</u></a></li>
+</ul></div>
 

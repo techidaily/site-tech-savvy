@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Power: The New Era of Business with GPT and Whisper"
-date: 2024-09-26T17:06:47.030Z
-updated: 2024-09-28T16:11:49.827Z
+date: 2024-09-29T23:40:20.853Z
+updated: 2024-10-03T21:25:08.168Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,16 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
  The developer community has lauded Whisper for its impressive capabilities, but it has been reported to be challenging to set up and run. However, OpenAI has made the **large-v2** model of Whisper available through its API, which offers improved speed and accessibility.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pricing
@@ -49,30 +55,18 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
  Whisper’s large-v2 model is priced at $0.006/minute (of audio input), which is also cheaper.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Access to the API
 
  GPT models take in unstructured text and represent it as a sequence of **tokens** for the model to understand. But with ChatGPT models, the input is consumed as a sequence of messages along with metadata. Even though the input is still processed as a sequence of tokens using the ChatML (Chat Markup Language) format, it allows for a more conversational experience. To give more context, we've covered [how ChatGPT works and how it answers questions](https://www.makeuseof.com/how-does-chatgpt-work/) in detail.
 
  To interact with the [ChatGPT model](https://platform.openai.com/docs/guides/chat) via the new API, OpenAI has developed a new endpoint that accommodates this format. This adds to the list of [things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## How Will Businesses Use the ChatGPT and Whisper API?
-
-![Someone holding business data and analytics while a working on a Samsung tablet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-samsung-table-and-papers-on-table.jpg)
-
- With the integration of ChatGPT and Whisper into third-party software, businesses can now create more personalized and engaging experiences for their customers. One example is Snap's My AI feature, which uses the same technology to enable users to create their own virtual personal assistant.
-
- With ChatGPT and Whisper APIs, businesses can develop their own chatbots, virtual assistants, and other conversational AI tools to enhance their customer service and engagement.
-
- These APIs enable machines to hold natural and personalized conversations with customers, leading to improved satisfaction, loyalty, and sales. The applications for these technologies are vast, ranging from e-commerce and customer support to education and healthcare.
-
- This can also be a good time for new SaaS products. Having seen so many pop up in the market already (such as [Speak](https://www.speak.com/)), the possibilities are endless.
 
 <!-- affiliate ads begin -->
 <span id="1374820">
@@ -87,16 +81,34 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+## How Will Businesses Use the ChatGPT and Whisper API?
+
+![Someone holding business data and analytics while a working on a Samsung tablet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-samsung-table-and-papers-on-table.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ With the integration of ChatGPT and Whisper into third-party software, businesses can now create more personalized and engaging experiences for their customers. One example is Snap's My AI feature, which uses the same technology to enable users to create their own virtual personal assistant.
+
+ With ChatGPT and Whisper APIs, businesses can develop their own chatbots, virtual assistants, and other conversational AI tools to enhance their customer service and engagement.
+
+ These APIs enable machines to hold natural and personalized conversations with customers, leading to improved satisfaction, loyalty, and sales. The applications for these technologies are vast, ranging from e-commerce and customer support to education and healthcare.
+
+ This can also be a good time for new SaaS products. Having seen so many pop up in the market already (such as [Speak](https://www.speak.com/)), the possibilities are endless.
+
 ## What Does This Mean for Users?
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Expect to see more natural language processing and improved conversational experiences in your mainstream apps. This is because ChatGPT and Whisper API will set a new standard for NLP, and developers will likely try to integrate similar features into their apps to keep up with the competition.
 
@@ -129,24 +141,24 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-breaking-barriers-the-best-pc-vr-headsets-of-2023/"><u>[New] 2024 Approved Breaking Barriers The Best PC VR Headsets of 2023</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-basics-to-breakthroughs-the-ultimate-strategy-for-youtube-advertising-success/"><u>[New] 2024 Approved From Basics to Breakthroughs The Ultimate Strategy for YouTube Advertising Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-hustle-free-route-mastering-podcast-live-broadcasting/"><u>[New] The Hustle-Free Route Mastering Podcast Live Broadcasting</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-download-facebook-videos-anywhere-winmacosiphone/"><u>[Updated] 2024 Approved Download Facebook Videos Anywhere Win/macOS/iPhone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-next-generation-of-video-splitters-post-xplit/"><u>[Updated] The Next Generation of Video Splitters Post-Xplit</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-stream-like-a-champion-top-3-techniques-for-successful-lol-gameplay-capture/"><u>2024 Approved Stream Like a Champion Top 3 Techniques for Successful LOL Gameplay Capture</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamline-success-blending-obs-zoom-made-easy/"><u>2024 Approved Streamline Success Blending OBS, Zoom Made Easy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assistants-crafting-your-itinerary-for-free-with-top-7-travel-aids/"><u>AI Assistants: Crafting Your Itinerary for FREE with Top 7 Travel Aids</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bing-chat-explored-in-depth-insights-on-ai-and-gpt-4-integration/"><u>Bing Chat Explored: In-Depth Insights on AI and GPT-4 Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/designing-revolutionary-conversations-via-gpt-crafted-chatgpts/"><u>Designing Revolutionary Conversations via GPT-Crafted ChatGPTs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovations-in-dialogue-the-top-4-differences-between-claude-and-chatgpt/"><u>Innovations in Dialogue: The Top 4 Differences Between Claude and ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-mindset-why-hackers-target-gpt-users/"><u>Inside the Mindset: Why Hackers Target GPT Users?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maintaining-data-integrity-while-using-chatai-at-work/"><u>Maintaining Data Integrity While Using ChatAI at Work</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-cover-letter-success-with-ai-powered-by-gpt-3/"><u>Optimize Cover Letter Success with AI Powered by GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-watch-time-chatgpt-for-film-selection/"><u>Optimizing Watch Time: ChatGPT for Film Selection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/profound-knowledge-talk-to-your-digital-friend-chatgpt/"><u>Profound Knowledge: Talk to Your Digital Friend, ChatGPT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-liquid-detected-warning-messages-in-iphones-usb-c-charging-port/"><u>Resolving 'Liquid Detected' Warning Messages in iPhone's USB-C Charging Port</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-transcendent-communication-unpacking-googles-palm-2-model/"><u>The Dawn of Transcendent Communication: Unpacking Google’s PaLM 2 Model</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unrivaled-selection-of-no-cost-4k-video-players-for-windows/"><u>Unrivaled Selection of No-Cost 4K Video Players for Windows</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-10-viral-culinary-phenomena-on-tiktok/"><u>[New] 10 Viral Culinary Phenomena on TikTok</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-circles-vs-cubes-unraveling-camera-types/"><u>[New] Circles vs Cubes Unraveling Camera Types</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dimensions-and-edits-the-imovie-crop-enigma/"><u>[Updated] Dimensions and Edits The iMovie Crop Enigma</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-a-comprehensive-guide-to-hp-laptops-screen-recording-features/"><u>[Updated] In 2024, A Comprehensive Guide to HP Laptop's Screen Recording Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/heic-jpg/"><u>頂級免費 HEIC 到 JPG 轉換器選拔：您喜愛的方法清單！</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/creating-a-continuous-dvd-cycle-a-step-by-step-guide-on-looping-dvds/"><u>Creating a Continuous DVD Cycle: A Step-by-Step Guide on Looping DVDs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detalhes-da-politica-de-remessa-e-restituicao-na-plataforma-movavi/"><u>Detalhes Da Política De Remessa E Restituição Na Plataforma Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-converteren-van-mmf-naar-pngjpeg-onze-professionele-opslaver-movavi/"><u>Gratis Converteren Van MMF Naar PNG/JPEG: Onze Professionele Opslaver - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-konverteren-van-3gp-naar-mp4-professioneel-online-toolkit-movavi/"><u>Gratuit Konverteren Van 3GP Naar MP4: Professioneel Online-Toolkit Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-2024-selectionner-les-meilleurs-gpu-pour-votre-projet-de-montage-video-top-6-recommandations/"><u>Guide 2024 : Sélectionner Les Meilleurs GPU Pour Votre Projet De Montage Vidéo - Top 6 Recommandations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-15-plus-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 15 Plus Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-get-obs-software-working-on-your-windows-macos-or-linux-machine/"><u>How to Get OBS Software Working on Your Windows, macOS or Linux Machine</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-a56s-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo A56s 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nine-critical-alerts-when-to-reset-windows/"><u>Nine Critical Alerts: When to Reset Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726221798396-rafpng-movavi/"><u>RAF格式到PNG自由下載 - 使用Movavi工具進行無限制的在線轉換</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upload-and-convert-your-apng-images-to-pngs-at-no-cost-using-our-web-based-tool/"><u>Upload and Convert Your APNG Images to PNGs at No Cost Using Our Web-Based Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726222805798-web-movavi/"><u>Webベース動画編集ツール | ウェブ上で簡単に動画修正 - Movavi</u></a></li>
 </ul></div>
 

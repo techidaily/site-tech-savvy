@@ -1,7 +1,7 @@
 ---
 title: "Adapting to the Mobile GPT Era: Tips and Strategies"
-date: 2024-09-23T16:53:54.279Z
-updated: 2024-09-28T16:12:21.173Z
+date: 2024-10-01T17:54:56.857Z
+updated: 2024-10-03T19:29:38.159Z
 tags:
   - chatgpt
   - open-ai
@@ -49,13 +49,6 @@ Close
 
  Now you can start using ChatGPT as you would on your computer. If you cannot download the app because it's unavailable in your area, you can try using ChatGPT through the web browser method or download the third-party apps listed below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using ChatGPT Through a Smartphone Web Browser
 
  On both Android and iOS devices, you can use your phone's web browser to access ChatGPT (if you'd prefer to avoid using the official ChatGPT apps). You need to create an account, launch the website through your smartphone web browser, and you're good to go.
@@ -68,24 +61,30 @@ Close
 
 ![ChatGPT final disclaimer screen iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-final-disclaimer-screen-ios.jpg)
 
-![ChatGPT conversation screen iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-conversation-screen-iphone.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![ChatGPT conversation screen iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-conversation-screen-iphone.jpg)
 
 Close
 
  Like the desktop version, you can access previous conversations, [upgrade to ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), or even enable dark mode. You can access these settings by tapping the **menu icon** in the top-left corner of your screen.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using ChatGPT Through Siri Shortcuts
@@ -106,13 +105,6 @@ Close
 
 ![SiriGPT Shortcuts app iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-shortcuts-app-ios.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![SiriGPT insert API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-insert-api-key.jpg)
 
 ![SiriGPT prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-prompt-screen.jpg)
@@ -120,6 +112,13 @@ Close
 Close
 
  That's certainly a lot of work, and whether it's worth it depends on how much you use the shortcut. At its worst, it's a neat party trick, but at its best, you have the power of GPT in your hands, now with the voice of Siri powering it. Again, this is not the most convenient way of accessing ChatGPT, but it's surprising how well it works when it does.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Third-Party ChatGPT Apps for Android and iOS
 
@@ -129,9 +128,29 @@ Close
 
 ![Perplexity AI app sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-sources.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Perplexity AI app thread](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-thread-1.jpg)
 
 ![perlexity-ai-invitation-screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perlexity-ai-invitation-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -141,27 +160,20 @@ Close
 
 ![Nova GPT Android app homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-homescreen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Nova GPT Android app prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-prompt.jpg)
 
 ![Nova GPT Android app text to speech](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-text-to-speech.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
 **Download:** Nova for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2024179/https://play.google.com/store/apps/details?id=com.scaleup.chatai&hl=en&gl=US) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Protect Yourself From Scams
 
@@ -192,22 +204,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-10-proven-strategies-for-earning-money-with-your-videos-on-vimeo/"><u>[New] 10 Proven Strategies for Earning Money with Your Videos on Vimeo</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-essential-7-dslrs-to-elevate-virtual-presentations-and-broadcasts/"><u>[New] 2024 Approved Essential 7 DSLRs to Elevate Virtual Presentations & Broadcasts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-basicwin10grabber-free-software-download/"><u>[Updated] 2024 Approved BasicWin10Grabber - Free Software Download</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-resolving-iphone-shot-unfocus-issues-quickly/"><u>2024 Approved Resolving iPhone Shot Unfocus Issues Quickly</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/exploring-the-leading-screen-recording-software-for-educators/"><u>Exploring the Leading Screen Recording Software for Educators</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-asus-rog-phone-7-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Asus ROG Phone 7 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/initiating-auto-excellence-with-ai-dialogues-and-advice/"><u>Initiating Auto Excellence with AI Dialogues and Advice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-dialogue-with-humans-critical-for-machines-knowledge-expansion/"><u>Is Dialogue With Humans Critical for Machine's Knowledge Expansion?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-top-5-tactics-for-crafting-excellent-prompts/"><u>Mastering ChatGPT: Top 5 Tactics for Crafting Excellent Prompts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/million-dollar-context-geminis-15-evolved-strategy-revealed/"><u>Million Dollar Context: Gemini's 1.5 Evolved Strategy Revealed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/moveavi-image-editor-effortlessly-convert-your-images-from-png-to-jpg-and-vice-versa/"><u>MoveAVi Image Editor: Effortlessly Convert Your Images From PNG to JPG and Vice Versa</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/newsfeed-reimagined-by-google/"><u>NewsFeed Reimagined by Google</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-intellectual-property-business-gpt-use/"><u>Protecting Intellectual Property: Business GPT Use</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-downloading-and-setting-up-mouse-driver-for-windows-7/"><u>Step-By-Step Tutorial: Downloading and Setting Up Mouse Driver for Windows 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/who-should-programmers-pick-for-efficiency-copilotchatgpt-discussion/"><u>Who Should Programmers Pick for Efficiency? Copilot/ChatGPT Discussion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/witty-wordsmiths-war-chatgpt-vs-the-wise-bard/"><u>Witty Wordsmiths' War: ChatGPT Vs. The Wise Bard</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-humor-haven-the-ultimate-choice-of-memer-text-tools/"><u>[New] Humor Haven The Ultimate Choice of Memer Text Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223477411-wmamp4-movavi/"><u>快速免費線上WMA至MP4變更: 經驗超群的Movavi音像檔轉換器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726222398645-avi/"><u>了解AVI文件: 詳細介紹、內容以及在多媒體設備上如何運行</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223253789-aac-movavi/"><u>AAC形式のオーディオ・ファイルを自由に変換する - 最新Movaviツール</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cambia-archivo-m4b-por-formato-aac-sin-costo-alguno-con-convertidor-online-de-movavi/"><u>Cambia Archivo M4B Por Formato AAC Sin Costo Alguno Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/compare-the-best-free-screen-recorders-on-windows-os/"><u>Compare the Best Free Screen Recorders on Windows OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhance-your-online-presence-with-manycams-advanced-live-video-features-and-virtually-anywhere-setup/"><u>Enhance Your Online Presence with ManyCam's Advanced Live Video Features and Virtually Anywhere Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-mastering-landscape-photography-techniques/"><u>Expert Advice: Mastering Landscape Photography Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-completa-como-hacer-video-llamadas-con-skype-desde-telefonos-inteligentes-y-ordenadores/"><u>Guía Completa: Cómo Hacer Video Llamadas Con Skype Desde Teléfonos Inteligentes Y Ordenadores</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-y56-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo Y56 5G Phone?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-final-cut-pro-x-insider-market-vertical-videos-for-instagram-enthusiasts/"><u>In 2024, Final Cut Pro X Insider' Market Vertical Videos for Instagram Enthusiasts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-s18e-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo S18e Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-lava-yuva-2-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Lava Yuva 2 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-realme-narzo-n55-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Realme Narzo N55 on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tu-archivo-mef-en-formato-diferente-sin-coste-soluciones-mejoradas-por-movavi/"><u>Transforma Tu Archivo MEF en Formato Diferente Sin Coste: Soluciones Mejoradas Por Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-graphics-card-rtx-2070-super-drivers-for-pcs-running-windows-1011-download-and-install/"><u>Update Your Graphics Card: RTX 2070 Super Drivers for PCs Running Windows 10/11 (Download & Install)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkvm4v-movavi/"><u>무료 제공: 인터넷을 통해 MKV/M4V 형식 전환, Movavi를 사용한 기술</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aif-mp4-movavi/"><u>コレクトフリーネット AIF 動画MP4変換ソフト - Movavi</u></a></li>
 </ul></div>
 

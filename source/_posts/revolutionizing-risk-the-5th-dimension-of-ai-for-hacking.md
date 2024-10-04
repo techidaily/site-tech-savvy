@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Risk: The 5Th Dimension of AI for Hacking"
-date: 2024-09-21T18:39:45.219Z
-updated: 2024-09-22T19:07:49.314Z
+date: 2024-10-01T20:51:25.146Z
+updated: 2024-10-04T00:49:18.620Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
  ChatGPT (or at least its latest version) can only write basic, and sometimes buggy, malware programs, rather than sophisticated code that poses severe threats. However, this isn't to say that AI cannot be used to write malware. Given that a current AI chatbot can create basic malicious programs, it may not be long before we see more heinous malware originate from AI systems.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Cracking Passwords
 
  Passwords often stand as the one line of data protecting our accounts and devices. So, unsurprisingly, many cybercriminals try to crack passwords in order to gain access to our private data.
@@ -49,6 +56,13 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  The concept of AI password crackers are by no means science fiction. In fact, [ZDNet](https://www.zdnet.com/article/how-an-ai-tool-could-crack-your-passwords-in-seconds/) reported that cybersecurity experts found over half of the commonly-used passwords out there could be cracked in less than a minute. The article referenced a [Home Security Heroes report](https://www.homesecurityheroes.com/ai-password-cracking/), which stated that an AI-powered cracking tool called PassGAN could crack 51 percent of common passwords in under a minute, and 71 percent in less than a day.
 
  These figures show how dangerous AI password cracking can be. With the ability to crack most regular passwords in less than 24 hours, there's no knowing what a cybercriminal could do using such a tool.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Conducting Social Engineering
 
@@ -66,15 +80,21 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
  However, this AI application could also be helpful for cybersecurity vendors, as it could [aid in finding vulnerabilities](https://www.makeuseof.com/top-vulnerability-scanning-tools/) before they are exploited. Being able to patch a flaw quickly can cut off malicious actors' ability to exploit it, mitigating attacks overall.
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Analyzing Stolen Data
 ![Data on Laptop Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/data-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Data is as valuable as gold. Today, [sensitive data is sold on dark web marketplaces](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) on a constant basis, with some malicious actors willing to pay a very high price if the information is useful enough.
 
@@ -83,10 +103,10 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  Using AI, the process of highlighting valuable information could be streamlined, cutting down the time it takes for a malicious actor to determine what is worth selling, or, on the other hand, directly exploiting by their own hand. Artificial intelligence, at its core, is all about learning, so it could one day become easy to use an AI-powered tool to pick up on valuable sensitive data.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Is Promising but Also Poses Many Threats
@@ -108,5 +128,22 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-essential-techniques-for-saving-mobile-gameplay/"><u>[New] 2024 Approved Essential Techniques for Saving Mobile Gameplay</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-echoes-in-280-characters-viral-video-stories/"><u>[New] In 2024, Echoes in 280 Characters Viral Video Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonic-frames-filming-music-tracks-using-iphones/"><u>[Updated] Harmonic Frames Filming Music Tracks Using iPhones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-rx-memory-revamp/"><u>2024 Approved RX Memory Revamp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-bing-and-chatgpt-when-is-gpt-5-due/"><u>Beyond Bing and ChatGPT: When Is GPT-5 Due?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-creators-vs-computational-composition-six-winning-strategies/"><u>Content Creators Vs. Computational Composition: Six Winning Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-employee-data-security-with-chatgpt/"><u>Ensuring Employee Data Security with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-transparency-of-openais-shap-explainer/"><u>Exploring the Transparency of OpenAI's SHAP Explainer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/hear-got-music-top-sites-to-download-ringtones/"><u>Hear GoT Music - Top Sites to Download Ringtones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y27-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y27 5G Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/network-fix-implemented-for-dragonguard-overcoming-dragon-ball-fighterz-errors/"><u>Network Fix Implemented for Dragonguard: Overcoming Dragon Ball FighterZ Errors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-shrink-mpeg2-files-get-virtualdub-for-video-compression-for-2024/"><u>New Shrink MPEG2 Files Get VirtualDub for Video Compression for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-webcam-experience-top-18-tools-for-video-capture-for-2024/"><u>Streamline Your Webcam Experience Top 18 Tools for Video Capture for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-enthusiasts-handbook-for-openai-api-mastery/"><u>The Enthusiast’s Handbook for OpenAI API Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-chatgpts-output-to-match-personal-nuance/"><u>Transforming ChatGPT's Output to Match Personal Nuance</u></a></li>
+</ul></div>
 

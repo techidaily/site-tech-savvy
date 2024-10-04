@@ -1,7 +1,7 @@
 ---
 title: Top 5 Deceptive GPT Tactics
-date: 2024-09-22T18:12:30.581Z
-updated: 2024-09-28T16:19:21.404Z
+date: 2024-09-29T22:01:39.430Z
+updated: 2024-10-03T23:01:39.504Z
 tags:
   - chatgpt
   - open-ai
@@ -39,15 +39,22 @@ thumbnail: https://thmb.techidaily.com/98b85ce6d797323413c6bf7e018c1d8e6594fdbbf
  In general, using ChatGPT to write phishing emails can streamline the scam process for cybercriminals, which may cause phishing attacks to grow in frequency overall.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Fake ChatGPT Browser Extensions
 
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Browser extensions are a popular and convenient tool used by millions, but malicious, phony versions of this software are also used to install malware and steal data. The case is no different for ChatGPT.
 
@@ -56,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/98b85ce6d797323413c6bf7e018c1d8e6594fdbbf
  The extension was named specifically to confuse users, being almost identical to the legitimate ChatGPT for Google tool. Many people didn't think twice about the name and installed the extension under the guise that it was safe. In reality, the extension was being used to install hidden backdoors on Facebook accounts and access admin permissions.
 
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Fake ChatGPT Apps
 
@@ -71,35 +85,21 @@ thumbnail: https://thmb.techidaily.com/98b85ce6d797323413c6bf7e018c1d8e6594fdbbf
 
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There's been a lot of talk about AI and cybercrime in recent years, as many are concerned this technology may make it easier for malicious actors to scam and attack victims.
 
  This is by no means an unrealistic worry, as [ChatGPT can be used in malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/). It didn't take long after the launch of ChatGPT for illicit individuals to start writing malicious code using the popular tool. In early 2023, a form of [Python-based malware was allegedly created using ChatGPT](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/), as stated in a hacking forum post.
 
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. ChatGPT Phishing Sites
 
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Phishing attacks are often conducted using malicious websites. These sites are designed to log the keystrokes you enter so that valuable data can be stolen and exploited.
@@ -131,18 +131,17 @@ thumbnail: https://thmb.techidaily.com/98b85ce6d797323413c6bf7e018c1d8e6594fdbbf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/solved-google-chrome-has-stopped-working/"><u>[Solved] Google Chrome Has Stopped Working</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-realize-your-vision-a-comprehensible-list-of-3d-animation-software/"><u>2024 Approved Realize Your Vision A Comprehensible List of 3D Animation Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-fixing-nier-automata-stability-issues-on-pcs/"><u>Comprehensive Guide to Fixing Nier: Automata Stability Issues on PCs</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/maximizing-audience-engagement-with-youtube-shorts-templates/"><u>Maximizing Audience Engagement with YouTube Shorts Templates</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-your-tech-choices-with-confidence-using-toms-hardware-analysis/"><u>Navigate Your Tech Choices with Confidence Using Tom's Hardware Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-guide-accessing-advanced-startup-settings-on-windows-11/"><u>Quick Guide: Accessing Advanced Startup Settings on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-torrent-acquisition-a-step-by-step-walkthrough-for-first-timers/"><u>Seamless Torrent Acquisition: A Step-by-Step Walkthrough for First-Timers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/seguridad-de-movavi-garantizando-la-proteccion-en-su-sitio-web-y-aplicaciones/"><u>Seguridad De Movavi: Garantizando La Protección en Su Sitio Web Y Aplicaciones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-turning-on-and-off-automatic-launch-programs-on-windows-abinary-operating-system/"><u>Step-by-Step Guide: Turning On and Off Automatic Launch Programs on Windows Abinary Operating System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-techniques-for-high-quality-screen-recording-and-audio-capture-on-windows-systems/"><u>Top Techniques for High-Quality Screen Recording and Audio Capture on Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-two-techniques-for-simple-audio-extraction-from-youtube-videos/"><u>Top Two Techniques for Simple Audio Extraction From YouTube Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/videographers-arena-rivalry-for-2024/"><u>Videographer's Arena Rivalry for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamline-your-filming-journey-a-step-by-step-guide-to-utilize-your-logitech-camera-for-2024/"><u>[New] Streamline Your Filming Journey A Step-by-Step Guide to Utilize Your Logitech Camera for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-direct-download-of-video-to-mp3-from-vimeo-for-2024/"><u>[Updated] Direct Download of Video to MP3 From Vimeo for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-recorder-select-top-12-no-timer/"><u>2024 Approved Ultimate Recorder Select Top 12, No Timer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-s18-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo S18 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/creative-lens-based-text-twists-for-2024/"><u>Creative Lens-Based Text Twists for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-cs-global-offensive-speed-and-precision/"><u>Improve CS Global Offensive Speed and Precision</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-12-pro-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/shining-a-light-top-photo-illumination-hacks/"><u>Shining a Light Top Photo Illumination Hacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tips-how-to-free-download-and-convert-flac-files-into-mp3-format/"><u>Top Tips: How to Free Download and Convert FLAC Files Into MP3 Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-and-leading/"><u>Top-Ranking and Leading.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tutorial-streaming-and-converting-dvd-movies-directly-from-your-iphone/"><u>Tutorial: Streaming and Converting DVD Movies Directly From Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-converting-mov-video-format-to-crystal-clear-jpeg-photos/"><u>Ultimate Guide: Converting MOV Video Format to Crystal Clear JPEG Photos</u></a></li>
 </ul></div>
 

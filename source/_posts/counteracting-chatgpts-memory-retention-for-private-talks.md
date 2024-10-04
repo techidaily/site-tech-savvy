@@ -1,7 +1,7 @@
 ---
 title: Counteracting ChatGPT’s Memory Retention for Private Talks
-date: 2024-09-26T17:46:45.455Z
-updated: 2024-09-28T16:53:23.828Z
+date: 2024-09-26T17:39:56.672Z
+updated: 2024-10-03T19:04:30.625Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
  The chatbot is not a confidant, so keep your secrets to yourself. It's not safe, especially since OpenAI has been hacked before by cybercriminals who stole the credentials to thousands of ChatGPT accounts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stop ChatGPT From Saving Your Conversations
@@ -53,28 +59,34 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 3. Click on data controls and toggle off **Chat history & training**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Screenshot of ChatGPT History and Training Toggle Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-history-and-training-toggle-switch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that's it! You've just made sure that ChatGPT won't keep any record of your chats.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't Worry About ChatGPT Saving Your Conversations
@@ -98,18 +110,19 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-gif-creation-step-by-step-guide/"><u>[New] Mastering GIF Creation Step-by-Step Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-artisans-guide-mastering-gopro-video-editing/"><u>2024 Approved The Artisan's Guide Mastering GoPro Video Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alteremailonprotonbrowser-a-step-by-step-guide/"><u>AlterEmailOnProtonBrowser: A Step-By-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diving-into-codegpt-the-ai-that-might-rewrite-coding-norms/"><u>Diving Into CodeGPT: The AI That Might Rewrite Coding Norms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/forge-believable-characters-for-your-tales-using-top-chatgpt-ideas/"><u>Forge Believable Characters for Your Tales Using Top ChatGPT Ideas</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-zero-to-hero-understanding-five-key-drivers-of-chatgpt/"><u>From Zero to Hero: Understanding Five Key Drivers of ChatGPT</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-13-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 13 Pro Max Unavailable Issue With Ease</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-connect-movie-files-in-youtv-catalog/"><u>In 2024, Connect Movie Files in YouTV Catalog</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-incorporate-your-podcast-into-app-store/"><u>In 2024, How To Incorporate Your Podcast Into App Store</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/state-guidance-on-ai-innovation-through-four-mechanisms/"><u>State Guidance on AI Innovation Through Four Mechanisms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-hidden-side-of-gpt-free-yet-restricted-use/"><u>The Hidden Side of GPT: Free, Yet Restricted Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-chatgpt-writes-ais-limitless-potential/"><u>Unraveling ChatGPT' Writes: AI’s Limitless Potential</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-engage-viewers-with-powerful-channel-building-stories/"><u>[Updated] 2024 Approved Engage Viewers with Powerful Channel-Building Stories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ten-practical-ways-to-prevent-vr-sickness/"><u>[Updated] 2024 Approved Ten Practical Ways to Prevent VR Sickness</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-enhancing-tv-experience-with-fb-live-streams/"><u>[Updated] Enhancing TV Experience with FB Live Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-inspiring-action-through-impactful-market-research-communication/"><u>2024 Approved Inspiring Action Through Impactful Market Research Communication</u></a></li>
+<li><a href="https://common-error.techidaily.com/arrow-key-issues-on-your-keyboard-fix-them-with-these-expert-methods/"><u>Arrow Key Issues on Your Keyboard? Fix Them With These Expert Methods!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-guide-to-video-studios-focusing-on-xvideo-for-2024/"><u>Complete Guide to Video Studios Focusing on XVideo for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-ai-unveiling-transfer-learning-mechanisms/"><u>Demystifying AI: Unveiling Transfer Learning Mechanisms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-presentation-quality-harnessing-the-potential-of-chatgpt/"><u>Enhancing Presentation Quality: Harnessing the Potential of ChatGPT</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-ringtone-manipulation-from-default-sounds-to-custom-beat-selections/"><u>In 2024, Ringtone Manipulation From Default Sounds to Custom Beat Selections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-conversations-just-add-chatgpt-and-android/"><u>Mastering Conversations - Just Add ChatGPT & Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-deadlines-with-the-assistance-of-chatgpt/"><u>Mastering Deadlines with the Assistance of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-owners-integrating-these-pioneering-five-ai-solutions/"><u>Smart Owners: Integrating These Pioneering Five AI Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-creating-stunning-photo-slideshows-on-any-device/"><u>Ultimate Guide: Creating Stunning Photo Slideshows on Any Device</u></a></li>
 </ul></div>
 

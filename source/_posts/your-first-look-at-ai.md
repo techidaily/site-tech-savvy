@@ -1,7 +1,7 @@
 ---
 title: Your First Look at AI
-date: 2024-09-16T16:30:13.323Z
-updated: 2024-09-22T17:52:25.192Z
+date: 2024-09-28T00:53:25.889Z
+updated: 2024-10-03T18:33:41.181Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b
 * [How Is AI Being Used Today?](https://aligracehair.sjv.io/y209r3)
 * [The Future of AI](https://mindmanager.sjv.io/anq2nj)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI is like teaching computers to learn like humans by looking at data and making decisions, but it lacks common sense and emotions.
@@ -41,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b
 
  So, let's break down artificial intelligence into its most simple terms. How does AI work, and how is it being used?
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Simplest Explanation of AI
 
  Artificial intelligence is like teaching computers to learn just like humans, therefore simulating how humans think. AI does this by looking at lots of data or examples and then using that to make decisions or predictions.
@@ -50,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b
  But even with all this, computers still can't fully think or understand like humans. Modern AI systems don't have common sense, emotions, or consciousness.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI in More Detail
@@ -61,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b
 ![chatgpt read aloud feature smartphone screen with chatgpt logo blur](https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
@@ -102,16 +116,16 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  However, despite many advancements, AI still does not possess the full spectrum of human cognitive abilities, and we are still far from achieving [true artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/). The current AI technologies are task-specific and cannot understand context outside their specific programming.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Is AI Being Used Today?
 
  AI has potential and applications that stretch far beyond the tech realm alone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Chatbots
 
@@ -137,13 +151,6 @@ Gavin Phillips/MakeUseOf
 
  Because AI can learn and discover new things based on the information it is given, it can be used to carve out more cost-effective and sustainable materials and production practices for businesses. For instance, an AI system could list more eco-friendly materials that could be used in a product's battery given a comprehensive data set to work from.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Art Creation
 
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
@@ -157,13 +164,6 @@ Gavin Phillips/MakeUseOf
 Microsoft Image Creator/MakeUseOf
 
 [Some artists have rejected AI art generators](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/), as they are trained on pre-existing online art to learn how to create their prompted pieces. Artists claim this is a breach of copyright and contributes to the theft of original art, an issue that already spans the web.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Future of AI
 
@@ -196,5 +196,26 @@ Microsoft Image Creator/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-game-masters-youtube-money-hacks/"><u>[New] 2024 Approved Game Masters YouTube Money Hacks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-does-the-sub4sub-strategy-improve-content-consumption/"><u>[New] In 2024, Does the Sub4Sub Strategy Improve Content Consumption?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-supreme-narrative-designers-den/"><u>[New] Supreme Narrative Designer's Den</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-5-masterful-fluid-interaction-titles/"><u>[Updated] In 2024, 5 Masterful Fluid Interaction Titles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-video-capture-4-best-pc-and-mac-tools-for-2024/"><u>[Updated] Mastering Video Capture 4 Best PC & Mac Tools for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-which-is-superior-obs-or-streamlabs-for-your-livestream-needs-in-2024/"><u>[Updated] Which Is Superior, OBS or Streamlabs for Your Livestream Needs, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-phony-chatgpt-programs-potential-threats-ahead/"><u>Beware Phony ChatGPT Programs - Potential Threats Ahead!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-windows-11-fatal-errors-for-radeon-r9/"><u>Conquering Windows 11 Fatal Errors for Radeon R9</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-ai-dependence-for-financial-data-study/"><u>Debunking AI Dependence for Financial Data Study</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easing-excessive-load-on-chatgpt-windows/"><u>Easing Excessive Load on ChatGPT (Windows)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-risks-with-chatgpt-mobile-apps/"><u>Exploring the Risks with ChatGPT Mobile Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gradual-aesthetic-launch/"><u>Gradual Aesthetic Launch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/internal-oversights-by-chatgpt-writers/"><u>Internal Oversights by ChatGPT Writers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/journey-redefined-chatbot-wisdom-in-car-customization-processes/"><u>Journey Redefined: Chatbot Wisdom in Car Customization Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precision-in-copywriting-beyond-ais-reach/"><u>Precision in Copywriting Beyond AI’s Reach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proactive-leaders-embracing-5-breakthrough-artificial-intelligence-tech/"><u>Proactive Leaders: Embracing 5 Breakthrough Artificial Intelligence Tech</u></a></li>
+<li><a href="https://video-capture.techidaily.com/seamless-integration-of-switch-pro-into-steam-games/"><u>Seamless Integration of Switch Pro Into Steam Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-development-journey-with-a-chatgpt-web-app/"><u>Streamline Your Development Journey with a ChatGPT Web App</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco M6 Pro 4G | Dr.fone</u></a></li>
+</ul></div>
 

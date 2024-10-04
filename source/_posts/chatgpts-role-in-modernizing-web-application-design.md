@@ -1,7 +1,7 @@
 ---
 title: ChatGPT's Role in Modernizing Web Application Design
-date: 2024-09-21T16:51:40.278Z
-updated: 2024-09-22T16:12:40.974Z
+date: 2024-09-28T23:23:35.267Z
+updated: 2024-10-03T18:31:21.487Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 ![text-based breakdown of web app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/text-based-breakdown-of-web-app-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Splitting the Blueprint Into Smaller Modules
 
  Now that we have the big picture laid out, we asked ChatGPT for help in splitting the app into smaller components that we can develop separately and then integrate to form the complete web app. ChatGPT suggested breaking it into three components:
@@ -56,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  We had other ideas, but the goal here is to let ChatGPT call the shots.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Building the Registration Component
 
  We jumped right into building the registration component. We asked ChatGPT to draw out an appropriate algorithm. Here we intervened by specifying we needed only the user's username, email, and avatar for registration. Here's the prompt:
@@ -65,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  And here's the result:
 
 ![Algorithm for user registration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/algorithm-for-user-registration.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Up next, we prompted ChatGPT to build the registration component.
 
@@ -100,19 +121,20 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 ![ChatGPT-generated login page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-generated-login-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After creating a "server.login.php" file as instructed by ChatGPT and adding the generated PHP script, we made our first successful login without any modifications or debugging.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Building the Chat Component
@@ -127,6 +149,13 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  When ChatGPT suggests a file name, using a different name in your project might inadvertently cause problems as the chatbot will reference the same name in all the code it creates throughout the project. We found out the hard way. Don't make the same mistake.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating the Chat.php Page
 
  To start, we gave ChatGPT detailed instructions on how we wanted the chat interface to look.
@@ -139,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  Whenever generated code fails to give the desired results or omits an important component, simply prompt ChatGPT to rewrite the last code. Tell it to include the component or do whatever wasn't done in the initial code. Here are [some tips on how to use ChatGPT for programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating the "send-messages.php" and "Fetch-messages" Page
 
  Satisfied with the interface, we proceeded to build the script to handle the chatting logic. To be able to send and fetch messages from the database, ChatGPT rightly highlighted that we'll be needing a "messages" table. We asked the chatbot to create an SQL for the messages table.
@@ -157,10 +179,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 ![ChatGPT prompts to send and receive messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompts-to-send-and-receive-messages.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT generated the script for both the "send-messages.php" and the "fetch-messages.php" pages. On running both scripts, we finally had our very first error (which was oddly satisfying). Getting this far into the project without debugging a single line of code seemed a bit too good to be true, despite its relative simplicity.
@@ -170,13 +192,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  When using ChatGPT to build an app, ensure to use the same chat thread and try to complete related components as soon as possible. Using a new chat thread or taking a long break might introduce inconsistencies. ChatGPT tends to forget some details of the current project (e.g. the color scheme) if you take long breaks between coding sessions.
 
  That said, we fixed the bug and deployed the code. We registered, logged in, and tried the chat feature. While we were able to send messages from one registered user to another, the color and arrangement of the message bubbles were a bit off. However, for an app that took an hour and 23 minutes to complete, we won't judge it too harshly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT: An Excellent Coding Assistant
 
@@ -201,5 +216,20 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-diy-guide-personalize-google-cardboard-vr-headset/"><u>[New] DIY Guide Personalize Google Cardboard VR Headset</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhance-channel-appeal-with-free-professional-banner-designs/"><u>[New] Enhance Channel Appeal with Free, Professional Banner Designs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-mac-xvideo-ultimate-video-editor-one-click-encoding-and-compression-of-4k-hd-content-for-free/"><u>1. Mac XVideo Ultimate Video Editor: One-Click Encoding & Compression of 4K HD Content for FREE</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/collective-legal-action-by-artists-against-ai-innovators/"><u>Collective Legal Action by Artists Against AI Innovators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-idea-sparkler-to-experienced-prompt-architect-how-to-establish-a-flourishing-career-in-prompt-crafting/"><u>From Idea Sparkler to Experienced Prompt Architect: How To Establish a Flourishing Career in Prompt Crafting</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-moto-g24-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola Moto G24 is off? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-slow-motion-into-fast-action/"><u>In 2024, Transforming Slow Motion Into Fast Action</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/minimizing-data-loss-in-chatgpt-interactions/"><u>Minimizing Data Loss in ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-of-chatgpt-in-cultivating-greater-emotional-awareness-and-understanding/"><u>The Role of ChatGPT in Cultivating Greater Emotional Awareness and Understanding</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-web-compendium-of-adventures/"><u>The Ultimate Web Compendium of Adventures</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy M14 5G Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trust-but-verify-why-not-let-ai-handle-your-document-summaries/"><u>Trust, but Verify: Why Not Let AI Handle Your Document Summaries?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-claudes-magic-the-future-of-intelligent-automation/"><u>Unraveling Claude's Magic: The Future of Intelligent Automation</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Engaging GPT Prose with Your Voice and Vibe
-date: 2024-09-22T17:18:16.864Z
-updated: 2024-09-28T16:08:22.884Z
+date: 2024-10-01T18:16:33.588Z
+updated: 2024-10-03T20:36:34.138Z
 tags:
   - chatgpt
   - open-ai
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/95080ee1192e9ec99602ccecb30de670936b2e86c
  Both options require a different approach, which you can check out below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Training ChatGPT With Samples of Your Work
@@ -61,10 +61,10 @@ Extract the writing style in the text provided below. Please study the tone, wor
 ![Result of writing Style extraction by ChatGPT-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/result-of-writing-style-extraction-by-chatgpt-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, one sample might not be enough to thoroughly capture every aspect of your writing style. So, you can repeat the prompt above with three to five more samples within the same ChatGPT conversation. After iterating through the number of samples you wish to use, you can then use the prompt below to unify the extracted styles.
@@ -78,6 +78,13 @@ Unify all the extracted writing styles and present them in a clear detailed form
 Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, explanation style, and other stylistic elements in order to mimic the unique style of the author of the text below. Use the same stylistic elements to write an article on the topic: "Some article topic goes here." [Paste the sample here]
 
  Also, for the best results, we recommend using GPT-4 and, specifically, the GPT-4 Code Interpreter plugin for the task. You'll be able to work with more text or even, ideally, stack several articles in a text or word file and ask ChatGPT to analyze the content for its writing style.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Training ChatGPT Using a Personal Preference Map (PPM)
 
@@ -101,13 +108,6 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
 
  Another advantage of using a PPM is the flexibility and portability it offers. You can easily tweak the writing style with precision by hanging a few words. You can also use the PPM in a different AI chatbot like Claude AI or Google Bard. We used the PPM above [on the Claude AI chatbot](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/) and asked it to give it a topic to write. It was able to replicate as many of the stylistic elements used by the target author as possible.
@@ -115,10 +115,10 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make ChatGPT Work for You
@@ -144,22 +144,17 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-watch-live-streaming-football-for-free-on-pc-or-mobile/"><u>[New] How to Watch Live Streaming Football for Free on PC or Mobile</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-kickstart-your-video-enhancement-game-with-snapchat/"><u>[New] In 2024, Kickstart Your Video Enhancement Game with Snapchat</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-step-by-step-to-activate-pip-in-youtube-iphone-app/"><u>[Updated] In 2024, Step-by-Step to Activate PIP in YouTube iPhone App</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-large-scale-video-migrations-from-iphone-to-mac-systems/"><u>2024 Approved Optimizing Large-Scale Video Migrations From iPhone to Mac Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/caution-googles-bard-might-be-more-bug-than-genius/"><u>Caution: Google's Bard Might Be More Bug than Genius</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-the-future-classroom-five-essential-uses-for-students/"><u>ChatGPT's Role in the Future Classroom: Five Essential Uses for Students</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-future-navigating-the-most-promising-ai-hardware-tech/"><u>Crafting Future: Navigating the Most Promising AI Hardware Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-opportunities-6-ways-chatgpt-assists/"><u>Discovering Opportunities: 6 Ways ChatGPT Assists</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-14-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 14 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-productivity-4-strategies-with-chatgpt/"><u>Optimizing Productivity: 4 Strategies with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-communication-stopping-chatgpt-record-keeping/"><u>Secure Communication: Stopping ChatGPT Record Keeping</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-threat-of-gpt-to-seo-and-search-techniques/"><u>The Threat of GPT to SEO and Search Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-gptzeros-function-in-ai-detection/"><u>Understanding GPTZero's Function in AI Detection</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-show-your-mood-in-your-digital-media-content-but-dont-know-how-to-there-are-many-moody-luts-available-that-highlight-your-moo/"><u>Updated In 2024, Do You Want to Show Your Mood in Your Digital Media Content but Dont Know How To? There Are Many Moody LUTs Available that Highlight Your Mood in Your Content</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726226378730-8/"><u>무료 초보자에게 호기심을 일으켜주는 8가지 효과적인 녹화 기술</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-mastering-fb-reel-creation-step-by-step-guide/"><u>[Updated] In 2024, Mastering FB Reel Creation Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-guide-to-the-best-high-res-capture-software/"><u>[Updated] In 2024, Ultimate Guide to the Best High-Res Capture Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebooks-inverse-image-labyrinth-navigate-with-these-3-methods/"><u>2024 Approved Facebook's Inverse Image Labyrinth - Navigate with These 3 Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mef-movavi/"><u>線上全球免費MEF格式影片交換平台 – Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-change-f4v-video-format-to-avi-explore-movavi/"><u>Free Online Converter: Change F4V Video Format to AVI - Explore Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-online-conversion-gratuita-de-audio-aac-al-formato-video-avi/"><u>Movavi Online - Conversión Gratuita De Audio AAC Al Formato Video AVI</u></a></li>
+<li><a href="https://windows11.techidaily.com/shine-the-light-how-to-make-your-cursor-more-noticeable-on-win1011/"><u>Shine the Light: How to Make Your Cursor More Noticeable on Win10/11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-tuoi-file-3gp-in-formato-webm-libero-di-uso-guida-passo-passo-con-movavi/"><u>Trasforma I Tuoi File 3GP in Formato WebM Libero Di Uso: Guida Passo-Passo Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-multidimensional-views-with-iphone-15-pros-advanced-spatial-video-capture-for-enhanced-ar-experiences/"><u>Unlocking Multidimensional Views with iPhone 15 Pro's Advanced Spatial Video Capture for Enhanced AR Experiences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-samsung-galaxy-watch-7-find-out-about-its-launch-timeline-costs-features-and-latest-updates/"><u>Unveiling the Samsung Galaxy Watch 7: Find Out About Its Launch Timeline, Costs, Features & Latest Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/66y066omioybueycroydto2kuoyxkoyencdsmktrljtsmktrpbwg7juq6re8io2yleylneycvouhncdrsjtqvrjripqg6rca7j6lioqwleugpe2vncdsmktrljtsmkqg67oa7zmy6riw/"><u>무료 웹사이트에서 오디오를 원근 형식으로 바꾸는 가장 강력한 오디오 변환기</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ativ-mxfavi3/"><u>ビデオ編集においativ用に必要! MXFフォーマットからAVIへの転送手順3つ</u></a></li>
 </ul></div>
 

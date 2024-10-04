@@ -1,7 +1,7 @@
 ---
 title: "Comparing AI Minds: GPT-4 Vs. GPT-3.5 Analysis"
-date: 2024-09-21T16:14:39.351Z
-updated: 2024-09-28T18:13:40.547Z
+date: 2024-09-30T17:58:28.400Z
+updated: 2024-10-03T16:27:12.536Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
  Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
@@ -70,9 +63,23 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to [OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
@@ -84,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
 
  In practical terms, this means that GPT-4 can better remember the context of a conversation for longer, as well as the instructions given during the conversation.
@@ -100,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-4: A Step Up from GPT-3.5
@@ -129,22 +129,16 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-list-top-15-affordable-online-image-enhancers/"><u>[Updated] 2024 Approved The Ultimate List Top 15 Affordable Online Image Enhancers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-discovering-the-best-webcams-for-smart-investment-for-2024/"><u>[Updated] Discovering the Best Webcams for Smart Investment for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-is-there-a-cash-incentive-in-critique-videos/"><u>[Updated] Is There a Cash Incentive in Critique Videos?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-pixelpower-boost-your-phone-pics-for-free/"><u>[Updated] PixelPower Boost Your Phone Pics for Free</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-adding-captions-to-youtube-clips/"><u>[Updated] Step-by-Step Adding Captions to YouTube Clips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-vs-fortune-tellers-which-shines-light-on-tomorrow/"><u>AI Vs. Fortune-Tellers: Which Shines Light on Tomorrow?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-browser-addons-for-secure-gpt-interaction/"><u>Evaluating Browser AddOns for Secure GPT Interaction</u></a></li>
-<li><a href="https://techidaily.com/1723808115620-how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-oneplus-nord-n30-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on OnePlus Nord N30 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/in-depth-analysis-of-petsafes-automatic-feeder-key-benefits-in-maintaining-your-pets-ideal-weight/"><u>In-Depth Analysis of PetSafe's Automatic Feeder: Key Benefits in Maintaining Your Pet's Ideal Weight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-proposal-writing-through-ai-with-chatgpt/"><u>Innovating Proposal Writing Through AI with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-truthgpt-the-real-deal-or-just-hot-air/"><u>Is TruthGPT The Real Deal or Just Hot Air?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-with-caution-common-gpt-hoaxes/"><u>Navigate with Caution: Common GPT Hoaxes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-gen-search-microsoft-upgrades-bing-with-ai-technology/"><u>Next-Gen Search: Microsoft Upgrades Bing with AI Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimal-queries-for-ai-driven-crypto-analysis/"><u>Optimal Queries for AI-Driven Crypto Analysis</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-rings-rhythm-versus-screen-time-symphony/"><u>The Ring's Rhythm Versus Screen Time Symphony</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-ai-chat-expertise-gpt-versus-bings-bot/"><u>Unraveling AI Chat Expertise: GPT versus Bing's Bot</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-understanding-theta-s-complete-technical-review/"><u>[New] Understanding Theta S Complete Technical Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/capturing-your-moments-with-movavis-premium-webcam-encoding-tools/"><u>Capturing Your Moments with Movavi's Premium Webcam Encoding Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-converting-audio-files-m4r-in-mp3-with-online-tools-discover-how-movavi-does-it/"><u>Gratis Converting Audio Files (M4R) in MP3 with Online Tools - Discover How Movavi Does It!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-y56-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo Y56 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-the-gap-audio-to-text-in-powerpoint-slides/"><u>In 2024, Bridging the Gap Audio to Text in PowerPoint Slides</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-asus-dvdcd-rom-driver-installers-available-now/"><u>Latest ASUS DVD/CD-ROM Driver Installers Available Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-helperdll-file-not-found-step-by-step-guide/"><u>Resolving 'Helper.dll' File Not Found - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riporta-i-file-wma-a-formato-m4b-online-gratuito-conversione-rapida-con-movavi/"><u>Riporta I File WMA a Formato M4B Online Gratuito - Conversione Rapida Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-artificial-intelligence-enhanced-virtual-crime-conundrums-solve-as-a-sleuth/"><u>Top 4 Artificial Intelligence-Enhanced Virtual Crime Conundrums - Solve as a Sleuth</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726227963473-mpg-swf-movavi/"><u>무료 MPG SWF 파일에서 웹 게시로 전환: Movavi의 가이드</u></a></li>
 </ul></div>
 

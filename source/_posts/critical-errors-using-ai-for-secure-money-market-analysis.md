@@ -1,7 +1,7 @@
 ---
 title: "Critical Errors: Using AI for Secure Money Market Analysis"
-date: 2024-09-24T18:13:41.838Z
-updated: 2024-09-28T16:12:04.215Z
+date: 2024-09-26T21:16:57.558Z
+updated: 2024-10-03T17:09:43.492Z
 tags:
   - chatgpt
   - open-ai
@@ -32,16 +32,16 @@ thumbnail: https://thmb.techidaily.com/87c61f765040c8533bc15b7b64ecc936c1a1ca311
 
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The huge success of ChatGPT, as well as the release of [similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/), has brought the concern of hallucination into the limelight.
 
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/87c61f765040c8533bc15b7b64ecc936c1a1ca311
  ChatGPT can hold a bias in certain scenarios due to its training data. According to [BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/), ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Fails to Give Personalized Financial Advice
@@ -76,28 +76,15 @@ thumbnail: https://thmb.techidaily.com/87c61f765040c8533bc15b7b64ecc936c1a1ca311
 
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Relies Heavily on Historical Data
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
@@ -120,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/87c61f765040c8533bc15b7b64ecc936c1a1ca311
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT Is Revolutionary but Far From Perfect
 
  There's no denying that ChatGPT can help you in a myriad of ways, be it in research, writing, idea generation, or creativity. But if you want to use this chatbot in your crypto trading venture, it's paramount that you consider the risks and downsides listed above.
@@ -141,21 +135,19 @@ thumbnail: https://thmb.techidaily.com/87c61f765040c8533bc15b7b64ecc936c1a1ca311
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/-step-by-step-expedition-to-youtubes-unseen-layers/"><u>[New] A Step-by-Step Expedition to YouTube's Unseen Layers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-nurturing-discussions-strategies-to-connect-with-followers/"><u>[Updated] 2024 Approved Nurturing Discussions Strategies to Connect With Followers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-earning-on-snapchat/"><u>[Updated] 2024 Approved The Ultimate Guide to Earning on Snapchat</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-midgard-alliance-defenders-of-ragnarok/"><u>2024 Approved Midgard Alliance Defenders of Ragnarok</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-itel-a05s-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Itel A05s to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-security-lapses-in-chatgpt/"><u>Decoding the Security Lapses in ChatGPT</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-6-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 6 Plus and iPad</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-look-at-claude-pro-versus-enhanced-chatgptplus/"><u>Inside Look at Claude Pro Versus Enhanced ChatGPT+</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-ai-disrupting-traditional-seo/"><u>Is AI Disrupting Traditional SEO?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/making-the-right-choice-dvd-blu-ray-or-digital-files-which-is-worth-buying-in-todays-market/"><u>Making the Right Choice: DVD, Blu-Ray or Digital Files – Which Is Worth Buying in Today's Market?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mystic-ciphers-and-clues-play-through-4-ai-driven-puzzles/"><u>Mystic Ciphers and Clues: Play Through 4 AI-Driven Puzzles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-pc-communication-leveraging-rtx-ai-assistant/"><u>Optimize PC Communication: Leveraging RTX AI Assistant</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/responsible-study-practices-in-the-digital-age/"><u>Responsible Study Practices in the Digital Age</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sports-nutritionists-guide-to-ai-interactions/"><u>Sports Nutritionists' Guide to AI Interactions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-league-of-legends-voice-communication-issues/"><u>Troubleshooting Guide: Fixing League of Legends Voice Communication Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-pc-crashes-in-r-type-final-2-a-step-by-step-guide/"><u>Troubleshooting Persistent PC Crashes in R-Type Final 2 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-movavi-wtv-converter/"><u>«無償WEB上の動画形式変換ツール - Movavi WTV Converter»</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-compelling-content-for-spotifys-ad-revenue/"><u>[New] Crafting Compelling Content for Spotify's Ad Revenue</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-latest-instagram-photo-and-video-size-checklist/"><u>[New] In 2024, Latest Instagram Photo and Video Size Checklist</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-mpeg-avs-movavi/"><u>1. 網路版無料移動電話影片 MPEG-AVS 改編：Movavi 轉頻器指南</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-chronological-tagging-adding-times-to-youtube-vids/"><u>2024 Approved Chronological Tagging Adding Times to YouTube Vids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-content-marketing-for-more-views-and-subscribers/"><u>2024 Approved Leveraging Content Marketing for More Views and Subscribers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-process-for-deleting-stickers-from-tiktok/"><u>2024 Approved Step-by-Step Process for Deleting Stickers From TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-find-the-best-and-easy-guide-to-use/"><u>7 : Find the Best and Easy Guide to Use!</u></a></li>
+<li><a href="https://facebook.techidaily.com/building-an-impressive-facebook-business-persona/"><u>Building an Impressive Facebook Business Persona</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/entendendo-o-contraste-de-mov-e-mp4-qual-tem-as-vantagens/"><u>Entendendo O Contraste De MOV E MP4: Qual Tem as Vantagens?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-beveled-video-format-converter-m4v-to-aac-free-download-at-movavi/"><u>Online Beveled Video Format Converter M4V to AAC Free Download at Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-laptop-and-tv-using-an-hdmi-cable/"><u>Step-by-Step Guide: Linking Your Laptop and TV Using an HDMI Cable</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategie-avanzate-per-la-compressione-dei-file-video-mp4-utilizzando-il-software-di-movavi-tutorial-completo-e-facile-da-seguire/"><u>Strategie Avanzate per La Compressione Dei File Video MP4 Utilizzando Il Software Di Movavi: Tutorial Completo E Facile Da Seguire</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-essential-guide-to-creating-effective-video-loops-on-instagram-for-2024/"><u>The Essential Guide to Creating Effective Video Loops on Instagram for 2024</u></a></li>
 </ul></div>
 

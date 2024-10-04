@@ -1,7 +1,7 @@
 ---
 title: The Essential Role of Vector Databases in AI Evolution
-date: 2024-09-18T18:53:16.473Z
-updated: 2024-09-22T16:09:02.155Z
+date: 2024-09-28T22:42:00.489Z
+updated: 2024-10-03T23:27:50.831Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an [API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
 
@@ -66,28 +80,15 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 * **Anomaly Detection:** By recording actions as embeddings, an [AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How a Vector Database Works
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
 
@@ -103,6 +104,19 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 * **Milvus**: An open-source vector platform built with similarity search and AI applications in mind. It provides quick and efficient indexing and search capabilities for high-dimensional vectors. In addition, Milvus supports multiple indexing algorithms and offers SDKs for various programming languages.
 * **Redis:** A high-performance vector database capable of supporting real-time applications, session management, and high-traffic websites. Redis is often used for real-time analytics, similarity search, and recommendation systems.
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Future of Vector Databases
 
@@ -129,5 +143,26 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-4k-gimbal-picks-top-ten-mirrorless-companions/"><u>[New] 4K Gimbal Picks Top Ten Mirrorless Companions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-audiocapture-studio-download-test-and-discussion/"><u>[New] AudioCapture Studio Download, Test & Discussion</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-directscreencapture-simple-and-swift-recordings/"><u>[New] DirectScreenCapture Simple & Swift Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-superfluous-extensions-for-optimal-chatgpt-performance/"><u>Avoid Superfluous Extensions for Optimal ChatGPT Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-conversational-techniques-and-human-simulation/"><u>Chatbot Conversational Techniques and Human Simulation</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-participate-in-openais-bounty-for-detecting-system-errors/"><u>How to Participate in OpenAI’s Bounty for Detecting System Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-imagery-unleashed-dall-e-iiis-new-prompt-paradigm/"><u>Innovative Imagery Unleashed: DALL-E III’s New Prompt Paradigm</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/key-questions-to-ask-before-investing-in-a-tv/"><u>Key Questions to Ask Before Investing in a TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-solitude-gpt-powered-social-platforms/"><u>Redefining Solitude: GPT-Powered Social Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sam-altmans-exit-what-it-means-for-gpt/"><u>Sam Altman's Exit - What It Means for GPT?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/step-by-step-mastery-utilizing-the-secret-features-of-preview-on-macos-devices/"><u>Step-by-Step Mastery: Utilizing the Secret Features of Preview on macOS Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-zenith-of-bots-beyond-chatgpt/"><u>The Zenith of Bots Beyond ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trailblazing-with-tech-top-6-innovations-from-code-conductor/"><u>Trailblazing with Tech - Top 6 Innovations From Code Conductor</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/transitioning-from-standard-to-custom-thumbnails-in-twitter-videos/"><u>Transitioning From Standard to Custom Thumbnails in Twitter Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-elusive-no-signal-problem-on-your-xbox-one/"><u>Troubleshooting the Elusive 'No Signal' Problem on Your Xbox One</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ultimate-action-cams-face-off-black-and-star/"><u>Ultimate Action Cams Face-Off Black & Star</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-private-space-in-a-public-domain-the-top-3-bot-privacy-risks/"><u>Your Private Space in a Public Domain: The Top 3 Bot Privacy Risks</u></a></li>
+</ul></div>
 

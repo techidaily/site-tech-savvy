@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the Inner Workings: 7 Apps with GPT-4"
-date: 2024-09-25T18:40:23.061Z
-updated: 2024-09-28T17:04:02.592Z
+date: 2024-09-26T18:01:29.253Z
+updated: 2024-10-03T19:01:54.733Z
 tags:
   - chatgpt
   - open-ai
@@ -47,6 +47,13 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  GPT-4 is being used to create a reactive and responsive learning environment where no two conversations are alike. The first version is restricted to English speakers wanting to learn Spanish or French and is available only on iOS. Duolingo Max is priced at $29.99 monthly or $167.99 for an annual subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Be My Eyes
 
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
@@ -54,10 +61,10 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
  The use of AI in our lives has been the source of many heated discussions. However, there are some areas where there can be little argument that AI has a positive effect. Be My Eyes is one such example. The app is designed to make the world more accessible for visually impaired people.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Does Be My Eyes Use GPT-4?
@@ -68,16 +75,22 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  The Be My Eyes Virtual Volunteer is in beta testing; the company hopes to roll it out to the public soon. It will be available for free to all blind and low-vision members on both Android and iOS platforms.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Khan Academy
 
 ![Screenshot of Khan Academy Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-khan-academy-homepage.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the topic of worthwhile causes, another early adopter of GPT-4 is Khan Academy, a [free online course platform](https://www.khanacademy.org/signup). This non-profit organization's mission statement is to offer free, world-class education to anyone.
 
@@ -105,44 +118,37 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
  The Khan Academy app is free across all platforms; students and teachers can sign up online to join [Khan Academy](https://www.khanacademy.org/signup).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Stripe
 
 ![Screenshot of Stripe Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-stripe-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Stripe is a payment processing platform that allows all types of businesses to accept and send payments online and provides other business management tools.
 
  OpenAI—the brains behind the brains of GPT-4—is already in collaboration with Stripe. Now, Stripe is integrating GPT-4 into its platform. The company already used GPT-3 for simple tasks, but integrating GPT-4 means AI will play a bigger role in the company's processes.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
+<span id="1983551">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Stripe Intends to Use GPT-4
@@ -160,13 +166,6 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 ## 5\. ChatSonic
 
 ![Screenshot of ChatSonic homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatsonic-homepage.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: ChatSonic
 
@@ -190,6 +189,19 @@ Image Credit: ChatSonic
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
@@ -199,13 +211,6 @@ Close
  Microsoft was an early adopter of GPT-4, which it integrated into its Bing search page. A Bing app is now available for Android and iOS, bringing the power of GPT-4 to the mobile masses.
 
  The Bing app is representative of the next generation of search engines and, in true ChatGPT style, is capable of far more than just listing relevant results.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What Can You Use the Bing AI App For?
 
@@ -221,6 +226,13 @@ Close
  In short, this app can do everything that the original ChatGPT can, but with lots more features and access to current data sources.
 
 **Download**: Bing AI for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023057/https://play.google.com/store/apps/details?id=com.microsoft.bing) | [iOS](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Petey
 
@@ -267,17 +279,19 @@ Image Credit: Petey Assistant
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-compreeve-youtube-extraction-11-tools-reviewed-for-2024/"><u>[Updated] Compreeve YouTube Extraction 11 Tools Reviewed for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-imagination-vrs-present-future-prospects/"><u>2024 Approved Beyond Imagination VR's Present, Future Prospects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-personalization-enhancing-your-digital-marketing/"><u>Cookiebot-Enabled Personalization: Enhancing Your Digital Marketing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-boost-your-sites-performance-and-analytics/"><u>Cookiebot-Enabled: Boost Your Site's Performance and Analytics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/customizable-with-cookiebot-your-ultimate-solution-for-personalized-experiences/"><u>Customizable with Cookiebot: Your Ultimate Solution for Personalized Experiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/customized-user-experience-with-advanced-cookiebot-technology/"><u>Customized User Experience with Advanced Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-smart-document-automation-system-the-premier-industry-choice-elevates-its-capabilities/"><u>Cutting-Edge Smart Document Automation System - The Premier Industry Choice Elevates Its Capabilities</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-updating-ralink-adapters-a-step-by-step-process-for-windows-users/"><u>Master the Art of Updating Ralink Adapters: A Step-by-Step Process for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-common-errors-in-office-app-activation-on-pc/"><u>Resolving Common Errors in Office App Activation on PC</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/simple-steps-making-your-channels-subscription-button-stand-out/"><u>Simple Steps Making Your Channel's Subscription Button Stand Out</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-efficiency-the-6-point-edge-of-the-chatgpt-app-over-the-web-interface/"><u>Unlocking Efficiency: The 6-Point Edge of the ChatGPT App Over the Web Interface</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/lipcraft-designer-for-2024/"><u>[New] ClipCraft Designer for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-lightninglash-delaytape-playback/"><u>[Updated] 2024 Approved LightningLash DelayTape Playback</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-ranking-the-best-no-cost-tiktok-to-mp3-conversion-services/"><u>[Updated] 2024 Approved Ranking the Best No-Cost TikTok to MP3 Conversion Services</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-15-science-youtube-channels-to-expand-knowledge/"><u>2024 Approved Top 15 Science YouTube Channels to Expand Knowledge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessing-gpt-4-on-a-shoestring-budget/"><u>Accessing GPT-4 on a Shoestring Budget</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/advanced-mp4-encoder-for-social-sharing-for-2024/"><u>Advanced MP4 Encoder for Social Sharing for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/becoming-a-star-spectator-on-the-social-stage-for-2024/"><u>Becoming a Star Spectator on the Social Stage for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-ai-like-chatgpt-trigger-unauthorized-access-on-personal-computers/"><u>Can AI Like ChatGPT Trigger Unauthorized Access on Personal Computers?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-spark-10-4g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Spark 10 4G without App | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy/"><u>In 2024, Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-complexity-pythons-role-in-gpt-3/"><u>Simplifying Complexity: Python's Role in GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spearheading-impactful-presentation-design-with-chatgpt-insights/"><u>Spearheading Impactful Presentation Design with ChatGPT Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-advantages-4-reasons-to-prefer-claude-3/"><u>Unveiling the Advantages: 4 Reasons to Prefer Claude 3</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-cutting-edge-cinema-10-famous-films-edited-with-final-cut-pro-for-2024/"><u>Updated Cutting-Edge Cinema 10 Famous Films Edited with Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

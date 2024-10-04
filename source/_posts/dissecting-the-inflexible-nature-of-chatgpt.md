@@ -1,7 +1,7 @@
 ---
 title: Dissecting the Inflexible Nature of ChatGPT
-date: 2024-09-27T16:11:17.773Z
-updated: 2024-09-28T17:37:15.378Z
+date: 2024-09-27T16:32:57.875Z
+updated: 2024-10-03T17:52:28.167Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 
 ![uncensored chatbots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/uncensored-chatbots.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As large tech firms tighten content moderation on mainstream AI chatbots like ChatGPT, smaller, profit-focused startups opt for fewer restrictions, betting on demand for censorship-free AI chatbots. With a little research, you'll find dozens of AI chatbot platforms offering uncensored chatbots that can do almost anything you want them to do.
 
  Whether it is writing those crime thriller and dark humor novels that ChatGPT refuses to write or writing malware that attacks people's computers, these uncensored chatbots with a skewed moral compass will do whatever you want. With them around, there's no point putting in the extra energy to write jailbreaks for ChatGPT. Although not necessarily as powerful as ChatGPT, these alternative platforms can comfortably perform a large range of tasks. Platforms like FlowGPT and Unhinged AI are some popular examples.
@@ -58,15 +51,22 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 ![Image of a padlock on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/towfiqu-barbhuiya-fna5pazqhmm-un.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In ChatGPT's early months, [jailbreaking ChatGPT was as simple as copy-pasting prompts](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) from online sources. You could entirely alter ChatGPT's personality with just a few lines of tricky instructions. With simple prompts, you could turn ChatGPT into an evil villain teaching how to make bombs or a chatbot willing to use all forms of profanity without restraint. It was a free-for-all that produced infamous jailbreaks like DAN (Do Anything Now). DAN involved a set of seemingly harmless instructions that compelled the chatbot to do anything it was asked without refusing. Shockingly, these crude tricks worked back then.
 
  However, those wild early days are history. These basic prompts and cheap tricks no longer fool ChatGPT. Jailbreaking now requires complex techniques to have a chance of bypassing OpenAI's now robust safeguards. With jailbreaking becoming so difficult, most users are too discouraged to attempt it. The easy and wide-open exploits of ChatGPT's early days are gone. Getting the chatbot to say one wrong word now requires significant effort and expertise that may not be worth the time and effort.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. The Novelty Has Worn Off
 
@@ -74,31 +74,37 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 
  A driving force behind many users' attempts to jailbreak ChatGPT was the thrill and excitement of doing so in the early days. As a new technology, getting ChatGPT to misbehave was entertaining and earned bragging rights. While there are countless practical applications for ChatGPT jailbreaks, many pursued them for the "wow, look what I did" appeal. Gradually, though, the excitement stemming from the novelty has faded, and along with it, people's interest in dedicating time to jailbreaks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Jailbreaks Are Patched Rapidly
 
 ![ChatGPT jailbreaks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-jailbreaks.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A common practice within the ChatGPT jailbreaking community is sharing every successful exploit when discovered. The problem is that when exploits are shared widely, OpenAI often becomes aware of them and fixes the vulnerabilities. This means the jailbreaks stop working before people who would be interested can even try them.
 
  So, each time a ChatGPT user painstakingly develops a new jailbreak, sharing it with the community hastens its demise via patching. This disincentivizes the idea of going public whenever a user comes across a jailbreak. The conflict between keeping jailbreaks active yet hidden versus publicizing them creates a dilemma for ChatGPT jailbreak creators. These days, more often than not, people choose to keep their jailbreaks a secret to avoid the loopholes being patched.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Uncensored Local Alternatives
 
 ![person holding a smartphone with chatbot application facing viewer surrounded by icons](https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d176aa35825ab519985b4fb1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The rise of local large language models you can run locally on your computer has also dampened the interest in ChatGPT jailbreaks. While local LLMs aren't entirely censorship-free, many are significantly less censored and can be easily modified to fit the users' desires. So, the choices are simple. You can engage in the endless cat-and-mouse game of finding a way to trick the chatbot only to get it fixed shortly. Or, [you can settle for a local LLM](https://www.makeuseof.com/should-you-use-local-llms/) you can permanently modify to do anything you want.
 
@@ -108,20 +114,14 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 
 ![A Group of Businessmen in Suits Discussing Projects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/group-of-people-discussing-project.jpg)
 
- Why dedicate precious time to developing jailbreaking prompts if you'll get nothing from it? Well, some professionals now sell jailbreaks for profit. These professional jailbreak creators design jailbreaks that perform specific tasks and list them for sale on prompt marketplaces such as PromptBase. Depending on their capabilities, these jailbreaking prompts might sell for anywhere between $2 to $15 per prompt. Some complicated multi-step exploits may cost significantly more.
-
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Why dedicate precious time to developing jailbreaking prompts if you'll get nothing from it? Well, some professionals now sell jailbreaks for profit. These professional jailbreak creators design jailbreaks that perform specific tasks and list them for sale on prompt marketplaces such as PromptBase. Depending on their capabilities, these jailbreaking prompts might sell for anywhere between $2 to $15 per prompt. Some complicated multi-step exploits may cost significantly more.
 
 ## Could the Crack Down on Jailbreaks Backfire?
 
@@ -150,18 +150,15 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-time-travelers-guide-to-snapchatinasync-videos/"><u>[New] In 2024, The Time-Traveler's Guide to Snapchat'inasync Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-lenovo-screenshots-in-minutes-for-2024/"><u>[Updated] Mastering Lenovo Screenshots in Minutes for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/choosing-the-best-for-your-home-theater-library-handbrake-or-makemkv/"><u>Choosing the Best for Your Home Theater Library: Handbrake or MakeMKV?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-guide-to-resolving-sluggish-windows-11-update-issues/"><u>Expert Guide to Resolving Sluggish Windows 11 Update Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fixing-a-non-responsive-oculus-headset-remote-solutions-inside/"><u>Fixing a Non-Responsive Oculus Headset Remote: Solutions Inside</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-disable-automatic-driver-update-on-windows-11/"><u>How to Disable Automatic Driver Update on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-enable-bluetooth-for-windows-8/"><u>How to Enable Bluetooth for Windows 8</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-camera-missing-in-device-manager-quickly/"><u>How to Fix Camera Missing in Device Manager Quickly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-play-dvds-on-windows-11/"><u>How to Play DVDs on Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-monetization-masterclass-with-carminati-ajay-crafting-content-for-commerce/"><u>In 2024, Monetization Masterclass with Carminati (AJay) Crafting Content for Commerce</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-seamless-sound-moves-in-premiere-pro/"><u>In 2024, Unveiling Seamless Sound Moves in Premiere Pro</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncovering-the-cause-of-asymmetrical-volume-in-apple-earphones-and-fixes/"><u>Uncovering the Cause of Asymmetrical Volume in Apple Earphones and Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-os-admin-error-run-blocked-apps/"><u>Bypassing OS Admin Error: Run Blocked Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-beyond-the-reach-of-openai/"><u>ChatGPT: Beyond the Reach of OpenAI?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-deletion-of-chatgpt-profile-a-comprehensive-walkthrough/"><u>Complete Deletion of ChatGPT Profile: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-magic-in-words-top-4-ai-story-generators-reviewed/"><u>Crafting Magic in Words: Top 4 AI Story Generators Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fabletellers-fellowship-esteemed-ensemble/"><u>Fabletellers Fellowship – Esteemed Ensemble</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-news-feeds-revolutionary-shift/"><u>Google News Feed's Revolutionary Shift</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-gpt-3-with-python/"><u>How to Use GPT-3 With Python</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tackling-youtubes-dark-view-troubleshooting-steps-for-2024/"><u>Tackling YouTube's Dark View Troubleshooting Steps for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/virtual-reality-therapy-breakthroughs/"><u>Virtual Reality Therapy Breakthroughs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Edge 40? | Dr.fone</u></a></li>
 </ul></div>
 

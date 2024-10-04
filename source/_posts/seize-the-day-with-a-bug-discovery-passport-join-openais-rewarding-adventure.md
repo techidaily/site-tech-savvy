@@ -1,7 +1,7 @@
 ---
 title: Seize the Day with a Bug Discovery Passport; Join OpenAI’s Rewarding Adventure!
-date: 2024-09-27T16:50:25.666Z
-updated: 2024-09-28T16:22:36.043Z
+date: 2024-10-02T21:09:02.397Z
+updated: 2024-10-03T22:29:40.064Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/40daecb43446fb2453b8b24925113b6da283db2cd
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -60,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/40daecb43446fb2453b8b24925113b6da283db2cd
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Participate in OpenAI's Bug Bounty Program
@@ -72,15 +65,22 @@ thumbnail: https://thmb.techidaily.com/40daecb43446fb2453b8b24925113b6da283db2cd
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here, you must fill in the following information:
@@ -98,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/40daecb43446fb2453b8b24925113b6da283db2cd
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
@@ -139,18 +139,21 @@ thumbnail: https://thmb.techidaily.com/40daecb43446fb2453b8b24925113b6da283db2cd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-harnessing-metaverse-promotion-power/"><u>[New] 2024 Approved Harnessing Metaverse Promotion Power</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-channelenas-expensive-check-out-our-11-free-name-generators-guide-for-2024/"><u>[Updated] Elevate Your Channel'enas Expensive? Check Out Our 11 Free Name Generators Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-versus-astrology-is-chatgpt-a-better-omen-reader-than-horoscopes/"><u>AI Versus Astrology: Is ChatGPT a Better Omen Reader than Horoscopes?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-steps-to-erase-profiles-on-your-windows-11-computer-using-simple-tools/"><u>Easy Steps to Erase Profiles on Your Windows 11 Computer Using Simple Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-digital-issue-troubleshooting-dolby-sound-driver-problems-on-windows-11/"><u>Fixing Dolby Digital Issue: Troubleshooting Dolby Sound Driver Problems on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-recover-vanished-desktop-icons-on-your-windows-11-machine-solution/"><u>How to Recover Vanished Desktop Icons on Your Windows 11 Machine (Solution)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-potential-metaverse-marketing-secrets/"><u>In 2024, Unlocking Potential Metaverse Marketing Secrets</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-unveiling-the-best-practices-for-youtube-fb-sharing/"><u>In 2024, Unveiling the Best Practices for YouTube FB Sharing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-windows-11s-reset-this-pc-best-practices-for-timing-and-execution/"><u>Mastering Windows 11'S 'Reset This PC': Best Practices for Timing and Execution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-your-gaming-experience-the-definitive-guide-to-boosting-fps-in-counter-strike-global-offensive/"><u>Maximizing Your Gaming Experience: The Definitive Guide to Boosting FPS in Counter-Strike: Global Offensive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolved-how-to-fix-the-snipping-tool-malfunction-in-windows-10-and-11/"><u>Resolved: How to Fix the Snipping Tool Malfunction in Windows 10 and 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-itel-p55t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Itel P55T without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-words-across-languages-utilizing-chatgpt-for-effective-translation-solutions/"><u>Transform Your Words Across Languages: Utilizing ChatGPT for Effective Translation Solutions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-unleash-your-earning-potential-on-tiktok-in-just-8-steps/"><u>[New] 2024 Approved Unleash Your Earning Potential on TikTok in Just 8 Steps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-efficiently-embedding-your-imovie-clips-in-a-vimeo-account/"><u>[New] Efficiently Embedding Your iMovie Clips in a Vimeo Account</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-a-beginners-guide-to-professional-gif-creation/"><u>[Updated] A Beginner's Guide to Professional GIF Creation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-livestream-on-facebook-from-android-and-ios/"><u>[Updated] In 2024, How to Livestream on Facebook From Android and iOS?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advantages-why-upgrading-to-chatgpt-plus/"><u>Advantages: Why Upgrading to ChatGPT Plus?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-career-prospects-for-prompt-engineers/"><u>Analyzing Career Prospects for Prompt Engineers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-code-unveiling-6-transformative-uses-for-chatgpts-ai/"><u>Beyond Code: Unveiling 6 Transformative Uses for ChatGPT's AI</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-a24-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy A24 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/decoding-apples-m1-revolution-in-tech/"><u>Decoding Apple's M1 Revolution in Tech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-snappy-satire-iphone-memes/"><u>In 2024, Snappy Satire IPhone Memes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-ai-companion-gpt-for-enhanced-productivity/"><u>Introducing AI Companion, GPT for Enhanced Productivity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/proven-techniques-to-enhance-subscriber-count-with-effective-channel-branding-for-2024/"><u>Proven Techniques to Enhance Subscriber Count with Effective Channel Branding for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-psychological-support-through-ai-tech-advancements/"><u>Reimagining Psychological Support Through AI Tech Advancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silverman-and-peers-target-openaimeta-for-creative-liberty/"><u>Silverman and Peers Target OpenAI/Meta for Creative Liberty</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/urgent-improvements-for-enriching-chatgpt-plugin-experience/"><u>Urgent Improvements for Enriching ChatGPT Plugin Experience</u></a></li>
 </ul></div>
 

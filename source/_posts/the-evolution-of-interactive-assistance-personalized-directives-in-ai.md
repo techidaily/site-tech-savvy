@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Interactive Assistance: Personalized Directives in AI"
-date: 2024-09-24T18:25:55.099Z
-updated: 2024-09-28T17:34:50.679Z
+date: 2024-10-01T22:55:08.432Z
+updated: 2024-10-04T00:26:51.780Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 
  The Custom Instructions feature is currently being rolled out to ChatGPT Plus users. According to [OpenAI's announcement](https://openai.com/blog/custom-instructions-for-chatgpt), Custom Instructions will be rolled out to all Chatgpt users subsequently. So, if you are using a free-tier account, you might have to wait a bit longer. As an aside, early access to new features is a good [reason to upgrade to a ChatGPT Plus account](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/). Without a doubt, the Custom Instructions feature is the single most important personalization feature introduced to ChatGPT since the chatbot was launched in November 2022\.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Turn On Custom Instructions in ChatGPT
 
  If you have a ChatGPT Plus account, you can turn on Custom Instructions in ChatGPT by following these steps:
@@ -53,14 +46,21 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 3. On the pop-up menu that comes up, click on **Beta features** on the left panel.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Toggle **Custom instructions** to turn on the feature and exit the pop-up.  
 ![toggling on custom instructions on ChatGPT Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/toggling-on-custom-instructions-on-chatgpt-settings-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the feature is turned on, you have to provide instructions that you want ChatGPT to retain across all your chat sessions.
 
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
    * For the second editor, you can provide information about how you want ChatGPT's response to be.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    ![Answering custom instructions question 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/answering-custom-instructions-question-2.jpg)
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
  The urge to provide personal information to ChatGPT might increase with the introduction of this new feature, but [avoid providing any sensitive information to ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/), even in the instructions' editor. If you have plugins turned on for your account, third-party plugin developers can access any sensitive information you share using the feature.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Personalize ChatGPT to Your Taste
@@ -128,21 +128,21 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-a-compreehensive-guide-to-youtube-thumbnail-creation-mac/"><u>[New] In 2024, A Compreehensive Guide to YouTube Thumbnail Creation (Mac)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-adding-soundtracks-to-shareable-fb-moments/"><u>[New] In 2024, Adding Soundtracks to Shareable FB Moments</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808161160-solve-how-to-block-ads-in-firefox-quickly-and-easily/"><u>[Solve] How to Block Ads in Firefox | Quickly & Easily!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-delightful-no-cost-access-to-youtubes-nine-full-length-yule-celebrations/"><u>[Updated] In 2024, Delightful, No-Cost Access to YouTube's Nine Full-Length Yule Celebrations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808237599-effortless-setup-of-exodus-extension-for-your-kodi-experience/"><u>Effortless Setup of Exodus Extension for Your Kodi Experience!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-6s-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 6s Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-nearby-your-personal-guide-for-on-the-go-assistance/"><u>Navigating Nearby - Your Personal Guide for On-the-Go Assistance</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-sound-design-excellence-applying-audio-ducking-methods-in-powerdirector-for-non-intrusive-volume-reduction-for-2024/"><u>New Sound Design Excellence Applying Audio Ducking Methods in PowerDirector for Non-Intrusive Volume Reduction for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-configure-your-desktop-with-three-screens/"><u>Step-by-Step Tutorial: Configure Your Desktop with Three Screens</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-connectivity-problems-with-windows-10-solutions-for-bluetooth-audio-and-screen-gadgets/"><u>Troubleshooting Connectivity Problems with Windows 10: Solutions for Bluetooth Audio & Screen Gadgets</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-graphics-gear-for-4k-media/"><u>Ultimate Graphics Gear for 4K Media</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-choosing-the-perfect-vpn-for-gamers-on-windows-platforms/"><u>Ultimate Guide: Choosing the Perfect VPN for Gamers on Windows Platforms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/understanding-why-we-use-4k-super-hd-graphics/"><u>Understanding Why We Use 4K Super HD Graphics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-your-pcs-full-potential-entering-bios-on-windows-10-and-7-explained/"><u>Unlock Your PC's Full Potential: Entering BIOS on Windows 10 & 7 Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/update-drivers-in-windows-10-easily-and-quickly/"><u>Update Drivers in Windows 10. Easily & Quickly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-edition-the-finest-picture-fixers/"><u>[Updated] 2024 Approved Instagram Edition The Finest Picture Fixers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-of-3d-entertainment-premium-blu-ray-decks/"><u>[Updated] Pinnacle of 3D Entertainment Premium Blu-Ray Decks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-gpt-addons-trustworthy/"><u>Are GPT Addons Trustworthy?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-giants-clash-notions-stand-against-chatgpt/"><u>Generative Giants Clash: Notion's Stand Against ChatGPT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-konverteren-van-aiff-naar-m4a-ladder-online-en-meteen/"><u>Gratuit Konverteren Van AIFF Naar M4A-Ladder - Online en Meteen</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-microsoft-print-to-pdf-problem-on-windows-11-devices/"><u>How To Troubleshoot 'Microsoft Print to PDF' Problem on Windows 11 Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-essentials-to-initiate-in-google-meet/"><u>In 2024, The Essentials to Initiate in Google Meet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-visualediting-deep-dive-comprehensive-article-on-androvid/"><u>In 2024, VisualEditing Deep Dive – Comprehensive Article on AndroVid</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-what-is-ai-pixel-art-generator/"><u>In 2024, What Is AI Pixel Art Generator?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-rx-250-driver-software-for-windows-operating-systems-download-now/"><u>Latest Logitech RX-250 Driver Software for Windows Operating Systems - Download Now!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-videopad-video-editor-is-it-worth-the-investment-a-detailed-review/"><u>New Videopad Video Editor Is It Worth the Investment? A Detailed Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reclaiming-lost-conversations-with-ai/"><u>Reclaiming Lost Conversations with AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ais-future-prospects-and-perils/"><u>Understanding AI's Future: Prospects and Perils</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-time-and-intelligence-gpt-powered-wearables-on-the-rise/"><u>Unlocking Time and Intelligence: GPT-Powered Wearables on the Rise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-emotion-ai-and-can-it-really-understand-our-feelings/"><u>What Is Emotion AI and Can It Really Understand Our Feelings?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-consider-snapchats-my-ai-beyond-a-fun-gadget/"><u>Why Consider Snapchat’s My AI Beyond a Fun Gadget</u></a></li>
 </ul></div>
 

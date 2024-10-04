@@ -1,7 +1,7 @@
 ---
 title: "Artificial Ingenuity Test: Identical Challenge Met Differently"
-date: 2024-09-27T18:35:59.431Z
-updated: 2024-09-28T17:58:41.311Z
+date: 2024-10-02T18:22:43.780Z
+updated: 2024-10-03T22:46:32.874Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
 * [Which Chatbot Did Best With Short Stories?](https://turtlebeacheu.sjv.io/1r0r59)
 * [Which Chatbot Did Best With Scripts?](https://godlikehost.sjv.io/vnbxzv)
 * [Which Chatbot Did Best With Social Media Bios?](https://eimmie.pxf.io/21emk7)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
 
  ChatGPT wrote the longest song and used interesting lyrics, but the koala theme barely existed, especially when compared to what the other chatbots came up with. It also struggled to complete the song.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Chatbot Did Best With Poetry?
 
  Poems tend to be quite creative in their use of language, so the chatbot with the richest database and training would perform the best.
@@ -73,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
  ChatGPT proved the most capable in responding to the following prompt: “Write a rhyming poem about swimming in the sea. It should have 15 lines maximum.” While the outcome was hardly inspiring, further proof that [human writers can outperform AI writing tools](https://www.makeuseof.com/ways-content-writers-outperform-ai/) , the poem’s flow and choice of words were graceful and pleasant.
 
 ![ChatGPT Writes a Poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writes-a-poem.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Copilot and Gemini were both less effective than ChatGPT in all these regards. However, you may find that results vary depending on the type of poem and the instructions you give each chatbot. Make a note of the many available [tips and tricks for better AI prompting](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/) .
 
@@ -84,23 +91,9 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
 
 ![ChatGPT Writing a Short Story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writing-a-short-story.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The same applied to Gemini’s creation, except that its narration contained confusing elements in what seemed to be an attempt at imaginative expression. It was intriguing to see, but it missed the mark.
 
  Copilot’s writing style was smooth and accurate, but the story the chatbot automatically went for was boring, cliché even. Overall, there are better [AI story generators for serious writers](https://www.makeuseof.com/best-ai-story-generators/) who need some extra help.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Scripts?
 
@@ -110,9 +103,23 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
 
 ![Google Gemini Writing a Play Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/google-gemini-writing-a-play-script.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The other two chatbots went for the exact same structure for the scene—perhaps because both apps use OpenAI’s data as their source. They flowed nicely enough, but there was nothing special about the results.
 
  An extra downside to ChatGPT was that one side of the script was cut off and unreadable. When I pointed out the problem, instead of offering a solution, the chatbot produced the exact same text with the same issue. One way to deal with this is to copy the script and paste it into a document, where you can read the scene in full.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Social Media Bios?
 
@@ -123,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
  Copilot provided the most options in terms of effective and imaginative phrases alongside emojis and hashtags. You could pick and choose what you wanted for your bio and tweak it further to perfectly reflect your identity.
 
 ![Microsoft Copilot Writing a Social Media Bio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-social-media-bio.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT was more precise with its response. Two lines of useful mottos, emojis, hashtags, and a call to action. Asking for other suggestions is always on the table, but Copilot offered more from its initial response.
 
@@ -154,24 +154,17 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-googles-proven-technique-for-accurate-speech-conversion/"><u>[New] 2024 Approved Google’s Proven Technique for Accurate Speech Conversion</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-go-frame-by-frame-on-youtube-video-5-free-methods/"><u>[New] In 2024, How to Go Frame by Frame on YouTube Video [5 Free Methods]</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-perfecting-tiktok-videos-efficient-techniques-for-numerical-edits-for-2024/"><u>[New] Perfecting TikTok Videos Efficient Techniques for Numerical Edits for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-the-instagram-success-script-for-2024/"><u>[New] Unveiling the Instagram Success Script for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-urban-adventure-top-games-similar-to-gta-v/"><u>[New] Urban Adventure Top Games Similar to GTA V</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-premium-minecraft-channel-graphics-for-2024/"><u>[Updated] Get Premium Minecraft Channel Graphics for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-tutorial-on-configuring-your-graphics-cards-using-nvidias-sli-technology/"><u>Comprehensive Tutorial on Configuring Your Graphics Cards Using Nvidia's SLI Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diagnosing-and-repairing-your-seagate-externals-invisibility-on-windows-11/"><u>Diagnosing and Repairing Your Seagate External's Invisibility on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/download-windows-11-rapidly-a-step-by-step-tutorial/"><u>Download Windows 11 Rapidly: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-driver-updates-a-how-to-for-windows-10-and-windows-11/"><u>Effortless Driver Updates: A How-To for Windows 10 and Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-internet-security-using-tor-on-windows-navigate-privately/"><u>Enhancing Internet Security: Using Tor on Windows Navigate Privately</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-diablo-4-experience-overcoming-stutter-and-fps-dip-on-windows-gaming-pcs/"><u>Enhancing Your Diablo 4 Experience: Overcoming Stutter and FPS Dip on Windows Gaming PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/error-message-deciphered-correcting-camera-failure-codes-0xa00f4244-on-your-windows-desktop/"><u>Error Message Deciphered: Correcting Camera Failure Codes 0xA00F4244 on Your Window's Desktop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-tips-for-running-fallout-3-seamlessly-on-windows-10-pcs/"><u>Essential Tips for Running Fallout 3 Seamlessly on Windows 10 PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-your-favorite-graphic-novels-with-kindle-fire-the-ultimate-comic-reading-experience/"><u>Explore Your Favorite Graphic Novels with Kindle Fire: The Ultimate Comic Reading Experience</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/fb-video-audio-extraction-made-simple-for-mp3-lovers/"><u>FB Video Audio Extraction Made Simple for MP3 Lovers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fortnite-is-blocked-at-your-school-heres-how-to-unblock-it/"><u>Fortnite Is Blocked at Your School? Here’s How to Unblock It</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-achieving-excellence-in-android-video-production-using-obs/"><u>In 2024, Achieving Excellence in Android Video Production Using OBS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-nubia-red-magic-9-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Nubia Red Magic 9 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-youtube-analytics-a-beginners-guide/"><u>[New] Unveiling YouTube Analytics A Beginner's Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-camstudio-updates-the-2023-guide-for-screen-recording-pros/"><u>[Updated] CamStudio Updates The 2023 Guide for Screen Recording Pros</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-digital-training-footage/"><u>[Updated] Digital Training Footage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speedy-file-assessment-on-windows-pcs/"><u>2024 Approved Speedy File Assessment on Windows PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-group-discussions-by-incorporating-gpt-3/"><u>Boosting Group Discussions by Incorporating GPT-3</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choosing-your-workhorse-email-how-does-outlookcom-stack-up-against-gmail/"><u>Choosing Your Workhorse Email: How Does Outlook.com Stack Up Against Gmail?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/commanding-originality-in-ai-graphics-with-microsofts-copilot-edge/"><u>Commanding Originality in AI Graphics with Microsoft's Copilot Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/entrepreneurs-guide-navigating-through-essential-ai-applications/"><u>Entrepreneur's Guide: Navigating Through Essential AI Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-out-if-chatgpt-is-offline/"><u>Find Out if ChatGPT Is Offline</u></a></li>
+<li><a href="https://fox-http.techidaily.com/frame-by-frame-helpdesk/"><u>Frame by Frame Helpdesk</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-lava-storm-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Lava Storm 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-s18-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo S18 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
 

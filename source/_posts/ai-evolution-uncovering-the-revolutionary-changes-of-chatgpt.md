@@ -1,7 +1,7 @@
 ---
 title: "AI Evolution: Uncovering the Revolutionary Changes of ChatGPT"
-date: 2024-09-17T17:17:25.648Z
-updated: 2024-09-22T19:02:21.961Z
+date: 2024-09-28T19:24:42.959Z
+updated: 2024-10-03T21:43:49.941Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 * [Multi-Modal Voice and Video Interactions](https://aligracehair.sjv.io/y209r3)
 * [Upgraded Code Analysis](https://appsumo.8odi.net/gmezyk)
 * [Temporary Chat](https://copa.sjv.io/6eoowq)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -60,6 +67,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Expanded Knowledge Base and Cross-Chat Memory
 
  ChatGPT's upgraded web browsing capabilities allow it to retrieve up-to-date information from the web with better accuracy. It ensures responses are based on the latest available data and insights, making it particularly valuable for quickly evolving topics like news, technology, and market trends.
@@ -70,16 +84,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -90,13 +104,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Pairing this feature with ChatGPT's browsing and memory functionality allows for a highly versatile AI companion. This enhanced version of ChatGPT can now better assist you with shopping, planning, and organizing. GPT-4o's conversation functionality makes it possible to use ChatGPT as a hands-free assistant using voice commands, making it easier to interact with the AI while you're on the go or multitasking.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
 
@@ -111,10 +118,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Temporary Chat
@@ -140,5 +153,22 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/armonize-your-favorites-creating-custom-youtube-playlists/"><u>[New] Harmonize Your Favorites Creating Custom YouTube Playlists</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instagram-enhancement-picture-posting-guide/"><u>[Updated] Instagram Enhancement Picture Posting Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/addressing-car-gpt-issues-6-common-hurdles-and-their-remedies/"><u>Addressing Car GPT Issues: 6 Common Hurdles and Their Remedies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertir-mov-formatos-a-mp4-sin-costo-usando-la-herramienta-en-linea-de-movavi/"><u>Convertir Mov Formatos a Mp4 Sin Costo Usando La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-one-way-outlook-on-secure-windows-operating-system/"><u>Dealing with One-Way Outlook on Secure Windows Operating System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-driver-and-utilities-for-brother-hl-l2380dw-dual-laser-mfp-on-windows-systems/"><u>Download the Driver & Utilities for Brother HL-L2380DW Dual Laser MFP on Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-magic-5-lite-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor Magic 5 Lite Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-gpt-4-on-chatgpt-right-now/"><u>How to Use GPT-4 on ChatGPT Right Now</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-discovering-windows-best-snipping-and-cropping-software/"><u>In 2024, Discovering Windows' Best Snipping and Cropping Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-i-rely-on-auto-gpt-alone/"><u>Should I Rely on Auto-GPT Alone?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-chatgpts-6-innovative-uses-in-analytics/"><u>Unlocking Potential: ChatGPT's 6 Innovative Uses in Analytics</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-10-video-rotation-tools-for-seamless-playback-for-2024/"><u>Updated Top 10 Video Rotation Tools for Seamless Playback for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-inside-nvidias-personalized-ai-experience/"><u>What Is Inside NVIDIA's Personalized AI Experience?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-makes-ai-chatbots-a-preferred-tech-choice/"><u>What Makes AI Chatbots a Preferred Tech Choice?</u></a></li>
+</ul></div>
 

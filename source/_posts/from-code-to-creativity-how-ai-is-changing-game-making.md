@@ -1,7 +1,7 @@
 ---
 title: "From Code to Creativity: How AI Is Changing Game Making"
-date: 2024-09-15T16:11:26.504Z
-updated: 2024-09-22T18:26:57.940Z
+date: 2024-09-29T20:07:14.214Z
+updated: 2024-10-04T00:16:57.920Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
 
  This increase in the number of games being released is arguably good because of the vastly expanded variety of experiences now available. More people are making games than ever before, presenting viewpoints and perspectives that we may not have had a chance to see if the games industry had remained the way it was the in the 90s and early 2000s. It’s not much of a logical leap to say that AI would only strengthen this effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### AI-Assistants to Make Games With
 
  If you were lucky enough to catch [what was going on at Google I/O 2023](https://www.makeuseof.com/google-io-2023-what-was-announced/), then you know that AI assistants are currently the "in" thing. Services like [Bard](https://bard.google.com/) and [ChatGTP](https://openai.com/blog/chatgpt) are showing that AI can help everyone from writers and artists to programmers and designers. The future of AI in game design will almost certainly take the form of in-software assistants that can help developers with areas they’re not too familiar with.
@@ -59,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
  The final major struggle with AI-assisted game design is how it works legally. As we previously mentioned, AI-driven art is not currently accepted by the wider public, especially not in online circles. With gaming being such an online-centric industry, it seems that the hurdles could be bigger here than anywhere else, and many gamers may see avoiding the purchase of AI-driven games as an important moral stance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Video Game Industry Needs Solid Guidelines Around AI
@@ -70,16 +77,10 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
 ![screenshot of Google I/O 2023 showing a woman and man on opposite sides of the stage with a screen between them showing an AI-assistant helping to write a story.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-io-stage-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
@@ -89,6 +90,13 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
  The simple capping of how many games a company can release without special permission would be a good start. It would limit how many games in a backlog a publisher is allowed to release, but staggering a launch of an entire backlog over a few days seems a small price to pay for keeping the industry motoring along healthily.
 
  On top of that, the games industry should not wait until legislation is imposed upon it by the government. Self-imposed codes and standards are an important part of any industry, from the Comic Code Authority to the ESRB; these self-policing policies are an important part of a healthy industry. People in positions of power within the industry need to start thinking about how we restrict the power that AI has over creative human expression now and not when it's too late.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Could AI Be the Future of Gaming?
 
@@ -111,5 +119,26 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-tips-supercharge-your-instagram-highlights/"><u>[New] Essential Tips Supercharge Your Instagram Highlights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-add-stickers-to-instagram/"><u>[New] In 2024, How to Add Stickers to Instagram?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlock-the-secrets-to-preserving-web-streamed-tv-shows/"><u>[New] Unlock the Secrets to Preserving Web-Streamed Tv Shows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-to-reduce-nausea-while-in-vr/"><u>2024 Approved Techniques to Reduce Nausea While In VR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-paperclip-maximization-exploring-new-possibilities/"><u>AI-Driven Paperclip Maximization: Exploring New Possibilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-scales-public-vs-private-ai-systems/"><u>Comparing Scales: Public Vs. Private AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-concepts-three-bots-on-a-creative-frontier/"><u>Crafting Concepts: Three Bots on a Creative Frontier</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-ai-interpretability-openais-shap-e/"><u>Decoding AI Interpretability: OpenAI's SHAP E</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-endless-possibilities-with-chatgpts-my-bot-capabilities/"><u>Discover Endless Possibilities With ChatGPT's My Bot Capabilities</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-connection-for-double-viewing-adding-a-second-screen-in-windows-10/"><u>Easy Connection for Double Viewing: Adding a Second Screen in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-nuances-of-using-gptzero-for-detecting-ai-content/"><u>Exploring the Nuances of Using GPTZero for Detecting AI Content</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-x9a-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor X9a Quickly | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-magic-vs-2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor Magic Vs 2 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nokia-c300-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nokia C300 Phone Now with These Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-productivity-top-10-ways-to-utilize-chatgpt-in-vs-code/"><u>Maximizing Productivity: Top 10 Ways to Utilize ChatGPT in VS Code</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-issue-of-a-non-responsive-touchpad-and-invisible-cursor-in-windows-11/"><u>Resolve the Issue of a Non-Responsive Touchpad and Invisible Cursor in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-gaming-and-machine-learning-magic/"><u>The Intersection of Gaming and Machine Learning Magic</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-mastering-bings-ai-features-on-android/"><u>The Ultimate Guide to Mastering Bing's AI Features on Android</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Intelligent Communication: 5 Best Ways for Tailored ChatGPT Interactions"
-date: 2024-09-24T16:21:00.173Z
-updated: 2024-09-28T17:27:16.905Z
+date: 2024-09-30T17:34:06.012Z
+updated: 2024-10-03T22:12:57.551Z
 tags:
   - chatgpt
   - open-ai
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/d0e5dc7a9f4a0a0154c2f5c000e872f05d1d32463
 
  Anyone can use ChatGPT's custom instruction feature to personalize the responses they get from ChatGPT while making sure the instructions are used across all chat sessions, and there are a few different ways you can use them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Specify Safety and Age-Restriction Rules
 
 ![A woman and an access restricted sign](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/access-control-policies.jpg)
@@ -84,6 +77,13 @@ Please use the key=>value pair provided to determine how to structure your respo
 
 Whenever I reach out for help regarding a resume, I need you to refer to the information provided at "<https://www.makeuseof.com/how-to-write-cv-for-tech-job/>" to guide our interaction. Based on the insights from that page, you should pose a series of eight targeted questions to me. My responses to these questions will be the foundation upon which you will construct a professional and effective resume tailored to a technology role. This specific procedure should be activated only when I'm seeking assistance with a tech-related resume. Moreover, I would like our exchange to be sequential, where you will present each subsequent question only after I have provided a thorough answer to the one preceding it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Specify Your Writing Style
 
  While capable of producing quality writing, ChatGPT's write-ups often lack a consistent personal voice and style. If you use ChatGPT primarily or frequently for creating write-ups and need the chatbot to maintain a consistent style across all sessions, custom instructions might be your way out.
@@ -96,6 +96,13 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
 
 ![Personal preference Map in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/personal-preference-map-in-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Provide Data for Personalized Responses
 
  While custom instructions can be used to achieve complex goals, they were designed primarily to learn more about you and tailor responses to your needs. You can define specific parameters such as your profession, allergies, or level of education and expertise in a certain field. This way, you'll receive customized responses that align with your profession, dietary restrictions (excluding allergens from recipes), or educational background to ensure explanations are tailored to your comprehension level whenever you seek information or guidance.
@@ -107,37 +114,25 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
 2. You can make it respond in a way that aligns with your profession.  
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Setting preferred ways to respond in ChatGPT Custom Instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/setting-preferred-ways-to-respond-in-chatgpt-custom-instructions.jpg)
 3. You can also make it respond to specific professional requirements.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Setting preferred ways to respond using ChatGPT Custom Instructions feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/setting-preferred-ways-to-respond-using-chatgpt-custom-instructions-feature.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  These are just three quick examples to get the ball rolling, but there are countless ways you can adapt ChatGPT custom instructions to your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make the Best of Custom Instructions
 
@@ -160,19 +155,16 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-wolcen-lords-of-mayhem-not-launching/"><u>[Solved] Wolcen: Lords of Mayhem Not Launching</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-snap-into-position-handhran-balancing-tricks/"><u>[Updated] 2024 Approved Snap Into Position Handhran Balancing Tricks</u></a></li>
-<li><a href="https://win-forum.techidaily.com/a-comprehensive-guide-to-leading-social-platforms-facebook-twitter-instagram-and-youtube/"><u>A Comprehensive Guide to Leading Social Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-new-chapter-starts-here-chatgpt-plus-us-only-20-mo/"><u>AI's New Chapter Starts Here: ChatGPT Plus (US Only), $20 Mo</u></a></li>
-<li><a href="https://driver-download.techidaily.com/brother-mfc-7360n-drivers-update-made-simple-for-users-of-windows-1187-systems/"><u>Brother MFC-7360N Drivers Update Made Simple for Users of Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chaos-in-ai-is-gpt-too-free/"><u>Chaos in AI: Is GPT Too Free?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-s17-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo S17 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hues-harmonized-implementing-color-strategies-for-2024/"><u>Hues Harmonized Implementing Color Strategies for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pivotal-considerations-in-opting-for-advanced-ai-assistants/"><u>Pivotal Considerations in Opting for Advanced AI Assistants</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-easy-access-to-download-free-asrock-ab350-pro4-drivers-compatible-with-windows/"><u>Quick and Easy Access to Download Free ASRock AB350 Pro4 Drivers Compatible with Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quoras-route-connect-chat-learn-ai-tech/"><u>Quora’s Route: Connect, Chat, Learn AI Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-digital-life-using-windows-11s-taskbar-search/"><u>Streamline Your Digital Life: Using Windows 11'S Taskbar Search</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-90-lite-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor 90 Lite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-employment-10-strategies-for-gaining-linkedin-opportunities/"><u>Unlocking Employment: 10 Strategies for Gaining LinkedIn Opportunities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-social-media-showdown-continues-the-ongoing-debate-on-igtv-and-youtube/"><u>[New] In 2024, Social Media Showdown Continues The Ongoing Debate on IGTV and YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unlocking-secrets-your-complete-overview-of-stardew-and-ginger-isle/"><u>[New] Unlocking Secrets Your Complete Overview of Stardew and Ginger Isle</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-essential-guide-to-timeless-stop-motion-classics/"><u>[Updated] In 2024, The Essential Guide to Timeless Stop-Motion Classics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aiffwav-movavi/"><u>「オンラインで簡単! AIFFファイルをWAVに自由転送 - Movavi」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-practical-ways-you-can-put-auto-gpt-to-use/"><u>8 Practical Ways You Can Put Auto-GPT to Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavim4vgif/"><u>移行がスムーズ! MovaviでオンラインM4VからGIFへの自由変換サービス</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-v29-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo V29 is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creare-un-filmato-con-il-editore-di-video-movavi-guida-facile-e-completa/"><u>Creare Un Filmato Con Il Editore Di Video Movavi: Guida Facile E Completa</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/youtube-extractors-a-comprehensible-guide-for-beginners-for-2024/"><u>Free YouTube Extractors A Comprehensible Guide for Beginners for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-rejuvenated-dialogue-ideas-to-hook-listeners/"><u>In 2024, Rejuvenated Dialogue Ideas to Hook Listeners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/najdite-7-zacitacskych-vykroku-k-konverzi-csv-a-mp4-s-neterovymi-dvd-pouze-na-macu/"><u>Najdite 7 Začítačských Výkroku K Konverzi CSV a MP4 S Neteřovými DVD Pouze Na Macu</u></a></li>
 </ul></div>
 

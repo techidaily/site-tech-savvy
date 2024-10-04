@@ -1,7 +1,7 @@
 ---
 title: "Data-Driven Discourse: Constructing Custom AI Companions"
-date: 2024-09-21T18:31:20.084Z
-updated: 2024-09-22T17:36:01.792Z
+date: 2024-09-29T00:01:25.651Z
+updated: 2024-10-03T19:25:14.375Z
 tags:
   - chatgpt
   - open-ai
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
 
 **Download:** [ChatGPT-retrieval script](https://github.com/techleadhd/chatgpt-retrieval) (Free)
@@ -68,13 +75,20 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
 ![Downloading Python script on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-download-script.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once downloaded, we can now set up a local environment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2: Set Up the Local Environment
@@ -93,6 +107,13 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Creating secret API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/generate-api-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will be provided with a string of characters. This is your OpenAI API key. Copy it by clicking on the copy icon on the side of the API key. Keep note that this API key should be kept secret. Do not share it with others unless you really intend for them to use it with you.
 
  Once copied, return to the chatgpt-retrieval-main folder and open constants with **Notepad**. Now replace the placeholder with your API key. Remember to save the file!
@@ -101,25 +122,11 @@ pip install langchain openai chromadb tiktoken unstructured
 
  Now that you have successfully set up your virtual environment and added your OpenAI API key as an environment variable. You can now provide your custom data to ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 3: Adding Custom Data
 
  To add custom data, place all your custom text data in the **data** folder within chatgpt-retrieval-main. The format of the text data may be in the form of a PDF, TXT, or DOC.
 
 ![Adding custom data for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-data.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on [AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/), and a PDF document.
 
@@ -137,18 +144,18 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 ![Testing ChatGPT with custom data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/visit.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It worked! This means ChatGPT was able to read the Personal Sched.txt provided earlier. Now let's see if we have successfully fed ChatGPT with information it does not know due to its knowledge cutoff date.
 
 ![Asking custom ChatGPT about topic outside knowledge cut off data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/m250x.jpg)
 
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Limitations of Custom ChatGPT
 
@@ -159,6 +166,13 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
  Another issue is that querying ChatGPT like this takes more time to load when compared to asking ChatGPT directly.
 
  Lastly, the only model currently available is GPT-3.5 Turbo. So even if you have access to GPT-4, you won't be able to use it to power your custom ChatGPT instance.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Custom ChatGPT Is Awesome But Limited
 
@@ -181,5 +195,19 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-focused-communication-tips-for-virtual-teams-for-2024/"><u>[New] Focused Communication Tips for Virtual Teams for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-camera-hunt-essential-choices-for-new-enthusiasts/"><u>[Updated] 2024 Approved Camera Hunt Essential Choices for New Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-career-growth-exploring-6-approaches/"><u>ChatGPT and Career Growth: Exploring 6 Approaches</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-broadcasts-with-manycam-top-tier-video-editing-tools-for-online-webcams/"><u>Enhance Your Broadcasts with ManyCam: Top-Tier Video Editing Tools for Online Webcams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-blank-page-to-book-9-ways-chatgpt-aids-writers/"><u>From Blank Page to Book: 9 Ways ChatGPT Aids Writers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nokia-c300-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nokia C300</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/increase-conversational-quality-key-techniques-for-chatgpt-improvement/"><u>Increase Conversational Quality: Key Techniques for ChatGPT Improvement</u></a></li>
+<li><a href="https://facebook.techidaily.com/insights-into-facebooks-impending-name-evolution/"><u>Insights Into Facebook’s Impending Name Evolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpts-latest-browsing-plugins-guide/"><u>Integrating ChatGPT's Latest Browsing Plugins Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/rising-to-fame-creating-the-ultimate-facebook-song-video-for-2024/"><u>Rising to Fame Creating the Ultimate Facebook Song Video for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-chatgpt-handbook/"><u>The Essential ChatGPT Handbook</u></a></li>
+</ul></div>
 

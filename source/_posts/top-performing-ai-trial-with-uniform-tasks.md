@@ -1,7 +1,7 @@
 ---
 title: "Top Performing AI: Trial with Uniform Tasks"
-date: 2024-09-25T16:03:36.538Z
-updated: 2024-09-28T18:28:30.608Z
+date: 2024-09-27T00:59:27.874Z
+updated: 2024-10-04T00:05:49.992Z
 tags:
   - chatgpt
   - open-ai
@@ -41,18 +41,24 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
  ChatGPT, Google Gemini, and Microsoft Copilot—three popular chatbots with different capabilities. As useful as they are in everyday tasks, how would they perform with creative prompts for content like songs, short stories, and imaginative social media bios? Here are the experiment’s details and results.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How I Tested Three Popular Chatbots With Creative Prompts
 
  The methodology was simple. I composed a straightforward prompt for each type of creative content I wanted. Then I fed each prompt to a selection of [the best AI chatbots](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) , namely ChatGPT, Google Gemini, and Microsoft Copilot.
 
  Working out which AI generator was the best came down to factors like originality, flow of writing, imaginative flair, and response time. Let's see how they did.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Songs?
 
@@ -63,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 ![Microsoft Copilot Writing a New Song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-new-song.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Google Gemini had the fastest response time and went for a similar approach as Copilot—mixing both themes equally. But some of its imagery was strange and made little sense.
@@ -74,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
  ChatGPT wrote the longest song and used interesting lyrics, but the koala theme barely existed, especially when compared to what the other chatbots came up with. It also struggled to complete the song.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Poetry?
@@ -114,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
  An extra downside to ChatGPT was that one side of the script was cut off and unreadable. When I pointed out the problem, instead of offering a solution, the chatbot produced the exact same text with the same issue. One way to deal with this is to copy the script and paste it into a document, where you can read the scene in full.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Chatbot Did Best With Social Media Bios?
 
  It’s true that you can [improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) , but you may be looking to develop a social media presence that’s more creative and less formal. While all three chatbots can help with that, one goes the extra mile.
@@ -123,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
  Copilot provided the most options in terms of effective and imaginative phrases alongside emojis and hashtags. You could pick and choose what you wanted for your bio and tweak it further to perfectly reflect your identity.
 
 ![Microsoft Copilot Writing a Social Media Bio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-social-media-bio.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT was more precise with its response. Two lines of useful mottos, emojis, hashtags, and a call to action. Asking for other suggestions is always on the table, but Copilot offered more from its initial response.
 
@@ -154,20 +160,16 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-crafting-realities-on-android-the-premier-15-gaming-experienences/"><u>[New] Crafting Realities on Android The Premier 15 Gaming Experienences</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ecological-architecture-merging-nature-and-city-planning-for-2024/"><u>[Updated] Ecological Architecture Merging Nature and City Planning for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unveiling-premium-free-srt-translation-services-for-2024/"><u>[Updated] Unveiling Premium Free SRT Translation Services for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-battle-of-broadcasting-is-xsplit-better-than-obs-for-livestreams/"><u>2024 Approved The Battle of Broadcasting Is XSplit Better Than OBS for Livestreams?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvd-hddpc/"><u>DVDへのダビング: HDD、カメラ、PCからの動画記録ファイル無料変換方法</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-using-manycams-innovative-live-video-tech/"><u>Enhance Your Online Presence Using ManyCam's Innovative Live Video Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-technology-and-new-work-realities/"><u>Generative Technology and New Work Realities</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-xs-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone XS With or Without Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-run-chatgpt-as-a-windows-app/"><u>How to Install and Run ChatGPT as a Windows App</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-communication-apples-siri-and-microsofts-chatgpt/"><u>Innovate Communication: Apple’s Siri & Microsoft's ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openais-gpt-on-ubuntu-command-line-connections-with-shellgpt/"><u>OpenAI's GPT on Ubuntu: Command-Line Connections with ShellGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trimming-ai-hallucinations-six-effective-phrasing-strategies/"><u>Trimming AI Hallucinations: Six Effective Phrasing Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-solutions-for-chatgpt-and-plugin-discrepancies/"><u>Unveiling Solutions for ChatGPT & Plugin Discrepancies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/weighing-your-options-which-is-better-bing-chat-for-freelancers/"><u>Weighing Your Options: Which Is Better, Bing Chat for Freelancers?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-how-to-use-preview-app-on-mac/"><u>[Updated] 2024 Approved How to Use Preview App on Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-lava-blaze-curve-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Lava Blaze Curve 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-gravar-aperfeicoando-a-qualidade-sonora-melhores-ferramentas-de-computador-para-2024-insights-pelo-movavi/"><u>Como Gravar Aperfeiçoando a Qualidade Sonora: Melhores Ferramentas De Computador Para 2024 – Insights Pelo Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-synergy-merging-mindmap-strategies-and-chatgpt-for-idea-generation-success/"><u>Creative Synergy: Merging Mindmap Strategies and ChatGPT for Idea Generation Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-change-nef-photos-to-bmp-files-no-cost-do-it-here/"><u>Effortlessly Change NEF Photos to BMP Files - No Cost, Do It Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-mkv-to-mjpeg-video-format-with-movavi/"><u>Free Online Converter: MKV to MJPEG Video Format with Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oneplus-ace-3-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For OnePlus Ace 3 by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-brightness-and-hd-in-harmony-a-fit-for-hdr/"><u>In 2024, Brightness and HD in Harmony A Fit for HDR?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-video-makers-with-music-for-android-and-iphone/"><u>New 2024 Approved Best Video Makers with Music for Android and iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rescue-your-yahoo-mail-a-step-by-step-guide-for-not-receiving-emails/"><u>Rescue Your Yahoo Mail: A Step-by-Step Guide for Not Receiving Emails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-3gpp-media-to-3gp-file-type-at-no-cost-quick-and-easy-with-movavi/"><u>Transform 3GPP Media to 3GP File Type at No Cost - Quick and Easy with Movavi</u></a></li>
 </ul></div>
 

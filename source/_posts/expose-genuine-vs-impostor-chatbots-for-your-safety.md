@@ -1,7 +1,7 @@
 ---
 title: Expose Genuine Vs. Impostor ChatBots for Your Safety
-date: 2024-09-27T16:22:12.846Z
-updated: 2024-09-28T16:45:58.402Z
+date: 2024-09-28T23:19:47.389Z
+updated: 2024-10-03T23:50:36.112Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/b122329db8c6b3d63423f9307655a76116968c0c0
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. chat-gpt-pc.online
@@ -58,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/b122329db8c6b3d63423f9307655a76116968c0c0
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. pay.chatgptftw.com
 
@@ -76,15 +75,22 @@ thumbnail: https://thmb.techidaily.com/b122329db8c6b3d63423f9307655a76116968c0c0
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Meterpreter Posing as “SuperGPT” App
@@ -92,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/b122329db8c6b3d63423f9307655a76116968c0c0
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -109,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/b122329db8c6b3d63423f9307655a76116968c0c0
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -137,24 +143,14 @@ thumbnail: https://thmb.techidaily.com/b122329db8c6b3d63423f9307655a76116968c0c0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-understanding-the-mechanics-of-vsdc-vs-leading-alternatives/"><u>[New] 2024 Approved Understanding the Mechanics of VSDC vs Leading Alternatives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-into-the-metaverse-top-8-vr-wearables-listed/"><u>[New] Into the Metaverse Top 8 VR Wearables Listed</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-vogue-your-way-simple-video-concepts-for-you/"><u>[New] Vogue Your Way Simple Video Concepts for You</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevating-your-channel-with-strategic-picture-posts/"><u>[Updated] 2024 Approved Elevating Your Channel with Strategic Picture Posts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-top-10-best-gimbals-for-4k-dsrlmirrorless-cameras/"><u>2024 Approved Top 10 Best Gimbals for 4K DSRL/Mirrorless Cameras</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-and-the-human-touch-what-attracts-us-to-bot-conversations/"><u>AI and the Human Touch: What Attracts Us to Bot Conversations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/digital-art-manipulating-photos-creatively/"><u>Digital Art Manipulating Photos Creatively</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/digital-learning-session-replays-for-2024/"><u>Digital Learning Session Replays for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-social-interaction-with-chatgpt-features/"><u>Enhancing Social Interaction with ChatGPT Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-web-design-with-chatgpts-fourfold-approach/"><u>Enhancing Web Design with ChatGPT's Fourfold Approach</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-world-of-machine-learning-with-shap-e/"><u>Exploring the World of Machine Learning with SHAP E</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guard-your-data-countering-fraudgpt-intrusion/"><u>Guard Your Data: Countering FraudGPT Intrusion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-virtual-music-gatherings/"><u>In 2024, Premier Virtual Music Gatherings</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-vanishing-acts-how-to-blur-faces-and-objects-online/"><u>In 2024, Vanishing Acts How to Blur Faces and Objects Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-potential-ais-contributions-towards-optimal-paperclip-arrangement/"><u>Maximizing Potential: AI's Contributions Towards Optimal Paperclip Arrangement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimized-writing-techniques-with-chatgpt-aide/"><u>Optimized Writing Techniques with ChatGPT Aide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/outdated-plugins-for-modern-chatgpt-usage/"><u>Outdated Plugins for Modern ChatGPT Usage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pace-profiles-analyzing-chatgpt-4-and-its-predecessor-35/"><u>Pace Profiles: Analyzing ChatGPT-4 and Its Predecessor, 3.5</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ate-recording-gear-for-social-media-stars/"><u>Ultimate Recording Gear for Social Media Stars</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-snapmaster-z7-pro-excellence-in-picture-magnification/"><u>[New] 2024 Approved SnapMaster Z7 Pro Excellence in Picture Magnification</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-into-the-future-of-streaming-with-top-audio-techniques/"><u>[New] In 2024, Step Into the Future of Streaming with Top Audio Techniques</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-secrets-to-successful-twitpicingvideos-included/"><u>[Updated] 2024 Approved Secrets to Successful Twitpicing—Videos Included</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-xipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone X/iPad? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/entendiendo-los-archivos-eps-definicion-y-tutorial-para-abrirlos/"><u>Entendiendo Los Archivos EPS: Definición Y Tutorial Para Abrirlos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-video-converter-convert-mpe-to-mp4-with-movavi/"><u>Free Online Video Converter: Convert MPE to MP4 with Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oppo-a79-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Oppo A79 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-gratis-tus-archivos-tiff-a-linea-guia-completa-con-movavi/"><u>Transforma Gratis Tus Archivos TIFF a Línea: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-movavis-shipping-returns-and-exchange-regulations-for-hassle-free-shopping/"><u>Understanding Movavi's Shipping, Returns, and Exchange Regulations for Hassle-Free Shopping</u></a></li>
 </ul></div>
 

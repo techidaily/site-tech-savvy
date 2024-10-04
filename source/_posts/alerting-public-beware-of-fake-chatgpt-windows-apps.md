@@ -1,7 +1,7 @@
 ---
 title: "Alerting Public: Beware of Fake 'ChatGPT Windows' Apps"
-date: 2024-09-24T16:24:55.276Z
-updated: 2024-09-28T18:11:07.242Z
+date: 2024-09-27T18:12:23.441Z
+updated: 2024-10-03T20:34:54.766Z
 tags:
   - chatgpt
   - open-ai
@@ -51,10 +51,10 @@ Close
  According to Kaspersky's research, the ChatGPT desktop client malware has been spotted across Asia, Africa, Europe, and America.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PSA: There Is No ChatGPT Desktop Client
@@ -64,10 +64,10 @@ Close
  For now, the only way to [access ChatGPT is through your browser](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/), be that on your computer or your smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3 Ways to Avoid ChatGPT Scams
@@ -77,10 +77,10 @@ Close
 3. Make sure your antivirus software is up to date, and consider installing an additional [security tool like Malwarebytes Premium](https://www.makeuseof.com/tag/reasons-upgrade-malwarebytes-premium/) to mop up any other nasties.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avoid Anything Claiming to Be a ChatGPT Client
@@ -106,20 +106,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-your-magic-mouse-setup-downloading-and-installation-guide-on-windows-machines/"><u>Complete Your Magic Mouse Setup: Downloading & Installation Guide on Windows Machines</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/everything-you-need-to-know-about-openai/"><u>Everything You Need to Know About OpenAI</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/freeloading-futures-with-ae-creative-tools/"><u>Freeloading Futures with AE Creative Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gaming-through-text-the-chatgpt-experience/"><u>Gaming Through Text: The ChatGPT Experience</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-magic-5-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor Magic 5 Pro FRP Locks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-xs-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone XS Apple ID on MacBook</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-snapshot-surprises-yearly-yt-stats-and-trends-in-graphics/"><u>In 2024, Snapshot Surprises Yearly YT Stats & Trends in Graphics</u></a></li>
-<li><a href="https://win-able.techidaily.com/lost-ark-stability-improvements-no-more-pc-game-crashes/"><u>Lost Ark Stability Improvements - No More PC Game Crashes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-3-on-android-and-ios-platforms/"><u>Mastering GPT-3 on Android & iOS Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-more-forgotten-talks-save-chatgpt-dialogues-now/"><u>No More Forgotten Talks! Save ChatGPT Dialogues Now</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/pixelpilot-w11-lightweight-screenshot-and-recording-app/"><u>PixelPilot W11 Lightweight Screenshot & Recording App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stepwise-approach-installed-plugins-in-chatgpt/"><u>Stepwise Approach: Installed Plugins in ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-fraudgpt-safeguarding-against-deceptive-bots/"><u>Unveiling FraudGPT: Safeguarding Against Deceptive Bots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-use-ai-chatbots-to-generate-windows-11-keys/"><u>Why You Shouldn’t Use AI Chatbots to Generate Windows 11 Keys</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-escaping-boredom-with-laughter-20-wit-infused-jailmates-tales-from-fb/"><u>[Updated] 2024 Approved Escaping Boredom with Laughter 20 Wit-Infused Jailmates' Tales From Fb</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-boost-your-channels-popularity-optimal-post-dates-for-2024/"><u>[Updated] Boost Your Channel's Popularity - Optimal Post Dates for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-planting-prowess-in-valheim-uncovering-premium-saplings/"><u>[Updated] In 2024, Planting Prowess in Valheim Uncovering Premium Saplings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bmpgif-movavi/"><u>「無料でBMPからGIFへ簡単変換！オンラインツールであなたの画像を動的化する - Movaviが教えてくれます」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/after-all-shed-say-if-it-worked-for-generations-why-change-it/"><u>After All, She'd Say, if It Worked for Generations, Why Change It?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-convert-avi-videos-to-wav-audio-on-the-web-for-free-try-movavis-expert-service-now/"><u>Effortlessly Convert AVI Videos to WAV Audio on the Web for Free - Try Movavi's Expert Service Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/extrackera-avbildar-medan-du-spelar-in-i-din-video-enkeltvis-pa-7-satt-foreslagna-av-movavi/"><u>Extrackera Avbildar Medan Du Spelar In I Din Video: Enkeltvis På 7 Sätt - Föreslagna Av Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-iphone-13-pro-max-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and iPhone 13 Pro Max without Apple Account</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reinventer-votre-contenu-au-format-mp4-gratuitement-guide-simple-avec-movavi/"><u>Réinventer Votre Contenu Au Format MP4 Gratuitement: Guide Simple Avec Movavi!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-iphone-and-ipad-issues-in-itunes-troubleshooting-tips-and-fixes-for-ios-15-bugs/"><u>Resolving iPhone and iPad Issues in iTunes: Troubleshooting Tips & Fixes for iOS 15 Bugs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-shrink-your-mov-videos-with-ease-windows-and-mac-tips-and-free-web-tools/"><u>Ultimate Guide: Shrink Your MOV Videos with Ease - Windows & Mac Tips and Free Web Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-user-generated-music-rights-on-instagram-for-2024/"><u>Understanding User-Generated Music Rights on Instagram for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-audible-trials-are-your-first-step-for-audio-enrichment/"><u>Why Audible Trials Are Your First Step for Audio Enrichment</u></a></li>
 </ul></div>
 

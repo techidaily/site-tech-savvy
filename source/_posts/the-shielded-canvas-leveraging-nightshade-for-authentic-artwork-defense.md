@@ -1,7 +1,7 @@
 ---
 title: "The Shielded Canvas: Leveraging Nightshade for Authentic Artwork Defense"
-date: 2024-09-15T18:53:06.458Z
-updated: 2024-09-22T18:24:31.949Z
+date: 2024-10-02T17:44:11.129Z
+updated: 2024-10-03T18:46:50.195Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 * [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Nightshade is an AI tool that "poisons" digital art, making it unusable for training AI models.
@@ -39,11 +46,31 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is AI Poisoning?
 
  AI poisoning is the act of "poisoning" the training dataset of an AI algorithm. This is similar to providing wrong information to the AI on purpose, resulting in the trained AI malfunctioning or failing to detect an image. Tools like Nightshade alter the pixels in a digital image in such a manner that it appears to be completely different to the AI training on it, but largely unchanged from the original to the human eye.
 
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
 
@@ -56,13 +83,6 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Using this technique, digital creators who do not consent for their images to be used in AI datasets can [protect them from being fed to generative AI without permission](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/). Some platforms provide creators the option to opt out of including their artwork in AI training datasets. However, such opt-out lists have been disregarded by AI model trainers in the past and continue to be disregarded with little to no consequence.
 
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Nightshade
 
@@ -83,16 +103,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
@@ -117,5 +131,21 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-of-breed-top-rated-youtubers-streaming-arsenal/"><u>[New] In 2024, Best of Breed Top-Rated Youtuber's Streaming Arsenal</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tarting-out-on-youtube-setting-up-starting-to-earn/"><u>[New] Starting Out on YouTube Setting Up, Starting to Earn</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-reimagining-video-production-with-screenflow-a-mac-users-guide/"><u>[Updated] Reimagining Video Production with ScreenFlow – A Mac User's Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-succeed-in-screen-recording-detailed-orderly-guide/"><u>2024 Approved Succeed in Screen Recording Detailed, Orderly Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-understanding-the-evolution-of-facebook-videos/"><u>2024 Approved Understanding the Evolution of Facebook Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converse-with-confidence-chatgpt-for-android/"><u>Converse with Confidence: ChatGPT for Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-chatgpt-windows-app-reality-check/"><u>Debunking ChatGPT Windows App - Reality Check</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/differences-in-enterprise-versus-consumer-gpt-services/"><u>Differences in Enterprise Versus Consumer GPT Services</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/guide-to-successfully-saving-your-iptv-streams/"><u>Guide to Successfully Saving Your IPTV Streams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-melody-in-motion-incorporating-music-into-powerpoint/"><u>In 2024, Melody in Motion Incorporating Music Into PowerPoint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-youtube-time-tracking/"><u>In 2024, The Essential Guide to YouTube Time Tracking</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovation-unleashed-learning-to-use-free-dall-e-3-via-bing/"><u>Innovation Unleashed: Learning to Use Free DALL-E 3 via Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-secrets-think-again-before-sharing-with-gpt/"><u>Protecting Secrets? Think Again Before Sharing with GPT</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Dive Deeper Into AI Chat with These Top 7 Extensions
-date: 2024-09-19T18:49:18.889Z
-updated: 2024-09-22T18:55:45.388Z
+date: 2024-09-29T21:38:30.812Z
+updated: 2024-10-03T20:51:53.166Z
 tags:
   - chatgpt
   - open-ai
@@ -84,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/58db6060726575b8629c11f7c48875e22b705d59d
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
@@ -91,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/58db6060726575b8629c11f7c48875e22b705d59d
 **Download:** YouTube Summary With ChatGPT for [Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) | [Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/58db6060726575b8629c11f7c48875e22b705d59d
 
 **Download:** Talk-to-ChatGPT for [Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the [best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -123,15 +123,22 @@ thumbnail: https://thmb.techidaily.com/58db6060726575b8629c11f7c48875e22b705d59d
 **Download:** ChatGPT for Search Engines for [Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -164,5 +171,23 @@ thumbnail: https://thmb.techidaily.com/58db6060726575b8629c11f7c48875e22b705d59d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-elevating-your-podcast-remote-recording-done-right/"><u>[New] 2024 Approved Elevating Your Podcast Remote Recording Done Right</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-unleash-your-videos-potential-with-dynamic-titles/"><u>[New] 2024 Approved Unleash Your Video's Potential with Dynamic Titles</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-expertly-curated-animated-type-library/"><u>[New] In 2024, Expertly Curated Animated Type Library</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-seamless-social-sharing-upload-a-twt/"><u>[Updated] Seamless Social Sharing Upload a Twt</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/an-overview-of-gpt-plugins-and-uses/"><u>An Overview of GPT Plugins & Uses</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/battling-the-walls-of-german-study-challenges/"><u>Battling the Walls of German Study Challenges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-the-complexity-of-ai/"><u>Breaking Down the Complexity of AI</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-fongo-evaluation-a-closer-look-at-canadian-voip-offering/"><u>Comprehensive Fongo Evaluation: A Closer Look at Canadian VoIP Offering</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-tap-into-chatgpts-potential-top-7-reasons/"><u>How to Tap Into ChatGPT's Potential: Top 7 Reasons</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-lava-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Lava Network Unlock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-on-ubuntu-a-step-by-step-guide-with-shellgpt/"><u>Mastering ChatGPT on Ubuntu: A Step-by-Step Guide with ShellGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-6-predominant-car-ai-integration-obstacles/"><u>Navigating Through 6 Predominant Car AI Integration Obstacles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-in-question-for-chatgpt-users/"><u>Privacy in Question for ChatGPT Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tips-for-troubleshooting-chatgpt-crashes-on-ios/"><u>Top Tips for Troubleshooting ChatGPT Crashes on iOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-metaphorical-comparison-of-the-internet-to-a-universal-free-library-system/"><u>Understanding the Metaphorical Comparison of the Internet to a Universal, Free Library System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-intelligence-at-your-fingerttaps-top-8-ai-phone-apps-for-ios-and-android-devices/"><u>Unleashing Intelligence at Your Fingerttaps: Top 8 AI Phone Apps for iOS & Android Devices</u></a></li>
+</ul></div>
 

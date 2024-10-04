@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Innovation: Transforming the Global Games Market"
-date: 2024-09-23T17:42:28.352Z
-updated: 2024-09-28T17:26:23.328Z
+date: 2024-09-29T23:03:39.748Z
+updated: 2024-10-03T19:50:59.653Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
 
  This increase in the number of games being released is arguably good because of the vastly expanded variety of experiences now available. More people are making games than ever before, presenting viewpoints and perspectives that we may not have had a chance to see if the games industry had remained the way it was the in the 90s and early 2000s. It’s not much of a logical leap to say that AI would only strengthen this effect.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### AI-Assistants to Make Games With
 
  If you were lucky enough to catch [what was going on at Google I/O 2023](https://www.makeuseof.com/google-io-2023-what-was-announced/), then you know that AI assistants are currently the "in" thing. Services like [Bard](https://bard.google.com/) and [ChatGTP](https://openai.com/blog/chatgpt) are showing that AI can help everyone from writers and artists to programmers and designers. The future of AI in game design will almost certainly take the form of in-software assistants that can help developers with areas they’re not too familiar with.
@@ -49,10 +56,16 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
 ![A chart showing the number of games relased on Steam each year from 2006 to 2023. The chart shows a huge increase in released games from 2014-2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chart-showing-increased-in-games-released-on-steam-each-year-steam-db.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While it’s true that AI will help more people make video games, it could also lead to a huge glut in the market, and that has caused some problems for the games industry in the past. With AI assistance, it will become even easier for low-effort developers to churn out low-quality, low-price games as a quick scam. This has already been an issue in previous years, with 2017 seeing Valve remove 173 asset flip games from the storefront as reported by [Gamesindustry.biz](https://www.gamesindustry.biz/valve-removes-173-asset-flipping-games-from-steam).
@@ -60,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
  AI assistants could make these games easier to produce and make it harder to detect such games, as AI-generated content can at least appear marginally different from bundles of pre-bought assets currently used. When you add the ability for the incredibly young and inexperienced to make a game because they feel like it, it’s not hard to see why the introduction of AI assistants would make some people nervous.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Another Gaming Explosion
@@ -77,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
 ![screenshot of Google I/O 2023 showing a woman and man on opposite sides of the stage with a screen between them showing an AI-assistant helping to write a story.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-io-stage-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
@@ -90,13 +103,6 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
  The simple capping of how many games a company can release without special permission would be a good start. It would limit how many games in a backlog a publisher is allowed to release, but staggering a launch of an entire backlog over a few days seems a small price to pay for keeping the industry motoring along healthily.
 
  On top of that, the games industry should not wait until legislation is imposed upon it by the government. Self-imposed codes and standards are an important part of any industry, from the Comic Code Authority to the ESRB; these self-policing policies are an important part of a healthy industry. People in positions of power within the industry need to start thinking about how we restrict the power that AI has over creative human expression now and not when it's too late.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Could AI Be the Future of Gaming?
 
@@ -121,22 +127,20 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-first-timers-map-to-earning-wealth-with-periscope/"><u>[New] 2024 Approved First-Timer's Map to Earning Wealth with Periscope</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-boost-your-videos-best-editing-apps-for-android-pc-users-for-2024/"><u>[New] Boost Your Videos Best Editing Apps for Android, PC Users for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-webinars-in-written-form-for-2024/"><u>[New] Webinars in Written Form for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-daily-video-size-summation-total-gb-cost/"><u>2024 Approved Daily Video Size Summation Total GB Cost</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-extra-expenses-on-elite-ai-worthwhile/"><u>Are Extra Expenses on Elite AI Worthwhile?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/athletes-guide-crafting-dynamic-gpt-prompts/"><u>Athletes' Guide: Crafting Dynamic GPT Prompts</u></a></li>
-<li><a href="https://facebook.techidaily.com/delaying-end-to-end-encryption-heres-why-metas-timeline-holds-off/"><u>Delaying End-to-End Encryption? Here’s Why Meta's Timeline Holds Off</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-techniques-to-backup-your-ai-dialogues/"><u>Essential Techniques to Backup Your AI Dialogues</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-logitechs-advanced-gaming-steering-wheel-on-pc-windows-7810-download-drivers/"><u>Install Logitech's Advanced Gaming Steering Wheel on PC (Windows 7/8/10) - Download Drivers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/monitor-metamorphosis-from-standard-to-stunning-with-asus-mg28uq-for-2024/"><u>Monitor Metamorphosis From Standard to Stunning With ASUS MG28UQ for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-quora-network-for-llm-and-bot-entry/"><u>Navigating the Quora Network for LLM & Bot Entry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-20-best-chatgpt-prompts-on-github/"><u>The 20 Best ChatGPT Prompts on GitHub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-talks-ais-most-prominent-assistants/"><u>The Future of Talks: AI's Most Prominent Assistants</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-huawei-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Huawei .</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-an-ai-prompt-injection-attack-and-how-does-it-work/"><u>What Is an AI Prompt Injection Attack and How Does It Work?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-the-turing-test-and-its-prospect-for-a-champion/"><u>What Is the Turing Test and Its Prospect for a Champion?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-harmonizing-chrome-android-ios-for-tiktok-sharing/"><u>[New] In 2024, Harmonizing Chrome, Android, iOS for TikTok Sharing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explaining-instagrams-inverted-video-effect/"><u>[Updated] Explaining Instagram’s Inverted Video Effect</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-soundbite-strategies-transform-your-voice-records/"><u>[Updated] Soundbite Strategies Transform Your Voice Records</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-safe-methods-for-copying-and-transferring-content-from-dvds-and-cds/"><u>Comprehensive Guide: Safe Methods for Copying & Transferring Content From DVDs & CDs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dialogue-diversification-turko-korean-nexus/"><u>Dialogue Diversification: Turko-Korean Nexus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-best-7-premium-and-free-movie-mov-to-avi-conversion-applications/"><u>Discover the Best 7 Premium & Free Movie (MOV) to AVI Conversion Applications!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-guide-enjoy-your-favorite-tunes-on-kindle-fire-with-mp3-player-apps/"><u>Easy Guide: Enjoy Your Favorite Tunes on Kindle Fire with MP3 Player Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/editing-wav-audio-a-comprehensive-guide-for-pcs-macs-and-smartphones-free-tutorial/"><u>Editing WAV Audio: A Comprehensive Guide for PCs, Macs & Smartphones - Free Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-from-wma-to-wav-a-step-by-step-guide/"><u>Effortless Conversion From WMA to WAV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-guide-how-to-change-mp4-videos-to-mpeg-video-editing-hacks-switch-from-mp4-to-mpeg-4-without-a-fuss/"><u>Effortless Conversion Guide: How to Change MP4 Videos to MPEG- # Video Editing Hacks: Switch From MP4 to MPEG-4 Without a Fuss!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-s24plus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy S24+ to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speeding-up-league-of-legends-file-transfers-expert-troubleshooting-guide/"><u>Speeding Up League of Legends File Transfers – Expert Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-verizon-phone-promotions-this-month/"><u>Top Verizon Phone Promotions This Month</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unbiased-comparison-sony-vegas-vs-adobe-premiere-pro-for-video-creators-for-2024/"><u>Unbiased Comparison Sony Vegas vs Adobe Premiere Pro for Video Creators for 2024</u></a></li>
 </ul></div>
 

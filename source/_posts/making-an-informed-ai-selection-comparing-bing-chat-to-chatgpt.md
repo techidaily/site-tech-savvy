@@ -1,7 +1,7 @@
 ---
 title: "Making an Informed AI Selection: Comparing Bing Chat to ChatGPT"
-date: 2024-09-24T17:18:45.623Z
-updated: 2024-09-28T18:41:45.372Z
+date: 2024-09-29T17:06:27.382Z
+updated: 2024-10-04T00:10:27.059Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
  For easier fact-checking, use Bing Chat. Unlike ChatGPT, it lists down all its sources whenever it references claims, statistics, and trivia.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. ChatGPT Is Available on Google Chrome
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
  You must set Microsoft Edge as your primary browser to use Bing Chat efficiently. It’s not accessible elsewhere. If you try hitting the Chat button on Bing, you’ll get a prompt asking you to install Edge.
 
 ![Bing Asking User to Download Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-prompt-to-download-microsoft-edge.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Unfortunately, Microsoft Edge is not as popular as some other web browsers. Like millions of other working adults, you probably prefer using Google Chrome. It’s the most widely used browser. [Statista](https://www.statista.com/statistics/544400/market-share-of-internet-browsers-desktop/) even reports that Google Chrome has a whopping 66.14 percent market share.
 
@@ -69,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 
 ![Bing Chat Providing a Weather Update from the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-answer-weather-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Bing Chat Offers GPT-4 for Free
 
  You must pay for ChatGPT Plus to access GPT-4\. Free ChatGPT users can only use GPT-3.5, although they might get a slight upgrade [when GPT-5 launches](https://www.makeuseof.com/when-will-gpt5-launch/). Alternatively, Bing Chat offers GPT-4 for free. Just download Microsoft Edge, and you’re good to go—there’s no need to buy anything else.
@@ -89,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 ![Using the Bing Chatbot on Skype](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-skype.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -102,6 +102,13 @@ Close
 * **Microsoft Edge:** Microsoft Edge lets you pull up Bing Chat quickly through a browser extension. You don’t have to keep switching to Bing’s website.
 * **Bing Mobile:** [Bing Chat is available on iOS and Android devices](https://www.makeuseof.com/bing-egde-skype-chatpgt-android-iphone/). The app is popular among professionals who use smartphones for work tasks, e.g., salespeople, social media managers, and eCommerce entrepreneurs.
 * **Skype:** Bing is available on Skype. Either message Bing privately or add the chatbot to your group chats. This feature is helpful if you often talk to your clients and coworkers on Skype.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. ChatGPT Has Less Rigid Restrictions
 
@@ -120,22 +127,15 @@ Close
 ![Bing Chat Rejecting Roleplay Request Due to Security Restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-rejecting-request.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Make a list of jailbreak instructions. Learning how GPT models analyze and absorb inputs will help you [write more effective AI prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/). You could even create template formulas.
 
  Just note that some jailbreak prompts might stop working. OpenAI routinely updates its guidelines to prevent crooks from exploiting ChatGPT’s vulnerabilities.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Bing Chat Mimics Human-Like Text Better
 
@@ -157,10 +157,16 @@ Close
 ![Bing Chat Writing Cover Letter for Content Writer Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-writing-cover-letter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. OpenAI Offers Several AI Tools
@@ -194,16 +200,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-who-takes-the-crown-in-action-camera-warfare/"><u>[New] 2024 Approved Who Takes the Crown in Action Camera Warfare?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-creating-accessible-multilingual-content-on-igtv/"><u>2024 Approved Creating Accessible Multilingual Content on IGTV</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/1725286005533-dvd-dvd/"><u>DVDへのダウンロード再生ビデオ変換テクニック | 無償ストリーミング全動画DVD化ガイド</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-motorola-moto-g23-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Motorola Moto G23 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-tecno-camon-20-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Tecno Camon 20 Pro 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-godfall-visuals-overcoming-frame-rate-drops-and-enhancing-performance/"><u>Optimize Your Godfall Visuals: Overcoming Frame Rate Drops and Enhancing Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protect-your-talking-secrets-the-top-3-bot-privacy-issues/"><u>Protect Your Talking Secrets: The Top 3 Bot Privacy Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-guide-driver-updates-for-windows-operating-systems-7810/"><u>Quick Guide: Driver Updates for Windows Operating Systems (7/8/10)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/remove-your-printing-device-a-comprehensive-tutorial-for-windows-users/"><u>Remove Your Printing Device: A Comprehensive Tutorial for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolving-windows-11-or-11s-lagging-initial-launch-issues/"><u>Resolving Windows 11 or 11S Lagging Initial Launch Issues</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-revamping-subtitles-from-srt-with-ease-for-2024/"><u>[Updated] Revamping Subtitles From SRT with Ease for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-the-top-methods-of-video-and-screenshots-for-2024/"><u>[Updated] Unveiling the Top Methods of Video & Screenshots for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-video-perfection-streamlined-subtitlecc-implementation-on-youtube/"><u>[Updated] Video Perfection Streamlined Subtitle/CC Implementation on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-centric-tvs-top-picks-for-ps5xbox-series-x/"><u>2024 Approved Game-Centric TVs Top Picks for PS5/Xbox Series X</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/best-free-software-top-3-windows-10-and-11-dvd-ripper-apps-of-2024-full-versions-available-for-download/"><u>Best Free Software: Top 3 Windows 10 & 11 DVD Ripper Apps of 2024 - Full Versions Available for Download</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-driven-data-collection-boost-your-sites-insights/"><u>Cookiebot-Driven Data Collection: Boost Your Site's Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-celebrates-18th-anniversary-with-exclusive-special-project/"><u>DigiArty Celebrates 18Th Anniversary with Exclusive Special Project</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-productivity-with-apple-ipad-102-and-its-game-changing-ipados-a-review-for-tech-enthusiasts/"><u>Next Level Productivity with Apple iPad 10.2 and Its Game-Changing iPadOS - A Review for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pc-iphoneandroidaac/"><u>PC, iPhone、Androidを使用してAAC形式のオーディオファイルを再生するための解決策</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/png/"><u>PNG画像をビデオに変換する詳細ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserve-your-movie-night-magic-with-a-the-croods-dvd-copy/"><u>Preserve Your Movie Night Magic with a 'The Croods' DVD Copy!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-guide-converting-videos-to-mobile-friendly-format-in-seconds/"><u>Quick & Simple Guide: Converting Videos to Mobile-Friendly Format in Seconds!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-conversion-techniques-transforming-m2ts-files-into-mkv-format/"><u>Seamless Conversion Techniques: Transforming M2TS Files Into MKV Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-no-cost-transforming-individual-gifs-into-full-videos-for-your-pc/"><u>Step-by-Step Guide (No Cost): Transforming Individual GIFs Into Full Videos for Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-mp3-files-into-aiff-format-on-mac-pc-or-online/"><u>Step-by-Step Guide: Converting MP3 Files Into AIFF Format on Mac, PC, or Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-mcpr-files-into-mp4-video-format/"><u>Step-by-Step Guide: Transforming MCPR Files Into MP4 Video Format</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-smart-8-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Smart 8 Reset Code | Dr.fone</u></a></li>
 </ul></div>
 

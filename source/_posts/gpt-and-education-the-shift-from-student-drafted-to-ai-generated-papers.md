@@ -1,7 +1,7 @@
 ---
 title: "GPT and Education: The Shift From Student-Drafted to AI-Generated Papers"
-date: 2024-09-26T18:43:26.572Z
-updated: 2024-09-28T16:03:36.615Z
+date: 2024-09-29T21:22:47.795Z
+updated: 2024-10-03T21:07:46.128Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
 ![a library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-library.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When online search peaked, research became much easier for students. They no longer had to go through tons of books, magazines, and articles across different libraries—type in some choice keywords and separate the wheat from the chaff in the results.
 
  But even with the faster search results, they still had to use their critical thinking skills to analyze the data and write what they learned. And while it's easier to plagiarize now, as you just have to copy and paste the data from your browser to your word processor, teachers can easily catch this form of cheating.
@@ -80,23 +87,9 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
  In short, AI is a powerful learning tool, but it's just a tool nonetheless. Students must still use their critical thinking to produce their final output. So, whether you're a student or a professional, you must ensure that you use ChatGPT ethically—and here are some [ways writers and editors can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI as a Cheating Tool: Making Plagiarism Much Easier and Harder to Detect
 
 ![student cheating on an exam with their phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-cheating-on-an-exam-with-their-phone-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, as with any new technology, some students misuse it. Because ChatGPT answers questions by predicting the correct response, it will paraphrase its sources. So, it's tempting for many to copy and paste what ChatGPT regurgitated from the internet.
 
@@ -112,24 +105,57 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
  So, how can teachers, professors, and educators change the student essay to make it evolve with AI?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Make the Questions More Pointed or Personal
 
  The biggest thing that generative AI like ChatGPT cannot do is write about personal experience. After all, a student's life isn't generally available online, so generative AI cannot predict that student's life.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Write Essay Questions in the Context of Current Events
 
 ![news and current affairs on a newspaper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/news-and-current-affairs-on-a-newspaper.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The free version of ChatGPT, the most popular generative AI today, is only updated up to September 2021 at the time of writing. So, it would help to ask essay questions relating to events that happened in the past three months.
 
  However, students with access to ChatGPT Plus or GPT-4 get a fully updated version of ChatGPT. So, as part of checking essays, the teacher should also quiz the student on what they wrote.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Students Should Present Their Essays as Reports
 
@@ -142,20 +168,6 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
  If an essay is the best way to determine a student's understanding of a topic, then it should be limited in the classroom during on-paper exams. That way, the student must rely solely on their knowledge to explain a topic.
 
 ![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Essays Can Still Gauge Student Knowledge and Competence
 
@@ -184,19 +196,17 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-analyzing-the-dji-phantom-4-vision-tech/"><u>[New] 2024 Approved Analyzing the DJI Phantom 4 Vision Tech</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-expert-insights-into-making-the-most-out-of-mac-preview/"><u>[Updated] In 2024, Expert Insights Into Making the Most Out of Mac Preview</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-breezing-through-igtv-acquisition-on-smartphones-and-tablets/"><u>2024 Approved Breezing Through IGTV Acquisition on Smartphones and Tablets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-dialogues-bots-approach-to-human-talking/"><u>AI-Driven Dialogues: Bot's Approach to Human Talking</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertire-gratuita-si-directa-in-mp4-converting-videos-with-conversia-mov-to-mp4-online/"><u>Convertire Gratuita Și Directă in MP4: Converting Videos with Conversia - MOV to MP4 Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-set-up-and-configure-your-epson-printer-step-by-step-instructions/"><u>How To Successfully Set Up and Configure Your Epson Printer - Step by Step Instructions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-choices-for-premium-video-calls-on-smartphones/"><u>In 2024, Essential Choices for Premium Video Calls on Smartphones</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-communication-gaps-fixing-service-disconnect-in-chatgpt/"><u>Overcoming Communication Gaps: Fixing Service Disconnect in ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfecting-your-craft-the-role-of-chatgpt-in-freelance-writing-success/"><u>Perfecting Your Craft: The Role of ChatGPT in Freelance Writing Success</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/reinstating-standard-settings-and-enhancing-temporal-perception-strategies-from-the-abbyy-experts/"><u>Reinstating Standard Settings & Enhancing Temporal Perception: Strategies From the ABBYY Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-3-enhancements-for-optimizing-gpt-plugin-marketplace-usage/"><u>Top 3 Enhancements for Optimizing GPT-Plugin Marketplace Usage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transparency-in-ai-generated-dialogues-origins/"><u>Transparency in AI-Generated Dialogues' Origins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/true-or-false-unmasking-gpt-myths/"><u>True or False? Unmasking GPT Myths</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-live-broadcast-precision-introducing-an-effective-timer/"><u>[New] Live Broadcast Precision Introducing an Effective Timer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-futuristic-enlightenment-the-best-30-virtual-musings/"><u>2024 Approved Futuristic Enlightenment The Best 30 Virtual Musings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-se-2020-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone SE (2020) Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/capture-your-screen-with-ease-screenshoting-techniques-for-your-acer-notebook/"><u>Capture Your Screen with Ease: Screenshoting Techniques for Your Acer Notebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/essential-fixes-for-youtubes-green-screen-errors/"><u>Essential Fixes for YouTube's Green Screen Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-ready-for-innovation-the-new-touchscreen-macbook-rumored-to-hit-shelves-soon-with-price-guesswork-and-specs-breakdown/"><u>Get Ready for Innovation – The New Touchscreen MacBook Rumored to Hit Shelves Soon With Price Guesswork and Specs Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-transform-your-gif-files-into-mp4-format-for-free-a-comprehensive-guide-across-devices/"><u>How to Transform Your GIF Files Into MP4 Format for Free: A Comprehensive Guide Across Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphonewebm/"><u>IPhone上で簡単にWebM動画再生：ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipod-video-converter-factory-pro-demo-version-with-no-cost-how-to-use/"><u>IPod Video Converter Factory Pro Demo Version with No Cost - How to Use</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-content-strategy-for-success-for-2024/"><u>YouTube Shorts Content Strategy for Success for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-teams/"><u>マイクロフォンレスで一人抜き出し: Microsoft Teams会議画面単体録画方法</u></a></li>
 </ul></div>
 

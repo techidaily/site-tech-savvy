@@ -1,7 +1,7 @@
 ---
 title: "Pioneers of Generative AI Search: How They Implement It"
-date: 2024-09-23T16:00:59.591Z
-updated: 2024-09-28T16:14:25.151Z
+date: 2024-09-30T19:42:03.597Z
+updated: 2024-10-03T17:03:58.132Z
 tags:
   - chatgpt
   - open-ai
@@ -41,22 +41,15 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
  But generative AI search aims to use that kind of output generation to replace all, or most, of the currently searched queries through regular search engines. And it aims to do a lot more. It's, essentially, putting the capabilities of ChatGPT, and all its power, at the fingertips of most regular users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Is Generative AI Search Different From Regular Search?
 
 ![openai chatgpt logo on code background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/openai-chatgpt-logo-on-code-background-feature.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are a few ways in which generative AI search is vastly different from regular search.
 
@@ -69,15 +62,22 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
  It has a few challenges ahead, and it might not replace regular search engines entirely as they will still have their purpose, but it might become a nice compliment that will make them way more useful whenever the technology is mature and released.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Companies Are Using Generative AI Search?
 
 ![microsoft building with logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-building.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Right now, the generative AI search battle is being fought between Google and Microsoft.
 
@@ -87,18 +87,18 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
  Google, on the other hand, is also coming up with new AI features of its own. Google launched its [ChatGPT-like chatbot called Bard](http://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) , but eventually, the company wants to bring AI features into its main products as well. This includes the company's regular search experience, where AI-generated answers will complement, not replace, regular search results.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Will I Be Able to Use Generative AI Search?
 
  Right now, you're able to play around with ChatGPT. It's been doing some amazing things, and [you can ask it to come up with answers to your questions](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) now. It has a few limitations—it is, of course, a product in testing, its data range is limited to the end of 2021 (at the time of writing), and it might occasionally say inaccurate or false things. But it's a fun product to play around with.
 
  As for actual AI-powered search engines, you can now join the waitlist for "the new Bing" at Microsoft's website. As for Google, there's no waitlist, but the company might eventually open up its work on AI sometime over the next few months.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Generative AI Search is Great
 
@@ -119,22 +119,17 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-essential-marketing-lexicon-20-pivotal-words-and-phrases/"><u>[New] The Essential Marketing Lexicon 20 Pivotal Words & Phrases</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-leveraging-facetimes-features-for-exceptional-audio-capturing-for-2024/"><u>[Updated] Leveraging FaceTime's Features for Exceptional Audio Capturing for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-zoom-webinars-for-newbies-a-practical-starter-manual-for-2024/"><u>[Updated] Zoom Webinars for Newbies A Practical Starter Manual for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/0x80070005-access-is-denied-update-error-on-windows-fixed/"><u>0X80070005 Access Is Denied Update Error on Windows [Fixed]</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/beat-to-visuals-an-iphone-guide-for-music-videos-for-2024/"><u>Beat to Visuals An iPhone Guide for Music Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808153847-enhance-visual-experience-resetting-the-gpu-driver-across-various-windows-operating-systems/"><u>Enhance Visual Experience: Resetting the GPU Driver Across Various Windows Operating Systems.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-iphone-voicemail-functionality-top-9-solutions-you-should-try-now/"><u>How to Restore iPhone Voicemail Functionality: Top 9 Solutions You Should Try Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-htc-u23-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on HTC U23 and Browser | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-proven-pathways-to-peeling-away-pesky-backdrops-with-affinity-photo-tools/"><u>In 2024, Proven Pathways to Peeling Away Pesky Backdrops with Affinity Photo Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-xiaomi-civi-3-disney-100th-anniversary-edition-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Xiaomi Civi 3 Disney 100th Anniversary Edition? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-worth-the-wait-how-to-decide-on-pre-ordering-htc-vive-xr-elite-virtual-reality-set-techradar/"><u>Is It Worth the Wait? How to Decide on Pre-Ordering HTC Vive XR Elite Virtual Reality Set | TechRadar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-boosting-your-fortnite-performance-with-optimal-mouse-settings/"><u>Ultimate Guide: Boosting Your Fortnite Performance with Optimal Mouse Settings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-step-by-step-process-app-removal-techniques-on-windows-11-devices/"><u>Ultimate Step-by-Step Process: App Removal Techniques on Windows 11 Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-writing-windows-11-iso-image-onto-a-usb-for-instant-installation/"><u>Ultimate Tutorial: Writing Windows 11 ISO Image Onto a USB for Instant Installation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-11-how-to-the-ultimate-guide-to-taking-efficient-screengrabs/"><u>Windows 11 How-To: The Ultimate Guide to Taking Efficient Screengrabs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wireless-networking-made-simple-linking-windows-11-devices-to-a-wi-fi-router/"><u>Wireless Networking Made Simple: Linking Windows 11 Devices to a Wi-Fi Router</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wireless-vs-wired-a-step-by-step-guide-to-connecting-your-laptop-to-a-printer/"><u>Wireless Vs. Wired: A Step-by-Step Guide to Connecting Your Laptop to a Printer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-channels-a-guide-to-best-youtube-seo-resources-for-2024/"><u>[New] Boost Your Channels A Guide to Best YouTube SEO Resources for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unlock-serenity-with-asmr-for-uninterrupted-slumber/"><u>[New] Unlock Serenity with ASMR for Uninterrupted Slumber</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-easyrecorder-straightforward-windows-10-tool/"><u>[Updated] 2024 Approved EasyRecorder - Straightforward Windows 10 Tool</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-androids-heartfelt-3ds-gaming-alternatives-for-2024/"><u>[Updated] Android's Heartfelt 3DS Gaming Alternatives for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-google-meet-capture-made-simple-for-mobile-users/"><u>[Updated] Google Meet Capture Made Simple for Mobile Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-spotlight-secrets-perfecting-vlogger-lights/"><u>[Updated] In 2024, Spotlight Secrets Perfecting Vlogger Lights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-verse-utilizing-chatgpt-for-writing-poetry-collections/"><u>Crafting Verse: Utilizing ChatGPT for Writing Poetry Collections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-chatgpt-experience-discover-the-pluses/"><u>Maximize Your ChatGPT Experience - Discover the Pluses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-explained-technology-and-impact-simplified/"><u>OpenAI Explained: Technology & Impact Simplified</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-data-exchange-between-dual-windows-using-aoemi/"><u>Streamlining Data Exchange Between Dual Windows Using AOEMi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-advent-of-intelligent-search-with-bing/"><u>The Advent of Intelligent Search with Bing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/utilization-of-unused-film-clips-tips-and-tricks-for-2024/"><u>Utilization of Unused Film Clips Tips and Tricks for 2024</u></a></li>
 </ul></div>
 

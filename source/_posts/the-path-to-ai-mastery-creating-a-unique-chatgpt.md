@@ -1,7 +1,7 @@
 ---
 title: "The Path to AI Mastery: Creating a Unique ChatGPT"
-date: 2024-09-17T17:54:21.266Z
-updated: 2024-09-22T16:39:24.879Z
+date: 2024-09-30T17:14:36.911Z
+updated: 2024-10-04T00:23:21.382Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,32 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 1. Now that you're in the GPT Builder, the first question you'll get is what you want to make. You can keep this first part short and sweet and input a single sentence. In this case, we said, "Make a Dungeons & Dragons 5e dungeon master who oversees D&D campaigns."  
 ![Primary description for a D&D GPT in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/primary-description-for-a-d-d-gpt-in-gpt-builder.jpg)
 2. Next, give your GPT a name. ChatGPT will suggest one for you, but you can still type in anything you want.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can manually change the image, name, description, and instructions for your GPT by clicking **Configure**. Click the profile picture to change it, and edit the details in the **Name** **Description** and **Instructions** fields to change them without typing prompts.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Establish a Tone and Rules for Your GPT
 
@@ -70,6 +92,19 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 
  If you find that it's not fulfilling your instructions as well as you want, go back to the **Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Upload Files as a Knowledge Base
 
  In addition to backing up your GPT with rules, you can also upload files you would like your GPT to draw information from. In our case, we uploaded copies of the Player's Handbook by Jeremy Crawford and the Dungeon Master's Guide. Both are essential D&D books.
@@ -85,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 
  If, for instance, you were trying to make a GPT that is an expert in Florida tax laws, you would get all the Florida tax legal documents you can find and upload them here to form a knowledge base your GPT can work with.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Add or Remove Capabilities
 
 [With ChatGPT Plus, you get a truly enhanced AI experience](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/). These additional features include web browsing, a code interpreter, and DALL-E 3 integration. Better still, your custom-built GPT also enjoys all of these features. However, the GPT Builder gives you the option to add or remove functionalities you don't need.
@@ -105,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 1. Click **Configure** and scroll to **Capabilities**.
 2. Toggle **Web Browsing**, **DALL-E Image Generation**, and **Code Interpreter** on or off.  
 ![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Add APIs for Third-Party Services
 
@@ -123,10 +158,10 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
  Currently, you seem to be able to add only one action at a time. If you click the **Examples** dropdown menu, you'll see a few examples of schemas OpenAI has added to aid in creating your own schema.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Configure Conversation Starters
@@ -140,19 +175,6 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 
  You can add more conversation starters as required.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Save and Publish Your GPT
 
  In the future, we expect OpenAI will create a community marketplace for custom GPTs. But while a framework for it is in the works, it's not yet available. Still, you can save your GPT and view your builder profile by clicking the **Save** dropdown menu in the top-right corner.
@@ -162,13 +184,6 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
  While it won't make any difference, for now, you can choose whether you'd like to publish to the public, via links, or only to yourself. None of the sharing options work, by the way. We have to wait for an update. But, if you want friends to use your AI, return to ChatGPT's home, open the GPT's chat, and copy the URL in your browser's address bar.
 
  If you click the pencil icon in the share menu, you'll enter your builder profile, where you can change your GPT and profile options when this feature is fully released.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT's Limitations Still Apply to GPT Builder
 
@@ -193,5 +208,24 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-firefox-screencasting-extensions/"><u>[New] Best FireFox Screencasting Extensions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-configuring-picture-in-picture-for-apple-browsers-for-2024/"><u>[New] Configuring Picture-in-Picture for Apple Browsers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/achieve-a-streamlined-workflow-essential-ai-tools-every-writer-needs/"><u>Achieve a Streamlined Workflow: Essential AI Tools Every Writer Needs</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-mysteries-of-ram-in-windows-devices/"><u>Decoding the Mysteries of RAM in Windows Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-review-of-mp4-capture-tools-for-2024/"><u>Essential Review of MP4 Capture Tools for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro Max To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/loptimisation-par-intelligence-des-processus-avec-blue-prism-boostez-les-performances-automatisees/"><u>L'Optimisation Par Intelligence Des Processus Avec Blue Prism - Boostez Les Performances Automatisées</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mariko-maeda-named-as-new-president-and-director-general-of-abbyy-japan-focusing-on-expanding-local-business/"><u>Mariko Maeda Named as New President & Director-General of ABBYY Japan, Focusing on Expanding Local Business</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-invoice-automation-with-low-code-and-no-code-techniques-a-complete-manual/"><u>Mastering Invoice Automation with Low-Code and No-Code Techniques: A Complete Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-weeks-must-read-on-abbyy-reimagine-why-its-a-game-changer-for-businesses-worldwide/"><u>Next Week's Must-Read on ABBYY ReImagine – Why It's a Game Changer for Businesses Worldwide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pourquoi-joindre-les-ranks-dabbyy-une-exploration-des-benefices-professionnels/"><u>Pourquoi Joindre Les Ranks D'ABBYY : Une Exploration Des Bénéfices Professionnels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-bill-verification-expertise-in-document-automation-by-abbyy/"><u>Smart Bill Verification: Expertise in Document Automation by ABBYY</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-effectiveness-of-digital-marketing-campaigns-its-deployment-across-various-industries-signifies-its-flexibility-and-ease-of-integration-making-it-a-valu28/"><u>The Effectiveness of Digital Marketing Campaigns. Its Deployment Across Various Industries Signifies Its Flexibility and Ease of Integration, Making It a Valuable Asset for Businesses Aiming to Enhance Their Online Presence Through Targeted Advertising.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-xcover-7-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-sales-executives-of-the-dach-area-teaming-up-with-abbyys-holt-and-chris-zechmeister/"><u>Top Sales Executives of the DACH Area - Teaming Up with ABBYY's Holt & Chris Zechmeister</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/video-quality-edge-mirrorless-versus-dslr-cameras-for-2024/"><u>Video Quality Edge Mirrorless Versus DSLR Cameras for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209805293-winning-against-error-code-0x800f0922-in-windows-10-top-fixes-you-need-to-know/"><u>Winning Against Error Code 0X800F0922 in Windows 10 - Top Fixes You Need to Know</u></a></li>
+</ul></div>
 

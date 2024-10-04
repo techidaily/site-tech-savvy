@@ -1,7 +1,7 @@
 ---
 title: Deciphering What Claude 3 Is and Its Applications
-date: 2024-09-15T17:39:14.053Z
-updated: 2024-09-22T16:20:52.330Z
+date: 2024-09-27T16:08:30.557Z
+updated: 2024-10-03T17:54:08.372Z
 tags:
   - chatgpt
   - open-ai
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
  All three issues have now been completely or at least partly addressed with the release of Claude 3\.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Can You Do With Claude 3?
@@ -71,23 +71,9 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 
  So, Claude 3 lets you do most of the things you can do with Gemini and GPT-4 (minus image generation) without having to pay the $20 subscription fee for ChatGPT premium.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Claude 3 vs. ChatGPT
 
 ![ChatGPT vs Claude AI logos](https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae116eaf3e790989364bc8da0ce.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A quick way to test the performance of an AI model is to check how well it stacks up against the best in the market: GPT-4\. Of course, I put both models to the test; how well does Anthropic's Claude 3 stack up against the colossal GPT-4?
 
@@ -99,19 +85,45 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And here is Claude 3's result when asked to do the same.
 
 ![Claude 3 makes todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-makes-todo-list-app.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Both apps were functional to an extent, but it is clear Claude 3 did a better job on this one.
 
  After trying more complex programming tests, Claude was the better model in several cases, while GPT-4 also had its wins. While I can't conclusively say Claude 3 is better at programming logic, if there was a huge gap between the two models, that gap would almost certainly have shrunk.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Common Sense Reasoning
@@ -122,11 +134,25 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 
 ![ChatGPT answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-answers-trick-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT answered correctly even without GPT-4\. If you are wondering the reason for the choice of question, well, chatbots have historically failed woefully at this sort of questioning line. Up next was Claude's turn to answer.
 
 ![testing Claude 3 on commonsense reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/testing-claude-3-on-commonsense-reasoning.jpg)
 
  Claude's response wasn't exactly a definitive answer, but it was able to identify the key information; you don't bury survivors. It's important to note that the last time we asked Claude 2 the same question, it wasn't able to see through the common sense trap.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Creative Writing
 
@@ -143,13 +169,6 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 ![Claude writes lyrics to a wrap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-writes-lyrics-to-a-wrap-song.jpg)
 
  It might be subjective, but Claude does seem to be the better option here. When both tools were tasked with drafting three articles on different topics, Claude provided the better option in all three instances. It produced a more human-like result and avoided patterns commonly associated with AI-generated texts, like exagerations, the use of complex words, and sporadic use of linking words.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Image Recognition Abilities
 
@@ -178,5 +197,26 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-12-flipscreen-cam-titles-for-optimal-vlogging/"><u>[New] 2024 Approved Essential 12 Flipscreen Cam Titles for Optimal Vlogging</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-securing-continuous-frame-playback-in-live-broadcasts/"><u>[New] 2024 Approved Securing Continuous Frame Playback in Live Broadcasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-essential-lessons-from-my-journey-top-8-technological-blunders-for-newbies-and-their-solutions/"><u>1. Essential Lessons From My Journey: Top 8 Technological Blunders for Newbies & Their Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-maximize-your-inspiration-free-pinterest-video-downloaders/"><u>2024 Approved Maximize Your Inspiration Free Pinterest Video Downloaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-digital-safety-asap-with-these-9-speedy-cybersecurity-tips/"><u>Boost Your Digital Safety ASAP with These 9 Speedy Cybersecurity Tips!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-joy-of-melodic-brain-teasers-a-fresh-take-on-daily-song-quizzes/"><u>Discover the Joy of Melodic Brain Teasers - A Fresh Take on Daily Song Quizzes!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-ways-to-determine-if-workplace-surveillance-is-tracking-your-digital-footprint/"><u>Discover Ways To Determine If Workplace Surveillance Is Tracking Your Digital Footprint!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/dodgingdullnessaftermycam-for-2024/"><u>DodgingDullnessAfterMyCam for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-the-latest-thunderbird-128-version-featuring-the-new-nebula-upgrade/"><u>Download the Latest Thunderbird 128 Version Featuring the New Nebula Upgrade</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-privacy-and-control-why-less-visible-interactions-boost-social-media-enjoyment/"><u>Enhancing Privacy and Control: Why Less Visible Interactions Boost Social Media Enjoyment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/federal-trade-commission-enforces-stricter-sanctions-against-misleading-online-reviews-by-companies/"><u>Federal Trade Commission Enforces Stricter Sanctions Against Misleading Online Reviews by Companies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-and-solving-errors-in-your-windows-software-installers/"><u>Identifying and Solving Errors in Your Windows Software Installers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-combatting-iphones-difficulty-in-autofocusing/"><u>In 2024, Combatting iPhone's Difficulty in Autofocusing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-xcover-7-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy XCover 7 Phone Screen?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-transformative-techniques-looping-videos-that-engage-instagram-users/"><u>In 2024, Transformative Techniques Looping Videos That Engage Instagram Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-arc-browser-your-go-to-web-surfing-option-for-windows-10-users/"><u>Introducing Arc Browser: Your Go-To Web Surfing Option for Windows 10 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-driver-update-available-for-canon-lbp6870dlc1225dn-network-printers-in-windows-environment/"><u>Newest Driver Update Available for Canon LBP6870D/LC1225DN Network Printers in Windows Environment</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mac-users-install-lumafusion-or-discover-its-top-competitors/"><u>Updated Mac Users Install Lumafusion or Discover Its Top Competitors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vintage-cellphones-the-perfect-kid-friendly-devices-for-listening-to-tunes-and-educational-talks/"><u>Vintage Cellphones: The Perfect Kid-Friendly Devices for Listening to Tunes & Educational Talks</u></a></li>
+</ul></div>
 

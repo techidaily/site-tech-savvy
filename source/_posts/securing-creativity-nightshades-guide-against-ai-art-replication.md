@@ -1,7 +1,7 @@
 ---
 title: "Securing Creativity: Nightshade's Guide Against AI Art Replication"
-date: 2024-09-21T16:07:13.315Z
-updated: 2024-09-22T16:21:53.581Z
+date: 2024-09-29T19:57:34.598Z
+updated: 2024-10-03T19:23:48.870Z
 tags:
   - chatgpt
   - open-ai
@@ -39,11 +39,31 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is AI Poisoning?
 
  AI poisoning is the act of "poisoning" the training dataset of an AI algorithm. This is similar to providing wrong information to the AI on purpose, resulting in the trained AI malfunctioning or failing to detect an image. Tools like Nightshade alter the pixels in a digital image in such a manner that it appears to be completely different to the AI training on it, but largely unchanged from the original to the human eye.
 
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
 
@@ -58,10 +78,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Nightshade
@@ -83,10 +103,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
@@ -111,5 +131,24 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-elite-list-best-apps-for-live-basketball-and-international-football-games/"><u>[New] 2024 Approved Elite List Best Apps for Live Basketball and International Football Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capturing-panoramic-shots-iphone-guide/"><u>[New] Capturing Panoramic Shots IPhone Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-strategic-timestamp-use-for-increased-youtube-traction/"><u>[Updated] 2024 Approved Strategic Timestamp Use for Increased YouTube Traction</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-expert-tips-on-seamless-multisnapping-videos-in-snapchat/"><u>[Updated] Expert Tips on Seamless Multisnapping Videos in Snapchat</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-microphones-for-enhanced-4k-video-clarity-and-sound/"><u>[Updated] Leading Microphones for Enhanced 4K Video Clarity and Sound</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-chart-topping-storytellers-to-follow-on-youtube-this-year/"><u>2024 Approved Chart-Topping Storytellers to Follow on YouTube This Year</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-expertise-in-ai-communication-courses/"><u>Achieve Expertise in AI Communication Courses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cracking-linguistic-codes-comparing-gpt-with-bert-models/"><u>Cracking Linguistic Codes: Comparing GPT with BERT Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-healthier-meals-with-ai-expertise-chatgpt/"><u>Crafting Healthier Meals with AI Expertise (ChatGPT)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craftsmanship-and-ai-intersection-redefined-by-gpt-4/"><u>Craftsmanship and AI Intersection Redefined by GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-seed-to-story-innovative-writing-techniques-from-gpt/"><u>From Seed to Story: Innovative Writing Techniques From GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-driving-mercedes-fuses-chatgpt-and-voice-technology/"><u>Intelligent Driving: Mercedes Fuses ChatGPT & Voice Technology</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/international-anti-terrorism-measures-can-restrict-exports-to-certain-countries-or-entities/"><u>International Anti-Terrorism Measures Can Restrict Exports to Certain Countries or Entities.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-life-comparing-claude-and-chatgpt-skills/"><u>Simplifying Life: Comparing Claude & ChatGPT Skills</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/med-dialogue-scribe/"><u>Streamed Dialogue Scribe</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/syntax-savior-chatgpts-crucial-role-in-natural-language-understanding/"><u>Syntax Savior: ChatGPT's Crucial Role in Natural Language Understanding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-copilot-experience-evolved-a-comparison-guide/"><u>The Copilot Experience Evolved - A Comparison Guide</u></a></li>
+</ul></div>
 

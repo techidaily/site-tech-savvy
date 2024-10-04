@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT on Mobile Devices: A Step-by-Step Guide"
-date: 2024-09-27T17:06:43.314Z
-updated: 2024-09-28T16:40:44.820Z
+date: 2024-10-02T16:05:59.539Z
+updated: 2024-10-03T18:14:45.876Z
 tags:
   - chatgpt
   - open-ai
@@ -59,20 +59,27 @@ Close
 
 ![ChatGPT signup page iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-signup-page-ios.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT final disclaimer screen iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-final-disclaimer-screen-ios.jpg)
 
 ![ChatGPT conversation screen iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-conversation-screen-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Like the desktop version, you can access previous conversations, [upgrade to ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), or even enable dark mode. You can access these settings by tapping the **menu icon** in the top-left corner of your screen.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using ChatGPT Through Siri Shortcuts
 
@@ -97,15 +104,22 @@ Close
 ![SiriGPT prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-prompt-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
  That's certainly a lot of work, and whether it's worth it depends on how much you use the shortcut. At its worst, it's a neat party trick, but at its best, you have the power of GPT in your hands, now with the voice of Siri powering it. Again, this is not the most convenient way of accessing ChatGPT, but it's surprising how well it works when it does.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Third-Party ChatGPT Apps for Android and iOS
 
@@ -115,29 +129,15 @@ Close
 
 ![Perplexity AI app sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-sources.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Perplexity AI app thread](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-thread-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![perlexity-ai-invitation-screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perlexity-ai-invitation-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -148,16 +148,16 @@ Close
 
 ![Nova GPT Android app homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-homescreen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Nova GPT Android app prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-prompt.jpg)
 
 ![Nova GPT Android app text to speech](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-text-to-speech.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -192,22 +192,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-speed-kings-and-queens-key-moments-from-the-short-track-games/"><u>[New] 2024 Approved Speed Kings and Queens Key Moments From the Short Track Games</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-top-affordable-video-editors-of-2023-today/"><u>[Updated] 2024 Approved Discover Top Affordable Video Editors of 2023 Today</u></a></li>
-<li><a href="https://discover-community.techidaily.com/isompeg4/"><u>簡単な手順でISOファイルをMPEG4動画に変換するコツ</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-real-time-performance-of-win-11-task-manager/"><u>Adjusting Real-Time Performance of Win 11 Task Manager</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-innovations-boosting-scholarly-exploration/"><u>AI Innovations: Boosting Scholarly Exploration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/detailed-musk-explanation-of-grok-ai-its-significance-use-and-expense/"><u>Detailed Musk Explanation of Grok AI: Its Significance, Use & Expense</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-deep-utilizing-chatgpts-my-bot-for-board-games-and-artistry/"><u>Dive Deep: Utilizing ChatGPT's My Bot for Board Games and Artistry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-your-conversations-advanced-prompting-strategies-for-ai/"><u>Elevating Your Conversations: Advanced Prompting Strategies for AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/forging-ethical-boundaries-in-the-ai-landscape/"><u>Forging Ethical Boundaries in the AI Landscape</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-6s-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 6s and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-yourself-to-ai-bing-search-registration-process/"><u>Introducing Yourself to AI Bing Search: Registration Process</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-say-goodbye-to-hiss-effective-background-noise-removal-in-final-cut-pro-x/"><u>New In 2024, Say Goodbye to Hiss Effective Background Noise Removal in Final Cut Pro X</u></a></li>
-<li><a href="https://games-able.techidaily.com/restoring-gaming-hits-remove-plus-redownload-ps5-games/"><u>Restoring Gaming Hits: Remove + Redownload PS5 Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shaping-an-ai-that-walks-the-human-morality-line/"><u>Shaping an AI that Walks the Human Morality Line</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-integrating-gpt-3-in-daily-work-life/"><u>The Ultimate Guide to Integrating GPT-3 in Daily Work Life</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-igtv-insights-key-measures-for-effective-content-for-2024/"><u>Unveiling IGTV Insights Key Measures for Effective Content for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-essential-pop-tunes-assortment-for-enhancing-video-narratives-with-dynamic-soundscapes/"><u>Updated Essential Pop Tunes Assortment for Enhancing Video Narratives with Dynamic Soundscapes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-optimizing-personal-video-experience-building-an-organized-watch-later-list/"><u>[New] 2024 Approved Optimizing Personal Video Experience Building an Organized 'Watch Later' List</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ey-information-every-asmr-aficionado-should-know-for-2024/"><u>[New] Key Information Every ASMR Aficionado Should Know for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-updating-twitters-video-previews-on-your-account-for-2024/"><u>[New] Updating Twitter's Video Previews on Your Account for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-get-snapchat-on-mac-easy-guide/"><u>[Updated] In 2024, How to Get Snapchat on Mac? [Easy Guide]</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/vocal-modification-software-for-content-creators-for-2024/"><u>Best Vocal Modification Software for Content Creators for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-karaoke-magic-create-personalized-songs-and-music-videos-quickly-for-free/"><u>DIY Karaoke Magic: Create Personalized Songs & Music Videos Quickly for Free!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-youtube-shorts-videos-without-cost-simple-techniques-exposed/"><u>Download YouTube Shorts Videos Without Cost - Simple Techniques Exposed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-guide-syncing-and-watching-films-with-subtitles-directly-from-your-television/"><u>Easy Guide: Syncing and Watching Films with Subtitles Directly From Your Television</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-techniques-for-converting-videos-into-written-transcripts-including-and-excluding-captions/"><u>Effective Techniques for Converting Videos Into Written Transcripts, Including and Excluding Captions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-strategies-building-your-own-plays-through-windows-media-player/"><u>Effortless Strategies: Building Your Own Plays Through Windows Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-audio-clarity-effective-methods-for-amplifying-sounds-in-windows-systems/"><u>Elevate Audio Clarity: Effective Methods for Amplifying Sounds in Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-slideshow-how-to-pick-the-perfect-video-format-for-powerpoint-usage/"><u>Enhancing Your Slideshow: How to Pick the Perfect Video Format for PowerPoint Usage</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/getting-started-with-drones-a-comprehensive-look-at-the-syma-x5c-quadcopter/"><u>Getting Started with Drones: A Comprehensive Look at the SYMA X5C Quadcopter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/h264-video-playback-issues-on-windows-10-and-how-to-resolve-them/"><u>H.264 Video Playback Issues on Windows 10 and How to Resolve Them</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-process-to-revamp-your-scansnap-ix5e-driver-compatibility-on-windows-systems/"><u>Hassle-Free Process to Revamp Your ScanSnap iX5e Driver Compatibility on Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-set-up-and-enjoy-ultra-hd-4k-live-tv-with-kodi-using-the-latest-matrix-compatible-plug-in-at-no-cost/"><u>How to Set Up and Enjoy Ultra HD 4K Live TV with Kodi Using the Latest Matrix-Compatible Plug-In at No Cost</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-windows-device-with-new-ch340g-usb-chip-drivers/"><u>How to Update Your Windows ^Device with New CH340G USB Chip Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-energy-saving-states-in-windows-os/"><u>Mastering Energy-Saving States in Windows OS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/mp4-file-editing-on-mavericks-a-step-by-step-tutorial-for-2024/"><u>MP4 File Editing on Mavericks A Step-by-Step Tutorial for 2024</u></a></li>
 </ul></div>
 

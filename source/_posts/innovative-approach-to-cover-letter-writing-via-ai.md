@@ -1,7 +1,7 @@
 ---
 title: Innovative Approach to Cover Letter Writing via AI
-date: 2024-09-21T16:44:12.741Z
-updated: 2024-09-22T19:10:38.259Z
+date: 2024-10-03T00:05:11.465Z
+updated: 2024-10-04T00:08:07.256Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/6308ca1326b9f5602e19bd1098908b4cdc545e2ea
 
  ChatGPT-4 has a limit of 25 messages every three hours, costing $20 monthly. If you’re wondering what other artificial intelligence options exist besides ChatGPT, you might be interested in learning about [the best alternatives to ChatGPT](https://www.makeuseof.com/best-alternatives-chatgpt/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enter Your Custom Instructions
 
 ![Screenshot of Custom Instructions for freelance writing cover letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-custom-instructions-for-freelance-writing-cover-letter.jpg)
@@ -56,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/6308ca1326b9f5602e19bd1098908b4cdc545e2ea
 
 ![Screenshot of job description provided to ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-job-description-provided-to-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve completed your custom instructions, it’s time to provide a job description that ChatGPT can refer to when creating your cover letter. Remember, the key to writing an effective cover letter is addressing all the critical needs indicated in the job description.
 
  If you’re using the free ChatGPT 3.5 version of the platform, there’s no limit to the number of jobs you can ask it to write cover letters for! You can also ask the platform to regenerate the response if you don’t like the first one you get.
@@ -66,11 +80,25 @@ thumbnail: https://thmb.techidaily.com/6308ca1326b9f5602e19bd1098908b4cdc545e2ea
 
  Once you’ve submitted the job description, the next step is to ask for a cover letter. Instead of asking it to write one document, you can ask it to focus on each part of your cover letter to create a more focused one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Introductory Paragraph
 
 ![Screenshot of introductory paragraph by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-introductory-paragraph-by-chatgpt.jpg)
 
  The first paragraph is where you provide basic details about who you are and why you want the job. You can also give a general overview of why you’re the right candidate for the job and why the position excites you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Your Qualifications
 
@@ -78,31 +106,18 @@ thumbnail: https://thmb.techidaily.com/6308ca1326b9f5602e19bd1098908b4cdc545e2ea
 
  The next part of your cover letter summarizes your experience and qualifications and how they apply to the job you’re applying for. This is where you can include stories about relevant projects or situations to give the hiring manager or recruiter some insight into how you work.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explain How You Align With the Company’s Values and Goals
 
 ![Screenshot of aligning with values and goals of organization by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-aligning-with-values-and-goals-of-organization-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this section of your cover letter, you want to illustrate that you understand the company’s mission and have done your research on the company. You want to focus on how your goals align with the organization’s, and you can also include positive factors you’ve heard about the company culture.
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Close With a Call to Action
 
@@ -112,22 +127,15 @@ thumbnail: https://thmb.techidaily.com/6308ca1326b9f5602e19bd1098908b4cdc545e2ea
 
  This is where you can focus on the talents and skills you hope to bring to the team. If you want to learn more about the platform’s capabilities and how to generate the proper prompts, you may be interested in learning [ways to learn how to write effective ChatGPT prompts for the best AI answers](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/ "5 Ways to Learn How to Write Effective ChatGPT Prompts for the Best AI Answers").
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Proofread and Review the Generated Cover Letter
 
 ![Image of a math mistake](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-of-a-math-mistake.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the AI generates the different parts of your cover letter, you can put them together and read it out loud to see if it makes sense.
@@ -161,5 +169,22 @@ thumbnail: https://thmb.techidaily.com/6308ca1326b9f5602e19bd1098908b4cdc545e2ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-streamline-your-youtube-presence-using-premiere-pro/"><u>[New] 2024 Approved Streamline Your YouTube Presence Using Premiere Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-top-5-facebook-video-grabber/"><u>[New] 2024 Approved Top 5 Facebook Video Grabber</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-webcam-options-for-professional-zoom-use/"><u>[New] Optimal Webcam Options for Professional Zoom Use</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-rediscover-lost-eyes-only-pics-for-2024/"><u>[New] Rediscover Lost Eyes-Only Pics for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-free-top-10-facebook-video-downloader-for-android-for-2024/"><u>[Updated] FREE Top 10 Facebook Video Downloader for Android for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seconds-for-a-high-quality-20mb-video/"><u>2024 Approved Seconds for a High-Quality 20MB Video</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adaptive-language-learning-via-chatgpt-plus-interface/"><u>Adaptive Language Learning via ChatGPT Plus Interface</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolution-which-professions-might-be-abolished/"><u>AI Revolution: Which Professions Might Be Abolished?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-smooth-chatgpt-interactions-chrome-powered-solution/"><u>Dive Into Smooth ChatGPT Interactions - Chrome-Powered Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fantasy-fused-with-fact-leading-ai-trajectories/"><u>Fantasy Fused with Fact: Leading AI Trajectories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fools-errand-of-intelligent-machines-recognizing-ai-hallucination/"><u>Fool's Errand of Intelligent Machines: Recognizing AI Hallucination</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone SE (2022)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precision-in-patient-care-how-to-confirm-ai-health-advice/"><u>Precision in Patient Care: How to Confirm AI Health Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stop-matching-siri-with-chatgpt-their-uniqueness-spotlighted/"><u>Stop Matching Siri with ChatGPT: Their Uniqueness Spotlighted</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/under-500-drone-guide-top-5-budget-buzzers-for-2024/"><u>Under $500 Drone Guide Top 5 Budget Buzzers for 2024</u></a></li>
+</ul></div>
 

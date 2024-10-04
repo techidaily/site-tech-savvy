@@ -1,7 +1,7 @@
 ---
 title: "Understanding Localized Machine Learning: Basics & Operation"
-date: 2024-09-19T17:29:48.405Z
-updated: 2024-09-22T17:05:47.450Z
+date: 2024-09-26T20:20:18.312Z
+updated: 2024-10-03T19:16:24.178Z
 tags:
   - chatgpt
   - open-ai
@@ -46,62 +46,11 @@ thumbnail: https://thmb.techidaily.com/461111458e3b4ce139d48fb2aa4a766468aa7e6bd
 
  All of this happens entirely on your device, keeping your interactions private.
 
-## How On-Device AI Can Benefit You
-
-![person using on-device ai on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/person-using-ai-tool-job-2.jpg)
-
-Image Credit: freepik/[freepik](https://www.freepik.com/free-photo/person-using-ai-tool-job%5F60362988.htm)
-
- On-device AI allows for impressive capabilities on your device. This includes fast image generation using models like Stable Diffusion, where images can be created in seconds, which is blazing fast. This could be great if you want to create images and backgrounds for your social media posts quickly. And since it's processed locally, your image prompts remain private.
-
- An AI assistant can also be powered locally, providing a personalized experience based on your data and preferences, like favorite activities and fitness levels. It can understand natural language for tasks like photo and video editing. For example, you may be able to say "remove the person on the left" to edit an image instantly.
-
- For photography, on-device AI can enable features like extending image borders (similar to [Photoshop's fill feature](https://www.makeuseof.com/adobe-ai-generative-fill-tool-overview-how-to-access/)), using simultaneous front and back cameras for video effects, and editing different layers independently.
-
- Gaming graphics can also benefit from on-device AI through upscaling resolution up to 8K, accelerating ray tracing for realistic lighting, and efficiently doubling framerates. Regarding audio, on-device AI can enable real-time audio syncing so your audio from videos and games never goes out of sync. It also allows for crystal clear calls and music even if you walk into another room.
-
- Overall, on-device AI aligns with what many users want—quick results and privacy—as it keeps more processing local instead of the cloud.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## On-Device AI Brings Faster and More Private AI Experiences
-
- On-device AI is pretty neat. It allows our phones and other gadgets to run advanced AI algorithms locally without needing to connect to the cloud and without lag.
-
- Companies like Qualcomm are already packing their latest chips with specialized hardware to run neural networks efficiently on our devices. For example, Qualcomm's Snapdragon 8 Gen 3 supports up to 24GB (on a smartphone!), has integrated support for Stable Diffusion and Llama 2, and uses Qualcomm's AI Stack to deliver some of the best on-device AI performance at the current time.
-
- So, with each new generation of smartphones, expect to see even more powerful on-device AI capabilities for things like intelligent assistants, real-time translation, automated photo editing, and lightning-fast generative AI image generation.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- From chatbots to self-driving cars, AI is transforming the technology landscape. One area where AI adoption is accelerating rapidly is on consumer devices like smartphones. Tech giants are racing to integrate on-device AI capabilities into their latest hardware and software.
-
- But what exactly is on-device AI, and how does it work?
-
-## What On-Device AI Is and How It Works
-
- Today, most consumer AI is powered by huge datasets stored in the cloud. However, [uploading personal data to AI servers isn't good for privacy](https://www.makeuseof.com/chatbot-privacy-risks-concerns-you-should-know-about/). That's where on-device AI comes in.
-
- On-device AI refers to artificial intelligence capabilities that run locally on a device rather than in the cloud. This means the AI processing happens right on your phone, tablet, or other devices without connecting to the internet.
-
- Here's how it works under the hood: AI models like [Stable Diffusion, DALLE-E, Midjourney](https://www.makeuseof.com/midjourney-vs-dalle-vs-stable-diffusion/), etc., are trained in the cloud using lots of data and computing power. These models are then optimized to run efficiently on the target devices. The optimized AI models are embedded into apps and downloaded onto each user's device. The app data stays isolated in a secure enclave.
-
- When the app needs to perform a task like recognizing a sound or identifying an object in a photo, it runs the AI model locally using the device's onboard CPU or GPU. The AI model processes the input data and generates an output prediction or result without sending any data externally.
-
- All of this happens entirely on your device, keeping your interactions private.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How On-Device AI Can Benefit You
@@ -120,6 +69,13 @@ Image Credit: freepik/[freepik](https://www.freepik.com/free-photo/person-using-
 
  Overall, on-device AI aligns with what many users want—quick results and privacy—as it keeps more processing local instead of the cloud.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## On-Device AI Brings Faster and More Private AI Experiences
 
  On-device AI is pretty neat. It allows our phones and other gadgets to run advanced AI algorithms locally without needing to connect to the cloud and without lag.
@@ -136,6 +92,13 @@ Image Credit: freepik/[freepik](https://www.freepik.com/free-photo/person-using-
 
  But what exactly is on-device AI, and how does it work?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What On-Device AI Is and How It Works
 
  Today, most consumer AI is powered by huge datasets stored in the cloud. However, [uploading personal data to AI servers isn't good for privacy](https://www.makeuseof.com/chatbot-privacy-risks-concerns-you-should-know-about/). That's where on-device AI comes in.
@@ -148,23 +111,9 @@ Image Credit: freepik/[freepik](https://www.freepik.com/free-photo/person-using-
 
  All of this happens entirely on your device, keeping your interactions private.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How On-Device AI Can Benefit You
 
 ![person using on-device ai on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/person-using-ai-tool-job-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: freepik/[freepik](https://www.freepik.com/free-photo/person-using-ai-tool-job%5F60362988.htm)
 
@@ -210,6 +159,64 @@ Image Credit: freepik/[freepik](https://www.freepik.com/free-photo/person-using-
 
 ![person using on-device ai on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/person-using-ai-tool-job-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Image Credit: freepik/[freepik](https://www.freepik.com/free-photo/person-using-ai-tool-job%5F60362988.htm)
+
+ On-device AI allows for impressive capabilities on your device. This includes fast image generation using models like Stable Diffusion, where images can be created in seconds, which is blazing fast. This could be great if you want to create images and backgrounds for your social media posts quickly. And since it's processed locally, your image prompts remain private.
+
+ An AI assistant can also be powered locally, providing a personalized experience based on your data and preferences, like favorite activities and fitness levels. It can understand natural language for tasks like photo and video editing. For example, you may be able to say "remove the person on the left" to edit an image instantly.
+
+ For photography, on-device AI can enable features like extending image borders (similar to [Photoshop's fill feature](https://www.makeuseof.com/adobe-ai-generative-fill-tool-overview-how-to-access/)), using simultaneous front and back cameras for video effects, and editing different layers independently.
+
+ Gaming graphics can also benefit from on-device AI through upscaling resolution up to 8K, accelerating ray tracing for realistic lighting, and efficiently doubling framerates. Regarding audio, on-device AI can enable real-time audio syncing so your audio from videos and games never goes out of sync. It also allows for crystal clear calls and music even if you walk into another room.
+
+ Overall, on-device AI aligns with what many users want—quick results and privacy—as it keeps more processing local instead of the cloud.
+
+## On-Device AI Brings Faster and More Private AI Experiences
+
+ On-device AI is pretty neat. It allows our phones and other gadgets to run advanced AI algorithms locally without needing to connect to the cloud and without lag.
+
+ Companies like Qualcomm are already packing their latest chips with specialized hardware to run neural networks efficiently on our devices. For example, Qualcomm's Snapdragon 8 Gen 3 supports up to 24GB (on a smartphone!), has integrated support for Stable Diffusion and Llama 2, and uses Qualcomm's AI Stack to deliver some of the best on-device AI performance at the current time.
+
+ So, with each new generation of smartphones, expect to see even more powerful on-device AI capabilities for things like intelligent assistants, real-time translation, automated photo editing, and lightning-fast generative AI image generation.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ From chatbots to self-driving cars, AI is transforming the technology landscape. One area where AI adoption is accelerating rapidly is on consumer devices like smartphones. Tech giants are racing to integrate on-device AI capabilities into their latest hardware and software.
+
+ But what exactly is on-device AI, and how does it work?
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## What On-Device AI Is and How It Works
+
+ Today, most consumer AI is powered by huge datasets stored in the cloud. However, [uploading personal data to AI servers isn't good for privacy](https://www.makeuseof.com/chatbot-privacy-risks-concerns-you-should-know-about/). That's where on-device AI comes in.
+
+ On-device AI refers to artificial intelligence capabilities that run locally on a device rather than in the cloud. This means the AI processing happens right on your phone, tablet, or other devices without connecting to the internet.
+
+ Here's how it works under the hood: AI models like [Stable Diffusion, DALLE-E, Midjourney](https://www.makeuseof.com/midjourney-vs-dalle-vs-stable-diffusion/), etc., are trained in the cloud using lots of data and computing power. These models are then optimized to run efficiently on the target devices. The optimized AI models are embedded into apps and downloaded onto each user's device. The app data stays isolated in a secure enclave.
+
+ When the app needs to perform a task like recognizing a sound or identifying an object in a photo, it runs the AI model locally using the device's onboard CPU or GPU. The AI model processes the input data and generates an output prediction or result without sending any data externally.
+
+ All of this happens entirely on your device, keeping your interactions private.
+
+## How On-Device AI Can Benefit You
+
+![person using on-device ai on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/person-using-ai-tool-job-2.jpg)
+
 Image Credit: freepik/[freepik](https://www.freepik.com/free-photo/person-using-ai-tool-job%5F60362988.htm)
 
  On-device AI allows for impressive capabilities on your device. This includes fast image generation using models like Stable Diffusion, where images can be created in seconds, which is blazing fast. This could be great if you want to create images and backgrounds for your social media posts quickly. And since it's processed locally, your image prompts remain private.
@@ -223,10 +230,10 @@ Image Credit: freepik/[freepik](https://www.freepik.com/free-photo/person-using-
  Overall, on-device AI aligns with what many users want—quick results and privacy—as it keeps more processing local instead of the cloud.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## On-Device AI Brings Faster and More Private AI Experiences
@@ -250,5 +257,20 @@ Image Credit: freepik/[freepik](https://www.freepik.com/free-photo/person-using-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-secrets-of-swelling-youtube-supporters/"><u>[New] Unlocking the Secrets of Swelling YouTube Supporters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-breaking-down-techniques-for-recording-google-meet-participants/"><u>[Updated] Breaking Down Techniques for Recording Google Meet Participants</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-bypass-software-for-youtube-downloads-for-2024/"><u>[Updated] Bypass Software for YouTube Downloads for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-digital-sound-logging-system-inputs-for-2024/"><u>[Updated] Digital Sound Logging System Inputs for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-flv-to-youtube-unveiling-the-top-10-tools-for-video-conversion/"><u>2024 Approved FLV to YouTube Unveiling the Top 10 Tools for Video Conversion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-blur-background-in-zoom-easily-an-ultimate-guide/"><u>2024 Approved How to Blur Background in Zoom Easily An Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crucial-criteria-to-evaluate-when-hiring-a-chatbot-service/"><u>Crucial Criteria to Evaluate when Hiring a Chatbot Service</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/effortless-mp4-conversion-from-facebook-hd-content-all-for-free-for-2024/"><u>Effortless MP4 Conversion From Facebook HD Content – All For Free for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-implementation-in-hardware-realm/"><u>Exploring AI Implementation in Hardware Realm</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-a-comprehensive-guide/"><u>Exploring Tom's Hardware - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-developers-feel-ai-will-impact-their-workflow/"><u>How Developers Feel AI Will Impact Their Workflow</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrated-learning-best-school-practices-using-ai-powered-chatgpt/"><u>Integrated Learning: Best School Practices Using AI-Powered ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-chatgpt-for-excel-proficiency/"><u>Leverage ChatGPT for Excel Proficiency</u></a></li>
+</ul></div>
 

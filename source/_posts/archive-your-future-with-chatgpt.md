@@ -1,7 +1,7 @@
 ---
 title: Archive Your Future with ChatGPT
-date: 2024-09-18T18:14:37.769Z
-updated: 2024-09-22T17:26:36.867Z
+date: 2024-09-27T18:09:41.938Z
+updated: 2024-10-03T17:09:08.187Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 2. Click the edit icon and change the title appropriately.
 3. Finally, click the checkmark to save the new title.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Save Your ChatGPT Conversations to a TXT File
 
  While you can [share ChatGPT conversations](https://www.makeuseof.com/share-chatgpt-chats-links/) with others and export your entire chat history, ChatGPT doesn't have a feature that lets you download individual conversations to your local disk.
@@ -49,6 +56,19 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 3. Once on the last text, press **Ctrl + C** or **Cmd + C** on your keyboard or right-click and select **Copy** to copy the chat to your clipboard.
 4. Open the Notepad or any text editor on your computer and paste this conversation into it. Then save the file with a TXT extension.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Save Your ChatGPT Chat to HTML or PDF Files Using Browser Extensions
 
 [Export ChatGPT Conversation](https://chrome.google.com/webstore/detail/export-chatgpt-conversati/clgidpflecgaaabfcmdmkcgebpbadgoc/) is a Chrome extension that lets you copy your entire chat thread to your clipboard or download it to your local drive as HTML. You can also use this extension to export chats to your Notion workspace.
@@ -59,6 +79,14 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 2. Go to the extension icon in the top-right corner of your Chrome browser and click the **Export ChatGPT Conversation** extension.  
 ![Export ChatGPT extension in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/export-chatgpt-extension-in-chrome.jpg)
 3. Select the appropriate option to **Copy to Clipboard**, **Export to Notion**, or **Download as Images**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT conversation saving options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-saving-options.jpg)
 4. If you've copied it to the clipboard, paste the text into a plain textfile on your local drive and save it as a **.txt**.
 5. **To download each conversation as an image**, select **Download as Images.** The extension opens a new browser tab containing images of the chosen conversation. Click the download icon in the top-right corner of an image to save it as a PNG.  
@@ -67,6 +95,20 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 ![ChatGPT conversation as HTML](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-as-html.jpg)
 7. **For PDF**, select **Download as Images.** Right-click the page and click **Print** this time. Click **Print** and select a destination folder. Then click **Save** to download the chat as a PDF.  
 ![ChatGPT conversation as PDF](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-as-pdf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Export Your ChatGPT Conversation History to Your Computer
 
@@ -77,42 +119,28 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 ![ChatGPT settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-settings-option.jpg)
 3. Click **Data Controls**.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click **Export** to the right of **Export data**.  
 ![ChatGPT settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-settings-menu.jpg)
 5. From the pop-up, click **Confirm export**; this sends a download link to your registered email address.  
 ![Export confirmation modal in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/export-confirmation-modal-in-chatgpt.jpg)
 6. Check your email for the download link and click **Download data export** to download your ChatGPT conversation history to your device's local storage as a zipped folder.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![OpenAI email download data export](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/openai-email-download-data-export.jpg)
 7. Once you [unzip the file](https://www.makeuseof.com/unzip-files-windows-10/), you can view a human-readable format of your conversation history by opening the HTML version in the browser. For more technical use cases, you can open the JSON formats.  
 ![ChatGPT history unzipped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-history-unzipped.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Clear ChatGPT Conversations
 
  Your purpose for backing up your conversations with ChatGPT might be to clear existing conversations. To do this:
 
 ![Clear conversation option ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/clear-conversation-option-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Click your profile icon at the bottom left of the ChatGPT chat menu.
 2. Select **Clear conversations** \> **Confirm clear conversations**. This clears your entire conversation history, and you can start afresh.
@@ -136,5 +164,20 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-premier-plugins-for-dynamic-type-design-in-ae/"><u>[New] Premier Plugins for Dynamic Type Design in AE</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-prime-pick-top-10-streamers-for-cutting-edge-tv-content/"><u>[Updated] 2024 Approved Prime Pick Top 10 Streamers for Cutting-Edge TV Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artistic-integrity-vs-tech-might-the-sarah-silverman-suit/"><u>Artistic Integrity Vs. Tech Might: The Sarah Silverman Suit</u></a></li>
+<li><a href="https://article-tips.techidaily.com/concoct-clever-caricatures/"><u>Concoct Clever Caricatures</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-oppo-a38-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo A38 Easily?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/laughter-algorithm-computing-milestones-and-privacy-in-the-cloud/"><u>Laughter Algorithm: Computing Milestones & Privacy in the Cloud</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stealthy-gpt-conversation-archiving-strategies/"><u>Stealthy GPT Conversation Archiving Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprising-fact-start-a-dialogue-with-chatgpt/"><u>Surprising Fact: Start a Dialogue with ChatGPT</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tapping-into-youtubes-earnings-how-much-do-you-make-from-adsense-per-kv-in-2024/"><u>Tapping Into Youtube's Earnings How Much Do You Make From AdSense Per KV, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-synergy-of-technology-and-spirituality-with-chatgpt/"><u>The Synergy of Technology and Spirituality with ChatGPT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-the-mordhau-game-crash-dilemma/"><u>Troubleshooting Steps: Resolving the Mordhau Game Crash Dilemma</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-7-issues-with-generative-ai-for-chats/"><u>Unveiling 7 Issues with Generative AI for Chats</u></a></li>
+</ul></div>
 

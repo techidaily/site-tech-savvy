@@ -1,7 +1,7 @@
 ---
 title: Navigating the Nightshade Method for Artwork Defense Against AI
-date: 2024-09-26T18:00:15.614Z
-updated: 2024-09-28T16:43:54.121Z
+date: 2024-09-26T23:41:53.042Z
+updated: 2024-10-04T00:29:56.878Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is AI Poisoning?
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  AI poisoning is the act of "poisoning" the training dataset of an AI algorithm. This is similar to providing wrong information to the AI on purpose, resulting in the trained AI malfunctioning or failing to detect an image. Tools like Nightshade alter the pixels in a digital image in such a manner that it appears to be completely different to the AI training on it, but largely unchanged from the original to the human eye.
 
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
 
@@ -77,6 +70,19 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Using this technique, digital creators who do not consent for their images to be used in AI datasets can [protect them from being fed to generative AI without permission](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/). Some platforms provide creators the option to opt out of including their artwork in AI training datasets. However, such opt-out lists have been disregarded by AI model trainers in the past and continue to be disregarded with little to no consequence.
 
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Nightshade
 
@@ -97,10 +103,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
@@ -127,14 +133,17 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-master-the-art-of-music-and-messaging-spotifyplusdiscord-connection/"><u>[New] In 2024, Master the Art of Music and Messaging Spotify+Discord Connection</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-comfort-10-tips-for-vr/"><u>[New] Mastering Comfort 10 Tips for VR</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-best-youtube-shorts-video-editing-apps-for-ios-and-android-for-2024/"><u>[Updated] Best YouTube Shorts Video Editing Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capturing-mov-files-effortlessly-in-windows-10/"><u>Capturing MOV Files Effortlessly in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-linguistic-horizons-using-premium-chatgptplus/"><u>Explore Linguistic Horizons Using Premium ChatGPT+</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fabricate-exclusive-language-models/"><u>Fabricate Exclusive Language Models</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-avoid-the-biggest-slip-ups-for-new-youtube-enthusiasts/"><u>In 2024, How to Avoid the Biggest Slip-Ups for New YouTube Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-look-best-practices-for-using-gpt-3-openai-style/"><u>Inside Look: Best Practices for Using GPT-3, OpenAI Style</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-world-embraces-gpt-4-understanding-the-impact/"><u>The World Embraces GPT-4: Understanding the Impact</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-video-editors-unite-learn-image-upload-on-youtube-for-2024/"><u>[Updated] Video Editors Unite! Learn Image Upload on YouTube for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-from-grainy-greyscale-to-dynamic-highs-a-complete-hdr-conversion/"><u>2024 Approved From Grainy Greyscale to Dynamic Highs A Complete HDR Conversion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-financial-scale-one-million-youtube-viewers-pay/"><u>2024 Approved The Financial Scale One Million YouTube Viewers' Pay</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-find-and-install-updated-epson-wf-3520-drivers-for-windows-computers-step-by-step-instructions/"><u>How to Find & Install Updated Epson WF 3520 Drivers for Windows Computers: Step by Step Instructions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-your-mac-with-ease-an-ultimate-guide-to-utilizing-preview-app/"><u>Master Your Mac with Ease An Ultimate Guide to Utilizing Preview App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-tips-and-tricks-how-to-stream-content-via-usb-onto-your-philips-smart-tv/"><u>Simple Tips & Tricks: How To Stream Content via USB Onto Your Philips Smart TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-sound-editing-with-these-4-strategies-to-normalize-wav-audio-files/"><u>Simplify Sound Editing with These 4 Strategies to Normalize WAV Audio Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-premiere-pro-buffering-issues-discover-over-10-effective-fixes/"><u>Solving Premiere Pro Buffering Issues: Discover Over 10 Effective Fixes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ergodriven-topo-mat-revealed-your-ultimate-guide-to-an-anti-fatigue-standing-desk-innovation/"><u>The Ergodriven Topo Mat Revealed: Your Ultimate Guide to an Anti-Fatigue, Standing Desk Innovation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/thieye-t5e-vs-sjcam-sj6-legend-which-one-should-i-buy/"><u>Thieye T5e Vs SJCAM SJ6 Legend Which One Should I Buy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-no-cost-sites-for-hd-movie-streams-of-blockbuster-films/"><u>Top 10 No-Cost Sites for HD Movie Streams of Blockbuster Films</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-for-helldiver-2-initial-boot-errors-and-black-screens/"><u>Ultimate Troubleshooting Guide for Helldiver 2 Initial Boot Errors and Black Screens</u></a></li>
 </ul></div>
 

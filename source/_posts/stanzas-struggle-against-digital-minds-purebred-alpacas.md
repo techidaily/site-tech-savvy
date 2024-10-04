@@ -1,7 +1,7 @@
 ---
 title: Stanzas Struggle Against Digital Minds, Purebred Alpacas
-date: 2024-09-21T18:24:25.273Z
-updated: 2024-09-28T16:45:22.550Z
+date: 2024-09-28T21:59:38.735Z
+updated: 2024-10-04T01:01:37.711Z
 tags:
   - chatgpt
   - open-ai
@@ -51,15 +51,22 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -70,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
  OpenAI's Privacy policy is broadly similar and collects IP address and usage data. In contrast with Google's time-limited retention, OpenAI will "retain your Personal Information for only as long as we need in order to provide our Service to you, or for other legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal obligations."
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which LLM Has the Best General Knowledge?
 
@@ -98,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
 
 ![burnt socket for a BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -125,15 +118,22 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
@@ -173,16 +173,16 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-diving-into-viral-video-dialogues/"><u>[New] 2024 Approved Diving Into Viral Video Dialogues</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-video-guide-with-annotations-on-youtube/"><u>[New] 2024 Approved Elevate Your Video Guide with Annotations on YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridge-abbyy-flexicapture-and-m-files-for-enhanced-data-capture-and-document-organization-solutions/"><u>Bridge ABBYY FlexiCapture & M-Files for Enhanced Data Capture & Document Organization Solutions</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-a34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy A34 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-automation-enhance-your-digital-marketing-efforts/"><u>Cookiebot-Driven Automation: Enhance Your Digital Marketing Efforts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-personalization-enhance-your-sites-user-experience/"><u>Cookiebot-Driven Personalization: Enhance Your Site's User Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-enhancing-your-sites-engagement-with-smart-tracking-solutions/"><u>Cookiebot-Enabled: Enhancing Your Site's Engagement with Smart Tracking Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-pro-max-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 Pro Max System? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/secure-your-facebook-space-against-unwanted-surveillinas/"><u>Secure Your Facebook Space Against Unwanted Surveillinas</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-star-citrix-freezing-issues-on-window-os/"><u>Solved: Star Citrix Freezing Issues on Window OS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-introduction-to-organizing-remote-work-hours/"><u>[Updated] Introduction to Organizing Remote Work Hours</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/analyzing-major-editions-and-phases-of-windows-movie-maker/"><u>Analyzing Major Editions and Phases of Windows Movie Maker</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/broadcast-your-previous-video-a-guide-to-live-streaming-on-facebook-for-2024/"><u>Broadcast Your Previous Video A Guide to Live-Streaming on Facebook for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-clash-discovering-best-generative-ai-rivals/"><u>ChatBots Clash: Discovering Best Generative AI Rivals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-workout-logging-software-the-best-picks-for-gym-enthusiasts/"><u>Essential Workout Logging Software: The Best Picks for Gym Enthusiasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-remove-images-background-in-canva/"><u>How to Remove Image's Background In Canva</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-cash-from-conversations-boosted-systems/"><u>Making Cash From Conversations, Boosted Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-phone-required-accessing-gpt-telegram-services-directly/"><u>No Phone Required: Accessing GPT, Telegram Services Directly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-openai-transition-from-basic-to-advanced-ai-gpt-14/"><u>The OpenAI Transition: From Basic to Advanced AI (GPT-1–4)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-for-6-auto-aip-peculiarities/"><u>Troubleshooting Guide for 6 Auto-AIP Peculiarities</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-vn-video-editor-for-pc-a-concise-review-and-guide/"><u>Updated VN Video Editor for PC A Concise Review and Guide</u></a></li>
 </ul></div>
 

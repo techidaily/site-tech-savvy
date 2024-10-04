@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Dialogue for Support: Linking ChatGPT & WhatsApp"
-date: 2024-09-21T17:46:27.737Z
-updated: 2024-09-22T19:17:33.217Z
+date: 2024-10-01T21:56:37.763Z
+updated: 2024-10-04T00:27:38.546Z
 tags:
   - chatgpt
   - open-ai
@@ -140,6 +140,13 @@ python manage.py runserver`
 
 ![API endpoint test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-endpoint.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, install [Go](https://go.dev/doc/install) if it is not already installed on your machine.
 
  Clone the **Whatsmeow** client using the command below:
@@ -167,6 +174,13 @@ python manage.py runserver`
 
 ![Application QR code prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-qr-code.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Move to your WhatsApp mobile app and navigate to **Settings > QR code > Scan code** to add a new linked device and scan the popped QR code on your terminal.
 
  After logging in, the application will start listening to incoming messages. If someone sends a message, the received message will make a GET request to API with the message as a query parameter and send the response back to the sender on WhatsApp.
@@ -175,13 +189,6 @@ python manage.py runserver`
 
 ![Output of integrating chatgpt and WhatsApp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-output.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using WhatsApp Chatbot to Integrate WhatsApp With ChatGPT API
 
  Another way to integrate ChatGPT into WhatsApp messages is by using a WhatsApp chatbot.
@@ -189,16 +196,10 @@ python manage.py runserver`
  Once you register your WhatsApp Business API, use a chat builder like OpenDialog to create a flow for the chat. You will then test your chatbot and add it to your mobile phone.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Integrate OpenAI API With Your WhatsApp Chatbot
@@ -218,6 +219,13 @@ python manage.py runserver`
  Like all AI API systems, testing is key before you deploy your WhatsApp chatbot. This is to ensure that it works as expected. API testing tools like Postman and Curl can help to test your chatbot’s responses.
 
  In this case, the Django REST framework provides a browsable API to help test API requests and responses.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Measuring Success and Fine-Tuning
 
@@ -244,5 +252,18 @@ python manage.py runserver`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-story-game-with-multiple-image-strategies/"><u>[Updated] Elevate Your Story Game with Multiple Image Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/block-unauthorized-openai-access/"><u>Block Unauthorized OpenAI Access</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/do-you-need-to-be-polite-to-ai-like-chatgpt-alexa-and-siri/"><u>Do You Need to Be Polite to AI Like ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-toolbelt-ranking-notion-and-gpt-3s-capabilities/"><u>Generative Toolbelt: Ranking Notion and GPT-3's Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-to-know-chatgpt-now-on-android/"><u>Get to Know ChatGPT - Now on Android</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-chatgpts-legal-battles-and-googles-updated-news-service-staying-online-with-top-notch-mobile-access-while-vacationing/"><u>Inside ChatGPT's Legal Battles and Google's Updated News Service: Staying Online with Top-Notch Mobile Access While Vacationing</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-sound-purification-techniques-how-to-combat-persistent-echoes-and-hiss/"><u>New 2024 Approved Sound Purification Techniques How to Combat Persistent Echoes and Hiss</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-the-secrets-of-successful-igtv-posts/"><u>Unlocking the Secrets of Successful IGTV Posts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unlocking-the-value-in-twitters-archives/"><u>Unlocking the Value in Twitters Archives</u></a></li>
+<li><a href="https://win-dash.techidaily.com/up-to-date-nvidia-rtx-2080-video-card-driver-downloads-windows-compatibility-guide/"><u>Up-to-Date NVIDIA RTX 2080 Video Card Driver Downloads: Windows Compatibility Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-best-digital-trailer-design-studios/"><u>Updated 2024 Approved Best Digital Trailer Design Studios</u></a></li>
+</ul></div>
 

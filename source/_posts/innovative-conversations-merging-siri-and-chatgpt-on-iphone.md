@@ -1,7 +1,7 @@
 ---
 title: "Innovative Conversations: Merging Siri & ChatGPT on iPhone"
-date: 2024-09-20T18:59:49.332Z
-updated: 2024-09-22T17:56:54.272Z
+date: 2024-09-30T22:20:59.216Z
+updated: 2024-10-03T21:41:49.819Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/061c3cb51f73174994130ac8ba7737b4e102bdd69
 
  It's not as simple as downloading an app from the App Store, but it's definitely not too hard either. If you want to get ChatGPT on your iPhone, you'll have to download a shortcut in the Shortcuts app and paste an API key into it. Sounds complex? Don't worry; we'll walk you through it step by step.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Getting the OpenAI API Key for ChatGPT
 
  First and foremost, you will need an OpenAI API key. Follow these steps to get one:
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/061c3cb51f73174994130ac8ba7737b4e102bdd69
 
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Now that you've obtained your API key, it's time to put it to use in the Shortcuts app. Make sure you don't copy anything else to the clipboard during this process. And if you're wondering, here are some other [things you can do with the OpenAI API key](http://www.makeuseof.com/openai-api-guide-what-can-you-do/).
@@ -63,6 +77,13 @@ Close
 4. Tap **Add Shortcut** at the end, and it will appear on the Shortcuts page of your app.
 
 ![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
 
@@ -80,6 +101,13 @@ Close
 
 ![add shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![add API key here option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-api-key-here-option.jpg)
 
 ![paste API key in workflow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key-in-workflow.jpg)
@@ -96,27 +124,27 @@ Close
 
 ![allow OpenAI access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-openai-access.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![allow speech recognition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-speech-recognition.jpg)
 
-![ChatGPT launched with siri](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-launched-with-siri.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![ChatGPT launched with siri](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-launched-with-siri.jpg)
 
 Close
 
  If you want to change the name of your shortcut, you can always long-press on it and select **Rename** to call it whatever you want.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is More Accessible Than We Thought
 
@@ -141,5 +169,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-harnessing-altitude-live-streaming-with-dji-drones/"><u>[New] In 2024, Harnessing Altitude Live-Streaming with DJI Drones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unlock-the-power-of-emojis-for-yt-feedback/"><u>[Updated] In 2024, Unlock the Power of Emojis for YT Feedback</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-3-essential-voice-logging-tactics-for-ipad-for-2024/"><u>[Updated] The 3 Essential Voice Logging Tactics for iPad for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-elevating-your-ride-the-sj4000-must-haves-list/"><u>2024 Approved Elevating Your Ride - The SJ4000 Must-Haves List</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-guide-restoring-functionality-to-a-frozen-apple-watch-touch-panel/"><u>A Guide: Restoring Functionality to a Frozen Apple Watch Touch Panel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bringing-out-your-best-in-digital-discourse-top-5-tailored-gpt-instructions/"><u>Bringing Out Your Best in Digital Discourse: Top 5 Tailored GPT Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-reality-through-artificial-dreams/"><u>Decoding Reality Through Artificial Dreams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-winchatgpt-app-claims-and-deceptions/"><u>Demystifying WinChatGPT App Claims and Deceptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-resources-elevated-leveraging-gpt-prompts/"><u>Human Resources Elevated: Leveraging GPT Prompts</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/our-favorite-free-video-splitters-a-comprehensive-review-for-2024/"><u>Our Favorite Free Video Splitters A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-new-frontiers-in-art-with-microsofts-copilot-imagery-engine/"><u>Pioneering New Frontiers in Art with Microsoft's Copilot Imagery Engine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-setting-up-chatgpt-on-android/"><u>Quick Guide: Setting Up ChatGPT on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-path-to-a-perfect-life-integrating-chatgpt-techniques/"><u>The Path to a Perfect Life: Integrating ChatGPT Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cross-platform-video-editing-made-easy-a-chromebook-users-guide/"><u>Updated Cross-Platform Video Editing Made Easy A Chromebook Users Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-every-aspect-of-living-with-the-help-of-ai-insights/"><u>Upgrade Every Aspect of Living with the Help of AI Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-go-to-resource-for-the-best-free-pdf-editors-in-june-and-july-2024/"><u>Your Go-To Resource for the Best Free PDF Editors in June and July 2024</u></a></li>
+</ul></div>
 

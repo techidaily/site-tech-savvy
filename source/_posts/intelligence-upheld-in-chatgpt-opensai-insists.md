@@ -1,7 +1,7 @@
 ---
 title: Intelligence Upheld in ChatGPT, OpensAI Insists
-date: 2024-09-25T16:44:14.828Z
-updated: 2024-09-28T16:01:36.021Z
+date: 2024-09-29T20:30:42.421Z
+updated: 2024-10-03T16:55:45.303Z
 tags:
   - chatgpt
   - open-ai
@@ -36,19 +36,6 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 
  Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stanford Study Suggests ChatGPT Drop Off
 
  A combined Stanford University and UC Berkley research group believes those feelings that ChatGPT is changing could be right. Lingjiao Chen, Matei Zaharia, and James Zou's paper [How Is ChatGPT's Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf) \[PDF\] is one of the first in-depth studies into ChatGPT's changing capabilities.
@@ -62,10 +49,16 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 ![chatgpt study answers changing chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
@@ -73,10 +66,16 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 ![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
@@ -88,10 +87,10 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  The report explains that ChatGPT's large language model chain of thought "did not work" when presented with the questions in June. Conversation drift has always been a notable issue with LLMs, but the extreme variance in responses suggests performance issues and changes to ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is ChatGPT Getting Worse? OpenAI Says No
@@ -103,6 +102,13 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  Furthermore, Welinder later pointed to OpenAI's releases for ChatGPT and the constant stream of updates the company has delivered throughout 2023\.
 
  Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can OpenAI Restore ChatGPT to Its Original State?
 
@@ -129,14 +135,24 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-expanding-your-audience-stream-successfully-across-30plus-outlets/"><u>[New] Expanding Your Audience Stream Successfully Across 30+ Outlets</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-leveraging-facebook-for-automatic-video-views/"><u>[Updated] 2024 Approved Leveraging Facebook for Automatic Video Views</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-flip-to-impress-the-instagram-video-guide/"><u>2024 Approved Flip to Impress The Instagram Video Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-pushing-boundaries-advanced-iphone-silhouette-techniques/"><u>2024 Approved Pushing Boundaries Advanced iPhone Silhouette Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/h-in-focus-building-a-foundation-of-youtube-backlinks/"><u>Growth in Focus Building a Foundation of YouTube Backlinks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/july-2020-updates-and-exodus-on-kodi-fixing-compatibility-issues-efficiently/"><u>July 2020 Updates and Exodus on Kodi: Fixing Compatibility Issues Efficiently</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-controller-pairing-linking-your-xbox-one-to-pc-complete-how-to/"><u>Mastering Controller Pairing: Linking Your Xbox One to PC - Complete How-To</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-screen-captures-simple-steps-for-snipping-on-your-toshiba-device/"><u>Mastering the Art of Screen Captures: Simple Steps for Snipping on Your Toshiba Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-windows-10-loading-times-for-a-snappier-computer-experience/"><u>Optimize Windows 10 Loading Times for a Snappier Computer Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revel-in-every-box-with-these-strategies/"><u>[New] Revel in Every Box with These Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-augmentation-changes-our-reality-view/"><u>[Updated] How Augmentation Changes Our Reality View</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wmam4atop4/"><u>「WMAファイルをM4Aに自由に変えるためのベストツールTOP4」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-step-by-step-guide-effortless-setup-of-the-kingdom-add-on-in-your-kodi-media-center/"><u>1. Step-by-Step Guide: Effortless Setup of the Kingdom Add-On in Your Kodi Media Center</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-exploring-new-realms-of-engagement-in-facebook-ad-videos/"><u>2024 Approved Exploring New Realms of Engagement in Facebook Ad Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-meme-design-excellence-guide/"><u>2024 Approved Meme Design Excellence Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whatsapp/"><u>対話録画機能付きWhatsAppビデオチャット完全マスター手ブック</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-honor-x9b-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Honor X9b to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-a15-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Samsung Galaxy A15 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-musical-beginnings-the-top-10-tracks-for-engaging-podcast-intros/"><u>In 2024, Musical Beginnings The Top 10 Tracks for Engaging Podcast Intros</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/real-world-vr-device-showcase/"><u>Real-World VR Device Showcase</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-composition-crafting-memorable-podcast-covers/"><u>The Ultimate Composition Crafting Memorable Podcast Covers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-digital-aids-for-perfecting-prompt-craftsmanship/"><u>Top 7 Digital Aids for Perfecting Prompt Craftsmanship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-premier-video-format-changer-from-dvd-to-avi-on-windows-11/"><u>Ultimate Guide: Premier Video Format Changer From DVD to AVI on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-top-methods-for-dvd-to-audio-conversion-using-premium-software/"><u>Ultimate Guide: Top Methods for DVD-to-Audio Conversion Using Premium Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tips-on-swiftly-transforming-videos-for-smartphones/"><u>Ultimate Tips on Swiftly Transforming Videos for Smartphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-of-matroska-video-files-mkv-step-by-step-playback-instructions/"><u>Unlocking the Secrets of Matroska Video Files (MKV): Step-by-Step Playback Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wav-and-m4a/"><u>WAV & M4A ファイル形式の違い：変換手段で覚え直しましょう</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windowstop12/"><u>Windowsパソコンに最適!ベストマイク録音ソフトウェアTOP12ピック</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating GPT ChatBeta Web Enhancements
-date: 2024-09-15T18:22:13.745Z
-updated: 2024-09-22T17:12:43.783Z
+date: 2024-09-30T00:54:23.064Z
+updated: 2024-10-03T16:00:28.636Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are internet-connected tools specifically designed to extend ChatGPT's functionality.
@@ -45,6 +52,13 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
  For example, when you gain access to ChatGPT Plugins, you'll be able to use the ChatGPT Kayak Plugin to search for and streamline holiday ideas, find the best deals, and create unique holiday ideas, all from the warm embrace of the ChatGPT interface.
 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Can Browse the Web
 
@@ -62,6 +76,13 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  As you can see from the images above, ChatGPT Plus correctly identified Max Verstappen—though I did need to prompt the tool to continue.
@@ -70,29 +91,22 @@ Close
 
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable ChatGPT Plugins and Web Browsing
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Head to your **Settings** in the bottom left-hand corner of the ChatGPT screen
 2. Select **Settings**
@@ -126,5 +140,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-enhancing-webcasts-with-dynamic-background-transitions/"><u>[New] 2024 Approved Enhancing Webcasts with Dynamic Background Transitions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-blending-calendar-coordination-with-mobile-and-computing-zoom-times-for-2024/"><u>[New] Blending Calendar Coordination with Mobile & Computing Zoom Times for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-business-cloud-data-warehouse/"><u>[Updated] In 2024, Top Business Cloud Data Warehouse</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-content-blindness-an-escalating-hurdle/"><u>AI's Content Blindness: An Escalating Hurdle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-remote-work-discussions-using-ai/"><u>Elevating Remote Work Discussions Using AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/erase-microsoft-defender-record-trail-windows-edition-guide/"><u>Erase Microsoft Defender Record Trail: Windows Edition Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-correcting-coredll-not-found-problem/"><u>Expert Advice on Correcting Core.dll Not Found Problem</u></a></li>
+<li><a href="https://techidaily.com/five-effective-methods-to-utilize-the-open-group-policy-editor-in-windows-10/"><u>Five Effective Methods to Utilize the Open Group Policy Editor in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-frostbite-to-neural-networks-how-ms-and-bz-transform-gaming-and-ai-talk-show-episode/"><u>From Frostbite to Neural Networks: How MS and BZ Transform Gaming & AI [Talk Show Episode]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-edge-in-document-processing-6-gpt-powered-applications/"><u>Leading Edge in Document Processing: 6 GPT-Powered Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sign-up-simplicity-chatgpt-to-whatsapp-without-a-sim-card/"><u>Sign-Up Simplicity: ChatGPT to WhatsApp without a SIM Card</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-of-ai-content-detection-via-gptzero/"><u>Unveiling the Secrets of AI Content Detection via GPTZero</u></a></li>
+</ul></div>
 

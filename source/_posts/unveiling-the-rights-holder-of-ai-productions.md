@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Rights Holder of AI Productions
-date: 2024-09-22T17:48:35.148Z
-updated: 2024-09-28T18:18:26.205Z
+date: 2024-10-02T23:28:13.148Z
+updated: 2024-10-03T19:10:55.419Z
 tags:
   - chatgpt
   - open-ai
@@ -61,10 +61,10 @@ Close
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Example of AI Copyright Rejection
@@ -76,10 +76,10 @@ Close
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
@@ -92,16 +92,16 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
 
@@ -118,10 +118,10 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -149,24 +149,22 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-online-capture-for-tech-enthusiasts/"><u>[Updated] 2024 Approved Essential Online Capture for Tech Enthusiasts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-from-portrait-to-panorama-a-guide-to-instagrams-rotation-revolution/"><u>[Updated] 2024 Approved From Portrait to Panorama A Guide to Instagram's Rotation Revolution</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-6s-plus-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 6s Plus by Name | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-named-top-contender-by-nelsonhall-in-process-discovery-and-data-mining-review-neat-scorecard-202/"><u>ABBYY Named Top Contender by NelsonHall in Process Discovery and Data Mining Review, NEAT Scorecard 202</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ameliorer-la-satisfaction-client-avec-lintelligence-digitale-un-guide-doptimisation/"><u>Améliorer La Satisfaction Client Avec L'intelligence Digitale : Un Guide D'optimisation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automated-marketing-solutions-optimized-with-cookiebot-technology/"><u>Automated Marketing Solutions: Optimized with Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-sites-performance-with-cookiebot-technology/"><u>Boost Your Site's Performance with Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/common-inquiries-and-concerns-regarding-artificnial-intelligence-answers-you-need/"><u>Common Inquiries and Concerns Regarding Artificnial Intelligence: Answers You Need</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-captivating-clips-keywords-that-ignite-viral-shorts-on-youtube/"><u>In 2024, Captivating Clips Keywords That Ignite Viral Shorts on YouTube</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-15-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 15 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-z-fold-5-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy Z Fold 5 Lock Screen Password?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-lustrous-frameworks-structuring-illumination-in-film/"><u>In 2024, Lustrous Frameworks Structuring Illumination in Film</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-making-moolah-the-snapchat-way/"><u>In 2024, Making Moolah The Snapchat Way</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-15-pro-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 15 Pro Activation Lock</u></a></li>
-<li><a href="https://common-error.techidaily.com/pc-refuses-to-rise-snoozing-on-win1110/"><u>PC Refuses to Rise: Snoozing on Win11/10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-fare-tracking-industry-pioneer-in-transport-finance-supercharges-invoice-validation-with-auto-processing-tools/"><u>Streamline Fare Tracking: Industry Pioneer in Transport Finance Supercharges Invoice Validation with Auto-Processing Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tests-du-systeme-dinfotainment-par-le-groupe-volkswagen-utilisant-la-technologie-dingenierie-vocale-abbyy-finereader-engine/"><u>Tests Du Système D'infotainment Par Le Groupe Volkswagen Utilisant La Technologie D'ingénierie Vocale ABBYY FineReader Engine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-top-3-factors-hindering-successful-digital-transformation-strategies-insights-from-abbyy/"><u>Unlocking the Potential: Top 3 Factors Hindering Successful Digital Transformation Strategies - Insights From ABBYY</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-process-intelligence-a-comprehensive-guide/"><u>Unveiling Process Intelligence: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-efficient-windows-11-recorders-to-ace-your-content-for-2024/"><u>[Updated] Efficient Windows 11 Recorders to Ace Your Content for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-10-instagram-insights-tools-detailed-data-analysis-made-simple/"><u>2024 Approved Top 10 Instagram Insights Tools Detailed Data Analysis Made Simple</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/app-alert-chatgpt-now-on-ios/"><u>App Alert: ChatGPT Now on iOS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-itel-p55-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Itel P55 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-emergence-impact-on-keyword-optimization/"><u>ChatGPT's Emergence: Impact on Keyword Optimization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elon-unveils-ai-understanding-groks-purpose-and-price/"><u>Elon Unveils AI: Understanding Grok's Purpose & Price</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-dauntless-game-crash-on-pc-troubleshooting-steps/"><u>Fixes for Dauntless Game Crash on PC: Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/has-gpt-transformed-the-landscape-of-college-writing-projects/"><u>Has GPT Transformed the Landscape of College Writing Projects?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-expense-of-youtube-channel-growth/"><u>In 2024, Exploring the Expense of YouTube Channel Growth</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inhibiting-factors-using-ai-for-analyzing-digital-coins/"><u>Inhibiting Factors: Using AI for Analyzing Digital Coins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-literary-legends-with-gpts-techniques/"><u>Leveraging AI for Literary Legends with GPT's Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a1x-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A1x 5G Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-solo-play-how-to-enjoy-your-steam-library-anywhere-even-offline/"><u>Mastering Solo Play: How to Enjoy Your Steam Library Anywhere, Even Offline</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-with-toms-hardware-insider-tips/"><u>Navigating New Tech with Tom's Hardware Insider Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-world-of-mobile-chatgpt/"><u>Navigating the World of Mobile ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/words-worldwide-war-chatgpt-vs-googles-skill/"><u>Words Worldwide War: ChatGPT Vs. Google's Skill</u></a></li>
 </ul></div>
 

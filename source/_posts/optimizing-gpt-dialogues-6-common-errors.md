@@ -1,7 +1,7 @@
 ---
 title: "Optimizing GPT Dialogues: 6 Common Errors"
-date: 2024-09-19T16:43:42.797Z
-updated: 2024-09-22T18:46:58.393Z
+date: 2024-09-27T23:49:42.173Z
+updated: 2024-10-03T17:51:42.052Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Too Many Instructions In a Single Prompt
 
  ChatGPT is capable of handling several directives within a single prompt. Yet, there's a threshold to the number of instructions it can manage simultaneously without compromising the quality of its responses. You may have encountered online prompts containing numerous instructions that appear to function well. However, this isn't always the case, and there's a nuanced approach required to ensure optimal results.
@@ -71,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -91,10 +97,23 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
@@ -105,9 +124,23 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
@@ -116,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And here's another one ChatGPT made when we prompted it with Jay-Z.
 
@@ -137,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
  "What is the meaning of life?" and "What is the best way to stay healthy?" are two examples of prompts that seem normal but are quite ambiguous. There's no definitive answer to both questions. However, ChatGPT will try to provide you with an answer that seems like hard facts. Prompts like "What is the meaning of life from a biological perspective?" or "What are some specific lifestyle changes or habits that can help improve mental health?" are good examples of specific, less ambiguous alternatives.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
 
@@ -166,5 +185,17 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-achieving-stunning-light-conditions-with-an-iphone/"><u>[Updated] 2024 Approved Achieving Stunning Light Conditions with an iPhone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked/"><u>2024 Approved Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defining-artificial-intelligence-power-and-potential/"><u>Defining Artificial Intelligence: Power & Potential</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-discord-from-closing-unexpectedly-a-complete-walkthrough/"><u>How to Stop Discord From Closing Unexpectedly - A Complete Walkthrough</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-learn-to-initiate-harmonious-group-conversations-on-skype-for-both-pc-and-mac-users/"><u>In 2024, Learn to Initiate Harmonious Group Conversations on Skype for Both PC & Mac Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-sidestep-these-essential-errors/"><u>Mastering ChatGPT: Sidestep These Essential Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/olympic-ice-showdown-highlights-of-speed-skating-short-track/"><u>Olympic Ice Showdown Highlights of Speed Skating Short Track</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-final-puzzle-will-machines-overcome-humans/"><u>The Final Puzzle: Will Machines Overcome Humans?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-for-top-notetakers-using-chatgpt/"><u>Tips for Top Notetakers Using ChatGPT</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-how-to-create-funny-talking-avatars-using-oddcast-text-to-speech/"><u>Updated In 2024, How to Create Funny Talking Avatars Using Oddcast Text to Speech</u></a></li>
+</ul></div>
 

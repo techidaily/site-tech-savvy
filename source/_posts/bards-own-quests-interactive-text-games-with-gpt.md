@@ -1,7 +1,7 @@
 ---
 title: "Bard's Own Quests: Interactive Text Games with GPT"
-date: 2024-09-15T16:35:23.097Z
-updated: 2024-09-22T16:18:13.391Z
+date: 2024-10-01T18:05:15.986Z
+updated: 2024-10-04T00:09:44.821Z
 tags:
   - chatgpt
   - open-ai
@@ -70,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -83,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
@@ -176,33 +190,20 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that [GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -302,6 +303,19 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -325,5 +339,24 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-analysis-highest-quality-video-snappers-for-2024/"><u>[Updated] Expert Analysis Highest Quality Video Snappers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-beginners-guide-to-understanding-dvr-technology-key-insights-and-features/"><u>A Beginner's Guide to Understanding DVR Technology: Key Insights & Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/android-speech-activation-your-gateway-to-chatgpt-control/"><u>Android Speech Activation – Your Gateway to ChatGPT Control</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bots-in-peril-thwarting-model-reconstruction/"><u>Bots in Peril: Thwarting Model Reconstruction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/excellent-collection-top-webcam-grips-and-mounts/"><u>Excellent Collection Top Webcam Grips & Mounts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-diagnose-and-repair-the-blue-screen-error-0xc00000e9-in-windows/"><u>How to Diagnose and Repair the Blue Screen Error (0XC00000E9) in Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-x-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone X</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-honor-magic-vs-2-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Honor Magic Vs 2 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-a-source-of-unwavering-honesty/"><u>Is ChatGPT a Source of Unwavering Honesty?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-turbo-minimize-cost-with-copilot/"><u>Maximize Turbo, Minimize Cost with Copilot</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-create-movies-online-for-free-top-9-tools/"><u>New In 2024, Create Movies Online for Free Top 9 Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/superior-8-chatgpt-questions-for-reducing-technological-interruptions/"><u>Superior 8 ChatGPT Questions for Reducing Technological Interruptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-unveiled-by-advanced-ai-systems/"><u>The Hidden Dangers Unveiled by Advanced AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-key-to-unprecedented-visuals-harnessing-microsofts-copilot-abilities/"><u>The Key to Unprecedented Visuals: Harnessing Microsoft's Copilot Abilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitters-without-smiles-linuss-leaked-knowledge-trojan-deconstruction-and-gpt-shortcomings-explored/"><u>Twitters Without Smiles, Linus’s Leaked Knowledge, Trojan Deconstruction, & GPT Shortcomings Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-gptzero-how-to-use-it-to-detect-ai-generated-text/"><u>What Is GPTZero? How to Use It to Detect AI-Generated Text</u></a></li>
+</ul></div>
 

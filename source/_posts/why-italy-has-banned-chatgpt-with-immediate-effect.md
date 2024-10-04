@@ -1,7 +1,7 @@
 ---
 title: Why Italy Has Banned ChatGPT “With Immediate Effect”
-date: 2024-09-18T18:29:45.077Z
-updated: 2024-09-22T17:29:34.301Z
+date: 2024-09-30T21:12:54.087Z
+updated: 2024-10-03T22:21:55.769Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
  The Italian data regulator declared that [OpenAI's ChatGPT posed several problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) and infringed the EU's privacy law. The GDPD's privacy concerns can be broken down into five key areas:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Breach of Privacy Laws
 
  The GDPD's chief concern is that ChatGPT continues processing personal data in breach of its privacy laws. Although [the way ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) is that it has been trained prior to deployment, the chatbot still collects and processes data from users to provide relevant answers.
@@ -48,32 +55,32 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
  Asides from the breach of its privacy laws, the GDPD claims that there is no legal justification for OpenAI's massive collection and processing of personal data to train ChatGPT's algorithms. According to the Italian regulator, ChatGPT's information doesn't always match factual circumstances, so OpenAI can use falsified personal data.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. A Lack of Easily-Accessible and Transparent Information
 
  In addition, the Italian regulator pointed out that OpenAI doesn't inform users whose data it collects. This is another clear violation of the EU's privacy laws.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Lack of Age Verification Systems
 
  The GDPD announced that ChatGPT exposes inappropriate information to users under 13 because it lacks appropriate age detection mechanisms. This underage exposure violates the EU's GDPR, which states that individuals must clearly consent to the processing of their personal data. As underage individuals, they are not to consent on their behalf.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Risk of Data Breaches
@@ -81,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  While citing a data breach reported on March 20th, 2023, the Italian regulator raised concerns about the chatbot's risk of data breaches. [Europol's announcement](https://www.europol.europa.eu/publications-events/publications/chatgpt-impact-of-large-language-models-law-enforcement) of the potential of criminals using ChatGPT to commit fraud and cybercrime likely fostered these concerns.
 
  Data breaches also infringe on the country's privacy laws—all data processors must implement appropriate security measures.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Italy's ChatGPT Ban Could Be a Template for Other EU Countries
 
@@ -107,5 +121,23 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-help.techidaily.com/best-value-and-quality-the-ultimate-showdown-of-the-leading-17-inch-laptops/"><u>Best Value and Quality: The Ultimate Showdown of the Leading 17-Inch Laptops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cha-ching-better-ai-talks-10-customizations-for-chatgpts-growth/"><u>Cha-Ching Better AI Talks: 10 Customizations for ChatGPT's Growth</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-smart-workflows-with-ai-communication-tools/"><u>Crafting Smart Workflows with AI Communication Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-machine-might-strong-vs-weak-ai/"><u>Dissecting Machine Might: Strong Vs. Weak AI</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-achieve-a-new-windows-10-setup-in-no-time/"><u>Easy Steps to Achieve a New Windows 10 Setup in No Time</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-communication-breakdown-with-chatgpts-plugin-services/"><u>Fixing Communication Breakdown with ChatGPT's Plugin Services</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-shopping-spree-to-stunning-video-haul-editing-explained/"><u>In 2024, From Shopping Spree to Stunning Video Haul Editing Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-husqvarnas-skyward-leap-with-the-new-h501x4-drone-insights/"><u>In 2024, Husqvarna's Skyward Leap with the New H501X4 Drone Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intuitive-bavarder-installation-on-linux-distros/"><u>Intuitive Bavarder Installation on Linux Distros</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-poetry-through-chatgpt-explorations/"><u>Mastering Poetry Through ChatGPT Explorations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/nailing-the-perfect-shot-advanced-strategies-for-instagram-video-editing/"><u>Nailing the Perfect Shot Advanced Strategies for Instagram Video Editing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-camera-unavailable-problem-with-easy-fixes-for-snap-users/"><u>Overcoming the Camera Unavailable Problem with Easy Fixes for Snap Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-audiophiles-guide-premium-pc-sound-card-selections-for-the-year-2024/"><u>The Audiophile's Guide: Premium PC Sound Card Selections for the Year 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-cyber-defense-insights-into-7-phenomena/"><u>The Future of Cyber Defense: Insights Into 7 Phenomena</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo A59 5G | Dr.fone</u></a></li>
+</ul></div>
 

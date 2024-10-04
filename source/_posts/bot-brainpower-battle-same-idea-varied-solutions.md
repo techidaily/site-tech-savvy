@@ -1,7 +1,7 @@
 ---
 title: "Bot Brainpower Battle: Same Idea, Varied Solutions"
-date: 2024-09-20T18:02:54.190Z
-updated: 2024-09-22T16:40:52.143Z
+date: 2024-09-28T18:54:15.322Z
+updated: 2024-10-03T21:24:16.520Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
 * [Which Chatbot Did Best With Scripts?](https://godlikehost.sjv.io/vnbxzv)
 * [Which Chatbot Did Best With Social Media Bios?](https://eimmie.pxf.io/21emk7)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft Copilot excels in creating songs and social media bios, the results are both fun and balanced.
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
 
 ![Microsoft Copilot Writing a New Song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-new-song.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Google Gemini had the fastest response time and went for a similar approach as Copilot—mixing both themes equally. But some of its imagery was strange and made little sense.
 
  ChatGPT wrote the longest song and used interesting lyrics, but the koala theme barely existed, especially when compared to what the other chatbots came up with. It also struggled to complete the song.
@@ -69,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
 
  Copilot and Gemini were both less effective than ChatGPT in all these regards. However, you may find that results vary depending on the type of poem and the instructions you give each chatbot. Make a note of the many available [tips and tricks for better AI prompting](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Chatbot Did Best With Short Stories?
 
  The prompt for this creative content was as follows: “Write a story about a dinner party that your character is reluctant to attend. It should be 1000 words maximum.”
@@ -78,10 +99,16 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
 ![ChatGPT Writing a Short Story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writing-a-short-story.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The same applied to Gemini’s creation, except that its narration contained confusing elements in what seemed to be an attempt at imaginative expression. It was intriguing to see, but it missed the mark.
@@ -96,23 +123,9 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
 
 ![Google Gemini Writing a Play Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/google-gemini-writing-a-play-script.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The other two chatbots went for the exact same structure for the scene—perhaps because both apps use OpenAI’s data as their source. They flowed nicely enough, but there was nothing special about the results.
 
  An extra downside to ChatGPT was that one side of the script was cut off and unreadable. When I pointed out the problem, instead of offering a solution, the chatbot produced the exact same text with the same issue. One way to deal with this is to copy the script and paste it into a document, where you can read the scene in full.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Social Media Bios?
 
@@ -123,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
  Copilot provided the most options in terms of effective and imaginative phrases alongside emojis and hashtags. You could pick and choose what you wanted for your bio and tweak it further to perfectly reflect your identity.
 
 ![Microsoft Copilot Writing a Social Media Bio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-social-media-bio.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT was more precise with its response. Two lines of useful mottos, emojis, hashtags, and a call to action. Asking for other suggestions is always on the table, but Copilot offered more from its initial response.
 
@@ -152,5 +158,26 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-decoding-off-facebook-data-privacy-and-safety-considerations/"><u>[New] 2024 Approved Decoding Off-Facebook Data Privacy & Safety Considerations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-quick-red-eye-correction-in-iphone-photos-for-free/"><u>[New] Master Quick Red-Eye Correction in iPhone Photos for FREE</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-alternative-tools-that-outperform-sharex-for-2024/"><u>[Updated] Alternative Tools That Outperform ShareX for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/202n4bilibilipciphone/"><u>新コレクション先行公開202n4年：bilibiliにアクセスできない時のPC、iPhone、スマホの対策！気軽にビリビリ動画鑑賞・保存</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-site-performance-with-cookiebot-power-solutions/"><u>Enhance Site Performance with Cookiebot Power Solutions</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-p40plus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-launches-chrome-optimized-for-arm-architecture-in-windows-computers/"><u>Google Launches Chrome Optimized for Arm Architecture in Windows Computers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-blending-brands-joining-instagram-and-facebook-effortlessly/"><u>In 2024, Blending Brands Joining Instagram and Facebook Effortlessly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-gaming-performance-a-comprehensive-guide-to-fine-tuning-your-windows-11-system/"><u>Maximizing Gaming Performance: A Comprehensive Guide to Fine-Tuning Your Windows 11 System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsofts-copilot-enhances-with-new-video-creation-features/"><u>Microsoft's Copilot Enhances with New Video Creation Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/millions-at-risk-latest-vulnerability-discovered-in-universal-extensible-firmware-interface-uefi/"><u>Millions at Risk: Latest Vulnerability Discovered in Universal Extensible Firmware Interface (UEFI)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/moving-your-applications-to-a-new-hardware-device-on-windows-11/"><u>Moving Your Applications to a New Hardware Device on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-windows-11-experience-with-microsofts-new-copilot-feature/"><u>Navigating the Windows 11 Experience with Microsoft's New Copilot Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-missing-important-updates-in-windows-a-comprehensive-guide/"><u>Resolving 'Missing Important Updates' In Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/restore-hidden-icons-on-your-windows-11-taskbar-with-these-proven-6-methods/"><u>Restore Hidden Icons on Your Windows 11 Taskbar with These Proven 6 Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-it-protection-how-microsofts-ztdns-strengthens-windows-security/"><u>Revolutionizing IT Protection: How Microsoft's ZTDNS Strengthens Windows Security</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/simplifying-media-share-fb-movies-for-whatsapp-users/"><u>Simplifying Media Share FB Movies for WhatsApp Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-rated-free-video-editing-apps-with-special-effects-for-mobile/"><u>Updated 2024 Approved Top-Rated Free Video Editing Apps with Special Effects for Mobile</u></a></li>
+</ul></div>
 

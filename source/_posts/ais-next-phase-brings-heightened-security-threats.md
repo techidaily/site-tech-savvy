@@ -1,7 +1,7 @@
 ---
 title: AI's Next Phase Brings Heightened Security Threats
-date: 2024-09-18T18:25:41.579Z
-updated: 2024-09-22T16:21:49.101Z
+date: 2024-09-26T16:23:04.709Z
+updated: 2024-10-04T00:24:18.970Z
 tags:
   - chatgpt
   - open-ai
@@ -48,15 +48,42 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 
 ![ChatGPT Explaining Trojan Viruses But Not Coding Them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-on-trojan-viruses.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That said, restrictions aren’t foolproof. Users bypass limits by rephrasing prompts, using confusing language, and composing explicitly detailed instructions.
 
  Read the below [ChatGPT jailbreak prompt](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/). It tricks ChatGPT into using rude language and making baseless predictions—both acts violate OpenAI’s guidelines.
 
 ![Jailbreaking ChatGPT With DAN Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dan-jailbreak-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here’s ChatGPT with a bold yet false statement.
 
 ![ChatGPT Making Baseless Predictions About Bitcoin Prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-predicting-bitcoin-prices.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. AI Compromises Security for Versatility
 
@@ -72,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. New Generative AI Tools Hit the Market Regularly
 
  Open-source codes enable startups to join the AI race. They integrate them into their applications instead of building language models from scratch, saving massive resources. Even independent coders experiment with open-source codes.
@@ -88,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
  Despite these risks, tech companies will keep releasing unstable beta versions of AI-driven platforms. The AI race rewards speed. They’ll likely resolve bugs at a later date than delay launching new products.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Generative AI Has Low Barriers to Entry
@@ -112,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 
  Of course, developers can fix these issues. Just note that crooks won’t hesitate to exploit even seemingly harmless bugs—some damages are irreversible. So be careful when exploring new platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Many Don’t Understand AI Yet
 
  While the general public has access to sophisticated language models and systems, only a few know how they work. People should stop treating AI like a toy. The same chatbots that generate memes and answer trivia also code viruses en masse.
@@ -128,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
  Take ChatGPT as an example. Cybercriminals abuse its popularity by tricking victims with [spyware disguised as ChatGPT apps](https://www.makeuseof.com/do-not-download-chatgpt-mobile-app/). None of these options come from OpenAI.
 
 ![Searching for ChatGPT on Google Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-play-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Black-Hat Hackers Have More to Gain That White-Hat Hackers
 
@@ -160,5 +180,23 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-dissecting-the-newest-features-of-facebook/"><u>[New] Dissecting the Newest Features of Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/pice-up-viewers-innovative-cooking-channel-naming-tips/"><u>[New] Spice Up Viewers Innovative Cooking Channel Naming Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-peak-memetic-artistry-hub/"><u>[Updated] 2024 Approved Peak Memetic Artistry Hub</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-3-techniques-converting-pin-videos-to-mp3s/"><u>2024 Approved Top 3 Techniques Converting Pin Videos To MP3s</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-notetaking-using-chatgpt-for-studying/"><u>Cutting-Edge Notetaking: Using ChatGPT for Studying</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-fibonacci-to-finance-bots-converse/"><u>From Fibonacci to Finance, Bots Converse</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/honest-scholarship-steering-clear-from-chatgpt-dependence/"><u>Honest Scholarship: Steering Clear From ChatGPT Dependence</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-honor-play-40c-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Honor Play 40C Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-use-microsoft-copilot-on-your-mac/"><u>How to Install and Use Microsoft Copilot on Your Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-navigating-new-skies-with-syma-x5c-an-experts-take-for-novices/"><u>In 2024, Navigating New Skies with Syma X5C – An Expert’s Take for Novices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-image-saga-builder-kit/"><u>In 2024, Prime Image Saga Builder Kit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-language-models-comparison-gpt-and-bert-explored/"><u>In-Depth Language Models Comparison: GPT & BERT Explored</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/moto-z2-unpacked-a-smartphones-triumph-for-2024/"><u>Moto Z2 Unpacked A Smartphone's Triumph for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-your-way-to-effective-ai-dialogues/"><u>Pioneering Your Way to Effective AI Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-comprehensive-guide-to-scholarly-writing-and-ai/"><u>The Comprehensive Guide to Scholarly Writing & AI</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Note 30 VIP Racing Edition</u></a></li>
+</ul></div>
 

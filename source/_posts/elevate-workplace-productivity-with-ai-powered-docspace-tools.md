@@ -1,7 +1,7 @@
 ---
 title: Elevate Workplace Productivity with AI-Powered DocSpace Tools
-date: 2024-09-22T17:33:31.907Z
-updated: 2024-09-28T17:53:59.237Z
+date: 2024-09-28T00:19:13.176Z
+updated: 2024-10-04T00:59:05.357Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ ONLYOFFICE Docs is an online office suite. It allows users to edit a variety of 
 
  Setting up the plugin is easy, and can help further optimize your workflow beyond the already impressive features that ONLYOFFICE DocSpace already makes use of.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up the ChatGPT Plugin
 
  Installing and setting up the ChatGPT plugin for ONLYOFFICE DocSpace is super easy, even if you have no experience in doing so. There are only four steps.
@@ -61,19 +68,33 @@ ONLYOFFICE Docs is an online office suite. It allows users to edit a variety of 
 ![A Screenshot showing the install location of the ChatGPT plugin for ONLYOFFICE DocSpace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/onlyoffice-docspace-plugin-manager-chatgpt-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Here, you’ll be able to see all the currently available plugins for ONLYOFFICE DocSpace. There are quite a few here, so you can scroll through them until you find the one labeled **ChatGPT**, or use the search bar instead.
 
 ![A Screenshot showing the ONLYOFFICE DocSpace ChatGPT plugin API key input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/onlyoffice-docspace-chatgpt-api-key-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4\. There’s one last step before the plugin will be ready to function. In order to make use of ChatGPT on external programs, you’ll need an API key. Generating [one of these keys is easy](https://www.makeuseof.com/chatgpt-api-complete-guide/), and once you have yours, all you need to do is enter it into the plugin, and you’re done.
 
  You now have access to your very own AI assistant from entirely within ONLYOFFICE DocSpace.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What This Can Help You Achieve
 
@@ -88,16 +109,10 @@ ONLYOFFICE Docs is an online office suite. It allows users to edit a variety of 
  This will create a summary of the text that you selected that is more concise and easily understood than the original. You can elect to choose any piece of text that is as large or as little as you like, and ChatGPT will use the power of AI to make it understandable for you.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Extract Keywords
@@ -128,13 +143,6 @@ ONLYOFFICE Docs is an online office suite. It allows users to edit a variety of 
 
  Moreover, the ChatGPT plugin generates this translation in the ONLYOFFICE DocSpace comments, making them easy to read for anybody who speaks the language without detracting from the experience for those of you who prefer English. This makes it ideal for multicultural teams or document sharing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Generate Images From Text
 
  There are a ton of different AI image generators out there, but having ready access to one directly from within ONLYOFFICE DocSpace is an incredibly handy image. If you are working on a document and need a placeholder image, or just can’t find the perfect visual for what you’re working on, then this can get you out of trouble in a pinch.
@@ -151,31 +159,11 @@ ONLYOFFICE Docs is an online office suite. It allows users to edit a variety of 
 
  In this vein, ChatGPT can also be used to quickly and effectively generate code blocks. All you have to do is use the ONLYOFFICE DocSpace ChatGPT plugin to chat directly with the AI, and it will be capable of generating code then and there for you to implement as you see fit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get More Out of ONLYOFFICE
 
  ONLYOFFICE provides several different solutions, such as ONLYOFFICE Desktop and ONLYOFFICE Docs, which each help to solve a different problem or use case within your workflow.
 
  The ChatGPT plugin can be installed in these solutions as well, meaning that no matter how you use your ONLYOFFICE solution, ChatGPT is there to help optimize everything as much as possible for you.
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Work Smarter
 
@@ -202,24 +190,17 @@ _This is a sponsored post. The product choices and opinions expressed in this ar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-transform-your-broadcasts-5-advanced-recording-methods-web/"><u>[New] 2024 Approved Transform Your Broadcasts 5 Advanced Recording Methods Web</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-videos-visibility-with-perfect-thumbnail-sizing-for-2024/"><u>[Updated] Elevate Your Video's Visibility with Perfect Thumbnail Sizing for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44cm44ox44ot44k744k544oe44kk44ol44oz44kw44gu6kmz57sw6kej6kqs77ya44gp44gg44gx44gm6yen6kab44gl77yf44cn/"><u>「プロセスマイニングの詳細解説：どうして重要か？」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-abbyy-flexicapture-enhances-trn-groups-invoicing-efficiency-through-automation/"><u>1. ABBYY FlexiCapture Enhances TRN Group's Invoicing Efficiency Through Automation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-enhanced-traffic-insights-with-our-state-of-the-art-cookiebot-technology/"><u>1. Enhanced Traffic Insights with Our State-of-the-Art Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-blog-the-five-biggest-challenges-facing-developers-with-receipt-ocr-technology/"><u>ABBYY Blog: The Five Biggest Challenges Facing Developers with Receipt OCR Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-enhances-eucon-efficiency-through-advanced-automatic-document-handling/"><u>ABBYY Enhances Eucon Efficiency Through Advanced Automatic Document Handling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-textgrabber-on-android-now-features-live-translation-available-at-no-cost/"><u>ABBYY TextGrabber on Android Now Features Live Translation, Available at No Cost</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accelerate-success-with-six-essential-steps-for-launching-a-process-mining-project-insights-from-the-abbyy-team/"><u>Accelerate Success with Six Essential Steps for Launching a Process Mining Project - Insights From the ABBYY Team</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/building-a-robust-supply-network-the-role-of-intelligent-processes-in-blueprints-expert-advice-from-abbyy-experts/"><u>Building a Robust Supply Network: The Role of Intelligent Processes in Blueprints | Expert Advice From ABBYY Experts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/xpenses-create-wow-download-high-quality-templates-for-videos-for-2024/"><u>Cut Expenses, Create Wow - Download High-Quality Templates for Videos for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked ZTE Axon 40 Lite? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-create-stunning-animations-with-these-free-tools-for-windows-and-mac/"><u>New 2024 Approved Create Stunning Animations with These Free Tools for Windows and Mac</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-a05s-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel A05s Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/streaming-service-showdown-facebook-vs-youtube-vs-twitvision-for-2024/"><u>Streaming Service Showdown Facebook Vs. YouTube Vs. TwitVision for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/syncing-images-android-iphone-file-transfer-guide-for-2024/"><u>Syncing Images Android-iPhone File Transfer Guide for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/syncing-soundscapes-to-pixelated-portraits/"><u>Syncing Soundscapes to Pixelated Portraits</u></a></li>
-<li><a href="https://discover-data.techidaily.com/unveiling-all-possible-output-formats-for-your-projects-with-flip-office-pro-an-in-depth-review/"><u>Unveiling All Possible Output Formats for Your Projects with Flip Office Pro - An In-Depth Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-abbyy2020/"><u>デジタルインテリジェンスとその6つの魅力的な物語 - ABBYYブログで読むべき2020年</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-experts-guide-to-xbox-one-screen-captures/"><u>[New] The Expert's Guide to Xbox One Screen Captures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-de-mp2-vers-flac-pour-free-online-utilisez-le-service-de-conversion-gratuit-de-movavi/"><u>Conversion De MP2 Vers FLAC Pour Free Online - Utilisez Le Service De Conversion Gratuit De Movavi</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/exploring-the-best-tools-for-video-recording-a-bandicam-vs-camtasia-review-for-2024/"><u>Exploring the Best Tools for Video Recording A Bandicam Vs Camtasia Review for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oppo-find-x7-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Oppo Find X7 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-engage-audiences-on-all-sides-live-360-degree-video-broadcasting-for-youtube/"><u>In 2024, Engage Audiences on All Sides Live 360-Degree Video Broadcasting for YouTube</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-v29-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo V29 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mastering-cinematic-art-with-top-ten-professional-tools/"><u>In 2024, Mastering Cinematic Art with Top Ten Professional Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/platform-pioneers-clash-in-a-battle-of-chatbots/"><u>Platform Pioneers Clash in a Battle of Chatbots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-predictable-problems-with-generative-tech/"><u>Preventing Predictable Problems with Generative Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-transforming-dall-e-webp-to-jpegpng/"><u>Step by Step: Transforming DALL-E WebP to JPEG/PNG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-enigma-of-chatbots-debunking-9-popular-beliefs/"><u>Unraveling the Enigma of Chatbots: Debunking 9 Popular Beliefs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voiceactivated-ai-on-mobile-try-chatgpt-with-android/"><u>VoiceActivated AI on Mobile? Try ChatGPT with Android</u></a></li>
 </ul></div>
 

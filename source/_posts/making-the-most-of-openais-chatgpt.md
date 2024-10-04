@@ -1,7 +1,7 @@
 ---
 title: Making the Most of OpenAI's ChatGPT
-date: 2024-09-22T18:21:00.817Z
-updated: 2024-09-28T18:06:40.989Z
+date: 2024-09-29T23:02:00.985Z
+updated: 2024-10-03T23:54:30.047Z
 tags:
   - chatgpt
   - open-ai
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 
  Far from being perfect, [there are many problems facing ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), from confidently stating wrong facts to being a weapon for disinformation. Make sure to [protect your privacy when using ChatGPT for work](https://www.makeuseof.com/protect-privacy-using-chatgpt-for-work/), and never include personal information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create a ChatGPT Account
 
  To access ChatGPT, you will need to create an account on the [OpenAI website](https://chat.openai.com/auth/login). It will ask you for an email and phone number, plus the main reason you want to use OpenAI, whether for research, app development, or personal use. Once signed up, head back to [ChatGPT](https://chat.openai.com/chat) to get started, and log in to your ChatGPT account.
@@ -68,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 ## How to Use ChatGPT
 
 ![ChatGPT interface October 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-interface-october-2023.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Using ChatGPT is simple, thanks to a minimalist interface. After the ChatGPT login page, like an ordinary messaging app, you type in the text box and hit enter or click the send button (paper airplane symbol).
 
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 ![Asking ChatGPT to summarize a response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-to-summarize-a-response.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What to Ask ChatGPT
@@ -91,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 ![Asking ChatGPT for a few iconic places to visit in NYC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-for-a-few-iconic-places-to-visit-in-nyc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many people turn to Google when they want to ask how something works, but sifting through a website takes time. Instead of putting that question to the internet, you can use ChatGPT to get a quick and straightforward answer.
@@ -117,18 +117,25 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 
 ![ChatGPT has been downloaded in the AppStore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096283_y.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![text box and microphone icon in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096282_y.jpg)
 
 ![Sound being converted to text in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096281_y.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A response in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096280_y.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -138,13 +145,6 @@ Close
 
 ![chatgpt with internet access october 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-with-internet-access-october-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As we mentioned earlier, ChatGPT can access the internet, and it's a game changer. To get this feature, you will [need a subscription to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/), which will set you back $20 per month. However, the chance to access real-time information might be worth it to you.
 
  As we have noted, however, it comes with pros and cons. It can access more accurate and up-to-date information about current events, but it's entirely susceptible to misinformation and trolls. Take ChatGPTs answers with a grain of salt, and always do further research if you plan to use the info in a high-risk application.
@@ -152,10 +152,16 @@ Close
  Avoid using ChatGPT for medical advice, and don't ask it for investment tips. It is, after all, simply an AI chatbot and not a doctor or an oracle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is There Anything ChatGPT Can't Do?
@@ -199,19 +205,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-the-art-of-thumbnail-design-with-your-mac/"><u>[New] 2024 Approved Mastering the Art of Thumbnail Design with Your Mac</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-advanced-mp4-encoder-for-social-sharing-for-2024/"><u>[New] Advanced MP4 Encoder for Social Sharing for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elevate-your-farming-adventures-with-stardews-top-7-mods/"><u>2024 Approved Elevate Your Farming Adventures with Stardew's Top 7 Mods</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-connections-ps3-dualshock-on-windows/"><u>Bypass Connections: PS3-DualShock on Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-itel-a70-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Itel A70</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-a-reliable-source-for-wellbeayer-info/"><u>ChatGPT as a Reliable Source for Wellbeayer Info</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-screen-time-with-ai-support/"><u>Crafting Personalized Screen Time with AI Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-gpts-influence-on-cybercriminal-activities/"><u>Dissecting GPT's Influence on Cybercriminal Activities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-vs-bert-dissecting-modern-nlp-giants-distinctions/"><u>GPT vs BERT: Dissecting Modern NLP Giants' Distinctions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-effortlessly-downsize-any-video-content-to-optimal-360p-format-for-streaming/"><u>How to Effortlessly Downsize Any Video Content to Optimal 360P Format for Streaming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-domestic-functionality-with-chatgpt-innovations/"><u>Reimagining Domestic Functionality with ChatGPT Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-accuracy-debate-chatgpt-or-lies/"><u>The Accuracy Debate: ChatGPT or Lies?</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-resolve-world-of-warcraft-slowdowns/"><u>Troubleshooting Steps to Resolve World of Warcraft Slowdowns</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/vcs-vision-recorder-check-detailed-scrutiny-for-2024/"><u>VCS Vision Recorder Check Detailed Scrutiny for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-fundamentals-of-crafting-youtube-videos-from-scratch/"><u>[Updated] The Fundamentals of Crafting YouTube Videos From Scratch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aiffwmv-movavi/"><u>免費線上AIFF/WMV格式轉換解決方案 - 瞭解 Movavi工具機能</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuita-de-archivos-musicales-transforma-tu-aif-en-un-formato-m4r-por-medio-de-movavi/"><u>Conversión Gratuita De Archivos Musicales: Transforma Tu AIF en Un Formato M4R Por Medio De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-rapida-e-semplice-mov-a-wmv-il-servizio-web-migliore-e-gratuito-movavi/"><u>Conversione Rapida E Semplice MOV a WMV: Il Servizio Web Migliore E Gratuito - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/desde-el-archivo-swf-hasta-mp4-sin-costo-convertir-archivos-de-animacion-libremente-con-herramientas-en-linea/"><u>Desde El Archivo SWF Hasta MP4 Sin Costo: Convertir Archivos De Animación Libremente Con Herramientas en Línea</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/encouraging-student-participation/"><u>Encouraging Student Participation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/our-videos-professionally-with-these-free-tools-top-6-for-2024/"><u>End Your Videos Professionally with These Free Tools (Top 6) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-new-usb-c-driver-for-windows-1n-and-upgrade-today/"><u>Get Your New USB-C Driver for Windows 1N and Upgrade Today!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-conversione-da-oggv-a-webm-online-trimix-di-movavi/"><u>Gratis Conversione Da OGGV a WebM - OnLine Trimix Di Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-ai-based-chatbot-monitoring-influence-user-experience-and-privacy-concerns/"><u>How Does AI-Based Chatbot Monitoring Influence User Experience and Privacy Concerns?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-a-complete-guide-to-aspect-ratios-about-youtube-videosshortsads/"><u>In 2024, A Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpeg-4wmv-movavi/"><u>MPEG-4到WMV格式无线转换 - 使用Movavi自由改编工具</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-premiere-elements-not-for-you-try-these-10-alternatives-instead/"><u>New Premiere Elements Not for You? Try These 10 Alternatives Instead</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-superiority-of-claude-ai-top-4-comparative-aspects-with-chatgpt/"><u>The Superiority of Claude AI: Top 4 Comparative Aspects with ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-g2-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo G2 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rw2-jpg-javascript/"><u>무료 RW2 JPG 변환기 – 게스트비젼 이미지를 JavaSCRIPT을 사용하여 빠르고 신중한 방식으로 전환</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Intelligence: Beyond Turing's Paradigm"
-date: 2024-09-26T16:57:00.105Z
-updated: 2024-09-28T16:44:26.861Z
+date: 2024-10-01T17:40:20.055Z
+updated: 2024-10-03T19:16:57.937Z
 tags:
   - chatgpt
   - open-ai
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -66,17 +59,37 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Eugene Goostman
@@ -86,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
  Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Google's LaMBDA
 
@@ -105,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Advancement of Computer Intelligence
@@ -152,21 +158,16 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-googles-technique-for-crystal-clear-speech-translation/"><u>[New] In 2024, Google's Technique for Crystal Clear Speech Translation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-power-play-joining-a-music-company-network-in-the-age-of-streaming/"><u>[New] The Power Play Joining a Music Company Network in the Age of Streaming</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-briefclip-artist/"><u>[Updated] 2024 Approved BriefClip Artist</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-zones-for-cutting-edge-vr-viewing/"><u>[Updated] Premier Zones for Cutting-Edge VR Viewing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assistance-for-pursuing-passion-careers/"><u>AI Assistance for Pursuing Passion Careers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-updates-benefits-for-all-individuals/"><u>ChatGPT Updates: Benefits for All Individuals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversational-excellence-crafting-customized-ai-solutions/"><u>Conversational Excellence: Crafting Customized AI Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/covert-techniques-for-secure-gpt-exchange-storage/"><u>Covert Techniques for Secure GPT Exchange Storage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-fortresses-fate-projecting-7-new-realities/"><u>Digital Fortresses' Fate: Projecting 7 New Realities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/examining-various-windows-movie-maker-product-types-for-2024/"><u>Examining Various Windows Movie Maker Product Types for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-foresight-outsmarting-a-machine-oracle/"><u>Future Foresight: Outsmarting a Machine Oracle</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-melodic-movements-music-upload-mastery-for-youtube/"><u>In 2024, Melodic Movements Music Upload Mastery for YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-advanced-web-applications/"><u>Leveraging ChatGPT for Advanced Web Applications</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/leveraging-your-roku-setup-for-exclusive-fb-live-content/"><u>Leveraging Your Roku Setup for Exclusive FB Live Content</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/lumafusion-one-of-the-best-video-editors-for-ios/"><u>LumaFusion – One of the Best Video Editors for iOS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/scriptwriting-secrets-for-docu-films/"><u>Scriptwriting Secrets for Docu-Films</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-upload-gif-to-instagram-in-4-steps/"><u>[New] How To Upload GIF to Instagram in 4 Steps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ultimate-choice-15-superior-action-recorders/"><u>[New] Ultimate Choice 15 Superior Action Recorders</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-high-speed-audio-alteration-software-summary/"><u>[Updated] High-Speed Audio Alteration Software Summary</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-centipede-glitch-in-your-destiny-2-adventure/"><u>How to Overcome the 'Centipede' Glitch in Your Destiny 2 Adventure</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-duration-decoded-a-guide-to-editing-youtube-videos/"><u>In 2024, Duration Decoded A Guide to Editing YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-revealing-reasons-why-no-videos-pop-up-on-fb-feed/"><u>In 2024, Revealing Reasons Why No Videos Pop Up on FB Feed?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speedy-conversion-transforming-vob-files-into-mkv-format-in-minutes/"><u>Speedy Conversion: Transforming VOB Files Into MKV Format in Minutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speedy-editing-tips-mastering-the-switch-of-fbr-recordings-to-mp4-with-bb-flashback-software/"><u>Speedy Editing Tips: Mastering the Switch of FBR Recordings to MP4 with BB FlashBack Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-computer-sound-using-audacity-on-pc-or-mac/"><u>Step-by-Step Guide: Capturing Computer Sound Using Audacity on PC or Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-your-video-file-from-bik-format-to-common-formats-like-mp4-avi-mkv/"><u>Step-by-Step Guide: Converting Your Video File From BIK Format to Common Formats Like MP4, AVI, MKV</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/al-worlds-await-top-10-vr-videos/"><u>Virtual Worlds Await Top 10 VR Videos</u></a></li>
 </ul></div>
 

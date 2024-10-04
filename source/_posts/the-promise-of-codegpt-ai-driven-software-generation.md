@@ -1,7 +1,7 @@
 ---
 title: "The Promise of CodeGPT: AI-Driven Software Generation"
-date: 2024-09-26T16:04:41.175Z
-updated: 2024-09-28T18:22:12.612Z
+date: 2024-09-30T21:00:23.856Z
+updated: 2024-10-03T23:25:49.321Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 * [Can CodeGPT Really Write Code?](https://sentrypc.7eer.net/dkpkgn)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is CodeGPT?
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
  While there are several [code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/), macOS, and Windows, CodeGPT is only available in two. Today, you can either [install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Does CodeGPT Cost?
@@ -76,16 +76,10 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can [access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/), you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can CodeGPT Really Write Code?
@@ -187,22 +181,20 @@ with open('output.csv', 'w', newline='') as output_file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-start-filming-right-the-newbies-guide-to-video-gear/"><u>[New] 2024 Approved Start Filming Right The Newbie's Guide to Video Gear</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-optimize-your-viewing-a-guide-to-high-definition-cricket-live-streaming/"><u>[New] How to Optimize Your Viewing A Guide to High-Definition Cricket Live Streaming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-superior-free-reproduction-tools-for-switch-games-for-2024/"><u>[New] Superior Free Reproduction Tools for Switch Games for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-expertly-archive-your-favorite-streamed-shows-hulu-for-2024/"><u>[Updated] How To Expertly Archive Your Favorite Streamed Shows (Hulu) for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-instantly-create-a-custom-youtube-feed-via-your-smartphone/"><u>[Updated] Instantly Create a Custom YouTube Feed via Your Smartphone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-lights-off-unexpectedly/"><u>Asus Lights Off Unexpectedly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-of-banking-how-digital-intelligence-shapes-tomorrows-leading-financial-institutions-insights-from-abbyy/"><u>Future of Banking: How Digital Intelligence Shapes Tomorrow's Leading Financial Institutions – Insights From ABBYY</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-infinix-hot-40i-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Infinix Hot 40i Location Settings | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-new-era-top-tier-vr-exercise-machines/"><u>In 2024, Navigating the New Era Top-Tier VR Exercise Machines</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-cookiebot-technology-for-advanced-website-analytics-and-personalization/"><u>Leverage Cookiebot Technology for Advanced Website Analytics and Personalization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-cookiebot-technology-for-enhanced-search-engine-visibility-and-performance/"><u>Leveraging Cookiebot Technology for Enhanced Search Engine Visibility and Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-era-of-collaboration-as-abbyy-extends-distribution-network-with-sigma-software-ally/"><u>New Era of Collaboration as ABBYY Extends Distribution Network with Sigma Software Ally</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ntt-docomo-endorsed-abbyy-app-with-ocr-technology-for-seamless-multi-language-text-conversion/"><u>NTT DOCOMO Endorsed ABBYY App with OCR Technology for Seamless Multi-Language Text Conversion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategic-information-retrieval-session-elevating-company-knowledge-with-advanced-mining-methods/"><u>Strategic Information Retrieval Session: Elevating Company Knowledge with Advanced Mining Methods</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-buyers-guide-educational-computers-that-will-boost-your-grades/"><u>The Definitive Buyer's Guide: Educational Computers That Will Boost Your Grades</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-paperwork-into-digital-format-using-ocr-ios-solution-by-finereader-pdf-app/"><u>Transform Your Paperwork Into Digital Format Using OCR - iOS Solution by FineReader PDF App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-why-robotic-process-automation-has-ceos-and-c-level-managers-hooked-perspectives-by-abbyy/"><u>Unpacking Why Robotic Process Automation Has CEOs and C-Level Managers Hooked - Perspectives by ABBYY</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-swift-action-on-slow-footage-with-best-apps/"><u>[Updated] 2024 Approved Swift Action on Slow Footage with Best Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemasters-comprehensive-insight-into-green-screen-technology-mastery/"><u>[Updated] Kinemaster's Comprehensive Insight Into Green Screen Technology Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-coding-lifecycle/"><u>AI's Impact on Coding Lifecycle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-ais-sentiment-sages-dissecting-gpt-and-bert/"><u>Analyzing AI's Sentiment Sages: Dissecting GPT & BERT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-in-class-ai-creative-workshops/"><u>Best-in-Class AI Creative Workshops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/canvas-of-the-code-creating-ai-art-through-chatgpt/"><u>Canvas of the Code: Creating AI Art Through ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-fueled-success-boost-your-websites-traffic-with-proven-automation-tools/"><u>Cookiebot-Fueled Success: Boost Your Website's Traffic with Proven Automation Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-online-interactions-gpt-3-beta-integration/"><u>Elevating Online Interactions: GPT-3 Beta Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/fortnite-resolved-how-to-get-your-old-graphics-card-working-on-a-windows-pc/"><u>Fortnite Resolved: How to Get Your Old Graphics Card Working on a Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-controversial-application-in-cybersecurity/"><u>GPT's Controversial Application in Cybersecurity</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-decoding-the-audience-who-viewed-your-insta-post/"><u>In 2024, Decoding the Audience Who Viewed Your Insta Post?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-to-converting-txt-pages-to-engaging-flipbooks-using-flipbuilders-graphic-and-symbol-features/"><u>Step-by-Step Guide to Converting TXT Pages to Engaging Flipbooks Using FlipBuilder's Graphic and Symbol Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-solutions-to-overcome-streaming-problems-on-gpt/"><u>Swift Solutions to Overcome Streaming Problems on GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-ai-shines-brighter-evaluating-chatgpt-vs-gemini-in-the-world-of-software-development/"><u>Which AI Shines Brighter? Evaluating ChatGPT Vs. Gemini in the World of Software Development</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/why-cant-my-a6400-show-movies/"><u>Why Can't My A6400 Show Movies?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AI's Fivefold Contribution to Cyber Deceit Mastery
-date: 2024-09-19T17:59:03.906Z
-updated: 2024-09-22T18:39:40.832Z
+date: 2024-09-28T18:11:43.835Z
+updated: 2024-10-03T23:22:46.818Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
  ChatGPT (or at least its latest version) can only write basic, and sometimes buggy, malware programs, rather than sophisticated code that poses severe threats. However, this isn't to say that AI cannot be used to write malware. Given that a current AI chatbot can create basic malicious programs, it may not be long before we see more heinous malware originate from AI systems.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Cracking Passwords
 
  Passwords often stand as the one line of data protecting our accounts and devices. So, unsurprisingly, many cybercriminals try to crack passwords in order to gain access to our private data.
@@ -59,10 +66,10 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  In this sense, AI could also help in making malicious communications look more professional and official by ironing out spelling and grammar mistakes. Such errors are often said to be possible signs of malicious activity, so it may help cybercriminals if they can write their social engineering content more cleanly and effectively.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Finding Software Vulnerabilities
@@ -72,6 +79,13 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  Cybercriminals know this, and that's why they're on the lookout for flaws. There are already tools one can use to find vulnerabilities, such as an exploit kit. But using AI, a malicious actor may be able to highlight far more vulnerabilities, some of which could be used to cause a lot of damage.
 
  However, this AI application could also be helpful for cybersecurity vendors, as it could [aid in finding vulnerabilities](https://www.makeuseof.com/top-vulnerability-scanning-tools/) before they are exploited. Being able to patch a flaw quickly can cut off malicious actors' ability to exploit it, mitigating attacks overall.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Analyzing Stolen Data
 ![Data on Laptop Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/data-files.jpg)
@@ -83,16 +97,10 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  Using AI, the process of highlighting valuable information could be streamlined, cutting down the time it takes for a malicious actor to determine what is worth selling, or, on the other hand, directly exploiting by their own hand. Artificial intelligence, at its core, is all about learning, so it could one day become easy to use an AI-powered tool to pick up on valuable sensitive data.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Is Promising but Also Poses Many Threats
@@ -114,5 +122,26 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-blurry-looks-simple-ways-to-hide-identities-in-pictures-for-2024/"><u>[New] Blurry Looks Simple Ways to Hide Identities in Pictures for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-expert-tips-for-efficient-internet-use-the-7-finest-android-apps/"><u>[New] In 2024, Expert Tips for Efficient Internet Use The 7 Finest Android Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-stabilizing-your-stream-avoid-dropped-frame-errors/"><u>[New] Stabilizing Your Stream Avoid Dropped Frame Errors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transforming-instagram-footage-into-square-stories-using-imovie-tips/"><u>[Updated] In 2024, Transforming Instagram Footage Into Square Stories Using iMovie Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-funimate-guidebook/"><u>[Updated] The Essential Funimate Guidebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-pro-tips-for-impressive-gopro-time-lapse-cinematography/"><u>2024 Approved Pro Tips for Impressive GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-value-cpu-picks-for-2abies-as-tested-and-evaluated-by-toms-hardware/"><u>Discover the Best Value CPU Picks for 2Abies, as Tested and Evaluated by Tom's Hardware</u></a></li>
+<li><a href="https://discover-data.techidaily.com/elite-blk-design-suite-pro-for-react-developers-comprehensive-high-quality-ui-component-collection-integrated-with-reactstrap-and-bootstrap-engineered-by-cr6/"><u>Elite BLK Design Suite PRO for React Developers: Comprehensive, High-Quality UI Component Collection Integrated with Reactstrap & Bootstrap - Engineered by Creative Tim</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-vector-database-power-to-boost-ai-capabilities/"><u>Harnessing Vector Database Power to Boost AI Capabilities</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-15-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 15 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/llama-2-revolutionizing-workflows-and-task-management/"><u>Llama 2: Revolutionizing Workflows and Task Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-life-tests-of-chatgpts-potential/"><u>Real-Life Tests of ChatGPT's Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-chatgpt-is-it-impregnable/"><u>Scrutinizing ChatGPT: Is It Impregnable?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-communication-via-chatgpts-api/"><u>Seamless Communication via ChatGPT's API</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-tutorial-crafting-your-own-unique-graduation-invites/"><u>Step-by-Step Tutorial: Crafting Your Own Unique Graduation Invites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swiftly-dismantle-your-chatgpt-account/"><u>Swiftly Dismantle Your ChatGPT Account</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-accessible-ai-frontier-gpt-4-for-everyone/"><u>The Accessible AI Frontier: GPT-4 for Everyone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmatched-add-ons-supercharging-your-gpt-experience-in-vs-code/"><u>Unmatched Add-Ons: Supercharging Your GPT Experience in VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/workplace-shift-will-ai-overtake-jobs/"><u>Workplace Shift: Will AI Overtake Jobs?</u></a></li>
+</ul></div>
 

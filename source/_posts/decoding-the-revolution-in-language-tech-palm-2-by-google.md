@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Revolution in Language Tech: PaLM 2 by Google"
-date: 2024-09-26T16:21:29.393Z
-updated: 2024-09-28T17:26:26.328Z
+date: 2024-09-28T01:00:11.042Z
+updated: 2024-10-03T17:51:02.548Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,16 @@ While OpenAI is leading the way for generative AI development, many have accused
  With Gecko able to process around 20 tokens per second—tokens are the values assigned to real words for use by generative AI models—it looks likely to be a game-changer for mobile deployable AI tools.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PaLM 2 Training Data
@@ -60,10 +66,16 @@ While OpenAI is leading the way for generative AI development, many have accused
  But it's not just spoken languages. Linking to Google's demand for PaLM 2 to deliver better scientific and mathematical reasoning, the LLM has also been trained in more than 20 programming languages, which makes it a phenomenal asset for programmers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PaLM 2 Is Already Powering Google Services—But Still Requires Fine Tuning
@@ -79,10 +91,10 @@ While OpenAI is leading the way for generative AI development, many have accused
  No matter how much researchers attempt to cleanse LLM training data, it's inevitable some will slip through. The next phase is to continue training PaLM 2 to reduce those toxic responses.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It's a Boom Period for Large Language Models
@@ -108,24 +120,22 @@ While OpenAI is leading the way for generative AI development, many have accused
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-operate-srt-audio-on-windowsmacos/"><u>[New] 2024 Approved Operate SRT Audio on Windows/macOS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-2023-insights-into-snipping-those-facebook-live-moments/"><u>2024 Approved 2023 Insights Into Snipping Those Facebook Live Moments</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/crafting-a-youtube-video-essential-writing-guide/"><u>Crafting a YouTube Video Essential Writing Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-manage-browser-cookie-settings-in-windows-10-a-guide-for-chrome-firefox-opera-and-edge-users/"><u>How to Manage Browser Cookie Settings in Windows 10: A Guide for Chrome, Firefox, Opera, and Edge Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-premier-online-repositories-for-typography/"><u>In 2024, Premier Online Repositories for Typography</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-image-resizing-techniques-for-windows-and-mac-users/"><u>Mastering Image Resizing Techniques for Windows and Mac Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-miracast-technology-in-windows-1011-setup-instructions-and-troubleshooting-hacks-for-smooth-streaming/"><u>Mastering Miracast Technology in Windows 10/11: Setup Instructions & Troubleshooting Hacks for Smooth Streaming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-youtube-audio-removal-2-proven-strategies/"><u>Mastering the Art of YouTube Audio Removal - 2 Proven Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-trouble-free-streaming-solving-not-responsive-errors-with-spotify-on-windows/"><u>Mastering Trouble-Free Streaming: Solving 'Not Responsive' Errors with Spotify on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-tips-for-driver-update-across-windows-881-windows-7-and-windows-nx/"><u>Quick and Simple Tips for Driver Update Across Windows 8/8.1, Windows 7 & Windows nX</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-fix-update-your-windows-10-drivers-with-these-simple-steps/"><u>Quick Fix: Update Your Windows 10 Drivers with These Simple Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolved-troubleshooting-tips-for-fixing-windows-11-install-errors/"><u>Resolved: Troubleshooting Tips for Fixing Windows 11 Install Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/service-host-local-system-svchostexe-high-disk-usage-on-windows-10-solved/"><u>Service Host: Local System (svchost.exe) High Disk Usage on Windows 10 [Solved]</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-nokia-c12-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Nokia C12 Pro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/visionenhance-pro-high-fidelity-video-upgrade-for-2024/"><u>VisionEnhance Pro - High Fidelity Video Upgrade for 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-8ipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 8/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unlock-the-full-potential-of-zoom-in-your-xbox-setup/"><u>[New] 2024 Approved Unlock the Full Potential of Zoom in Your Xbox Setup</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-audiovisual-fusion-incorporating-songs-in-ig-media/"><u>[New] Audiovisual Fusion Incorporating Songs in IG Media</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unbox-t5-and-explore-its-action-filming-capabilities-for-2024/"><u>[Updated] Unbox T5 and Explore Its Action Filming Capabilities for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-a-deep-dive-comparative-analysis-of-audio-editors-magix-edition/"><u>2024 Approved A Deep Dive Comparative Analysis of Audio Editors - Magix Edition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-building-size/"><u>2024 Approved Building Size</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-hiccups-try-these-iphone-fixes-first/"><u>ChatGPT Hiccups? Try These iPhone Fixes First</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gopros-best-underwater-enhancement-filters/"><u>GoPro's Best Underwater Enhancement Filters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-5s-transformation-4-future-features-we-anticipate/"><u>GPT-5's Transformation: 4 Future Features We Anticipate</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-galaxy-m34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Galaxy M34 5G?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cinematic-transformation-best-15-gopro-color-correction-look-ups-explored/"><u>In 2024, Cinematic Transformation Best 15 GoPro Color Correction Look-Ups Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-timekeeping-redefined-by-chatgpt-for-smartwatchers/"><u>Intelligent Timekeeping Redefined by ChatGPT for Smartwatchers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/local-llm-advantages-and-drawbacks-a-quick-guide/"><u>Local LLM: Advantages & Drawbacks – A Quick Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-search-game-the-pinnacle-of-ai-in-bing-android/"><u>Revolutionize Your Search Game: The Pinnacle of AI in Bing, Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silicon-witnesses-the-comic-side-of-computing-history-and-cybersecurity/"><u>Silicon Witnesses: The Comic Side of Computing History & Cybersecurity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-smart-workers-playbook-6-steps-for-an-ai-savvy-career-path/"><u>The Smart Worker's Playbook: 6 Steps for an AI-Savvy Career Path</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trusting-or-doubting-chatgpts-stance/"><u>Trusting or Doubting: ChatGPT's Stance</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-nokia-n31-is-the-top-choice-for-first-time-smartphone-users/"><u>Why Nokia N3.1 Is the Top Choice for First-Time Smartphone Users</u></a></li>
 </ul></div>
 

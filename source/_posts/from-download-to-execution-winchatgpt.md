@@ -1,7 +1,7 @@
 ---
 title: "From Download to Execution: WinChatGPT"
-date: 2024-09-25T17:41:11.444Z
-updated: 2024-09-28T18:35:45.037Z
+date: 2024-09-30T20:55:31.621Z
+updated: 2024-10-03T22:48:51.644Z
 tags:
   - chatgpt
   - open-ai
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
  To pin the ChatGPT app, press the **Win** key and type ChatGPT. Right-click the app icon and select **Pin to Start** or **Taskbar**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Uninstall the ChatGPT Web App on Edge
 
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
@@ -60,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
 3. Click **Uninstall** again to confirm the action.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add ChatGPT as a Windows App Using Chrome
 
@@ -76,6 +76,14 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 2. Click the **three-dots menu** in the top right corner.  
 ![chatgpt create chrome shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut.jpg)
 3. Select **More Tools** and then **Create Shortcut**.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Enter a name in the **Create shortcut** popup.  
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 5. Select the **Open as window** option. Without this, the ChatGPT shortcut will open the site in a new Chrome window instead of in its standalone window.
@@ -94,16 +102,16 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
  In addition to this, you can [install websites as desktop apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/) using tools like WebCatalog. It allows you to turn web pages into desktop apps, organize them, and even switch between multiple accounts without logging out.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Run ChatGPT Natively Using an Unofficial Project
 
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
@@ -116,10 +124,16 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 2. Scroll down to the Windows section and click on the **.msi installer** download link for the **Direct download installer**. On Microsoft Edge, Windows Defender Screen Filter may temporarily block the download and prompt you to confirm whether you trust the file. To allow the download, click on **Show more,** and then the **three-dots** **menu**. Next, select **Keep** to download the installer. To be on the safer side, you can [scan the installer using an online virus scanning tool](https://www.makeuseof.com/check-suspicious-file-malware/) to find any traces of malware.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Next, run the installer and follow the on-screen instructions to complete the installation.
@@ -140,13 +154,6 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 3. Search for the ChatGPT app, click the **three-dots** menu next to the app name and select **Uninstall**.
 
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install ChatGPT as a Windows App
 
@@ -175,17 +182,18 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-simplifying-your-system-switch-from-sierra-to-os-x-1010/"><u>[New] Simplifying Your System Switch From Sierra to OS X 10.10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-evolved-discover-the-features-that-matter-most/"><u>ChatGPT Evolved: Discover the Features That Matter Most!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-comedy-craft-does-ai-bring-laughter-to-life/"><u>ChatGPT's Comedy Craft: Does AI Bring Laughter to Life?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhance-your-livestreams-using-manycam-the-ultimate-virtual-webcam-and-recording-tool/"><u>Enhance Your Livestreams Using ManyCam - The Ultimate Virtual Webcam and Recording Tool</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hugging-face-breakdown-meaning-and-uses/"><u>Hugging Face Breakdown: Meaning & Uses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-smarts-outsmarting-a-machine-oracle/"><u>Redefining Smarts: Outsmarting a Machine Oracle</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-sim-not-provisioned-mmi-issues-a-step-by-step-guide/"><u>Resolving 'SIM Not Provisioned MMI' Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-rides-mercedes-benz-infuses-cars-with-chatgpt/"><u>Revolutionizing Rides: Mercedes-Benz Infuses Cars with ChatGPT</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/transform-your-stream-embrace-obs-for-youtube-and-twitch-for-2024/"><u>Transform Your Stream Embrace OBS for YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/urgent-challenge-ahead-microsoft-must-fix-major-flaws-in-windows-11-within-just-one-year-insights-from-zdnet/"><u>Urgent Challenge Ahead: Microsoft Must Fix Major Flaws in Windows 11 Within Just One Year - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-craft-captivating-narratives-the-best-of-the-best-10-igtv-strategies-for-brands/"><u>[New] Craft Captivating Narratives The Best of the Best 10 IGTV Strategies for Brands</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-visioncapture-prox-briefing/"><u>[Updated] In 2024, VisionCapture ProX Briefing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premium-desktop-and-mobile-video-call-platforms-zoom-replacements/"><u>2024 Approved Premium Desktop & Mobile Video Call Platforms (Zoom Replacements)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi-ogv-movavi/"><u>免費線上AVI-OGV間自由轉換，體驗 Movavi 翻譯器的效能</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flash-video-mp4/"><u>Flash Video MP4に自動変換:無料、使いやすく効率的なオンラインツール</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transforming-flv-videos-into-wmv-format-with-ease/"><u>Free Online Converter: Transforming FLV Videos Into WMV Format with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/libgdk-win32-2e-0dll-file-not-found-heres-how-to-fix-it/"><u>libgdk-win32-2.e-0.dll File Not Found? Here's How to Fix It!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/melody-in-motion-incorporating-music-into-powerpoint-for-2024/"><u>Melody in Motion Incorporating Music Into PowerPoint for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavis-free-web-based-convertor-para-m4a-en-formato-mkv/"><u>Movavi's FREE Web-Based Convertor Para M4A en Formato MKV</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-expert-picks-top-mkv-trimmers-for-mac-this-year/"><u>New 2024 Approved Expert Picks Top MKV Trimmers for Mac This Year</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-update-failures-0x800736cc-issue/"><u>Solving Windows Update Failures: 0X800736CC Issue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveil-the-potential-of-windows-11-with-custom-backdrops/"><u>Unveil the Potential of Windows 11 with Custom Backdrops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webm-and-wma/"><u>Webm & Wma 포토 갭을 해제: 가상의 공간에서 원료없이 변환 방법 - 모바비</u></a></li>
 </ul></div>
 

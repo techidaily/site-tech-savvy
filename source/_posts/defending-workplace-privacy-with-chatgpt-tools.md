@@ -1,7 +1,7 @@
 ---
 title: Defending Workplace Privacy with ChatGPT Tools
-date: 2024-09-21T17:10:03.922Z
-updated: 2024-09-22T19:12:39.715Z
+date: 2024-09-28T00:10:30.997Z
+updated: 2024-10-03T18:50:12.366Z
 tags:
   - chatgpt
   - open-ai
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/1f2f4c22410ca8169af4ae6d02cdc0eba714608bc
 
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
 
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
@@ -85,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/1f2f4c22410ca8169af4ae6d02cdc0eba714608bc
 
  Anonymization is not foolproof since data can be de-anonymized. Understand [de-anonymization and how to prevent it](https://www.makeuseof.com/what-is-de-anonymization/) before utilizing any of these techniques. Evaluate the risks before you release anonymized data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Limit Access to Sensitive Data
 
  Limiting access to sensitive work data is crucial when workers are allowed to use ChatGPT. If you’re working in a leadership role, restrict access to sensitive information to authorized personnel who require it for their specific roles.
@@ -92,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/1f2f4c22410ca8169af4ae6d02cdc0eba714608bc
  Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Be Wary of Third-Party Apps
@@ -105,16 +119,10 @@ thumbnail: https://thmb.techidaily.com/1f2f4c22410ca8169af4ae6d02cdc0eba714608bc
  Don’t install shady apps that ask for random permissions on your phone. Verify their data handling practices to check if they align with your organization’s privacy standards.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly for Work
@@ -138,5 +146,24 @@ thumbnail: https://thmb.techidaily.com/1f2f4c22410ca8169af4ae6d02cdc0eba714608bc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-picture-in-picture-unveiled-your-guide-to-firefoxs-pip/"><u>[Updated] In 2024, Picture-in-Picture Unveiled Your Guide to Firefox’s PIP</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-singing-siblings-shine-on-tiktok/"><u>[Updated] Singing Siblings Shine on TikTok</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-canva-tutorial-for-flawless-image-border-clearance/"><u>2024 Approved Canva Tutorial for Flawless Image Border Clearance</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-experts-insight-downloading-audio-on-apple-gadgets/"><u>2024 Approved Expert's Insight Downloading Audio on Apple Gadgets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiency-in-academia-the-chatgpt-technique/"><u>Efficiency in Academia: The ChatGPT Technique</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-ai-tools-empowering-digital-research-endeavors/"><u>Elite AI Tools Empowering Digital Research Endeavors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-artificial-intelligence-for-personal-finance-decisions/"><u>Evaluating Artificial Intelligence for Personal Finance Decisions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excels-advanced-operational-skills-eclipsing-chatgpts-potential/"><u>Excel's Advanced Operational Skills Eclipsing ChatGPT's Potential</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-your-unresponsive-chromebook-with-these-8-methods/"><u>Fix Your Unresponsive Chromebook with These 8 Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/futuristic-commute-mercedes-benz-melds-chatgpt-and-voice-control/"><u>Futuristic Commute: Mercedes-Benz Melds ChatGPT & Voice Control</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-student-essays-are-they-competing-titles-now/"><u>GPT and Student Essays: Are They Competing Titles Now?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unleashing-brand-potential-with-free-youtube-marketing-templates/"><u>In 2024, Unleashing Brand Potential with FREE YouTube Marketing Templates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-text-generation-your-openai-toolkit/"><u>Mastering Text Generation: Your OpenAI Toolkit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ppro-fs-insights-a-compreran-guide/"><u>PPro FS Insights A Compreran Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-titans-face-off-notion-vs-openais-generation-starlet-gpt-3/"><u>Tech Titans Face Off: Notion Vs. OpenAI's Generation Starlet, GPT-3</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steam-service-failure-in-windows-11/"><u>Troubleshooting Steam Service Failure in Windows 11</u></a></li>
+</ul></div>
 

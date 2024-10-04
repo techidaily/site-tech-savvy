@@ -1,7 +1,7 @@
 ---
 title: Next-Level Risks in Generative AI Development
-date: 2024-09-26T17:41:26.022Z
-updated: 2024-09-28T17:30:20.307Z
+date: 2024-09-26T18:35:51.234Z
+updated: 2024-10-03T22:03:32.508Z
 tags:
   - chatgpt
   - open-ai
@@ -48,21 +48,35 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
 ![ChatGPT Explaining Trojan Viruses But Not Coding Them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-on-trojan-viruses.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That said, restrictions aren’t foolproof. Users bypass limits by rephrasing prompts, using confusing language, and composing explicitly detailed instructions.
 
  Read the below [ChatGPT jailbreak prompt](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/). It tricks ChatGPT into using rude language and making baseless predictions—both acts violate OpenAI’s guidelines.
 
 ![Jailbreaking ChatGPT With DAN Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dan-jailbreak-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here’s ChatGPT with a bold yet false statement.
 
 ![ChatGPT Making Baseless Predictions About Bitcoin Prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-predicting-bitcoin-prices.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AI Compromises Security for Versatility
@@ -79,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. New Generative AI Tools Hit the Market Regularly
 
  Open-source codes enable startups to join the AI race. They integrate them into their applications instead of building language models from scratch, saving massive resources. Even independent coders experiment with open-source codes.
@@ -93,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
  Again, non-proprietary software helps advance AI, but mass releasing poorly trained yet sophisticated systems does more harm than good. Crooks will quickly abuse vulnerabilities. They might even train unsecure AI tools to perform illicit activities.
 
  Despite these risks, tech companies will keep releasing unstable beta versions of AI-driven platforms. The AI race rewards speed. They’ll likely resolve bugs at a later date than delay launching new products.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Generative AI Has Low Barriers to Entry
 
@@ -102,36 +116,15 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
  While OpenAI quickly resolved the issue, it emphasizes the importance of system regulation and risk management. AI is maturing faster than anyone anticipated. Even tech leaders worry that this superintelligent technology could cause massive damage in the wrong hands.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. AI Is Still Evolving
 
 ![ChatGPT, Bard, Bing, and Snapchat AI Logos Side by Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/different-ai-logos.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  AI is still evolving. While [the use of AI in cybernetics dates back to 1940](https://coe.int/en/web/artificial-intelligence/history-of-ai), modern machine learning systems and language models only recently emerged. You can’t compare them with the first implementations of AI. Even relatively advanced tools like Siri and Alexa pale in comparison to LLM-powered chatbots.
 
  Although they may be innovative, experimental features also create new issues. [High-profile mishaps with machine learning technologies](https://www.makeuseof.com/examples-machine-learning-artificial-intelligence-went-wrong/) range from flawed Google SERPs to biased chatbots spitting racial slurs.
 
  Of course, developers can fix these issues. Just note that crooks won’t hesitate to exploit even seemingly harmless bugs—some damages are irreversible. So be careful when exploring new platforms.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Many Don’t Understand AI Yet
 
@@ -150,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
  Alternatively, crooks make tens of thousands by exploiting insecurities. They might blackmail companies by leaking confidential data or commit ID theft with stolen [Personally Identifiable Information (PII)](https://www.makeuseof.com/what-is-personally-identifiable-information/).
 
  Every institution, small or large, must implement AI systems properly. Contrary to popular belief, hackers go beyond tech startups and SMBs. Some of the most [historic data breaches in the past decade](https://www.makeuseof.com/historic-data-breaches/) involve Facebook, Yahoo!, and even the U.S. government.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Yourself From the Security Risks of AI
 
@@ -176,21 +176,17 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-terrarias-richest-realms-5-best-gold-hunt-spots-for-2024/"><u>[New] Terraria's Richest Realms 5 Best Gold Hunt Spots for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-master-your-most-watched-videos-on-fb-today-and-beyond-2023-for-2024/"><u>[Updated] Master Your Most-Watched Videos on FB Today & Beyond 2023 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/0x80248007-error-in-windows-update-in-windows-11-solved/"><u>0X80248007 Error in Windows Update in Windows 11 [Solved]</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-comprehensive-examination-of-srts-key-features/"><u>2024 Approved Comprehensive Examination of SRT's Key Features</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/audience-level-sound-production-using-audacity-for-2024/"><u>Audience-Level Sound Production Using Audacity for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/compatibility-guide-which-electric-vehicle-chargers-work-with-your-ev/"><u>Compatibility Guide: Which Electric Vehicle Chargers Work With Your EV?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cookiebot-driven-marketing-enhancing-your-websites-performance/"><u>Cookiebot-Driven Marketing: Enhancing Your Website's Performance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-find-x7-ultra-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Find X7 Ultra to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808333913-miracast-in-windows-7-everything-you-need-to-know/"><u>Miracast in Windows 7 – Everything You Need to Know</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/strategies-for-precise-age-entry-in-tiktok-profiles-for-2024/"><u>Strategies for Precise Age Entry in TikTok Profiles for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-why-windows-update-can-be-a-slow-experience/"><u>Understanding Why Windows Update Can Be a Slow Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-custom-drivers-on-your-pc-by-deactivating-windows-11s-driver-enforcement/"><u>Unlock Custom Drivers on Your PC by Deactivating Windows 11'S Driver Enforcement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-new-features-in-windows-10-creators-update-insider-beta-version-1503/"><u>Unveiling the New Features in Windows 10 Creators Update: Insider Beta Version 1503</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-10-troubleshooting-steps-to-unfreeze-a-stuck-computer/"><u>Windows 10 Troubleshooting: Steps to Unfreeze a Stuck Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723807971544-windows-10-wont-boot-or-start-try-easy-fixes/"><u>Windows 10 Won’t Boot or Start? Try Easy Fixes!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-free-video-call-apps-versatile-use-on-windows-and-macos/"><u>[New] 2024 Approved Top Free Video Call Apps Versatile Use on Windows & MacOS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-vimeo-integration-for-professional-instagram-users-for-2024/"><u>[Updated] Vimeo Integration for Professional Instagram Users for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>2024 Approved How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adopt-chatgpts-latest-features-a-comprehensible-guide/"><u>Adopt ChatGPT's Latest Features: A Comprehensible Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-renaissance-discover-how-gpts-new-features-elevate-us/"><u>AI Renaissance: Discover How GPT’s New Features Elevate Us</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alleviating-windows-saturated-gpt-error/"><u>Alleviating Window’s Saturated GPT Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/four-legal-frameworks-governing-ai-technology/"><u>Four Legal Frameworks Governing AI Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-converter-change-your-mov-files-into-high-quality-flac-format-with-ease/"><u>Free Online Converter: Change Your MOV Files Into High-Quality FLAC Format with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-the-confidant-human-trust-chatgpt-less/"><u>Keep the Confidant Human; Trust ChatGPT Less</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/leap-into-the-tiktok-live-crowd-a-quick-guide/"><u>Leap Into the TikTok Live Crowd A Quick Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-record-your-desktop-like-a-pro-a-filmora-scrn-guide/"><u>New Record Your Desktop Like a Pro A Filmora Scrn Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-incorrect-side-by-side-assembly-settings-in-windows-11/"><u>Step-by-Step Guide to Fix Incorrect Side-by-Side Assembly Settings in Windows 11</u></a></li>
 </ul></div>
 

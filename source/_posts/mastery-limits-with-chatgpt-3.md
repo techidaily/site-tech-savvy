@@ -1,7 +1,7 @@
 ---
 title: Mastery Limits with ChatGPT-3
-date: 2024-09-16T17:40:37.219Z
-updated: 2024-09-22T18:01:44.656Z
+date: 2024-09-29T20:34:43.760Z
+updated: 2024-10-03T23:48:13.087Z
 tags:
   - chatgpt
   - open-ai
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 
  If you're looking for recent news, weather updates, and other real-time data, ChatGPT won't be of much use. [Other AI chatbots like Claude](https://www.makeuseof.com/what-is-claude-ai-why-use-it/) have been trained with more recent information, but you still won't be able to access data less than a few months old.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Give Criminal Advice
 
  ChatGPT follows a strict ethical code, part of which prevents the chatbot from providing criminal advice. You can't ask ChatGPT how to commit a crime, conceal evidence, lie to law enforcement, or conduct any other criminal activities. On top of this, ChatGPT won't engage with any prompts about illegal drugs.
@@ -66,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 
  However, the current versions of ChatGPT only seem to be able to write simple malware programs, which can also be buggy at times. But regardless of this, [the chatbot can be exploited for malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Invade Personal Privacy or Security
 
  Since its launch in late 2022, [ChatGPT's potential as a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/) has been a point of concern. But can you use ChatGPT to invade someone else's personal boundaries?
@@ -75,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
  If you want ChatGPT to give you information on other people, you likely won't get far. The chatbot does not provide any personal information unless you have mentioned it during your conversation.
 
  Even if you mention some personal information in a ChatGPT conversation, you can [delete any ChatGPT conversations](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) as and when you wish.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Give Predictions
 
@@ -87,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
  It's better to consult dedicated websites or professionals if you're looking for solid predictions, be it in finance, politics, or sports.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Answer Bigoted or Hateful Questions
@@ -115,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 
  One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Look Up Web Results
 
  ChatGPT may be a hub of knowledge, but it is not a search engine. Therefore, you cannot ask ChatGPT to look something up for you like Google or Bing would.
@@ -131,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
  ChatGPT Plus is a paid subscription that costs $20 monthly. If you use ChatGPT a lot and want access to all the service's features, you may want to consider upgrading to Plus.
 
  At the time of writing, ChatGPT's browsing feature is disabled but is expected to return in the future.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Isn't an All-in-One Solution
 
@@ -160,5 +167,19 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-the-art-of-pairing-b-clips-with-main-shots/"><u>[Updated] The Art of Pairing B-Clips with Main Shots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-no-pay-all-gain-the-fcp-freedom-guide/"><u>2024 Approved No Pay, All Gain The FCP Freedom Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unseen-underpinnings-of-user-interface-craftsmanship/"><u>2024 Approved Unseen Underpinnings of User Interface Craftsmanship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-ai-systems-mastering-internet-information-retrieval/"><u>Advanced AI Systems Mastering Internet Information Retrieval</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-xiaomi-redmi-k70-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-started-on-ai-based-bing-simple-setup-procedure/"><u>Get Started on AI-Based Bing: Simple Setup Procedure</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 7 Plus</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/initial-movie-capture-evaluation-with-options/"><u>Initial Movie Capture Evaluation with Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/neural-networks-and-the-threat-of-data-reverse-engineering/"><u>Neural Networks and the Threat of Data Reverse-Engineering</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-translation-titan-gpts-role-in-natural-language-understanding/"><u>The Translation Titan: GPT's Role in Natural Language Understanding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncharted-territory-7-exceptional-tools-beyond-gpt/"><u>Uncharted Territory: 7 Exceptional Tools Beyond GPT</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/what-is-haul-video-and-how-to-make-a-catchy-try-on-haul-video/"><u>What Is Haul Video and How to Make a Catchy Try on Haul Video</u></a></li>
+</ul></div>
 

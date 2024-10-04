@@ -1,7 +1,7 @@
 ---
 title: "Challenger: Google's Gemini Vs. ChatGPT"
-date: 2024-09-22T16:36:11.186Z
-updated: 2024-09-28T16:42:51.496Z
+date: 2024-09-28T22:07:27.706Z
+updated: 2024-10-03T19:02:45.406Z
 tags:
   - chatgpt
   - open-ai
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://dhgate.sjv.io/5g6yb2)
 * [Is Gemini Better than ChatGPT?](https://homestyler.sjv.io/y209g3)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Google's AI model Gemini has three variants, Ultra, Pro, and Nano, focused on different tasks and complexity levels.
@@ -50,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Google's Gemini AI Model?
 
 [Gemini is Google's most capable generative AI model](https://www.makeuseof.com/what-is-googles-ai-project-gemini/), able to understand and operate across different data formats, including text, audio, image, and video. It is Google's attempt to create a unified AI model drawing capabilities from its most capable AI technologies. Gemini will be available in three variants:
@@ -64,22 +64,35 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to [bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
@@ -92,28 +105,15 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
@@ -131,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
@@ -147,6 +140,19 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
 
@@ -171,19 +177,21 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-maximizing-view-count-secrets-to-staff-picks-on-vimeo-for-2024/"><u>[Updated] Maximizing View Count Secrets to Staff Picks on Vimeo for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artistic-exploration-at-your-fingertips-using-microsoft-bings-dall-e-3-for-free/"><u>Artistic Exploration at Your Fingertips: Using Microsoft Bing's DALL-E 3 for Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-decorum-for-chatbots-tips-for-siri-and-similar-platforms/"><u>Digital Decorum for Chatbots: Tips for Siri and Similar Platforms</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-y100-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo Y100 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-the-arena-of-ideas-notion-vs-chatgpts-content-crusade/"><u>In the Arena of Ideas: Notion Vs. ChatGPT's Content Crusade</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/invest-in-security-not-ai-the-right-way-to-create-windows-11-keys/"><u>Invest in Security, Not AI: The Right Way to Create Windows 11 Keys</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/leverage-team-potential-through-superior-linguistic-software/"><u>Leverage Team Potential Through Superior Linguistic Software</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/pro-free-mac-screen-logger/"><u>Pro-Free Mac Screen Logger</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-download-realtek-audio-codec-driver-for-windows-10-effortless-installation/"><u>Quick Download: RealTek Audio Codec Driver for Windows 10 – Effortless Installation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolving-chatgpt-full-capacity-error-in-windows-os/"><u>Resolving ChatGPT Full Capacity Error in Windows OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-on-how-to-easily-install-your-usb-camera-driver/"><u>Step-by-Step Guide on How to Easily Install Your USB Camera Driver</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergy-of-storyteller-and-system-6-ways-gpt-elevates-dm-craftsmanship/"><u>Synergy of Storyteller and System: 6 Ways GPT Elevates DM Craftsmanship</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-2024-gaming-systems-the-ultimate-selection/"><u>Top 2024 Gaming Systems: The Ultimate Selection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-guide-to-choosing-best-free-srt-translators-online/"><u>[New] In 2024, Guide to Choosing Best FREE SRT Translators Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-affordable-storage-solutions-top-30-free-services-with-massive-1tbplus-space-capacity/"><u>[Updated] Affordable Storage Solutions Top 30 Free Services with Massive (1TB+) Space Capacity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-cinematic-influence-building-a-powerful-video-marketing-strategy/"><u>[Updated] Instagram Cinematic Influence Building a Powerful Video Marketing Strategy</u></a></li>
+<li><a href="https://howto.techidaily.com/asus-rog-phone-8-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 8 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-poco-m6-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Poco M6 Pro 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-editing-tips-change-your-m4a-audiovideo-file-to-mp4-format-perfect-for-online-sharing/"><u>Effortless Editing Tips: Change Your M4A Audio/Video File to MP4 Format Perfect for Online Sharing!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-transformation-of-mgv-files-into-mp4-format-with-leading-video-converter-tools/"><u>Effortless Transformation of MGV Files Into MP4 Format with Leading Video Converter Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-tips-quick-and-simple-methods-for-slicing-through-ogg-media-tracks/"><u>Expert Tips: Quick and Simple Methods for Slicing Through OGG Media Tracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-good-morning-wallpapers-pc-laptop-and-mobile-downloads/"><u>Free Good Morning Wallpapers: PC, Laptop & Mobile Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-effortlessly-upload-mp3-tracks-onto-youtube-without-spending-a-penny/"><u>How to Effortlessly Upload MP3 Tracks Onto YouTube Without Spending a Penny</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-videos-for-twitter-success-expert-convertors-guide/"><u>In 2024, Transforming Videos for Twitter Success Expert Convertors Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-your-youtube-potential-a-comprehensively-tailored-upload-process/"><u>In 2024, Unleashing Your YouTube Potential A Comprehensively Tailored Upload Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-vp9-transcoder-tools-simplified-video-conversion-downloads/"><u>Leading VP9 Transcoder Tools - Simplified Video Conversion Downloads</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oneplus-ace-3-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My OnePlus Ace 3 Black and White | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-from-idea-to-audio-book-your-modern-guide-to-effortless-publishing/"><u>Updated 2024 Approved From Idea to Audio Book Your Modern Guide to Effortless Publishing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iuocquodvoodkoodvoocpuocqeodgplusodgeobruodlplusodroocpowlleeuuplusiomommsjrmnidpq5jnllvos6rjgqzjgqtjg4ki/"><u>オーバーウォッチのプレイ動画記録:最高画質ガイド</u></a></li>
 </ul></div>
 

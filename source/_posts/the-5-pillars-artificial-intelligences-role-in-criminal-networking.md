@@ -1,7 +1,7 @@
 ---
 title: "The 5 Pillars: Artificial Intelligence's Role in Criminal Networking"
-date: 2024-09-20T19:03:44.405Z
-updated: 2024-09-22T18:12:22.876Z
+date: 2024-09-28T21:25:13.438Z
+updated: 2024-10-03T16:08:36.771Z
 tags:
   - chatgpt
   - open-ai
@@ -59,10 +59,10 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  In this sense, AI could also help in making malicious communications look more professional and official by ironing out spelling and grammar mistakes. Such errors are often said to be possible signs of malicious activity, so it may help cybercriminals if they can write their social engineering content more cleanly and effectively.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Finding Software Vulnerabilities
@@ -73,14 +73,21 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
  However, this AI application could also be helpful for cybersecurity vendors, as it could [aid in finding vulnerabilities](https://www.makeuseof.com/top-vulnerability-scanning-tools/) before they are exploited. Being able to patch a flaw quickly can cut off malicious actors' ability to exploit it, mitigating attacks overall.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Analyzing Stolen Data
 ![Data on Laptop Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/data-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Data is as valuable as gold. Today, [sensitive data is sold on dark web marketplaces](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) on a constant basis, with some malicious actors willing to pay a very high price if the information is useful enough.
@@ -88,6 +95,13 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  But for this data to become available on these marketplaces, it first needs to be stolen. Data can certainly be stolen in small amounts, especially when the attacker is targeting lone victims. But larger hacks can result in the theft of huge databases. At this point, the cybercriminal needs to determine what information in this database is valuable.
 
  Using AI, the process of highlighting valuable information could be streamlined, cutting down the time it takes for a malicious actor to determine what is worth selling, or, on the other hand, directly exploiting by their own hand. Artificial intelligence, at its core, is all about learning, so it could one day become easy to use an AI-powered tool to pick up on valuable sensitive data.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI Is Promising but Also Poses Many Threats
 
@@ -108,5 +122,18 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-keep-and-store-your-linkedin-videos-with-these-high-quality-downloader-apps/"><u>[New] In 2024, Keep and Store Your LinkedIn Videos with These High-Quality Downloader Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-command-expertise-select-online-mastery-series/"><u>AI Command Expertise: Select Online Mastery Series</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-content-with-care-social-media-ethics-revealed/"><u>Crafting Content with Care: Social Media Ethics Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-on-investing-in-gpt-plus/"><u>Deciding on Investing in GPT Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-loneliness-chatgpt-as-a-supportive-companion/"><u>Eliminating Loneliness: ChatGPT as a Supportive Companion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/googles-latest-gadget-buzz-what-to-expect-from-the-pixel-smartwatch-estimated-prices-release-momentum-and-rumored-features/"><u>Google's Latest Gadget Buzz: What to Expect From the Pixel Smartwatch - Estimated Prices, Release Momentum, and Rumored Features</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-job-search-the-best-video-resume-makers-free/"><u>In 2024, Elevate Your Job Search The Best Video Resume Makers Free</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-x-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone X Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maintaining-data-integrity-in-adaptive-chatgpt-systems/"><u>Maintaining Data Integrity in Adaptive ChatGPT Systems</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-rog-phone-7-ultimate-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streaming-software-spectacle-choosing-between-virusmix-and-castpro/"><u>Streaming Software Spectacle Choosing Between VirusMix and CastPro</u></a></li>
+</ul></div>
 

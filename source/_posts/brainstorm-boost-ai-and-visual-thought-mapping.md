@@ -1,7 +1,7 @@
 ---
 title: "Brainstorm Boost: AI and Visual Thought Mapping"
-date: 2024-09-16T18:35:36.521Z
-updated: 2024-09-22T16:53:08.639Z
+date: 2024-09-26T20:23:47.163Z
+updated: 2024-10-03T19:08:05.239Z
 tags:
   - chatgpt
   - open-ai
@@ -46,11 +46,31 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 ![Set project goals with the SMART goals worksheet template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/AnyConvcom__Resized_Vertex42_SMART-Goals.jpeg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Smart Goals Template
 
  Write down your main topic, such as "productivity." Next, decide on keywords or categories representing each branch's key concepts.
 
  For instance, if you're brainstorming on productivity as an idea, consider using keywords like "productivity tips for remote teams," or "productivity tools," etc., so that each branch has a clear focus and doesn't get too broad or general, and note it down on the sheet.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Use Mind Map Templates or Tools
 
@@ -71,10 +91,10 @@ Smart Goals Template
 ![ChatGPT responses to topic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/mi-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Such an approach can lead to a more thoughtful and creative exploration of ideas rather than a scattershot approach that may result in a jumble of disconnected concepts.
@@ -84,13 +104,6 @@ Smart Goals Template
  If you're stuck on what to brainstorm, you can ask ChatGPT to improvise and develop new ideas and conversation topics without detailed prompts. This approach might just help you land some unexpected insights and creative solutions.
 
 ![improvement suggestions for resume from ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/improvement-suggestions.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try specific prompts like "What should I do next after X process ?" or "Can you give me a suggestion on X?" ChatGPT will respond with unique and creative ideas.
 
@@ -103,10 +116,10 @@ Smart Goals Template
 ![person writing a mind map on a whiteboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/person-writing-a-mind-map-on-a-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. First, select a specific sub-topic or idea from the list of initial responses generated.
@@ -114,6 +127,13 @@ Smart Goals Template
 3. Use these AI-generated texts or prompts to continue expanding and refuting associated concepts.
 
  Keep repeating the process until you have a fully fleshed-out idea.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Use Mind-Mapping Apps for Your Brainstorming Sessions
 
@@ -154,5 +174,19 @@ Smart Goals Template
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-next-gen-visuals-top-5-hdmi-21-gaming-pcconsole-screens/"><u>[New] In 2024, Next-Gen Visuals Top 5 HDMI 2.1 Gaming PC/Console Screens</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-the-crossroads-of-full-time-work-and-youtube/"><u>[Updated] Navigating the Crossroads of Full-Time Work & YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-securely-separating-youtube-songs-3-approaches-available-for-free/"><u>[Updated] Securely Separating YouTube Songs 3 Approaches Available for Free</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-pro-photography-on-iphone-essential-apps-compilation/"><u>2024 Approved Pro Photography on iPhone Essential Apps Compilation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/articulating-imagination-chatgpts-creative-edge/"><u>Articulating Imagination: ChatGPT's Creative Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/astounding-revelation-communicate-with-ai-powered-gpt/"><u>Astounding Revelation: Communicate with AI-Powered GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dodge-these-pitfalls-chatgpt-mobile-downloads/"><u>Dodge These Pitfalls: ChatGPT Mobile Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-interactivity-top-5-personalized-gpt-3-directive-strategies/"><u>Elevating Interactivity: Top 5 Personalized GPT-3 Directive Strategies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-xcover-6-pro-tactical-edition-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy XCover 6 Pro Tactical Edition Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-promotion-in-the-metaverse/"><u>In 2024, Pioneering Promotion in the Metaverse</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/troubleshooting-receiving-yourself-in-a-facebook-live-for-2024/"><u>Troubleshooting Receiving Yourself in a Facebook Live for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionaries-collide-blizzards-tech-allegiance-with-microsoft-redefines-ai-horizons-interview-special/"><u>Visionaries Collide: Blizzard's Tech Allegiance with Microsoft Redefines AI Horizons [Interview Special]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Text to Talk: Building Your Own Data-Driven GPT"
-date: 2024-09-26T17:29:29.899Z
-updated: 2024-09-28T16:17:49.672Z
+date: 2024-10-02T21:29:34.759Z
+updated: 2024-10-03T20:13:33.711Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
  Now that you understand the importance of providing custom data to ChatGPT, here's a step-by-step on how to do so on your local computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 1: Install and Download Software and Pre-Made Script
@@ -63,9 +63,23 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 
 ![Adding Python to PATH](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/1-download-python.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When Installing Microsoft C++, you'll want to install **Microsoft Visual Studio Build Tools** first. Once installed, you can tick the **Desktop development with C++** option and click **Install** with all the optional tools automatically ticked on the right sidebar.
 
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
 
@@ -74,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
  To download the script, click on **Code,** then select **Download ZIP**. This should download the Python script into your default or selected directory.
 
 ![Downloading Python script on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-download-script.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once downloaded, we can now set up a local environment.
 
@@ -100,13 +107,6 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Creating secret API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/generate-api-key.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will be provided with a string of characters. This is your OpenAI API key. Copy it by clicking on the copy icon on the side of the API key. Keep note that this API key should be kept secret. Do not share it with others unless you really intend for them to use it with you.
 
  Once copied, return to the chatgpt-retrieval-main folder and open constants with **Notepad**. Now replace the placeholder with your API key. Remember to save the file!
@@ -115,6 +115,13 @@ pip install langchain openai chromadb tiktoken unstructured
 
  Now that you have successfully set up your virtual environment and added your OpenAI API key as an environment variable. You can now provide your custom data to ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3: Adding Custom Data
 
  To add custom data, place all your custom text data in the **data** folder within chatgpt-retrieval-main. The format of the text data may be in the form of a PDF, TXT, or DOC.
@@ -122,10 +129,10 @@ pip install langchain openai chromadb tiktoken unstructured
 ![Adding custom data for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on [AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/), and a PDF document.
@@ -148,20 +155,13 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 ![Asking custom ChatGPT about topic outside knowledge cut off data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/m250x.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Limitations of Custom ChatGPT
@@ -197,18 +197,24 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-free-frameworks-for-every-movie-epilogue-you-dream/"><u>[Updated] Free Frameworks for Every Movie Epilogue You Dream</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-storage-sizing-film-duration-in-gb/"><u>[Updated] In 2024, Storage Sizing Film Duration in GB</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-video-transformation-into-animated-gifs-no-save/"><u>2024 Approved Mastering YouTube Video Transformation Into Animated GIFs (No Save)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/9-free-youtube-logo-makers/"><u>Best 9 Free YouTube Logo Makers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-professional-sounds-with-magix-soundshaper-for-2024/"><u>Crafting Professional Sounds with Magix Soundshaper for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-llm-tech-revolutionizing-natural-language-understanding/"><u>Pioneering LLM Tech: Revolutionizing Natural Language Understanding</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-infinix-note-30-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Infinix Note 30 and Browser | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speak-to-chatgpt-your-personal-ai/"><u>Speak to ChatGPT – Your Personal AI</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-future-of-youth-learning-starts-here-discover-the-robomaster-s1-djiwartz-tank-drone-with-interactive-coding-features/"><u>The Future of Youth Learning Starts Here: Discover the RoboMaster S1 - DJI'wartz Tank Drone with Interactive Coding Features!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-15-remedies-for-when-your-facetime-isnt-working/"><u>Top 15 Remedies for When Your FaceTime Isn't Working</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-stunning-bokeh-top-mobile-apps-for-ios-and-android-users/"><u>Unlock Stunning Bokeh Top Mobile Apps for iOS and Android Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-googles-artificial-intelligence-gemini-project/"><u>Unpacking Google's Artificial Intelligence Gemini Project</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unravel-the-mysteries-of-artificial-intelligence-learn-to-use-free-dall-e-3-on-bing-by-microsoft/"><u>Unravel the Mysteries of Artificial Intelligence: Learn to Use Free DALL-E 3 on Bing by Microsoft</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-stories-advanced-bokeh-techniques/"><u>[New] Elevate Your Stories Advanced Bokeh Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-crafting-irresistible-profile-videos/"><u>[Updated] In 2024, Crafting Irresistible Profile Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726026801592-pc/"><u>「どうやったら、オーディオトラック全部をスマホやPCにセーブできますか?」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-free-best-mov-player-apps-comparison-top-picks-for-windows-mac-android-and-ios/"><u>1. Free Best MOV Player Apps Comparison: Top Picks for Windows, Mac, Android & iOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-update-your-way-out-of-the-game-solving-the-xbox-one-cant-read-discs-problem/"><u>1. Update Your Way Out of the Game: Solving the 'Xbox One Can't Read Discs' Problem</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-video-editing-showdown-virtualdub-vs-its-top-competitors/"><u>2024 Approved Video Editing Showdown Virtualdub Vs. Its Top Competitors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-the-backup-issue-making-sure-whatsapp-updates-to-your-icloud-account-smoothly/"><u>Fix the Backup Issue: Making Sure WhatsApp Updates to Your iCloud Account Smoothly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/get-it-now-easy-steps-to-minimize-your-mp3s-without-losing-quality-guide-inside/"><u>Get It Now! Easy Steps to Minimize Your MP3s Without Losing Quality (Guide Inside)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715684287817-how-to-use-markers-in-video-recording-and-editing/"><u>How to Use Markers in Video Recording and Editing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-nokia-g310-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Nokia G310 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028382025-iphonemp4/"><u>IPhone上でMP4ファイルを安全に保存し、データ損失が起こった際の解決策</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-v29-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo V29 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/reimagine-your-youtube-approach-with-tubebuddy-for-2024/"><u>Reimagine Your YouTube Approach with TubeBuddy for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-picks-for-alac-audio-format-a-complete-guide-to-transforming-and-saving-your-music-in-apple-lossless/"><u>Top Picks for ALAC Audio Format: A Complete Guide to Transforming and Saving Your Music in Apple Lossless</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-no-cost-substitutes-for-skype/"><u>Top-Rated No-Cost Substitutes for Skype</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-and-resolving-windows-n-11s-xbox-game-bar-malfunctions-effectively/"><u>Troubleshooting and Resolving Windows N 11'S Xbox Game Bar Malfunctions Effectively!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/xbox-one-movie-transfer-how-to-watch-files-offloaded-onto-a-flash-drive/"><u>Xbox One Movie Transfer: How to Watch Files Offloaded Onto a Flash Drive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029340143-youtube/"><u>YouTube 動画のランディングページに最適化: 一つ上手な配置方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zero-dollars-high-definition-the-ultimate-guide-to-free-downloading-of-pandora-tv-shows-and-movies/"><u>Zero Dollars, High Definition: The Ultimate Guide to Free Downloading of Pandora TV Shows and Movies</u></a></li>
 </ul></div>
 

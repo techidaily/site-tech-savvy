@@ -1,7 +1,7 @@
 ---
 title: Can GPT-Based Chat Enable Illicit Digital Intrusions?
-date: 2024-09-24T17:02:20.417Z
-updated: 2024-09-28T18:39:15.696Z
+date: 2024-10-01T16:28:00.916Z
+updated: 2024-10-04T00:12:00.524Z
 tags:
   - chatgpt
   - open-ai
@@ -43,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with [a successful phishing attack](http://www.makeuseof.com/what-is-phishing/). Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -112,22 +112,24 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-discover-the-future-of-screens-with-camstudios-2023-review/"><u>[Updated] In 2024, Discover the Future of Screens with CamStudio's 2023 Review</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitching-online-highlighting-todays-trending-video-takes-for-2024/"><u>[Updated] Twitching Online Highlighting Today's Trending Video Takes for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-from-raw-footage-to-riveting-content-the-ultimate-guide-to-yt-video-edits/"><u>2024 Approved From Raw Footage to Riveting Content The Ultimate Guide to YT Video Edits</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-lgs-cinematic-revolution-the-31mu97-b-monitor-breakdown-review/"><u>2024 Approved LG’s Cinematic Revolution The 31MU97-B Monitor Breakdown Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/chatgpt-down-revive-your-conversation-with-these-easy-troubleshooting-tips/"><u>ChatGPT Down? Revive Your Conversation with These Easy Troubleshooting Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparison-mistral-vs-chatgpt-in-language-models/"><u>Comparison: Mistral vs ChatGPT in Language Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-todays-gpt-functionality-4-simple-steps/"><u>Discover Today's GPT Functionality: 4 Simple Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-study-via-artificial-intelligence-tech/"><u>Enhancing Study via Artificial Intelligence Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/five-ways-to-leverage-ai-for-hacking-mastery/"><u>Five Ways to Leverage AI for Hacking Mastery</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-the-50k-char-constraint-in-chatgpt/"><u>Overcoming the 50K Char Constraint in ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-simple-methods-to-alter-your-netflix-regional-settings/"><u>Quick & Simple Methods to Alter Your Netflix Regional Settings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-fix-the-unverified-developer-warning-on-macos/"><u>Step-by-Step Guide to Fix the Unverified Developer Warning on macOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quest-for-the-unbeatable-test-new-age-of-intelligence/"><u>The Quest for the Unbeatable Test: New Age of Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-tastes-with-ai-assisted-healthy-recipes/"><u>Transformative Tastes with AI-Assisted Healthy Recipes</u></a></li>
-<li><a href="https://discover-community.techidaily.com/ultimate-guide-converting-dvds-into-high-quality-hevch265-mp4-format-free-method/"><u>Ultimate Guide: Converting DVDs Into High-Quality HEVC/H.265 MP4 Format - FREE Method</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-build-a-one-of-a-kind-chatgpt/"><u>Unleashing Potential: Build a One-of-a-Kind ChatGPT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-synapse-your-thoughts-on-mematics-platform/"><u>[New] Synapse Your Thoughts on Mematic's Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726026571405-2024/"><u>【2024年度対策】ニコニコ生放送で「タイムシフト」機能を記録・保管するテクニック</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bringing-beats-integrating-music-in-inshot-editor/"><u>2024 Approved Bringing Beats Integrating Music in InShot Editor</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-uncomplicated-techniques-reverse-playback-in-vlc-media-player/"><u>2024 Approved Uncomplicated Techniques Reverse Playback in VLC Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029016473-4/"><u>最高の電話会議を実現するための4つの優れた通話録音ツール・アプリ</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-windows-11-videoscripting-software-round-up/"><u>Best Windows 11 Videoscripting Software Round-Up</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005070450-errgfxstate-problem-on-redd2-heres-your-comprehensive-fix-guide/"><u>ERR_GFX_STATE Problem on REDD2? Here's Your Comprehensive Fix Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-enable-flv-playback-on-lightworks-a-comprehensive-guide/"><u>How to Enable FLV Playback on Lightworks: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improving-engagement-with-chatgpt-how-to-design-and-utilize-user-personas-for-superior-performance/"><u>Improving Engagement with ChatGPT: How to Design and Utilize User Personas for Superior Performance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-c67-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme C67 5G FRP</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-motorola-moto-g24-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Moto G24 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-razr-40-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Razr 40</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-windows-applications-for-optimal-video-compression/"><u>Top Rated Window's Applications for Optimal Video Compression</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-videos-from-vp9-to-h264-essential-tips-for-seamless-format-switching/"><u>Transform Your Videos From VP9 to H.264: Essential Tips for Seamless Format Switching</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-instagram-stories-comprehensive-guide-to-solving-upload-issues/"><u>Troubleshooting Instagram Stories: Comprehensive Guide to Solving Upload Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-downloading-anime-from-animefreak-tv/"><u>Ultimate Guide to Downloading Anime From AnimeFreak TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-mov-files-a-comprehensive-guide-on-what-they-are-and-how-you-can-access-them/"><u>Understanding MOV Files: A Comprehensive Guide on What They Are & How You Can Access Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027749538-vlc/"><u>VLCメディアプレーヤーによるスライドショー制作の手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726026594064-windows-113/"><u>Windows 11向けスクリーン録画テクニックトップ3: [選択範囲機能を使用]</u></a></li>
 </ul></div>
 

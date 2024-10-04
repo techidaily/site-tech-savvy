@@ -1,7 +1,7 @@
 ---
 title: "AI Revolution: Is Gemini Taking the Lead Over ChatGPT?"
-date: 2024-09-22T17:38:01.591Z
-updated: 2024-09-28T16:52:39.367Z
+date: 2024-10-02T18:01:53.751Z
+updated: 2024-10-04T00:06:08.292Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 * [How to Use Google Gemini AI](https://thefitville.pxf.io/qyo4yy)
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://dhgate.sjv.io/5g6yb2)
 * [Is Gemini Better than ChatGPT?](https://homestyler.sjv.io/y209g3)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -68,11 +61,31 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to [bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
@@ -83,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
  Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
@@ -108,39 +114,39 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated [using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/).
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
- It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
 ## Is Gemini Better than ChatGPT?
 
@@ -165,24 +171,19 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-action-cam-aesthetics-top-15-high-impact-gopro-lut-choices/"><u>[New] Action Cam Aesthetics Top 15 High-Impact GOPRO LUT Choices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-list-of-8-real-world-youtube-boosters-for-2024/"><u>[New] The Ultimate List of 8 Real-World YouTube Boosters for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mobile-mastery-secure-your-favorite-igtv-content-easily/"><u>[Updated] Mobile Mastery Secure Your Favorite IGTV Content Easily</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-reimagine-your-content-with-advanced-number-edits-in-tiktok/"><u>2024 Approved Reimagine Your Content with Advanced Number Edits in TikTok</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-total-well-being-with-chatgpt-your-guide-to-life-transformation/"><u>Achieve Total Well-Being with ChatGPT: Your Guide to Life Transformation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/clear-the-fog-tips-and-tricks-to-get-your-vr-set-up-working-with-steam-again/"><u>Clear the Fog: Tips and Tricks to Get Your VR Set Up Working with Steam Again</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diving-into-gpt-enhanced-jobs-money-making-scenarios-explored/"><u>Diving Into GPT-Enhanced Jobs: Money-Making Scenarios Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancements-arrive-chatgpt-introduces-top-tier-updates/"><u>Enhancements Arrive: ChatGPT Introduces Top-Tier Updates!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ensuring-quality-control-when-integrating-chatgpt-into-your-workflow/"><u>Ensuring Quality Control when Integrating ChatGPT Into Your Workflow</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-chatgpts-economic-impact-on-8-business-models/"><u>Evaluating ChatGPT's Economic Impact on 8 Business Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/futurists-unite-global-leaders-on-ai-prospects/"><u>Futurists Unite: Global Leaders on AI Prospects</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-troubleshoot-unresponsive-elden-ring-cooperative-gameplay/"><u>How to Troubleshoot Unresponsive Elden Ring Cooperative Gameplay</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-final-cut-pros-top-10-vfx-power-players/"><u>In 2024, Final Cut Pro’s Top 10 VFX Power Players</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-via-siri-on-ios-devices/"><u>Leveraging ChatGPT via Siri on iOS Devices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/master-video-cutting-and-splicing-with-vimeo-for-free-for-2024/"><u>Master Video Cutting & Splicing with Vimeo, for Free for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-ea-server-connection-failure-in-windows/"><u>Resolving EA Server Connection Failure in Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-complete-insight-into-eva-ai-ex-journey-chatbot-a-must-read-reveal-for-tech-enthusiasts/"><u>The Complete Insight Into EVA AI (Ex-Journey) Chatbot: A Must-Read Reveal for Tech Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unfolding-gpt-4-integration-in-these-7-modern-tools/"><u>Unfolding GPT-4 Integration in These 7 Modern Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-best-in-4k-technology-in-depth-review-of-sealoc-coastal-silver-55-screen-ideal-for-outdoor-viewing-pleasures/"><u>Unveiling the Best in 4K Technology: In-Depth Review of Sealoc Coastal Silver 55 Screen - Ideal for Outdoor Viewing Pleasures</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-policies-versus-creative-commons-a-comparative-study/"><u>[New] 2024 Approved Youtube Policies Versus Creative Commons A Comparative Study</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ideal-websites-for-extracting-text-visual-upgrades-for-2024/"><u>[Updated] Ideal Websites for Extracting Text Visual Upgrades for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030383855-2024youtube/"><u>「最新メソッド2024」YouTubeからのミュージックファイル、パソコンへ自由に！</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-gourmet-giants-culinary-stars-you-must-subscribe-to/"><u>2024 Approved Gourmet Giants Culinary Stars You Must Subscribe To</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-visual-branding-in-youtubes-design-tips/"><u>2024 Approved Visual Branding in YouTubes Design Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-frugal-success-in-acquiring-espn-footage-your-ultimate-diy-strategy-for-video-downloads/"><u>Achieve Frugal Success in Acquiring ESPN Footage - Your Ultimate DIY Strategy for Video Downloads</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-game-sounds-issues-in-outriders/"><u>Expert Advice on Resolving Game Sounds Issues in Outriders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029225629-gyao/"><u>Gyao動画の保存:最も簡単な２つの手順</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-poco-f5-pro-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Poco F5 Pro 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-must-have-live-streaming-addons-for-kodi-enjoy-movies-and-more/"><u>Top 5 Must-Have Live Streaming Addons for Kodi: Enjoy Movies and More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-mkv-format-a-comprehensive-guide-on-opening-matroska-files/"><u>Understanding the MKV Format: A Comprehensive Guide on Opening Matroska Files</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-x-fold-2-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo X Fold 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-11movmp4/"><u>Windows 11の組み込みアプリ「フォト」を使用してMOVファイルをMP4形式に直接変換</u></a></li>
 </ul></div>
 

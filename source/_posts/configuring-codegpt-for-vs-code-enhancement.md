@@ -1,7 +1,7 @@
 ---
 title: Configuring CodeGPT for VS Code Enhancement
-date: 2024-09-19T16:04:04.408Z
-updated: 2024-09-22T16:24:18.982Z
+date: 2024-09-26T19:56:40.520Z
+updated: 2024-10-03T22:36:20.537Z
 tags:
   - chatgpt
   - open-ai
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
 ![CodeGPT generating code from a comment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-comment-code-generation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can then copy and paste the code into your script. This method is not tidy as the response has text on it.
 
  To generate code by chatting with CodeGPT, click on the CodeGPT chat icon on the left sidebar. This will open a chat window.
@@ -117,18 +124,18 @@ else:
 
  When you run the code it works correctly. With just a single prompt, you were able to create a simple calculator.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Refactoring Your Code With CodeGPT
 
  To refactor your code, select the code that you want to refactor, then right-click on it and select **Refactor CodeGPT**. In the **Refactor CodeGPT** dialog box, enter your prompt describing the refactoring that you want to perform. For example, you could enter "refactor this code to use [a for loop](https://www.makeuseof.com/learn-for-loops-in-python/) instead of [a while loop](https://www.makeuseof.com/learn-while-loop-in-python/)".
 
  CodeGPT will generate new code that implements the requested refactoring.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Explaining Your Code With CodeGPT
 
@@ -136,14 +143,14 @@ else:
 
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
 
- CodeGPT will explain what the code does on the chat window.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ CodeGPT will explain what the code does on the chat window.
 
 ## Documenting Your Code Using CodeGPT
 
@@ -171,6 +178,19 @@ def divide(x, y):
 
  These are clear and correct inline comments.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Understanding How Generative AI Works
 
  CodeGPT utilizes the power of generative AI for all its features. It may not always provide the correct information. Hence, you need to counter-check whether its results are correct. Understanding how generative AI works will help you become familiar with its strengths and weaknesses.
@@ -192,5 +212,21 @@ def divide(x, y):
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-eyecapture-master-series-version-x/"><u>[New] EyeCapture Master Series - Version X</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-hands-free-strategies-for-logging-online-meetings/"><u>[Updated] In 2024, Hands-Free Strategies for Logging Online Meetings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/athletes-blueprint-to-gpt-enhanced-dialogue/"><u>Athletes' Blueprint to GPT-Enhanced Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-cinema-choices-mastering-chatgpts-skills/"><u>Conversational Cinema Choices: Mastering ChatGPT's Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-impact-of-generative-systems-on-truth/"><u>Deciphering the Impact of Generative Systems on Truth</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y55s-5g-2023-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-10-failure-to-shut-down-issues-in-minutes/"><u>Resolve Windows 10 Failure to Shut Down Issues in Minutes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/synchronizing-sound-fixing-the-delay-on-your-chromecast-audio-setup/"><u>Synchronizing Sound: Fixing the Delay on Your Chromecast Audio Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ai-illusion-unveiled-nine-major-issues-with-gpt/"><u>The AI Illusion Unveiled: Nine Major Issues with GPT</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-samsung-galaxy-f04-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy F04 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unraveling-mukbang-the-art-of-feast-filled-vlogs-for-2024/"><u>Unraveling Mukbang The Art of Feast-Filled Vlogs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-will-triumph-googles-bard-vs-microsofts-bing-chat/"><u>Who Will Triumph? Google's Bard Vs. Microsoft's Bing Chat</u></a></li>
+</ul></div>
 

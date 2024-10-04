@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Replies: Fusing GPT-3 with WhatsApp Support"
-date: 2024-09-21T18:15:22.691Z
-updated: 2024-09-22T17:27:20.048Z
+date: 2024-10-02T20:48:03.737Z
+updated: 2024-10-03T16:29:39.388Z
 tags:
   - chatgpt
   - open-ai
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-prompt.jpeg)
 
  Copy and store the key in a secure place for future use.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Setting Up a WhatsApp Business Account
 
@@ -167,6 +174,13 @@ python manage.py runserver`
 
 ![Application QR code prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-qr-code.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Move to your WhatsApp mobile app and navigate to **Settings > QR code > Scan code** to add a new linked device and scan the popped QR code on your terminal.
 
  After logging in, the application will start listening to incoming messages. If someone sends a message, the received message will make a GET request to API with the message as a query parameter and send the response back to the sender on WhatsApp.
@@ -175,18 +189,18 @@ python manage.py runserver`
 
 ![Output of integrating chatgpt and WhatsApp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-output.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using WhatsApp Chatbot to Integrate WhatsApp With ChatGPT API
 
  Another way to integrate ChatGPT into WhatsApp messages is by using a WhatsApp chatbot.
 
  Once you register your WhatsApp Business API, use a chat builder like OpenDialog to create a flow for the chat. You will then test your chatbot and add it to your mobile phone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Integrate OpenAI API With Your WhatsApp Chatbot
 
@@ -206,16 +220,16 @@ python manage.py runserver`
 
  In this case, the Django REST framework provides a browsable API to help test API requests and responses.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Measuring Success and Fine-Tuning
 
  Once your WhatsApp chatbot is in deployment, it is crucial to measure its success and usage over time. This will help with fine-tuning it accordingly. Analytics tools like OpenDialog and Rasa can help to track metrics such as response time, retention rate, and customer satisfaction.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Streamline Customer Support on WhatsApp With ChatGPT Integration
 
@@ -238,5 +252,22 @@ python manage.py runserver`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-strategies-in-drone-filmmaking/"><u>[New] 2024 Approved Top Strategies in Drone Filmmaking</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-beneath-the-wave-expert-strategies-for-filming-with-gopro-below-water/"><u>[New] In 2024, Beneath the Wave Expert Strategies for Filming with GoPro Below Water</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-ipad-360-video-creation-for-facebook/"><u>[Updated] The Ultimate iPad 360 Video Creation for Facebook</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1726026544939-gif/"><u>高解像度で素人向け動画をGIFに効果的に変換するためのステップバイステップガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-engaging-sites-with-chatgpts-creative-four-ways/"><u>Craft Engaging Sites with ChatGPT’s Creative Four Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/current-methods-incorporating-gpt-4-with-chatgpt/"><u>Current Methods: Incorporating GPT-4 with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dynamic-interactions-chatgpt-meets-crypto-world/"><u>Dynamic Interactions: ChatGPT Meets Crypto World</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-efficiently-removing-youtube-channels-a-device-centric-approach/"><u>In 2024, Efficiently Removing Youtube Channels A Device-Centric Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/linus-tech-tips-unlocks-twitters-latest-update-and-demystifies-trojans-chatgpt-issues-analyzed/"><u>Linus Tech Tips Unlocks Twitter's Latest Update and Demystifies Trojans, ChatGPT Issues Analyzed</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/making-the-right-choice-in-depth-review-of-amazon-fire-vs-samsung-tablets/"><u>Making The Right Choice: In-Depth Review Of Amazon Fire Vs. Samsung Tablets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/refining-chatgpts-writing-to-your-unique-essence/"><u>Refining ChatGPT's Writing to Your Unique Essence</u></a></li>
+<li><a href="https://win11.techidaily.com/1719333062146-resolve-windows-scheduler-glitches-now/"><u>Resolve Windows Scheduler Glitches Now</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/top-10-jpg-to-gif-converters-online-free-for-2024/"><u>Top 10 JPG to GIF Converters Online Free for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truth-unveiled-dispelling-popular-fallacies-in-ai-chatbots/"><u>Truth Unveiled: Dispelling Popular Fallacies in AI Chatbots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-anthropics-revolutionary-prompt-library/"><u>Unveiling Anthropic's Revolutionary Prompt Library</u></a></li>
+</ul></div>
 

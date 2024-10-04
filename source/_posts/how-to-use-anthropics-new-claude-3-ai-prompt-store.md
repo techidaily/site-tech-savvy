@@ -1,7 +1,7 @@
 ---
 title: How to Use Anthropic's New Claude 3 AI Prompt Store
-date: 2024-09-20T16:36:12.029Z
-updated: 2024-09-22T17:46:38.956Z
+date: 2024-10-02T00:50:50.374Z
+updated: 2024-10-03T23:26:20.246Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 
 ![anthropic prompt library options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Anthropic's prompt library](https://docs.anthropic.com/claude/prompt-library) is a free tool designed to make it easier to get the AI responses and output you need for the task at hand.
 
  It's filled with hundreds of different prompts spanning numerous categories, including creating a web page, making an HTML game, corporate speak, Python bug detecting, dream interpretation, and much, much more.
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 ![anthropic prompt library dream interpreter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-dream-interpreter-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whereas the Corporate Clairvoyant prompt features a user input designed to analyze and summarize a report, highlighting important features.
@@ -74,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
  Using any of the prompts is simple: just copy and paste them into Claude (or another AI chatbot), tweak them to your liking, and you're good to go.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is the Anthropic Prompt Library Any Good?
@@ -97,6 +104,19 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
  While ChatGPT 4 responded:
 
 ![chatgpt plus dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-plus-dream-interpreter-prompt-library-output.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's pretty similar, covering the same thoughts, feelings, and imagery. However, given the number of websites, blog posts, and books both tools have been trained on, those details are relatively easy to discern.
 
@@ -133,5 +153,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-10-premier-yoga-educators-on-youtube-for-2024/"><u>[Updated] 10 Premier Yoga Educators on YouTube for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-peak-memetic-artistry-hub/"><u>[Updated] Peak Memetic Artistry Hub</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-predictive-power-vs-star-guided-futures/"><u>ChatGPT's Predictive Power Vs. Star-Guided Futures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cipher-games-with-ai-twists-engage-in-4-intriguing-puzzles/"><u>Cipher Games with AI Twists: Engage in 4 Intriguing Puzzles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/deciding-on-the-best-upgrade-for-your-4k-vision/"><u>Deciding on the Best Upgrade for Your 4K Vision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-personalized-language-powerhouses-at-openais-store/"><u>Discover Personalized Language Powerhouses at OpenAI's Store!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/essential-skills-for-successful-interviews/"><u>Essential Skills for Successful Interviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-and-setting-up-chatgpt-plugins-today/"><u>Exploring and Setting Up ChatGPT Plugins Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/police-strike-down-vpns-upholding-cyber-law/"><u>Police Strike Down VPNs, Upholding Cyber Law</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-tips-for-curing-gtfo-errors/"><u>Step-by-Step Troubleshooting Tips for Curing GTFO Errors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/transforming-views-into-audience-with-effective-fb-videos-for-2024/"><u>Transforming Views Into Audience with Effective FB Videos for 2024</u></a></li>
+</ul></div>
 

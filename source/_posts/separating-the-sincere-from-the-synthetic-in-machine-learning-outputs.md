@@ -1,7 +1,7 @@
 ---
 title: Separating the Sincere From the Synthetic in Machine Learning Outputs
-date: 2024-09-25T18:28:53.611Z
-updated: 2024-09-28T18:38:43.979Z
+date: 2024-09-26T22:04:04.084Z
+updated: 2024-10-03T17:53:43.825Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,16 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
  For example, [top AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/), such as DALL-E 2, can creatively generate novel images we can tag as "hallucinations" since they are not based on real-world data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI Hallucination in Large Language Processing Models
@@ -50,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 ![ChatGPT's response to where Elon Musk's house is located](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181459.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On further query, ChatGPT turned up with this:
@@ -71,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
  Here's another montage with a mix of poodle and pork floss bun images. A computer would most likely be unable to differentiate between them, therefore mixing the images.
 
 ![A 4x4 montage of poodle and pork floss bun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-17-234559.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Does AI Hallucination Occur?
 
@@ -90,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 ![Screenshot of ChatGPT giving wrong responses to a question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/revolt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On further probing, it kept giving wrong answers, with a high level of confidence.
 
 ![Screenshot of ChatGPT giving multiple wrong answers to a prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wrong-answer.jpg)
@@ -98,18 +118,18 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
  It could be that the language model is unequipped to handle rather complex prompts such as these or that it cannot interpret the prompt accurately, ignoring the prompt on giving a similar word with a specific alphabet.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do You Spot AI Hallucination?
 
  It is evident now that AI applications have the potential to hallucinate—generate responses otherwise from the expected output (fact or truth) without any malicious intent. And spotting and recognizing AI hallucinations is up to the users of such applications.
 
  Here are some ways to spot AI hallucinations while using common AI applications:
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Large Language Processing Models
 
@@ -119,22 +139,16 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
  Using human judgment or common sense can help detect hallucinations, as humans can easily identify when a text does not make sense or follow reality.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Computer Vision
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As a branch of artificial intelligence, machine learning, and computer science, computer vision empowers computers to recognize and process images like human eyes. Using [convolutional neural networks](https://www.makeuseof.com/convolutional-neural-network-explained/), they rely on the incredible amount of visual data used in their training.
 
@@ -146,25 +160,11 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 ![Ford Blue Cruise 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ford-blue-cruise-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedmedia.viewmore.image.html/content/fordmedia/fna/us/en/news/2021/04/14/ford-mother-of-all-road-trips-bluecruise-hands-free-driving/jcr:content/rightRailPar/relatedmedia.html)
 
  Thanks to AI, self-driving cars are gradually infiltrating the auto market. Pioneers like Tesla Autopilot and Ford's BlueCruise have been championing the scene of self-driving cars. You can check out [how and what the Tesla Autopilot sees](https://www.makeuseof.com/how-and-what-the-tesla-autopilot-sees/) to get a bit of an understanding of how AI powers self-driving cars.
 
  If you own one of such cars, you would want to know if your AI car is hallucinating. One sign will be if your vehicle seems to be deviating from its normal behavior patterns while driving. For example, if the vehicle brakes or swerves suddenly without any obvious reason, your AI vehicle might be hallucinating.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AI Systems Can Hallucinate Too
 
@@ -191,17 +191,19 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-transforming-your-videos-first-impression-fb-cover-makeover-techniques/"><u>[New] Transforming Your Videos' First Impression FB Cover Makeover Techniques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-master-the-art-of-instagram-friendly-video-editing/"><u>2024 Approved Master the Art of Instagram-Friendly Video Editing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/alternativas-top-notch-al-software-prezi-13-opciones-web-y-aplicaciones-en-202n4/"><u>Alternativas Top-Notch Al Software Prezi: 13 Opciones Web Y Aplicaciones en 202N4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-computers-decipher-difficult-equations/"><u>Can Computers Decipher Difficult Equations?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-3-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Lava Yuva 3 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://facebook.techidaily.com/identifying-the-silent-voice-of-facebook/"><u>Identifying the Silent Voice of Facebook</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-nokia-c210-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Nokia C210 Location | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-deterioration-in-chatgpt-ai-says-openai/"><u>No Deterioration in ChatGPT AI, Says OpenAI</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphone-top-7-solutions-for-bootloop-at-apple-logo/"><u>Revive Your iPhone: Top 7 Solutions for Bootloop at Apple Logo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-futures-here-with-gpt-4-but-dont-miss-the-platinum-plans-6-distinguished-benefits/"><u>The Future's Here with GPT-4; But Don't Miss the Platinum Plan’s 6 Distinguished Benefits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-writers-shouldnt-panic-the-5-limits-of-ai-in-publishing-field/"><u>Why Writers Shouldn't Panic: The 5 Limits of AI in Publishing Field</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/uide-for-social-media-savvy-content-sharers-for-2024/"><u>[New] Guide for Social Media Savvy Content Sharers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users/"><u>[New] In 2024, Secrets of Saving Screenshots Tips & Tricks for Dell Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-step-by-step-download-vimeo-to-mp4-files/"><u>[New] In 2024, Step-by-Step Download Vimeo to MP4 Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-embed-youtube-in-google-slides-presentations/"><u>[Updated] In 2024, How to Embed YouTube in Google Slides Presentations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-shadow-play-with-iphone-pro-photography-tips/"><u>2024 Approved Shadow Play with iPhone Pro Photography Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-s23-fe-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy S23 FE Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-earnings-breakdown-one-million-glances-at-youtube/"><u>In 2024, Earnings Breakdown One Million Glances at Youtube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-ways-for-fee-free-pictorial-clips/"><u>Navigating the Ways for Fee-Free Pictorial Clips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-text-manipulators-boosting-affects-craft-for-2024/"><u>Top 10 Text Manipulators Boosting Affects Craft for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vobmpegmp4/"><u>VOBファイルからMPEG/MP4への効率的な変換手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-venom-stops-responding-post-update-and-how-to-solve-it/"><u>Why Venom Stops Responding Post-Update & How To Solve It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-10aacmp3/"><u>Windows 10上のAACファイルをMP3形式に容易に変換するための手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-11-media-player-issues-and-video-playback-problems/"><u>Windows 11, Media Player Issues, and Video Playback Problems.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windowshevch265/"><u>WindowsでのHEVC/H265ビデオファイルの効率的な大量変換手順</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Impact of AI on Traditional College Papers
-date: 2024-09-27T16:29:06.143Z
-updated: 2024-09-28T16:53:45.453Z
+date: 2024-10-02T22:58:59.864Z
+updated: 2024-10-03T17:11:30.988Z
 tags:
   - chatgpt
   - open-ai
@@ -40,25 +40,11 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
  So, for many professors, the student essay is an excellent tool for developing critical thinking. It's also not as taxing for the students since most essays are take-home assignments.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Libraries, Internet Search, and Analytical Thinking vs. ChatGPT
 
  Before the proliferation of the internet, students had to exert double effort to research and write their essays. So, their critical and analytical thinking skills are exercised in multiple ways—searching for related literature to their topic, analysis of existing data, and how they write and present and their learnings.
 
 ![a library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-library.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When online search peaked, research became much easier for students. They no longer had to go through tons of books, magazines, and articles across different libraries—type in some choice keywords and separate the wheat from the chaff in the results.
 
@@ -73,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
  This is the basic gist of [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/): when you ask ChatGPT anything, it doesn't send you to an article or a website. Instead, it goes through all its stored information and recognizes patterns based on what it has learned. From there, it will return an answer it predicts will satisfy your need.
 
  ChatGPT and generative AI generally do not analyze information for you. However, it will deliver results that previous writers have already processed. And, based on your question, it can also give you related results.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AI as a Learning Tool: Harnessing ChatGPT to Improve Understanding
 
@@ -105,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 ![student cheating on an exam with their phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-cheating-on-an-exam-with-their-phone-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, as with any new technology, some students misuse it. Because ChatGPT answers questions by predicting the correct response, it will paraphrase its sources. So, it's tempting for many to copy and paste what ChatGPT regurgitated from the internet.
 
  And because ChatGPT's results are mostly unique, it isn't easy to spot them. And although [OpenAI launched a detection tool](https://www.makeuseof.com/openai-launches-ai-detector-counter-chatgpt/) to counter ChatGPT-generated text, it isn't as effective at detecting them. We've already read a report from [The Washington Post](https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/) where a ChatGPT detector returned a false positive, and [The Conversation](https://theconversation.com/we-pitted-chatgpt-against-tools-for-detecting-ai-written-text-and-the-results-are-troubling-199774) published a piece on how AI detectors are easily outsmarted.
@@ -119,15 +105,22 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
  So, how can teachers, professors, and educators change the student essay to make it evolve with AI?
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Make the Questions More Pointed or Personal
 
  The biggest thing that generative AI like ChatGPT cannot do is write about personal experience. After all, a student's life isn't generally available online, so generative AI cannot predict that student's life.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Write Essay Questions in the Context of Current Events
@@ -138,24 +131,31 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
  However, students with access to ChatGPT Plus or GPT-4 get a fully updated version of ChatGPT. So, as part of checking essays, the teacher should also quiz the student on what they wrote.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Students Should Present Their Essays as Reports
 
  Instead of assigning the same topic to all students, educators can give different subjects to students or groups of students. And once they've written or prepared their essay, they could present it to the class.
 
  This ensures that the students are truly knowledgeable in their assigned topic. And to further the discussion, the professor should encourage the student audience to ask questions. This will help the reporting student or group and the rest of the class think analytically.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Essays Should Be Written Offline During Class or Exams
 
  If an essay is the best way to determine a student's understanding of a topic, then it should be limited in the classroom during on-paper exams. That way, the student must rely solely on their knowledge to explain a topic.
 
 ![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Essays Can Still Gauge Student Knowledge and Competence
 
@@ -184,20 +184,21 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/advance-your-conversations-key-strategies-to-enhance-ai-responses/"><u>Advance Your Conversations: Key Strategies to Enhance AI Responses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bards-new-ai-capabilities-the-seven-highlights-from-google-io-2023/"><u>Bard's New AI Capabilities: The Seven Highlights From Google I/O 2023</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elon-musks-grok-explanation-decoding-its-essence-and-price-tag/"><u>Elon Musk's Grok Explanation - Decoding Its Essence and Price Tag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-toms-technology-chronicles/"><u>Exploring Hardware with Tom's Technology Chronicles</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-your-pcs-missing-piece-how-to-restore-bluetooth-on-windows-11/"><u>Fix Your PC's Missing Piece: How to Restore Bluetooth on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-updates-and-error-windows-0x800f0845/"><u>Fixing Updates and Error: Windows 0X800F0845</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/navigating-the-world-of-youtube-keywords/"><u>Navigating the World of YouTube Keywords</u></a></li>
-<li><a href="https://article-tips.techidaily.com/portable-cinematic-vibration-reliever-kit/"><u>Portable Cinematic Vibration Reliever Kit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/privacy-paranoia-the-risks-of-sharing-with-chatgpt/"><u>Privacy Paranoia: The Risks of Sharing with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplifying-the-turing-test-can-it-ever-be-overtaken/"><u>Simplifying the Turing Test: Can It Ever Be Overtaken?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-fact-files-on-fictional-ai-bots-top-9-reality-checks/"><u>The Fact Files on Fictional AI Bots - Top 9 Reality Checks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-new-short-form-fb-story/"><u>The New Short-Form FB Story</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-quick-picture-viewer-on-windows-10/"><u>Ultimate Quick Picture Viewer on Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/virtual-world-betrayals-activisions-tale/"><u>Virtual World Betrayals: Activision's Tale</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-youtubes-top-5-apps-that-trim-your-long-video-links-down/"><u>[New] 2024 Approved Youtube’s Top 5 Apps That Trim Your Long Video Links Down</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/douyin/"><u>「抖音(Douyin)で人気の動画ダウンロード手順」</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastermakers-ranking-the-top-5-digital-titling-pros/"><u>2024 Approved Mastermakers Ranking the Top 5 Digital Titling Pros</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unraveling-vr-a-clear-explanation-of-its-function/"><u>2024 Approved Unraveling VR A Clear Explanation of Its Function</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dvd-extraction-made-easy-transforming-dvd-content-into-videots-for-editing/"><u>DVD Extraction Made Easy: Transforming DVD Content Into Video_TS for Editing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1725289438640-dvdsd/"><u>DVD専用のダウンロードソフトで簡単な手順でSDカードにデジタル化</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dvdmkv/"><u>DVDからMKVへの効果的な変換テクニックを学ぶ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-to-record-audio-a-guide-for-windows-similar-problem/"><u>Easy Steps to Record Audio: A Guide for Windows # Similar Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-guide-converting-your-dvds-into-avi-files/"><u>Effortless Guide: Converting Your DVDs Into AVI Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-guide-dividing-a-single-mp3-file-into-distinct-audio-segments/"><u>Free Guide: Dividing a Single MP3 File Into Distinct Audio Segments</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-logitech-g510-mouse-software-installer-for-win-7810/"><u>Free Logitech G510 Mouse Software Installer for Win 7/8/10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-compress-your-audio-files-efficiently-and-maintain-high-quality-sound/"><u>How To Compress Your Audio Files Efficiently and Maintain High-Quality Sound</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-zte-axon-40-lite-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve ZTE Axon 40 Lite Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/interconnecting-your-music-collection-across-services/"><u>Interconnecting Your Music Collection Across Services</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nubia-red-magic-9-proplus-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nubia Red Magic 9 Pro+ Phone FRP Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solution-resolve-error-code-0x800f0831-using-windows-update/"><u>Simple Solution: Resolve Error Code 0X800f0831 Using Windows Update</u></a></li>
 </ul></div>
 

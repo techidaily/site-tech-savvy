@@ -1,7 +1,7 @@
 ---
 title: "Sipping on ChatGPT: Cocktail Quality Insight"
-date: 2024-09-26T16:13:55.002Z
-updated: 2024-09-28T16:56:05.993Z
+date: 2024-09-26T19:02:13.365Z
+updated: 2024-10-03T17:50:55.864Z
 tags:
   - chatgpt
   - open-ai
@@ -36,16 +36,16 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
  As long as your prompts are sound, the AI chatbot should deliver. So, let's test that theory.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Testing ChatGPT's Abilities as a Bartender
 
  I started out with a simple request before moving on to more difficult requests. And the results were interesting, to say the least. I have paraphrased the prompts used as there was often a back-and-forth needed to get ChatGPT to deliver.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prompt 1: "What Can I Add to an Aperol Spritz Instead of Soda?"
 
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 ![ultimate-old-fashioned-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/ultimate-old-fashioned-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I did follow up by asking for some tweaks I could make, resulting in some ideas for variations on the Old-Fashioned for another time. This included using maple syrup instead of simple syrup (as Canadians do), using flavored whiskies rather than straight bourbon or rye, and adding smoked ingredients such as oak chips.
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Prompt 4: "Please Create a New, Wholly Original Cocktail."
 
  While classic cocktails have stood the test of time for a reason, plenty of new combinations of ingredients are still waiting to be discovered. Bartenders the world over try to create new cocktails with the hopes that one of their creations will prove to be so popular that it, and they, become famous.
@@ -109,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
@@ -122,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
  I had never heard of this cocktail, but a quick Google Search reveals that it's a well-known recipe. In fact, the recipes vary wildly, but the one that ChatGPT offered up made for a tasty cocktail that definitely aligned with the brief I had provided.
 
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## So, Is ChatGPT Good at Making Cocktails?
 
@@ -164,20 +164,24 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-leading-innovations-in-video-calls-discover-the-top-10-apps/"><u>[New] 2024 Approved Leading Innovations in Video Calls Discover the Top 10 Apps</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-guide-to-utilizing-siri-on-tiktok-videos/"><u>[Updated] In 2024, Guide to Utilizing Siri on TikTok Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-synching-worlds-instagram-to-tiktok-essentials/"><u>2024 Approved Synching Worlds Instagram to TikTok Essentials</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/character-depth-and-complexity-through-11-ingenious-chatgpt-prompts/"><u>Character Depth and Complexity Through 11 Ingenious ChatGPT Prompts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-connect-beats-wireless-to-windows-1011-solved/"><u>How to Connect Beats Wireless to Windows 10/11 [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-disable-microsoft-security-essentials-temporarily-solved/"><u>How to Disable Microsoft Security Essentials Temporarily [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-easily-set-up-your-anker-mouse-with-its-drivers/"><u>How to Easily Set Up Your Anker Mouse with Its Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-enable-ssltls-on-a-web-server-configuring-nginx-for-https-redirection/"><u>How to Enable SSL/TLS on a Web Server: Configuring Nginx for HTTPS Redirection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-enter-safe-mode-in-window-7-vista-and-xp/"><u>How to Enter Safe Mode in Window 7, Vista & XP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-enter-safe-mode-in-windows-11-7-8-81-xp-and-vista/"><u>How to Enter Safe Mode in Windows 11, 7, 8, 8.1, XP & Vista</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-factory-reset-windows-11-4-steps/"><u>How to Factory Reset Windows 11 [4 Steps]</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-nokia-xr21-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Nokia XR21 Phones? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leap-into-the-future-a-guide-for-windows-11-installation/"><u>In 2024, Leap Into the Future A Guide for Windows 11 Installation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-selection-for-computer-mice-comfortable-surface-and-dazzling-light-patterns-2024-edition/"><u>Ultimate Selection for Computer Mice - Comfortable Surface & Dazzling Light Patterns 2024 Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-guide-to-drone-visuals/"><u>[New] Comprehensive Guide to Drone Visuals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-cyclings-finest-gaming-experiences/"><u>[New] In 2024, Cycling's Finest Gaming Experiences</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-turning-hobby-into-habit-making-money-with-vlogs/"><u>[Updated] In 2024, Turning Hobby Into Habit Making Money with Vlogs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-gourmet-visuals-in-motion-food-shot-tips-and-tricks/"><u>2024 Approved Gourmet Visuals in Motion Food Shot Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-and-machine-potential-this-years-most-promising-ai-tech/"><u>Bridging Human & Machine Potential: This Year's Most Promising AI Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-directive-creation-with-these-7-online-resources/"><u>Enhance Directive Creation with These 7 Online Resources</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-blueprint-custom-chatgpt-crafting-guide/"><u>GPT Blueprint: Custom ChatGPT Crafting Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-itel-p55plus-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Itel P55+ Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-confirm-your-conversational-companions-status/"><u>How to Confirm Your Conversational Companion’s Status</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-intelligence-exploring-ai-dialogues/"><u>Interactive Intelligence: Exploring AI Dialogues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/metaverse-inspiration-enhanced-by-ar-and-vr-for-2024/"><u>Metaverse Inspiration Enhanced by AR & VR for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-video-editing-freedom-how-to-use-any-app-on-your-chromebook-updated-2023-for-2024/"><u>New Video Editing Freedom How to Use Any App on Your Chromebook (Updated 2023) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-step-in-talking-machines-ai-breakthroughs/"><u>Next Step in Talking Machines: AI Breakthroughs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-picture-search-functionality-here-are-six-possible-reasons-why/"><u>Struggling with iPhone Picture Search Functionality? Here Are Six Possible Reasons Why</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-best-chatbot-debate-pitting-gpt-against-bing-and-googles-innovations/"><u>The Best Chatbot Debate: Pitting GPT Against Bing and Google's Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-theme-through-chatgpts-novel-writing-insights/"><u>The Evolution of Theme Through ChatGPT’s Novel-Writing Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-12-gratuites-programme-zum-umwandeln-von-4k-video-auf-windows-und-mac-hochskalierung-zwischen-1080p-und-4k/"><u>Top 12 Gratuites Programme Zum Umwandeln Von 4K Video Auf Windows Und Mac - Hochskalierung Zwischen 1080P Und 4K</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-fraudgpt-proactive-steps-for-cyber-safety/"><u>Unmasking FraudGPT: Proactive Steps for Cyber Safety</u></a></li>
 </ul></div>
 

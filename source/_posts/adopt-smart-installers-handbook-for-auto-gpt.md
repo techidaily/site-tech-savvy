@@ -1,7 +1,7 @@
 ---
 title: "Adopt Smart: Installer's Handbook for Auto-GPT"
-date: 2024-09-21T18:29:19.594Z
-updated: 2024-09-28T17:31:39.053Z
+date: 2024-10-01T23:51:49.851Z
+updated: 2024-10-04T00:03:43.324Z
 tags:
   - chatgpt
   - open-ai
@@ -59,36 +59,23 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 ![Create API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-create-test-key.jpg)
 3. Now you have your API key, go to your Auto-GPT folder and open the **.env** file using Notepad.  
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the **LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This file is where all your service credentials are placed, so if you want to use a [backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/), you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
@@ -103,14 +90,22 @@ pip install -r requirements.txt
 3. Once you press enter, your terminal will download and install all the required dependencies.  
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-4.jpg)
 4. After installation, try opening Auto-GPT using:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Congratulations! You have successfully Installed Auto-GPT.
@@ -154,10 +149,10 @@ python -m autogpt
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
@@ -166,18 +161,18 @@ python -m autogpt
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To view the output, go to your Auto-GPT folder and **open auto-gpt-workspace**.
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Auto-GPT Limitations
 
@@ -218,22 +213,18 @@ python -m autogpt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-best-free-mac-apps-for-professional-tiktok-cuts/"><u>[New] 2024 Approved Best Free Mac Apps for Professional TikTok Cuts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-click-to-victory-the-best-12-pc-games-for-dedicated-players/"><u>[New] 2024 Approved Click to Victory The Best 12 PC Games for Dedicated Players</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeos-video-mosaics-inserting-chapters-for-clarity/"><u>[New] Vimeo's Video Mosaics Inserting Chapters for Clarity</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-restoring-clarity-resolving-iphones-blurry-photos-for-2024/"><u>[Updated] Restoring Clarity Resolving iPhone's Blurry Photos for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/28-days-to-becoming-an-instagram-reel-sensation-for-2024/"><u>28 Days to Becoming an Instagram Reel Sensation for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cost-free-gpt-4-exploration-four-easy-approaches/"><u>Cost-Free GPT-4 Exploration: Four Easy Approaches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-writing-with-8-smart-ai-tools-for-authors/"><u>Enhancing Writing with 8 Smart AI Tools for Authors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-digital-dialogue-5-best-chatgpt-instructions/"><u>Enhancing Your Digital Dialogue: 5 Best ChatGPT Instructions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guiding-principles-for-using-chatgpt-effectively-as-a-writer/"><u>Guiding Principles for Using ChatGPT Effectively as a Writer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>In 2024, Frame Your Vision Leading Lines for Dynamic iPhone Photos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-smartphone-ai-the-top-8-apps-revealed/"><u>Mastering Smartphone AI: The Top 8 Apps Revealed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-installation-of-intel-dynamic-and-thermal-framework-fixes-for-common-failures/"><u>Mastering the Installation of Intel Dynamic & Thermal Framework: Fixes for Common Failures</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-merge-your-videos-for-free-the-best-web-based-tools-for-2024/"><u>New Merge Your Videos for Free The Best Web-Based Tools for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premium-vs-code-add-ons-elevating-your-gpt-interaction/"><u>Premium VS Code Add-Ons: Elevating Your GPT Interaction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-efficient-artisan-scaling-creativity-using-canva-plus-chatgpt/"><u>The Efficient Artisan: Scaling Creativity Using Canva + ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-enigma-of-unmodifiable-ai-conversations/"><u>The Enigma of Unmodifiable AI Conversations</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-revolutionary-features-of-the-b550-xt-model/"><u>The Revolutionary Features of the B550-XT Model</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-skyrocket-your-subscriber-count-6-proven-ways-to-keep-audiences-coming-back/"><u>[New] 2024 Approved Skyrocket Your Subscriber Count 6 Proven Ways to Keep Audiences Coming Back</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-annual-selection-spotlight-15-must-watch-unboxing-channels-of-2024/"><u>[New] Annual Selection Spotlight 15 Must-Watch Unboxing Channels of 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-charting-financial-horizons-the-threefold-technique-for-analyzing-youtube-earning-data/"><u>[New] Charting Financial Horizons The Threefold Technique for Analyzing YouTube Earning Data</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-effective-youtube-customization-for-powerful-endings-for-2024/"><u>[Updated] Effective YouTube Customization for Powerful Endings for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp420247/"><u>「MP4ビデオを分解してご利用ください：2024新世代最高のフリーソフト7品評」</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/audio-visual-harmony-merging-films-and-recordings-in-the-digital-age/"><u>Audio-Visual Harmony Merging Films and Recordings in the Digital Age</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-omnicharge-omni-20-the-ultimate-all-in-one-wireless-and-cable-charger/"><u>In-Depth Analysis of the Omnicharge Omni 20 - The Ultimate All-in-One Wireless and Cable Charger</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iwara/"><u>Iwaraコンテンツをダウンロード保存するための詳細な手順: 最強の方法</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/juxtaposing-flight-with-flair-a-bebop-parrot-analysis-for-2024/"><u>Juxtaposing Flight with Flair – A Bebop Parrot Analysis for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/latest-enhancement-of-wonderfox-the-advanced-video-downloader-is-released/"><u>Latest Enhancement of WonderFox: The Advanced Video Downloader Is Released!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/most-effective-and-user-friendly-dvd-to-mkv-converter-software-in-202n4-for-windows/"><u>Most Effective and User-Friendly DVD to MKV Converter Software in 202N4 for Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleashing-creativity-top-30-video-plans/"><u>Unleashing Creativity Top 30 Video Plans</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-make-a-photo-collage-on-maciphone-using-iphoto/"><u>Updated In 2024, How to Make a Photo Collage on Mac/iPhone Using iPhoto?</u></a></li>
 </ul></div>
 

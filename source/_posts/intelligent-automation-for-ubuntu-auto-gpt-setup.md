@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Automation for Ubuntu: Auto-GPT Setup"
-date: 2024-09-22T18:25:20.674Z
-updated: 2024-09-28T18:25:01.999Z
+date: 2024-09-26T21:24:57.650Z
+updated: 2024-10-03T19:11:51.172Z
 tags:
   - chatgpt
   - open-ai
@@ -86,10 +86,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Insert API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/paste-api-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Replace the placeholder with your API key by pressing **Ctrl +V** and hitting **Ctrl + S** to save. You can exit the nano text editor by pressing **Ctrl + X**.
@@ -108,13 +108,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Install Auto-GPT requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-install-requirements.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, try running Auto-GPT using:
 
 `python3 -m autogpt`
@@ -122,13 +115,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT on Ubuntu
 
@@ -146,6 +132,13 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Auto-GPT manual mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-manual.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the name, goals, and role have been provided, your AI assistant will immediately activate and start looping through its thinking and execution process.
 
  Throughout the process, you can view your AI assistant's thoughts, reasoning, plan, criticism, and next action. Its next action will only be executed once you've given your approval.
@@ -161,10 +154,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Providing human feedback to Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-human-feedback.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once your AI assistant finishes its task, you can view its final output by opening the **/Auto-GPT-x.x.x/autogpt/auto\_gpt\_workspace** directory.
@@ -172,13 +165,20 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Limitations of Auto-GPT
 
@@ -213,20 +213,17 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-top-choice-microphones-for-youtube-creators/"><u>[New] 2024 Approved Top Choice Microphones for YouTube Creators</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-obs-settings-for-low-end-pc/"><u>[Updated] 2024 Approved Best OBS Settings for Low-End PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/budget-gems-premium-technology-treasures-awaiting-your-discovery/"><u>Budget Gems: Premium Technology Treasures Awaiting Your Discovery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-of-the-fugetek-ft-568-premium-quality-and-durability-in-a-top-tier-selfie-stick/"><u>Expert Analysis of the Fugetek FT-568: Premium Quality and Durability in a Top-Tier Selfie Stick</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-started-with-free-ip-lookup-track-your-devices-online-identity/"><u>Getting Started with FREE IP Lookup - Track Your Device's Online Identity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-check-windows-10-version-the-very-easy-way/"><u>How to Check Windows 10 Version, the Very Easy Way</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-connect-a-wireless-keyboard-step-by-step/"><u>How to Connect a Wireless Keyboard [Step-by-Step]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-effectively-eliminate-malware-from-your-android-device-without-performing-a-factory-reset/"><u>How to Effectively Eliminate Malware From Your Android Device without Performing a Factory Reset</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-reduce-cpu-usage-in-windows/"><u>How to Reduce CPU Usage in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-seamlessly-integrate-your-printer-with-windows-10-a-comprehensive-guide/"><u>How To Seamlessly Integrate Your Printer with Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Moto E13? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-honor-100-pro-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Honor 100 Pro.</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-guide-elevating-your-fb-video-content-game-for-2024/"><u>The Ultimate Guide Elevating Your FB Video Content Game for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-crashes-in-darkest-dungeon-s-gt-mkii-on-your-gaming-rig/"><u>Troubleshooting Persistent Crashes in Darkest Dungeon ˈs Gt MkII on Your Gaming Rig</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-instagram-a-listers-reviving-snapchats-flavor-for-2024/"><u>[New] Instagram A-Listers Reviving Snapchat's Flavor for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-hashtags-todays-must-learn-tips/"><u>[Updated] 2024 Approved Mastering #Instagram Hashtags Today's Must-Learn Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-tackling-latency-issues-for-smooth-video-conferencing-on-xbox-one/"><u>[Updated] Tackling Latency Issues for Smooth Video Conferencing on Xbox One</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-creation-assistants/"><u>AI-Driven Content Creation Assistants</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analyzing-status-bt-budget-friendly-but-needs-some-upgrades/"><u>Analyzing Status BT: Budget-Friendly but Needs Some Upgrades</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-notetaking-using-chatgpt-for-studying/"><u>Cutting-Edge Notetaking: Using ChatGPT for Studying</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-these-4-ai-driven-story-crafting-marvels/"><u>Dive Into These 4 AI-Driven Story Crafting Marvels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-enhancements-in-ios-gpt-interface/"><u>Exploring the Enhancements in iOS GPT Interface</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-gionee-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Gionee Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-link-your-ipad-with-your-television-a-step-by-step-guide/"><u>How to Link Your iPad with Your Television: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-usage-of-chatgpt-sidelining-useless-extensions/"><u>Optimal Usage of ChatGPT: Sidelining Useless Extensions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-lost-iphones-apps-methods-for-finding-and-restoring-unexpectedly-deleted-programs/"><u>Troubleshooting Lost IPhones Apps - Methods for Finding and Restoring Unexpectedly Deleted Programs</u></a></li>
 </ul></div>
 

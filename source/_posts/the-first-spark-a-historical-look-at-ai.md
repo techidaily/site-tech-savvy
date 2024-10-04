@@ -1,7 +1,7 @@
 ---
 title: "The First Spark: A Historical Look at AI"
-date: 2024-09-15T19:16:00.735Z
-updated: 2024-09-22T16:59:40.155Z
+date: 2024-09-30T00:07:55.079Z
+updated: 2024-10-03T22:25:01.515Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,19 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 
  Although the first period looking at the roots of AI covers a vast period, there are some key moments.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1900-1950: The Dawn of Modern AI
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
@@ -53,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 * **1950:** Alan Turing formally published the Turing Test. It's one of the earliest and most widely used interrogation methods for [testing the accuracy of AI systems](https://www.makeuseof.com/test-factors-ai-chatbots-accuracy/).
 
  The dawn of modern AI fitting accumulates with Alan Turing's paper and the [Turing Test, which attempts to answer the question](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/), "Can machines think?"
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1951-2000: Exploring the Applications of AI Technologies
 
@@ -68,16 +88,16 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 
  The middle period of AI development saw one of the most important moments of all: the coining of the term "artificial intelligence."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2001-2010: Integrating AI Into Modern Technologies
 
 ![The Black First Generation iPhone on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/original-iphone-first-gen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone%5FFirst%5FGeneration%5F8GB%5F%283680455198%29.jpg)
 
@@ -91,16 +111,16 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
  Interestingly, despite this period featuring some of the most iconic tech from recent decades, AI wasn't fully on the radar for most consumers, with personal and home assistant tools like Siri and Alexa only appearing in the next period.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2011-2020: The Spread and Development of AI-Driven Applications
 
 ![Camera, Smartphone, Keyboard, an Laptop on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/various-gadgets-on-table.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Companies began developing stable AI-driven solutions during this period. They integrate AI into various software and hardware systems, like virtual assistants, grammar checkers, laptops, smartphones, and [augmented reality apps](https://www.makeuseof.com/tag/best-augmented-reality-apps-android/).
 
@@ -115,13 +135,6 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 ## 2021-Present: Global Tech Leaders Kick off the Great AI Race
 
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The great AI race has begun. Developers are releasing language models, and companies are researching ways to integrate AI with their products. At this rate, almost every consumer product will have an AI component.
 
@@ -153,5 +166,18 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-essential-new-features-in-facebooks-repertoire/"><u>[Updated] 2024 Approved The Essential New Features in Facebook's Repertoire</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-journey-through-ingenious-android-collage-creations/"><u>2024 Approved Journey Through Ingenious Android Collage Creations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-supercharge-your-task-management-with-top-8-chrome-plug-ins/"><u>AI Supercharge Your Task Management with Top 8 Chrome Plug-Ins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/daily-dharma-with-technology-cultivating-zen-through-gpt/"><u>Daily Dharma with Technology: Cultivating Zen Through GPT</u></a></li>
+<li><a href="https://facebook.techidaily.com/demystifying-the-altered-connotations-on-facebook-pages/"><u>Demystifying the Altered Connotations on Facebook Pages</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-journey-to-exceptional-educational-content-creating-impactful-vids-on-youtube/"><u>In 2024, The Journey to Exceptional Educational Content Creating Impactful Vids on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-googles-breakthrough-introduction-to-palm-2-model/"><u>Inside Google's Breakthrough: Introduction to PaLM 2 Model</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-cable-modem-and-wifi-router-combinations-for-ultimate-speed/"><u>Leading Cable Modem & WiFi Router Combinations for Ultimate Speed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-8-best-crypto-chatgpt-plugins/"><u>The 8 Best Crypto ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-innovation-made-simple-with-chatgpt-integration/"><u>Web Innovation Made Simple with ChatGPT Integration</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-ace-2-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Ace 2 Pro Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

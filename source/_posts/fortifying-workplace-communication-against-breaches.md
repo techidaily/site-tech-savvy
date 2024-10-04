@@ -1,7 +1,7 @@
 ---
 title: Fortifying Workplace Communication Against Breaches
-date: 2024-09-21T16:08:27.785Z
-updated: 2024-09-22T16:27:48.081Z
+date: 2024-09-27T00:02:12.820Z
+updated: 2024-10-03T22:45:04.920Z
 tags:
   - chatgpt
   - open-ai
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
 
  Tip: If you need access to your data on ChatGPT, export them first. You can also save them by taking screenshots, writing notes manually, copy-pasting them into a separate application, or using secure cloud storage.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Delete Conversations
 
  One of the [big problems with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is potential data breaches. The ChatGPT outage that prompted an investigation by the Federal Trade Commission shows just how risky it is to use the app.
@@ -59,7 +66,21 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
 
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
 
@@ -70,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
  The massive ChatGPT data leak from June 2022 to May 2023 illustrates how important this point is. [Search Engine Journal](https://www.searchenginejournal.com/massive-leak-of-chatgpt-credentials-over-100000-accounts-affected/489801/#close) reports that over 100,000 ChatGPT account credentials were compromised and sold on dark web marketplaces because of the incident.
 
  Limit interactions with ChatGPT to non-confidential queries and avoid sharing proprietary details. Moreover, apply good password hygiene and enable two-factor authentication to prevent compromising your account.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Use Data Anonymization Techniques
 
@@ -85,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
 
  Anonymization is not foolproof since data can be de-anonymized. Understand [de-anonymization and how to prevent it](https://www.makeuseof.com/what-is-de-anonymization/) before utilizing any of these techniques. Evaluate the risks before you release anonymized data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Limit Access to Sensitive Data
 
  Limiting access to sensitive work data is crucial when workers are allowed to use ChatGPT. If you’re working in a leadership role, restrict access to sensitive information to authorized personnel who require it for their specific roles.
@@ -103,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
 [Whether third-party ChatGPT apps and browser extensions are safe](https://www.makeuseof.com/third-party-chatgpt-apps-browser-extensions-safe/) is an important question to ask. Before using any of these apps for work, carefully vet and scrutinize them. Make sure that they’re not collecting and retaining information for questionable purposes.
 
  Don’t install shady apps that ask for random permissions on your phone. Verify their data handling practices to check if they align with your organization’s privacy standards.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly for Work
 
@@ -132,5 +146,16 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-perfecting-projects-a-deep-dive-into-youtube-studio-editor/"><u>[New] 2024 Approved Perfecting Projects A Deep Dive Into YouTube Studio Editor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-switching-from-webp-to-jpg-format/"><u>[Updated] Expert Insights Switching From WebP to JPG Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-love-the-modern-hackers-playbook/"><u>Artificial Love: The Modern Hacker's Playbook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-cam-clash-sj6-legend-versus-yi-4k-visionary/"><u>In 2024, Cam Clash SJ6 Legend Versus Yi 4K Visionary</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-lite-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Lite 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-into-predictive-ai-written-in-code/"><u>Insights Into Predictive AI' Written in Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-artificial-intelligence-tools-simplifying-notes-capture/"><u>Leading Artificial Intelligence Tools Simplifying Notes Capture</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-determining-weekdays-from-dates-using-microsoft-excel/"><u>Step-by-Step Guide: Determining Weekdays From Dates Using Microsoft Excel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unearthed-secret-chat-with-chatgpt-easily/"><u>Unearthed Secret: Chat With ChatGPT Easily</u></a></li>
+</ul></div>
 

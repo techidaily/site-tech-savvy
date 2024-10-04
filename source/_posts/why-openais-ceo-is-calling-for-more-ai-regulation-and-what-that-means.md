@@ -1,7 +1,7 @@
 ---
 title: Why OpenAI's CEO Is Calling for More AI Regulation (and What That Means)
-date: 2024-09-27T16:58:29.811Z
-updated: 2024-09-28T17:45:27.114Z
+date: 2024-09-29T00:46:57.515Z
+updated: 2024-10-03T21:07:47.274Z
 tags:
   - chatgpt
   - open-ai
@@ -47,16 +47,10 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  So, it's evident that industry professionals and lawmakers are concerned about AI and its future impact. But what effect will further regulation have on the AI industry? Will it be a good or bad thing?
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Will More Regulation Benefit the AI Industry?
@@ -72,10 +66,16 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Some also feel that it's far too soon to be talking about AI regulation, though the presence of AI in so many industries today would seem to contradict that view.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is AI Regulation Good News for OpenAI?
@@ -83,10 +83,10 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 ![openai logo on smartphone place on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-ai-phone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sam Altman's call for more AI regulation has raised questions about whether such constraints will actually benefit OpenAI.
@@ -98,10 +98,16 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  It isn't surprising that Altman has something of a bias here, as ChatGPT is the brainchild of the company he runs. But further regulation could lead to larger, pre-established AI companies having an advantage over smaller organizations, especially if licenses, permits, and long testing periods are made a legal requirement (as this could incur more costs and require more personnel).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Regulation Is a Point of Contention
@@ -125,22 +131,21 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-screen-recording-on-macos-ahead-with-bandicam-or-camtasia/"><u>[Updated] 2024 Approved Screen Recording on MacOS Ahead with Bandicam or Camtasia?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-efficiently-record-your-periscope-experience-now/"><u>[Updated] Efficiently Record Your Periscope Experience Now</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-prime-content-top-8-facebook-tools-in-23-for-2024/"><u>[Updated] Unlocking Prime Content Top 8 Facebook Tools in '23 for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-editing-made-easy-shortening-video-lengths/"><u>2024 Approved YouTube Editing Made Easy Shortening Video Lengths</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancements-and-patch-update-bring-zombie-army-4-dead-war-to-smooth-performance-on-pc/"><u>Enhancements and Patch Update Bring 'Zombie Army 4: Dead War' To Smooth Performance on PC</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-google-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Google Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quiet-to-quiet-roar-addressing-and-correcting-ps4-sound-malfunctions/"><u>Quiet to Quiet Roar: Addressing and Correcting PS4 Sound Malfunctions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revitalize-your-pc-with-our-expert-tips-for-a-quick-windows-11-reset-including-4-key-actions/"><u>Revitalize Your PC with Our Expert Tips for a Quick Windows 11 Reset (Including 4 Key Actions)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safe-mode-mastery-for-windows-10-four-proven-approaches-illustrated-with-images/"><u>Safe Mode Mastery for Windows 10 - Four Proven Approaches Illustrated with Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-guide-how-to-set-up-your-wireless-printer-with-ease/"><u>Simple Guide: How to Set Up Your Wireless Printer with Ease</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphones-qr-scanner-problems-a-step-by-step-guide-to-getting-it-working-again/"><u>Solving iPhone's QR Scanner Problems: A Step-by-Step Guide to Getting It Working Again</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speeding-through-the-login-screen-optimizing-windows-11-boot-speed/"><u>Speeding Through the Login Screen: Optimizing Windows 11 Boot Speed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-removing-the-windowsold-folder-on-windows-11-solved/"><u>Step-by-Step Guide: Removing the 'Windows.old' Folder on Windows 11 - Solved</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-troubleshooting-and-fixing-issues-in-windows-11-and-10/"><u>Step-by-Step Guide: Troubleshooting and Fixing Issues in Windows 11 & 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-common-issues-when-linking-up-with-logitech-keyboards/"><u>Troubleshooting Common Issues When Linking Up with Logitech Keyboards</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-compress-videos-for-free-10-best-online-tools-with-no-downloads/"><u>Updated Compress Videos for Free 10 Best Online Tools with No Downloads</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-navigating-online-public-opinion-for-video-content-concepts/"><u>[New] 2024 Approved Navigating Online Public Opinion for Video Content Concepts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-imagination-to-illustration-ranking-the-best-8-iphone-drawing-software/"><u>[New] From Imagination to Illustration Ranking the Best 8 iPhone Drawing Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[Updated] 2024 Approved Bite-Sized URLs Essential Tools for Youtubers to Streamline Sharing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-evolution-premium-plan-with-chatgpt-at-20-limited-to-us/"><u>ChatBot Evolution: Premium Plan with ChatGPT at $20, Limited to US</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-realtek-rtl8188ee-wireless-network-adapter-drivers-windows-compatible/"><u>Download RealTek RTL8188EE Wireless Network Adapter Drivers (Windows Compatible)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/expert-strategies-for-high-quality-gopro-4k-footage-editing/"><u>Expert Strategies for High-Quality GoPro 4K Footage Editing</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205070612-hp-laptop-key-issues-fixed-simple-solutions-in-minutes/"><u>HP Laptop Key Issues Fixed - Simple Solutions in Minutes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/kunt-u-webm-videos-gratis-omzetten-naar-wav-format-met-moveaveenl-online/"><u>Kunt U WEBM-Video's Gratis Omzetten Naar WAV-Format Met Moveavee.nl - Online!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-rides-guide-to-requesting-gpt-for-auto-customization/"><u>Optimizing Rides: Guide to Requesting GPT for Auto Customization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proven-strategies-for-effective-gpt-3-application-at-openai/"><u>Proven Strategies for Effective GPT-3 Application at OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-site-design-with-chatgpts-methodology/"><u>Revolutionize Your Site Design with ChatGPT’s Methodology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speed-up-your-workflow-prime-10-ai-tools-for-pdfs/"><u>Speed Up Your Workflow: Prime 10 AI Tools for PDFs</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/the-role-of-stored-data-in-your-android-devices-performance-and-security-insights-from-malwarefox/"><u>The Role of Stored Data in Your Android Device's Performance & Security Insights From MalwareFox</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-silent-guardians-of-online-communication-ai-restrictions-and-you/"><u>The Silent Guardians of Online Communication: AI Restrictions & You</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-spark-20-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Spark 20 Pro without backup.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-tools-amplifying-chatgpt-and-vs-code-functionality/"><u>Top 6 Tools: Amplifying ChatGPT and VS Code Functionality</u></a></li>
 </ul></div>
 

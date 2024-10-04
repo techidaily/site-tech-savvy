@@ -1,7 +1,7 @@
 ---
 title: "Exploring CodeGPT: An AI Writing Code?"
-date: 2024-09-22T17:19:03.327Z
-updated: 2024-09-28T16:36:51.880Z
+date: 2024-09-28T16:08:41.398Z
+updated: 2024-10-03T21:27:25.021Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 * [Can CodeGPT Really Write Code?](https://sentrypc.7eer.net/dkpkgn)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is CodeGPT?
@@ -61,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  While there are several [code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/), macOS, and Windows, CodeGPT is only available in two. Today, you can either [install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Does CodeGPT Cost?
@@ -82,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can [access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/), you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can CodeGPT Really Write Code?
@@ -187,20 +181,20 @@ with open('output.csv', 'w', newline='') as output_file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-video-call-capturing-on-devices/"><u>[Updated] In 2024, The Ultimate Guide to Video Call Capturing on Devices</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-leading-discord-automated-friends-for-2024/"><u>[Updated] Leading Discord Automated Friends for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-magic-6-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor Magic 6</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bosses-educators-assessing-gpt-with-4-digital-lenses/"><u>Bosses, Educators - Assessing GPT with 4 Digital Lenses</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-11-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus 11 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-write-better-social-media-posts/"><u>How to Use ChatGPT to Write Better Social Media Posts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 5G Phone without PIN</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/incorporating-chatgpt-into-your-writing-routine-successfully/"><u>Incorporating ChatGPT Into Your Writing Routine Successfully</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagrams-finest-frames-iphone-plus-android-edition-for-2024/"><u>Instagram's Finest Frames IPhone + Android Edition for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalized-ai-how-it-diverges-from-general-and-restricted-applications/"><u>Personalized AI: How It Diverges From General and Restricted Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proven-ai-secrets-to-accelerate-success/"><u>Proven AI Secrets to Accelerate Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/silicon-based-silliness-does-ai-craft-chuckles/"><u>Silicon-Based Silliness: Does AI Craft Chuckles?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-rich-characters-with-these-11-pioneering-gpt-techniques/"><u>Unlock Rich Characters with These 11 Pioneering GPT Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/would-chatgpt-be-able-to-assist-in-designing-fitness-regimens-that-are-both-secure-and-efficient-for-individuals-like-you/"><u>Would ChatGPT Be Able to Assist in Designing Fitness Regimens that Are Both Secure and Efficient For Individuals Like You?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-capturing-your-lenovo-display-with-ease/"><u>[New] In 2024, Capturing Your Lenovo Display with Ease</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-secure-and-swift-transfer-of-photos-from-iphoneandroid-to-snapchat/"><u>[Updated] In 2024, How-To Secure and Swift Transfer of Photos From iPhone/Android to Snapchat</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-revealing-gone-reddit-content-a-time-savers-guide/"><u>2024 Approved Revealing Gone-Reddit Content A Time Saver's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/aspire-to-win-11s-trials-joining-the-insider-brigade/"><u>Aspire to Win 11'S Trials: Joining the Insider Brigade</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-sony-xperia-10-v-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Sony Xperia 10 V Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-tools-for-pros-masterful-4k-video-production-software-rankings/"><u>Premium Tools for Pros: Masterful 4K Video Production Software Rankings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-personal-videos-on-youtube-a-step-by-step-guide-to-making-them-private/"><u>Protecting Personal Videos on YouTube: A Step-by-Step Guide to Making Them Private</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-avi-manipulation-techniques-top-programs-for-trimming-rotating-and-combining-videos/"><u>Quick and Simple AVI Manipulation Techniques – Top Programs for Trimming, Rotating & Combining Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-mastering-the-art-of-recording-fortnite-sessions-on-your-nintendo-switch/"><u>Quick Guide: Mastering the Art of Recording Fortnite Sessions on Your Nintendo Switch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-transforming-dat-files-into-mpeg-using-windows-software/"><u>Quick Guide: Transforming DAT Files Into MPEG Using Windows Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-setting-up-aliunde-plus-plugin-with-matrix-support-on-your-kodi-device/"><u>Step-by-Step Guide to Setting Up Aliunde Plus Plugin with Matrix Support on Your Kodi Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-your-wavpack-tracks-into-high-quality-flac-format/"><u>Step-by-Step Guide: Converting Your WavPack Tracks Into High-Quality FLAC Format</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-monetary-reality-of-being-a-podcaster/"><u>The Monetary Reality of Being a Podcaster</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-storage-type-ssd-vs-hdd/"><u>Unveiling Storage Type: SSD vs HDD</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Artificinas Intelligentes: 5 Momentos en El Lado Del Ciberdelincuencia"
-date: 2024-09-25T18:44:50.901Z
-updated: 2024-09-28T16:55:00.302Z
+date: 2024-10-02T16:54:51.204Z
+updated: 2024-10-03T17:23:33.934Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
  ChatGPT (or at least its latest version) can only write basic, and sometimes buggy, malware programs, rather than sophisticated code that poses severe threats. However, this isn't to say that AI cannot be used to write malware. Given that a current AI chatbot can create basic malicious programs, it may not be long before we see more heinous malware originate from AI systems.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Cracking Passwords
 
  Passwords often stand as the one line of data protecting our accounts and devices. So, unsurprisingly, many cybercriminals try to crack passwords in order to gain access to our private data.
@@ -59,10 +66,10 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  In this sense, AI could also help in making malicious communications look more professional and official by ironing out spelling and grammar mistakes. Such errors are often said to be possible signs of malicious activity, so it may help cybercriminals if they can write their social engineering content more cleanly and effectively.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Finding Software Vulnerabilities
@@ -74,21 +81,14 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  However, this AI application could also be helpful for cybersecurity vendors, as it could [aid in finding vulnerabilities](https://www.makeuseof.com/top-vulnerability-scanning-tools/) before they are exploited. Being able to patch a flaw quickly can cut off malicious actors' ability to exploit it, mitigating attacks overall.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Analyzing Stolen Data
 ![Data on Laptop Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/data-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Data is as valuable as gold. Today, [sensitive data is sold on dark web marketplaces](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) on a constant basis, with some malicious actors willing to pay a very high price if the information is useful enough.
 
@@ -97,10 +97,10 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  Using AI, the process of highlighting valuable information could be streamlined, cutting down the time it takes for a malicious actor to determine what is worth selling, or, on the other hand, directly exploiting by their own hand. Artificial intelligence, at its core, is all about learning, so it could one day become easy to use an AI-powered tool to pick up on valuable sensitive data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Is Promising but Also Poses Many Threats
@@ -124,20 +124,22 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/breathing-life-into-hidden-chatgpt-talks/"><u>Breathing Life Into Hidden ChatGPT Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-visual-feats-7-innovative-uses-for-vision-ai/"><u>ChatGPT Visual Feats: 7 Innovative Uses for Vision AI</u></a></li>
-<li><a href="https://games-able.techidaily.com/classiccompress-mini-portable-classics-reimagined/"><u>ClassicCompress Mini: Portable Classics Reimagined</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/communicative-capability-giving-prompts-meaningful-responses/"><u>Communicative Capability: Giving Prompts Meaningful Responses</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-mapmyrides-features-and-performance/"><u>Expert Analysis on MapMyRide's Features and Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harness-the-synergy-of-canva-and-ai-for-content-production/"><u>Harness the Synergy of Canva and AI for Content Production</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-poco-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Poco Phone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-x6-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco X6 Pro in Minutes | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-share-a-steam-gift-card-via-digital-means-best-practices-explained/"><u>How to Share a Steam Gift Card via Digital Means – Best Practices Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-compromising-your-privacy/"><u>Is ChatGPT Compromising Your Privacy?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723000277890-naraka-point-blank-unravelled-glitches-and-fixes/"><u>Naraka: Point Blank - Unravelled Glitches and Fixes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-xr-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spearhead-your-proposals-with-intelligent-chatgpt-tech/"><u>Spearhead Your Proposals with Intelligent ChatGPT Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speech-activated-elegance-mercedes-next-tech-leap/"><u>Speech-Activated Elegance: Mercedes' Next Tech Leap</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformation-de-fichiers-png-vers-jpg-sans-frais-service-en-ligne-rapide-avec-movavi/"><u>Transformation De Fichiers PNG Vers JPG Sans Frais - Service en Ligne Rapide Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-ultimate-tutorial-adjusting-audio-levels-with-ease-using-vlcs-equalizer/"><u>1. Ultimate Tutorial: Adjusting Audio Levels with Ease Using VLC's Equalizer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030304182-mp4/"><u>動画ファイルMP4におけるプロパティ設定と修正手順解説</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028362684-ts/"><u>高度なテクニックで「TSファイル」から明瞭に分離された音声解析: 第一・第二方法解説</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030387971-fc2/"><u>FC2ビデオダウンロード失敗原因とその時点での対策手順を学ぶ</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722988481739-fixing-the-deadlock-how-to-overcome-cyberpunk-2077-error-2024/"><u>Fixing the Deadlock: How to Overcome Cyberpunk 2077 Error 2024!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-itel-p55-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Itel P55 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-crafting-sequences-a-movie-maker-approach-to-animation/"><u>In 2024, Crafting Sequences A Movie Maker Approach to Animation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-honor-magic-vs-2-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Honor Magic Vs 2 Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027605305-mkv/"><u>MKVファイルを携帯電話画面に表示する方法とトラブルシューティング</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-modern-professionals-must-have-collect-these-8-innovations-now/"><u>The Modern Professional's Must-Have Collect These 8 Innovations Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-hidden-potential-essential-edits-for-starters-for-2024/"><u>Unlock Hidden Potential Essential Edits for Starters for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-quintet-of-reasons-why-companies-prohibit-chatgpt-usage/"><u>Unveiling the Quintet of Reasons Why Companies Prohibit ChatGPT Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030542351-webm/"><u>WebMビデオファイルをスムーズに再生する方法 - 問題解決ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028495556-youtube/"><u>YouTube画面の拡張 - ビデオ画像サイズを効果的に増やすテクニック</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027237111-youtube/"><u>YouTubeビデオの向き変更に必要な簡単ガイド - どのようにすれば実現できますか？</u></a></li>
 </ul></div>
 

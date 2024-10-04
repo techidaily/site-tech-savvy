@@ -1,7 +1,7 @@
 ---
 title: "Demystifying AI: The Good & Possible Dangers"
-date: 2024-09-21T18:05:27.836Z
-updated: 2024-09-28T17:50:02.367Z
+date: 2024-09-27T00:22:44.712Z
+updated: 2024-10-03T23:10:27.027Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
  The AI we use today, ANI (aka weak AI), is mainly about pattern recognition and making programmed inferences. In the same way we humans use our senses to navigate the world around us and act accordingly, AI uses the data we give it to do all sorts of things.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Examples of AI
@@ -58,16 +58,10 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
  We made AI for the same reason we make any technology: to reduce suffering and increase pleasure. Today, AI helps us translate languages, [avoid traffic jams](https://www.makeuseof.com/tag/how-google-predicts-traffic/), prevent fraud, manage inventory, [automate household chores](https://www.makeuseof.com/tech-ease-overwhelming-feeling-everyday-tasks-chores/), create diet plans, trade stocks, create content, [make artwork](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/), study analytics, and more.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are the Risks and Dangers of Using AI?
@@ -83,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
  Furthermore, AI tools are now used to impersonate celebrities, politicians, and public figures via [deepfake technology](https://www.makeuseof.com/tag/what-are-deepfakes-explained/) and voice cloning. This is extremely dangerous for obvious reasons. Unfortunately, as the tech improves, it'll become more difficult to tell what's real and what's fake.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Should Be a Tool, Not a Weapon
@@ -116,17 +110,24 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-complete-blueprint-for-effortless-recording-of-live-hulu-on-various-systems/"><u>[New] A Complete Blueprint for Effortless Recording of Live Hulu on Various Systems</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-download-unlimited-mcb-visual-elements/"><u>[New] Download Unlimited MCB Visual Elements</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-digital-dissection-the-vll-review-process/"><u>[Updated] In 2024, Digital Dissection The VLL Review Process</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-innovating-image-vision-mastering-hdr-in-photoshop/"><u>2024 Approved Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adapting-web-presence-the-future-of-ai-search-engines/"><u>Adapting Web Presence: The Future of AI Search Engines</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/genre-grasped-and-mastered-with-gpts-nine-innovative-techniques/"><u>Genre Grasped and Mastered with GPT’s Nine Innovative Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-3-for-top-tier-exercenticism/"><u>Leveraging GPT-3 for Top-Tier Exercenticism</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-to-best-pure-text-or-integrated-chatgpt/"><u>Navigate to Best: Pure Text or Integrated ChatGPT?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/solving-obs-studio-latency-problems-updated-tips-and-tricks/"><u>Solving Obs Studio Latency Problems: Updated Tips & Tricks</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/mlining-creation-top-10-easy-to-create-biz-channels-on-youtube-for-2024/"><u>Streamlining Creation Top 10 Easy-to-Create Biz Channels on YouTube for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-scribe-of-the-digital-age-harnessing-ai-in-gaming-narratives/"><u>The Scribe of the Digital Age: Harnessing AI in Gaming Narratives</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-audiophiles-advice-eliminating-sounds-from-iphone-visual-captures/"><u>Updated In 2024, Audiophiles Advice Eliminating Sounds From iPhone Visual Captures</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-essential-top-7-floodproof-video-cameras-guide-for-2024/"><u>[New] Essential Top 7 Floodproof Video Cameras Guide for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-optimizing-your-virtual-gaming-experience-with-kinemaster-and-its-competitors/"><u>[New] In 2024, Optimizing Your Virtual Gaming Experience with KineMaster & Its Competitors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hriving-despite-cyberbullying-and-scathing-feedback-for-2024/"><u>[New] Thriving Despite Cyberbullying and Scathing Feedback for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hat-makes-a-youtube-short-go-viral-for-2024/"><u>[New] What Makes a YouTube Short Go Viral for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-ultimate-checklist-to-add-audio-to-your-facebook-vids/"><u>[Updated] 2024 Approved The Ultimate Checklist to Add Audio to Your Facebook Vids</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-creative-windows-tools-for-video-editing-for-2024/"><u>[Updated] Creative Windows Tools for Video Editing for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-the-music-merger-for-captivating-social-media-vids-for-2024/"><u>[Updated] Mastering the Music Merger for Captivating Social Media Vids for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-professional-photography-with-canons-complimentary-luts/"><u>[Updated] Professional Photography with Canon's Complimentary LUTs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-acquiring-elite-instagram-soundtracks-and-building-perfect-alarms/"><u>A Step-by-Step Guide to Acquiring Elite Instagram Soundtracks and Building Perfect Alarms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-the-visuals-top-tips-for-dynamic-and-appealing-live-videos/"><u>In 2024, Master the Visuals Top Tips for Dynamic and Appealing Live Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mark-your-calendars-for-march-the-second-gen-ipad-revolution-with-enhanced-features-is-set-to-hit-shelves-soon/"><u>Mark Your Calendars for March: The Second-Gen iPad Revolution with Enhanced Features Is Set to Hit Shelves Soon!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-format-transformation-techniques-for-changing-videoaudio-types/"><u>Mastering Format Transformation: Techniques for Changing Video/Audio Types</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4xbox-360/"><u>MP4再生秘技※Xbox 360版 - トラブル解決のコツを学んでみて!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4-ts-how-to/"><u>MP4への高品質変換: TSファイルから最良級で保存 - How To</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pcvtr/"><u>PC上VTR解像度調整テクニック：上げ下げ方法ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-sound-outputs-in-windows-11/"><u>Step-by-Step Guide: Capturing Sound Outputs in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-breaking-down-massive-video-content-into-bite-sized-pieces/"><u>Step-by-Step Tutorial on Breaking Down Massive Video Content Into Bite-Sized Pieces</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-dvd-to-mp4-transformation-ensuring-flawless-streaming-across-all-gadgets/"><u>Step-by-Step Tutorial: DVD to MP4 Transformation Ensuring Flawless Streaming Across All Gadgets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-convert-your-3gp-files-into-high-quality-mp4-with-these-top-apps/"><u>The Ultimate Guide: Convert Your 3GP Files Into High-Quality MP4 with These Top Apps</u></a></li>
 </ul></div>
 

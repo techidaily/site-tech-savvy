@@ -1,7 +1,7 @@
 ---
 title: Keep It Private? Here’s Leaving ChatGPT
-date: 2024-09-16T16:23:10.470Z
-updated: 2024-09-22T17:02:30.419Z
+date: 2024-09-28T16:33:19.063Z
+updated: 2024-10-03T19:35:06.338Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/2813317b01db0f7c4ae52564fdce492f88f001632
 * [How to Opt-Out of ChatGPT's Chat History and Training Feature](https://tokenmetrics.sjv.io/jrkzxp)
 * [ChatGPT Data Collection You Can't Opt Out From](https://printrendy.pxf.io/xyboy5)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can opt out of ChatGPT's use of your chat data for training, ensuring your conversations remain private.
@@ -39,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/2813317b01db0f7c4ae52564fdce492f88f001632
  While ChatGPT is a fantastic AI tool, certain privacy concerns have surrounded it since its November 2022 launch. One such concern is OpenAI's use of user chat data to further train its LLMs.
 
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is ChatGPT's Chat History and Training Feature?
 
@@ -60,22 +74,15 @@ thumbnail: https://thmb.techidaily.com/2813317b01db0f7c4ae52564fdce492f88f001632
 
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  First, click on your profile name at the bottom-left of the main page and head to **Settings & Beta**.
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In your settings, click on the **Data controls** option. Now, you'll see a setting named **Chat history & training**. This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
@@ -83,6 +90,19 @@ thumbnail: https://thmb.techidaily.com/2813317b01db0f7c4ae52564fdce492f88f001632
  ChatGPT lets you turn the feature back on by clicking the **Enable chat history** option that appears over your history list, but this will re-enable both your chat history and the chat data collection for training.
 
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
@@ -113,5 +133,23 @@ thumbnail: https://thmb.techidaily.com/2813317b01db0f7c4ae52564fdce492f88f001632
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-visual-wonders-home-made-effects-demystified/"><u>[New] 2024 Approved Crafting Visual Wonders Home-Made Effects Demystified</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-evaluating-brightness-in-hdr-quality-assessment-complete-in-2024/"><u>[New] Evaluating Brightness in HDR Quality Assessment Complete, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-concluding-your-digital-identity-on-instagram/"><u>[Updated] In 2024, Concluding Your Digital Identity on Instagram</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-pro-choice-top-picks-of-10-premium-vimeo-video-download-tools/"><u>[Updated] In 2024, Pro Choice Top Picks of 10 Premium Vimeo Video Download Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-triumph-comparing-the-supremacy-of-gemini-and-plus-chatgpt/"><u>AI Triumph: Comparing the Supremacy of Gemini and Plus-ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-at-your-service-6-innovations-revolutionizing-smartwatch-tech/"><u>ChatGPT at Your Service: 6 Innovations Revolutionizing Smartwatch Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/confronting-ai-titans-advanced-gemini-vs-plush-gpt/"><u>Confronting AI Titans: Advanced Gemini Vs. Plush GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-emotive-verses-with-chatgpts-support/"><u>Crafting Emotive Verses with ChatGPT's Support</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-issues-with-a-defective-corsair-keyboard/"><u>Diagnosing & Resolving Issues with a Defective Corsair Keyboard</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/grab-hevc-codec-for-free-on-windows/"><u>Grab Hevc Codec for Free on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-of-conversation-gpt-3s-top-updates-unveiled/"><u>New Era of Conversation: GPT-3’s Top Updates Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-of-professional-spaces-and-their-impact-on-productivity-for-2024/"><u>The Future of Professional Spaces and Their Impact on Productivity for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quintessential-ai-enhanced-presentation-gear/"><u>The Quintessential AI-Enhanced Presentation Gear</u></a></li>
+<li><a href="https://games-able.techidaily.com/transient-online-realms-of-play-significant-or-not/"><u>Transient Online Realms of Play – Significant or Not?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trio-techniques-exploiting-the-combined-potential-of-chatgpt-and-wolframalpha/"><u>Trio Techniques: Exploiting the Combined Potential of ChatGPT & WolframAlpha</u></a></li>
+</ul></div>
 

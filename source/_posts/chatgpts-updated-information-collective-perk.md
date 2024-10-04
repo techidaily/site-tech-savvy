@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Updated Information: Collective Perk"
-date: 2024-09-17T16:07:01.051Z
-updated: 2024-09-22T18:47:52.573Z
+date: 2024-09-27T18:33:09.102Z
+updated: 2024-10-03T18:45:57.689Z
 tags:
   - chatgpt
   - open-ai
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![ChatGPT displaying up-to-date information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-displaying-up-to-date-information.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first impact of the return of internet access to ChatGPT is improved answers. ChatGPT will be able to provide more comprehensive and accurate replies. Right now, neither the GPT-3.5 nor GPT-4 models know anything about events or topics that happened after January 2022\. This lack of knowledge makes ChatGPT unable to answer some questions or make assumptions that result in wrong replies.
 
  When we tried conversations involving rapidly changing statistics or figures, the importance of internet access was crystal clear. While ChatGPT without browsing gave answers with wrong figures, ChatGPT with browsing returned more accurate statistics on topics like world population and smartphone sales statistics.
@@ -80,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
  We then asked ChatGPT's GPT-4 model with browsing turned on, and it got it right.
 
 ![ChatGPT with browsing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-with-browsing.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  But it's not all rosy. Internet access will also come with some drawbacks. It increases the risk of spreading misinformation if ChatGPT relies on websites with inaccurate, biased, or false information. The data sources used to train ChatGPT are sanitized to a considerable degree. This reduces the risk of the chatbot spreading misinformation and propaganda. However, with the unfettered access, we should probably expect more conversations about ChatGPT amplifying fake news and other types of misinformation in the future.
 
@@ -176,25 +190,11 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![Default ChatGPT GPT-4 model version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-chatgpt-gpt-4-model-version.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One of the major selling points of AI chatbots like Bard and Bing AI is that they can access the internet to retrieve up-to-date information. ChatGPT, on the other hand, couldn't do that. That changed briefly after OpenAI rolled out browsing capabilities in May 2022, but the feature was subsequently taken offline because of abuse. One such abuse saw ChatGPT users use the browsing feature to bypass paywalls on websites to access news articles for free.
 
  After that, ChatGPT reverted to its original design without internet access. The chatbot instead depended on third-party plugins to pull information from the web. Now, [OpenAI has announced](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) it is rolling out "Browse with Bing," a feature that uses the Bing Search Engine API to provide ChatGPT the much-needed ability to access up-to-date information. To avoid some of the mistakes that plagued the previous roll-out of the feature, OpenAI has placed significant restrictions on sites that ChatGPT's browsing feature can access. [Websites that have placed restrictions on ChatGPT's GPTBot](https://www.makeuseof.com/what-is-gptbot-and-why-are-websites-blocking-it/) are exempted from being featured in ChatGPT's synthesized responses.
 
  But how can you enable the feature in ChatGPT? How will the return of internet access impact ChatGPT users? Let's find out.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable Browsing on ChatGPT
 
@@ -206,14 +206,15 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 3. Click on **Settings & Beta.**  
 ![Accessing Settings to turn on web browsing on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/accessing-settings-to-turn-on-web-browsing-on-chatgpt.jpg)
 4. Click **Beta features** and toggle on the switch next to **Browse with Bing**.  
-![Beta features tab on ChatGPT settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/beta-features-tab-on-chatgpt-settings-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Beta features tab on ChatGPT settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/beta-features-tab-on-chatgpt-settings-menu.jpg)
 
  Then, to use the ChatGPT browsing feature:
 
@@ -221,6 +222,13 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 2. Hover above the GPT-4 model.
 3. Select **Browse with Bing** from the drop-down menu.  
 ![Browse with Bing option on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-with-bing-option-on-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT will automatically invoke the browsing feature to pull up-to-date information whenever it sees the need to. You can optionally tell the chatbot to start browsing a particular topic or question whenever you want recent information on a topic.
 
@@ -291,11 +299,25 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 3. Select **Browse with Bing** from the drop-down menu.  
 ![Browse with Bing option on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-with-bing-option-on-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT will automatically invoke the browsing feature to pull up-to-date information whenever it sees the need to. You can optionally tell the chatbot to start browsing a particular topic or question whenever you want recent information on a topic.
 
 ## What ChatGPT Internet Access Means for ChatGPT Users
 
 ![ChatGPT displaying up-to-date information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-displaying-up-to-date-information.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The first impact of the return of internet access to ChatGPT is improved answers. ChatGPT will be able to provide more comprehensive and accurate replies. Right now, neither the GPT-3.5 nor GPT-4 models know anything about events or topics that happened after January 2022\. This lack of knowledge makes ChatGPT unable to answer some questions or make assumptions that result in wrong replies.
 
@@ -306,22 +328,15 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 ![ChatGPT without browsing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-without-browsing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We then asked ChatGPT's GPT-4 model with browsing turned on, and it got it right.
 
 ![ChatGPT with browsing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-with-browsing.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  But it's not all rosy. Internet access will also come with some drawbacks. It increases the risk of spreading misinformation if ChatGPT relies on websites with inaccurate, biased, or false information. The data sources used to train ChatGPT are sanitized to a considerable degree. This reduces the risk of the chatbot spreading misinformation and propaganda. However, with the unfettered access, we should probably expect more conversations about ChatGPT amplifying fake news and other types of misinformation in the future.
 
@@ -330,6 +345,13 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 ![chatgpt refusing to access websites due to robots script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/chatgpt-refusing-to-access-websites-due-to-robots-script.jpg)
 
  Of course, search engines like Google and Bing will also potentially lose revenue from the ads on their search results pages. But the likes of Google and Bing are too big to feel this sort of pinch, at least for now. The impact will be felt more by small websites where ad revenue is a major source of income.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT's Browsing Feature Is a Double-Edged Sword
 
@@ -350,5 +372,18 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-professional-guide-to-youtube-screen-capturing/"><u>[New] 2024 Approved Professional Guide to YouTube Screen Capturing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beginners-guide-to-best-entry-level-cams-2024/"><u>[New] Beginner's Guide to Best Entry-Level Cams 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-content-distribution-a-close-look-at-igtv-and-youtube/"><u>[Updated] Navigating Content Distribution A Close Look at IGTV and YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-innovations-countering-rising-security-concerns/"><u>AI Innovations: Countering Rising Security Concerns</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhance-your-iphones-photography-top-rated-film-and-shot-accessories/"><u>Enhance Your iPhone's Photography Top-Rated Film & Shot Accessories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-curtailing-chatgpts-conversation-logging/"><u>Expert Advice: Curtailing ChatGPT's Conversation Logging</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-lava-blaze-pro-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Lava Blaze Pro 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/maximize-your-online-presence-10-best-free-video-hosting-sites/"><u>Maximize Your Online Presence 10 Best Free Video Hosting Sites</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-rtx-game-performance-drops/"><u>Overcoming RTX Game Performance Drops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-the-new-champion-why-claude-outdoes-gpt-part-14/"><u>The Rise of the New Champion: Why Claude Outdoes GPT, Part 1/4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-the-future-of-conversational-ai/"><u>Unleashing Potential: The Future of Conversational AI</u></a></li>
+</ul></div>
 

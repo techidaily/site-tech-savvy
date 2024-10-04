@@ -1,7 +1,7 @@
 ---
 title: Demystifying Textual Constructs in PDFs Through ChatGPT's Insights
-date: 2024-09-19T16:29:16.170Z
-updated: 2024-09-22T17:18:01.693Z
+date: 2024-09-30T00:11:23.671Z
+updated: 2024-10-03T17:32:14.599Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are [limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/), especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Copy Text From the PDF
 
  If you have a copy of the PDF on your computer, then the easiest way is to simply copy the text you need from the PDF. In the example below, we opened a PDF copy of a MakeUseOf article about [prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/). We used Microsoft Edge to open it, and then we highlighted the relevant text and copied it to the clipboard.
@@ -64,16 +71,24 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 2. If the document does not appear, use the file type dropdown box and select **PDF Files** from the options.  
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press **OK** to proceed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the **Save As** command to save it as a Word or text document as preferred.
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
@@ -87,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new **Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
@@ -116,5 +131,22 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-artists-almanac-your-guide-to-video-submission-for-2024/"><u>[New] Audio Artists' Almanac Your Guide to Video Submission for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapchat-tricks-unleashing-yourself-with-a-cartoon-lens/"><u>[Updated] Snapchat Tricks Unleashing Yourself with a Cartoon Lens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-duels-assessing-chatgpt-and-translate-quality/"><u>AI Duels: Assessing ChatGPT and Translate Quality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertissez-gratuitement-un-fichier-flv-en-format-avi-via-la-plateforme-en-ligne-de-movavi/"><u>Convertissez Gratuitement Un Fichier FLV en Format AVI via La Plateforme en Ligne De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-guardianship-dont-fall-for-googles-misleading-bard-app/"><u>Digital Guardianship: Don't Fall for Google's Misleading Bard App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/educational-tech-audit-4-precision-checkpoints-for-gpt-devices/"><u>Educational Tech Audit: 4 Precision Checkpoints for GPT Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-user-dialogue-shapes-ai-understanding-in-chatgpt/"><u>How User Dialogue Shapes AI Understanding in ChatGPT?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-precision-problem-solving-for-social-media-stories-issues/"><u>In 2024, Precision Problem-Solving for Social Media Stories Issues</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-synchronizing-social-media-channels-for-broad-distribution/"><u>In 2024, Synchronizing Social Media Channels for Broad Distribution</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/including-youtube-playlist-content-a-step-by-step-tutorial-for-2024/"><u>Including YouTube Playlist Content A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-pip-feature-in-youtube-app-for-iphones/"><u>Mastering PIP Feature in YouTube App for iPhones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-loneliness-interactive-ai-as-social-catalyst/"><u>Transform Loneliness: Interactive AI as Social Catalyst</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-plug-ins-for-excellent-gpt-in-vs-code/"><u>Ultimate Plug-Ins for Excellent GPT in VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-choose-claude-over-gpt-focusing-on-the-4-foremost-upgrades/"><u>Why Choose Claude Over GPT: Focusing on the 4 Foremost Upgrades</u></a></li>
+</ul></div>
 

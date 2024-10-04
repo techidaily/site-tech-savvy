@@ -1,7 +1,7 @@
 ---
 title: "AI's Evolution: How Does Transfer Learning Impact It?"
-date: 2024-09-20T17:58:46.195Z
-updated: 2024-09-22T17:39:23.954Z
+date: 2024-09-26T21:56:00.912Z
+updated: 2024-10-03T19:17:01.467Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  This works since cats and dogs share many traits the pre-trained model can already identify. Since the cat-classifying model can identify the various traits of a cat, such as having four legs, fur coats, and prominent snouts, the dog-classifying model can skip all the training to identify those traits and inherit them from the original model. After inheriting all those neural networks, you then cut off the last layers of the trained model used to identify the more specific traits of a cat and replace them with a dataset specific to dogs.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What AI Models Can You Use for Transfer Learning?
 
  To use transfer learning, you'll need a pre-trained model. A pre-trained model is commonly known as an AI model trained for the purpose of gaining general knowledge on a particular subject or idea. These types of pre-trained models are purposely made for people to fine-tune and make more application-specific models. Some of the most popular pre-trained models are for NLP, like [BERT and GPT](https://www.makeuseof.com/gpt-vs-bert/), and computer vision, such as VGG19 and Inceptionv3\.
@@ -57,15 +64,28 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
  Training an AI model from scratch is possible, but you need greater resources to do so.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does Transfer Learning Work?
 
 ![Transfer-Learning-Illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/final.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In essence, there are three stages when it comes to transfer learning.
 
@@ -86,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
  So while transfer learning is a handy AI learning technique, limitations exist, and it isn't a silver bullet.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Use Transfer Learning?
@@ -115,5 +135,21 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-telepresence-seminar-capture/"><u>[New] In 2024, Telepresence Seminar Capture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-reviewing-the-unseen-facebooks-privacy-and-security-guide/"><u>[New] Reviewing the Unseen Facebook's Privacy and Security Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-dive-deep-accessing-facebooks-story-vault/"><u>[Updated] In 2024, Dive Deep Accessing Facebook's Story Vault</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-6s-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 6s in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversation-crusaders-clash-chatgpt-and-googles-bard-face-off/"><u>Conversation Crusaders Clash: ChatGPT & Google's Bard Face-Off</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-hugging-face-functions-and-usage/"><u>Demystifying Hugging Face: Functions and Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-most-promising-4-ai-stories-maker-tools/"><u>Discover the Most Promising 4 AI Stories Maker Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-to-play-6-exciting-chatgpt-designed-games/"><u>Get Ready to Play: 6 Exciting ChatGPT-Designed Games</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-of-employment-gpts-replacement-potential/"><u>New Era of Employment: GPT's Replacement Potential?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-vs-basic-gpts-payoff-scale/"><u>Premium Vs. Basic: GPT's Payoff Scale</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-117-graphics-driver-update/"><u>Windows 11/7 Graphics Driver Update</u></a></li>
+</ul></div>
 

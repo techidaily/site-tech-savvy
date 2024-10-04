@@ -1,7 +1,7 @@
 ---
 title: Why Modifying GPT Is a Complex Task
-date: 2024-09-27T16:11:33.654Z
-updated: 2024-09-28T17:08:27.933Z
+date: 2024-10-01T00:55:11.170Z
+updated: 2024-10-03T22:28:03.509Z
 tags:
   - chatgpt
   - open-ai
@@ -38,22 +38,15 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
  Today, the landscape has evolved. Prompting proficiency is becoming a mainstream skill. Through a combination of experience gained from repeated use and access to freely available ChatGPT prompting guides, ChatGPT users have honed their prompting abilities. Rather than seeking out workarounds like jailbreaks, a bulk of ChatGPT users have become more adept at using different prompting strategies to achieve goals they would have required jailbreaks to achieve in the past.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. The Rise of Uncensored Chatbots
 
 ![uncensored chatbots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/uncensored-chatbots.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As large tech firms tighten content moderation on mainstream AI chatbots like ChatGPT, smaller, profit-focused startups opt for fewer restrictions, betting on demand for censorship-free AI chatbots. With a little research, you'll find dozens of AI chatbot platforms offering uncensored chatbots that can do almost anything you want them to do.
@@ -61,25 +54,33 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
  Whether it is writing those crime thriller and dark humor novels that ChatGPT refuses to write or writing malware that attacks people's computers, these uncensored chatbots with a skewed moral compass will do whatever you want. With them around, there's no point putting in the extra energy to write jailbreaks for ChatGPT. Although not necessarily as powerful as ChatGPT, these alternative platforms can comfortably perform a large range of tasks. Platforms like FlowGPT and Unhinged AI are some popular examples.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Jailbreaking Has Gotten Harder
 
 ![Image of a padlock on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/towfiqu-barbhuiya-fna5pazqhmm-un.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In ChatGPT's early months, [jailbreaking ChatGPT was as simple as copy-pasting prompts](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) from online sources. You could entirely alter ChatGPT's personality with just a few lines of tricky instructions. With simple prompts, you could turn ChatGPT into an evil villain teaching how to make bombs or a chatbot willing to use all forms of profanity without restraint. It was a free-for-all that produced infamous jailbreaks like DAN (Do Anything Now). DAN involved a set of seemingly harmless instructions that compelled the chatbot to do anything it was asked without refusing. Shockingly, these crude tricks worked back then.
 
  However, those wild early days are history. These basic prompts and cheap tricks no longer fool ChatGPT. Jailbreaking now requires complex techniques to have a chance of bypassing OpenAI's now robust safeguards. With jailbreaking becoming so difficult, most users are too discouraged to attempt it. The easy and wide-open exploits of ChatGPT's early days are gone. Getting the chatbot to say one wrong word now requires significant effort and expertise that may not be worth the time and effort.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. The Novelty Has Worn Off
 
@@ -95,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
  So, each time a ChatGPT user painstakingly develops a new jailbreak, sharing it with the community hastens its demise via patching. This disincentivizes the idea of going public whenever a user comes across a jailbreak. The conflict between keeping jailbreaks active yet hidden versus publicizing them creates a dilemma for ChatGPT jailbreak creators. These days, more often than not, people choose to keep their jailbreaks a secret to avoid the loopholes being patched.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Uncensored Local Alternatives
 
 ![person holding a smartphone with chatbot application facing viewer surrounded by icons](https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d176aa35825ab519985b4fb1.jpg)
@@ -110,22 +104,16 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
  You'll find a surprisingly long list of powerful uncensored LLMs you can deploy on your computer with lax censorship. Some notable ones are the Llama 7B (uncensored), Zephyr 7B Alpha, Manticore 13B, Vicuna 13B, and GPT-4-X-Alpaca.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Professional Jailbreakers Now Sale for Profit
 
 ![A Group of Businessmen in Suits Discussing Projects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/group-of-people-discussing-project.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Why dedicate precious time to developing jailbreaking prompts if you'll get nothing from it? Well, some professionals now sell jailbreaks for profit. These professional jailbreak creators design jailbreaks that perform specific tasks and list them for sale on prompt marketplaces such as PromptBase. Depending on their capabilities, these jailbreaking prompts might sell for anywhere between $2 to $15 per prompt. Some complicated multi-step exploits may cost significantly more.
 
@@ -156,21 +144,24 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhancing-video-discoverability-through-youtube-images/"><u>[New] 2024 Approved Enhancing Video Discoverability Through Youtube Images</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-child-stars-staggering-fortune-from-youtube-success/"><u>[New] In 2024, Child Star's Staggering Fortune From YouTube Success</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/iving-by-the-youtube-number-game-understanding-your-view-requirements/"><u>[New] Living by the YouTube Number Game Understanding Your View Requirements</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-art-of-connecting-a-deep-dive-into-instagram-live/"><u>[Updated] The Art of Connecting A Deep Dive Into Instagram Live</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-your-guide-to-the-essentials-of-youtube-tv-usage-for-2024/"><u>[Updated] Your Guide to the Essentials of YouTube TV Usage for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-manual-kickstart-your-bite-sized-gadget-reviews-channel/"><u>2024 Approved Step-by-Step Manual Kickstart Your Bite-Sized Gadget Reviews Channel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-repair-your-windows-pcs-bluetooth-sound-output-and-display-hardware-link-up-troubles/"><u>How to Repair Your Windows PC's Bluetooth Sound Output and Display Hardware Link-Up Troubles</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-computers-at-your-fingertips/"><u>In 2024, Advanced Computers at Your Fingertips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-nubia-z60-ultra-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock ZTE Nubia Z60 Ultra Phone Without Password?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-swift-searches-for-abandoned-reddit-discussions/"><u>In 2024, Swift Searches for Abandoned Reddit Discussions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/make-your-iphone-work-like-a-home-wi-fi-network-a-complete-tutorial/"><u>Make Your iPhone Work Like a Home Wi-Fi Network: A Complete Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-steps-resetting-your-yahoo-account-password-seamlessly/"><u>Quick & Simple Steps: Resetting Your Yahoo Account Password Seamlessly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/restored-my-desktop-icons-learn-how-to-solve-the-mystery-of-lost-icons-in-windows-10/"><u>Restored My Desktop Icons! Learn How to Solve the Mystery of Lost Icons in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/say-goodbye-to-windows-11s-troublesome-error-0x80-grog-your-ultimate-fix-guide/"><u>Say Goodbye to Windows 11'S Troublesome Error 0X80 Grog - Your Ultimate Fix Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sd-card-not-showing-up-discover-easy-fixes-to-restore-access/"><u>SD Card Not Showing Up? Discover Easy Fixes to Restore Access</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-print-connection-on-windows-10-a-comprehensive-tutorial/"><u>Seamless Print Connection on Windows 10 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-secrets-for-transcribing-and-converting-video-tweets-into-audio-files-mp3/"><u>[New] Secrets for Transcribing & Converting Video Tweets Into Audio Files (MP3)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-brand-differentiation-with-powerful-youtube-names/"><u>[Updated] 2024 Approved Brand Differentiation with Powerful YouTube Names</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-facetime-simplified-a-compreited-guide-for-android-users/"><u>[Updated] In 2024, FaceTime Simplified A Compreited Guide for Android Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unlock-youtube-comment-insights-a-comprehensible-guide/"><u>[Updated] In 2024, Unlock YouTube Comment Insights A Comprehensible Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-oppo-a1x-5g-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Oppo A1x 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effizientes-antragsmanagement-fur-helfer-durch-help-ev-mithilfe-von-abbyy-formreader-ein-leitfaden-zur-vereinfachung-der-mitgliedschaftseinwerbung/"><u>Effizientes Antragsmanagement Für Helfer Durch HELP E.V. Mithilfe Von ABBYY FormReader - Ein Leitfaden Zur Vereinfachung Der Mitgliedschaftseinwerbung</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-samsung-galaxy-s23-fe-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Samsung Galaxy S23 FE to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-k11x-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo K11x</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-remove-inconvenient-black-edges-from-youtube-videos/"><u>In 2024, Remove Inconvenient Black Edges From YouTube Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-your-swf-videos-into-mp4-format/"><u>Step-by-Step Guide: Transforming Your SWF Videos Into MP4 Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-process-transforming-avchd-videos-in-handbrake-and-discovering-the-best-substitutes/"><u>Step-by-Step Process: Transforming AVCHD Videos in HandBrake and Discovering the Best Substitutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-video-transcoder-effortlessly-convert-from-high-mb-to-low-mb-files/"><u>Top-Ranking Video Transcoder: Effortlessly Convert From High MB to Low MB Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-vlc-video-downloads-a-step-by-step-guide/"><u>Troubleshooting VLC Video Downloads: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-effortless-ripping-of-dvds-using-top-online-ripping-tools/"><u>Ultimate Guide: Effortless Ripping of DVDs Using Top Online Ripping Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-speedy-dvd-extraction-techniques-without-compromising-quality/"><u>Ultimate Guide: Speedy DVD Extraction Techniques Without Compromising Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-the-11-leading-text-overlay-tools-for-video-editing-across-platforms/"><u>Ultimate Guide: The 11 Leading Text-Overlay Tools for Video Editing Across Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-changing-your-mp4-files-to-wmv-with-videolans-vlc-player/"><u>Ultimate Tutorial: Changing Your MP4 Files to WMV with VideoLAN's VLC Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-of-eac-3-the-ultimate-guide-to-its-key-aspects/"><u>Unlocking the Secrets of EAC-3: The Ultimate Guide to Its Key Aspects</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveiling-the-secrets-to-audio-visual-cohesion-on-facebook-for-2024/"><u>Unveiling the Secrets to Audio-Visual Cohesion on Facebook for 2024</u></a></li>
 </ul></div>
 

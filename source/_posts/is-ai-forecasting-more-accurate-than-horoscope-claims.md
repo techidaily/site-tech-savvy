@@ -1,7 +1,7 @@
 ---
 title: Is AI Forecasting More Accurate Than Horoscope Claims?
-date: 2024-09-24T18:31:14.504Z
-updated: 2024-09-28T17:40:11.424Z
+date: 2024-10-01T23:44:08.856Z
+updated: 2024-10-03T22:10:15.125Z
 tags:
   - chatgpt
   - open-ai
@@ -42,16 +42,16 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 
  Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Choose Your ChatGPT Fortune Telling Questions Wisely
 
 ![Fortune Teller doing a Reading for a Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fortune-teller-doing-a-reading-for-a-client-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another thing we've learned from movies is that knowing the future is a dangerous thing. As a large language model which has already ingested and digested most of the internet, ChatGPT, or Agnes, as she now calls herself, could possibly make reliable predictions of when and how you're going to die. You probably don't want to know, so don't ask.
 
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
  What follows is her prediction and how it played out in real life.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Well Did ChatGPT Predict the Future?
@@ -71,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 ![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
@@ -118,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
@@ -151,14 +151,22 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-a-beginners-guide-to-starting-a-professional-account-on-ig/"><u>2024 Approved A Beginner's Guide to Starting a Professional Account on IG</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-methods-for-purging-temporary-files-and-cache-from-your-pc-running-windows-10/"><u>Easy Methods for Purging Temporary Files & Cache From Your PC Running Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-tips-for-changing-your-username-on-a-windows-11-pc/"><u>Easy Tips for Changing Your Username on a Windows 11 PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-tips-on-resolving-windows-1110-malfunctions-a-diy-troubleshooting-manual/"><u>Expert Tips on Resolving Windows 11/10 Malfunctions: A DIY Troubleshooting Manual</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-the-latest-amd-graphics-card-drivers-compatible-with-windows-10-systems/"><u>Get the Latest AMD Graphics Card Drivers Compatible with Windows 10 Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-f34-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy F34 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-unfreeze-steam-and-resume-gaming-on-windows-11/"><u>How To Swiftly Unfreeze Steam and Resume Gaming on Windows 11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-setting-up-videoleap-on-macbook-download-install-and-start-editing-for-2024/"><u>New Setting Up Videoleap on MacBook Download, Install, and Start Editing for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-distort-disrupt-delight-the-top-10-glitch-video-editing-apps-for-mobile/"><u>Updated Distort, Disrupt, Delight The Top 10 Glitch Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-clear-vision-in-gaming-captures-overcoming-obs-black-screens/"><u>[New] 2024 Approved Clear Vision in Gaming Captures Overcoming OBS Black Screens</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quintessential-quests-screenwriting-gems/"><u>2024 Approved Quintessential Quests Screenwriting Gems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-policy-scope-and-structure/"><u>AI Policy: Scope & Structure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-chatgpts-effect-on-online-anonymity/"><u>Assessing ChatGPT's Effect on Online Anonymity</u></a></li>
+<li><a href="https://fox-info.techidaily.com/aural-tales-the-best-of-radio-plays/"><u>Aural Tales The Best of Radio Plays</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/convert-and-save-your-favorite-jibjab-content-in-various-formats-mp4-wmv-avi/"><u>Convert and Save Your Favorite JibJab Content in Various Formats (MP4, WMV, AVI)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-engagement-leveraging-chatgpt-for-perfect-tweets/"><u>Enhancing Engagement: Leveraging ChatGPT for Perfect Tweets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-accuracy-of-cgp-in-medicine/"><u>Evaluating the Accuracy of CGP in Medicine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fusing-technology-and-innovation-constructing-web-applications-with-gpt-3/"><u>Fusing Technology and Innovation: Constructing Web Applications with GPT-3</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-xs-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone XS to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-legitimacy-in-the-limelight-copyright-verification-before-upload/"><u>In 2024, Legitimacy in the Limelight Copyright Verification Before Upload</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-audio-landscapes-ai-powered-sounds-in-workstations/"><u>Transforming Audio Landscapes: AI-Powered Sounds in Workstations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ultimate-4k-desktop-screens-full-integration-and-touch/"><u>Ultimate 4K Desktop Screens Full Integration & Touch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-companionship-using-chatgpt-to-connect-people/"><u>Virtual Companionship: Using ChatGPT to Connect People</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-claim-your-edge-with-claude-pioneering-ai-for-success/"><u>Why Claim Your Edge with Claude? Pioneering AI for Success</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-11-enhancing-sound-drivers-performance/"><u>Win 11: Enhancing Sound Drivers' Performance</u></a></li>
 </ul></div>
 

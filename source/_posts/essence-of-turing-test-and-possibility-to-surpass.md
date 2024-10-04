@@ -1,7 +1,7 @@
 ---
 title: Essence of Turing Test and Possibility to Surpass
-date: 2024-09-21T18:28:03.844Z
-updated: 2024-09-22T17:38:40.041Z
+date: 2024-10-01T00:43:31.324Z
+updated: 2024-10-03T23:49:21.785Z
 tags:
   - chatgpt
   - open-ai
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -63,14 +70,20 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
- In the last ten years, there have been two main claims that the Turing Test has been passed.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ In the last ten years, there have been two main claims that the Turing Test has been passed.
 
 ### Eugene Goostman
 
@@ -79,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
  Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Google's LaMBDA
 
@@ -90,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore, [Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/). This is currently available to users in the UK and the United States.
@@ -104,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
  Computer intelligence focuses on deep learning technologies, natural language processing, reinforcement learning, generative adversarial networks, and edge computing with IoT integration. All of which have seen significant advancements in the past five years. These areas continue to evolve at an incredible rate thanks to computer intelligence being used to improve itself.
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ChatGPT
 
@@ -136,5 +156,24 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-fix-chromium-and-youtube-streams/"><u>[New] 2024 Approved Fix Chromium and YouTube Streams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quiet-soundscapes-audio-control-tips/"><u>[Updated] Quiet Soundscapes Audio Control Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-a-winning-live-broadcast-essentials-and-strategies/"><u>2024 Approved Crafting a Winning Live Broadcast Essentials and Strategies</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-the-best-ai-translator-to-translate-videos-online/"><u>2024 Approved The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-thors-odyssey-the-last-stand/"><u>2024 Approved Thor’s Odyssey The Last Stand</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-default-the-10-upgrades-to-improve-chatgpt/"><u>Beyond Default: The 10 Upgrades to Improve ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/choco-vs-wm-a-comparative-look-at-windows-package-tools/"><u>Choco vs WM: A Comparative Look at Window's Package Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clade-to-victory-beating-chatgpt-in-the-ai-arena/"><u>Clade to Victory: Beating ChatGPT in the AI Arena</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/could-gpt-be-a-cybercriminals-key-to-pc-intrusions/"><u>Could GPT Be a Cybercriminal's Key to PC Intrusions?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-lava-yuva-3-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Lava Yuva 3 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-poco-c50-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Poco C50 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-skies-copilot-versions-compared/"><u>Navigating the Skies: CoPilot Versions Compared</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-your-online-queries-the-power-of-microsoft-bing-and-ai-technology/"><u>Revolutionizing Your Online Queries: The Power of Microsoft Bing and AI Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-potential-of-your-ai-assistant-5-steps-to-supercharged-chatgpt-interactions/"><u>Unleash the Potential of Your AI Assistant: 5 Steps to Supercharged ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/update-alert-google-news-feed-overhaul/"><u>Update Alert: Google News Feed Overhaul</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verify-is-todays-chatgpt-accessible/"><u>Verify: Is Today's ChatGPT Accessible?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-overlook-important-details-in-automated-synopses/"><u>Why Overlook Important Details in Automated Synopses?</u></a></li>
+</ul></div>
 

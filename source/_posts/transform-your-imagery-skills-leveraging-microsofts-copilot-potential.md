@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Imagery Skills: Leveraging Microsoft’s Copilot Potential"
-date: 2024-09-27T16:11:44.817Z
-updated: 2024-09-28T16:40:33.539Z
+date: 2024-10-02T21:48:07.678Z
+updated: 2024-10-03T20:31:07.739Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,16 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
  That's right; you can use Microsoft Copilot to generate free AI images using DALL-E 3, and it's incredibly simple to do.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is Microsoft Copilot Image Creator?
@@ -63,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only [reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Microsoft Copilot Image Creator in Edge
 
  If you use Microsoft's Edge browser, the easiest way to start using the Image Creator is in a regular Copilot chat. Ask Copilot to create an image, and it'll do its best to deliver a unique take on your input, providing four 1:1 images (it will not give you a 2:1 image or otherwise, no matter what input you try—but there is a reason for that!).
@@ -76,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, from there, I selected the image I wanted to use, pressed the "expand" icon in the bottom right corner, and selected **Landscape**. Copilot auto-magically adjusted the original image into a 2:1 1792x1024, finally fulfilling my original request.
@@ -89,13 +102,6 @@ Close
  Next, I applied a few different styles to the image, opting for pixel art and origami for a unique touch. Other options include watercolor, block print, and steampunk. Each style applies seamlessly, and you can return to the original image at any time.
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Microsoft Copilot Image Creator in Any Browser
 
@@ -110,10 +116,10 @@ Close
  What I found interesting was that Image Creator images generated in Copilot on Edge will appear in your Image Creator recent images. Edits you make to the Copilot on Edge images will update across the two tools as you make them, but it's a one-way process.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?
@@ -145,20 +151,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-pubg-vocal-changes-made-easy/"><u>[New] Step-by-Step PUBG Vocal Changes Made Easy</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-inverted-intrigue-mastering-the-art-of-turning-photos-for-instagram-glory/"><u>[Updated] Inverted Intrigue Mastering the Art of Turning Photos for Instagram Glory</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-how-to-make-a-good-movie-trailer/"><u>2024 Approved How To Make A Good Movie Trailer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-role-in-merging-real-with-imaginary-top-8-methods/"><u>AI's Role in Merging Real with Imaginary: Top 8 Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/bypassing-risks-no-mic-feature-in-ps5/"><u>Bypassing Risks: No Mic Feature in PS5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808344194-cyberpunk-2077-display-problems-solved-achieve-crisp-visual-quality-now/"><u>Cyberpunk 2077 Display Problems Solved - Achieve Crisp Visual Quality Now</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/group-gallery-video-extractor/"><u>Group Gallery Video Extractor</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-f14-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy F14 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-start-with-smart-edits-10-tips-for-new-photoshop-users/"><u>In 2024, Start with Smart Edits 10 Tips for New Photoshop Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solve-cold-war-gameplay-issues-eliminating-pc-fps-hiccups-and-freezes/"><u>Solve Cold War Gameplay Issues: Eliminating PC FPS Hiccups & Freezes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-fixes-for-non-responsive-zoom-screencasting-2024-edition/"><u>Step-by-Step Fixes for Non-Responsive Zoom Screencasting - 2024 Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-system-resources-how-to-decrease-cpu-usage-in-a-windows-environment/"><u>Streamlining System Resources: How to Decrease CPU Usage in a Windows Environment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-fixing-real-time-delay-in-fortnite-customization/"><u>The Ultimate Guide to Fixing Real-Time Delay in Fortnite Customization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808124632-troubleshoot-and-fix-how-to-restore-your-logitech-k520-keyboards-functionality-swiftly/"><u>Troubleshoot & Fix: How to Restore Your Logitech K520 Keyboard's Functionality Swiftly!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wireless-printing-mastery-setup-and-software-download-guide-for-brother-printers/"><u>Wireless Printing Mastery - Setup & Software Download Guide for Brother Printers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-moving-photos-and-videos-from-pc-to-iphone-effortlessly/"><u>[New] Moving Photos & Videos From PC to iPhone Effortlessly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-broadcast-your-google-meet-directly-to-youtubes-stage/"><u>[Updated] 2024 Approved Broadcast Your Google Meet Directly to YouTube's Stage</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-in-depth-analysis-of-youtube-adrevenue-average-payout-per-1000-viewers-engagement/"><u>[Updated] In 2024, In-Depth Analysis of YouTube AdRevenue Average Payout per 1,000 Viewers' Engagement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-gopro-hero5-black-journey-elevating-your-visual-storytelling/"><u>2024 Approved The GoPro Hero5 Black Journey Elevating Your Visual Storytelling</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-standout-content-on-reddit-strategic-guide-available-for-2024/"><u>Crafting Standout Content on Reddit - Strategic Guide Available for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/finding-the-z-axis-in-your-text-art/"><u>Finding the Z-Axis in Your Text Art</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-manuscript-to-machine-has-chatgpt-redefined-academic-writing/"><u>From Manuscript to Machine: Has ChatGPT Redefined Academic Writing?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surpassing-the-maximum-character-allowance-in-gpt/"><u>Surpassing The Maximum Character Allowance in GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-flawed-logic-of-ai-based-medical-advice/"><u>The Flawed Logic of AI-Based Medical Advice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/uploading-avchd-content-on-youtube-a-step-by-step-guide-to-format-conversion/"><u>Uploading AVCHD Content on YouTube: A Step-by-Step Guide to Format Conversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-engaging-youtube-scripts-with-chatgpt-help/"><u>Writing Engaging YouTube Scripts with ChatGPT Help</u></a></li>
 </ul></div>
 

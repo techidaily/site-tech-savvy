@@ -1,7 +1,7 @@
 ---
 title: Pursue Profits and Purpose Through Software Error Discovery at OpenAI
-date: 2024-09-21T17:23:47.964Z
-updated: 2024-09-28T18:17:07.283Z
+date: 2024-09-29T18:17:39.434Z
+updated: 2024-10-03T18:29:35.360Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -52,22 +59,29 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Here, you must fill in the following information:
 
@@ -83,26 +97,13 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -112,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
  These include server-side injection, server security misconfiguration, [cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage, [cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -145,16 +139,22 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/eamless-streaming-experience-a-youtube-playlist-creation-guide-for-2024/"><u>[New] Seamless Streaming Experience A YouTube Playlist Creation Guide for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-4-ways-to-record-sims-4-gameplay-for-2024/"><u>[Updated] 4 Ways to Record Sims 4 Gameplay for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>2024 Approved Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-a-toolkit-for-fluency-in-new-languages/"><u>ChatGPT Plus: A Toolkit for Fluency in New Languages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatxt-influence-on-modern-media-production/"><u>ChaTxt Influence on Modern Media Production</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-instructions-like-a-pro-discover-the-top-7-online-aids/"><u>Craft Instructions Like a Pro: Discover the Top 7 Online Aids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-deceptions-how-to-differentiate-real-data-from-artifico/"><u>Dissecting Deceptions: How to Differentiate Real Data From Artifico</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ce-the-pause-button-3-techniques-for-decelerating-youtube-video-playback-59-chars-slight-overage-with-rich-content-justification-for-2024/"><u>Embrace the Pause Button 3 Techniques for Decelerating YouTube Video Playback (59 Chars, Slight Overage with Rich Content Justification) for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-efficiency-by-ditching-these-6-chatgpt-apps/"><u>Enhance Efficiency by Ditching These 6 ChatGPT Apps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-leapfrogging-into-digital-marketing-establishing-a-yt-channel-on-mobile/"><u>In 2024, Leapfrogging Into Digital Marketing Establishing a YT Channel on Mobile</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-selection-top-10-zero-dollar-video-calls/"><u>[New] The Ultimate Selection Top 10 Zero-Dollar Video Calls</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-end-your-active-discord-association/"><u>[Updated] In 2024, End Your Active Discord Association</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-clarity-reignited-exclusive-guide-to-top-10-photo-tools/"><u>2024 Approved Image Clarity Reignited Exclusive Guide to Top 10 Photo Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-uskalist-slovnikov-pokus-najit-svobodny-zvukovy-zapis-s-obrazem-s-pocitace-vaseho/"><u>5 Úskališť Slovníkov: Pokus Najít Svobodný Zvukový Zápis S Obrazem S Počítače Vašeho</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/connect-through-the-cosmos-posting-panoramic-pictures-via-mobile-apps/"><u>Connect Through the Cosmos Posting Panoramic Pictures via Mobile Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descarga-gratuita-para-convertir-archivos-de-video-webm-a-formato-vob-sin-problemas/"><u>Descarga Gratuita Para Convertir Archivos De Vídeo Webm a Formato VOB Sin Problemas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-selection-of-mp4-media-players-for-windows-and-mac-systems/"><u>Discover the Ultimate Selection of MP4 Media Players for Windows and Mac Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elite-selection-of-portable-gaming-computers-reviewed-and-ranked/"><u>Elite Selection of Portable Gaming Computers Reviewed and Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-omzetten-van-bmp-naar-gif-online-speelfriendelijk-en-efficient-met-movavi/"><u>Gratis Omzetten Van BMP Naar GIF Online - Speelfriendelijk en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hands-free-image-conversion-transform-jpgs-into-png-format-for-free-by-movavi/"><u>Hands-Free Image Conversion: Transform JPGs Into PNG Format for Free by Movavi.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-professional-insight-into-accurate-and-clear-vr-recording/"><u>In 2024, Professional Insight Into Accurate and Clear VR Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-media-migration-tiktok-directly-to-fb-for-2024/"><u>Mastering Media Migration TikTok Directly to FB for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-13-substituts-pour-prezi-en-2024-solutions-logicielles-et-plateformes-web/"><u>Top 13 Substituts Pour Prezi En 2024 : Solutions Logicielles Et Plateformes Web</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformation-gratuite-de-fichier-tiff-en-image-gif-en-ligne-movavi/"><u>Transformation Gratuite De Fichier TIFF en Image GIF en Ligne - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-the-10-most-excellent-mobile-devices-for-high-quality-video-shooting/"><u>Ultimate Guide: The 10 Most Excellent Mobile Devices for High-Quality Video Shooting</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/uncovering-8-honestly-backed-promotion-services/"><u>Uncovering 8 Honestly Backed Promotion Services</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unveiling-the-15-leading-cameras-excluding-gopro/"><u>Unveiling the 15 Leading Cameras Excluding GoPro</u></a></li>
 </ul></div>
 

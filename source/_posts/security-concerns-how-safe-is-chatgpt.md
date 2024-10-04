@@ -1,7 +1,7 @@
 ---
 title: "Security Concerns: How Safe Is ChatGPT?"
-date: 2024-09-25T17:24:18.668Z
-updated: 2024-09-28T18:28:12.001Z
+date: 2024-09-26T16:25:21.320Z
+updated: 2024-10-03T17:18:56.413Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
  This just underscores how important it is to [limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/), which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is ChatGPT a Threat to Your Privacy?
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/), but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
@@ -63,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
  In any case, you should be careful when using ChatGPT, especially [if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt), or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Addressing the Security Risks Associated With ChatGPT
@@ -84,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Raising Awareness Is Key
@@ -115,14 +109,22 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-a-taste-of-film-home-cooks-visual-journey/"><u>[New] In 2024, A Taste of Film Home Cook's Visual Journey</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhance-clips-best-winter-bgs-for-video-warmth/"><u>[Updated] 2024 Approved Enhance Clips Best Winter Bg's for Video Warmth</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accelerate-your-computer-speeding-up-windows-11-vs-windows-turbocharging-techniques/"><u>Accelerate Your Computer: Speeding Up Windows 11 Vs. Windows Turbocharging Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beginner-friendly-steps-setting-up-a-vpn-connection-on-your-apple-tv/"><u>Beginner-Friendly Steps: Setting up a VPN Connection on Your Apple TV</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bust-the-silence-fixing-connectivity-problems-with-astro-a50s-mic/"><u>Bust the Silence: Fixing Connectivity Problems with Astro A50's Mic</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/connecting-your-xbox-one-gamepad-to-windows-pc-a-step-by-step-tutorial/"><u>Connecting Your Xbox One Gamepad to Windows PC: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-genshin-impacts-troublesome-error-4201-solutions-inside/"><u>Overcoming Genshin Impact's Troublesome Error 4201 - Solutions Inside!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/cting-the-craft-of-youtube-short-video-making/"><u>Perfecting the Craft of YouTube Short Video Making</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808235815-whats-new-in-windows-10-creators-update-insider-preview-build-1503/"><u>What's New in Windows 10 Creators Update: Insider Preview Build 1503</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-boosting-fb-video-engagement-and-audience-reach-for-2024/"><u>[New] Boosting FB Video Engagement & Audience Reach for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-essential-know-how-for-getting-started-on-discord-live/"><u>[Updated] Essential Know-How for Getting Started on Discord Live</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-video-trailers-on-youtube-via-filmora-tools/"><u>[Updated] Mastering Video Trailers on YouTube via Filmora Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4dvdisovideo/"><u>効果的な方法でファイル形式をMP4にリマスタリング:動画、DVD、ISO、Video_#シリーズ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-master-bartending-exploring-chatgpts-cocktail-making-abilities/"><u>Can AI Master Bartending: Exploring ChatGPT's Cocktail-Making Abilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools-for-2024/"><u>Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-tutorial-securely-capturing-your-favorite-cbs-episodes-for-offline-viewing-using-top-download-software/"><u>Easy Tutorial: Securely Capturing Your Favorite CBS Episodes for Offline Viewing Using Top Download Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-methods-for-converting-m2p-videos-into-mp4-a-comprehensive-guide/"><u>Efficient Methods for Converting M2P Videos Into MP4: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-methods-for-extracting-audio-from-dvds/"><u>Effortless Methods for Extracting Audio From DVDs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-ultimate-apple-video-transcoder-purchase-wonderfox-factory-pro-for-seamless-iphone-and-ipad-conversion/"><u>Get Your Hands on the Ultimate Apple Video Transcoder: Purchase WonderFox Factory Pro for Seamless iPhone and iPad Conversion!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-recover-from-a-black-screen-on-windows-movie-maker-expert-tips-and-solutions/"><u>How To Recover From A Black Screen on Windows Movie Maker – Expert Tips & Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-lava-yuva-2-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Lava Yuva 2 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/most-effective-dvd-to-avi-transcoding-tools-for-windows-1011-users/"><u>Most Effective DVD to AVI Transcoding Tools for Windows 10/11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3-pc/"><u>MP3形式で楽曲を制作する簡単なガイド - PCやスマートフォンで</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-y27-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Y27 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-profitability-with-generative-ai-understanding-roi-challenges-and-strategies-featured-in-zdnet/"><u>Unlocking Profitability with Generative AI: Understanding ROI Challenges and Strategies | Featured in ZDNET</u></a></li>
 </ul></div>
 

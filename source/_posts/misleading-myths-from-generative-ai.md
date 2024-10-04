@@ -1,7 +1,7 @@
 ---
 title: Misleading Myths From Generative AI
-date: 2024-09-26T17:01:51.864Z
-updated: 2024-09-28T18:19:18.531Z
+date: 2024-09-26T22:49:19.557Z
+updated: 2024-10-03T18:48:30.557Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
@@ -54,10 +54,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -71,16 +71,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
@@ -95,13 +89,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 * **Targeted personalization**: Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -130,6 +117,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
@@ -153,16 +147,18 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-finding-your-ideal-video-capture-solution-bandicam-vs-camtasia/"><u>[Updated] In 2024, Finding Your Ideal Video Capture Solution Bandicam Vs Camtasia</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-making-a-mark-advanced-strategies-for-youtube-video-production/"><u>2024 Approved Making a Mark Advanced Strategies for YouTube Video Production</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-basic-routes-to-sync-obs-with-zoom/"><u>2024 Approved The Basic Routes to Sync OBS with Zoom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/capacitez-votre-main-doeuvre-digitale-en-utilisant-les-competences-cognitives-dabbyy-vantage/"><u>Capacitez Votre Main-D'oeuvre Digitale en Utilisant Les Compétences Cognitives D'ABBYY Vantage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/carlsberg-partners-with-abbyy-to-speed-up-global-launch-of-premium-brews/"><u>Carlsberg Partners with ABBYY to Speed Up Global Launch of Premium Brews</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/compare-and-contrast-unpacking-the-8-most-important-features-between-snapchat-my-ai-and-bing-chat-on-skype/"><u>Compare and Contrast: Unpacking the 8 Most Important Features Between Snapchat My AI and Bing Chat on Skype</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-analytics-unleashing-the-full-potential-of-your-digital-marketing/"><u>Cookiebot-Driven Analytics: Unleashing the Full Potential of Your Digital Marketing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-website-optimization-boosting-your-digital-footprint/"><u>Cookiebot-Driven Website Optimization: Boosting Your Digital Footprint</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-12-pro-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme 12 Pro 5G?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-push-past-limitations-showcase-videos-in-social-media/"><u>In 2024, Push Past Limitations Showcase Videos in Social Media</u></a></li>
-<li><a href="https://extra-support.techidaily.com/silence-zoom-distortion-swift-remedies-unveiled-for-2024/"><u>Silence Zoom Distortion Swift Remedies Unveiled for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ultimate-guide-solidify-iphone-hdr-quality-with-4-key-editing-steps/"><u>[New][Ultimate Guide] Solidify iPhone HDR Quality with 4 Key Editing Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-list-of-twitter-video-convertors/"><u>[Updated] The Ultimate List of Twitter Video Convertors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/behind-the-scenes-10-movies-that-rely-on-final-cut-pro-for-editing-for-2024/"><u>Behind the Scenes 10 Movies That Rely on Final Cut Pro for Editing for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-changing-display-adapters-on-a-windows-machine/"><u>Comprehensive Tutorial: Changing Display Adapters on a Windows Machine</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversao-gratuita-de-filmes-mov-para-mp4-funcionando-na-web-agora/"><u>Conversão Gratuita De Filmes MOV Para MP4 - Funcionando Na Web Agora!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cracking-the-code-a-comprehensive-solution-for-error-80070057-in-cod-black-ops-cold-war/"><u>Cracking the Code: A Comprehensive Solution for Error 80070057 in Cod: Black Ops Cold War</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-monitor-phosphor-sparks-quickly/"><u>End Monitor Phosphor Sparks Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flawless-content-creation-the-4-biggest-mistakes-to-dodge-using-chatgpt/"><u>Flawless Content Creation - The 4 Biggest Mistakes to Dodge Using ChatGPT</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-xr-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone XR</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-comprehensive-walkthrough-for-deleting-iphone-data-permanently-and-safely/"><u>Stellar's Comprehensive Walkthrough for Deleting iPhone Data Permanently and Safely</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-jestful-ai-portable-progress-and-cybersecurity-evolution/"><u>The Jestful AI: Portable Progress and Cybersecurity Evolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-power-of-individualized-chatgpt-commands/"><u>Unlocking the Power of Individualized ChatGPT Commands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zerogpt-and-detectors-can-they-be-trusted-completely/"><u>ZeroGPT & Detectors: Can They Be Trusted Completely?</u></a></li>
 </ul></div>
 

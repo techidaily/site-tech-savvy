@@ -1,7 +1,7 @@
 ---
 title: LangChain 101 for Languaged Learners
-date: 2024-09-18T16:57:14.465Z
-updated: 2024-09-22T16:43:24.104Z
+date: 2024-09-26T21:52:13.634Z
+updated: 2024-10-03T20:58:43.990Z
 tags:
   - chatgpt
   - open-ai
@@ -56,16 +56,16 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 * **Data Passing**: Due to the general text-based nature of LLMs, it is usually tricky to pass data to the model. LangChain solves this problem by using [indexes](https://docs.langchain.com/docs/components/indexing/). Indexes enable an application to import data in variable formats and store it in a way that makes it possible to serve it row-by-row to an LLM.
 * **Responses**: LangChain provides output parser tools to give answers in a suitable format as opposed to other LLMs whose model response consists of general text. When using AI in an application, it is preferred to have a structured response that you can program against.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Getting Started With LangChain LLM
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Setting Up Your Development Environment
 
@@ -80,19 +80,6 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 `
 
  The command above installs the packages and creates a virtual environment.
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Import the Installed Dependencies
 
@@ -112,16 +99,16 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-dashboard.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, click the **Create new secret key** button to get a new API key.
 
 ![OpenAI API key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-page.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Enter the requested name of the API key.
 
@@ -130,13 +117,6 @@ from langchain.memory import ConversationBufferWindowMemory`
  You will receive a **secret key** prompt.
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Copy and store the API key in a safe place for future use.
 
@@ -178,7 +158,21 @@ print(output)`
 
 ![Output of developing an application using LangChain](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-output.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Above is the expected output.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Rising Influence of LLMs
 
@@ -203,5 +197,21 @@ print(output)`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-shaking-it-off-analyzing-the-efficacy-of-photostability-for-2024/"><u>[New] Shaking It Off Analyzing the Efficacy of PhotoStability for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/acquire-exclusive-designer-cakes-media-seamless-video-downloads-from-designer-cakescom/"><u>Acquire Exclusive Designer Cakes Media: Seamless Video Downloads From designer-cakes.com</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-directive-perfection-using-these-innovative-online-helpers/"><u>Boost Directive Perfection Using These Innovative Online Helpers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-generative-ai-the-basics-explained/"><u>Delving Into Generative AI: The Basics Explained</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-t2x-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo T2x 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-macos-sierra-choices-for-file-conversion/"><u>In 2024, Leading MacOS Sierra Choices for File Conversion</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installing-chatgpt-as-a-windows-app/"><u>Installing ChatGPT as a Windows App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-lab-gpt-3-and-google-in-a-tug-of-war/"><u>Language Lab: GPT-3 and Google in a Tug of War</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-spotifys-ad-landscape-a-beginners-guide/"><u>Navigating Spotify's Ad Landscape A Beginner's Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/next-gen-cloud-vaults-ultimate-pick-list/"><u>Next-Gen Cloud Vaults Ultimate Pick List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-unveiled-chatgpt-versus-astrological-prophecies/"><u>The Future Unveiled: ChatGPT Versus Astrological Prophecies</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-guide-to-youtube-seo-techniques/"><u>The Ultimate Guide to YouTube SEO Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-chatgpt-inquiry-examples-on-github/"><u>Ultimate Guide to ChatGPT Inquiry Examples on GitHub</u></a></li>
+</ul></div>
 

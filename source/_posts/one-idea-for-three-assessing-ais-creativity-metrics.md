@@ -1,7 +1,7 @@
 ---
 title: "One Idea for Three: Assessing AI's Creativity Metrics"
-date: 2024-09-25T17:28:38.848Z
-updated: 2024-09-28T18:20:30.064Z
+date: 2024-09-30T21:46:48.088Z
+updated: 2024-10-03T23:41:25.197Z
 tags:
   - chatgpt
   - open-ai
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
  Working out which AI generator was the best came down to factors like originality, flow of writing, imaginative flair, and response time. Let's see how they did.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Chatbot Did Best With Songs?
 
  To test each chatbot’s response to a combination of themes, whether normal or random, I went for the following prompt: “Write a song about achieving your dreams and make sure the lyrics feature a koala.”
@@ -68,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 ![ChatGPT Writes a Poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writes-a-poem.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Copilot and Gemini were both less effective than ChatGPT in all these regards. However, you may find that results vary depending on the type of poem and the instructions you give each chatbot. Make a note of the many available [tips and tricks for better AI prompting](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/) .
@@ -83,19 +90,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
  None of the chatbots’ stories were particularly unique or thought-provoking. But the best outcome came from ChatGPT. It was simple but interesting and well-written, a quality sample of creative writing.
 
 ![ChatGPT Writing a Short Story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writing-a-short-story.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The same applied to Gemini’s creation, except that its narration contained confusing elements in what seemed to be an attempt at imaginative expression. It was intriguing to see, but it missed the mark.
 
@@ -110,15 +104,22 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 ![Google Gemini Writing a Play Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/google-gemini-writing-a-play-script.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The other two chatbots went for the exact same structure for the scene—perhaps because both apps use OpenAI’s data as their source. They flowed nicely enough, but there was nothing special about the results.
 
  An extra downside to ChatGPT was that one side of the script was cut off and unreadable. When I pointed out the problem, instead of offering a solution, the chatbot produced the exact same text with the same issue. One way to deal with this is to copy the script and paste it into a document, where you can read the scene in full.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Social Media Bios?
 
@@ -129,19 +130,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
  Copilot provided the most options in terms of effective and imaginative phrases alongside emojis and hashtags. You could pick and choose what you wanted for your bio and tweak it further to perfectly reflect your identity.
 
 ![Microsoft Copilot Writing a Social Media Bio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-social-media-bio.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT was more precise with its response. Two lines of useful mottos, emojis, hashtags, and a call to action. Asking for other suggestions is always on the table, but Copilot offered more from its initial response.
 
@@ -166,17 +154,19 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-achieving-convenient-multi-screen-browsing-with-chrome-pip/"><u>[New] Achieving Convenient Multi-Screen Browsing With Chrome PIP</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-role-of-b-roll-in-polishing-video-projects/"><u>[New] In 2024, The Role of B-Roll in Polishing Video Projects</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>[New] The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-multitask-media-magic-employing-netflix-picture-in-picture/"><u>2024 Approved Multitask Media Magic Employing Netflix Picture-in-Picture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/barricade-web-from-robotic-crawlers/"><u>Barricade Web From Robotic Crawlers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/close-up-communication-the-art-of-zoom-on-teams/"><u>Close-Up Communication The Art of Zoom on Teams</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/complete-guide-on-converting-your-gopro-lrv-footage-to-mp4-video-quality/"><u>Complete Guide on Converting Your GoPro LRV Footage to MP4 Video Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/honest-discoveries-in-vpn-crackdown/"><u>Honest Discoveries in VPN Crackdown</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovation-meets-tradition-the-best-frame-makers-for-2024/"><u>Innovation Meets Tradition The Best Frame Makers for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resurrecting-absorbed-gpt-dialogues/"><u>Resurrecting Absorbed GPT Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/run-a-local-and-free-chatgpt-clone-on-your-windows-pc-with-gpt4all/"><u>Run a Local and Free ChatGPT Clone on Your Windows PC With GPT4All</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-into-ais-future-with-gpt-4-nevertheless-platinum-still-rewards-users-with-6-significant-advantages/"><u>Step Into AI's Future with GPT-4! Nevertheless, Platinum Still Rewards Users With 6 Significant Advantages.</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-master-snapchat-essential-strategies-for-snappy-snaps/"><u>[New] In 2024, Master Snapchat Essential Strategies for Snappy Snaps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-creating-impressive-3d-beginnings-on-youtube/"><u>[Updated] 2024 Approved Creating Impressive 3D Beginnings on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-guide-to-youtube-editing-in-imovie-software/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube Editing in iMovie Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-bbc/"><u>1. BBCニュースのライブビデオダウンロード手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-transform-avi-files-into-high-definition-hd-videos-perfectly-displayed-on-hd-screens/"><u>1. Transform AVI Files Into High Definition (HD) Videos Perfectly Displayed on HD Screens</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-s17t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo S17t without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726026372099-dvd/"><u>新しいDVD視聴に失敗する主な理由と解決策</u></a></li>
+<li><a href="https://fox-access.techidaily.com/deep-windows-11-know-how-importing-media-like-a-pro-for-2024/"><u>Deep Windows 11 Know-How Importing Media Like a Pro for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-meizu-21-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Meizu 21 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-unmatched-legacy-of-windows-xp-an-icon-that-stands-alone/"><u>The Unmatched Legacy of Windows XP: An Icon That Stands Alone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/transform-your-webcam-footage-edit-and-export-tips/"><u>Transform Your WebCam Footage Edit & Export Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-free-windows-11-dvd-authoring-software-in-202n4-burn-faster-better-quality-discs/"><u>Ultimate Guide to Free Windows 11 DVD Authoring Software in 202N4 – Burn Faster, Better Quality Discs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-how-to-safely-rip-burn-and-copy-content-from-your-dvds-and-cds/"><u>Ultimate Guide: How To Safely Rip, Burn & Copy Content From Your DVDs And CDs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028294038-windows-media-player/"><u>Windows Media Player用ファイルの互換性拡張方法：詳細ガイド</u></a></li>
 </ul></div>
 

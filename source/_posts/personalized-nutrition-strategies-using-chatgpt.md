@@ -1,7 +1,7 @@
 ---
 title: Personalized Nutrition Strategies Using ChatGPT
-date: 2024-09-23T16:01:35.944Z
-updated: 2024-09-28T17:00:05.306Z
+date: 2024-09-30T20:37:02.464Z
+updated: 2024-10-03T23:03:33.284Z
 tags:
   - chatgpt
   - open-ai
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 * How much do you want the cost per meal to be if you're cooking on a budget?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use ChatGPT to Determine Your TDEE and BMR
@@ -69,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 
  In addition, you can even ask ChatGPT to include a full grocery list of all the ingredients you need as well as the measurements for each item.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Meal Plan Example Prompts for ChatGPT
 
 ![chatgpt AI chatbot online tool meal plan example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-meal-plan-example.jpg)
@@ -87,10 +80,16 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 * One-week meal plan with three meals, one snack, and no dietary restrictions.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Problems With ChatGPT Meal Plans
@@ -112,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 ![SideChef meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-meal-plan-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![SideChef preferences mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-preferences.jpg)
@@ -134,16 +133,23 @@ Close
 
 ![Eat this much meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-meal-plan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Close
 
 ## Can You Trust ChatGPT to Create a Healthy Meal Plan?
 
@@ -170,16 +176,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-full-potential-watching-facebook-videos-on-your-apple-devices/"><u>[New] Unlocking Full Potential Watching Facebook Videos on Your Apple Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-tutorial-mastering-the-art-of-cd-and-dvd-writing-using-microsofts-latest-os/"><u>Easy Tutorial: Mastering the Art of CD & DVD Writing Using Microsoft's Latest OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortlessly-transition-from-a-public-to-a-private-wi-fi-network-on-windows-11-devices/"><u>Effortlessly Transition From a Public to a Private Wi-Fi Network on Windows 11 Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-frames-per-second-fps-for-smoother-gameplay-top-5-techniques-of-2-enhance-real-time-interactivity-with-advanced-fps-optimization-methods-2024-insigh6/"><u>Elevate Frames Per Second (FPS) for Smoother Gameplay: Top 5 Techniques of 2# Enhance Real-Time Interactivity with Advanced FPS Optimization Methods [2024 Insights] - Expert Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-printing-with-the-hp-laserjet-pro-m404n-latest-drivers-and-troubleshooting-guide/"><u>Ensure Seamless Printing with the HP LaserJet Pro M404n - Latest Drivers & Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-advice-unlocking-advanced-tweaks-by-disabling-driver-security-in-windows-11/"><u>Expert Advice: Unlocking Advanced Tweaks by Disabling Driver Security in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/find-out-what-motherboard-you-have-easily/"><u>Find Out What Motherboard You Have Easily</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/horizon-proworks-complete-4k-integrated-solution-for-2024/"><u>Horizon ProWorks Complete 4K Integrated Solution for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011754918-the-sims-4-pc-stability-issues-heres-how-you-can-solve-them/"><u>The Sims 4 PC Stability Issues? Here's How You Can Solve Them!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/trailblazers-in-the-world-of-virtual-reality/"><u>Trailblazers in the World of Virtual Reality</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-enhancing-your-mac-usage-with-pro-tactics/"><u>Ultimate Guide to Enhancing Your Mac Usage with Pro Tactics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>[New] In 2024, Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-2-unpacked-how-it-can-benefit-you/"><u>Claude 2 Unpacked: How It Can Benefit You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-myths-gpt-pc-app-wrongly-categorized/"><u>Debunking Myths: GPT PC App Wrongly Categorized</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-13-mini-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 13 mini iOS System? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-a23-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy A23 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-poco-m6-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Poco M6 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-transient-suppression-via-audacity/"><u>In 2024, Understanding Transient Suppression via Audacity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-and-ai-merge-for-next-gen-bing-searches/"><u>Microsoft and AI Merge for Next-Gen Bing Searches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-efficiently-mastering-rtx-ai-for-chatting/"><u>Navigate Efficiently: Mastering RTX AI for Chatting</u></a></li>
+<li><a href="https://common-error.techidaily.com/speedy-solutions-tackling-slow-response-times-on-your-keyboard/"><u>Speedy Solutions: Tackling Slow Response Times on Your Keyboard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/techniques-for-concealing-your-ai-dialogues-intact/"><u>Techniques for Concealing Your AI Dialogues Intact</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-decade-of-defenses-top-cybersecurity-forecasts/"><u>The Next Decade of Defenses: Top Cybersecurity Forecasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-top-8-windows-screen-recording-applications/"><u>The Top 8 Windows Screen Recording Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-better-well-being-ais-promise-in-therapy/"><u>Unlocking Better Well-Being: AI's Promise in Therapy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-more-from-chatgpt-through-token-optimization/"><u>Unlocking More From ChatGPT Through Token Optimization</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Base vs Augmented: Choose Your Preferred ChatGPT Approach"
-date: 2024-09-23T16:00:06.179Z
-updated: 2024-09-28T17:20:44.282Z
+date: 2024-09-26T19:31:12.377Z
+updated: 2024-10-03T18:09:05.968Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,6 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  So why did the first version work and the second didn't? What is the difference between the first and the second? If you haven't figured it out yet, the secret is the GPT model involved and the extra tools it can use. Beyond the name, below are some of the ChatGPT versions you should know.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The 4 ChatGPT Versions You Should Know
 
  The four ChatGPT versions you should familiarize yourself with are:
@@ -66,13 +59,6 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
 ![ChatGPT running on the default GPT-3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-on-the-default-gpt-3-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  GPT-3.5 is the default version used by both free and paid-tier ChatGPT users. It can do most of what you'd expect in any version of ChatGPT. This variant, solely powered by the GPT-3.5 turbo model, is the base version of ChatGPT and has the least capabilities of all the available models.
 
  Once you sign up for a ChatGPT account, you should automatically have access to this version. So, when should you use this version of ChatGPT?
@@ -82,13 +68,6 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 ## 2\. ChatGPT Running Default GPT-4
 
 ![Default ChatGPT GPT-4 model version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-chatgpt-gpt-4-model-version.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT using GPT-4 is superior to any ChatGPT version that runs on GPT-3.5, as it is the most advanced GPT model currently integrated with ChatGPT. GPT-4 gives ChatGPT more creativity and improved reasoning and mathematics abilities.
 
@@ -104,13 +83,40 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  In July 2023, due to abuse, OpenAI temporarily disabled the browsing feature.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. ChatGPT Running GPT-4 with Plugins
 
 ![ChatGPT running GPT-4 plus plugins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-gpt-4-plus-plugins.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT with plugins is probably the most versatile version of ChatGPT. Exclusively available to ChatGPT Plus users, this variant of ChatGPT significantly extends ChatGPT's abilities beyond what it was originally designed to handle. For instance, while regular ChatGPT can not interface with a PDF file or, say, create flowcharts, ChatGPT with plugins can do so effectively as long as you pick the right plugin for the task.
 
  From everything like [using ChatGPT to chat with a PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) to creating memes, you'll find a host of ChatGPT Plugins on the plugin store that does much of what you want to achieve. The list of available plugins is actively growing, and with it, the list of new things you can achieve with this version of ChatGPT. Here are some of [the best ChatGPT plugins you can try right now](https://www.makeuseof.com/best-chatgpt-plugins/).
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which ChatGPT Version Is the Best?
 
@@ -119,10 +125,10 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
  ChatGPT versions powered by the GPT-4 model are heavy movers. Because of the quota limitation, you should ideally use them when advanced reasoning or creativity is required for a task. Or when you are concerned about running out of message quota during a task.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Know Which ChatGPT Version to Use
@@ -146,17 +152,17 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secure-quick-and-simple-screenshot-techniques-for-w8-users/"><u>[New] 2024 Approved Secure, Quick & Simple Screenshot Techniques for W8 Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-optimal-online-sound-snatching/"><u>[New] In 2024, Optimal Online Sound Snatching</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-benchmark-next-gen-ai-measurement-models/"><u>Beyond The Benchmark: Next-Gen AI Measurement Models</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-tv-streaming-with-a-chromecast-remote-complete-setup-instructions/"><u>Effortless TV Streaming with a Chromecast Remote - Complete Setup Instructions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/effortless-zoom-edge-management-your-visual-companion/"><u>Effortless Zoom Edge Management Your Visual Companion</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-note-12-proplus-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi Note 12 Pro+ 5G FRP Locks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-employers-might-react-to-chatgpt-use-and-potential-consequences/"><u>How Employers Might React to ChatGPT Use and Potential Consequences</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-celebrating-the-best-movies-that-evoke-hope-and-courage/"><u>In 2024, Celebrating the Best Movies that Evoke Hope and Courage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-cash-no-problem-gpt-4s-four-free-alternatives/"><u>No Cash, No Problem: GPT-4's Four Free Alternatives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailored-training-strategies-gpts-role-unveiled/"><u>Tailored Training Strategies: GPT's Role Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-spots-for-ai-fueled-innovation/"><u>Ultimate Spots for AI-Fueled Innovation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-limitations-6-critical-concerns-with-unquestioned-faith-in-ai/"><u>Understanding the Limitations: 6 Critical Concerns with Unquestioned Faith in AI</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-reference-to-youtube-video-aspect-ratios/"><u>[New] 2024 Approved The Ultimate Reference to YouTube Video Aspect Ratios</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unlock-iphonepcs-full-potential-with-these-top-8-converters/"><u>[Updated] 2024 Approved Unlock iPhone/PC's Full Potential With These Top 8 Converters</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-y200-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo Y200 Activity | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpeg-43gp-movavi/"><u>網路直接將MPEG-4影片轉化成3GP格式 - Movavi 自由下載解析器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wma-ogg/"><u>移動維藍 - 免費在線 WMA 到 OGG 文件格式的無限制過渡</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/divers-formes-de-paiement-chez-movavi-options-et-avantages-expliques/"><u>Divers Formes De Paiement Chez Movavi: Options Et Avantages Expliqués</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-conversion-tool-transform-avi-files-into-ogv-format-move-avni/"><u>Free Conversion Tool: Transform AVI Files Into OGV Format - Move Avni</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-highlighting-incorrect-values-using-circular-boundaries-in-excel-spreadsheets/"><u>Guide to Highlighting Incorrect Values Using Circular Boundaries in Excel Spreadsheets</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aining-creative-commons-on-youtube-for-greater-exposure-for-2024/"><u>Maintaining Creative Commons on YouTube for Greater Exposure for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/passer-de-av-a-numerique-pour-gratuits-toujours-avec-movavi/"><u>Passer De AV À Numérique Pour Gratuits - Toujours Avec Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleashing-potential-in-slow-motion-video-capture-with-gopro-hero-10/"><u>Unleashing Potential in Slow-Motion Video Capture with GoPro Hero 10</u></a></li>
 </ul></div>
 
