@@ -1,7 +1,7 @@
 ---
 title: "AI's Verbal Advance: Responding to Commands with Confidence"
-date: 2024-10-02T20:20:37.274Z
-updated: 2024-10-04T00:12:44.848Z
+date: 2024-10-02T07:15:29.214Z
+updated: 2024-10-09T00:25:43.798Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  ChatGPT's new text-to-speech model is only available to Plus and Enterprise subscribers using the official Android and iOS apps and is expected to roll out within the next two weeks (starting from September 25, 2023). Furthermore, the new voice feature is limited to English to begin with, though we would expect this to change rapidly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Can Recognize and Analyze Images and Photographs
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  Like the new text-to-speech model, OpenAI will roll out image recognition in the next two weeks, though it will be available on all platforms, not just the ChatGPT app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Privacy, Security, and Other Issues
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  Given this is the tip of the iceberg, expect pushback against ChatGPT's newfound voice, especially once there is a predictable uptick in unsavory headlines claiming ChatGPT is being used to commit fraud and so on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OpenAI Is Making ChatGPT the Go-To AI App
@@ -106,20 +106,18 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-aggregating-the-top-5-mac-clipping-applications/"><u>[New] Aggregating the Top 5 Mac Clipping Applications</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-securing-memories-a-comprehensive-guide-for-scanning-and-storing-vintage-photos/"><u>[New] Securing Memories A Comprehensive Guide for Scanning and Storing Vintage Photos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-advanced-techniques-in-youtube-video-editing/"><u>[New] The Ultimate Guide to Advanced Techniques in YouTube Video Editing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-for-creating-instagrammable-unboxing-highlights/"><u>2024 Approved Top Tips for Creating Instagrammable Unboxing Highlights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-plus-engeneum-drives-east-midlands-railway-to-achieve-a-5plus-hour-increase-in-email-management-efficiency-each-day/"><u>ABBYY + Engeneum Drives East Midlands Railway to Achieve a 5+ Hour Increase in Email Management Efficiency Each Day</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-boosts-asian-pacific-presence-through-strategic-takeover-of-pericom-singapore/"><u>ABBYY Boosts Asian-Pacific Presence Through Strategic Takeover of Pericom Singapore</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-content-intelligence-meeting-the-high-demand-as-businesses-shift-to-remote-operations/"><u>ABBYY Content Intelligence: Meeting the High Demand as Businesses Shift to Remote Operations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-emphasizes-customer-comprehension-insights-shared-at-aiim-2017-summit/"><u>ABBYY Emphasizes Customer Comprehension Insights Shared at AIIM 2017 Summit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyys-ai-driven-triumph-surpassing-expectations-with-a-60-uptick-in-annual-revenue-honored-by-idc-marketscape-analysis/"><u>ABBYY's AI-Driven Triumph: Surpassing Expectations with a 60% Uptick in Annual Revenue, Honored by IDC MarketScape Analysis</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/enhance-your-imagery-a-step-by-step-guide-for-instagram-videos-for-2024/"><u>Enhance Your Imagery A Step-by-Step Guide for Instagram Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-online-content-finding-the-ideal-website-pages/"><u>Exploring Online Content: Finding the Ideal Website Pages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generations-spezifische-robotersupport-in-abbyy-study-sei-bei-bedarf-gerne-automatisiert/"><u>Generations-Spezifische Robotersupport in ABBYY Study - Sei Bei Bedarf Gerne Automatisiert!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-youtube-phenomenon-forecast/"><u>In 2024, YouTube Phenomenon Forecast</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-landscape-of-3d-color-grading-tools-for-2024/"><u>Navigating the Landscape of 3D Color Grading Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capture-studio-high-fidelity-screen-record/"><u>[New] Capture Studio High Fidelity Screen Record</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-gpts-quadruple-boost-to-fame/"><u>Breaking Barriers: GPT's Quadruple Boost to Fame</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-with-ai-the-case-for-using-chatgpts-7-ways-in-healthcare/"><u>Bridging the Gap with AI: The Case for Using ChatGPT's 7 Ways in Healthcare</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-mastery-an-apple-centric-approach-to-dialogue/"><u>ChatGPT Mastery: An Apple-Centric Approach to Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-horizons-broadened-by-chatbot-innovations/"><u>Creative Horizons Broadened by Chatbot Innovations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-combining-your-epic-battle-royale-profiles-fortnite/"><u>Guide: Combining Your Epic Battle Royale Profiles - Fortnite</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-camon-20-premier-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Camon 20 Premier 5G Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-honor-90-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Honor 90? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-rodent-problem-in-resident-evil-village-game/"><u>Resolved: Fixing the Rodent Problem in Resident Evil Village Game</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-proco-advantage-copilots-advanced-offering/"><u>The Proco Advantage - Copilot's Advanced Offering</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-checklist-for-crafting-distinctive-youtube-short-videos/"><u>The Ultimate Checklist for Crafting Distinctive YouTube Short Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transferring-knowledge-in-ai-an-insight-into-transfer-learning/"><u>Transferring Knowledge in AI: An Insight Into Transfer Learning</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-distinct-features-of-echo-pop-vs-echo-dot/"><u>Unveiling the Distinct Features of Echo Pop Vs. Echo Dot</u></a></li>
 </ul></div>
 

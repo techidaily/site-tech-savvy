@@ -1,7 +1,7 @@
 ---
 title: Personalized Fitness Programming via AI
-date: 2024-09-29T20:21:30.194Z
-updated: 2024-10-03T16:34:54.260Z
+date: 2024-10-06T18:19:24.240Z
+updated: 2024-10-09T07:11:38.185Z
 tags:
   - chatgpt
   - open-ai
@@ -38,15 +38,36 @@ thumbnail: https://thmb.techidaily.com/7856c3240aa6a7dd44d61c6df6c9f2d9b2627d772
 
  Simply inputting the client’s goals and current fitness levels while you ask ChatGPT to create the workout plan is a good starting point. After doing this, you can use other prompts and measures to create a more comprehensive workout plan.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Include Preferences
 
  Now, you can ask ChatGPT to consider any other preferences your client may have. Does the client prefer home or gym workouts? How much time can they devote to training based on their schedule? Do they like group workout plans or prefer to train alone?
 
 ![Modified workout plan for 25-year-old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modified-workout-plan-for-25-year-old.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also feed the AI information about other forms of exercise your client wants to engage in, apart from the one predominant in the plan. For instance, the client may be an avid golfer who golfs multiple times a week, even as they're trying to gain muscle mass at the gym.
 
  By considering all these factors, you can create prompts to guide ChatGPT in creating a more personalized workout schedule.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use a Long Prompt
 
@@ -57,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/7856c3240aa6a7dd44d61c6df6c9f2d9b2627d772
  "Madi is a 16-year-old who wants to improve athletic performance as she plays high school football. At the same time, she wants to gain muscle because being big is an advantage in her sport, so she wants to incorporate some muscle-building exercises. However, all she has is a barbell and some plates. Prepare a muscle-building-focused workout plan that allows her to train three times a week."
 
 ![Madi's workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/madi-s-workout-plan-by-chat-gpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Long prompts are great if you have many clients across a wide range of fitness specialties and goals. They save you time because you just have to gather all the client’s special information and feed them to ChatGPT in well-formed sentences. Not providing context is one of the [ChatGPT prompt mistakes](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) that long prompts can help you avoid.
 
@@ -78,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/7856c3240aa6a7dd44d61c6df6c9f2d9b2627d772
  So, because you must properly [plan rest days for optimum fitness](https://www.makeuseof.com/plan-workout-rest-days-optimum-fitness/), you may need to adjust the plan based on your client’s schedule. You could instruct ChatGPT to reschedule the rest days or reschedule them yourself while sticking to the AI’s exercise suggestions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tweak the Plan to Make Room for Progress
@@ -104,25 +118,11 @@ thumbnail: https://thmb.techidaily.com/7856c3240aa6a7dd44d61c6df6c9f2d9b2627d772
 
  Also, you can ask ChatGPT to add cardio, conditioning, CrossFit, or mobility exercises to a workout plan for an all-encompassing approach to fitness, depending on your client’s current needs and preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Vary the Exercises
 
  To avoid monotony and keep your client’s motivation high, you can also instruct ChatGPT to vary exercises. While this is similar to increasing exercise intensity, it is completely different because it only involves creating alternatives, not making the exercises more difficult.
 
  You can use this initiative for periods when your client is losing consistency, as it adds some spice, making their workouts more interesting. ChatGPT has many workout and exercise suggestions, so you can continue experimenting until you find something you like.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Remember to Allow Your Expertise to Shine
 
@@ -149,18 +149,22 @@ thumbnail: https://thmb.techidaily.com/7856c3240aa6a7dd44d61c6df6c9f2d9b2627d772
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/he-ultimate-checklist-before-choosing-youtube-tv-for-2024/"><u>[New] The Ultimate Checklist Before Choosing YouTube TV for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-drone-tech-present-implementation-and-future-vision/"><u>[Updated] Drone Tech Present Implementation & Future Vision</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-your-content-utilizing-the-green-screen-on-instagram/"><u>2024 Approved Enhance Your Content Utilizing the Green Screen on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-common-blunders-for-successful-ai-discussions/"><u>Avoiding Common Blunders for Successful AI Discussions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-impose-text-limits-for-users/"><u>Does ChatGPT Impose Text Limits for Users?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/establish-an-affordable-windows-gpt-imitation-with-gpt4all/"><u>Establish an Affordable Windows GPT Imitation with GPT4All</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-f25-pro-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo F25 Pro 5Gwith/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-g22-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia G22 To Phone | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/laptop-tips-initiating-video-chats-via-whatsapp-web-for-2024/"><u>Laptop Tips Initiating Video Chats via WhatsApp Web for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-screen-choices-through-chatgpt-tips/"><u>Seamless Screen Choices Through ChatGPT Tips</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unleashing-household-connectivity-with-the-tri-band-netgear-nighthawk-x6-ac3200-a-gamers-and-familys-dream/"><u>Unleashing Household Connectivity with the Tri-Band Netgear Nighthawk X6 AC3200 - A Gamer's and Family's Dream</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-claude-3-4-significant-differences/"><u>Unlocking Potential with Claude 3: 4 Significant Differences</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-top-rated-educational-animation-software-for-schools-for-2024/"><u>Updated The Top-Rated Educational Animation Software for Schools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-castwithease-how-to-make-livestreaming-your-podcast-effortless/"><u>[New] CastWithEase How to Make Livestreaming Your Podcast Effortless</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-9-expert-picked-smartphone-chat-apps-for-business-use/"><u>[New] In 2024, Top 9 Expert-Picked Smartphone Chat Apps for Business Use</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlocking-the-potential-of-your-mobile-content-for-youtube-wealth/"><u>[New] Unlocking the Potential of Your Mobile Content for YouTube Wealth</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-a-chorus-of-images-and-sound-on-instagram-for-2024/"><u>[Updated] Crafting a Chorus of Images & Sound on Instagram for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-soundscape-archives-collect-and-evaluate-recordings/"><u>[Updated] Soundscape Archives Collect & Evaluate Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-your-pcs-potential-with-windows-10s-latest-games/"><u>2024 Approved Unravel Your PC's Potential with Windows 10'S Latest Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-converter-van-swf-naar-mpeg-professioneel-online-tool-von-movavi/"><u>Gratis Converter Van SWF Naar MPEG: Professioneel Online-Tool Von Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-mxf-to-mpeg-omzetter-tool-zoek-de-beste-waarderende-codec-conversie-met-movavi/"><u>Gratis Online MXF-to-MPEG Omzetter Tool - Zoek De Beste Waarderende Codec-Conversie Met Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-webm-to-flac-converter-online-movavi/"><u>Gratis WebM-to-FLAC Converter Online - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/il-processo-di-rallentamento-ottimale-scoperte-e-tecniche-per-la-slowdown-video-nel-2024/"><u>Il Processo Di Rallentamento Ottimale: Scoperte E Tecniche per La Slowdown Video Nel 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-note-30-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Note 30 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/instant-success-with-brother-printer-setup-a-fast-guide/"><u>Instant Success with Brother Printer Setup: A Fast Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-archivo-mp4-a-m4v-sin-costo-adicional-guia-completa-del-convertidor-de-movavi/"><u>Transforma Archivo MP4 a M4V Sin Costo Adicional: Guía Completa Del Convertidor De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforme-suas-animacoes-swf-em-videos-avi-graciosamente-no-portal-on-line-do-moveavi-sem-custo-algum/"><u>Transforme Suas Animações SWF Em Vídeos Avi Graciosamente No Portal On-Line Do Moveavi – Sem Custo Algum!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-tuoi-audio-m4a-in-mp3-ad-alta-qualita-usando-il-solido-convertitore-movavi-prova-ora-gratuitamente/"><u>Trasforma I Tuoi Audio M4A in MP3 Ad Alta Qualità Usando Il Solido Convertitore Movavi - Prova Ora Gratuitamente!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkvaac/"><u>オンラインでのMKVファイルAAC音声変換サービス -無料-</u></a></li>
 </ul></div>
 

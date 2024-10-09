@@ -1,7 +1,7 @@
 ---
 title: AI Revolution in Bing, Thanks to Microsoft
-date: 2024-09-30T23:31:30.840Z
-updated: 2024-10-03T20:18:40.018Z
+date: 2024-10-07T23:00:44.550Z
+updated: 2024-10-09T02:00:05.973Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
  According to [Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's New in Bing?
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -66,6 +66,19 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
@@ -74,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
@@ -88,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
@@ -113,16 +119,15 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-basic-approach-adjust-sea-creature-tones-in-windows-os/"><u>[New] Basic Approach Adjust Sea Creature Tones in Windows OS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-internet-jesters-arsenal/"><u>[New] Internet Jester's Arsenal</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-from-drafts-to-masterpieces-top-10-essential-graphic-design-tools-for-2024/"><u>[Updated] From Drafts to Masterpieces Top 10 Essential Graphic Design Tools for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dancefloor-dynamics-top-rated-dj-video-selections/"><u>[Updated] In 2024, Dancefloor Dynamics Top-Rated DJ Video Selections</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagrams-hottest-meme-accounts-laughter-and-sorrow-sideshow/"><u>[Updated] Instagram's Hottest Meme Accounts Laughter & Sorrow Sideshow</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/detective-your-way-join-4-virtual-ai-crime-solving-experiences/"><u>Detective Your Way: Join 4 Virtual AI Crime-Solving Experiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-role-in-streamlining-writers-workflow/"><u>GPT's Role in Streamlining Writers' Workflow</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-prevent-feelings-of-loneliness/"><u>How to Use ChatGPT to Prevent Feelings of Loneliness</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-characters-that-convert-ideal-story-strategies/"><u>In 2024, Characters That Convert Ideal Story Strategies</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-opt-for-claude-mastering-ai-to-power-your-vision/"><u>Why Opt for Claude? Mastering AI to Power Your Vision</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-creating-a-strong-brand-voice-with-social-media-videos/"><u>[New] 2024 Approved Creating a Strong Brand Voice with Social Media Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-picks-top-10-budget-friendly-jpeg-to-gif-apps/"><u>[New] Expert Picks Top 10 Budget-Friendly JPEG to GIF Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-visualize-freely-premium-no-cost-screen-capture-tools/"><u>2024 Approved Visualize Freely Premium No-Cost Screen Capture Tools</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/abbyy-dominates-the-2024-evalgroups-peak-matrix-benchmark/"><u>ABBYY Dominates the 2024 EvalGroup's PEAK Matrix Benchmark</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-free-online-dei-file-mod-a-wma-con-movavi-ottenere-la-qualita-senza-costo/"><u>Conversione Free Online Dei File MOD a WMA Con Movavi - Ottenere La Qualità Senza Costo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-and-access-amvwmv-video-formats-for-free-via-movavi-web-service/"><u>Convert & Access AMV/WMV Video Formats for Free via Movavi Web Service</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/drafting-a-dim-sum-storyline/"><u>Drafting a Dim Sum Storyline</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-validity-of-prompt-engineering-as-employment/"><u>Exploring the Validity of Prompt Engineering as Employment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/registro-de-google-meet-explicado-tutora-completa-con-instrucciones-detalladas/"><u>Registro De Google Meet Explicado: Tutora Completa Con Instrucciones Detalladas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-11-voiceover-tools-free-and-premium-options-compared/"><u>Top 11 Voiceover Tools: Free and Premium Options Compared</u></a></li>
 </ul></div>
 

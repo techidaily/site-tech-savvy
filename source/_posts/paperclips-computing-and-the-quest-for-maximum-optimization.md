@@ -1,7 +1,7 @@
 ---
 title: Paperclips, Computing, & The Quest for Maximum Optimization
-date: 2024-10-01T21:14:17.325Z
-updated: 2024-10-03T23:43:31.606Z
+date: 2024-10-04T23:34:34.237Z
+updated: 2024-10-08T20:07:54.364Z
 tags:
   - chatgpt
   - open-ai
@@ -47,16 +47,10 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
  The AI isn't hostile to humans; it's just indifferent. An AI that only cares about maximizing the number of paperclips would therefore wipe out humanity and essentially convert them into paperclips to reach its goal.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does the Paperclip Maximizer Problem Apply to AI?
@@ -71,16 +65,10 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 ![A robot holding a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/what-is-openai-gym-and-what-can-you-do-with-it-featured-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The bigger issue highlighted by the paperclip maximizer is instrumental convergence. It can also be highlighted using the Riemann hypothesis, in which case an AI designed to solve the hypothesis might very well decide to take over all of Earth's mass and convert it into computronium (the most efficient computer processors possible) to build supercomputers to solve the problem and reach its goal.
@@ -88,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
  Bostrom himself has emphasized that he doesn't believe that the paperclip maximizer problem will ever be a real issue, but his intention was to illustrate the dangers of creating superintelligent machines without knowing how to control or program them not to be existentially risky to human beings. [Modern AI systems like ChatGPT have problems too](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), but they're far from the superintelligent AI systems being talked about in the paperclip maximize problem, so there's no reason to panic just yet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Advanced AI Systems Need Superior Control
@@ -119,16 +107,24 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-futures-echo-top-30-metaverse-sentiments-arvr-for-2024/"><u>[New] Future's Echo Top 30 Metaverse Sentiments [AR/VR] for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-stream-vs-record-deciding-on-obs-studio-or-bandicam-for-2024/"><u>[New] Stream vs Record Deciding on OBS Studio or Bandicam for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-behind-the-scenes-how-to-create-youtube-trailers-in-filmora-for-2024/"><u>[Updated] Behind the Scenes How-To Create YouTube Trailers in Filmora for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artistic-exploration-at-your-fingertips-using-microsoft-bings-dall-e-3-for-free/"><u>Artistic Exploration at Your Fingertips: Using Microsoft Bing's DALL-E 3 for Free</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effortlessly-resize-and-snip-iphone-footage-using-our-5-tricks-tutorial/"><u>Effortlessly Resize & Snip iPhone Footage Using Our 5-Tricks Tutorial</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/essential-techniques-for-musical-tiktok-creation-for-2024/"><u>Essential Techniques for Musical TikTok Creation for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-master-the-art-of-video-editing-with-top-10-fcp-tools/"><u>In 2024, Master the Art of Video Editing with Top 10 FCP Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-the-arena-of-ideas-notion-vs-chatgpts-content-crusade/"><u>In the Arena of Ideas: Notion Vs. ChatGPT's Content Crusade</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolving-chatgpt-full-capacity-error-in-windows-os/"><u>Resolving ChatGPT Full Capacity Error in Windows OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergy-of-storyteller-and-system-6-ways-gpt-elevates-dm-craftsmanship/"><u>Synergy of Storyteller and System: 6 Ways GPT Elevates DM Craftsmanship</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-humorhub-easy-login-easy-signup/"><u>[New] HumorHub Easy Login, Easy Signup</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-investors-edge-tapping-into-youtube-creators-earnings/"><u>[New] In 2024, The Investor’s Edge Tapping Into YouTube Creators' Earnings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-transform-your-photos-with-instagrams-latest-filters-2023-techniques/"><u>[New] Transform Your Photos with Instagram's Latest Filters (2023 Techniques)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-free-speech-finesse-in-online-combat/"><u>[Updated] In 2024, Free Speech Finesse in Online Combat</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-social-media-best-practices-uploading-and-displaying-subtitles/"><u>[Updated] In 2024, Social Media Best Practices Uploading and Displaying Subtitles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkv3/"><u>完全無損失でMKVを切り分ける3方法：高画質維持のコツ</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/episode-excellence-optimal-launch-windows-for-2024/"><u>Episode Excellence Optimal Launch Windows for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-amd-radeon-driver-update-for-windows-8-systems/"><u>Free AMD Radeon Driver Update for Windows 8 Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/how-to-unlock-full-potential-with-iphone-hdr/"><u>How to Unlock Full Potential with iPhone HDR</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-visionary-storytelling-for-video-viewers-growth/"><u>In 2024, Visionary Storytelling for Video Viewers' Growth</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-solutions-to-overcome-vlcs-cfhd-codec-error-and-ensure-smooth-playback/"><u>Simple Solutions to Overcome VLC's CFHD Codec Error and Ensure Smooth Playback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-tips-and-tricks-how-to-stream-content-via-usb-onto-your-philips-smart-tv/"><u>Simple Tips & Tricks: How To Stream Content via USB Onto Your Philips Smart TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-sound-editing-with-these-4-strategies-to-normalize-wav-audio-files/"><u>Simplify Sound Editing with These 4 Strategies to Normalize WAV Audio Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-premiere-pro-buffering-issues-discover-over-10-effective-fixes/"><u>Solving Premiere Pro Buffering Issues: Discover Over 10 Effective Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-no-cost-sites-for-hd-movie-streams-of-blockbuster-films/"><u>Top 10 No-Cost Sites for HD Movie Streams of Blockbuster Films</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-picks-for-alac-audio-format-a-complete-guide-to-transforming-and-saving-your-music-in-apple-lossless/"><u>Top Picks for ALAC Audio Format: A Complete Guide to Transforming and Saving Your Music in Apple Lossless</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-and-resolving-windows-n-11s-xbox-game-bar-malfunctions-effectively/"><u>Troubleshooting and Resolving Windows N 11'S Xbox Game Bar Malfunctions Effectively!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlock-hidden-potentials-top-5-underutilized-features-of-chatgpt/"><u>Unlock Hidden Potentials: Top 5 Underutilized Features of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/xbox-one-movie-transfer-how-to-watch-files-offloaded-onto-a-flash-drive/"><u>Xbox One Movie Transfer: How to Watch Files Offloaded Onto a Flash Drive</u></a></li>
 </ul></div>
 

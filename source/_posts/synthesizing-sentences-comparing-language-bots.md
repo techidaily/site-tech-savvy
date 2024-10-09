@@ -1,7 +1,7 @@
 ---
 title: "Synthesizing Sentences: Comparing Language Bots"
-date: 2024-10-02T21:01:00.817Z
-updated: 2024-10-04T01:21:51.592Z
+date: 2024-10-03T02:16:47.366Z
+updated: 2024-10-08T16:21:32.076Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 * [Le Chat vs. ChatGPT: Creativity](https://bluettius.sjv.io/dkpnv2)
 * [Le Chat vs. ChatGPT: Programming Skills](https://versadesk.pxf.io/xyboxx)
 * [Le Chat vs. ChatGPT: Common Sense and Logical Reasoning](https://ukaidot.sjv.io/daqnoj)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -60,6 +53,19 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 
  I've been wondering the same, and to find out, I tested Le Chat extensively to see how it compares to ChatGPT.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Le Chat vs. ChatGPT: Creativity
 
  Creativity is one of the most important metrics for judging the performance of a conversational AI chatbot. Remember, the purpose of an AI chatbot is to replicate or mimic the conversational abilities and creative flair of humans at scale. This makes creativity a very important strength for any AI chatbot. The world has experimented with ChatGPT for over a year, and its creative abilities are undeniable. But how does Le Chat compare? We put both chatbots to a series of creativity tests.
@@ -86,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 
 ![Le Chat Mistral writes song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-writes-song.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It might be a subjective issue, but ChatGPT's response seemed like the better option here. Le Chat's lyrics seemed quite wordy and didn't really read like something a rapper would put out. To test how both lyrics would sound if they were to be made into music, we used [Suno AI music generator to generate music](https://www.makeuseof.com/suno-ai-make-music-from-text-prompt/) from the lyrics. Three out of three trials, ChatGPT's lyrics sounded way better. Below are two samples from both AI chatbots, you can be the judge of which chatbot did better.
 
 **Samples Generated From ChatGPT's Lyrics**
@@ -109,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 
  I tried a few other creative tasks, like poems, article writing, and drafting tricky work emails with the AI chatbots. Despite showing great promise, Le Chat was clearly outdone by ChatGPT in all instances. It's important to point out that one area Le Chat was particularly strong in was crafting articles, although with some tricky prompting styles. However, in terms of all-round creativity, the medal goes to ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Le Chat vs. ChatGPT: Programming Skills
 
  Proficiency in coding has become a key requirement for major AI chatbots. Writing decent code is a baseline skill, but to truly stand out among the elite, an AI chatbot must demonstrate its prowess in crafting code that can effectively solve a diverse array of complex problems. We've previously [built an entire web app from scratch using ChatGPT](https://www.makeuseof.com/chatgpt-how-build-web-app/) which demonstrates its remarkable abilities as a programming tool. But how good is Le Chat at writing code?
@@ -123,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
  I tasked both chatbots to write a simple to-do list app using CSS, HTML, and JavaScript. ChatGPT didn't have any trouble producing good results. I copied the generated code and previewed it on a browser, and here's what ChatGPT created:
 
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Each time we repeated the prompt, ChatGPT created a functional to-do list app using different styles. In no instance did the generated code fail to work.
 
@@ -133,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
  I repeated a few more programming tests involving finding and fixing bugs, and ChatGPT consistently outperformed Le Chat. In some instances, Le Chat didn't even know what it was supposed to do. There's a good chance Le Chat can measure up to ChatGPT in some areas, but coding skills don't seem to be one of them.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Le Chat vs. ChatGPT: Common Sense and Logical Reasoning
@@ -153,6 +152,13 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 
 ![Le Chat Mistral logical reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-logical-reasoning.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Both chatbots performed comparably on this test.
 
  Up next, we asked both chatbots a trick question: "**If a spaceship from Mars breaks into two, with one part crashing into the Atlantic Ocean near Brazil and the other into the Pacific Ocean near Japan, where do you bury the survivors?"**
@@ -166,10 +172,10 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 ![Le Chat Mistral answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-answers-trick-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I tried more trick questions, and it seemed both ChatGPT and Le Chat are quite adept at dealing with commonsense and logical reasoning prompts. However, with more complex logic questions, only ChatGPT could provide the right responses.
@@ -195,20 +201,20 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-ultimate-guide-to-finding-the-right-youtube-keywords/"><u>[New] 2024 Approved The Ultimate Guide to Finding the Right YouTube Keywords</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-highlighting-the-finest-video-grabbers-in-windows-10/"><u>[Updated] Highlighting the Finest Video Grabbers in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-on-mobile-embrace-voicecontrol/"><u>ChatGPT on Mobile: Embrace VoiceControl</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/easily-capturing-iphone-screens-on-the-go/"><u>Easily Capturing iPhone Screens on the Go</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exciting-news-chatgpt-on-iphone/"><u>Exciting News: ChatGPT on iPhone!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-dark-side-of-language-models-on-code/"><u>Exploring the Dark Side of Language Models on Code</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-non-operational-ctrl-keys-in-windows-11/"><u>Fixing Non-Operational Ctrl Keys in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-text-to-visuals-the-dynamic-duo-of-gpt-4-and-dall-e/"><u>From Text to Visuals: The Dynamic Duo of GPT-4 & DALL-E</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-infinix-hot-40-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Infinix Hot 40 Phone Now with These Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leadership-in-learning-validating-chatgpts-educational-use/"><u>Leadership in Learning: Validating ChatGPT’s Educational Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-tech-talk-diving-deep-into-toms-hardware-secrets/"><u>Mastering Tech Talk: Diving Deep Into Tom's Hardware Secrets</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/premier-terraria-maps-to-maximize-mining-success/"><u>Premier Terraria Maps to Maximize Mining Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/uninstalling-microsofts-intelligent-code-companion-from-windows-11-an-in-depth-walkthrough/"><u>Uninstalling Microsoft's Intelligent Code Companion From Windows 11: An In-Depth Walkthrough</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-uncovering-methods-for-preserving-social-media-moments-status-videos-for-2024/"><u>[New] Uncovering Methods for Preserving Social Media Moments - Status Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-flavorful-follows-top-food-vloggers-to-track-for-2024/"><u>[Updated] Flavorful Follows Top Food Vloggers to Track for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-game-on-for-gaiety-your-must-try-10-for-2024/"><u>[Updated] Game On for Gaiety Your Must-Try 10 for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-premiere-pro-masterclass-essential-templates-for-free/"><u>[Updated] Premiere Pro Masterclass - Essential Templates for Free</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-speedy-screen-grab-creation-techniques/"><u>[Updated] Speedy Screen Grab Creation Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/art-of-ai-interaction-top-tutorials-for-commanders/"><u>Art of AI Interaction: Top Tutorials for Commanders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-lag-advanced-techniques-to-lower-ping-in-warzone-20-updated/"><u>Beat the Lag: Advanced Techniques to Lower Ping in Warzone 2.0 [Updated ]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-user-data-safety-assessed/"><u>ChatGPT: User Data Safety Assessed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fact-seeker-no-windows-gpt-client-is-not-malware/"><u>Fact Seeker: No, Windows GPT Client Is Not Malware</u></a></li>
+<li><a href="https://fox-links.techidaily.com/how-much-space-does-a-days-video-take-up/"><u>How Much Space Does a Day's Video Take Up?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-7-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone 7 on MetroPCS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-oppo-a1x-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Oppo A1x 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-premier-5-ai-prompt-generators-reviewed/"><u>The Premier 5 AI Prompt Generators Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-free-easy-to-use-artificial-intelligence-tools/"><u>Top 6 Free, Easy-to-Use Artificial Intelligence Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-impostor-gpts-with-strategic-acknowledgments/"><u>Unmasking Impostor GPTs with Strategic Acknowledgments</u></a></li>
 </ul></div>
 

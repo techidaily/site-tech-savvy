@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Future of Manufacturing: ChatGPT & 3D Printing"
-date: 2024-09-30T16:10:33.536Z
-updated: 2024-10-03T16:58:08.602Z
+date: 2024-10-05T04:15:25.877Z
+updated: 2024-10-08T22:49:08.849Z
 tags:
   - chatgpt
   - open-ai
@@ -39,28 +39,15 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
  ChatGPT can make it much easier to create and manage files for 3D printing and save you a lot of time and effort. 3D modeling is a time-consuming process that often involves a lot of repetitive tasks, and this makes it well worth using AI tools to make it faster.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generate an STL File With ChatGPT
 
 ![Male designer facing a computer, working on 3D furniture models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/male-designer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [STL is the most commonly used file format for 3D printing](https://www.makeuseof.com/what-is-an-stl-file-what-is-it-used-for/). An STL file stores sets of instructions that enable CAD and slicer software to build a 3D model that was saved elsewhere or made at a different time. Thanks to their simplicity, ChatGPT can generate simple STL files for you.
 
@@ -72,6 +59,13 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
 ![ChatGPT generating a cube STL file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-generate-cube-stl.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Copy the text from the window and paste it into a blank notepad file. When you save the file, make sure that you change the extension to “.stl”. Now you can load the file into your slicer software of choice and prepare it for 3D printing.
 
  Note that on the first attempt, you may not always get the 3D model you asked for, in which case you’ll need to ask ChatGPT to correct it.
@@ -79,16 +73,10 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
  While ChatGPT certainly has the ability to create STL files of greater complexity, OpenAI can’t dedicate the resources required for this sort of operation to free users. This is still an excellent tool for those who would like to build an understanding of how STL files work, though.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generate 3D Model Scripts for CAD Software With ChatGPT
@@ -101,18 +89,18 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
 ![ChatGPT generated Blender Python script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-cube-python.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have your script copied, you can load up Blender and head to the Scripting workspace. By default, you should see a script console on the left of the screen. Paste the ChatGPT-generated script into the console pane and hit the **Enter** key to see your 3D model appear in the 3D workspace.
 
 ![Blender script generated cube](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/blender-script-generated-cube.jpg)
 
  Like when generating an STL file with ChatGPT, there are limitations in place that mean that the chatbot won’t try to create scripts that are too time-consuming. Thankfully, though, you can find paid services around the web that expand ChatGPT’s script-writing abilities. You can [learn how to access GPT-4](https://www.makeuseof.com/how-to-use-gpt4/) to enhance your 3D printing even further.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Else Can ChatGPT Help With 3D Printing?
 
@@ -146,16 +134,22 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-depth-look-at-srt-knowledge-for-all-levels-for-2024/"><u>[Updated] In-Depth Look at SRT Knowledge for All Levels for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-nikon-j5-in-4k-the-ultimate-camera-review/"><u>2024 Approved Nikon J5 in 4K The Ultimate Camera Review</u></a></li>
-<li><a href="https://fox-http.techidaily.com/dive-into-periscope-no-cost-entry-and-user-account-setup-steps-for-2024/"><u>Dive Into Periscope No Cost Entry & User Account Setup Steps for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diy-digital-diplomats-building-bespoke-chatbots/"><u>DIY Digital Diplomats: Building Bespoke ChatBots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/functionalities-and-techniques-behind-localized-ai/"><u>Functionalities and Techniques Behind Localized AI</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-valheim-lagging-problems-on-your-computer/"><u>How to Resolve Valheim Lagging Problems on Your Computer</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-capturing-moments-seamlessly-with-snap-and-meet/"><u>In 2024, Capturing Moments Seamlessly with Snap and Meet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-linguistic-technology-tracing-the-distinctions-of-gpt-and-bert/"><u>Mastering Linguistic Technology: Tracing the Distinctions of GPT & BERT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-obsolescence-six-ways-to-shine-in-an-ai-world/"><u>Overcoming Obsolescence: Six Ways to Shine in an AI World</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-samsungs-4k-hdr10plus-star-qn55q60rafxza-smart-tv-review/"><u>The Ultimate Guide to Samsung's 4K HDR10+ Star, QN55Q60RAFXZA Smart TV Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-paperwork-into-intelligence-chatgpts-fourfold-path/"><u>Transforming Paperwork Into Intelligence: ChatGPT's Fourfold Path</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-igtvs-top-10-talents-to-follow-today/"><u>[New] In 2024, IGTV's Top 10 Talents to Follow Today</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-innovative-broadcasting-leveraging-monitor-screens-in-live-fb-streams/"><u>[New] In 2024, Innovative Broadcasting Leveraging Monitor Screens in Live Fb Streams</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-geoffrey-scotts-visionary-photography-on-the-movavi-platform/"><u>Discover Geoffrey Scott's Visionary Photography on the Movavi Platform</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-11-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 11 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-omzetten-van-wav-naar-aiff-online-movavi-als-sollicitatiepunt/"><u>Gratis Omzetten Van WAV Naar AIFF Online - Movavi Als Sollicitatiepunt</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unlock-slides-potential-embedding-video-from-youtube/"><u>In 2024, Unlock Slides' Potential Embedding Video From YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-f23-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo F23 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4a-wmv-cs-0-mbps/"><u>M4A WMV 자바스크 전환 - 원활한 인터넷 코드cs용 무게 0 Mbps 회전</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-trasforma-il-tuo-video-in-formato-pef-senza-costi-un-tutorial-essenziale-per-lencoding-online/"><u>Movavi - Trasforma Il Tuo Video in Formato PEF Senza Costi: Un Tutorial Essenziale per L'encoding Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opgeluchtende-online-omzetter-ogg-naar-mpeg-professioneel-zorgt-movavi-voor-gratis-converting/"><u>Opgeluchtende Online Omzetter OGG Naar MPEG - Professioneel Zorgt Movavi Voor Gratis Converting</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/screen-spectaculum-hitting-720p-with-twitter-vids/"><u>Screen Spectaculum Hitting 720P with Twitter Vids</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-tech-reviews-with-a-focus-on-alternatives/"><u>Top Tech Reviews with a Focus on Alternatives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-video-editing-apps-para-enaltecer-suas-producoes-no-youtube/"><u>Top Video Editing Apps Para Enaltecer Suas Produções No Youtube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-mp4-videos-into-mpg-files-without-cost-using-movavis-web-service/"><u>Transform Your MP4 Videos Into MPG Files Without Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unmasking-momentum-makers-seeking-out-niche-influencers-for-2024/"><u>Unmasking Momentum Makers Seeking Out Niche Influencers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi-to-webm/"><u>무료 온라인 AVI to WEBM 전환 도구 사용하기 – 모바비</u></a></li>
 </ul></div>
 

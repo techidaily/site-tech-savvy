@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Vision: Intelligent Home Assistants on Tomorrow’s Horizon | Insights and Predictions"
-date: 2024-10-01T18:58:55.290Z
-updated: 2024-10-03T17:05:34.258Z
+date: 2024-10-03T23:32:08.664Z
+updated: 2024-10-08T19:46:30.411Z
 tags:
   - apple
 categories:
@@ -44,15 +44,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -64,10 +71,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -77,10 +84,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -88,13 +95,6 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,22 +130,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-two-ways-to-keep-your-insta-reels-accessible-anytime/"><u>[New] In 2024, Two Ways to Keep Your Insta Reels Accessible Anytime</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-tweet-audio-conversion-free-video-downloads/"><u>[Updated] 2024 Approved Tweet Audio Conversion Free Video Downloads</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-elevate-design-complimentary-cutting-edge-psd-texts/"><u>2024 Approved Elevate Design Complimentary, Cutting-Edge PSD Texts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-tips-to-prevent-frame-skipping-in-obs-studio/"><u>2024 Approved Tips to Prevent Frame Skipping in OBS Studio</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-infinix-note-30-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Infinix Note 30 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatai-profits-and-pc-building-hacks-for-enthusiasts/"><u>ChatAI Profits & PC Building Hacks for Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-discern-legitimate-chatbot-ios-programs/"><u>How to Discern Legitimate ChatBot iOS Programs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/image-integrity-keeping-quality-high-during-iphone-crops-for-2024/"><u>Image Integrity Keeping Quality High During iPhone Crops for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-scenes-into-memorable-moments-your-comprehensive-guide-to-gopro-timelapses/"><u>In 2024, Transform Scenes Into Memorable Moments Your Comprehensive Guide to GoPro Timelapses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-innovation-will-claude-surpass-gpts-skills/"><u>Interactive Innovation: Will Claude Surpass GPT's Skills?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-gpts-influence-erasing-students-essay-excellence/"><u>Is GPT's Influence Erasing Students' Essay Excellence?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mitigating-risks-gpt-modifications-and-your-data/"><u>Mitigating Risks: GPT Modifications & Your Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openais-gpt-on-ubuntu-command-line-connections-with-shellgpt/"><u>OpenAI's GPT on Ubuntu: Command-Line Connections with ShellGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sifting-through-codegpt-can-it-realistically-write-complex-code/"><u>Sifting Through CodeGPT: Can It Realistically Write Complex Code?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-unpredictability-of-creative-writing-outside-algorithms/"><u>The Unpredictability of Creative Writing Outside Algorithms</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-avi-editor-for-windows-8-with-advanced-features-for-2024/"><u>Updated Unleash Your Creativity AVI Editor for Windows 8 with Advanced Features for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/weighing-your-options-which-is-better-bing-chat-for-freelancers/"><u>Weighing Your Options: Which Is Better, Bing Chat for Freelancers?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-mastering-a-new-identity-the-complete-tiktok-username-transformation/"><u>[New] 2024 Approved Mastering a New Identity The Complete TikTok Username Transformation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-odins-legacy-destiny-of-ragnarok/"><u>[Updated] 2024 Approved Odin's Legacy Destiny of Ragnarök</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/assessing-flagship-features-does-motorola-edgeplus-deliver-on-promises/"><u>Assessing Flagship Features: Does Motorola Edge+ Deliver on Promises?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-continua-converti-i-tuoi-file-mp4-in-3gp-per-free-soluzione-di-movavi-online/"><u>Conversione Continua: Converti I Tuoi File MP4 in 3GP per Free - Soluzione Di Movavi Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertidor-online-de-video-transforme-seus-filmes-em-mp4-mov-ou-avi-com-eficiencia/"><u>Convertidor Online De Vídeo – Transforme Seus Filmes Em MP4, MOV Ou AVI Com Eficiência</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/deciding-between-top-productivity-tools-a-side-by-side-comparison-of-microsoft-to-do-and-google-tasks-for-efficient-list-management-expert-analysis-from-zdn125/"><u>Deciding Between Top Productivity Tools: A Side-by-Side Comparison of Microsoft To Do and Google Tasks for Efficient List Management | Expert Analysis From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-guide-the-five-best-techniques-to-change-avi-videos-to-mp4-on-macos/"><u>Easy Guide: The Five Best Techniques to Change AVI Videos to MP4 on macOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/effortless-viewing-top-free-compatible-player-software-for-2024/"><u>Effortless Viewing Top Free, Compatible Player Software for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-mkv-to-mjpeg-video-format-with-movavi/"><u>Free Online Converter: MKV to MJPEG Video Format with Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-infinite-sound-problem-solutions-optimize-your-gaming-experience/"><u>Halo Infinite Sound Problem Solutions: Optimize Your Gaming Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-t2-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo T2 5G</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-captivate-viewers-earn-accolades-tips-for-staff-picks-on-vimeo/"><u>In 2024, Captivate Viewers, Earn Accolades Tips for Staff Picks on Vimeo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223986357-mkv/"><u>MKVファイルを簡単に解放 - 無料でオンライン変換!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movaviwebppng/"><u>Movaviツールを使ったWebPファイルからPNGへの直接変換ガイド【モバイル版】</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scambia-il-tuo-mpg-per-un-flusso-ad-alta-qualita-in-aac-conversione-gratuita-di-video-online-facile-con-movavi/"><u>Scambia Il Tuo MPG per Un Flusso Ad Alta Qualità in AAC: Conversione Gratuita Di Video Online Facile Con Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-sony-xperia-5-v-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Sony Xperia 5 V to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforme-seus-videos-mov-em-mp4-on-line-sem-custo-instrucoes-detalhadas-e-simples/"><u>Transforme Seus Vídeos MOV Em MP4 On-Line Sem Custo - Instruções Detalhadas E Simples</u></a></li>
 </ul></div>
 

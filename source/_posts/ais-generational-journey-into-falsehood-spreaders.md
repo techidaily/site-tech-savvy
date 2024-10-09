@@ -1,7 +1,7 @@
 ---
 title: AI's Generational Journey Into Falsehood Spreaders
-date: 2024-09-29T17:26:00.670Z
-updated: 2024-10-03T23:23:58.342Z
+date: 2024-10-07T03:17:34.346Z
+updated: 2024-10-08T18:10:46.203Z
 tags:
   - chatgpt
   - open-ai
@@ -42,22 +42,15 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -73,10 +66,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -91,10 +84,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -104,6 +97,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So [AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/). According to a 2023 [Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/), the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to [identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -147,20 +147,21 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-elite-content-consummation/"><u>[New] 2024 Approved Elite Content Consummation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assisted-nutrition-delicious-healthy-creations/"><u>AI-Assisted Nutrition: Delicious, Healthy Creations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alert-fake-gpt-programs-pose-threats-to-online-safety/"><u>Alert: Fake GPT Programs Pose Threats to Online Safety!</u></a></li>
-<li><a href="https://facebook.techidaily.com/determining-facebook-uptime-methods-and-timelines/"><u>Determining Facebook Uptime: Methods and Timelines</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-curiosity-to-creation-your-guide-to-openai-innovations/"><u>From Curiosity to Creation: Your Guide to OpenAI Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-powered-strategies-for-ei-development/"><u>GPT-Powered Strategies for EI Development</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-easily-enable-bluetooth-on-your-pc-with-windows-11-or-10/"><u>Guide: Easily Enable Bluetooth on Your PC with Windows 11 or 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-create-ai-images/"><u>How to Use ChatGPT to Create AI Images</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-final-30-free-and-paid-blu-ray-solutions-for-pcmac-users/"><u>In 2024, Final 30 Free & Paid Blu-Ray Solutions for PC/Mac Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-your-computers-potential-a-wintoy-guidebook/"><u>Master Your Computer's Potential: A Wintoy Guidebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/obspluszoom-creating-a-flawless-production-workflow-for-2024/"><u>OBS+Zoom Creating a Flawless Production Workflow for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-tips-uploading-to-apple-podcast-network/"><u>Quick Tips Uploading to Apple Podcast Network</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-top-8-chrome-extensions-powered-by-ai/"><u>The Ultimate Guide to Top 8 Chrome Extensions Powered by AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-therapeutic-potential-chatgpts-influence-on-cbt/"><u>Unlocking Therapeutic Potential: ChatGPT's Influence on CBT</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/monetized-channel-blueprint-for-online-creators/"><u>Your Monetized Channel Blueprint for Online Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-visual-wit-iphone-memetic-formats/"><u>[New] In 2024, Visual Wit IPhone Memetic Formats</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-amplifying-impact-youtube-visibility-techniques-for-2024/"><u>[Updated] Amplifying Impact YouTube Visibility Techniques for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ditching-new-features-going-back-to-el-capitan-for-2024/"><u>[Updated] Ditching New Features Going Back to El Capitan for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-talking-head-tricks-simple-steps-for-stunning-online-presence/"><u>[Updated] In 2024, Talking-Head Tricks Simple Steps for Stunning Online Presence</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ideal-online-destinations-for-video-promotion/"><u>2024 Approved Ideal Online Destinations for Video Promotion</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-s23-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy S23 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatting-to-the-future-gpt-and-bing-in-ai-dialogue-duel/"><u>Chatting to the Future: GPT & Bing in AI Dialogue Duel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/combatting-fake-chatgpt-pages-a-practical-guide/"><u>Combatting Fake ChatGPT Pages: A Practical Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-gratuita-dei-file-wtv-in-mp4-online-guida-rapida-e-completa-con-movavi-video-converter/"><u>Conversione Gratuita Dei File WTV in MP4 Online: Guida Rapida E Completa Con Movavi Video Converter</u></a></li>
+<li><a href="https://games-able.techidaily.com/easing-into-the-game-after-fatigue-episodes/"><u>Easing Into the Game After Fatigue Episodes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-youtube-gaming-pros-choice-of-5-microphones/"><u>In 2024, YouTube Gaming Pros' Choice of 5 Microphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-teslas-mind-unveiling-gpt/"><u>Inside Tesla's Mind: Unveiling GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-impact-crafting-social-media-posts-with-chatgpt/"><u>Maximizing Impact: Crafting Social Media Posts with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-digital-frontier-with-nightshade-for-authenticity-protection/"><u>Navigating the Digital Frontier with Nightshade for Authenticity Protection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfecting-every-dish-7-ways-ai-assists-chefs/"><u>Perfecting Every Dish: 7 Ways AI Assists Chefs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-lean-on-gpt-to-condense-texts-may-backfire/"><u>Why Lean on GPT to Condense Texts May Backfire?</u></a></li>
 </ul></div>
 

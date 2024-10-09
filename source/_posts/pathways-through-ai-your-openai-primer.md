@@ -1,7 +1,7 @@
 ---
 title: "Pathways Through AI: Your OpenAI Primer"
-date: 2024-09-26T18:41:55.422Z
-updated: 2024-10-03T20:18:32.866Z
+date: 2024-10-07T23:19:49.528Z
+updated: 2024-10-09T00:21:43.453Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 
  The for-profit subsidiary began in 2019 with OpenAI Limited Partnership, as the company wanted to attract funding for its research.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## OpenAI’s Main Projects and Achievements
 
 [OpenAI announced](https://openai.com/our-structure) its goal of $1 billion in donations but has only received a little over $130 million so far.
@@ -58,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 [Crunchbase reports](https://www.crunchbase.com/organization/openai/company%5Ffinancials) that OpenAI LP has amassed over $11.3B in funding over five rounds from its founders and contributors in addition to a $1 billion investment from Microsoft in 2019\. So it's no surprise that this research company has covered huge milestones.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. ChatGPT
@@ -80,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 
 ![DALL-E Playground Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dall-e-playground-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [DALL-E is a generative AI model](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) capable of generating images from text descriptions. It was created in January 2021 and has since undergone several improvements.
 
  The initial models could only generate images with a resolution of 256x256 megapixels and were heavily criticized and shunned for their inaccurate and blurry images. However, DALL-E 2, released in April 2022 and made public in July 2022, could create images of 1024x1024 megapixels and is more accurate and realistic than its predecessor.
@@ -103,22 +89,15 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 
  Though Codex was a nifty service, it was shut down in March 2023, with OpenAI recommending that users opt for ChatGPT instead.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Challenges and Controversies Faced by OpenAI
 
  OpenAI was founded to advance AI research and prevent its monopolization. But the research company faces challenges on different fronts.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Regulatory Issues
@@ -135,13 +114,34 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 
  However, as AI advances, so do its applications and chances of being used for malicious purposes. This has led OpenAI to try to find a balance between hiding and sharing research, despite the former going against their mission.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Ethical Issues
 
  There have been cases where [OpenAI’s models have shown biased content](https://www.makeuseof.com/does-chatgpt-lie/) due to the type of training data they were built with. Addressing this problem is complicated as it will need a lot of fine-tuning and comprehensive data selection. And even at that, it would be almost impossible to eradicate biased results.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Competition
 
  OpenAI has numerous for-profit competitors, such as DeepMind (a subsidiary of Alphabet Inc.) and NVIDIA Corporation, which is also developing AI solutions. For OpenAI to remain at the forefront, there must be continued innovations and collaborations. This has led them to move from their non-profit declaration to a hybrid that welcomes funding.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does the Future Look Like for OpenAI?
 
@@ -166,20 +166,24 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-direct-to-device-converting-youtube-tracks-for-idevices/"><u>[New] 2024 Approved Direct to Device Converting YouTube Tracks for iDevices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-expanding-your-instagram-audience-step-by-step/"><u>[New] Expanding Your Instagram Audience Step-by-Step</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-debugging-techniques-identifying-and-resolving-common-javascript-errors/"><u>[New] In 2024, Debugging Techniques Identifying and Resolving Common JavaScript Errors</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-essential-yoda-of-youtube-analytics-deciphering-earnings-and-viewer-counts-for-2024/"><u>[New] The Essential Yoda of YouTube Analytics Deciphering Earnings & Viewer Counts for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-video-editing-mastery-leveraging-youtube-then-expanding-beyond/"><u>[Updated] In 2024, Video Editing Mastery Leveraging YouTube, Then Expanding Beyond</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/5liw55wm6acc57sa6ieq55sx5lit5pah5zkm6iux5pah5a2x5bmv5lil6lyjic0g5ywn6lk75oplusq5l6b6zu75b2x44cb6zu76kaw5yqh5a2x5bmv/"><u>世界頂級自由中文和英文字幕下載 - 免費提供電影、電視劇字幕</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-under-attack-unraveling-the-mystery/"><u>ChatGPT Under Attack: Unraveling the Mystery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/coding-aide-comparison-github-copilot-and-chatgpt-face-off/"><u>Coding Aide Comparison: GitHub Copilot and ChatGPT Face-Off</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/do-interactions-impact-chatgpts-knowledge-growth/"><u>Do Interactions Impact ChatGPT's Knowledge Growth?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-europes-ai-legislation-could-transform-chatgpt/"><u>How Europe's AI Legislation Could Transform ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-8-chrome-addons-with-ai-for-increased-productivity/"><u>Leading 8 Chrome Addons with AI for Increased Productivity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-natural-language-for-excel-excellence-via-chatgpt/"><u>Leveraging Natural Language for Excel Excellence via ChatGPT</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-realtek-wireless-driver-problems-on-windows-11-10-and-7/"><u>Troubleshooting and Fixing Realtek Wireless Driver Problems on Windows 11, 10 & 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-auto-gpt-and-how-does-it-differ-from-chatgpt/"><u>What Is Auto-GPT, and How Does It Differ From ChatGPT?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rom-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing/"><u>[New] From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726026946814-flac/"><u>「一括変換手順：FLACを使った最高音質のハイレゾビットアップテクニック」</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-the-font-inclusion-process-in-ae/"><u>2024 Approved Breaking Down the Font Inclusion Process in AE</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-fix-iphone-camera-not-focusing-problem/"><u>2024 Approved How to Fix iPhone Camera Not Focusing Problem</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unlocking-the-secrets-of-snapchat-boomerang-tricks/"><u>2024 Approved Unlocking the Secrets of Snapchat Boomerang Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chuckle-chronicles-hilarious-meme-crafting-simplified-for-2024/"><u>Chuckle Chronicles Hilarious Meme Crafting Simplified for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/corsair-h80-v2-cpu-liquid-cooler-download-drivers-and-setup-instructions/"><u>Corsair H80-V2 CPU Liquid Cooler: Download Drivers & Setup Instructions</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-dynamic-evolution-in-mmo-worlds/"><u>Exploring the Dynamic Evolution in MMO Worlds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028458378-freemake/"><u>Freemakeビデオ変換ツールの不通知事情とその解消方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ignite-interest-with-your-own-solo-podcast-series/"><u>In 2024, Ignite Interest with Your Own Solo Podcast Series</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-6-strategies-for-mc-village-housebuilding/"><u>In 2024, Top 6 Strategies for MC Village Housebuilding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028450790-pc/"><u>PC用自由ソフトによる音声録音の達人４選をご紹介する</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-platforms-for-downloading-cartoon-episodes-and-simple-steps-to-get-them/"><u>Top Platforms for Downloading Cartoon Episodes & Simple Steps to Get Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshoot-lack-of-sound-and-non-dts-compatibility-on-mx-video-player/"><u>Troubleshoot Lack of Sound & Non-DTS Compatibility on MX Video Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-free-episodes-discover-the-best-websites-ranked-1-11-for-high-quality-show-and-series-download/"><u>Ultimate Guide to FREE Episodes: Discover the Best Websites Ranked #1-#11 for High-Quality Show and Series Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ipad-supported-video-formats-and-easy-conversion-tips/"><u>Understanding iPad Supported Video Formats & Easy Conversion Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wechat-pc/"><u>WeChat 通話の記録・再生: PCやスマートフォンでの手引き</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-monetization-changes-500-subscribers-now-eligible-for-2024/"><u>YouTube Monetization Changes 500 Subscribers Now Eligible for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028589953-youtube/"><u>YouTubeで動画として利用可能なスクリーンショットのアップロード手順</u></a></li>
 </ul></div>
 

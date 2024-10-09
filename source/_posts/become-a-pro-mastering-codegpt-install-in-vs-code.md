@@ -1,7 +1,7 @@
 ---
 title: "Become a Pro: Mastering CodeGPT Install in VS Code"
-date: 2024-09-29T16:08:47.187Z
-updated: 2024-10-03T20:09:17.491Z
+date: 2024-10-02T03:11:29.888Z
+updated: 2024-10-09T00:24:19.893Z
 tags:
   - chatgpt
   - open-ai
@@ -78,22 +78,21 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 
 ![CodeGPT chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-chat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then input your request and click **Send**. In this case, the request is for a simple calculator. CodeGPT will process your request and generate your code in the chat window.
 
 ![CodeGPT code generation in the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-code-generation-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click on the "insert code" arrow to automatically paste the code into your script. As you can see, this method is more tidy. The generated code is as shown below:
@@ -137,20 +136,27 @@ else:
 
  CodeGPT will generate new code that implements the requested refactoring.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Explaining Your Code With CodeGPT
 
  To explain your code, select the code that you want CodeGPT to explain. Then right-click on the highlighted code and select the **Explain CodeGPT** option.
 
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
 
- CodeGPT will explain what the code does on the chat window.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ CodeGPT will explain what the code does on the chat window.
 
 ## Documenting Your Code Using CodeGPT
 
@@ -179,10 +185,10 @@ def divide(x, y):
  These are clear and correct inline comments.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Understanding How Generative AI Works
@@ -208,22 +214,17 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-design-channels-get-free-visuals-now/"><u>[New] 2024 Approved Design Channels - Get Free Visuals Now</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-elevate-your-youtube-screens-video-zoom-guide-for-2024/"><u>[New] Elevate Your YouTube Screens Video Zoom Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-perfecting-live-social-media-facebook-livestream-tutorials-for-tech-for-2024/"><u>[Updated] Perfecting Live Social Media Facebook Livestream Tutorials for Tech for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-ways-to-legally-stream-the-movie-spider-man-no-way-home/"><u>Best Ways to Legally Stream the Movie 'Spider-Man: No Way Home'</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficient-conversion-optimization-with-the-help-of-cookiebot-technology/"><u>Efficient Conversion Optimization with the Help of Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-financial-expertise-with-abbyys-content-intelligence-for-accounting-professionals/"><u>Elevate Your Financial Expertise with ABBYY's Content Intelligence for Accounting Professionals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-online-presence-innovative-solutions-from-cookiebots-expertise/"><u>Elevate Your Online Presence: Innovative Solutions From Cookiebot's Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-website-engagement-using-cookiebots-innovative-solutions/"><u>Elevate Your Website Engagement Using Cookiebot's Innovative Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-user-experience-with-cookiebots-advanced-tracking-and-privacy-tools/"><u>Enhance User Experience with Cookiebot's Advanced Tracking & Privacy Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhance-your-bless-unleashed-adventure-effective-solutions-to-combat-high-ping-and-lag-on-pc/"><u>Enhance Your Bless Unleashed Adventure: Effective Solutions to Combat High Ping and Lag on PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-conversion-rates-with-leadboxes-cookiebot-technology/"><u>Enhanced Conversion Rates with LeadBoxes' Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-online-performance-through-advanced-analytics-harness-the-potential-of-our-cookiebot-solution/"><u>Enhanced Online Performance Through Advanced Analytics: Harness the Potential of Our Cookiebot Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-user-experience-with-the-assistance-of-cookiebot-technology/"><u>Enhanced User Experience with the Assistance of Cookiebot Technology</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-divx-video-cutting-solutions-expert-recommendations-for-2024/"><u>Free Divx Video Cutting Solutions Expert Recommendations for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-core-duel-nvidia-intel-or-amd/"><u>Gaming Core Duel: Nvidia, Intel or AMD?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-samsung-galaxy-m14-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Samsung Galaxy M14 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-getting-it-just-right-the-art-of-social-media-video-dimensions/"><u>[New] In 2024, Getting It Just Right The Art of Social Media Video Dimensions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-tailoring-talent-to-treasure-the-proactive-pursuit-of-video-profitability-for-2024/"><u>[Updated] Tailoring Talent to Treasure The Proactive Pursuit of Video Profitability for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-guide-to-top-6-creative-mojave-dwellings-for-2024/"><u>[Updated] Ultimate Guide to Top 6 Creative Mojave Dwellings for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-snapsplit-scrutiny/"><u>2024 Approved SnapSplit Scrutiny</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-new-chief-raises-gpt-questions/"><u>AI's New Chief Raises GPT Questions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/comprehensive-audio-cleanse-kit-windows-and-os-x-supported-2024-enhanced-model/"><u>Comprehensive Audio Cleanse Kit Windows and OS X Supported (2024 Enhanced Model)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-group-interaction-in-virtual-setups-via-gpt/"><u>Enhancing Group Interaction in Virtual Setups via GPT</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-t2-pro-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-jobs-threatened-professional-predictions/"><u>GPT Jobs Threatened: Professional Predictions?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-paperclip-algorithms-and-artificial-intelligence/"><u>The Intersection of Paperclip Algorithms & Artificial Intelligence</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-xiaomi-13-ultra-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Xiaomi 13 Ultra Phones</u></a></li>
 </ul></div>
 

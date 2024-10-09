@@ -1,7 +1,7 @@
 ---
 title: Unlocking Google Apps with ChatGPT Assistance
-date: 2024-10-03T01:18:14.333Z
-updated: 2024-10-04T00:23:22.227Z
+date: 2024-10-05T21:13:47.294Z
+updated: 2024-10-08T18:46:48.219Z
 tags:
   - chatgpt
   - open-ai
@@ -48,16 +48,17 @@ thumbnail: https://thmb.techidaily.com/60fe1a74657905b47d054d52197782d9df31df837
 4. Click on the first extension, as seen in the screenshot above. On the next page, click on **Install** and then **Continue.**  
 ![Installing GPT for Sheets and Docs on Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-gpt-for-sheets-and-docs-on-google-sheets.jpg)
 5. Select the Google account associated with your Google Sheets account and then tap **Allow** on the permission prompt to grant the extension access it needs to modify your spreadsheets.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. After the installation, click **Next** and tap **Done** on the post-installation screen to complete the installation process.
 
  With that done, the extension will be added to your Google Sheets account. However, to use GPT-powered functions and formulas within Google Sheets, you'll need an OpenAI API key to activate the extension within Google Sheets.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Create an OpenAI API Key
 
@@ -79,20 +80,33 @@ thumbnail: https://thmb.techidaily.com/60fe1a74657905b47d054d52197782d9df31df837
 ![saving API key to GPT for Sheets and Docs extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saving-api-key-to-gpt-for-sheets-and-docs-extension.jpg)
 4. Tap on the **Save API key** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With those steps completed, you're almost done with the setup process. The last step is to activate the GPT for Sheets and Docs extension. To do this, navigate to **Extensions > GPT for Sheets and Docs > Enable GPT functions**​​​​​​.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Can You Do With GPT-Powered Google Sheets?
 
  Are you done setting up the Google Sheets extension? What exciting things can you do with GPT-powered Google Sheets?
 
  Well, the possibilities are endless.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Generate Text
 
@@ -101,10 +115,16 @@ thumbnail: https://thmb.techidaily.com/60fe1a74657905b47d054d52197782d9df31df837
 ![GPT functions for snapchat story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-functions-for-snapchat-story.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Screenshot was taken by the author, Maxwell Timothy
@@ -117,19 +137,6 @@ Screenshot was taken by the author, Maxwell Timothy
 
 ![multi-cell response in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/multi-cell-response-in-gpt-for-sheets.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Translate Text
 
  With the GPT for Sheets and Docs extension, you can use [ChatGPT translation prompts](https://www.makeuseof.com/how-to-translate-with-chatgpt/) within Google Sheets. You can achieve this using the **GPT\_TRANSLATE** function or wrapping a typical ChatGPT translation prompt around the base GPT function. This could be in the form of **\=GPT(" translate 'Bonjour' to English ")** or **GPT\_TRANSLATE(\[text\_to\_translate\], \[target\_language\], \[source\_language\])**.
@@ -137,15 +144,22 @@ Screenshot was taken by the author, Maxwell Timothy
 ![translating with GPT on Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/translating-with-gpt-on-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Summarize Text
 
  To summarize text, you can either wrap a summarization prompt with the base =GPT function or use the **\=GPT\_SUMMARIZE** function. For instance, **\=GPT\_SUMMARIZE(C44)** will summarize the content of cell C44 into the active cell.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Classify Text
 
@@ -156,17 +170,10 @@ Screenshot was taken by the author, Maxwell Timothy
 ![GPT_CLASSIFY in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_classify-in-gpt-for-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Generate Data Tables
@@ -178,10 +185,10 @@ Screenshot was taken by the author, Maxwell Timothy
 ![GPT_TABLE function in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_table-function-in-gpt-for-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Copy Text Formatting
@@ -221,14 +228,24 @@ Screenshot was taken by the author, Maxwell Timothy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-cutting-edge-gaming-earpieces-for-youtubers/"><u>[Updated] 2024 Approved The Cutting-Edge Gaming Earpieces for YouTubers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-earning-in-the-limelight-without-ads-a-comprehensive-guide-to-youtube-income/"><u>[Updated] In 2024, Earning in the Limelight without Ads A Comprehensive Guide to YouTube Income</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-nes-switch-brawlers-the-ultimate-10-game-guide/"><u>2024 Approved NES Switch Brawlers The Ultimate 10-Game Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-enhanced-precision-the-razer-deathadder-v3-hyperspeeds-adaptive-sensitivity-technology-explained/"><u>Experience Enhanced Precision: The Razer DeathAdder V3 HyperSpeed's Adaptive Sensitivity Technology Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gaming-through-text-the-chatgpt-experience/"><u>Gaming Through Text: The ChatGPT Experience</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-lava-blaze-curve-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Lava Blaze Curve 5G Phones with/without a PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-3-on-android-and-ios-platforms/"><u>Mastering GPT-3 on Android & iOS Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-more-forgotten-talks-save-chatgpt-dialogues-now/"><u>No More Forgotten Talks! Save ChatGPT Dialogues Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-use-ai-chatbots-to-generate-windows-11-keys/"><u>Why You Shouldn’t Use AI Chatbots to Generate Windows 11 Keys</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-essential-asmr-apps-android-and-ios-edition/"><u>[New] In 2024, Essential ASMR Apps Android & iOS Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-budget-desktop-encoder-hacks-and-tips/"><u>[Updated] In 2024, Budget Desktop Encoder Hacks and Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-viewer-interest-6-video-styles-explored/"><u>[Updated] Mastering Viewer Interest 6 Video Styles Explored</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-dialogue-dynamics-secrets-to-great-screenwriting/"><u>2024 Approved Dialogue Dynamics Secrets to Great Screenwriting</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-navigating-the-best-the-ultimate-7-android-adblockers-guide/"><u>2024 Approved Navigating the Best The Ultimate 7 Android AdBlockers Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/202-cups-of-coffee-in-the-morning-but-i-am-feeling-a-bit-sleepy-at-work/"><u>精選202 Cups of Coffee in the Morning, but I Am Feeling a Bit Sleepy at Work.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-facile-et-gratuite-de-fichiers-webm-vers-3gp-en-ligne-solutions-avec-movavi/"><u>Conversion Facile Et Gratuite De Fichiers WEBM Vers 3GP en Ligne - Solutions Avec Movavi</u></a></li>
+<li><a href="https://solve-news.techidaily.com/cookiebot-the-innovative-solution-driving-website-customization-effortlessly/"><u>Cookiebot: The Innovative Solution Driving Website Customization Effortlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/entendiendo-los-archivos-eps-definicion-y-tutorial-para-abrirlos/"><u>Entendiendo Los Archivos EPS: Definición Y Tutorial Para Abrirlos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969096388-find-and-install-updated-thinkpad-t420s-drivers-compatible-with-windows-11-here/"><u>Find & Install Updated ThinkPad T420s Drivers Compatible with Windows 11 Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-video-converter-convert-mpe-to-mp4-with-movavi/"><u>Free Online Video Converter: Convert MPE to MP4 with Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gone-sticker-refining-vids-for-a-slick-tiktok-presence/"><u>Gone Sticker Refining Vids for a Slick TikTok Presence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mef/"><u>MEF轉檔在網路上無限制下載 - 動體影像交換服務</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726226990540-mpegvob-movavi/"><u>MPEG/VOBファイルを手っ取り早く無料で綺麗に変換 - Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/samsung-ssd-drivers-for-enhanced-performance-where-to-find-them/"><u>Samsung SSD Drivers for Enhanced Performance - Where to Find Them!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-bmp-photos-into-tiff-files-no-costs-all-convenience/"><u>Transform Your BMP Photos Into TIFF Files - No Costs, All Convenience!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-gratis-tus-archivos-tiff-a-linea-guia-completa-con-movavi/"><u>Transforma Gratis Tus Archivos TIFF a Línea: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-zombies-into-a-gameplay-delight-in-depth-analysis-of-7-days-to-die-on-sandbox-platforms/"><u>Transforming Zombies Into a Gameplay Delight: In-Depth Analysis of '7 Days to Die' On Sandbox Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-movavis-shipping-returns-and-exchange-regulations-for-hassle-free-shopping/"><u>Understanding Movavi's Shipping, Returns, and Exchange Regulations for Hassle-Free Shopping</u></a></li>
 </ul></div>
 

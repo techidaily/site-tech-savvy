@@ -1,7 +1,7 @@
 ---
 title: "The Next-Gen iPhone Experience with iOS ˈ18: Exploring Six Innovative Artificial Intelligence Features and What's on the Horizon | GadgetGuru"
-date: 2024-10-01T21:18:26.476Z
-updated: 2024-10-03T23:58:42.705Z
+date: 2024-10-03T05:49:36.835Z
+updated: 2024-10-09T05:43:15.265Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -76,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -100,13 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -121,6 +107,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -130,6 +123,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -141,13 +141,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,20 +218,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-navigating-social-traction-afb-insiders-guide/"><u>[Updated] In 2024, Navigating Social Traction AFB Insider's Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-your-videos-potential-with-these-youtube-seo-insights/"><u>[Updated] Unlock Your Videos' Potential with These YouTube SEO Insights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/accelerated-conversion-guide-from-complex-srt-to-txt-2023/"><u>Accelerated Conversion Guide From Complex SRT to TXT 2023</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-cgps-accuracy-in-health-guidance/"><u>Assessing CGP's Accuracy in Health Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-data-analysis-in-excel-through-chatgpt-methods/"><u>Augmenting Data Analysis in Excel Through ChatGPT Methods</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/building-a-thriving-igtv-following-the-ultimate-guide/"><u>Building a Thriving IGTV Following The Ultimate Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-printer-efficiency-via-chatgpt-expertise/"><u>Enhancing Printer Efficiency via ChatGPT Expertise</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-6-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 6? Heres the Best Fixes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a05withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A05with/without a PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ideation-powerhouse-mindmapping-and-generative-ai/"><u>Ideation Powerhouse: Mindmapping & Generative AI</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone SE to Android? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-working-activation-numbers-in-win11/"><u>Reinstating Working Activation Numbers in Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-chat-with-these-9-chatgptplus-advantages/"><u>Revolutionize Your Chat with These 9 ChatGPT+ Advantages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dichotomy-of-ai-titans-vs-tamer-machines/"><u>The Dichotomy of AI: Titans Vs. Tamer Machines</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-openais-bug-bounty-program-and-how-can-you-participate/"><u>What Is OpenAI’s Bug Bounty Program, and How Can You Participate?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-bebop-2s-aviary-artistry-reviewed/"><u>[New] 2024 Approved Bebop 2’S Aviary Artistry Reviewed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-understanding-the-revenue-process-for-t-series-on-youtube/"><u>[New] 2024 Approved Understanding the Revenue Process for T-Series on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-f4v-a-flv-strumenti-di-masterizzazione-gratuiti-su-internet-movavi/"><u>Conversione F4V a FLV: Strumenti Di Masterizzazione Gratuiti Su Internet - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-mp3-converter-convert-audio-files-with-movavi/"><u>Free Online MP3 Converter - Convert Audio Files with Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-x7b-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor X7b to Protect Your Individual Information</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-7-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 7 to Roku? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-rayman-legends-stellar-2d-gaming-fun-for-all-ages/"><u>In-Depth Look at Rayman Legends - Stellar 2D Gaming Fun for All Ages</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/learn-to-screen-capture-flawlessly-on-mac-using-just-keys/"><u>Learn to Screen Capture Flawlessly on Mac Using Just Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-video-editor-apps-compatible-with-windows-10/"><u>Top-Ranked Video Editor Apps Compatible with Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformer-gratuitement-un-fichier-mp4-en-m2ts-en-ligne-movavi/"><u>Transformer Gratuitement Un Fichier MP4 en M2TS en Ligne - Movavi</u></a></li>
 </ul></div>
 

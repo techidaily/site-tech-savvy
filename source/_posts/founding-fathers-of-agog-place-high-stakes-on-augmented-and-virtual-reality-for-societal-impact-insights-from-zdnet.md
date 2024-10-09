@@ -1,7 +1,7 @@
 ---
 title: Founding Fathers of Agog Place High Stakes on Augmented & Virtual Reality for Societal Impact - Insights From ZDNet
-date: 2024-09-19T17:32:26.887Z
-updated: 2024-09-22T16:29:34.005Z
+date: 2024-10-06T02:50:23.961Z
+updated: 2024-10-08T19:54:46.312Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mobile-editors-roundup-top-8-choices-for-iphone-and-android-users/"><u>[New] 2024 Approved Mobile Editors Roundup Top 8 Choices for iPhone and Android Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-essential-tips-for-flv-file-fusion-on-youtube/"><u>[New] Essential Tips for FLV File Fusion on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-spectrumsewn-studio-photo-montage-expertise/"><u>2024 Approved SpectrumSewn Studio Photo Montage Expertise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-vr-tech-for-drone-enthusiasts-for-2024/"><u>Advanced VR Tech for Drone Enthusiasts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emotional-assistance-responsible-ai-application/"><u>Emotional Assistance: Responsible AI Application</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evasive-writing-escaping-ai-generated-narratives/"><u>Evasive Writing: Escaping AI-Generated Narratives</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/humble-beginnings-to-prodigy-carryminatis-earnings-ajey-for-2024/"><u>From Humble Beginnings to Prodigy CarryMinati's Earnings (Ajey) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-did-italy-execute-an-ai-based-language-model-ban/"><u>How Did Italy Execute an AI-Based Language Model Ban?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-a59-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo A59 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/next-level-smartwatch-experience-how-the-samsung-galaxy-watch-active-2-elevates-from-the-original/"><u>Next Level Smartwatch Experience: How the Samsung Galaxy Watch Active 2 Elevates From the Original</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-pro-max-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Max Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-upgrade-for-academic-inquiry/"><u>Tech Upgrade for Academic Inquiry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolving-battleground-of-digital-defenses/"><u>The Evolving Battleground of Digital Defenses</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-curating-high-quality-instrumental-soundscape-for-videos-and-films/"><u>Updated 2024 Approved Curating High-Quality Instrumental Soundscape for Videos and Films</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

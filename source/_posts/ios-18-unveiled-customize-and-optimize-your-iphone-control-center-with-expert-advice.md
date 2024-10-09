@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Customize & Optimize Your iPhone Control Center with Expert Advice"
-date: 2024-09-27T00:27:14.315Z
-updated: 2024-10-03T21:52:25.980Z
+date: 2024-10-02T19:11:01.950Z
+updated: 2024-10-09T02:51:36.359Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -57,6 +57,13 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -64,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -78,13 +85,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +92,16 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,22 +140,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-celestial-composition-the-art-of-nighttime-photography-mastery/"><u>[New] 2024 Approved Celestial Composition The Art of Nighttime Photography Mastery</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-delving-into-instagrams-videography-restriction/"><u>[Updated] Delving Into Instagram's Videography Restriction</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mobile-mastery-best-downloading-apps-for-android-and-ios-users-for-2024/"><u>[Updated] Mobile Mastery Best Downloading Apps for Android & iOS Users for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieving-holistic-health-setting-clear-targets-with-chatgpt/"><u>Achieving Holistic Health: Setting Clear Targets with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-guide-to-authentic-chatgpt-software/"><u>Apple's Guide to Authentic ChatGPT Software</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/chart-a-course-to-prominence-in-facebooks-hierarchy/"><u>Chart a Course to Prominence in Facebook's Hierarchy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-lags-chatgpt-4-versus-its-predecessor-gpt-35/"><u>Exploring the Lags: ChatGPT-4 Versus Its Predecessor GPT-3.5</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-next-gen-televisions-elite-10-rankings/"><u>In 2024, Next-Gen Televisions Elite #10 Rankings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maintaining-discretion-and-trust-in-ai-conversations/"><u>Maintaining Discretion and Trust in AI Conversations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-dvd-burning-on-hdd-with-windows-117-a-step-by-step-guide-to-using-winxdvd/"><u>Mastering DVD Burning on HDD with Windows 11/7: A Step-by-Step Guide to Using WinXDVD</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-interview-preparation-with-ai-chatgpt/"><u>Revolutionizing Interview Preparation with AI: ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tackling-service-interruptions-in-chatgpt-plugin-relationships/"><u>Tackling Service Interruptions in ChatGPT-Plugin Relationships</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-hobby-experience-using-chatgpts-my-bot-to-learn-and-create/"><u>Transformative Hobby Experience: Using ChatGPT's My Bot to Learn and Create</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-potential-of-vintage-games-with-raspberry-pi/"><u>Unlock the Potential of Vintage Games with Raspberry Pi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-openais-pioneering-advancements/"><u>Unraveling OpenAI's Pioneering Advancements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/up-to-date-chatgpt-impact-for-all/"><u>Up-to-Date ChatGPT Impact for All</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/windows-10-compatible-iphones-drivers-download-and-setup-instructions/"><u>Windows 10 Compatible iPhones Drivers Download and Setup Instructions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-best-5-book-promo-videos-for-authors/"><u>2024 Approved Exploring the Best 5 Book Promo Videos for Authors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-enabled-prompt-engineering-understanding-its-professional-landscape/"><u>AI-Enabled Prompt Engineering: Understanding Its Professional Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-chatbot-security-in-digital-age/"><u>Assessing Chatbot Security in Digital Age</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chuckling-ai-pc-history-and-enhanced-web-safety-chronicles/"><u>Chuckling AI: PC History & Enhanced Web Safety Chronicles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-craft-how-writers-exceed-machine-generated-content/"><u>Elevating Craft: How Writers Exceed Machine-Generated Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-out-securing-your-online-privacy/"><u>GPT Out: Securing Your Online Privacy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-devices-of-now-for-2024/"><u>Immersive Devices of Now for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-obs-and-wirecast-bout-which-broadcast-tool-is-king/"><u>In 2024, OBS and Wirecast Bout Which Broadcast Tool Is King?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-dall-e-3-for-rapid-webp-to-standard-image-changes/"><u>Leveraging DALL-E 3 for Rapid WebP to Standard Image Changes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/link-zoom-calls-to-iphoneandroid-events-seamlessly/"><u>Link Zoom Calls to iPhone/Android Events Seamlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-diplomatic-corporate-e-mail-writing-with-gpt/"><u>Mastering the Art of Diplomatic Corporate E-Mail Writing with GPT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-your-hardware-drivers-with-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Reinstall your hardware drivers with Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/visual-transcript-generator-for-2024/"><u>Visual Transcript Generator for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y36i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y36i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-chatgpt-exploded-in-popularity-a-top-5-analysis/"><u>Why ChatGPT Exploded in Popularity: A Top 5 Analysis</u></a></li>
 </ul></div>
 

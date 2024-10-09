@@ -1,7 +1,7 @@
 ---
 title: "From Chaos to Calm: Strategic Folder Use for ChatGPT Control"
-date: 2024-09-29T21:14:36.251Z
-updated: 2024-10-03T23:18:33.294Z
+date: 2024-10-04T19:39:13.390Z
+updated: 2024-10-09T01:00:25.620Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
  The [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) Chrome extension addresses this problem directly, adding support for folders, subfolders, pinning, bulk conversation deletion, and the option to [share your ChatGPT conversations](https://www.makeuseof.com/apps-extensions-export-share-chatgpt-history/). Now, I imagine OpenAI will add all of these features to ChatGPT in the future ([ChatGPT link sharing is already enabled](https://www.makeuseof.com/share-chatgpt-chats-links/)). But the future isn't now, and ChatGPT Folders is delivering the goods.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Download and Install ChatGPT Folders
 
  First up, head to [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) while using the Chrome browser, then select **Add to Chrome**.
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 ![adding chatgpt conversations to folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adding-chatgpt-conversations-to-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. From the top bar, select **New Folder**. Give it a name.
 2. Now, select any ChatGPT conversations you want to add by selecting the check box.
 3. You can either drag and drop the selected folders into your new folder or right-click and select **Move to > New Folder**.  
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 4. Select your folder. It will open using the same tree structure, where you'll find your grouped conversations.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. **Optional**: Inside your new folder, select the **New Folder** button once more to create a subfolder. Use the same steps as before to transfer ChatGPT conversations to the subfolder.
@@ -73,17 +73,10 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 ![chatgpt folders with nested conversations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-with-nested-conversations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. How to Delete a Folder and Reset Your Conversations
@@ -95,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
  However, if you decide you've had enough of your ChatGPT Folders structure and want to start again, you can use the **Reset folders and conversations** button instead.
 
 ![chatgpt folders reset conversations and folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-reset-conversations-and-folders.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select the three-line button at the top of the ChatGPT history, then **Reset folders and conversations**. Doing so will remove all of the ChatGPT Folders you've created and return your ChatGPT conversations to their original state. Note that this isn't the same as [deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/).
 
@@ -133,18 +133,14 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-wirecast-techniques-for-captivating-facebook-viewers/"><u>[Updated] In 2024, Wirecast Techniques for Captivating Facebook Viewers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/10-best-video-player-apps-for-iphone-and-ipad/"><u>10 Best Video Player Apps for iPhone and iPad</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fps-fanatics-resource-for-fast-controls-and-extensions/"><u>2024 Approved FPS Fanatics' Resource for Fast Controls and Extensions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphones-in-action-capturing-and-altering-slow-motion-content/"><u>2024 Approved IPhones in Action Capturing & Altering Slow Motion Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adopting-claude-3-see-the-four-enhancements-in-comparison-to-chatgpt/"><u>Adopting Claude 3: See the Four Enhancements in Comparison to ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/browser-extensions-ensuring-ai-tool-security/"><u>Browser Extensions: Ensuring AI Tool Security</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-preserving-and-retrieving-your-chatgpt-interactions-at-any-time/"><u>Guide: Preserving and Retrieving Your ChatGPT Interactions at Any Time</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-growth-businesses-reach-new-potential-with-api-access/"><u>Navigating Growth: Businesses Reach New Potential with API Access</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-toms-hardware-insights-and-reviews/"><u>Navigating Through Tom's Hardware Insights and Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/test-of-minds-can-computers-surpass-human-intuition/"><u>Test of Minds: Can Computers Surpass Human Intuition?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-privacy-debate-in-artificial-communication/"><u>The Privacy Debate in Artificial Communication</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-enhancers-elevating-your-speaking-game-with-ai/"><u>Top 7 Enhancers: Elevating Your Speaking Game with AI</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-auditory-mastery-selecting-background-music-for-vids/"><u>[Updated] Auditory Mastery Selecting Background Music for Vids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-8-high-definition-5k-display-options-for-you/"><u>[Updated] Top 8 High-Definition 5K Display Options for You</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oppo-find-x7-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Oppo Find X7 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/after-all-shed-say-if-it-worked-for-generations-why-change-it/"><u>After All, She'd Say, if It Worked for Generations, Why Change It?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/benefits-and-drawbacks-unveiling-the-truth-about-pidgin-messenger/"><u>Benefits and Drawbacks - Unveiling the Truth About Pidgin Messenger</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/herramienta-de-grabacion-de-pantallas-sin-costo-para-laptops-y-desktops-softonix-gratis/"><u>Herramienta De Grabación De Pantallas Sin Costo Para Laptops Y Desktops - Softonix Gratis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tu-audio-opus-en-wav-sin-costo-alguno-rapido-y-facil-usando-movavi/"><u>Transforma Tu Audio OPUS en WAV Sin Costo Alguno, Rápido Y Fácil Usando Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformez-vos-videos-mpeg-en-3gp-pour-mobile-conversion-gratuite-en-ligne-movavi-solutions/"><u>Transformez Vos Vidéos MPEG en 3Gp Pour Mobile : Conversion Gratuite en Ligne - Movavi Solutions</u></a></li>
 </ul></div>
 

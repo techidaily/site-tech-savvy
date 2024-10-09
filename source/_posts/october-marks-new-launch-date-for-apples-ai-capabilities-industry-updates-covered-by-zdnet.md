@@ -1,7 +1,7 @@
 ---
 title: October Marks New Launch Date for Apple's AI Capabilities; Industry Updates Covered by ZDNet
-date: 2024-10-01T19:20:39.598Z
-updated: 2024-10-03T18:54:06.957Z
+date: 2024-10-03T17:08:45.736Z
+updated: 2024-10-08T19:03:50.401Z
 tags:
   - apple
 categories:
@@ -44,16 +44,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -64,10 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -77,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,16 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -136,15 +130,20 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-tips-for-uploading-external-urls-to-ig/"><u>[New] In 2024, Tips for Uploading External URLs to IG</u></a></li>
-<li><a href="https://fox-that.techidaily.com/apple-device-gift-sending-issues-uncovering-the-top-5-restrictions/"><u>Apple Device Gift-Sending Issues: Uncovering the Top 5 Restrictions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excellent-instructions-making-leverage-these-7-digital-platforms/"><u>Excellent Instructions Making: Leverage These 7 Digital Platforms</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-winter-settings-for-warmer-yt-videos/"><u>Ideal Winter Settings for Warmer YT Videos</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-y17s-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo Y17s FRP Bypass</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/precision-planning-with-ai-how-to-use-chatgpt-effectively-for-scheduling/"><u>Precision Planning with AI: How to Use ChatGPT Effectively for Scheduling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shield-your-site-deter-robotic-scrappers/"><u>Shield Your Site: Deter Robotic Scrappers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-classroom-evolution-embracing-artificinas-in-education-top-8-ways/"><u>The Classroom Evolution: Embracing Artificinas in Education (Top 8 Ways)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Will the iPogo Get You Banned and How to Solve It On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-deep-dive-magix-video-pro-x-features-and-performance/"><u>[New] 2024 Approved Deep Dive Magix Video Pro X Features and Performance</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook-for-2024/"><u>[New] Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-collection-for-enlivening-text/"><u>[Updated] Best Collection for Enlivening Text</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-10-tricks-for-turning-youtube-watchlists-around/"><u>[Updated] In 2024, 10 Tricks for Turning YouTube Watchlists Around</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-premiere-add-ons-for-firefox-recording/"><u>[Updated] In 2024, Premiere Add-Ons for Firefox Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/facebook-video-trends-of-2024-discovering-the-ideal-file-type-and-quality/"><u>Facebook Video Trends of 2024: Discovering the Ideal File Type and Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ffmpeg/"><u>FFmpegを使ったビデオクリップ作成と保存手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-transforming-adobe-flash-swf-content-into-web-compatible-html-offline-solutions-and-online-tools/"><u>Guide: Transforming Adobe Flash (SWF) Content Into Web-Compatible HTML - Offline Solutions & Online Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hlsm3u8tsmp4/"><u>HLS形式(m3u8/TS)からMP4へ - 最適な動画変換テクニックとガイド</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-photography-hacks-perfecting-motion-blur-with-adobe-tools/"><u>In 2024, Professional Photography Hacks Perfecting Motion Blur with Adobe Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-video-on-the-go-10-best-free-speed-adjustment-apps-for-mobile-editing/"><u>In 2024, Video on the Go 10 Best Free Speed Adjustment Apps for Mobile Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installing-and-using-the-tvone-1112-extension-seamlessly-on-kodi-platforms/"><u>Installing and Using the TVOne 1112 Extension Seamlessly on Kodi Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-video-playback-creating-plated-vcds-with-wonderfox-dvd-converter-tool/"><u>Mastering Video Playback: Creating Plated VCDs With WonderFox DVD Converter Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4mov3/"><u>フリー版アプリを使ってMP4ファイルをMOVにする手引きとそのトップ3選</u></a></li>
 </ul></div>
 

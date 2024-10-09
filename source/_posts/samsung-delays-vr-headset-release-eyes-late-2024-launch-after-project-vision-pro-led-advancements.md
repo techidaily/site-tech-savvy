@@ -1,7 +1,7 @@
 ---
 title: Samsung Delays VR Headset Release, Eyes Late 2024 Launch After Project Vision Pro LED Advancements
-date: 2024-09-15T16:48:58.404Z
-updated: 2024-09-22T18:23:17.189Z
+date: 2024-10-02T20:11:19.501Z
+updated: 2024-10-08T23:06:58.838Z
 tags:
   - ar+vr
 categories:
@@ -67,18 +67,35 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-idea-to-execution-a-comprehensive-youtube-video-guide/"><u>[Updated] From Idea to Execution A Comprehensive YouTube Video Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-grasping-core-principles-in-narrative-designs/"><u>[Updated] Grasping Core Principles in Narrative Designs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-the-art-of-video-chatting-on-snapchat/"><u>[Updated] Mastering the Art of Video Chatting on Snapchat</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-ideal-podcast-title-creation/"><u>[Updated] The Ultimate Checklist for Ideal Podcast Title Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ahead-of-the-curve-the-best-ai-phone-apps/"><u>Ahead of the Curve: The Best AI Phone Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-explained-seamless-language-translation-techniques/"><u>ChatGPT Explained: Seamless Language Translation Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-limitations-in-the-crypto-domain/"><u>ChatGPT's Limitations in the Crypto Domain</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mical-mic-options-for-youtube-vloggers/"><u>Economical Mic Options for YouTube Vloggers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-creativity-in-writing-unmatched-by-algorithms/"><u>Human Creativity in Writing Unmatched by Algorithms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-redmi-note-12-4g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi Redmi Note 12 4G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-c02-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia C02 Phone Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-sony-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Sony</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-ai-evolving-faster-the-duel-between-googles-gemini-and-chatgpt/"><u>Is AI Evolving Faster? The Duel Between Google's Gemini and ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/simple-steps-for-locating-your-digital-game-id/"><u>Simple Steps for Locating Your Digital Game ID</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verifying-chatgpts-truthfulness-calls/"><u>Verifying ChatGPT's Truthfulness Calls</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

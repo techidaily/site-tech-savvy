@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Upcoming Apple AR/VR Device with Cutting-Edge Eye and Hand Tracking Capabilities"
-date: 2024-09-17T17:15:05.920Z
-updated: 2024-09-22T18:02:24.510Z
+date: 2024-10-02T23:39:47.763Z
+updated: 2024-10-08T19:26:15.400Z
 tags:
   - ar+vr
 categories:
@@ -67,18 +67,29 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-lenssnap-feature-examination/"><u>[New] 2024 Approved LensSnap Feature Examination</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-streamlining-your-mac-5-best-screen-shot-approaches/"><u>[New] 2024 Approved Streamlining Your Mac 5 Best Screen Shot Approaches</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-inviolate-disengagement-protocol-for-compact-youtube-clips/"><u>[Updated] Inviolate Disengagement Protocol for Compact YouTube Clips</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessing-chatgpt-benefits-without-membership/"><u>Accessing ChatGPT Benefits Without Membership</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cracking-ais-code-with-gptzero-how-it-unveils-fake-writing/"><u>Cracking AI's Code with GPTZero: How It Unveils Fake Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/developers-query-github-copilot-against-gpt-3/"><u>Developer's Query: GitHub Copilot Against GPT-3</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-6s-plus-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-your-new-favorite-book-discover-these-best-ai-enhanced-literary-recommenders/"><u>Find Your New Favorite Book - Discover These Best AI-Enhanced Literary Recommenders</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-itel-a05s-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Itel A05s Device SIM</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-100-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor 100 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-chatbots-paving-the-way-forward/"><u>Next-Gen Chatbots: Paving the Way Forward</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smooth-conversion-from-dall-es-innovative-webp-images-to-pngjpg/"><u>Smooth Conversion From DALL-E’s Innovative WebP Images to PNG/JPG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/true-text-guardianship-openais-anti-duplicate-ai/"><u>True Text Guardianship: OpenAI’s Anti-Duplicate AI</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/why-microsofts-copilot-is-struggling-on-windows-11/"><u>Why Microsoft's Copilot Is Struggling on Windows 11</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

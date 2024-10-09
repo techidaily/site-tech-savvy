@@ -1,7 +1,7 @@
 ---
 title: Opening Doors to Universal AI with GPT-4
-date: 2024-09-30T21:37:38.140Z
-updated: 2024-10-03T22:40:21.334Z
+date: 2024-10-07T19:01:44.496Z
+updated: 2024-10-08T17:57:53.063Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 So, what is GPT-4o?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is GPT-4o?
@@ -53,15 +53,22 @@ So, what is GPT-4o?
 
 ![openai gpt4o peformance chart may 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/openai-gpt4o-peformance-chart-may-2024.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  Now, numbers are all very well and good, but what does that actually translate to? Well, again, working from OpenAI's numbers, GPT-4o "matches GPT-4 Turbo performance" for English writing and coding, is significantly faster in "non-English languages," and, most importantly, is faster and cheaper in terms of API use.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-4o Live Capabilities Are Astounding
@@ -76,13 +83,6 @@ So, what is GPT-4o?
 
  I was in Morocco recently, and even with Google Translate helping get some meaning into Arabic, the full context of the translation is never completely accurate. GPT-4o's live translation would have been incredibly useful!
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Coding and Tutoring
 
  GPT-4o also brings significant upgrades to code interpretation and assistance using its multi-modal capabilities. Similar to the other tools, yes, ChatGPT could already work with some data, but its new model drastically steps this up.
@@ -90,16 +90,10 @@ So, what is GPT-4o?
  The ability to debug code using just your voice is remarkable. However, its real use will only become clear when actual programmers and developers begin using the tool. While ChatGPT's coding abilities are useful, they're only as useful as the knowledge of the user, like most generative AI tools.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Does GPT-4o Launch? Is GPT-4o Free?
@@ -127,22 +121,16 @@ So, what is GPT-4o?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-storing-image-frames-from-videos-on-windows-11/"><u>[Updated] In 2024, Storing Image Frames From Videos on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-m1-pro-vs-m1-max-identifying-core-differences/"><u>[Updated] M1 Pro Vs. M1 Max Identifying Core Differences</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-ultimate-guide-quick-and-easy-tools-for-converting-asf-files-to-mp4-and-back/"><u>1. Ultimate Guide: Quick & Easy Tools for Converting ASF Files to MP4 (And Back!)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-1k-sub-club-joining-the-youtube-success-circles/"><u>2024 Approved 1K Sub Club Joining the YouTube Success Circles</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-retrieving-your-missing-appointments-from-an-ios-device/"><u>Complete Guide: Retrieving Your Missing Appointments From an iOS Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/dissecting-facebooks-moderation-panel-decisions/"><u>Dissecting Facebook’s Moderation Panel Decisions</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-8-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/james-ritter-named-abbyys-next-chief-financial-officer-in-latest-leadership-update/"><u>James Ritter Named ABBYY's Next Chief Financial Officer in Latest Leadership Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-advanced-analytics-and-tracking-solutions-powered-by-cookiebot-innovation/"><u>Leverage Advanced Analytics & Tracking: Solutions Powered by Cookiebot Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-cookiebot-technology-for-enhanced-web-analytics-and-seo-success/"><u>Leverage Cookiebot Technology for Enhanced Web Analytics and SEO Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-future-security-with-digital-intellect-insights-from-abbyy-industry-leaders/"><u>Navigating Future Security with Digital Intellect Insights From ABBYY Industry Leaders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-online-engagement-with-advanced-cookiebot-technology/"><u>Optimizing Online Engagement with Advanced Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-money-laundering-and-financial-deception-in-todays-digital-security-landscape/"><u>The Evolution of Money Laundering & Financial Deception in Today's Digital Security Landscape</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ulf-persson-leading-as-head-of-abbyy-insights-into-the-companys-vision/"><u>Ulf Persson Leading as Head of ABBYY: Insights Into the Company's Vision</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-new-enhancements-for-abbyy-apps-202-insights-and-updates-from-the-abbyy-newsroom/"><u>Unveiling the New Enhancements for ABBYY Apps (202#) | Insights & Updates From the ABBYY Newsroom</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-comprehensive-blueprint-for-subtitle-distribution-on-tiktok-and-twitch/"><u>[New] 2024 Approved Comprehensive Blueprint for Subtitle Distribution on TikTok and Twitch</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-7-mac-videos-players-reviewed/"><u>[New] Excellent 7 Mac Videos Players Reviewed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-full-breakdown-samsungs-immersive-camera-technology/"><u>[Updated] In 2024, Full Breakdown Samsung's Immersive Camera Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>[Updated] The Ultimate Tool for Video Cuts Full Review of VivaCut '24 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augment-your-workflow-access-8-personalized-ais/"><u>Augment Your Workflow: Access 8 Personalized AIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-basics-tomorrows-enhanced-ai-systems/"><u>Beyond Basics: Tomorrow's Enhanced AI Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/comprehensive-guide-to-srgb-and-rgb/"><u>Comprehensive Guide to Srgb & Rgb</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-ai-vulnerability-unraveling-the-workings-of-prompt-injections/"><u>Deconstructing AI Vulnerability - Unraveling the Workings of Prompt Injections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-gpt-4s-edge-over-gpt-35/"><u>Examining GPT-4's Edge Over GPT-3.5</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screen-recorder-showdown-for-gamers-for-2024/"><u>Screen Recorder Showdown for Gamers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-poem-craft-via-chatgpt-interaction/"><u>The Art of Poem Craft via ChatGPT Interaction</u></a></li>
 </ul></div>
 

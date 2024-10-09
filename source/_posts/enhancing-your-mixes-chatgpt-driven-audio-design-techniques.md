@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Mixes: ChatGPT-Driven Audio Design Techniques"
-date: 2024-10-01T20:06:34.528Z
-updated: 2024-10-04T00:18:49.862Z
+date: 2024-10-02T01:53:58.075Z
+updated: 2024-10-08T22:51:33.251Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 
  In the title of each track is the name of the plugin type we used, such as distortion or delay, plus the keywords we used in the prompt i.e., dense, watery, psychedelic, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Prompt Format
 
  There are numerous ways you can ask [ChatGPT](https://chat.openai.com/) to help you craft a sound. After successive experiments, we came up with the following prompt format that is concise, while producing all the necessary information.
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
  Keep in mind that every plugin is unique and will have different types of controls with various names. So fill in the blank part of the prompt with a list of parameters that matches the plugin you are using.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Applying the Settings to Your Plugin
@@ -91,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 
  In addition to the basic prompt format that we've outlined, there are a few extra things you can experiment with. These tips and tricks will help you play with, or expand on, ChatGPT's responses.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Ask for an Explanation
 
  Want to know more about what a plugin parameter does or why ChatGPT picked those settings? Simply ask it to include an explanation. You can do this by adding the phrase **include explanations** to the end of your prompt.
@@ -105,16 +105,16 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 ![A table produced by ChatGPT including recommended audio settings plus explanations.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-table-explanation.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Follow-Up Questions
@@ -132,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
  Additionally, look for a couple of arrows near the top left-hand side of ChatGPT's response. You can use them to move back and forth between the different results.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT: An Unsuspecting Music Production Tool
@@ -163,22 +163,19 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-primeworldplus-local-complete-tv-content-at-fingertips/"><u>[New] 2024 Approved PrimeWorld+ Local Complete TV Content at Fingertips</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-cadence-captors-embrace-free-online-tempo-apps/"><u>[Updated] Cadence Captors – Embrace Free Online Tempo Apps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-f23-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo F23 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-a-reliable-source-for-wellbeayer-info/"><u>ChatGPT as a Reliable Source for Wellbeayer Info</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-screen-time-with-ai-support/"><u>Crafting Personalized Screen Time with AI Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-gpts-influence-on-cybercriminal-activities/"><u>Dissecting GPT's Influence on Cybercriminal Activities</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/with-ease-10-video-to-mp3-tools-of-the-trade/"><u>Edit with Ease #10 Video-to-Mp3 Tools of the Trade</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-vs-bert-dissecting-modern-nlp-giants-distinctions/"><u>GPT vs BERT: Dissecting Modern NLP Giants' Distinctions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-unsupported-os-message-avoid-setup-termination/"><u>How to Resolve 'Unsupported OS' Message - Avoid Setup Termination</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/metro-by-t-mobile-understanding-your-unlimited-plan-and-how-it-works-with-network-wireless-roaming/"><u>Metro by T-Mobile: Understanding Your Unlimited Plan and How It Works With Network Wireless Roaming</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-itel-p40plus-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Itel P40+ has been deleted.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-domestic-functionality-with-chatgpt-innovations/"><u>Reimagining Domestic Functionality with ChatGPT Innovations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-graphics-error-d3d-initialization-flaw-in-grand-theft-auto-v/"><u>Solving the Graphics Error D3D Initialization Flaw in Grand Theft Auto V</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-accuracy-debate-chatgpt-or-lies/"><u>The Accuracy Debate: ChatGPT or Lies?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-waiting-game-why-is-chatgpt-4-lagging/"><u>The Waiting Game: Why Is ChatGPT-4 Lagging?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-8-smarter-ways-to-approach-writing-tasks/"><u>Top 8 Smarter Ways to Approach Writing Tasks</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-top-10-free-game-download-sites-for-pc-android-and-mobile-for-2024/"><u>Updated The Ultimate List Top 10 Free Game Download Sites for PC, Android, and Mobile for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-a-comprehensive-guide-to-creating-compelling-fb-reels/"><u>[New] 2024 Approved A Comprehensive Guide to Creating Compelling FB Reels</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-fb-video-in-hd-1080p-techniques-for-2024/"><u>[Updated] Mastering FB Video in HD 1080P Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>[Updated] The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mef-jpegmovavi/"><u>無限傳輸 MEF為 JPEG：Movavi 優化網上格式更改工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertissez-un-fichier-aiff-au-format-mp3-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Un Fichier AIFF Au Format MP3 Gratuitement - en Ligne Avec Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/expert-tips-zooming-in-on-videoleap-videos/"><u>Expert Tips Zooming In on Videoleap Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-convert-flv-to-asf-with-movavi/"><u>Free Online Converter - Convert FLV to ASF with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-convert-m4v-to-gif-with-moveavi-download-now/"><u>Free Online Converter: Convert M4V to GIF with MoveAVI - Download Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-conversione-da-oggv-a-webm-online-trimix-di-movavi/"><u>Gratis Conversione Da OGGV a WebM - OnLine Trimix Di Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-pick-the-right-smart-tv-for-your-home/"><u>How to Pick the Right Smart TV for Your Home</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-y27-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Y27 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-file-conversion-tool-by-movavi-effortless-transformation-of-webm-to-m4v-for-free/"><u>Online File Conversion Tool by Movavi: Effortless Transformation of WEBM to M4V for Free!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-hdmi-recognition-issues-on-your-windows-11-pc/"><u>Troubleshooting HDMI Recognition Issues on Your Windows 11 PC</u></a></li>
 </ul></div>
 

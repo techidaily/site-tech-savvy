@@ -1,7 +1,7 @@
 ---
 title: "Staying Connected: Effortless Contact via Apple Watch - Tips"
-date: 2024-09-30T23:33:30.701Z
-updated: 2024-10-03T21:28:25.332Z
+date: 2024-10-04T02:57:49.081Z
+updated: 2024-10-09T04:01:43.752Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -40,25 +47,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -75,6 +68,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
 
@@ -99,10 +99,10 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -113,18 +113,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,17 +162,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-complete-vivacut-overview-editors-deep-dive/"><u>[New] In 2024, The Complete VivaCut Overview Editor's Deep Dive</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nfographic-spotlight-on-emerging-23-trends-for-2024/"><u>[New] Infographic Spotlight on Emerging '23 Trends for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-6-budget-friendly-youtube-outro-makers/"><u>[New] Top 6 Budget-Friendly YouTube Outro Makers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-5-voice-alteration-apps-for-professional-vtuber-artistry/"><u>[Updated] 2024 Approved Top 5 Voice Alteration Apps for Professional Vtuber Artistry</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-case-study-approach-learning-from-successful-market-research-examples/"><u>[Updated] Case Study Approach Learning From Successful Market Research Examples</u></a></li>
-<li><a href="https://fox-access.techidaily.com/avoid-the-spinning-room-top-5-vr-motion-control-techniques/"><u>Avoid the Spinning Room Top 5 VR Motion Control Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-to-resolve-call-of-duty-warzone-sound-problem-on-your-computer-tips-and-tricks/"><u>Expert Advice to Resolve Call of Duty Warzone Sound Problem on Your Computer - Tips & Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fake-detection-unveiled-openais-counter-to-gpt-dupes/"><u>Fake Detection Unveiled: OpenAI's Counter to GPT Dupes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-modern-chatgpt-with-gpt-4-techniques/"><u>Mastering Modern ChatGPT with GPT-4 Techniques</u></a></li>
-<li><a href="https://driver-download.techidaily.com/overcoming-compatibility-issues-installing-correct-drivers-for-hp-officejet-pro-6978/"><u>Overcoming Compatibility Issues: Installing Correct Drivers for HP OfficeJet Pro 6978</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/procedures-for-removing-outdated-conversations-on-gpt/"><u>Procedures for Removing Outdated Conversations on GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scam-perception-of-truthgpt-cryptocurrency/"><u>Scam Perception of TruthGPT Cryptocurrency</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dissecting-youtube-copyright-vs-creative-commons-ethos/"><u>[New] 2024 Approved Dissecting YouTube Copyright Vs. Creative Commons Ethos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-dancing-off-dossiers-top-country-hits-from-tiktok/"><u>[New] In 2024, Dancing Off Dossiers Top Country Hits From TikTok</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-acclaimed-software-rankings-top-10-phonepc-video-calls/"><u>[Updated] In 2024, Acclaimed Software Rankings Top 10 Phone/PC Video Calls</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-blueprint-for-winning-campaigns-snapchat-edition/"><u>[Updated] In 2024, The Blueprint for Winning Campaigns Snapchat Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-glow-up-the-best-three-highlight-ideas-for-2024/"><u>[Updated] Instagram Glow Up The Best Three Highlight Ideas for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-essential-video-stock-investment-guides/"><u>2024 Approved Essential Video Stock Investment Guides</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta/"><u>音楽および動画META情報取得・確認・編集方法とソフトウェアレビュー</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-broken-xbox-controler-xp-a-detailed-troubleshooting-manual/"><u>Fix Your Broken Xbox Controler XP - A Detailed Troubleshooting Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nrg/"><u>Nrgファイル変換ガイド：ファイルをデコンプリメントし、新しい形式に</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reach-out-seamlessly-wonderfox-communication-solutions/"><u>Reach Out Seamlessly: WonderFox Communication Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-guide-on-transforming-swf-animations-into-high-quality-mov-videos/"><u>Simple Guide on Transforming SWF Animations Into High-Quality MOV Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001093717-unraveling-the-mystery-behind-nier-replicant-game-freeze-error-corrected/"><u>Unraveling the Mystery Behind NieR: Replicant Game Freeze Error Corrected</u></a></li>
 </ul></div>
 

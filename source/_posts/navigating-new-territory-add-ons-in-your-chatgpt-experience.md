@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Territory: Add-Ons in Your ChatGPT Experience"
-date: 2024-09-30T18:34:45.172Z
-updated: 2024-10-03T16:34:35.428Z
+date: 2024-10-03T17:48:36.700Z
+updated: 2024-10-08T23:16:53.532Z
 tags:
   - chatgpt
   - open-ai
@@ -44,42 +44,28 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are third-party extensions designed to extend the functionality of ChatGPT. According to OpenAI, "Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services."
 
 ![chatgpt plugins on chatgpt plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins-on-chatgpt-plus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The core function of a ChatGPT Plugin is to bring more useful information into ChatGPT, making the generative AI chatbot more useful.
 
  For example, you could use the Kayak and Expedia ChatGPT Plugins when you want to use ChatGPT to create a trip itinerary or the Polygon Plugin to get up-to-date information on crypto markets, stocks, and forex.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Many ChatGPT Plugins Are There?
 
  At the time of writing in May 2023, around 85 ChatGPT Plugins are available on the ChatGPT Plugin store. We expect many more ChatGPT Plugins to launch in the coming months as developers get to grips with OpenAI's development rules and the platform itself, integrating existing websites and services into the ChatGPT platform.
 
 ![chatgpt plugins list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins-list.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And yes, we're now calling it a platform because from here on, ChatGPT becomes more than "just a chatbot."
 
@@ -89,14 +75,14 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 
 ![chatgpt enable beta features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-enable-beta-features.jpg)
 
-![chatgpt plugin store option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-store-option.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![chatgpt plugin store option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-store-option.jpg)
 
 ![chatgpt plugin instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-instructions.jpg)
 
@@ -112,18 +98,18 @@ Close
 
  However, there is currently no "All Plugins" list to make it easy to unsubscribe. Also, there is no way to sort the plugins, so you're left to scroll through every page until you find what you want. Search functionality will come with a later update, but having these user-friendly UI features ready would have been useful.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use a ChatGPT Plugin
 
  How you use a ChatGPT Plugin depends on the plugin you install. But the general gist of ChatGPT plugin usage is similar to regular ChatGPT; you ask your question, and ChatGPT provides an answer. The accuracy of your answer [depends on the quality of your prompt](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/), but now also depends on the quality of the ChatGPT Plugin.
 
  It's also worth remembering that ChatGPT Plugins are still a beta feature. The ChatGPT Plugin ecosystem isn't fully up and running yet, and despite the number of available plugins, not all of them work as they should—or as we might like.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Planning a Trip
 
@@ -131,18 +117,25 @@ Close
 
 ![chatgpt plugin planning trip with kayak](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt plugin planning trip with kayak adding more information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak-adding-more-information.jpg)
 
 ![chatgpt plugin planning trip with kayak final suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak-final-suggestions.jpg)
 
-![skyscanner flights to malta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/skyscanner-flights-to-malta.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![skyscanner flights to malta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/skyscanner-flights-to-malta.jpg)
 
 Close
 
@@ -167,10 +160,10 @@ Close
 ![chatgpt tasty plugin meal planning failure to list all meals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tasty-plugin-meal-planning-failure-to-list-all-meals.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -185,20 +178,27 @@ Close
 
 ![chatgpt adding playlistai plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-adding-playlistai-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt playlistai pluging create playlist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-pluging-create-playlist.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![chatgpt playlistai plugin hip hop suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-hip-hop-suggestions.jpg)
 
 ![chatgpt playlistai plugin track suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-track-suggestions.jpg)
 
 ![chatgpt playlistai plugin playlist in spotify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-playlist-in-spotify.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -227,22 +227,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-efficient-tweet-strategy-embrace-aspect-ratio-specifications/"><u>[New] Efficient Tweet Strategy Embrace Aspect Ratio Specifications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solved-how-to-make-minecraft-run-faster/"><u>[SOLVED] How to Make Minecraft Run Faster</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-capture-your-brilliance-in-insta-cinematic-footage/"><u>2024 Approved Capture Your Brilliance in Insta Cinematic Footage</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725289515263-cd/"><u>徹底知識レポート: CD最高容量、録音限界時間とその対策案</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-oppo-a1x-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Oppo A1x 5G.</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-techniques-for-connectivity-hiccups-in-rainbow-six-siege/"><u>Comprehensive Troubleshooting Techniques for Connectivity Hiccups in Rainbow Six Siege</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor X50? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-6s-plus-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone 6s Plus Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-poco-m6-pro-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Poco M6 Pro 4G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-the-dilemma-a-step-by-step-guide-on-resetting-your-ipads-locked-screen-password/"><u>Solving the Dilemma: A Step-by-Step Guide on Resetting Your iPad's Locked Screen Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stop-windows-update-installing-drivers-in-windows-11-solved/"><u>Stop Windows Update Installing Drivers in Windows 11 [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-hacks-adding-wireless-bluetooth-functionality-to-your-personal-computer/"><u>Tech Hacks: Adding Wireless Bluetooth Functionality to Your Personal Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-definitive-overview-of-superfetch-all-the-essentials-you-should-know/"><u>The Definitive Overview of SuperFetch: All the Essentials You Should Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-top-10-most-popular-torrent-sites-for-gaming-downloads/"><u>The Top 10 Most Popular Torrent Sites for Gaming Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-walkthrough-to-offline-minecraft-gaming-on-windows-11-systems/"><u>The Ultimate Walkthrough to Offline Minecraft Gaming on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-resolving-undetected-external-storage-devices-in-windows-10/"><u>Troubleshooting Guide: Resolving Undetected External Storage Devices in Windows 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/voicing-victory-tactics-in-free-fire-games/"><u>Voicing Victory Tactics in Free Fire Games</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ownload-your-favorite-videos-without-limits-for-2024/"><u>[New] Download Your Favorite Videos Without Limits for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-multimedia-a-detailed-review-of-video-editors/"><u>[Updated] Mastering Multimedia A Detailed Review of Video Editors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 6s Plus | Stellar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977968492-expert-tips-easy-windows-7-webcam-driver-installation-and-setup/"><u>Expert Tips: Easy Windows 7 Webcam Driver Installation and Setup</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-se-2022-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone SE (2022) Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-with-personalized-zen-routines/"><u>Integrating ChatGPT with Personalized Zen Routines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-privacy-a-complete-tutorial-for-purging-cache-in-major-internet-explorers/"><u>Mastering Privacy: A Complete Tutorial for Purging Cache in Major Internet Explorers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-7-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 7 Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reassessing-paperclips-through-ais-lens-of-innovation/"><u>Reassessing Paperclips Through AI's Lens of Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-new-frontier-advanced-chatbot-innovation/"><u>The New Frontier: Advanced Chatbot Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-artificial-intelligence-tools-altering-commerce-landscape/"><u>Top 5 Artificial Intelligence Tools Altering Commerce Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-effective-ai-strategies-for-success/"><u>Top 7 Effective AI Strategies for Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-living-space-with-intelligent-chatgpt-controls/"><u>Transform Your Living Space With Intelligent ChatGPT Controls</u></a></li>
 </ul></div>
 

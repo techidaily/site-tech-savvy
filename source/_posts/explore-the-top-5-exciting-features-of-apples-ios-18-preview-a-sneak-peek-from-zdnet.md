@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek From ZDNet"
-date: 2024-09-27T17:49:19.198Z
-updated: 2024-10-03T20:11:48.565Z
+date: 2024-10-02T17:35:11.987Z
+updated: 2024-10-08T21:45:18.545Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,19 +128,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-share-screen-on-skype-when-working-at-home/"><u>[New] How to Share Screen on Skype When Working at Home</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-assessing-the-value-of-4-second-rapid-subscriptions-on-youtube/"><u>[Updated] In 2024, Assessing the Value of 4-Second Rapid Subscriptions on Youtube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-extra-expenses-on-elite-ai-worthwhile/"><u>Are Extra Expenses on Elite AI Worthwhile?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/athletes-guide-crafting-dynamic-gpt-prompts/"><u>Athletes' Guide: Crafting Dynamic GPT Prompts</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/how-to-easily-and-accurately-transform-avi-videos-into-mp3-audio-at-no-cost-maintaining-superior-sound-quality/"><u>How to Easily and Accurately Transform AVI Videos Into MP3 Audio at No Cost – Maintaining Superior Sound Quality</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-z50s-pro-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Nubia Z50S Pro Phone with Broken Screen</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-itel-p55t-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Itel P55T? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-quora-network-for-llm-and-bot-entry/"><u>Navigating the Quora Network for LLM & Bot Entry</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-guide-altering-numbers-on-tiktok/"><u>Step-by-Step Guide Altering Numbers on TikTok</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-20-best-chatgpt-prompts-on-github/"><u>The 20 Best ChatGPT Prompts on GitHub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-talks-ais-most-prominent-assistants/"><u>The Future of Talks: AI's Most Prominent Assistants</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-the-turing-test-and-its-prospect-for-a-champion/"><u>What Is the Turing Test and Its Prospect for a Champion?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-complete-instagram-reversal-methodology/"><u>2024 Approved The Complete Instagram Reversal Methodology</u></a></li>
+<li><a href="https://solve-news.techidaily.com/cookiebot-driven-insights-for-smarter-more-tailored-advertising-solutions/"><u>Cookiebot-Driven Insights for Smarter, More Tailored Advertising Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-from-wma-to-wav-a-step-by-step-guide/"><u>Effortless Conversion From WMA to WAV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-guide-how-to-change-mp4-videos-to-mpeg-video-editing-hacks-switch-from-mp4-to-mpeg-4-without-a-fuss/"><u>Effortless Conversion Guide: How to Change MP4 Videos to MPEG- # Video Editing Hacks: Switch From MP4 to MPEG-4 Without a Fuss!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-fixes-for-resolving-iso-video-playback-and-conversion-glitches-on-your-ipad/"><u>Effortless Fixes for Resolving ISO Video Playback & Conversion Glitches on Your iPad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-transformation-of-flv-files-to-html5-a-step-by-step-process/"><u>Effortless Transformation of FLV Files to HTML5 - A Step-by-Step Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-intricacies-of-videos-using-the-frame-by-frame-function-in-vlc-media-player/"><u>Explore the Intricacies of Videos Using the Frame-by-Frame Function in VLC Media Player</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-adventure-in-sync-reviewing-the-panasonic-hx-a1-cam/"><u>In 2024, Adventure in Sync Reviewing the Panasonic HX-A1 Cam</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-15-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 15 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-design-source-best-affordable-vectors-online-for-2024/"><u>Innovative Design Source – Best Affordable Vectors Online for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lg-bp550s-breakthrough-the-2023-technology-sprint-for-2024/"><u>LG BP550's Breakthrough The 2023 Technology Sprint for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/runners-choice-garmin-forerunner/"><u>Runner's Choice: Garmin Forerunner</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-basics-of-ussd-comprehensive-overview-of-unstructured-supplementary-service-data/"><u>The Basics of USSD: Comprehensive Overview of Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>Updated In 2024, Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
 </ul></div>
 

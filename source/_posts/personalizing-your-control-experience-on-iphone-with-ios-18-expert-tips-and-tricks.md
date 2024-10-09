@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Your Control Experience on iPhone with iOS 18: Expert Tips and Tricks"
-date: 2024-10-01T19:48:47.896Z
-updated: 2024-10-03T18:48:56.460Z
+date: 2024-10-01T22:03:00.722Z
+updated: 2024-10-08T23:16:38.752Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,13 +42,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -65,10 +58,16 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -76,6 +75,13 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -86,10 +92,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -134,16 +140,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-making-time-move-backwards-a-step-by-step-guide-for-instagram-videos/"><u>[New] Making Time Move Backwards A Step-by-Step Guide for Instagram Videos</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-gpts-capability-to-manage-smart-homes/"><u>Discovering GPT's Capability to Manage Smart Homes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-codegpts-vision-could-it-automate-the-coding-process/"><u>Exploring CodeGPT's Vision: Could It Automate the Coding Process?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-aim-higher-boosting-views-and-reach-on-youtube/"><u>In 2024, Aim Higher Boosting Views and Reach on YouTube</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-x9a-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor X9a to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-browser-based-ai-with-agentgpt/"><u>Mastering Browser-Based AI with AgentGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/silicon-wit-from-laptops-to-vpns-connectivitys-quirky-tale/"><u>Silicon Wit: From Laptops to VPNs, Connectivity's Quirky Tale</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-turing-test-simplified-and-its-quest-for-a-successor/"><u>The Turing Test Simplified & Its Quest for a Successor?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-workflow-essential-wins11-god-mode-tips/"><u>Transforming Workflow: Essential Wins11 God Mode Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-the-art-of-zooming-on-social-media-platform-snapchat/"><u>[New] 2024 Approved Mastering the Art of Zooming on Social Media Platform, Snapchat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-insight-into-budget-friendly-design-portals/"><u>[New] Exclusive Insight Into Budget-Friendly Design Portals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pros-in-mac-streaming-the-top-5-applications/"><u>2024 Approved Pros in Mac Streaming The Top 5 Applications</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cross-play-exclusivity-guide-in-apex-legends-games/"><u>Cross-Play Exclusivity Guide in Apex Legends Games</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-hd-webcam-c270-drivers-compatible-with-windows-11/"><u>Download Logitech HD Webcam C270 Drivers - Compatible with Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/enhancing-media-workflow-the-rise-of-magix-vpx/"><u>Enhancing Media Workflow The Rise of Magix VPX</u></a></li>
+<li><a href="https://facebook.techidaily.com/joe-vax-using-social-networks-in-his-strategy-against-coronavirus/"><u>JOE VAX: Using Social Networks in His Strategy Against Coronavirus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nintendo-switch/"><u>Nintendo Switch ゲームプレイを録画するための完全ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-tips-effortless-transformation-of-wmv-files-into-high-quality-mp3-audio/"><u>Quick Tips: Effortless Transformation of WMV Files Into High-Quality MP3 Audio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-tutorial-on-converting-raw-video-footage-into-mp4-and-additional-formats/"><u>Quick Tutorial on Converting Raw Video Footage Into MP4 & Additional Formats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-smooth-dvd-playback-tips-to-resolve-choppiness-and-stutters/"><u>Solving Smooth DVD Playback - Tips to Resolve Choppiness & Stutters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speedy-conversion-transforming-vob-files-into-mkv-format-in-minutes/"><u>Speedy Conversion: Transforming VOB Files Into MKV Format in Minutes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-job-search-with-chatgpt-for-resumes/"><u>Transform Your Job Search with ChatGPT for Resumes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trust-issues-with-independent-gpt-tools/"><u>Trust Issues with Independent GPT Tools?</u></a></li>
 </ul></div>
 

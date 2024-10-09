@@ -1,7 +1,7 @@
 ---
 title: The ChatGPT Approach to Exceptional Resumes
-date: 2024-09-27T00:32:22.523Z
-updated: 2024-10-03T18:35:39.099Z
+date: 2024-10-01T16:41:16.804Z
+updated: 2024-10-09T03:17:49.710Z
 tags:
   - chatgpt
   - open-ai
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 
 ![A resume outline developed with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-14-45.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT also suggested that we add references, related educational and professional history, and links to our portfolio.
 
 ![ChatGPT resume outline asking us to add education, professional experience, etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-15-02.png)
@@ -154,16 +147,10 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 ![ChatGPT resume outline asking us to add education, professional experience, etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-15-02.png)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With these basics, you can spend some time thinking about how you want to customize your resume. Before you move on to the next section, consider learning about the most common [ChatGPT prompting mistakes to avoid](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/).
@@ -185,19 +172,6 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
  The initial summary was quite long, so I asked ChatGPT to shorten it to 150 characters. But since that wasn't very informative, I upped the parameters to three sentences and 280 characters. The result was much better:
 
 ![An edited resume summary in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-33-53.png)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Besides avoiding common errors within ChatGPT, you should [avoid easy-to-overlook resume mistakes](https://www.makeuseof.com/resume-mistakes-easy-to-overlook/) when looking for a new job. Examples include putting education above experience and not customizing your resume for each application. You may also want to learn [how to create a resume in Canva](https://www.makeuseof.com/tag/how-to-create-resume-using-canva/) if you're interested in eye-catching designs.
 
@@ -235,13 +209,6 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 
 ![Educational history on a ChatGPT resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-55-26.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're specifically going for a job in the tech space, consider checking out [the best resume templates for tech professionals](https://www.makeuseof.com/best-resume-templates-for-tech-professionals/).
 
 ## How to Write a Resume With ChatGPT Using a Custom GPT
@@ -253,6 +220,14 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 2. Write a prompt asking the custom GPT to analyze your resume.  
 ![Asking a Custom GPT to Analyze Resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-11-01-29.png)
 3. Upload a PDF version of your resume.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Wait for the GPT to analyze your resume and provide advice on how to change areas that need improvement. Consider using detailed prompts like the ones we've already discussed to make everything more relevant.  
 ![The Resume by jobbright.ai plugin offering feedback on a resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-53-11.png)
 
@@ -285,16 +260,16 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
  With these basics, you can spend some time thinking about how you want to customize your resume. Before you move on to the next section, consider learning about the most common [ChatGPT prompting mistakes to avoid](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/).
 
 <!-- affiliate ads begin -->
-<span id="1983552">
+<span id="1982570">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Write Your Professional Experience and Resume Summary With ChatGPT
@@ -310,13 +285,6 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
  Rather helpfully, ChatGPT also adjusted my **Objective Statement** with the information provided:
 
 ![An Objective Statement in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-31-09.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The initial summary was quite long, so I asked ChatGPT to shorten it to 150 characters. But since that wasn't very informative, I upped the parameters to three sentences and 280 characters. The result was much better:
 
@@ -358,7 +326,21 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 
 ![Educational history on a ChatGPT resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-55-26.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're specifically going for a job in the tech space, consider checking out [the best resume templates for tech professionals](https://www.makeuseof.com/best-resume-templates-for-tech-professionals/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Write a Resume With ChatGPT Using a Custom GPT
 
@@ -394,18 +376,18 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 
 ![A resume outline developed with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-14-45.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT also suggested that we add references, related educational and professional history, and links to our portfolio.
 
 ![ChatGPT resume outline asking us to add education, professional experience, etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-15-02.png)
 
  With these basics, you can spend some time thinking about how you want to customize your resume. Before you move on to the next section, consider learning about the most common [ChatGPT prompting mistakes to avoid](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Write Your Professional Experience and Resume Summary With ChatGPT
 
@@ -426,6 +408,13 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 ![An edited resume summary in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-33-53.png)
 
  Besides avoiding common errors within ChatGPT, you should [avoid easy-to-overlook resume mistakes](https://www.makeuseof.com/resume-mistakes-easy-to-overlook/) when looking for a new job. Examples include putting education above experience and not customizing your resume for each application. You may also want to learn [how to create a resume in Canva](https://www.makeuseof.com/tag/how-to-create-resume-using-canva/) if you're interested in eye-catching designs.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Use ChatGPT to Outline Skills in Your Resume
 
@@ -450,10 +439,10 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 ![Skills outlined in a resume in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-09-at-10-47-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've got the information you need, you can add these to your resume and tweak them further if you feel like doing so is necessary. Either way, it's important to proofread everything and make sure your resume is accurate before you send it to potential employers.
@@ -499,24 +488,14 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/2024-approved-premier-list-photos-with-perfect-beats-recorders/"><u>2024 Approved Premier List Photos with Perfect Beats Recorders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-total-well-being-with-chatgpt-your-guide-to-life-transformation/"><u>Achieve Total Well-Being with ChatGPT: Your Guide to Life Transformation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Nokia</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diving-into-gpt-enhanced-jobs-money-making-scenarios-explored/"><u>Diving Into GPT-Enhanced Jobs: Money-Making Scenarios Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancements-arrive-chatgpt-introduces-top-tier-updates/"><u>Enhancements Arrive: ChatGPT Introduces Top-Tier Updates!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-chatgpts-economic-impact-on-8-business-models/"><u>Evaluating ChatGPT's Economic Impact on 8 Business Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/futurists-unite-global-leaders-on-ai-prospects/"><u>Futurists Unite: Global Leaders on AI Prospects</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-best-live-stream-options-today/"><u>In 2024, Unlock the Best Live Stream Options Today</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/journey-to-blockchain-stardom-discover-the-top-7-generator-tools/"><u>Journey to Blockchain Stardom - Discover the Top 7 Generator Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-via-siri-on-ios-devices/"><u>Leveraging ChatGPT via Siri on iOS Devices</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-tips-for-cutting-down-ambient-noise-and-reverberation-in-audio-tracks/"><u>New In 2024, Tips for Cutting Down Ambient Noise and Reverberation in Audio Tracks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/radiance-visionaries-report-on-studio-25-2023/"><u>Radiance Visionaries Report on Studio 25, 2023</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-content-generation-using-hixgpt-4/"><u>Seamless Content Generation Using HIX/GPT-4</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-ipad-print-command-errors-tips-for-finding-lost-or-invisible-printers/"><u>Solving iPad Print Command Errors: Tips for Finding Lost or Invisible Printers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-composers-guide-to-creating-youtube-music-cohorts-for-2024/"><u>The Composer's Guide to Creating YouTube Music Cohorts for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unfolding-gpt-4-integration-in-these-7-modern-tools/"><u>Unfolding GPT-4 Integration in These 7 Modern Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unplugged-fun-the-best-non-networked-android-apps/"><u>Unplugged Fun The Best Non-Networked Android Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-best-in-4k-technology-in-depth-review-of-sealoc-coastal-silver-55-screen-ideal-for-outdoor-viewing-pleasures/"><u>Unveiling the Best in 4K Technology: In-Depth Review of Sealoc Coastal Silver 55 Screen - Ideal for Outdoor Viewing Pleasures</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-k70e-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi K70E?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-8-plus-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 8 Plus to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m34-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M34 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-starting-a-hosted-network-in-windows-10-when-it-wont-turn-on/"><u>Solution Steps for Starting a Hosted Network in Windows 10 when It Won't Turn On</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-tutorial-on-securely-saving-cnns-live-coverage-without-cost-using-web-tools-and-applications/"><u>The Ultimate Tutorial on Securely Saving CNN's Live Coverage Without Cost Using Web Tools & Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-techniques-for-optimizing-asf-to-wav-file-conversions/"><u>Top Techniques for Optimizing ASF to WAV File Conversions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-adding-captions-on-videos-with-imovie-and-other-options/"><u>Ultimate Guide to Adding Captions on Videos with iMovie & Other Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-mastering-m4r-file-editors-boost-your-audio-workflow/"><u>Ultimate Guide to Mastering M4R File Editors: Boost Your Audio Workflow</u></a></li>
 </ul></div>
 

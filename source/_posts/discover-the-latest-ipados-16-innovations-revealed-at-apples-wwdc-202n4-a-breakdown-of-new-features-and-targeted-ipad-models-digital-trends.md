@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest iPadOS 16 Innovations Revealed at Apple's WWDC 202N4: A Breakdown of New Features & Targeted iPad Models | Digital Trends"
-date: 2024-10-02T19:00:00.312Z
-updated: 2024-10-04T00:21:36.488Z
+date: 2024-10-07T17:06:13.746Z
+updated: 2024-10-08T21:45:17.488Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,22 +133,18 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-captivating-videos-start-here-these-7-royalty-free-audios-for-2024/"><u>[New] Captivating Videos Start Here These 7 Royalty-Free Audios for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-highest-quality-mp4-adapter-for-fb-integration/"><u>[New] Highest Quality MP4 Adapter for FB Integration</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hidden-features-top-30-unknown-window-11-tips/"><u>[Updated] Hidden Features Top 30 Unknown WINDOW 11 Tips</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-streamlining-spotify-listening-swiftly-but-safely/"><u>[Updated] In 2024, Streamlining Spotify Listening - Swiftly but Safely</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-art-of-choosing-between-independent-or-mnc-status/"><u>2024 Approved The Art of Choosing Between Independent or MNC Status</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/constructing-a-daily-sanctuary-through-ai-guided-reflection/"><u>Constructing a Daily Sanctuary Through AI-Guided Reflection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delving-into-ai-prompt-design-professional-trajectory-analysis/"><u>Delving Into AI Prompt Design: Professional Trajectory Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiency-leap-ai-in-dev-workflow/"><u>Efficiency Leap: AI in Dev Workflow</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-3d-printing-game-with-crealitys-cutting-edge-flagship-printer-the-k1c-and-next-gen-ender-v3/"><u>Elevate Your 3D Printing Game with Creality's Cutting-Edge Flagship Printer, the K1C & Next-Gen Ender V3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-therapists-with-ai-driven-cbt-techniques/"><u>Empowering Therapists with AI-Driven CBT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gateway-to-advanced-ai-without-expenditure-4-methods/"><u>Gateway to Advanced AI Without Expenditure: 4 Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/imovie-kullanicilarin-resmi-projelerine-yonelik-windows-vidore-bolmek-onemli-olabilir/"><u>IMovie Kullanıcıların RESMİ Projelerine Yönelik Windows Vidöre Bölmek Önemli Olabilir</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-itel-a60s-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Itel A60s for Free? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-perils-of-using-ai-for-obtaining-windows-11-keys/"><u>The Perils of Using AI for Obtaining Windows 11 Keys</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/theoretical-inquiry-into-comparative-models-of-accessibility-in-digital-knowledge-bases-the-case-of-the-internet/"><u>Theoretical Inquiry Into Comparative Models of Accessibility in Digital Knowledge Bases: The Case of the Internet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-the-future-the-leading-5-hardware-advancements-in-ai-sector/"><u>Transforming the Future: The Leading 5 Hardware Advancements in AI Sector</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whatsapp-vs-signal-comparing-messaging-app-features-and-privacy/"><u>WhatsApp vs Signal: Comparing Messaging App Features and Privacy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-webcam-snapshots-via-vlc-media-player/"><u>[Updated] Capture Webcam Snapshots via VLC Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726221618622-2024/"><u>與時俱進：2024年最有前途的影片色彩调整软件，为影片精准配色指南</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-560-troubleshooting-and-solving-driver-conflicts-on-windows-operating-systems-11-10-8-and-7/"><u>AMD RX 560: Troubleshooting and Solving Driver Conflicts on Windows Operating Systems (11, 10, 8 & 7)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descubra-os-9-principais-criadores-de-filmes-de-aniversario-virtual-para-o-ano-de-2024/"><u>Descubra Os 9 Principais Criadores De Filmes De Aniversário Virtual Para O Ano De 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-total-war-rome-remastered-game-crashes-complete-solution/"><u>Fixing Total War: Rome Remastered Game Crashes – Complete Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-converte-facilmente-de-aac-para-mp3-com-o-movavi-sem-custo-algum/"><u>Gratis Online: Converte Facilmente De AAC Para MP3 Com O Movavi - Sem Custo Algum</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-webp-to-jpg-transformation-guide/"><u>In 2024, Optimal WebP-to-JPG Transformation Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-self-verification-on-instagram-does-it-serve-us/"><u>In 2024, Self-Verification on Instagram Does It Serve Us?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nocturnal-tales-on-the-silver-screen/"><u>Nocturnal Tales on the Silver Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-converter-voor-mpeg-4-videodateien-veerkrachtig-omzetten-naar-mp4-gratis-met-movavi-konverter/"><u>Online Converter Voor MPEG-4 Videodateien - Veerkrachtig Omzetten Naar MP4 Gratis Met Movavi Konverter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pef-en-png-direct-converteert-voor-gratis-movavi/"><u>PEF en PNG Direct Converteert Voor Gratis - Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-analysis-the-gigabyte-g6x-laptop-decent-execution-but-no-exceptional-qualities/"><u>Performance Analysis: The Gigabyte G6X Laptop - Decent Execution but No Exceptional Qualities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-how-to-effectively-end-stuck-or-frozen-programs-in-windows-nx/"><u>Step-by-Step Tutorial: How to Effectively End Stuck or Frozen Programs in Windows nX</u></a></li>
 </ul></div>
 

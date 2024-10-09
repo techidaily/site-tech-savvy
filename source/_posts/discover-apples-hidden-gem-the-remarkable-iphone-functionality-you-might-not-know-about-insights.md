@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple's Hidden Gem: The Remarkable iPhone Functionality You Might Not Know About - Insights"
-date: 2024-10-03T00:33:47.990Z
-updated: 2024-10-03T17:32:07.096Z
+date: 2024-10-05T05:29:35.444Z
+updated: 2024-10-09T00:42:00.907Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -65,6 +58,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -82,10 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,24 +166,16 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-capture-your-audience-the-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] Capture Your Audience The Smartphone Guide to YouTube Thumbnails</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-smart-8-plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Infinix Smart 8 Plus to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breakthrough-ai-by-google-the-dawn-of-bard-challenging-chatgpt/"><u>Breakthrough AI by Google: The Dawn of 'Bard', Challenging ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-browser-addons-for-secure-gpt-interaction/"><u>Evaluating Browser AddOns for Secure GPT Interaction</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a2-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo A2 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-get-a-voice-controlled-version-of-chatgpt-on-android-with-voicegpt/"><u>How to Get a Voice-Controlled Version of ChatGPT on Android With VoiceGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-canva-and-chatgpt-to-bulk-create-content-designs/"><u>How to Use Canva and ChatGPT to Bulk Create Content Designs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-8-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 8 with iTunes | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-6-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone 6?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-tiktok-videos-with-strategic-zoom-use/"><u>In 2024, Professional TikTok Videos with Strategic Zoom Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-mind-of-gpt-the-code-that-powers-dialogue/"><u>Inside the Mind of GPT: The Code That Powers Dialogue</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-filmora-watermark-removal-free-trials-hacks-and-official-methods/"><u>New Filmora Watermark Removal Free Trials, Hacks, and Official Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-f04-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy F04 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/regulating-artificial-intelligence-principles/"><u>Regulating Artificial Intelligence: Principles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tracing-ais-evolution-through-time-and-space/"><u>Tracing AI's Evolution Through Time and Space</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-ai-chat-expertise-gpt-versus-bings-bot/"><u>Unraveling AI Chat Expertise: GPT versus Bing's Bot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-real-world-applications-gpts-influence-today/"><u>Unveiling Real-World Applications: GPT's Influence Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/x-factors-in-crypto-queries-with-chatgpt/"><u>X-Factors in Crypto Queries with ChatGPT</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-reimagining-storytelling-through-vr-screens/"><u>[Updated] Reimagining Storytelling Through VR Screens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-python-tips-for-gpt-3-use/"><u>Essential Python Tips for GPT-3 Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-chatgpt-as-a-source-for-credible-medical-insights-and-tips/"><u>Evaluating ChatGPT as a Source for Credible Medical Insights and Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-chatgpts-impact-on-personal-data-safety/"><u>Evaluating ChatGPT's Impact on Personal Data Safety</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-sony-xperia-5-v-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Sony Xperia 5 V</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/security-protocol-evaluation-how-secure-is-chatgpt/"><u>Security Protocol Evaluation: How Secure Is ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tapping-into-time-potential-with-chatgpts-top-4-methods/"><u>Tapping Into Time Potential with ChatGPT's Top 4 Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/technology-giant-intel-faces-financial-setback-16-billion-loss-linked-to-cpu-and-foundry-unit-hurdles/"><u>Technology Giant, Intel Faces Financial Setback - $1.6 Billion Loss Linked to CPU and Foundry Unit Hurdles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-your-pc-potential-gpt-3s-repair-guide/"><u>Unleash Your PC Potential - GPT-3's Repair Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unlock-the-potential-of-mac-for-top-tier-ootd-tiktoks/"><u>Unlock the Potential of Mac for Top-Tier OOTD TikToks</u></a></li>
 </ul></div>
 

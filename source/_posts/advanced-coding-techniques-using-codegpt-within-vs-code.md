@@ -1,7 +1,7 @@
 ---
 title: Advanced Coding Techniques Using CodeGPT Within VS Code
-date: 2024-09-28T00:11:49.269Z
-updated: 2024-10-04T00:10:54.980Z
+date: 2024-10-06T17:05:07.949Z
+updated: 2024-10-08T21:33:55.253Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
  Click on it and paste your API key on the prompt that appears. Save it by pressing **Enter**. Finally, reload VS Code to start using CodeGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Generating Code With CodeGPT
 
  To demonstrate the CodeGPT code generation feature, you will create a calculator app using Python.
@@ -83,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 ![CodeGPT code generation in the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-code-generation-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click on the "insert code" arrow to automatically paste the code into your script. As you can see, this method is more tidy. The generated code is as shown below:
@@ -130,13 +137,6 @@ else:
 
  CodeGPT will generate new code that implements the requested refactoring.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Explaining Your Code With CodeGPT
 
  To explain your code, select the code that you want CodeGPT to explain. Then right-click on the highlighted code and select the **Explain CodeGPT** option.
@@ -146,10 +146,10 @@ else:
  CodeGPT will explain what the code does on the chat window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Documenting Your Code Using CodeGPT
@@ -179,10 +179,10 @@ def divide(x, y):
  These are clear and correct inline comments.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Understanding How Generative AI Works
@@ -208,22 +208,17 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-are-paid-reviews-common-amongst-online-reviewers-for-2024/"><u>[New] Are Paid Reviews Common Amongst Online Reviewers for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-master-the-art-of-video-annotation-using-markers-with-ease-for-2024/"><u>[New] Master the Art of Video Annotation Using Markers with Ease for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-no-fog-only-clarity-gopro-lens-care-essentials/"><u>[Updated] 2024 Approved No Fog, Only Clarity GoPro Lens Care Essentials</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-accuracy-in-health-guidance-by-digital-assistants/"><u>Ensuring Accuracy in Health Guidance by Digital Assistants</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/expert-picked-screen-capturers-of-movies/"><u>Expert-Picked Screen Capturers of Movies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-linguistic-horizons-using-premium-chatgptplus/"><u>Explore Linguistic Horizons Using Premium ChatGPT+</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fabricate-exclusive-language-models/"><u>Fabricate Exclusive Language Models</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-11-pro-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 11 Pro or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-exploring-syma-x8c-battery-life/"><u>In 2024, Exploring Syma X8C Battery Life</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-look-best-practices-for-using-gpt-3-openai-style/"><u>Inside Look: Best Practices for Using GPT-3, OpenAI Style</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-duplicates-a-step-by-step-guide-to-using-conditional-formatting-in-excel/"><u>Mastering Duplicates: A Step-by-Step Guide to Using Conditional Formatting in Excel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-llm-tech-revolutionizing-natural-language-understanding/"><u>Pioneering LLM Tech: Revolutionizing Natural Language Understanding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speak-to-chatgpt-your-personal-ai/"><u>Speak to ChatGPT – Your Personal AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-world-embraces-gpt-4-understanding-the-impact/"><u>The World Embraces GPT-4: Understanding the Impact</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-googles-artificial-intelligence-gemini-project/"><u>Unpacking Google's Artificial Intelligence Gemini Project</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unravel-the-mysteries-of-artificial-intelligence-learn-to-use-free-dall-e-3-on-bing-by-microsoft/"><u>Unravel the Mysteries of Artificial Intelligence: Learn to Use Free DALL-E 3 on Bing by Microsoft</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-live-game-capture-on-xbox-one/"><u>[New] Mastering Live Game Capture on Xbox One</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-top-rated-avi-format-converter-apps-for-seamless-video-transformation/"><u>5 Top-Rated AVI Format Converter Apps for Seamless Video Transformation</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/abbey/"><u>損害賠償申請プロセスの流れを適切にコントロールしている方法 | ABBEYブック</u></a></li>
+<li><a href="https://games-able.techidaily.com/bending-no-more-tackling-gpu-display-deformity/"><u>Bending No More: Tackling GPU Display Deformity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-but-faulty-a-comprehensive-thermopro-tpn67-test/"><u>Budget-Friendly but Faulty: A Comprehensive ThermoPro TPn67 Test</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-navigation-understanding-the-site-structure-and-sitemap/"><u>Comprehensive Navigation: Understanding the Site Structure and Sitemap</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-techniques-for-converting-mov-files-into-avi-format/"><u>Efficient Techniques for Converting MOV Files Into AVI Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-change-your-wav-recordings-into-mp3-format-via-the-easy-method-of-vlc-software/"><u>Efficiently Change Your WAV Recordings Into MP3 Format via the Easy Method of VLC Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/error-404-pagina-desaparecida-foxextraordinario/"><u>Error 404: Página Desaparecida - FoxExtraordinario</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-asus-rog-phone-7-ultimate-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Asus ROG Phone 7 Ultimate Phone Now with These Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-meizu-21-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Meizu 21 Phone Hassle-Free</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-putting-an-ipad-in-recovery-mode/"><u>Mastering the Art of Putting an iPad in Recovery Mode</u></a></li>
 </ul></div>
 

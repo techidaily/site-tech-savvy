@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Minds: When AI Entered Our World"
-date: 2024-10-02T00:09:04.732Z
-updated: 2024-10-04T00:56:22.262Z
+date: 2024-10-04T06:36:12.403Z
+updated: 2024-10-09T02:22:10.328Z
 tags:
   - chatgpt
   - open-ai
@@ -41,19 +41,6 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
 
  Although the first period looking at the roots of AI covers a vast period, there are some key moments.
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1900-1950: The Dawn of Modern AI
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
@@ -67,16 +54,16 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
 
  The dawn of modern AI fitting accumulates with Alan Turing's paper and the [Turing Test, which attempts to answer the question](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/), "Can machines think?"
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1951-2000: Exploring the Applications of AI Technologies
 
 ![An Old and Large Supercomputer Display at the Museum](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-super-computer-display.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:CDC%5F6600%5F-%5FComputer%5FHistory%5FMuseum%5F%2830614723650%29.jpg)
 
@@ -105,22 +92,15 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
  Interestingly, despite this period featuring some of the most iconic tech from recent decades, AI wasn't fully on the radar for most consumers, with personal and home assistant tools like Siri and Alexa only appearing in the next period.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2011-2020: The Spread and Development of AI-Driven Applications
 
 ![Camera, Smartphone, Keyboard, an Laptop on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/various-gadgets-on-table.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Companies began developing stable AI-driven solutions during this period. They integrate AI into various software and hardware systems, like virtual assistants, grammar checkers, laptops, smartphones, and [augmented reality apps](https://www.makeuseof.com/tag/best-augmented-reality-apps-android/).
 
@@ -136,12 +116,32 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The great AI race has begun. Developers are releasing language models, and companies are researching ways to integrate AI with their products. At this rate, almost every consumer product will have an AI component.
 
 * **2022:** [OpenAI made waves with ChatGPT](https://www.makeuseof.com/the-pros-and-cons-of-chatgpt-plus/). It's a sophisticated, AI-driven chatbot powered by GPT-3.5, an iteration of the GPT model it developed in 2018\. Developers fed it 300 billion words during training.
 * **2023:** Other global tech companies followed suit. Google launched Bard, Microsoft released Bing Chat, Meta developed an open-source language model called LLaMA, and OpenAI released GPT-4, its upgraded model.
 
  There are also numerous [other AI web apps](https://www.makeuseof.com/best-ai-web-apps/) and [AI-based health apps](https://www.makeuseof.com/best-ai-apps-monitor-your-health/) available for use or in development, and so many more to come.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How AI Will Shape the Future
 
@@ -168,24 +168,19 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-ranking-the-top-5-instant-frame-recorder-apps/"><u>[New] 2024 Approved Ranking the Top 5 Instant Frame Recorder Apps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-power-of-nikon-d7500/"><u>[New] Unveiling the Power of Nikon D7500</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-comprehensive-study-on-razers-camera-quality/"><u>[Updated] 2024 Approved Comprehensive Study on Razer's Camera Quality</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-photography-tips-for-seamless-instagram-posting/"><u>[Updated] 2024 Approved Photography Tips for Seamless Instagram Posting</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-finding-your-niche-making-money-with-video-content/"><u>[Updated] Finding Your Niche Making Money with Video Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-professional-shootings-optimal-lenses-for-youtube-videographers/"><u>[Updated] Professional Shootings Optimal Lenses for YouTube Videographers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-job-market-the-evolving-scenario/"><u>AI-Driven Job Market: The Evolving Scenario</u></a></li>
-<li><a href="https://common-error.techidaily.com/errcachemiss-error-solutions-for-a-smooth-chrome-experience/"><u>ERR_CACHE_MISS Error Solutions for a Smooth Chrome Experience</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/exploring-no-cost-cam-screens-reviews-and-high-alternatives/"><u>Exploring No-Cost Cam Screens Reviews & High Alternatives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-for-advanced-google-sheets-analysis/"><u>Leveraging GPT for Advanced Google Sheets Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ai-types-community-wide-to-homebound-integration/"><u>Navigating AI Types: Community-Wide to Homebound Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peeling-back-layers-of-ai-security-the-threat-of-prompt-injection-attacks/"><u>Peeling Back Layers of AI Security: The Threat of Prompt Injection Attacks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preventing-misinformation-openais-new-ai-scrutiny-tool/"><u>Preventing Misinformation: OpenAI's New AI Scrutiny Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/real-time-learning-via-chatgpt-worldwide/"><u>Real-Time Learning via ChatGPT Worldwide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-failure-of-group-policy-client-login-issues-on-windows/"><u>Resolved: Fixing Failure of Group Policy Client Login Issues on Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/srt-mastery-free-and-best-websites-in-top-8-lists/"><u>SRT Mastery Free & Best Websites in Top 8 Lists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-dynamic-sound-design-with-chatgpt-integration/"><u>The Dawn of Dynamic Sound Design with ChatGPT Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-fraudgpt-safeguarding-against-deceptive-bots/"><u>Unveiling FraudGPT: Safeguarding Against Deceptive Bots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-machine-learning-clarity-with-shap-e/"><u>Unveiling Machine Learning Clarity with SHAP E</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-stardom-a-beginners-blueprint-for-2024/"><u>[New] Instagram Stardom A Beginner's Blueprint for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-apex-chart-analyst-master-video-popularity-for-2024/"><u>[Updated] Apex Chart Analyst Master Video Popularity for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bmpgif-movavi/"><u>「無料でBMPからGIFへ簡単変換！オンラインツールであなたの画像を動的化する - Movaviが教えてくれます」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-techniques-for-audacity-audio-mastery/"><u>2024 Approved Advanced Techniques for Audacity Audio Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-convert-avi-videos-to-wav-audio-on-the-web-for-free-try-movavis-expert-service-now/"><u>Effortlessly Convert AVI Videos to WAV Audio on the Web for Free - Try Movavi's Expert Service Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/extrackera-avbildar-medan-du-spelar-in-i-din-video-enkeltvis-pa-7-satt-foreslagna-av-movavi/"><u>Extrackera Avbildar Medan Du Spelar In I Din Video: Enkeltvis På 7 Sätt - Föreslagna Av Movavi</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/get-your-free-program-to-remove-adobes-copyright-protection/"><u>Get Your Free Program to Remove Adobe's Copyright Protection</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-social-space-gamers-the-ultimate-top-10-list/"><u>In 2024, Social Space Gamers The Ultimate Top 10 List</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/najlepsi-bezcenne-prekonvertovatelnosti-pro-zakoreny-system-mac/"><u>Najlepší Bezcenné Prekonvertovatelnosti Pro Zákořený Systém - Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reinventer-votre-contenu-au-format-mp4-gratuitement-guide-simple-avec-movavi/"><u>Réinventer Votre Contenu Au Format MP4 Gratuitement: Guide Simple Avec Movavi!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/social-media-savvy-ig-filter-hits-for-2024/"><u>Social Media Savvy IG Filter Hits for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-19-best-free-video-editing-software-replace-wondershare-filmora/"><u>Top 19 Best Free Video Editing Software: Replace Wondershare Filmora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-shrink-your-mov-videos-with-ease-windows-and-mac-tips-and-free-web-tools/"><u>Ultimate Guide: Shrink Your MOV Videos with Ease - Windows & Mac Tips and Free Web Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Pioneering LLMs: From Theory to Practicality"
-date: 2024-10-01T17:38:18.009Z
-updated: 2024-10-03T20:35:44.735Z
+date: 2024-10-07T20:53:02.111Z
+updated: 2024-10-09T04:28:47.991Z
 tags:
   - chatgpt
   - open-ai
@@ -53,27 +53,27 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
@@ -101,10 +101,16 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
  Here are some of the most widely used LLMs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. GPT
@@ -121,6 +127,13 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
  Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Future of LLMs
 
  These will undoubtedly shape the way we interact with technology in the future. The rapid uptake of models like ChatGPT and Bing Chat is a testament to this fact. In the short term, [AI is unlikely to replace you at work](https://www.makeuseof.com/reasons-artificial-intelligence-cant-replace-humans/). But there is still uncertainty about just how big a part in our lives these will play in the future.
@@ -133,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 4. **Greater Integration**: LLMs could become personal digital assistants. Think of Siri on steroids, and you get the idea. LLMs could become virtual assistants that help you with everything from suggesting meals to dealing with your correspondence.
 
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
 
@@ -166,22 +172,17 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-visual-dialogue-maker/"><u>[Updated] Visual Dialogue Maker</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/1725289526297-winxvideo-ai/"><u>帶WinxVideo AI上錯你的移動設備 - 智能手機和平板電腦用</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-g2-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from G2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-tips-for-changing-your-username-on-a-windows-11-pc/"><u>Easy Tips for Changing Your Username on a Windows 11 PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-tips-on-resolving-windows-1110-malfunctions-a-diy-troubleshooting-manual/"><u>Expert Tips on Resolving Windows 11/10 Malfunctions: A DIY Troubleshooting Manual</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-the-latest-amd-graphics-card-drivers-compatible-with-windows-10-systems/"><u>Get the Latest AMD Graphics Card Drivers Compatible with Windows 10 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-started-with-free-ip-lookup-track-your-devices-online-identity/"><u>Getting Started with FREE IP Lookup - Track Your Device's Online Identity</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-check-windows-10-version-the-very-easy-way/"><u>How to Check Windows 10 Version, the Very Easy Way</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-connect-a-wireless-keyboard-step-by-step/"><u>How to Connect a Wireless Keyboard [Step-by-Step]</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-xr-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone XR to SIM? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-effectively-eliminate-malware-from-your-android-device-without-performing-a-factory-reset/"><u>How to Effectively Eliminate Malware From Your Android Device without Performing a Factory Reset</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-reduce-cpu-usage-in-windows/"><u>How to Reduce CPU Usage in Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-photo-editing-blur-or-eliminate-unwanted-borders/"><u>In 2024, Professional Photo Editing Blur or Eliminate Unwanted Borders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-live-streamers-analyzed-and-ranked/"><u>In 2024, Top Live Streamers Analyzed and Ranked</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-civi-3-disney-100th-anniversary-edition-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Civi 3 Disney 100th Anniversary Edition Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fix-confirmed-shorts-are-showing-up/"><u>[New] 2024 Approved Fix Confirmed Shorts Are Showing Up</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-what-everyone-should-know-about-youtube-tv-before-you-stream-for-2024/"><u>[Updated] What Everyone Should Know About YouTube TV Before You Stream for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-language-masters-comparing-bert-and-gpt-deep-insights/"><u>AI's Language Masters: Comparing BERT & GPT Deep Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-gpt-addons-trustworthy/"><u>Are GPT Addons Trustworthy?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-any-file-type-with-movavis-free-em4r-on-line-tool/"><u>Convert Any File Type with Movavi's Free EM4R On-Line Tool!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-amd-vega-driver-upgrades-smooth-installation-guide-for-enthusiasts/"><u>Get the Latest AMD Vega Driver Upgrades: Smooth Installation Guide for Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-artfully-diminish-image-details/"><u>How to Artfully Diminish Image Details</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/innovacons-leading-voice-abnyys-top-executive-unveils-breakthrough-at-ny-tech-conference/"><u>InnovaCon's Leading Voice: ABNYY's Top Executive Unveils Breakthrough at NY Tech Conference</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reclaiming-lost-conversations-with-ai/"><u>Reclaiming Lost Conversations with AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pros-and-cons-of-choosing-language-bots-as-a-self-employed-professional/"><u>The Pros & Cons of Choosing Language Bots as a Self-Employed Professional</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/transform-your-cleaning-routine-with-the-dreame-bot-l10-pro-a-revolutionary-robot-combining-mopping-vacuuming-and-precise-lidar-navigation/"><u>Transform Your Cleaning Routine with the Dreame Bot L10 Pro - A Revolutionary Robot Combining Mopping, Vacuuming, and Precise LiDAR Navigation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-emotion-ai-and-can-it-really-understand-our-feelings/"><u>What Is Emotion AI and Can It Really Understand Our Feelings?</u></a></li>
 </ul></div>
 

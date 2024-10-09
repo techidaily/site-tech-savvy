@@ -1,7 +1,7 @@
 ---
 title: "New Era for Businesses: Integrating GPT-Chat and Whisper APIs"
-date: 2024-09-27T23:06:59.838Z
-updated: 2024-10-03T20:00:44.955Z
+date: 2024-10-04T01:57:27.806Z
+updated: 2024-10-08T16:44:21.092Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 
  The developer community has lauded Whisper for its impressive capabilities, but it has been reported to be challenging to set up and run. However, OpenAI has made the **large-v2** model of Whisper available through its API, which offers improved speed and accessibility.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Pricing
 
  OpenAI now gives you 1,000 tokens at a rate of $0.002, which it claims is 10x cheaper than the existing GPT-3.5 models. Even though 1,000 tokens may seem like a lot, sending just one snippet of text for the API to respond to could cost several tokens. In the official ChatGPT API announcement post, [OpenAI](https://openai.com/blog/introducing-chatgpt-and-whisper-apis) mentioned:
@@ -42,29 +49,22 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 
  Whisper’s large-v2 model is priced at $0.006/minute (of audio input), which is also cheaper.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Access to the API
 
  GPT models take in unstructured text and represent it as a sequence of **tokens** for the model to understand. But with ChatGPT models, the input is consumed as a sequence of messages along with metadata. Even though the input is still processed as a sequence of tokens using the ChatML (Chat Markup Language) format, it allows for a more conversational experience. To give more context, we've covered [how ChatGPT works and how it answers questions](https://www.makeuseof.com/how-does-chatgpt-work/) in detail.
 
  To interact with the [ChatGPT model](https://platform.openai.com/docs/guides/chat) via the new API, OpenAI has developed a new endpoint that accommodates this format. This adds to the list of [things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Will Businesses Use the ChatGPT and Whisper API?
 
 ![Someone holding business data and analytics while a working on a Samsung tablet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-samsung-table-and-papers-on-table.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With the integration of ChatGPT and Whisper into third-party software, businesses can now create more personalized and engaging experiences for their customers. One example is Snap's My AI feature, which uses the same technology to enable users to create their own virtual personal assistant.
 
@@ -74,16 +74,16 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 
  This can also be a good time for new SaaS products. Having seen so many pop up in the market already (such as [Speak](https://www.speak.com/)), the possibilities are endless.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Does This Mean for Users?
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Expect to see more natural language processing and improved conversational experiences in your mainstream apps. This is because ChatGPT and Whisper API will set a new standard for NLP, and developers will likely try to integrate similar features into their apps to keep up with the competition.
 
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
  This could lead to a proliferation of new chatbot-based services and applications, as well as improved experiences for users interacting with these systems.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A New Era of AI
@@ -123,17 +123,22 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-collaboration-techniques-in-video-making-viewership-up/"><u>[New] 2024 Approved Collaboration Techniques in Video Making, Viewership Up</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-quantum-hdr-principles/"><u>[Updated] Mastering Quantum HDR Principles</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-photo-editing-unleashed-android-and-iphones-top-tools-ranked/"><u>2024 Approved Free Photo Editing Unleashed – Android & iPhone's Top Tools Ranked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-side-gigs-pc-building-tips-and-retro-handhelds/"><u>ChatGPT Side Gigs, PC Building Tips, and Retro Handhelds</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/complete-guide-to-understanding-obs-screen-capture-for-2024/"><u>Complete Guide to Understanding OBS Screen Capture for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-compelling-examples-podcast-summaries-for-2024/"><u>Crafting Compelling Examples Podcast Summaries for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-decorum-for-chatbots-tips-for-siri-and-similar-platforms/"><u>Digital Decorum for Chatbots: Tips for Siri and Similar Platforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-depth-analysis-av1-versus-vp9-video-encoding/"><u>In-Depth Analysis AV1 versus VP9 Video Encoding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/invest-in-security-not-ai-the-right-way-to-create-windows-11-keys/"><u>Invest in Security, Not AI: The Right Way to Create Windows 11 Keys</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-potential-within-chatgpts-token-boundaries/"><u>Maximizing Potential Within ChatGPT's Token Boundaries</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-microphone-malfunctions-of-airpods-on-your-new-pc-running-windows-11/"><u>Resolving Microphone Malfunctions of AirPods on Your New PC Running Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-y02t-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo Y02T</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-budget-conscious-shooters-7-best-4k-cameras-for-2024/"><u>[Updated] Budget-Conscious Shooters' 7 Best 4K Cameras for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-charting-8-most-swiftly-increasing-video-platforms/"><u>[Updated] Charting 8 Most Swiftly Increasing Video Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-full-analysis-navigating-the-depths-of-adobes-data-safekeeping-and-competitor-highlights/"><u>[Updated] Full Analysis Navigating the Depths of Adobe's Data Safekeeping and Competitor Highlights</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-transforming-standard-tweets-into-hd-spectacles/"><u>[Updated] Transforming Standard Tweets Into HD Spectacles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iuoajomgupluse5geobquocteodsplusodlplusodqpluswhpueqhjog5zplus65pys44gl44kj5ael44kb44kl5zgo5roi5pww5asj5oplusb44gu44og44kv44ol44od44kv44ks44kk44oj44cnig/"><u>「頻繁なサンプル処理: 基本から始める周波数変換のテクニックガイド」</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-snapshot-into-the-heart-of-video-edits-filmoras-top-10/"><u>2024 Approved Snapshot Into the Heart of Video Edits - Filmora’s Top 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-frugal-success-in-acquiring-espn-footage-your-ultimate-diy-strategy-for-video-downloads/"><u>Achieve Frugal Success in Acquiring ESPN Footage - Your Ultimate DIY Strategy for Video Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-5-substitutes-for-screenflow-on-windows-and-macos-a-comprehensive-guide/"><u>Best 5 Substitutes for ScreenFlow on Windows and macOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easily-extract-and-save-animated-images-from-facebook-for-desktop-and-mobile-use/"><u>Easily Extract and Save Animated Images From Facebook for Desktop & Mobile Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-transfer-techniques-moving-the-dvd-film-interstellar-to-ios-devices/"><u>Effortless Transfer Techniques: Moving the DVD Film 'Interstellar' To iOS Devices</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effortless-tutorials-for-smooth-ipad-game-recording-strategies/"><u>Effortless Tutorials for Smooth iPad Game Recording Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-edit-your-tracks-length-in-itunes-a-simple-step-by-step-guide/"><u>Effortlessly Edit Your Track's Length in iTunes: A Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/emulate-hand-held-shooting-effects-in-ps/"><u>Emulate Hand-Held Shooting Effects in PS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/frozen-ground-ripped-apart-from-prey-to-predator-unleashed/"><u>Frozen Ground Ripped Apart: From Prey to Predator Unleashed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-does-kodi-handle-iso-file-playback-understanding-compatibility-issues/"><u>How Does Kodi Handle ISO File Playback - Understanding Compatibility Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-audiocasts-without-paying-tips-for-extracting-sound-from-social-media-clips/"><u>How to Download Audiocasts without Paying: Tips for Extracting Sound From Social Media Clips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/privacy-preservation-in-videos-techniques-to-hide-data/"><u>Privacy Preservation in Videos Techniques to Hide Data</u></a></li>
 </ul></div>
 

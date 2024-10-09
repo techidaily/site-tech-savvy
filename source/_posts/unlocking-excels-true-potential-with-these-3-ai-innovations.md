@@ -1,7 +1,7 @@
 ---
 title: Unlocking Excel's True Potential with These 3 AI Innovations
-date: 2024-09-29T20:10:41.484Z
-updated: 2024-10-04T01:07:02.735Z
+date: 2024-10-03T02:31:30.827Z
+updated: 2024-10-08T22:54:59.430Z
 tags:
   - chatgpt
   - open-ai
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
  By keeping these points in mind, you can use the chatbot more effectively and with greater confidence to overcome any fears you may have about working with spreadsheets.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use ChatGPT to Create Macros
@@ -78,29 +78,9 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
 ![Excel sheet example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-sheet-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We want to create a filter that will display the total sales made in the first quarter for the North region. We described this to ChatGPT and created a macro for this, as shown below:
 
 ![Excel macro example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-macro-example-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you have the required macro, let’s implement and run it:
 
@@ -108,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 2. In the following window, navigate to **Insert** \> **Module**.  
 ![Insert a module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/inssert-module.jpg)
 3. Here, enter the code that you copied from ChatGPT earlier.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Close the dialog and clicking on **File** \> **Save as**.
 5. Expand the Save as type dropdown and choose **Excel Macro-Enabled Workbook**.
@@ -125,9 +98,30 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 9. Finally, hit **Run**.  
 ![Run the macro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-macro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This macro will now filter your data to show only the sales for the targeted region.
 
 ![Macro result in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/macro-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use ChatGPT to Automate Sending Emails
 
@@ -166,22 +160,24 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-crafting-artful-iphone-snaps-master-these-top-10-design-tactics/"><u>[Updated] Crafting Artful iPhone Snaps - Master These Top 10 Design Tactics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/0x80248007-error-in-windows-update-in-windows-11-solved/"><u>0X80248007 Error in Windows Update in Windows 11 [Solved]</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-longer-bluetooth-connections-strategies-for-windows-11-systems/"><u>Achieve Longer Bluetooth Connections: Strategies for Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/are-you-struggling-with-blizzard-battlenet-understanding-the-difference-between-server-downtime-and-personal-connection-issues/"><u>Are You Struggling with Blizzard Battle.net? Understanding the Difference Between Server Downtime and Personal Connection Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-tips-for-switching-between-landscape-and-portrait-modes-on-a-laptop-screen/"><u>Easy Tips for Switching Between Landscape and Portrait Modes on a Laptop Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eliminating-the-problems-of-a-slow-moving-freezing-pc-a-comprehensive-guide/"><u>Eliminating the Problems of a Slow-Moving, Freezing PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-preparation-guide-transitioning-to-the-windows-11-creators-edition/"><u>Essential Preparation Guide: Transitioning to the Windows 11 Creator's Edition</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-xiaomi-redmi-12-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Xiaomi Redmi 12 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808333913-miracast-in-windows-7-everything-you-need-to-know/"><u>Miracast in Windows 7 – Everything You Need to Know</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/techniques-to-maintain-high-video-standards-post-export/"><u>Techniques to Maintain High Video Standards Post-Export</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-best-virtualdub-alternatives-for-windows-mac-and-linux-for-2024/"><u>The Best Virtualdub Alternatives for Windows, Mac, and Linux for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repair-for-non-functional-corsair-hs35-microphones-on-pcs-with-windows-os/"><u>Troubleshooting and Repair for Non-Functional Corsair HS35 Microphones on PCs with Windows OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-10-troubleshooting-steps-to-unfreeze-a-stuck-computer/"><u>Windows 10 Troubleshooting: Steps to Unfreeze a Stuck Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723807971544-windows-10-wont-boot-or-start-try-easy-fixes/"><u>Windows 10 Won’t Boot or Start? Try Easy Fixes!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dynamic-website-content-incorporating-youtube-playlists/"><u>[New] In 2024, Dynamic Website Content Incorporating YouTube Playlists</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-6-efficient-urban-minecraft-residences/"><u>[New] In 2024, Top 6 Efficient Urban Minecraft Residences</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-tips-and-tricks-for-professional-logitech-webcam-recordings/"><u>[Updated] 2024 Approved Tips & Tricks for Professional Logitech Webcam Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-math-are-they-compatible/"><u>AI & Math: Are They Compatible?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpt-for-ubuntu-users-easy-install-guide/"><u>Auto-GPT for Ubuntu Users: Easy Install Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/broadview-networks-navigating-mcn-choices-for-2024/"><u>Broadview Networks Navigating MCN Choices for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/chuckle-champions-humor-hunt-on-twitter-for-2024/"><u>Chuckle-Champions Humor Hunt on Twitter for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-pova-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-kensun-compact-tire-pump-durable-trustworthy-easily-carried/"><u>Expert Analysis of Kensun Compact Tire Pump: Durable, Trustworthy, Easily Carried</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-professional-smoothness-blurring-the-video-backdrop/"><u>In 2024, Professional Smoothness Blurring the Video Backdrop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/investing-made-efficient-gpts-crypto-trading-aid/"><u>Investing Made Efficient: GPT's Crypto Trading Aid</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mirror-of-ai-reflecting-on-openais-chatgpts-8-problems/"><u>Mirror of AI: Reflecting on OpenAI's ChatGPT's 8 Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/note-taking-done-right-gpts-approach-explained/"><u>Note-Taking Done Right - GPT's Approach Explained</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/quick-tips-adding-captions-in-youtube-videos/"><u>Quick Tips Adding Captions in YouTube Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-coding-merging-chatgpt-and-vs-code-wisdom/"><u>Revolutionizing Coding - Merging ChatGPT and VS Code Wisdom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-fitness-regimens-prioritizing-safety-and-efficacy/"><u>Tailored Fitness Regimens: Prioritizing Safety & Efficacy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transcend-boundaries-with-effortless-anywhere-chatgpt-usage/"><u>Transcend Boundaries with Effortless Anywhere ChatGPT Usage</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-get-animated-top-10-software-for-2d-animation-enthusiasts/"><u>Updated In 2024, Get Animated Top 10 Software for 2D Animation Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-embrace-chatgpt-unveiling-its-impact-on-job-markets/"><u>Why Embrace ChatGPT? Unveiling Its Impact on Job Markets</u></a></li>
 </ul></div>
 

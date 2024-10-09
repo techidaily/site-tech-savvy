@@ -1,7 +1,7 @@
 ---
 title: New Functionality Added to Meta’s Ray-Ban Stylish Smartglasses at No Extra Cost - ZDNet
-date: 2024-09-18T16:58:45.361Z
-updated: 2024-09-22T17:08:25.177Z
+date: 2024-10-07T01:25:04.035Z
+updated: 2024-10-09T03:47:32.086Z
 tags:
   - ar+vr
 categories:
@@ -67,18 +67,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-srt-deep-dive-knowledge-at-your-fingertips/"><u>[New] SRT Deep Dive Knowledge at Your Fingertips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-windows-identifying-top-5-cutting-tools/"><u>[Updated] 2024 Approved Mastering Windows Identifying Top 5 Cutting Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-mac-toolkit-capturing-netflix-views/"><u>[Updated] 2024 Approved The Ultimate Mac Toolkit Capturing Netflix Views</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-5-youtube-video-marketing-strategies/"><u>[Updated] 2024 Approved Top 5 YouTube Video Marketing Strategies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-step-by-step-methods-for-sharing-igtv-in-stories/"><u>2024 Approved Step-by-Step Methods for Sharing IGTV in Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-vulnerability-the-growing-ai-risk-factor/"><u>Augmented Vulnerability: The Growing AI Risk Factor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/error-free-strategies-for-artificial-intelligence-craftsmen/"><u>Error-Free Strategies for Artificial Intelligence Craftsmen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-external-to-inshot-your-tunes-transformation-guide/"><u>From External to InShot Your Tunes Transformation Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-forward-adapting-skills-for-an-intelligent-labor-market/"><u>Future Forward: Adapting Skills for an Intelligent Labor Market</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-leveraging-title-creation-on-youtube-for-engagement/"><u>In 2024, Leveraging Title Creation on YouTube for Engagement</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/integrate-xps-essential-movie-making-features-for-2024/"><u>Integrate XP's Essential Movie Making Features for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-the-best-and-worst-of-chatgpt-for-writers/"><u>Leveraging AI: The Best and Worst of ChatGPT for Writers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-ai-write-like-you-tailoring-techniques-for-text/"><u>Making AI Write Like You: Tailoring Techniques for Text</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-educators-blueprint-embracing-ai-in-classrooms/"><u>The Educator's Blueprint: Embracing AI in Classrooms</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-a-non-functional-logitech-keyboard-expert-tips-and-fixes/"><u>Trouble with a Non-Functional Logitech Keyboard? Expert Tips & Fixes!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncharted-territory-5-advanced-gpt-functions-for-enthusiasts/"><u>Uncharted Territory: 5 Advanced GPT Functions for Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-functionalities-of-gpt-extensions/"><u>Unveiling the Functionalities of GPT Extensions</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

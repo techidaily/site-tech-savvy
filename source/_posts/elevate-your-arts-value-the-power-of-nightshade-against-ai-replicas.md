@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Art's Value: The Power of Nightshade Against AI Replicas"
-date: 2024-09-29T17:50:46.209Z
-updated: 2024-10-03T22:36:47.181Z
+date: 2024-10-06T06:24:57.447Z
+updated: 2024-10-09T02:46:23.926Z
 tags:
   - chatgpt
   - open-ai
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/747f020dba73f73220750a642a58d9200a84cba1b
 * [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Nightshade is an AI tool that "poisons" digital art, making it unusable for training AI models.
@@ -47,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/747f020dba73f73220750a642a58d9200a84cba1b
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is AI Poisoning?
@@ -60,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/747f020dba73f73220750a642a58d9200a84cba1b
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
@@ -79,10 +72,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Nightshade
@@ -102,6 +95,20 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 3. Select the image you want to protect by clicking the **Select** button in the top-left. You can also select multiple images at once for batch processing.  
 ![nightshade-program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nightshade-program.jpg)
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
 6. Click the **Run Nightshade** button at the bottom to run the program and poison your images.
 
@@ -126,20 +133,17 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-audiences-choice-for-best-action-capture-tools/"><u>[New] 2024 Approved Audience's Choice for Best Action Capture Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/s-youtubes-4-second-trick-effective-for-2024/"><u>[New] Is YouTube's 4-Second Trick Effective for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hilarious-hits-for-iphones/"><u>[Updated] Hilarious Hits for iPhones</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-joke-junction-ultimate-free-comic-templates-for-2024/"><u>[Updated] Joke Junction Ultimate Free Comic Templates for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-changing-passwords-for-other-users-in-windows-systems/"><u>Guide: Changing Passwords for Other Users in Windows Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-15-plus-how-to-unlock-a-disabled-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 15 Plus How to Unlock a Disabled Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-find-x6-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo Find X6 Pro without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solutions-to-get-the-thaumaturge-program-running-smoothly-on-desktop-pcs/"><u>Solutions to Get the Thaumaturge Program Running Smoothly on Desktop PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-securing-your-online-privacy-with-a-vpn-on-the-opera-browser/"><u>Step-by-Step Guide: Securing Your Online Privacy with a VPN on the Opera Browser</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-switching-your-laptop-display-orientation/"><u>Step-by-Step Guide: Switching Your Laptop Display Orientation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-thawing-out-a-locked-windows-10-system/"><u>Step-by-Step Tutorial: Thawing Out A Locked Windows 10 System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essentials-of-vpns-why-they-matter-and-their-functioning-explained/"><u>The Essentials of VPNs: Why They Matter and Their Functioning Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-and-resolving-issues-with-your-lagging-and-stuttering-computer-system/"><u>Troubleshooting and Resolving Issues with Your Lagging and Stuttering Computer System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-steps-when-oculus-quest-2-wont-pair-with-pc/"><u>Troubleshooting Steps When Oculus Quest 2 Won't Pair with PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-stopping-auto-updates-of-drivers-in-windows-11/"><u>Ultimate Guide: Stopping Auto-Updates of Drivers in Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-prime-techniques-converting-visual-content-on-pinterest-to-mp3s/"><u>[Updated] In 2024, Prime Techniques Converting Visual Content on Pinterest To MP3s</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-ordinary-to-extraordinary-profile-videos/"><u>2024 Approved From Ordinary to Extraordinary Profile Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-android-latest-tips-for-immersive-360-content/"><u>2024 Approved Navigating Android Latest Tips for Immersive 360 Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-procure-no-cost-media-content-from-prime-4-youtube-vids/"><u>2024 Approved Procure No-Cost Media Content From Prime 4 YouTube Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-recording-advice-macbooks-camera-insights/"><u>Essential Recording Advice MacBook's Camera Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-microsoft-surface-ergonomic-keyboard-quality-testing/"><u>Expert Analysis of the Microsoft Surface Ergonomic Keyboard – Quality Testing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/monthly-earnings-potential-on-youtube-for-2024/"><u>Monthly Earnings Potential on YouTube for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reinventing-home-management-using-gpt-capabilities/"><u>Reinventing Home Management Using GPT Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthetic-symmetry-crafting-ai-art-with-gpt-assistance/"><u>Synthetic Symmetry: Crafting AI Art with GPT Assistance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-cheap-4k-recording-systems/"><u>Top Cheap 4K Recording Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-5-motivations-for-companies-to-ban-gpt-tools/"><u>Unveiling the 5 Motivations for Companies to Ban GPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-gpt-3-insights-from-openai/"><u>Utilizing GPT-3: Insights From OpenAI</u></a></li>
 </ul></div>
 

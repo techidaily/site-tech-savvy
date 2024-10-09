@@ -1,7 +1,7 @@
 ---
 title: Advanced Research in Welding Metallurgy Seeks to Develop New Techniques that Minimize Residual Stresses and Enhance Long-Term Durability of Components Under Service Conditions.
-date: 2024-09-29T17:41:29.488Z
-updated: 2024-10-03T18:05:36.693Z
+date: 2024-10-03T20:32:23.544Z
+updated: 2024-10-08T18:06:39.039Z
 tags:
   - apple
 categories:
@@ -55,10 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Security and privacy implications
@@ -78,13 +84,6 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## App Store changes
 
 Apple's financial model heavily depends on App Store commissions, which may undergo significant changes due to this lawsuit, judgment, or settlement. These changes could lead to a more dynamic market, providing consumers with more competitive pricing and a wider range of innovative app offerings. Fundamentally, it could alter the economic structure of the entire digital marketplace.
@@ -94,6 +93,13 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Reduction in App Store fees:** Antitrust rulings may require Apple to reduce its upfront commission and yearly subscription fee, which could negatively impact its revenue. However, this may lead to lower app prices for consumers and increased developer earnings.
 * **Competitive app marketplace:** If iOS is opened to third-party app stores, it could break Apple's monopoly on app distribution and create a more competitive environment where different app marketplaces fight for developer and consumer attention.
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
 
@@ -119,10 +125,10 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -136,10 +142,10 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -178,17 +184,21 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-a-review-10-best-free-luts-with-download-links/"><u>[Updated] A Review 10 Best Free LUTs with Download Links</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-htc-u23-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For HTC U23 Pro Unlock Without Password</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-iphone-models-supporting-ios-18-and-those-that-dont-insights/"><u>Comprehensive Guide: IPhone Models Supporting iOS 18 & Those That Don't - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-correct-a-no-color-screen-in-windows-11/"><u>How to Correct a No-Color Screen in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-create-bootable-usb-for-windows-7-easily/"><u>How to Create Bootable USB for Windows 7 Easily</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-edit-instagram-photos-like-a-pro/"><u>How to Edit Instagram Photos Like a Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-open-a-port-in-windows-firewall-in-windows-7/"><u>How to Open a Port in Windows Firewall in Windows 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-solve-compatibility-problems-with-your-logitech-mouse-and-windows-10/"><u>How to Solve Compatibility Problems with Your Logitech Mouse and Windows 10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-9a-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Reno 9A</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/kodinerds-repository-how-to-install-kodinerds-repo-on-kodi/"><u>KodiNerds Repository – How to Install KodiNerds Repo on Kodi</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-samsung-galaxy-m14-4g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Samsung Galaxy M14 4G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unbalanced-sound-alert-find-out-why-and-fix-your-airpods-now/"><u>Unbalanced Sound Alert! Find Out Why and Fix Your AirPods Now!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/avigating-the-waters-of-youtube-broadcasting-via-google-meet-for-2024/"><u>[New] Navigating the Waters of Youtube Broadcasting via Google Meet for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-windows-painting-and-sketchpad-programs-reviewed/"><u>[New] Top Windows Painting and Sketchpad Programs Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-discover-your-ideal-screen-recorder-pc-and-mac-edition-for-2024/"><u>[Updated] Discover Your Ideal Screen Recorder - PC & Mac Edition for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-enhance-social-media-reach-on-facebook-using-proven-seo-methods/"><u>2024 Approved Enhance Social Media Reach on Facebook Using Proven SEO Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intuition-nine-catalysts-for-fantasy-blur/"><u>Artificial Intuition: Nine Catalysts for Fantasy Blur</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-15-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 15 Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-gpt-autonomy-distinctions-from-conversational-ai/"><u>Discovering GPT Autonomy - Distinctions From Conversational AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/five-student-driven-uses-for-ai-tutor-chatgpt/"><u>Five Student-Driven Uses for AI Tutor: ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptbot-enigma-ai-potential-vs-cybersecurity-hurdles/"><u>GPTBot Enigma: AI Potential Vs. Cybersecurity Hurdles</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-java-vm-not-found-on-pc/"><u>How to Overcome Java VM Not Found On PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-nightshade-to-protect-your-artwork-from-generative-ai/"><u>How to Use Nightshade to Protect Your Artwork From Generative AI</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-review-of-sns-hdr-vs-top-hdr-applications/"><u>In 2024, The Ultimate Review of SNS HDR Vs. Top HDR Applications</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-moto-e13-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Moto E13 for Parents | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-xiaomi-mix-fold-3-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi Mix Fold 3 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-free-ai-art-creation-tools/"><u>Top 5 Free AI Art Creation Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-creative-potential-using-free-dall-e-3-on-bing-by-microsoft/"><u>Unleash Creative Potential: Using Free DALL-E 3 on Bing by Microsoft</u></a></li>
 </ul></div>
 

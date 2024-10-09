@@ -1,7 +1,7 @@
 ---
 title: Stanford's Revolutionary AI Technology Redefines Virtual Reality, Bypassing Outdated Headsets | ZDNET
-date: 2024-09-17T16:42:45.257Z
-updated: 2024-09-22T17:50:57.793Z
+date: 2024-10-01T19:06:00.045Z
+updated: 2024-10-09T05:11:09.205Z
 tags:
   - ar+vr
 categories:
@@ -67,18 +67,29 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-harness-the-power-of-storytelling-making-captivating-reels-on-facebook/"><u>[New] 2024 Approved Harness the Power of Storytelling Making Captivating Reels on Facebook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-revolutionizing-education-through-vr-for-2024/"><u>[New] Revolutionizing Education Through VR for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-perfectly-organizing-weekly-google-meeting-times/"><u>[Updated] 2024 Approved Perfectly Organizing Weekly Google Meeting Times</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-directive-perfection-using-these-innovative-online-helpers/"><u>Boost Directive Perfection Using These Innovative Online Helpers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-generative-ai-the-basics-explained/"><u>Delving Into Generative AI: The Basics Explained</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitech-momo-steering-wheel-gamepad-for-windows-pc/"><u>Download Logitech MOMO Steering Wheel Gamepad for Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-techniques-for-using-gpt-3-openai-edition/"><u>Essential Techniques for Using GPT-3, OpenAI Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-y28-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo Y28 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installing-chatgpt-as-a-windows-app/"><u>Installing ChatGPT as a Windows App</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 11 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-your-security-delete-filesfolders-using-stellars-winstandard-eraser/"><u>Maximize Your Security - Delete Files/Folders Using Stellar's WinStandard Eraser</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-list-8-best-photo-viewers-for-windows-10-users/"><u>New In 2024, The Ultimate List 8 Best Photo Viewers for Windows 10 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-recognition-of-sham-chatgpt-sites/"><u>Quick Recognition of Sham ChatGPT Sites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/security-flaws-exposed-by-ai-sourced-windows-keys/"><u>Security Flaws Exposed by AI-Sourced Windows Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/three-paths-to-harnessing-gpt-4-for-free/"><u>Three Paths to Harnessing GPT-4 for Free</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

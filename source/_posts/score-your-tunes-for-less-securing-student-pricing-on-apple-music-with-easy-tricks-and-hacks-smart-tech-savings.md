@@ -1,7 +1,7 @@
 ---
 title: "Score Your Tunes for Less: Securing Student Pricing on Apple Music with Easy Tricks and Hacks | Smart Tech Savings"
-date: 2024-09-28T19:15:41.683Z
-updated: 2024-10-03T23:01:17.365Z
+date: 2024-10-07T16:17:50.433Z
+updated: 2024-10-09T04:24:26.261Z
 tags:
   - apple
 categories:
@@ -41,10 +41,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -52,13 +52,6 @@ Screenshot by Lance Whitney/ZDNET
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -76,6 +69,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -83,10 +83,10 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -99,18 +99,18 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -162,24 +162,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-cut-to-the-chase-managing-twitch-streams/"><u>[New] In 2024, Cut to the Chase Managing Twitch Streams</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-choosing-excellence-hdr-cameras-decoded/"><u>[Updated] Choosing Excellence HDR Cameras Decoded</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-cutting-edge-techniques-quickly-developing-quality-captions-for-facebook-posts/"><u>[Updated] In 2024, Cutting-Edge Techniques Quickly Developing Quality Captions for Facebook Posts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-melodic-freedom-fbs-music-library/"><u>[Updated] In 2024, Melodic Freedom FB's Music Library</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparing-voip-services-is-vonage-still-leading-the-pack/"><u>Comparing VoIP Services – Is Vonage Still Leading the Pack?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-success-harnessing-smart-bots-for-enhanced-user-engagement/"><u>Cookiebot-Driven Success: Harnessing Smart Bots for Enhanced User Engagement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-personalization-tailoring-user-experience-with-smart-data-tracking/"><u>Cookiebot-Enabled Personalization: Tailoring User Experience with Smart Data Tracking</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-optimize-your-website-with-advanced-tracker-technology/"><u>Cookiebot-Enabled: Optimize Your Website with Advanced Tracker Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-optimize-your-website-with-advanced-tracking-and-personalization/"><u>Cookiebot-Enabled: Optimize Your Website with Advanced Tracking and Personalization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-optimizing-your-site-with-advanced-tracking-technology/"><u>Cookiebot-Enabled: Optimizing Your Site with Advanced Tracking Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-optimizing-your-site-with-cutting-edge-technology/"><u>Cookiebot-Enabled: Optimizing Your Site with Cutting-Edge Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enhanced-boost-your-websites-performance-with-cutting-edge-technology/"><u>Cookiebot-Enhanced: Boost Your Website's Performance with Cutting-Edge Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/devoilant-les-secrets-des-systemes-dintelligence-de-traitement-perspectives-innovantes-avec-abbyy/"><u>Dévoilant Les Secrets Des Systèmes D'Intelligence De Traitement: Perspectives Innovantes Avec ABBYY</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-benefits-of-cookiebot-integration-for-tailored-site-engagement-and-seo-success/"><u>Discover the Benefits of Cookiebot Integration for Tailored Site Engagement and SEO Success</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-access-to-updated-asus-notebook-drivers-get-them-here/"><u>Easy Access to Updated ASUS Notebook Drivers - Get Them Here!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exquisite-background-melodies-for-edits-for-2024/"><u>Exquisite Background Melodies for Edits for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-c50-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Poco C50 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-motorola-razr-40-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Motorola Razr 40 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-winxdvd-tutorial-effortless-setup-and-comprehensive-function-use/"><u>Ultimate WinXDVD Tutorial: Effortless Setup & Comprehensive Function Use</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-capture-the-scope-of-space-sharing-panoramic-pictures-with-facebook/"><u>[Updated] Capture the Scope of Space Sharing Panoramic Pictures with Facebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-showcase-excellence-with-these-essential-thumbnail-fonts/"><u>2024 Approved Showcase Excellence with These Essential Thumbnail Fonts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-facilitated-world-design-beyond-boundaries/"><u>AI-Facilitated World Design: Beyond Boundaries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chaos-or-evolution-ai-beyond-boundaries/"><u>Chaos or Evolution? AI Beyond Boundaries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-knowledge-on-openais-ethos/"><u>Essential Knowledge on OpenAI's Ethos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-enable-youtube-videos-to-self-play-on-facebook-for-2024/"><u>How to Enable Youtube Videos to Self-Play on Facebook for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-nord-3-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus Nord 3 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-gb-usage-for-full-day-film-length/"><u>In 2024, GB Usage for Full-Day Film Length</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-a-local-llm-right-for-you-pros-and-cons-explored/"><u>Is a Local LLM Right for You? Pros and Cons Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-wpcapsddll-file-not-found-a-step-by-step-guide/"><u>Solving the wpcapsd.dll File Not Found: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

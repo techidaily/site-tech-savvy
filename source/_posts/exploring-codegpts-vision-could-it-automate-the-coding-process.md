@@ -1,7 +1,7 @@
 ---
 title: "Exploring CodeGPT's Vision: Could It Automate the Coding Process?"
-date: 2024-09-28T18:46:10.032Z
-updated: 2024-10-03T22:10:11.997Z
+date: 2024-10-03T01:57:31.446Z
+updated: 2024-10-08T22:32:18.290Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,16 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 * [Can CodeGPT Really Write Code?](https://sentrypc.7eer.net/dkpkgn)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is CodeGPT?
@@ -61,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
  While there are several [code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/), macOS, and Windows, CodeGPT is only available in two. Today, you can either [install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Does CodeGPT Cost?
@@ -76,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can [access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/), you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can CodeGPT Really Write Code?
@@ -181,21 +187,24 @@ with open('output.csv', 'w', newline='') as output_file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-filmcrafters-compendium-unpacked-qanda/"><u>[New] 2024 Approved FilmCrafters' Compendium Unpacked Q&A</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/isual-description-programmer/"><u>[New] Visual Description Programmer</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-download-video-as-mp3-with-vimeo-step-by-step-guide/"><u>[Updated] 2024 Approved Download Video as MP3 with Vimeo - Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-how-to-delete-a-tiktok-account-permanently/"><u>[Updated] In 2024, How to Delete a TikTok Account Permanently?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2-enhance-user-experience-and-data-insights-the-cookiebot-difference/"><u>2. Enhance User Experience and Data Insights: The Cookiebot Difference</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sba-pppblue-prism85000/"><u>中小企業救済：銀行でSBA PPPローンをBlue Prismが自動化して85,000件以上の雇用保護に成功</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-infinix-note-30i-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Infinix Note 30i</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbeyy-and-fronteo/"><u>ABBEYY & FRONTEO連携による法令理解向上戦略</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fishing-footage-kings-select-the-best-camers/"><u>Fishing Footage Kings Select the Best Camers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-complementing-visuals-embedding-text-into-windowsmac-pictures/"><u>In 2024, Complementing Visuals Embedding Text Into Windows/Mac Pictures</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/should-you-update-your-iphone-to-ios-the-fairbanks-is-a-semi-automatic-pistol-designed-in-the-united-states-it-was-manufactured-by-fairbanks-morse-and-compa14/"><u>Should You Update Your iPhone to iOS The '''Fairbanks''' Is a Semi-Automatic Pistol Designed in the United States. It Was Manufactured by Fairbanks, Morse & Company of Philadelphia From About 1908 Through 1927.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smart-dokumentenmanagement-in-der-finanzbranche-innovative-einsatzmoglichkeiten/"><u>Smart-Dokumentenmanagement in Der Finanzbranche: Innovative Einsatzmöglichkeiten</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-comprehensive-tutorial-on-steps-involved-in-torrent-downloads/"><u>The Comprehensive Tutorial on Steps Involved in Torrent Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-legal-terms-for-abbyy-online-platform-use-and-compliance/"><u>Understanding the Legal Terms for ABBYY Online Platform Use and Compliance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-new-era-of-abbyy-brand-what-lies-behind-it-discover-at-abbyy-reimagine/"><u>Unveiling the New Era of ABBYY Brand: What Lies Behind It? - Discover at ABBYY Reimagine!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instas-influence-index-a-look-at-the-top-25-gurus-and-visionaries/"><u>[Updated] 2024 Approved Insta’s Influence Index A Look at the Top 25 Gurus and Visionaries</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unlocking-facebooks-potential-with-top-video-strategies/"><u>[Updated] 2024 Approved Unlocking Facebook's Potential with Top Video Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-finding-the-ultimate-cam-choice-post-manycam/"><u>[Updated] In 2024, Finding the Ultimate Cam Choice Post-ManyCam</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unveiling-inauthentic-accounts-on-brand-pages/"><u>[Updated] Unveiling Inauthentic Accounts on Brand Pages</u></a></li>
+<li><a href="https://solve-news.techidaily.com/abbyy-idp-global-trend/"><u>ABBYY IDP Global Trend 分析と成功事例について</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adapting-to-diverse-candidate-personalities/"><u>Adapting to Diverse Candidate Personalities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alert-systems-for-counterfeit-chatgpt-websites/"><u>Alert Systems for Counterfeit ChatGPT Websites</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-new-account-registrations-temporarily-halted-exploring-reasons-and-anticipated-restart-dates/"><u>ChatGPT New Account Registrations Temporarily Halted - Exploring Reasons & Anticipated Restart Dates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-complexity-beyond-chatgpts-simplified-synopses/"><u>Deciphering Complexity Beyond ChatGPT's Simplified Synopses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/direct-vs-additional-gpt-tools-for-effective-communication/"><u>Direct Vs. Additional GPT Tools for Effective Communication</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-typing-experience-how-to-use-bings-ai-in-android-keyboards/"><u>Enhancing Typing Experience: How to Use Bing's AI in Android Keyboards</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-look-at-digital-dialogues-in-social-media/"><u>In-Depth Look at Digital Dialogues in Social Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolving-coders-landscape-anticipating-ais-influence-on-development-practices/"><u>The Evolving Coder's Landscape: Anticipating AI's Influence on Development Practices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tick-tock-tally-calculating-pewdiepies-cash/"><u>Tick-Tock Tally Calculating PewDiePie’s Cash</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-truthgpt-elons-ambition-exposed/"><u>Unmasking TruthGPT: Elon's Ambition Exposed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unrecognized-writing-flaws-by-ai/"><u>Unrecognized Writing Flaws by AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-on-device-ai-and-how-does-it-work/"><u>What Is On-Device AI and How Does It Work?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-is-the-changing-of-gpt-limited/"><u>Why Is the Changing of GPT Limited?</u></a></li>
 </ul></div>
 

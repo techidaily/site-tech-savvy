@@ -1,7 +1,7 @@
 ---
 title: "Inside Qualcomm's Covert Collaboration: How Their Partnership With Samsung & Google Birthed Revolutionary Mixed Reality Smart Glasses – The Details You Need to Know"
-date: 2024-09-21T16:48:23.397Z
-updated: 2024-09-22T16:06:10.484Z
+date: 2024-10-05T19:09:57.123Z
+updated: 2024-10-08T17:31:41.186Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,30 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-swift-systems-simplified-screen-capture-procedures-dell-for-2024/"><u>[New] Swift Systems Simplified Screen Capture Procedures (Dell) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-harmonizing-content-with-ig-beats/"><u>[Updated] 2024 Approved Harmonizing Content with IG Beats</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-pioneering-publishing-platforms-fb-and-its-video-distribution-insights/"><u>2024 Approved Pioneering Publishing Platforms FB and Its Video Distribution Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-innovation-duels-googles-gemini-vs-openais-chatgpt/"><u>AI Innovation Duels: Google's Gemini Vs. OpenAI’s ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defining-intelligence-will-ai-beat-human-judges/"><u>Defining Intelligence: Will AI Beat Human Judges?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-separate-worlds-of-nlp-ml/"><u>Exploring the Separate Worlds of NLP, ML</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-entry-dilemma-decoded-overcoming-point-not-found-errors/"><u>Fortnite Entry Dilemma Decoded - Overcoming 'Point Not Found' Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-content-creation-vs-se-expertise/"><u>GPT's Content Creation vs SE Expertise</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-x7b-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor X7b Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-making-of-ai-interactions-is-it-an-employable-skill/"><u>The Making of AI Interactions: Is It an Employable Skill?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-error-code-31-solutions-and-tips/"><u>Troubleshooting Windows Error Code 31 - Solutions and Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-conversion-manual-from-srt-to-various-formats-for-2024/"><u>Ultimate Conversion Manual From SRT to Various Formats for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-intrinsic-intelligence-implementations-in-hardware/"><u>Unraveling Intrinsic Intelligence Implementations in Hardware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-cgps-accuracy-in-medical-dialogues/"><u>Unveiling CGP's Accuracy in Medical Dialogues</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-editing-canon-videos-like-a-pro-top-software-and-techniques/"><u>Updated Editing Canon Videos Like a Pro Top Software and Techniques</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: How Does OpenAI's SHAP Enlighten Machine Learning?
-date: 2024-10-01T22:26:07.344Z
-updated: 2024-10-03T21:42:27.124Z
+date: 2024-10-01T22:01:53.039Z
+updated: 2024-10-08T19:04:48.764Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
  By combining these two components, Shap-E can generate realistic and diverse 3D models that match the given text or image input and can be viewed from different angles and lighting conditions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How You Can Use OpenAI's Shap-E
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
  You can also report issues and find solutions to issues already raised by others on the Shap-E GitHub page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What You Can Do With OpenAI's Shap-E
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 ![Screenshot of text-3D images from OpenAI's Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-text-3d-images-from-openai-s-github.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As an architect, you can use Shap-E to create 3D models of buildings and structures based on written descriptions. You can specify the structures' dimensions, materials, colors, and styles using simple sentences. For example, you can prompt it with: "Make a skyscraper with 60 floors and glass balustrades," and export the result(s) to other software for further editing if you like the results you get.
@@ -82,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
  Although it is still a work in progress, Shap-E is a step ahead of OpenAI's [POINT-E](https://openai.com/research/point-e), which produces 3D point clouds based on text prompts. The point clouds are limited in their expressiveness and resolution, often producing blurry or incomplete shapes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generate 3D Models Using OpenAI's Shap-E
@@ -113,20 +113,24 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-scripts-that-define-movie-industrys-variety/"><u>[New] 2024 Approved Scripts That Define Movie Industry's Variety</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-navigating-the-nuances-of-inshot-video-segments/"><u>[Updated] 2024 Approved Navigating the Nuances of Inshot Video Segments</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-melody-migration-transitioning-playlists-across-platforms/"><u>[Updated] Melody Migration Transitioning Playlists Across Platforms</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/calculating-cost-for-shooting-a-song-in-cinematic-style-for-2024/"><u>Calculating Cost for Shooting A Song in Cinematic Style for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-your-cinematic-experience-camera-upgrade-tips/"><u>Enhance Your Cinematic Experience - Camera Upgrade Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-anthropics-new-ai-prompt-emporium/"><u>Explore Anthropic's New AI Prompt Emporium</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-s17t-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo S17t Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/italys-swift-action-immediate-suspension-of-chatgpt-usage/"><u>Italy's Swift Action: Immediate Suspension of ChatGPT Usage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leap-into-a-new-era-of-web-exploration-bing-on-mobile-platforms/"><u>Leap Into a New Era of Web Exploration: Bing on Mobile Platforms</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-zero-to-hero-creating-stunning-reaction-videos-using-filmora/"><u>New In 2024, From Zero to Hero Creating Stunning Reaction Videos Using Filmora</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/obs-full-screen-nightmare-ended-for-2024/"><u>Obs Full-Screen Nightmare Ended for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preventing-chatgpt-memory-lapse-incidents/"><u>Preventing ChatGPT Memory Lapse Incidents</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mysteries-of-machine-learning-ais/"><u>Unraveling the Mysteries of Machine Learning AIs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unrivaled-streaming-experience-ranking-the-leaders-for-2024/"><u>Unrivaled Streaming Experience Ranking the Leaders for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voice-of-the-virtual-world-utilizing-chatgpt-for-in-game-dialogues/"><u>Voice of the Virtual World: Utilizing ChatGPT for In-Game Dialogues</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-obs-live-video-to-insta-platform/"><u>[Updated] In 2024, OBS Live Video to Insta Platform</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-upgrade-your-photo-edits-the-ultimate-guide-to-pixlr-power/"><u>[Updated] In 2024, Upgrade Your Photo Edits The Ultimate Guide to Pixlr Power</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quick-start-marketing-tricks-elevating-your-brands-reach/"><u>[Updated] Quick-Start Marketing Tricks Elevating Your Brand's Reach</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-reno-11-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo Reno 11 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223583137-2024/"><u>2024 年最佳字幕下載站列表【中英文字幕】 - 必看一項!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-six-best-film-alternates-ranked-7-picks/"><u>2024 Approved Six Best Film Alternates Ranked #7 Picks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-y36-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo Y36 without App | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertissez-vos-fichiers-m4r-gratuitement-avec-moveaveer-service-en-ligne/"><u>Convertissez Vos Fichiers .m4r Gratuitement Avec Moveaveer - Service en Ligne</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/geavanceerd-online-konverteren-van-rw2-fiches-gratis-met-movavi-opgeluchterde-instructies/"><u>Geavanceerd Online Konverteren Van RW2 Fiches Gratis Met Movavi - Opgeluchterde Instructies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-vob-mp4-konvertering-med-movavi-windows-and-mac-kompatibel/"><u>Gratis Online VOB-MP4 Konvertering Med Movavi: Windows & Mac Kompatibel</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-11-pro-max-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 11 Pro Max to Roku? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/lytte-til-skjermfotografier-i-windows-10-4-viktige-metoder-for-a-ta-opp-bilde-med-horsel/"><u>Lytte Til Skjermfotografier I Windows 10: 4 Viktige Metoder for Å Ta Opp Bilde Med Hørsel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpe-a-avi-online-converter-de-graca-pela-movavi-facil-egratuito/"><u>MPE a AVI Online Converter De Graça Pela Movavi - Fácil Egratuito</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scopri-i-soluzioni-economiche-per-trasformare-video-mp4-in-audio-mp3-le-ultime-novita-settembre-2024/"><u>Scopri I Soluzioni Economiche per Trasformare Video MP4 in Audio MP3: Le Ultime Novità Settembre 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/software-profesional-de-edicion-fotografica-para-eliminar-objetos-soluciones-inteligentes-con-movavi/"><u>Software Profesional De Edición Fotográfica Para Eliminar Objetos: Soluciones Inteligentes Con Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sound-excellence-with-jabras-evolve2-85-review/"><u>Sound Excellence with Jabra's Evolve2 85 Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-image-enhancement-building-engaging-slideshows-and-fixing-windows-11-photo-flaws/"><u>The Art of Image Enhancement: Building Engaging Slideshows & Fixing Windows 11 Photo Flaws</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-27-solutions-de-generation-voix-naturelle-pour-lannee-2024-comparatif-exhaustif-par-movavi/"><u>Top 27 Solutions De Génération Voix Naturelle Pour L'Année 2024 - Comparatif Exhaustif Par Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/turning-upside-down-screen-rightside-up/"><u>Turning Upside-Down Screen Rightside Up</u></a></li>
 </ul></div>
 

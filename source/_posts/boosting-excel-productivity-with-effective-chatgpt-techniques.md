@@ -1,7 +1,7 @@
 ---
 title: Boosting Excel Productivity with Effective ChatGPT Techniques
-date: 2024-09-30T00:55:29.125Z
-updated: 2024-10-03T19:12:57.470Z
+date: 2024-10-03T16:06:45.377Z
+updated: 2024-10-08T20:30:51.793Z
 tags:
   - chatgpt
   - open-ai
@@ -56,19 +56,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
  By keeping these points in mind, you can use the chatbot more effectively and with greater confidence to overcome any fears you may have about working with spreadsheets.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use ChatGPT to Create Macros
 
  Macros are a set of instructions that tell Excel to perform certain tasks in a certain order. This means that macros allow you to record a specific set of actions and then execute it later with a single click, without having to manually write the code every time.
@@ -89,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![Excel macro example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-macro-example-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you have the required macro, let’s implement and run it:
@@ -101,20 +88,36 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 2. In the following window, navigate to **Insert** \> **Module**.  
 ![Insert a module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/inssert-module.jpg)
 3. Here, enter the code that you copied from ChatGPT earlier.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Close the dialog and clicking on **File** \> **Save as**.
 5. Expand the Save as type dropdown and choose **Excel Macro-Enabled Workbook**.
 6. Click **Save** to save the macro file.  
 ![Save the macro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/save-macro.jpg)
 7. Now, return to your worksheet and head over to the **Developer** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click on **Macros** and choose **FilterData** from the list.
 9. Finally, hit **Run**.  
 ![Run the macro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-macro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This macro will now filter your data to show only the sales for the targeted region.
@@ -134,19 +137,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
  Once we have the macro, we will save the module and run it by following the steps described above. As simple as that! Apart from these three methods we have listed of using ChatGPT in Excel, you can also use the chatbot to analyze and visualize data in Excel with the help of tools like Charts, and Data Analysis Toolpak. You can ask ChatGPT to explain how to use these tools effectively.
 
  Additionally, you can use ChatGPT to troubleshoot issues in Excel by providing it with the details of the error you are encountering. While there are a number of [things ChatGPT can't do in Excel](https://www.makeuseof.com/things-to-do-excel-chatgpt-cant/) yet, it's a great tool that can help you become a spreadsheet pro.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT to the Rescue
 
@@ -171,18 +161,18 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-unveiling-the-most-exceptional-podcast-microphones-for-2024/"><u>[New] Unveiling the Most Exceptional Podcast Microphones for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808344194-cyberpunk-2077-display-problems-solved-achieve-crisp-visual-quality-now/"><u>Cyberpunk 2077 Display Problems Solved - Achieve Crisp Visual Quality Now</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-a54-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-editions-filmmaker-writers-on-windows/"><u>In 2024, Innovative Editions Filmmaker' Writers on WIndows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-version-available-download-realteks-bluetooth-driver-for-modern-windows-systems/"><u>Latest Version Available: Download Realtek's Bluetooth Driver for Modern Windows Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mpeg42024/"><u>MPEG4ビデオの再生に失敗する理由と修正方法を学ぶ【2024年】</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-system-resources-how-to-decrease-cpu-usage-in-a-windows-environment/"><u>Streamlining System Resources: How to Decrease CPU Usage in a Windows Environment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-fixing-real-time-delay-in-fortnite-customization/"><u>The Ultimate Guide to Fixing Real-Time Delay in Fortnite Customization</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-ranking-vpn-providers-the-ultimate-selection/"><u>Top-Ranking VPN Providers: The Ultimate Selection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808124632-troubleshoot-and-fix-how-to-restore-your-logitech-k520-keyboards-functionality-swiftly/"><u>Troubleshoot & Fix: How to Restore Your Logitech K520 Keyboard's Functionality Swiftly!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-revolutionize-your-videos-top-10-free-green-screen-apps-for-mobile/"><u>Updated 2024 Approved Revolutionize Your Videos Top 10 Free Green Screen Apps for Mobile</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wireless-printing-mastery-setup-and-software-download-guide-for-brother-printers/"><u>Wireless Printing Mastery - Setup & Software Download Guide for Brother Printers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-master-real-time-video-sharing-on-facebook/"><u>[Updated] How to Master Real-Time Video Sharing on Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-choosing-and-utilizing-cc-license-types-for-2024/"><u>[Updated] The Art of Choosing and Utilizing CC License Types for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forefront-vs-chatgpt-in-depth-insights-into-ai-competitiveness/"><u>Forefront vs ChatGPT: In-Depth Insights Into AI Competitiveness</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nokia-c12-plus-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nokia C12 Plus Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-camon-30-pro-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-digital-imaging-apps-for-sharpening-fuzzy-pictures/"><u>In 2024, Top 10 Digital Imaging Apps for Sharpening Fuzzy Pictures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-mundane-hr-tasks-via-ai-guidance/"><u>Optimizing Mundane HR Tasks via AI Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-deciphering-the-workings-of-ai-transfer-learning/"><u>Pioneering Progress: Deciphering the Workings of AI Transfer Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prevent-ai-data-collection-onsite/"><u>Prevent AI Data Collection Onsite</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ready-set-go-a-quick-checklist-for-transitioning-to-windows-amo-10-creators-update/"><u>Ready, Set, Go! A Quick Checklist for Transitioning to Windows Amo 10 Creators Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-preserve-chatgpt-discussions/"><u>Strategies to Preserve ChatGPT Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swiftly-solve-common-pitfalls-addressing-6-chatgpt-issues/"><u>Swiftly Solve Common Pitfalls: Addressing 6 ChatGPT Issues</u></a></li>
 </ul></div>
 

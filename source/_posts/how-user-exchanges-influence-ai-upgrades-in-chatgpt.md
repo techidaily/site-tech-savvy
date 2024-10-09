@@ -1,7 +1,7 @@
 ---
 title: How User Exchanges Influence AI Upgrades in ChatGPT?
-date: 2024-10-01T17:25:09.376Z
-updated: 2024-10-03T23:08:06.024Z
+date: 2024-10-06T04:46:59.999Z
+updated: 2024-10-08T19:29:31.968Z
 tags:
   - chatgpt
   - open-ai
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
  You should also manage your expectations because ChatGPT's contextual memory still has limitations.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Conversations Have Limited Memory Capacities
@@ -67,15 +67,36 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 ![ChatGPT Answering Health Questions as Tomie the Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answering-as-tomie-the-character.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Although our request worked, ChatGPT broke character after receiving a 1,000-word prompt.
 
 ![ChatGPT Overrides Previous Prompts by Feeding it New Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-override-previous-prompts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  OpenAI has never disclosed ChatGPT's exact limits, but rumors say it can only process 3,000 words at a time. In our experiment, ChatGPT malfunctioned after just 2,800+ words.
 
 ![ChatGPT Sending Errors for Prompts That Are Too Long](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-error-prompt-too-long.jpg)
 
  You can break down your prompts into two 1,500-word sets, but ChatGPT likely won't retain all your instructions. Just start another chat altogether. Otherwise, you'll have to repeat specific details several times throughout your conversation.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Only Remembers Topic-Relevant Inputs
 
@@ -89,32 +110,11 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 ![ChatGPT Forgets Prompts Trying to Retain Irrelevant Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-forgets-earlier-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Meanwhile, ChatGPT kept roleplaying during this conversation because we only asked topic-relevant questions.
 
 ![ChatGPT Maintains Character Even After Several Questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-maintaining-character-as-ash.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ideally, each dialogue must follow a singular theme to maintain accurate, relevant outputs. You can still input several instructions simultaneously. Just ensure they align with the overall topic, or else ChatGPT might drop instructions that it deems irrelevant.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Training Instructions Overpower User Input
 
@@ -124,14 +124,14 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 ![ChatGPT's Restrictions Prevent Answering Input Properly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-restrictions-limit-output.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, not all restrictions are reasonable. If rigid guidelines make it challenging to execute specific tasks, keep rewriting your prompts. Word choice and tone heavily affect outputs. You can take inspiration from the most [effective, detailed prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Does OpenAI Study User Conversations?
 
@@ -141,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 ![Requesting ChatGPT to Export Previous Chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/requuest-chatgpt-data-export.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While ChatGPT freely accesses conversations, [OpenAI's privacy policy](https://openai.com/policies/privacy-policy) prohibits activities that might compromise users. Trainers can only use your data for product research and development.
 
 ### Developers Look for Loopholes
@@ -155,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
  OpenAI sifts through conversations for loopholes. It analyzes instances wherein ChatGPT demonstrates data biases, produces harmful information, or helps commit illicit activities. The platform's ethical guidelines are constantly revamped.
 
  For instance, the first versions of [ChatGPT openly answered questions about coding malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) or constructing explosives. These incidents made users feel like [OpenAI has no control over ChatGPT](https://www.makeuseof.com/openai-lost-control-chatgpt/). To regain the public's trust, it trained the chatbot to reject any question that might go against its guidelines.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Trainers Collect and Analyze Data
 
@@ -165,13 +165,6 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
  Supervised learning requires more time and energy than unsupervised techniques. However, leaving AI to analyze input alone has already been proven harmful.
 
  Take Microsoft Tay as an example—one of the [times machine learning went wrong](https://www.makeuseof.com/examples-machine-learning-artificial-intelligence-went-wrong/). Since it constantly analyzed tweets without developer guidance, malicious users eventually trained it to spit racist, stereotypical opinions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Developers Constantly Watch Out for Biases
 
@@ -188,6 +181,13 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 ![Leaving Feedback on ChatGPT Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/providing-feedback-on-chatgpt.jpg)
 
  The feedback system is helpful. Just give OpenAI some time to sift through the comments. Millions of users comment on ChatGPT regularly—its developers likely prioritize grave instances of biases and harmful output generation.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are Your ChatGPT Conversations Safe?
 
@@ -214,18 +214,21 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-10-essential-tips-to-turnback-a-live-twitch-session/"><u>[Updated] In 2024, 10 Essential Tips to Turnback a Live Twitch Session</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ace-the-stability-quotient-detailed-insight-into-the-ideal-apc-power-supply-for-enthusiasts/"><u>Ace the Stability Quotient: Detailed Insight Into the Ideal APC Power Supply for Enthusiasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-pairing-established-on-windows-11-but-still-fails-to-transfer-data-fixes-needed/"><u>Bluetooth Pairing Established on Windows 11 but Still Fails to Transfer Data - Fixes Needed?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-gpts-hacking-potential-on-financial-systems/"><u>Exploring GPT's Hacking Potential on Financial Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-user-interactions-with-a-focus-on-news-streams/"><u>Exploring User Interactions with a Focus on News Streams</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harnessing-the-power-of-google-maps-in-your-windows-system/"><u>Harnessing the Power of Google Maps in Your Windows System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-ai-chatbots-learn-to-communicate-like-us/"><u>How AI Chatbots Learn to Communicate Like Us</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-agni-2-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Agni 2 5G</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-googles-flat-cube-and-samsungs-headset/"><u>In 2024, Comparing Google's Flat Cube and Samsung's Headset</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-mechanics-of-7-apps-boosted-by-gpt-4-technology/"><u>Inside Mechanics of 7 Apps Boosted by GPT-4 Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-ai-to-transform-how-you-handle-pdfs-quickly/"><u>Leverage AI to Transform How You Handle PDFs Quickly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-windows-nx-a-beginners-guide-to-enabling-and-disabling-network-discovery-options/"><u>Mastering Windows nX: A Beginner's Guide to Enabling and Disabling Network Discovery Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-ai-conversations-chromes-gpt-assistant-extension/"><u>Simplify AI Conversations: Chrome's GPT Assistant Extension</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-definitive-top-ten-nintendo-switch-combat-apps-max-156-for-2024/"><u>[New] Definitive Top Ten Nintendo Switch Combat Apps (Max 156) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-best-asmr-apps-both-sides-of-the-os/"><u>[Updated] Explore Best ASMR Apps, Both Sides of the OS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-fixing-full-screen-in-obs-journey-for-2024/"><u>[Updated] Fixing Full Screen in Obs Journey for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-upgrade-your-content-presentation-with-top-tier-templates/"><u>2024 Approved Upgrade Your Content Presentation with Top-Tier Templates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bandicam/"><u>Bandicam: 真正用戶產品評估和教學解決方案</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-download-enhance-your-audio-setup-with-behringer-usb-interface-drivers/"><u>Direct Download: Enhance Your Audio Setup with Behringer USB Interface Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evet-farkli-turkce-best-free-upgrade-software-2024te-microsoft-windows-7-icin/"><u>Evet, Farkli! Türkçe | Best Free Upgrade Software 2024'Te Microsoft Windows 7 Için</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-mov-to-m4a-converter-moveavi/"><u>Free Online MOV to M4A Converter - Moveavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-tool-transforming-3gp-videos-into-gifs-effortless-conversion-with-movavi/"><u>Free Online Tool: Transforming 3GP Videos Into GIFs - Effortless Conversion with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-complet-au-telechargement-dobs-studio-pour-les-utilisateurs-de-windows-mac-et-linux/"><u>Guide Complet Au Téléchargement D’OBS Studio Pour Les Utilisateurs De Windows, Mac Et Linux</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-15-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 15 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstaller-technique-to-delete-users-in-windows-11-efficiently/"><u>Revo Uninstaller Technique to Delete Users in Windows 11 Efficiently</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726227869254-swf-mp4-movavi/"><u>SWF 파일을 MP4로 변환하는 최고의 방법 - Movavi 공부자에게</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-12-gratuit-superieur-screenshootere-pour-lesmac-2024-liste-detaillee-par-movavi/"><u>Top 12 Gratuit Superieur Screenshootere Pour Lesmac - 2024 Liste Détaillée Par Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-reliable-substitutes-for-safe-keepvid-pro-enabling-simple-and-secure-video-downloads/"><u>Top Reliable Substitutes for Safe KeepVid Pro Enabling Simple and Secure Video Downloads</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone X | Dr.fone</u></a></li>
 </ul></div>
 

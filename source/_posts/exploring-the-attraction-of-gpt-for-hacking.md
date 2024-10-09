@@ -1,7 +1,7 @@
 ---
 title: Exploring the Attraction of GPT for Hacking
-date: 2024-10-01T16:05:26.549Z
-updated: 2024-10-03T20:05:39.034Z
+date: 2024-10-03T20:09:11.387Z
+updated: 2024-10-08T19:28:37.012Z
 tags:
   - chatgpt
   - open-ai
@@ -34,15 +34,22 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
  So why are hackers going after ChatGPT accounts, and why are people willing to pay for these stolen accounts?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Stealing Sensitive Information
 
 ![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At first, losing your ChatGPT account doesn’t seem like something you should be worried about. But it is. Sure, if you lose a free account, you can create another within a few minutes. But what about the data it contains?
@@ -54,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
  Aware of such threats, companies like Google and Samsung—as well as Microsoft, a major backer of OpenAI—have all either warned or explicitly banned their staff from sharing company data with the AI chatbot. The fact that these companies are issuing such warnings means that mistakes might already be happening.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Reselling ChatGPT Accounts
@@ -77,20 +84,13 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 2. Tap **Settings > Data controls** and then **Enable** beside **Enable two-factor authentication** to turn on the feature for your account  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unfortunately, at the time of writing, the 2FA feature has been temporarily disabled. If you can access the feature at the time of reading this, turn it on. If not, check back and turn it on whenever OpenAI restores this vital feature.
 
@@ -124,18 +124,14 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-video-reach-optimize-tags-for-600esplus-growth-for-2024/"><u>[Updated] Elevate Video Reach Optimize Tags for $6,00Es+ Growth for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-perfecting-the-art-of-documentation-in-virtual-gatherings-google-meet/"><u>[Updated] In 2024, Perfecting the Art of Documentation in Virtual Gatherings (Google Meet)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premiere-reviews-exploring-the-best-8k-cameras/"><u>[Updated] Premiere Reviews Exploring the Best 8K Cameras</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-samsung-galaxy-ring-price-analysis-spec-sheet-upcoming-debut-and-fresh-insights/"><u>All You Need to Know About Samsung Galaxy Ring: Price Analysis, Spec Sheet, Upcoming Debut & Fresh Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/career-advancement-with-ai-the-top-10-strategies-for-finding-a-job-via-linkedin/"><u>Career Advancement with AI: The Top 10 Strategies for Finding a Job via LinkedIn</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/detective-tech-from-openai-unmasking-chatgpt-fakes/"><u>Detective Tech From OpenAI: Unmasking ChatGPT Fakes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/earinsight-exploring-audio-samples/"><u>EarInsight Exploring Audio Samples</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embracing-gpt-3-the-path-to-excellence-at-openai/"><u>Embracing GPT-3: The Path to Excellence at OpenAI</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-a78-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo A78 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-itel-s23plus-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Itel S23+ Screen | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-strategies-to-quicken-vimeo-videos/"><u>In 2024, Strategies to Quicken Vimeo Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reconstructing-disappeared-chatgpt-exchanges/"><u>Reconstructing Disappeared ChatGPT Exchanges</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-prime-framing-features-on-mac-max-length-156/"><u>[New] In 2024, Prime Framing Features on Mac (Max Length 156)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversao-de-audio-digital-download-e-gravacao-aberta-do-formato-m4a-pelo-site-da-movavi/"><u>Conversão De Áudio Digital: Download E Gravação Aberta Do Formato M4A Pelo Site Da Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/het-geheim-om-je-keel-ruim-te-knippen-vertellen-over-schijfopruiming-en-interieur-vrijmaking/"><u>Het Geheim Om Je Keel Ruim Te Knippen: Vertellen Over Schijfopruiming en Interieur Vrijmaking</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-say-goodbye-to-windows-10-photos-top-8-image-editing-solutions-youll-love-for-2024/"><u>New Say Goodbye to Windows 10 Photos Top 8 Image Editing Solutions Youll Love for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protect-your-account-a-complete-walkthrough-to-change-xs-sign-in-key/"><u>Protect Your Account: A Complete Walkthrough to Change X's Sign-In Key</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-file-nef-in-immagini-bmp-via-web-gratis-con-leditore-di-fotografie-facile-movavi/"><u>Trasforma I File NEF in Immagini BMP via Web Gratis Con L'Editore Di Fotografie Facile: Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-your-rights-and-obligations-with-movavis-end-user-license-contract/"><u>Understanding Your Rights and Obligations with Movavi's End-User License Contract</u></a></li>
 </ul></div>
 

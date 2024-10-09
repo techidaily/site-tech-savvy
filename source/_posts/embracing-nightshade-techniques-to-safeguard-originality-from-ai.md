@@ -1,7 +1,7 @@
 ---
 title: Embracing Nightshade Techniques to Safeguard Originality From AI
-date: 2024-09-30T21:44:59.301Z
-updated: 2024-10-03T21:06:32.545Z
+date: 2024-10-06T00:00:27.277Z
+updated: 2024-10-09T02:38:37.936Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,6 +46,19 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is AI Poisoning?
 
  AI poisoning is the act of "poisoning" the training dataset of an AI algorithm. This is similar to providing wrong information to the AI on purpose, resulting in the trained AI malfunctioning or failing to detect an image. Tools like Nightshade alter the pixels in a digital image in such a manner that it appears to be completely different to the AI training on it, but largely unchanged from the original to the human eye.
@@ -53,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
@@ -70,13 +83,6 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Using this technique, digital creators who do not consent for their images to be used in AI datasets can [protect them from being fed to generative AI without permission](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/). Some platforms provide creators the option to opt out of including their artwork in AI training datasets. However, such opt-out lists have been disregarded by AI model trainers in the past and continue to be disregarded with little to no consequence.
 
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Nightshade
 
@@ -97,10 +103,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
@@ -127,21 +133,18 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-methods-to-access-previous-facebook-journeys-mobiledesktop/"><u>[New] 2024 Approved Methods to Access Previous Facebook Journeys (Mobile/Desktop)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-step-by-step-uploading-to-instagrams-feed/"><u>[New] In 2024, Step-By-Step Uploading to Instagram's Feed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unleash-your-gameplays-social-impact-from-xbox-live-to-facebook/"><u>[New] Unleash Your Gameplay's Social Impact From Xbox Live to Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-regulation-mandates-and-makers/"><u>AI Regulation: Mandates and Makers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-volume-malfunction-heres-how-you-can-restore-game-sounds/"><u>Apex Legends Volume Malfunction? Here's How You Can Restore Game Sounds!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-user-experience-via-ai-search-tech/"><u>Enhancing User Experience via AI Search Tech</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-problem-of-windows-10-not-acknowledging-hdmi-connected-tvs/"><u>How to Fix the Problem of Windows 10 Not Acknowledging HDMI Connected TVs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-gt-5-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme GT 5 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-budget-friendly-high-quality-gaming-keyboards-unveiled/"><u>In 2024, Budget-Friendly, High-Quality Gaming Keyboards Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-ai-duo-unveiling-3-approaches-to-chatgpt-and-wolframalliance/"><u>Interactive AI Duo: Unveiling 3 Approaches to ChatGPT & WolframAlliance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-5-pioneering-ai-helpers-for-mind-care/"><u>Introducing 5 Pioneering AI Helpers for Mind Care</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/launchpad-to-success-as-a-prompt-system-designer/"><u>Launchpad to Success as a Prompt System Designer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preserving-privacy-saving-chatgpt-dialogues-secretly/"><u>Preserving Privacy: Saving ChatGPT Dialogues Secretly</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/securely-saving-your-instagram-videos-on-pc-and-macos/"><u>Securely Saving Your Instagram Videos on PC and MacOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talk-titans-clash-understanding-distinct-chatbot-traits/"><u>Talk Titans Clash: Understanding Distinct Chatbot Traits</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-discover-the-best-video-editing-apps-for-kids-free-paid-and-everything-in-between/"><u>Updated In 2024, Discover the Best Video Editing Apps for Kids Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-youtube-footage-for-ultimate-quality/"><u>[New] Transforming YouTube Footage for Ultimate Quality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-portable-gyro-assisted-visual-soother/"><u>2024 Approved Portable Gyro-Assisted Visual Soother</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brainchild-of-bard-googles-answer-to-the-ai-world-leaders/"><u>Brainchild of Bard: Google's Answer to the AI World Leaders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-ipados-version-handbook-a-complete-reference/"><u>Comprehensive iPadOS Version Handbook: A Complete Reference</u></a></li>
+<li><a href="https://win-answers.techidaily.com/house-flipper-angs-ensuring-smooth-performance-without-pc-glitches/"><u>House Flipper Angs: Ensuring Smooth Performance Without PC Glitches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-writes-your-stories-with-custom-gpt-solutions/"><u>OpenAI' Writes Your Stories with Custom GPT Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/polish-primer-fast-learners-pathway/"><u>Polish Primer: Fast Learner's Pathway</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-oxygen-not-included-game-crashes-tips-and-solutions/"><u>Resolving 'Oxygen Not Included' Game Crashes: Tips & Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-storytelling-enhanced-by-ais-intelligence/"><u>The Art of Storytelling Enhanced by AI's Intelligence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-tips-and-criteria-for-choosing-the-perfect-projector-for-you/"><u>Top Tips and Criteria for Choosing the Perfect Projector for You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-chatbots-building-with-create-a-gpt-techniques/"><u>Transformative ChatBots: Building with Create a GPT Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-epic-games-sign-in-problems-on-pc/"><u>Troubleshooting Epic Games Sign-In Problems on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-are-hackers-targeting-chatgpt-accounts/"><u>Why Are Hackers Targeting ChatGPT Accounts?</u></a></li>
 </ul></div>
 

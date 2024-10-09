@@ -1,7 +1,7 @@
 ---
 title: Exploring the Brightest Highlights of iOS 18 at WWDC 2024 | How AI Is Paving the Way for Tomorrow | Featured
-date: 2024-09-27T17:31:49.469Z
-updated: 2024-10-03T17:32:16.173Z
+date: 2024-10-07T20:48:53.573Z
+updated: 2024-10-09T05:11:51.862Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -64,10 +64,10 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -79,10 +79,10 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -92,10 +92,10 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -136,17 +136,14 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-broadcasting-tweeted-videos-to-facebook-friends/"><u>[Updated] 2024 Approved Broadcasting Tweeted Videos to Facebook Friends</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-simple-path-your-guide-to-convert-youtube-audio-on-mac/"><u>[Updated] Simple Path Your Guide to Convert YouTube Audio on Mac</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/beyond-expectations-rokus-harmonious-audio-stream-integration/"><u>Beyond Expectations: Roku’s Harmonious Audio-Stream Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/blind-trust-vs-critical-assessment-why-the-balance-matters/"><u>Blind Trust Vs. Critical Assessment: Why the Balance Matters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-why-snapchats-my-ai-is-revolutionary/"><u>Discovering Why Snapchat's My AI Is Revolutionary</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-15-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 15?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-40c-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Honor Play 40C Phone Without Password?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Phone without Google Account?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-picks-9-innovative-mobile-video-conferencing-tools-iphoneandroid/"><u>In 2024, Top Picks 9 Innovative Mobile Video Conferencing Tools iPhone/Android</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-your-lost-windows-secrets-for-restoring-hidden-panes-on-win-1011-with-ease/"><u>Reclaim Your Lost Windows! Secrets for Restoring Hidden Panes on Win 10/11 with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quest-for-a-responsible-ai-framework/"><u>The Quest for a Responsible AI Framework</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visionary-leap-in-ai-gpt-4-rollout-by-openai/"><u>Visionary Leap in AI: GPT-4 Rollout by OpenAI</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-female-youtubers/"><u>[New] Top 10 Female YouTubers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-prime-software-solutions-for-video-games/"><u>2024 Approved Prime Software Solutions for Video Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726224262254-avivob-movavi/"><u>天井のないオンラインで無料でAVIとVOBを変換する - Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/detailed-breakdown-straightforward-hdr-imaging/"><u>Detailed Breakdown Straightforward HDR Imaging</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-reno-10-5g-frp-by-drfone-android/"><u>How Can We Bypass Oppo Reno 10 5G FRP?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-office-meetings-the-ultimate-guide-to-changing-your-microsoft-teams-background-with-ease/"><u>Mastering Office Meetings: The Ultimate Guide to Changing Your Microsoft Teams Background with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-mp4/"><u>Movavi 브로드캐스트 소개: MP4 비디오를 원형으로 만들기 위한 단계별 지침</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-mp4aac/"><u>Movavi: 最新の無償MP4動画AACフォーマット変換ツール</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fixes-resolving-issues-with-intel-graphics-drivers/"><u>Troubleshooting Fixes: Resolving Issues with Intel Graphics Drivers</u></a></li>
 </ul></div>
 

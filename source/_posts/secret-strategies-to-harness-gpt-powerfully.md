@@ -1,7 +1,7 @@
 ---
 title: Secret Strategies to Harness GPT Powerfully
-date: 2024-10-01T16:13:12.604Z
-updated: 2024-10-03T16:54:54.082Z
+date: 2024-10-07T20:28:25.768Z
+updated: 2024-10-09T03:49:43.004Z
 tags:
   - chatgpt
   - open-ai
@@ -39,45 +39,38 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
  Once you have your account details, accessing the chatbot is simple—use Microsoft Edge to navigate to the new [Bing](https://www.bing.com/new), and the magic of ChatGPT will be at your fingertips.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Bing Mobile App
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  For mobile users, Microsoft has it covered with its AI copilot app. This is a free download for Android and iOS, and again, GPT-4 is at the heart of the app. The app has most of the features of the browser version, and it also brings a new dimension to search capabilities for mobile users. If you are looking for mobile access without an OpenAI account, this is a terrific way to circumvent the [privacy concerns surrounding ChatGPT](https://www.makeuseof.com/chatgpt-privacy-issues/).
 
 **Download**: Bing for [iOS](https://apps.apple.com/app/bing-search/id345323231) | [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2024637/https://play.google.com/store/apps/details?id=com.microsoft.bing&pli=1) (Free)
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Merlin
 
@@ -92,15 +85,22 @@ Close
 ![Screenshot of Merlin Google integration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-merlin-google-integration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Installing this is simple, although you will need to sign up for a Merlin account. This is slightly more restrictive than standalone chatbots, but it is a good premise and works well.
 
 **Download**: Merlin for [Google Chrome/Microsoft Edge](https://chrome.google.com/webstore/detail/merlin-chatgpt-assistant/camppjleccjaphfdbohjdohecfnoikec) (Free, in-app purchases available).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. ChatGPT Writer
 
@@ -129,10 +129,10 @@ Close
 ![chatgpt wood chuck chuck prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-wood-chuck-chuck-prompt-response.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using ChatGPT Without an OpenAI Account
@@ -158,24 +158,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/et-free-green-screen-effects-from-4-youtube-channels/"><u>[New] Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-in-depth-analysis-of-premium-apps-to-boost-vtuber-audibility/"><u>[New] In 2024, In-Depth Analysis of Premium Apps to Boost Vtuber Audibility</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-transformative-podcast-branding-through-logo-artistry/"><u>[New] In 2024, Transformative Podcast Branding Through Logo Artistry</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-stay-ahead-of-the-curve-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>[Updated] 2024 Approved Stay Ahead of the Curve Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-universal-approach-how-to-record-any-youtube-stream-on-different-devices/"><u>[Updated] 2024 Approved Universal Approach How To Record Any YouTube Stream on Different Devices</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-cutting-edge-tactics-for-effective-cricket-streaming/"><u>[Updated] Cutting-Edge Tactics for Effective Cricket Streaming</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-nighttime-tales-on-screen-insights-into-storytelling-videos-for-kids/"><u>[Updated] Nighttime Tales on Screen Insights Into Storytelling Videos for Kids</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-for-bulk-folder-formation-in-windows-1011/"><u>Efficient Methods for Bulk Folder Formation in Windows 10/11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-guide-to-the-best-8-no-cost-videoconferencing-platforms/"><u>In 2024, Essential Guide to the Best 8 No-Cost Videoconferencing Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-installing-your-realtek-device-drivers/"><u>Step-by-Step Guide: Installing Your Realtek Device Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-restoring-realtek-hd-audio-on-microsofts-latest-operating-systems/"><u>Step-by-Step Guide: Restoring Realtek HD Audio on Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-reverting-back-to-previous-graphics-card-drivers-on-windows-10/"><u>Step-by-Step Guide: Reverting Back to Previous Graphics Card Drivers on Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-setting-up-genesis-addon-in-kodi/"><u>Step-by-Step Guide: Setting Up Genesis Addon in Kodi</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-fine-line-between-laughter-and-rude-gestures/"><u>The Fine Line Between Laughter and Rude Gestures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshoot-and-restore-sound-on-your-pc-by-reinstalling-the-realtek-audio-manager-for-windows-1ve/"><u>Troubleshoot and Restore Sound on Your PC by Reinstalling the Realtek Audio Manager for Windows 1Ve</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-connecting-your-seagate-external-to-win-10/"><u>Troubleshooting Guide: Connecting Your Seagate External to Win 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-steps-for-unrecognized-hdds-on-windows-10-systems/"><u>Troubleshooting Steps for Unrecognized HDDs on Windows 10 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-setting-up-and-using-remote-desktop-features-in-windows-10/"><u>Ultimate Tutorial: Setting Up and Using Remote Desktop Features in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uncovering-the-secrets-of-lawful-and-gratuitous-phone-number-tracking/"><u>Uncovering the Secrets of Lawful and Gratuitous Phone Number Tracking</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-artifact-explorer-cookbook-uncovering-older-facebook-features-on-devices/"><u>[New] In 2024, The Artifact Explorer' Cookbook Uncovering Older Facebook Features on Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-7-ultimate-live-streaming-apps-for-iphone-and-android-users-on-youtube/"><u>[Updated] 2024 Approved 7 Ultimate Live Streaming Apps for iPhone and Android Users on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-power-of-niche-hashtags-for-targeted-instagram-reach/"><u>[Updated] In 2024, The Power of Niche Hashtags for Targeted Instagram Reach</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10-best-free-live-streaming-apps-for-android-and-iphone/"><u>2024 Approved 10 Best Free Live Streaming Apps for Android and iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-ops-cold-war-ui-issue-27711-corrected-and-solved/"><u>Black Ops Cold War - UI Issue 27711 Corrected and Solved</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-your-digital-handler-for-smart-appliances/"><u>ChatGPT as Your Digital Handler for Smart Appliances</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cutting-edge-released-exploring-apples-most-recent-iphone-model/"><u>Cutting-Edge Released: Exploring Apple's Most Recent iPhone Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-powered-approach-to-healthy-eating-blueprints/"><u>GPT-Powered Approach to Healthy Eating Blueprints</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-chatbot-your-command-line-away-engage-via-bash-and-shellgpt/"><u>OpenAI's Chatbot, Your Command Line Away: Engage via Bash and ShellGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-care-through-gpt-in-a-digital-age/"><u>Reimagining Care Through GPT in a Digital Age</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slowdown-analysis-how-chatgpt-4-trails-behind-gpt-35-speed/"><u>Slowdown Analysis: How ChatGPT-4 Trails Behind GPT-3.5 Speed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snapchat-my-ai-the-6-significant-aspects-you-overlooked/"><u>Snapchat My AI: The 6 Significant Aspects You Overlooked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-up-your-browsing-experience-7-chrome-extensions-for-ai/"><u>Step Up Your Browsing Experience: 7 Chrome Extensions for AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-emotive-algorithmic-enigma-can-ai-feel-recognize-understand/"><u>The Emotive Algorithmic Enigma: Can AI Feel, Recognize, Understand?</u></a></li>
 </ul></div>
 

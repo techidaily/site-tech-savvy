@@ -1,7 +1,7 @@
 ---
 title: "Detecting Deepfakes: OpenAI's AI to Counteract ChatGPT Copycats"
-date: 2024-09-28T00:26:34.870Z
-updated: 2024-10-03T20:34:03.638Z
+date: 2024-10-07T05:49:20.949Z
+updated: 2024-10-09T00:06:42.423Z
 tags:
   - chatgpt
   - open-ai
@@ -37,16 +37,10 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
  So instead of hoovering up information and recreating its best approximation, the GPT-Classifier attempts to compare similarities between known human text and known AI text to find discrepencies that reveal the source writer.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-Classifier's Detection Is Currently Limited
@@ -58,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 ![gpt classifier tool testing human written text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpt-classifier-tool-testing-human-written-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A cursory test of the GPT-Classifier spotted a human-generated example and marked it "very unlikely to be AI-generated," and also correctly indicated that a ChatGPT-generated snippet on USB issues was "possibly AI generated."
@@ -69,17 +63,23 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 ![gpt classifier tool testing ai written text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpt-classifier-tool-testing-ai-written-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Demand for ChatGPT Detection Is High
@@ -103,22 +103,21 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-guide-to-budget-friendly-phone-video-conferencing-iphone-and-android/"><u>[New] 2024 Approved Ultimate Guide to Budget-Friendly Phone Video Conferencing (iPhone & Android)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-expertly-picked-top-10-windows-11-cam-recorders-for-2024/"><u>[New] Expertly Picked Top 10 Windows 11 Cam Recorders for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-5-preferred-sites-to-download-dynamic-and-versatile-text-effects/"><u>2024 Approved 5 Preferred Sites to Download Dynamic and Versatile Text Effects</u></a></li>
-<li><a href="https://win-info.techidaily.com/conversion-avi-a-mp4-top-5-metodos-para-optimizar-tu-dispositivo-mac/"><u>Conversión AVI a MP4: Top 5 Métodos Para Optimizar Tu Dispositivo Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-iphones-defective-screen-time-functionality-apples-solution-in-progress/"><u>Fixing iPhone's Defective Screen Time Functionality - Apple's Solution in Progress</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-tips-for-fixing-mapi32dll-errors-on-windows-systems/"><u>Master Tips for Fixing 'Mapi32.dll' Errors on Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/material-selection-based-on-toughness-is-crucial-for-impact-resistant-applications-such-as-automotive-safety-components/"><u>Material Selection Based on Toughness Is Crucial for Impact-Resistant Applications, Such as Automotive Safety Components.</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/samsungs-q60r-the-perfect-smart-4k-tv-for-gamers-reviewed/"><u>Samsung's Q60R: The Perfect Smart 4K TV for Gamers, Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-checking-your-webcams-functionality-in-windows/"><u>Step-by-Step Guide: Checking Your Webcam's Functionality in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-clearing-browser-cache-in-windows-10/"><u>Step-by-Step Guide: Clearing Browser Cache in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-purging-browser-data-in-google-chrome/"><u>Step-by-Step Guide: Purging Browser Data in Google Chrome</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tor-browser-how-it-can-protect-your-online-privacy-on-windows-11/"><u>Tor Browser: How It Can Protect Your Online Privacy on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trouble-accessing-oculus-setup-platform-discover-simple-solutions/"><u>Trouble Accessing Oculus Setup Platform? Discover Simple Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-fixing-issues-in-windows-11-and-windows-10/"><u>Ultimate Guide: Fixing Issues in Windows 11 & Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-removing-fortnites-lag-free-edits-proven-solutions/"><u>Ultimate Guide: Removing Fortnite's Lag-Free Edits – Proven Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-walkthrough-running-kodi-on-windows-10-systems/"><u>Ultimate Walkthrough: Running Kodi on Windows 10 Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-access-top-shorter-video-downloads-for-free-online/"><u>[New] 2024 Approved Access Top Shorter Video Downloads for FREE Online</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-quick-guide-retrieving-past-reddit-threads-instantly/"><u>[Updated] 2024 Approved Quick Guide Retrieving Past Reddit Threads Instantly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-user-dialogues-pivotal-for-the-progress-of-chatgpts-knowledge/"><u>Are User Dialogues Pivotal for the Progress of ChatGPT's Knowledge?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-magic-in-words-top-4-ai-story-generators-reviewed/"><u>Crafting Magic in Words: Top 4 AI Story Generators Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-predictive-ai-its-operational-wizardry/"><u>Decoding Predictive AI: Its Operational Wizardry</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-guide-to-zoom-youtube-live/"><u>Detailed Guide to Zoom YouTube Live</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-concept-to-characters-integrating-chatgpt-into-game-development/"><u>From Concept to Characters: Integrating ChatGPT Into Game Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-enhanced-strategies-for-study-papers/"><u>GPT-Enhanced Strategies for Study Papers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-nokia-g310-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Nokia G310 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-minds-of-machines-palm-2-and-gpt-4-analysis/"><u>Inside the Minds of Machines: PaLM 2 and GPT-4 Analysis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/painless-infrared-connection-for-windows-7/"><u>Painless Infrared Connection for Windows 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sleuthing-scams-real-vs-phony-gpts/"><u>Sleuthing Scams: Real vs Phony GPTs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/srgb-vs-standard-rgb-for-2024/"><u>Srgb vs Standard Rgb for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-editors-for-youtube-writers-and-creators-all-free-for-2024/"><u>Top Editors for YouTube' Writers and Creators - All Free for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/valkomman-swedens-hjartlig-visa/"><u>Välkomman: Sweden's Hjärtlig Visa</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-warning-signs-is-a-restart-needed/"><u>Windows Warning Signs: Is a Restart Needed?</u></a></li>
 </ul></div>
 

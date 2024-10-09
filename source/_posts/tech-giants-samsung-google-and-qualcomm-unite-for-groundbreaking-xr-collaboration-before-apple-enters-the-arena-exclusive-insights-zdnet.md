@@ -1,7 +1,7 @@
 ---
 title: "Tech Giants Samsung, Google & Qualcomm Unite for Groundbreaking XR Collaboration Before Apple Enters the Arena: Exclusive Insights | ZDNet"
-date: 2024-09-17T18:28:34.408Z
-updated: 2024-09-22T17:00:31.652Z
+date: 2024-10-04T01:52:56.687Z
+updated: 2024-10-08T19:18:40.534Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,29 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-create-edges-of-images-with-rotational-softness-blend-psx-for-2024/"><u>[New] Create Edges of Images with Rotational Softness Blend PSX for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-how-to-use-periscope-the-complete-guide/"><u>[New] In 2024, How to Use Periscope The Complete Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-mastering-narratives-the-science-and-art-of-crafting-memorable-fb-stories/"><u>[Updated] In 2024, Mastering Narratives The Science and Art of Crafting Memorable FB Stories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-original-visual-storytelling-appraisal-and-substitutions/"><u>2024 Approved Original Visual Storytelling Appraisal & Substitutions</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-management-of-user-biometrics-by-domains-in-w11/"><u>Efficient Management of User Biometrics by Domains in W11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-capture-a-perfect-screenshot-on-your-pc-with-windows-10/"><u>How to Capture a Perfect Screenshot on Your PC with Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-capture-screen-images-efficiently-on-windows-11/"><u>How to Capture Screen Images Efficiently on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-establish-a-secure-rdc-session-on-your-windows-10-machine/"><u>How to Establish a Secure RDC Session on Your Windows 10 Machine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-modify-your-windows-10s-lock-screen-auto-lock-settings/"><u>How to Modify Your Windows 10'S Lock Screen Auto-Lock Settings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-poco-c51-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Poco C51 Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-screen-shots-a-guide-for-windows-11-users/"><u>Mastering the Art of Screen Shots: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-the-legality-of-facebooks-immediate-video-takedowns-for-2024/"><u>Navigating the Legality of Facebook's Immediate Video Takedowns for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-windows-settings-a-comprehensive-tutorial-for-control-panel-windows-1078/"><u>Navigating Windows Settings: A Comprehensive Tutorial for Control Panel (Windows 10/7/8)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/vrijblijvend-online-pcx-naar-png-versterker-gratuitie-gewaarborgd-movavi/"><u>Vrijblijvend Online PCX Naar PNG Versterker - Gratuitie Gewaarborgd - Movavi</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

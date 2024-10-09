@@ -1,7 +1,7 @@
 ---
 title: Unlocking Language's Mysteries with OpenAI’s Text Tools
-date: 2024-09-30T21:39:35.393Z
-updated: 2024-10-03T19:46:24.888Z
+date: 2024-10-04T02:38:07.890Z
+updated: 2024-10-09T04:55:52.153Z
 tags:
   - chatgpt
   - open-ai
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
  The [OpenAI API](https://platform.openai.com/) packs in a bunch of utilities for programmers. If you intend to deliver in-app AI daily, OpenAI will make your life easier with the following abilities.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Chat
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 
  You can even improve the model's performance by supplying parameters like temperature, presence-penalty, frequency-penalty, and more. If you've ever used ChatGPT, you already know how OpenAI's chat completion model work.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Text Completion
 
  The text completion API provides conversational, text insertion, and text completion functionalities based on advanced GPT-3.5 models.
@@ -65,16 +72,16 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 
 ![Text completion model test via CLI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, increasing the max\_tokens to 70 generated more coherent thoughts:
 
 ![Text completion model test via CLI more complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli-more-complete.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Speech-to-Text
 
@@ -84,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 
  The endpoint usage is simple. All you have to do is to supply the model with an audio file and call the **openai.Audio.translate** or **openai.Audio.transcribe** endpoint to translate or transcribe it respectively. These endpoints accept a maximum file size of 25 MB and support most audio file types, including mp3, mp4, MPEG, MPGA, m4a, wav, and webm.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Text Comparison
 
  OpenAI API text comparison endpoint measures the relationship between texts using the text-embedding-ada-002 model, a second-generation embedding model. The embedding API uses this model to evaluate the relationship between texts based on the distance between two vector points. The wider the difference, the less related the texts under comparison are.
@@ -91,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
  The embedding endpoint features text clustering, differences, relevance, recommendations, sentiments, and classification. Plus, it charges per token volume.
 
  Although the OpenAI documentation says you can use the other first-generation embedding models, the former is better with a cheaper price point. However, OpenAI warns that the embedding model might show social bias towards certain people, as proven in tests.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Code Completion
 
@@ -127,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 
 ![Image generation test for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/image-generation-test-for-openai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the OpenAI API
 
 ![OpenAI API secret key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-api-secret-key-page.jpg)
@@ -146,6 +146,13 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 4. Then [fetch custom APIs via JavaScript](http://www.makeuseof.com/how-to-consume-apis-in-react-using-fetch-and-axios/) frameworks like React, Vue, or Angular.
 5. Present data (user requests and model responses) in a visually appealing UI, and your app is ready for real-world use.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Can You Create With the OpenAI API?
 
  The OpenAI APIs create entry points for real-life usage of machine learning and reinforcement learning. While opportunities for creativity abound, here are a few of what you can build with the OpenAI APIs:
@@ -156,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 4. Fix subtitles and translations for videos, audio, and live conversations using the speech-to-text model endpoint.
 5. Identify negative sentiments in your app using the OpenAI embedding model endpoint.
 6. Create programming language-specific code completion plugins for code editors and integrated development environments (IDEs).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Build Endlessly With the OpenAI APIs
 
@@ -189,21 +189,15 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mobile-broadcasting-share-videos-without-a-retweet/"><u>[New] 2024 Approved Mobile Broadcasting Share Videos without a Retweet</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-evolution-of-4k-a-look-at-the-d500-model/"><u>[New] 2024 Approved The Evolution of 4K A Look at the D500 Model</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultimate-list-of-premium-internet-recorders-2023/"><u>[New] 2024 Approved Ultimate List of Premium Internet Recorders 2023</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-naming-wizards-the-best-ai-tools-for-podcast-titles/"><u>[New] Naming Wizards The Best AI Tools for Podcast Titles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solved-cant-install-google-chrome-on-windows-10-in-s-mode/"><u>[SOLVED] | Can’t Install Google Chrome on Windows 10 in S Mode</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-boost-engagement-with-creative-video-titling-and-tagging-techniques/"><u>[Updated] 2024 Approved Boost Engagement with Creative Video Titling and Tagging Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-key-features-of-mozillas-innovative-popup-window/"><u>[Updated] Key Features of Mozilla's Innovative Popup Window</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-unveiling-the-capabilities-of-springs-advanced-screenscape/"><u>In 2024, Unveiling the Capabilities of Spring's Advanced Screenscape</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ps4-expanded-storage-tutorial-how-to-set-up-and-utilize-an-external-hard-drive/"><u>PS4 Expanded Storage Tutorial: How to Set Up and Utilize an External Hard Drive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-film-downloads-made-simple-navigating-the-ins-and-outs-of-utorrent/"><u>Seamless Film Downloads Made Simple: Navigating the Ins and Outs of uTorrent</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-the-mystery-restored-my-missing-desktop-icons-in-windows-11/"><u>Solving the Mystery: Restored My Missing Desktop Icons in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-hooking-up-your-laptop-to-a-television-via-hdmi-includes-images/"><u>Step-by-Step Guide: Hooking Up Your Laptop to a Television via HDMI - Includes Images!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-updating-device-drivers-with-windows-10s-built-in-utility/"><u>Step-by-Step Guide: Updating Device Drivers with Windows 10'S Built-In Utility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-wirelessly-linking-your-pc-or-laptop-to-wi-fi/"><u>Ultimate Guide: Wirelessly Linking Your PC or Laptop to Wi-Fi</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-full-spatial-capability-with-windows-11-settings/"><u>Unleash Full Spatial Capability with Windows 11 Settings</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-apple-devices-enthusiasts-guide-to-top-voice-recorders/"><u>[New] 2024 Approved Apple Devices Enthusiast's Guide to Top Voice Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-timeless-tales-for-the-whole-clan-family-movie-guide/"><u>[New] Timeless Tales for the Whole Clan Family Movie Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-evolution-premium-plan-with-chatgpt-at-20-limited-to-us/"><u>ChatBot Evolution: Premium Plan with ChatGPT at $20, Limited to US</u></a></li>
+<li><a href="https://article-files.techidaily.com/chucklechief-easy-meme-design-tool-for-2024/"><u>ChuckleChief Easy Meme Design Tool for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-engaging-presentation-creation/"><u>Harnessing ChatGPT for Engaging Presentation Creation</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-digital-discussion-with-rtx-ai/"><u>Mastering the Art of Digital Discussion with RTX AI</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revolutionizing-pc-maintenance-experience-the-power-of-revo-uninstaller-pro-5/"><u>Revolutionizing PC Maintenance: Experience the Power of Revo Uninstaller Pro 5</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-downloading-content-from-niconico-efficiently/"><u>Step-by-Step Guide: Downloading Content From Niconico Efficiently</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tale-of-two-ais-notion-ai-vs-chatgpt-which-prevails/"><u>Tale of Two AIs: Notion AI Vs. ChatGPT - Which Prevails?</u></a></li>
 </ul></div>
 

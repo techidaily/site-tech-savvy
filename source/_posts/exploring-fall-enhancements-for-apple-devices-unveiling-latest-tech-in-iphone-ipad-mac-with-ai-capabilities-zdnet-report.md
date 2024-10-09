@@ -1,7 +1,7 @@
 ---
 title: "Exploring Fall Enhancements for Apple Devices: Unveiling Latest Tech in iPhone, iPad, Mac with AI Capabilities (ZDNet Report)"
-date: 2024-10-01T01:11:44.100Z
-updated: 2024-10-03T18:21:54.554Z
+date: 2024-10-04T07:06:24.980Z
+updated: 2024-10-08T20:12:56.465Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does Apple Intelligence do?
 
 Apple
@@ -55,13 +62,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -79,10 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -110,10 +110,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -127,13 +127,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -178,6 +171,19 @@ The company is striving to keep the AI features secure through several mechanism
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the technical requirements for Apple Intelligence?
 
 Apple
@@ -218,20 +224,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-building-a-brand-through-expertly-planned-onestream-broadcasts-for-2024/"><u>[New] Building a Brand Through Expertly Planned OneStream Broadcasts for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-seamless-music-addition-for-social-media-iphoneandroid/"><u>[New] In 2024, Seamless Music Addition for Social Media IPhone/Android</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-affordable-devices-customized-obs-tweaks-for-2024/"><u>[Updated] Affordable Devices Customized OBS Tweaks for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-unmatched-pixels-the-exclusive-advantages-of-hp-envy-27/"><u>2024 Approved Unmatched Pixels The Exclusive Advantages of HP Envy 27</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bert-vs-gpt-explaining-nlps-pioneering-models/"><u>BERT vs GPT: Explaining NLP's Pioneering Models</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/detailed-guide-to-fixing-a-black-display-error-during-launch-of-monster-hunter-world/"><u>Detailed Guide to Fixing a Black Display Error During Launch of Monster Hunter World</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-translate-user-trust-into-safety/"><u>Does ChatGPT Translate User Trust Into Safety?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-effective-group-conferencing/"><u>Harnessing ChatGPT for Effective Group Conferencing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/lead-stronger-interviews-by-mastering-chatgpt-techniques/"><u>Lead Stronger Interviews by Mastering ChatGPT Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-c02-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after C02 has been deleted.</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-keyboard-a-complete-troubleshooting-and-restart-tutorial/"><u>Reviving Your Keyboard: A Complete Troubleshooting and Restart Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-roadmap-to-poetic-mastery-via-chatgpt-guidance/"><u>The Roadmap to Poetic Mastery via ChatGPT Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-mentions-as-a-litmus-test-for-authentic-bots/"><u>Utilizing Mentions as a Litmus Test for Authentic Bots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-snapchats-my-ai-excels-beyond-entertainment/"><u>Why Snapchat’s My AI Excels Beyond Entertainment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/your-personalized-playbook-for-nba-live-streaming-top-15-essentials/"><u>Your Personalized Playbook for NBA Live Streaming (Top 15 Essentials)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-layers-of-cinematic-dialogue-design/"><u>[Updated] 2024 Approved Layers of Cinematic Dialogue Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726226654272-mp4-m4a-movavi/"><u>無限制網路使用：從 MP4 改變成 M4A - 使用 Movavi 流動解決方案</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-convertir-archivos-arw-a-imagenes-jpeg-sin-coste-adicional-con-herramientas-online-guia-completa-de-movavi/"><u>Cómo Convertir Archivos .ARW a Imágenes JPEG Sin Coste Adicional Con Herramientas Online - Guía Completa De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-conversion-of-3g2-files-to-mp4-format-effortless-by-movavi/"><u>Free Conversion of 3G2 Files to MP4 Format - Effortless by Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-examining-instagram-video-selfie-credibility-questions/"><u>In 2024, Examining Instagram Video Selfie Credibility Questions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/legalidad-de-grabaciones-no-autorizadas-que-puedes-esperar-si-grabas-a-alguien-sin-permiso/"><u>Legalidad De Grabaciones No Autorizadas: ¿Qué Puedes Esperar Si Grabas a Alguien Sin Permiso?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-voor-mac-professioneel-video-producerend-gebruikershandboek/"><u>Movavi Voor Mac: Professioneel Video-Producerend Gebruikershandboek</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-message-print-driver-host-stopped-running-on-32-bit-software/"><u>Resolved: Error Message - 'Print Driver Host Stopped Running' On 32-Bit Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swf-mp4-movavi/"><u>SWF 파일을 MP4로 원할 수 있는 인터넷에서 비용 부여 무료 변환 도구 - Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-continuous-freezes-resolving-watch-dogs-legion-malfunctions-for-windows-users/"><u>Tackling Continuous Freezes - Resolving 'Watch Dogs: Legion' Malfunctions for Windows Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essentials-of-using-azures-voice-recognition/"><u>The Essentials of Using Azure's Voice Recognition</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-to-securely-deleting-information-advice-from-stellar-experts/"><u>Ultimate Guide to Securely Deleting Information: Advice From Stellar Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-causes-youtube-to-stop-working-and-how-can-you-fix-it/"><u>What Causes YouTube to Stop Working and How Can You Fix It?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "FinTech Pioneers: How a Nordic Startup Is Challenging Apple with an Innovative VR Headset for Professionals | Wired"
-date: 2024-09-17T16:20:08.361Z
-updated: 2024-09-22T17:21:26.592Z
+date: 2024-10-03T05:51:08.332Z
+updated: 2024-10-08T22:29:21.034Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,33 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-video-watch-counts-youtubes-historical-list/"><u>[New] Top Video Watch Counts YouTube's Historical List</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-evolved-comparing-mavic-air-and-sparks-impact/"><u>2024 Approved Gaming Evolved Comparing Mavic Air and Spark's Impact</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-glimpse-ahead-unleashing-potential-with-verizons-advanced-5g-services/"><u>A Glimpse Ahead: Unleashing Potential with Verizon's Advanced 5G Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/communication-breakthrough-ai-engaging-in-real-time-dialogue/"><u>Communication Breakthrough: AI Engaging in Real-Time Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-of-publicly-available-information-sources-traditional-and-contemporary-models/"><u>Comparative Analysis of Publicly Available Information Sources: Traditional and Contemporary Models</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dead-by-daylight-crashing-issues-discover-easy-fixes-and-tips-for-stable-gameplay-update/"><u>Dead By Daylight Crashing Issues? Discover Easy Fixes and Tips for Stable Gameplay Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-6-advantages-more-than-just-a-toy-for-snapchat-ai/"><u>Exploring 6 Advantages: More Than Just a Toy for Snapchat AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-peak-of-intelligence-between-gemini-elite-and-gptplusplus/"><u>Exploring the Peak of Intelligence: Between Gemini Elite & GPT++</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-potential-of-bing-ai-chat-within-android-keyboard-configurations/"><u>Harnessing the Potential of Bing AI Chat Within Android Keyboard Configurations</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-a78-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo A78 5G Phones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-ai-trends-essential-tools-for-business-excellence/"><u>Navigating AI Trends: Essential Tools for Business Excellence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-interaction-the-impactful-cutting-edge-features-of-gpt/"><u>Next Gen Interaction: The Impactful, Cutting-Edge Features of GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-world-vs-virtual-unveiling-fps-fantasyland/"><u>Real World vs Virtual: Unveiling FPS Fantasyland</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-limits-of-machine-learning-in-medicine-revealed/"><u>The Limits of Machine Learning in Medicine Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-writing-process-with-these-ai-tools/"><u>Transform Your Writing Process with These AI Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-11s-user-sid-identification-methods/"><u>Unveiling Windows 11'S User SID Identification Methods</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

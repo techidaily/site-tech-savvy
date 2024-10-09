@@ -1,7 +1,7 @@
 ---
 title: The Intersection of Websites and Artificial Intelligence
-date: 2024-10-01T20:01:07.906Z
-updated: 2024-10-03T21:51:21.558Z
+date: 2024-10-05T17:11:07.342Z
+updated: 2024-10-08T18:00:34.518Z
 tags:
   - chatgpt
   - open-ai
@@ -47,21 +47,22 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 ![Bing AI search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-search.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Bing AI generative search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chatbot-ai.jpg)
 
 ![Microsoft Bing search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-search-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -73,6 +74,19 @@ Close
 
 ![Screenshot showing Google snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-snippet-search.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Potential Implications of AI-Powered Search Engines
 
  Although it is still too early to know precisely how generative AI search will change websites, there are a few potential implications we can anticipate. Considering the traditional search model basically works by trading traffic for free content, online publications struggling with decreased web traffic may suffer from lower advertising revenue and find it harder to stay afloat.
@@ -81,16 +95,16 @@ Close
 
  Some online publications might have to rely on AI content generators to write their articles, as they are cheaper and can churn out content faster than humans. This could lead to more bland, unauthentic, and low-quality content on the internet, as [ChatGPT-like tools aren't good enough to replace skilled writers](https://www.makeuseof.com/why-chatgpt-wont-take-writing-job/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Case for Human-Written Content
 
 ![A woman using her computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/human-content-writer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Large language models like ChatGPT rely on vast text databases to generate coherent and plausible-sounding responses. Considering the complexity of their tasks, these chatbots need training using high-quality data and feedback to get better at providing personalized answers.
 
@@ -99,28 +113,15 @@ Close
  Thus, current and accurate information written by knowledgeable and skilled writers creates a positive feedback loop with generative AI search engines and ensures they provide users with more factual and up-to-date responses.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Websites Can Adapt in the Age of AI-Powered Search Engines
 
  Independent websites and generative search engines may need to coexist for this new search model to work. In this regard, websites must adopt new strategies and approaches to remain relevant in an AI-driven search engine world. This includes:
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Producing High-Quality Niche Content That Provides Value
 
@@ -128,16 +129,16 @@ Close
 
  Content creators can capitalize on these weak points and fill in the gap to drive more website traffic by producing high-quality, niche content that covers specific topics from different angles and provides unique perspectives to users.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using Social Media to Drive Traffic to Websites
 
 ![An illustration showing some social media app logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/social-media-apps.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If search engines integrated AI chatbots end up redirecting a significant percentage of users away from websites, then online publishers need to find new ways to make up for this lost traffic. Social media is the next best place to do this, providing a direct platform to reach potential readers and drive them back to websites.
 
@@ -152,13 +153,6 @@ Close
  AI chatbots are excellent at generating coherent responses but not so good at fact-checking and verifying the accuracy of the information provided. There are already several instances of Bing's chatbot providing misleading information, which can negatively affect users' trust in AI-powered search engines.
 
 [Skilled content writers outperform AI chatbots](https://www.makeuseof.com/ways-content-writers-outperform-ai/) by fact-checking and producing relatable content that instills trust and confidence in readers. By becoming a trusted source of information, independent websites can differentiate themselves from AI-generated content and become the go-to place for readers looking for factual information.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Embracing Subscription Models
 
@@ -189,21 +183,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-optimal-action-capture-software-insights/"><u>[New] Optimal Action Capture Software Insights</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pro-video-mastery-with-iphone-unveiling-top-8-tips-for-success/"><u>[New] Pro Video Mastery with iPhone Unveiling Top 8 Tips for Success</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hero5-in-focus-advanced-photography-and-video-guide-for-gopro/"><u>[Updated] Hero5 in Focus Advanced Photography & Video Guide for GoPro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comparing-livestream-tools-is-streamlabs-the-answer-to-your-broadcast-needs/"><u>2024 Approved Comparing Livestream Tools Is Streamlabs the Answer to Your Broadcast Needs?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-the-future-classroom-five-essential-uses-for-students/"><u>ChatGPT's Role in the Future Classroom: Five Essential Uses for Students</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-opportunities-6-ways-chatgpt-assists/"><u>Discovering Opportunities: 6 Ways ChatGPT Assists</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-12-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi 12 Phone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-get-started-with-chatgpt-on-windows-computers-in-minutes/"><u>How to Get Started with ChatGPT on Windows Computers in Minutes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-boost-channels-to-partner-status-in-under-90-days-start-now/"><u>In 2024, Boost Channels to Partner Status in Under 90 Days, Start Now!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/inspirational-quotations-for-the-metaverse-era/"><u>Inspirational Quotations for the Metaverse Era</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-productivity-4-strategies-with-chatgpt/"><u>Optimizing Productivity: 4 Strategies with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-communication-stopping-chatgpt-record-keeping/"><u>Secure Communication: Stopping ChatGPT Record Keeping</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-threat-of-gpt-to-seo-and-search-techniques/"><u>The Threat of GPT to SEO and Search Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-workings-of-intrinsic-computerized-thinking-models/"><u>The Workings of Intrinsic Computerized Thinking Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-gptzeros-function-in-ai-detection/"><u>Understanding GPTZero's Function in AI Detection</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-facebooks-video-evolution/"><u>[New] In 2024, Navigating Facebook’s Video Evolution</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-choreographing-newscast-endings/"><u>[Updated] In 2024, Choreographing Newscast Endings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/asfwav-movavi/"><u>無償のオンラインASF・WAV再形成 - Movaviサービス使い方ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-completo-para-eps-arquivos-entendendo-as-imagens-do-formato-eps-e-as-dicas-de-abrir-com-exito/"><u>Guia Completo Para .eps Arquivos: Entendendo as Imagens Do Formato Eps E as Dicas De Abrir Com Êxito</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-nubia-red-magic-9-proplus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nubia Red Magic 9 Pro+ Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-creative-photos-applying-radial-blur-techniques-ps/"><u>In 2024, Explore Creative Photos Applying Radial Blur Techniques PS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/itel-a60s-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A60s Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavin-mp3flac/"><u>Movavi提�n付き - スピードと正確性でオンラインMP3からFLACへの無料音楽変換</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tus-dvd-a-formato-mkv-gratis-con-el-mejor-convertidor-de-video-movavi/"><u>Transforma Tus DVD a Formato MKV Gratis Con El Mejor Convertidor De Video: Movavi</u></a></li>
 </ul></div>
 

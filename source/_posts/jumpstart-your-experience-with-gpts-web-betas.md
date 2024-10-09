@@ -1,7 +1,7 @@
 ---
 title: Jumpstart Your Experience with GPT's Web Betas
-date: 2024-09-29T19:55:28.047Z
-updated: 2024-10-03T16:14:10.688Z
+date: 2024-10-03T18:32:11.046Z
+updated: 2024-10-09T02:11:34.790Z
 tags:
   - chatgpt
   - open-ai
@@ -34,13 +34,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are internet-connected tools specifically designed to extend ChatGPT's functionality.
@@ -52,13 +45,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
  For example, when you gain access to ChatGPT Plugins, you'll be able to use the ChatGPT Kayak Plugin to search for and streamline holiday ideas, find the best deals, and create unique holiday ideas, all from the warm embrace of the ChatGPT interface.
 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Can Browse the Web
 
@@ -73,15 +59,22 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -95,18 +88,18 @@ Close
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable ChatGPT Plugins and Web Browsing
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head to your **Settings** in the bottom left-hand corner of the ChatGPT screen
 2. Select **Settings**
@@ -116,6 +109,19 @@ Close
  After enabling both settings, you'll find new options from the ChatGPT model switcher (where you'd normally switch between GPT-3.5 and GPT-4). You'll now find an option for Web Browsing and one for Plugins.
 
  From here, you can select either Web Browsing to enable web-connected search or select **Plugin Store** to begin installing and enabling Plugins.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Finally Connected to the Internet
 
@@ -142,15 +148,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-speedy-photographers-guide-to-google-collage-crafting/"><u>[New] The Speedy Photographer's Guide to Google Collage Crafting</u></a></li>
-<li><a href="https://article-posts.techidaily.com/basic-approach-tweaking-clownfish-tones-in-windoze/"><u>Basic Approach Tweaking Clownfish Tones in Windoze</u></a></li>
-<li><a href="https://solve-info.techidaily.com/enhanced-marketing-insights-through-cookiebot-technology/"><u>Enhanced Marketing Insights Through Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723807899581-forgotten-gmail-password-unlock-simple-troubleshooting-steps-now/"><u>Forgotten Gmail Password? Unlock Simple Troubleshooting Steps Now</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-realme-c33-2023-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Realme C33 2023 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-11-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 11 Pro Max Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-tutorial-for-setting-up-your-laptop-and-printer-connection-using-wifi-or-usb/"><u>The Ultimate Tutorial for Setting up Your Laptop & Printer Connection Using WiFi or USB</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-highly-rated-torrent-websites-global-ranking-and-insights/"><u>Top 10 Highly-Rated Torrent Websites: Global Ranking and Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-to-repairing-error-code-0x80248007-during-windows-10-update-process/"><u>Troubleshooting Guide to Repairing Error Code '0X80248007' During Windows 10 Update Process</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-computer-secrets-with-insights-from-toms-hardware-hub/"><u>Unraveling Computer Secrets with Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-list-ps3-mimicry-software-on-pcs-ranked-1-5/"><u>[New] In 2024, A-List PS3 Mimicry Software on PCs, Ranked #1-5</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-fix-red-eyes-quickly-in-photos-on-ios-without-cost/"><u>[Updated] 2024 Approved Fix Red Eyes Quickly in Photos on iOS Without Cost</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-ultimate-skype-recorder-guide/"><u>2024 Approved The Ultimate Skype Recorder Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-hot-40i-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-techniques-for-transforming-mp4-files-into-3gp-format-learn-how/"><u>Effective Techniques for Transforming MP4 Files Into 3GP Format - Learn How!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-troubleshooting-guide-for-restoring-audio-capture-with-streamlabs-on-windows-computers/"><u>Effective Troubleshooting Guide for Restoring Audio Capture with Streamlabs on Windows Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-youtube-to-m4a-transformation-discover-3-easy-and-reliable-strategies/"><u>Effortless YouTube to M4A Transformation: Discover 3 Easy and Reliable Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-sales-with-powerful-language-tools/"><u>Elevate Sales with Powerful Language Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-upgraded-visuals-download-the-updated-version-25-of-wonderfoxs-advanced-watermark-technology/"><u>Experience Upgraded Visuals - Download the Updated Version 2.5 of WonderFox's Advanced Watermark Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-guide-on-converting-3gp-files-into-high-quality-m4a-format/"><u>Free Guide on Converting 3GP Files Into High-Quality M4A Format</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-upcoming-assessment-varied-perspectives/"><u>In 2024, Upcoming Assessment Varied Perspectives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/meme-makers-playbook-for-widespread-impact-for-2024/"><u>Meme Makers' Playbook for Widespread Impact for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-bluestacks-stability-issues-with-these-simple-fixes/"><u>Solve Your BlueStacks Stability Issues with These Simple Fixes</u></a></li>
+<li><a href="https://win-web3.techidaily.com/zdnet-exclusive-how-the-rise-of-microsofts-surface-pro-and-laptop-signals-a-shift-in-ai-pc-innovation-challenging-apple/"><u>ZDNet Exclusive: How the Rise of Microsoft's Surface Pro and Laptop Signals a Shift in AI PC Innovation, Challenging Apple</u></a></li>
 </ul></div>
 

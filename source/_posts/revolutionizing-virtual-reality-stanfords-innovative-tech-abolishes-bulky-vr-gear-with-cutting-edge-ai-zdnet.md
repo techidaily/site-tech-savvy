@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Virtual Reality: Stanford's Innovative Tech Abolishes Bulky VR Gear with Cutting-Edge AI | ZDNet"
-date: 2024-09-19T16:09:37.623Z
-updated: 2024-09-22T16:42:50.910Z
+date: 2024-10-08T03:00:54.879Z
+updated: 2024-10-09T01:25:19.825Z
 tags:
   - ar+vr
 categories:
@@ -67,18 +67,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-practices-expert-picks-for-4k-dslr-mounts/"><u>[New] 2024 Approved Best Practices Expert Picks for 4K DSLR Mounts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-video-editing-the-essentials-of-cropping-and-exporting-to-instagram/"><u>[Updated] Navigating Video Editing The Essentials of Cropping and Exporting to Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bot-assisted-dialogue-top-3-privacy-concerns-addressed/"><u>Bot-Assisted Dialogue: Top 3 Privacy Concerns Addressed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-news-now-refined-focused-on-you/"><u>Google News Now Refined, Focused on You</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s21-fe-5g-2023-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-solo-operation-of-auto-gpt-justifiable/"><u>Is Solo Operation of Auto-GPT Justifiable?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/myths-vs-machines-exposing-9-common-misconceptions-on-ai-bots/"><u>Myths Vs. Machines: Exposing 9 Common Misconceptions on AI Bots</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/open-world-originals-titles-similar-to-gta-v/"><u>Open World Originals Titles Similar To GTA V</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbounded-gpt-openais-concern/"><u>Unbounded GPT: OpenAI's Concern?</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

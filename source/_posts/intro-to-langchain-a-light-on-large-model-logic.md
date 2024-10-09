@@ -1,7 +1,7 @@
 ---
 title: "Intro to LangChain: A Light on Large Model Logic"
-date: 2024-09-29T19:14:12.651Z
-updated: 2024-10-03T23:07:03.885Z
+date: 2024-10-07T17:57:39.551Z
+updated: 2024-10-08T19:06:13.742Z
 tags:
   - chatgpt
   - open-ai
@@ -60,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Setting Up Your Development Environment
 
  First, [create a virtual environment](https://www.makeuseof.com/create-manage-python-virtual-environments/) and install the dependencies below:
@@ -82,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
  The command above installs the packages and creates a virtual environment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Import the Installed Dependencies
@@ -99,10 +92,10 @@ from langchain.memory import ConversationBufferWindowMemory`
  The LangChain classes outline and execute the language model chains.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Access OpenAI API Key
@@ -120,6 +113,13 @@ from langchain.memory import ConversationBufferWindowMemory`
  Enter the requested name of the API key.
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-naming.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You will receive a **secret key** prompt.
 
@@ -168,10 +168,10 @@ print(output)`
  Above is the expected output.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Rising Influence of LLMs
@@ -199,20 +199,21 @@ print(output)`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-authenticating-your-instagram-photos/"><u>[New] Authenticating Your Instagram Photos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-ultra-short-timelapse-capture-methods/"><u>[New] In 2024, Top Ultra-Short Timelapse Capture Methods</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-upload-made-easy-your-device-based-guide-for-youtube-shorts/"><u>[Updated] 2024 Approved Upload Made Easy Your Device-Based Guide for YouTube Shorts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-deciphering-instagram-stories-what-youre-not-seeing-as-a-viewer/"><u>[Updated] In 2024, Deciphering Instagram Stories What You're Not Seeing as a Viewer</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-nurturing-nature-in-valheim-top-seed-selection-tips-for-2024/"><u>[Updated] Nurturing Nature in Valheim Top Seed Selection Tips for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-basics-and-beyond-learn-the-ropes-in-our-9-top-communities/"><u>AI Basics & Beyond: Learn the Ropes in Our 9 Top Communities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-how-companies-embrace-generative-ais-potential/"><u>Discovering How Companies Embrace Generative AI's Potential</u></a></li>
-<li><a href="https://os-tips.techidaily.com/do-you-need-an-apple-pencil-for-enhanced-productivity-with-your-ipad/"><u>Do You Need an Apple Pencil for Enhanced Productivity with Your iPad?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-v30-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo V30 Pro</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-superior-on-screen-moment-documentation/"><u>In 2024, Superior On-Screen Moment Documentation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovation-in-ai-predicting-the-launch-of-gpt-5/"><u>Innovation in AI: Predicting the Launch of GPT-5?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavi-oferece-conversao-gratuita-flac-para-mpeg-na-web-faca-ja/"><u>Movavi Oferece Conversão Gratuita FLAC Para MPEG Na Web: Faça Já!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/practical-chatgpt-use-cases-for-job-hunters/"><u>Practical ChatGPT Use-Cases for Job Hunters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/us-market-first-to-experience-enhanced-ai-chatgpt-plus-introduced/"><u>US Market, First to Experience Enhanced AI: ChatGPT Plus Introduced</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-question-your-complete-faith-in-ai-systems/"><u>Why Question Your Complete Faith in AI Systems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-cutting-edge-commerce-in-the-metaverse-for-2024/"><u>[New] Cutting-Edge Commerce in the Metaverse for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-countdown-chronicles-the-best-mobile-clocks-for-weddings/"><u>[Updated] Countdown Chronicles The Best Mobile Clocks For Weddings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-proven-strategies-for-effective-chromebook-zooming/"><u>[Updated] Proven Strategies for Effective Chromebook Zooming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/affordable-high-resolution-monitors-for-pc-and-laptop-games-for-2024/"><u>Affordable, High-Resolution Monitors for PC & Laptop Games for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/avoiding-disclosure-in-digital-footage-for-2024/"><u>Avoiding Disclosure in Digital Footage for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-strategies-for-accessing-your-favorite-clipon-from-pocket/"><u>Essential Strategies for Accessing Your Favorite ClipOn From Pocket</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-guide-converting-twitch-streams-into-1080p-mp4-files-on-your-pc/"><u>Free Guide: Converting Twitch Streams Into 1080P MP4 Files on Your PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/game-on-with-the-samsung-ue590-a-freesync-dream-tv-review/"><u>Game On with the Samsung UE590 A FreeSync Dream TV Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-access-unleashed-two-quick-fixes-for-removing-dvd-region-locks-on-your-pc/"><u>Global Access Unleashed: Two Quick Fixes for Removing DVD Region Locks on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-easy-conversion-of-mov-video-format-to-mp4-4k-for-crystal-clear-viewing-experience/"><u>Guide: Easy Conversion of MOV Video Format to MP4 4K for Crystal Clear Viewing Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105309729-hcmondriver-driver-install-failure-heres-how-you-can-fix-it/"><u>Hcmondriver Driver Install Failure? Here's How You Can Fix It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-duplicate-a-dvd-quickly-the-ultimate-guide-to-free-dvd-copying-software-top-picks/"><u>How to Duplicate a DVD Quickly: The Ultimate Guide to Free DVD Copying Software (Top Picks)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installing-aeon-nox-silvo-add-on-for-kodi-comprehensive-tutorial/"><u>Installing Aeon Nox Silvo Add-On for Kodi - Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/itunesm4amp3/"><u>ITunesでM4A音声ファイルをMP3にリバートする手順と、失敗時の別解法</u></a></li>
+<li><a href="https://windows11.techidaily.com/winwm-energy-hack-lowering-gpu-draw-in-windows-11/"><u>WinWM Energy Hack: Lowering GPU Draw in Windows 11</u></a></li>
 </ul></div>
 

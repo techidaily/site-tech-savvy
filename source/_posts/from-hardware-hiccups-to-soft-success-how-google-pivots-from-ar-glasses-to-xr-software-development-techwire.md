@@ -1,7 +1,7 @@
 ---
 title: "From Hardware Hiccups to Soft Success: How Google Pivots From AR Glasses to XR Software Development | TechWire"
-date: 2024-09-18T17:59:51.251Z
-updated: 2024-09-22T18:10:05.371Z
+date: 2024-10-04T20:43:29.436Z
+updated: 2024-10-09T05:58:54.218Z
 tags:
   - ar+vr
 categories:
@@ -67,18 +67,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/2-unparalleled-youtube-gamers-intros-revealed-free-or-fee-in-2024/"><u>[New] 12 Unparalleled YouTube Gamers' Intros Revealed Free or Fee, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-crafting-cinematic-experiences-with-magix-video-pro-x/"><u>[New] In 2024, Crafting Cinematic Experiences with Magix Video Pro X</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-how-to-make-career-in-graphic-designing/"><u>In 2024, How to Make Career in Graphic Designing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/july-21st-new-york-times-puzzle-solutions-and-insights-406/"><u>July 21St New York Times Puzzle Solutions & Insights #406</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/may-18th-new-york-times-crosswords-clues-and-answers-puzzle-342/"><u>May 18Th New York Times Crosswords Clues & Answers - Puzzle #342</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-york-times-daily-challenge-unravel-the-secrets-on-august-5-with-expert-hints-and-solutions/"><u>New York Times Daily Challenge - Unravel the Secrets on August 5 with Expert Hints and Solutions!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/televising-digital-media-integrating-fb-video/"><u>Televising Digital Media Integrating FB Video ?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-s23-fe-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy S23 FE for Parents | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-free-messaging-apps-for-iphone-and-ipad-no-charge-unlimited-chatting/"><u>Top Free Messaging Apps for iPhone and iPad: No Charge, Unlimited Chatting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-mysteries-of-nyt-connections-on-may-22nd-346-puzzle-pieces-to-completion/"><u>Unlock the Mysteries of NYT Connections on May 22Nd (#346) – Puzzle Pieces to Completion!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-my-circle-is-quitting-facebook-strategies-that-could-bring-us-back/"><u>Why My Circle Is Quitting Facebook: Strategies That Could Bring Us Back</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

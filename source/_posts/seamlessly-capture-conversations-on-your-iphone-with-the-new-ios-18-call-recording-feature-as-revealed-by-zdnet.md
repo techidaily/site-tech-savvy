@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Capture Conversations on Your iPhone with the New iOS 18 Call Recording Feature, as Revealed by ZDNet
-date: 2024-09-29T19:16:51.429Z
-updated: 2024-10-03T20:41:13.368Z
+date: 2024-10-02T16:46:13.759Z
+updated: 2024-10-09T01:17:22.609Z
 tags:
   - apple
 categories:
@@ -60,18 +60,18 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -128,16 +128,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -167,10 +161,10 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -178,16 +172,10 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -224,16 +212,20 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-rise-in-popularity-top-10-must-try-instagram-hashtags-for-2024/"><u>[New] Rise in Popularity Top 10 Must-Try Instagram Hashtags for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-easy-access-to-legal-gamers-tunes/"><u>[Updated] 2024 Approved Easy Access to Legal Gamers' Tunes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comment-se-connecter-avec-lentreprise-numerique-innovante-digiarty/"><u>Comment Se Connecter Avec L'entreprise Numérique Innovante, Digiarty ?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-fresh-driver-installation-on-your-hp-laserjet-p1007/"><u>Easy Guide to Fresh Driver Installation on Your HP LaserJet P1007</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-free-up-to-date-audio-controls-for-win7-systems/"><u>Get Free Up-to-Date Audio Controls for Win7 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/grasping-ai-an-easy-approach/"><u>Grasping AI: An Easy Approach</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-auto-gpt-worth-using-without-gpt-4/"><u>Is Auto-GPT Worth Using Without GPT-4?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-chatgpt-efficient-workplace-companionship/"><u>Leverage ChatGPT: Efficient Workplace Companionship</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/pioneering-companies-for-haptic-rich-views/"><u>Pioneering Companies for Haptic-Rich Views</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-techniques-in-testimonial-production-an-experts-insight/"><u>Top Techniques in Testimonial Production An Expert's Insight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-chatgpt-4s-sluggishness-in-contrast-with-35/"><u>Unraveling ChatGPT-4's Sluggishness in Contrast with 3.5</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-srgb-standardization-versus-classic-rgb-model/"><u>[New] Srgb Standardization Versus Classic Rgb Model</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-decoding-the-impact-of-instagrams-algorithm-shifts/"><u>[Updated] In 2024, Decoding the Impact of Instagram's Algorithm Shifts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024-6-ios/"><u>2024 上必備的 6 款專業化成像轉動漫工具：線上、安卓及IOS版精選</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/asgardian-alliance-final-stand/"><u>Asgardian Alliance Final Stand</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-libre-y-gratuita-de-cualquier-video-a-mpeg-con-movavi-herramienta-online-para-todo-el-almacenamiento/"><u>Conversión Libre Y Gratuita De Cualquier Video a MPEG Con Movavi: Herramienta Online Para Todo El Almacenamiento</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/easy-recording-tips-for-your-hp-laptops-camera-for-2024/"><u>Easy Recording Tips for Your HP Laptop's Camera for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transforming-3g2-files-to-avi-format-with-moveavi/"><u>Free Online Converter: Transforming 3G2 Files to AVI Format with MoveAVI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-web-converter-change-ogg-files-into-high-quality-flac-format-with-movavi/"><u>Free Web Converter: Change OGG Files Into High-Quality FLAC Format with Movavi</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-a-compreran-guide-for-seamless-soundtrack-integration-in-video-editing/"><u>In 2024, A Compreran Guide for Seamless Soundtrack Integration in Video Editing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-2022-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone SE (2022) Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-m4v-mna/"><u>Movavi로 M4V, MnA 음성 및 화면 비디오 제공하는 무세를 지울 수 있는 계속서기 - 온라인</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-iphone-guide-for-shooting-hdr-photos/"><u>The Ultimate iPhone Guide for Shooting HDR Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformer-ppm-a-une-version-basee-sur-le-web-sans-cout-avec-movavi/"><u>Transformer PPM À Une Version Basée Sur Le Web Sans Coût - Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-for-windows-unlaunchable-lunar-client-issue/"><u>Workaround for Windows' Unlaunchable Lunar Client Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/caf-flac/"><u>자이오 제트 바이올드 - 디지털 공간에서 신원비 CAF 폴리아팅: 무료 FLAC 전환기</u></a></li>
 </ul></div>
 

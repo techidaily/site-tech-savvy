@@ -1,7 +1,7 @@
 ---
 title: AI-Facilitated Mindfulness for Less Stress
-date: 2024-10-02T23:43:07.116Z
-updated: 2024-10-03T19:06:45.356Z
+date: 2024-10-05T20:13:50.212Z
+updated: 2024-10-08T20:16:55.569Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
  For a deeper look at how ChatGPT can be part of your stress management toolkit, check out these [reasons to consider using ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mindfulness and Relaxation Techniques
 
  ChatGPT might not have the soothing voice of your favorite yoga instructor (at least not yet) or the serene smile of renowned Buddhist monk Thich Nhat Hanh, but it's capable of sharing information about deep breathing exercises, visualization techniques, and other mindfulness practices.
@@ -55,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 ![Screenshot of ChatGPT giving mindfulness advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-25-at-7-37-45-am.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So, next time you're feeling overwhelmed, instead of using a search engine and wading through the abyss that is the internet, consider asking ChatGPT.
@@ -75,10 +82,16 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 ![Screnshot of ChatGPT response regarding catastrophizing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-25-at-7-44-49-am.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, ChatGPT is not a psychologist or a coach, but it can guide you to understand your thoughts and recommend some actions you can take to rectify the situation.
@@ -86,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 ![Screenshot of ChatGPT providing advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-25-at-7-44-59-am.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shifting Perspective
@@ -109,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
  Let's take positive affirmations as an example. Try prompting ChatGPT with something like, "You are a spiritual guide and sought-after life coach with experience in positive psychology. What are some effective positive affirmations that I can use for stress? Keep in mind I am a modern office worker dealing with challenging personalities at work." And voila! Just like that, you'll have a plethora of affirmations to help keep you sane.
 
 ![Screenshot of ChatGPT giving positive affirmations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-25-at-7-57-25-am.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Keep in mind ChatGPT is like a guide. It can give you information, but it's up to you to put it into action.
 
@@ -146,21 +152,22 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-comprehensive-walkthrough-of-wmps-cd-handling/"><u>[New] 2024 Approved Comprehensive Walkthrough of WMP's CD Handling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-tier-seo-strategies-to-elevate-your-podcast-rankings/"><u>[New] Top-Tier SEO Strategies to Elevate Your Podcast Rankings</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-flip-the-script-unique-approaches-to-retracing-yt-content/"><u>2024 Approved Flip the Script Unique Approaches to Retracing YT Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-strategies-for-achieving-desired-career/"><u>AI-Powered Strategies for Achieving Desired Career</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbot-authenticity-beyond-plagiarism-fears/"><u>ChatBot Authenticity: Beyond Plagiarism Fears</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-language-bots-for-work-bing-chat-or-chatgpt-9-factors/"><u>Choosing Language Bots for Work: Bing Chat or ChatGPT? 9 Factors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deepen-relationships-with-emotional-intelligence-assistance/"><u>Deepen Relationships with Emotional Intelligence Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/flawless-mvi-to-avi-transformation-effortlessly-edit-and-stream-on-any-device-without-hitches/"><u>Flawless MVI to AVI Transformation - Effortlessly Edit and Stream on Any Device Without Hitches</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gaining-entry-into-openai-soramis-your-ultimate-step-by-step-blueprint/"><u>Gaining Entry Into OpenAI Soramis: Your Ultimate Step-by-Step Blueprint</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-usechatgpts-co-pilot-expands-ai-capabilities-in-conversations/"><u>How UseChatGPT's Co-Pilot Expands AI Capabilities in Conversations</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/step-by-step-tutorial-for-creating-professional-videos-with-a-green-screen-on-tiktok/"><u>Step-by-Step Tutorial for Creating Professional Videos with a Green Screen on TikTok</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-saving-chatgpt-messages-incognito/"><u>The Art of Saving ChatGPT Messages Incognito</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-top-12-tycoon-games-worthy-of-every-business-strategists-time-for-2024/"><u>The Top 12 Tycoon Games Worthy of Every Business Strategist's Time for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-ultimate-blueprint-adopting-mobizen-screen-recording-skills/"><u>The Ultimate Blueprint Adopting Mobizen Screen Recording Skills</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-reno-8t-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo Reno 8T Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-effective-chatgpt-use-on-macs/"><u>Unleashing Potential: Effective ChatGPT Use on Macs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-comprehensive-guide-to-platform-choice-and-management/"><u>[New] 2024 Approved Comprehensive Guide to Platform Choice and Management</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-list-12-great-sources-for-no-cost-image-shots/"><u>[New] 2024 Approved Ultimate List 12 Great Sources for No-Cost Image Shots</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-7-economical-screen-recorders-for-pcs/"><u>[New] Top 7 Economical Screen Recorders for PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi-ogv-movavi/"><u>免費線上AVI-OGV間自由轉換，體驗 Movavi 翻譯器的效能</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-free-mac-video-conversion-tool-try-movavi-for-hassle-free-download-and-use/"><u>Best Free Mac Video Conversion Tool - Try Movavi for Hassle-Free Download and Use</u></a></li>
+<li><a href="https://win11.techidaily.com/configure-your-windows-11-to-suit-your-auditory-preferences/"><u>Configure Your Windows 11 to Suit Your Auditory Preferences</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-ps5-upgrades-from-past-to-present/"><u>Exploring PS5 Upgrades From Past to Present</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-of-pef-images-to-jpeg-effortless-with-movavi/"><u>Free Online Conversion of PEF Images to JPEG: Effortless with Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-filmless-to-film-rich-digitizing-yesteryears-images/"><u>From Filmless to Film-Rich Digitizing Yesteryears' Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuito-converter-imagens-webp-para-gif-online-no-site-do-movavi/"><u>Gratuito: Converter Imagens WEBP Para GIF Online No Site Do Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-13-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 13 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kostenlose-online-umwandlung-cr2-in-tiff-mit-movavi-hochwertige-ergebnisse-garantiert/"><u>Kostenlose Online-Umwandlung CR2 in TIFF Mit Movavi - Hochwertige Ergebnisse Garantiert</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-eco-performance-dissecting-the-power-of-teamgroups-ddr5-6000-t-force-vulcan-c30-memory-kit/"><u>The Future of Eco Performance: Dissecting the Power of TeamGroup's DDR5-6000 T-Force Vulcan C30 Memory Kit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-12-applicaties-om-stamppunts-te-herstel/"><u>Top 12 Applicaties Om Stamppunts Te Herstel</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-no-cost-utilities-for-your-drivers-julys-picks/"><u>Top 8 No-Cost Utilities for Your Drivers - July's Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformacion-de-videos-a-formato-wmv-una-guia-sencilla-con-movavi/"><u>Transformación De Videos a Formato WMV: Una Guía Sencilla Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webm-and-wma/"><u>Webm & Wma 포토 갭을 해제: 가상의 공간에서 원료없이 변환 방법 - 모바비</u></a></li>
 </ul></div>
 

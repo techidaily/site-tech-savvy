@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Directive Design: Discover 7 Digital Strategies"
-date: 2024-09-27T01:07:46.425Z
-updated: 2024-10-03T23:50:46.846Z
+date: 2024-10-07T22:43:31.554Z
+updated: 2024-10-08T22:38:42.765Z
 tags:
   - chatgpt
   - open-ai
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 * **Temperature:** This parameter dictates the randomness of the AI model's output. Systems with low temperatures are less likely to sample multiple sources. You’ll get the exact, fine-tuned output even if you regenerate responses several times.
 * **Stop Sequences:** AI stops generating tokens once it hits your predetermined stop sequences. Open-ended instructions produce lengthy outputs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Playground AI
 
 ![Generating an Image of a Dog Eating Hotdogs on Playground AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/playground-ai-generating-images.jpg)
@@ -73,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 ![Searching for AI Prompts on Promptbase Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/promptbase-marketplace-all-results.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  AI has significantly advanced over the past years, but the industry is still evolving. Global tech leaders have just started releasing AI-driven tools. Aspiring prompt engineers might not find many openings yet, especially among smaller tech startups.
 
  To make extra money writing prompts, sign up for PromptBase. It’s one of the most established prompt marketplaces online—you’ll find hundreds of thousands of paid prompts. You can start selling after making an account.
@@ -93,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 ![Searching Github Repositories for ChatGPT Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt-prompts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Anyone interested in AI needs a GitHub account. It features a massive database of LLMs, programming, coding, and prompt engineering resources. You’ll find infinite repositories discussing these topics.
@@ -106,15 +92,22 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
  To further improve your skills, collaborate with other users. Free accounts get about 2,000 minutes of Actions and 120 core hours of Codespaces a month. Play around with the site a bit. You can consider upgrading to a Pro account as you take on bigger projects.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Find Anything
 
 ![Searching for Dog Pictures on Google With Find Anything Extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/find-anything-extension-on-google-images.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Text-to-image generators](https://www.makeuseof.com/ai-text-to-art-generators/) help you visualize concepts, but their output doesn’t follow standard copyright laws. You can’t [claim ownership of AI-generated art](https://www.makeuseof.com/copyright-rules-ai-art/). AI tools pull elements from existing content, many of which might be copyright-protected.
 
@@ -125,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
  Or better yet, solely use Find Anything for art inspiration. Running it requires less technical know-how than Midjourney—beginners can practice testing text-to-image prompts here.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Eye for AI
@@ -142,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
  Upload relevant images of the person or object you want to portray—make sure you show the subject from various angles. And if possible, set your preferred diffusion model. Free accounts get 24 credits. You can purchase an extra 300 credits for just $13 if you find the Eye for AI useful.
 
  Please use AI image generators responsibly. Creating deepfakes to spread misinformation and damage a person’s reputation has legal consequences.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Write Better Prompts With the Right Tools
 
@@ -168,22 +168,21 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-waveforms-and-windows-mac-sound-recording/"><u>[Updated] 2024 Approved Waveforms and Windows Mac Sound Recording</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44cm44ox44ot44k744k544oe44kk44ol44oz44kw44gu6kmz57sw6kej6kqs77ya44gp44gg44gx44gm6yen6kab44gl77yf44cn/"><u>「プロセスマイニングの詳細解説：どうして重要か？」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-abbyy-flexicapture-enhances-trn-groups-invoicing-efficiency-through-automation/"><u>1. ABBYY FlexiCapture Enhances TRN Group's Invoicing Efficiency Through Automation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-enhanced-traffic-insights-with-our-state-of-the-art-cookiebot-technology/"><u>1. Enhanced Traffic Insights with Our State-of-the-Art Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-blog-the-five-biggest-challenges-facing-developers-with-receipt-ocr-technology/"><u>ABBYY Blog: The Five Biggest Challenges Facing Developers with Receipt OCR Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-enhances-eucon-efficiency-through-advanced-automatic-document-handling/"><u>ABBYY Enhances Eucon Efficiency Through Advanced Automatic Document Handling</u></a></li>
-<li><a href="https://fox-links.techidaily.com/breathtaking-judgment-and-variant-proposals/"><u>Breathtaking Judgment & Variant Proposals</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172325340-create-immersive-gaming-opt-for-big-box-framing/"><u>Create Immersive Gaming - Opt for Big Box Framing!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-22-addressed-device-now-online/"><u>Error 22 Addressed; Device Now Online</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-leading-no-ad-android-screen-recorder-hacks/"><u>In 2024, Leading No-Ad Android Screen Recorder Hacks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341743664-keychron-k2-he-magnetic-masterpiece-with-a-vintage-flair-unveiled/"><u>Keychron K2 HE Magnetic Masterpiece with a Vintage Flair Unveiled!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-literary-adventures-a-thorough-review-of-amazons-kindle-paperwhite-7gen-e-reader/"><u>Navigating Literary Adventures: A Thorough Review of Amazon's Kindle Paperwhite (7Gen) E-Reader</u></a></li>
-<li><a href="https://win-community.techidaily.com/revolutionizing-remote-work-how-logitech-leverages-classic-cameras-techniques-in-their-ghost-technology/"><u>Revolutionizing Remote Work: How Logitech Leverages Classic Cameras Techniques in Their 'Ghost' Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-and-intuitive-epubor-ebook-authoring-tool-quick-guide-to-creating-digital-books/"><u>Simple & Intuitive EPUBOR eBook Authoring Tool - Quick Guide to Creating Digital Books</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-paperwork-into-digital-format-using-ocr-ios-solution-by-finereader-pdf-app/"><u>Transform Your Paperwork Into Digital Format Using OCR - iOS Solution by FineReader PDF App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-why-robotic-process-automation-has-ceos-and-c-level-managers-hooked-perspectives-by-abbyy/"><u>Unpacking Why Robotic Process Automation Has CEOs and C-Level Managers Hooked - Perspectives by ABBYY</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-abbyy2020/"><u>デジタルインテリジェンスとその6つの魅力的な物語 - ABBYYブログで読むべき2020年</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-surging-up-the-search-listings-key-tips-for-optimizing-your-videos/"><u>[New] Surging Up the Search Listings Key Tips for Optimizing Your Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-best-practices-for-secondary-footage-selection-and-use-for-2024/"><u>[Updated] Best Practices for Secondary Footage Selection and Use for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-master-your-clips-on-mac-explore-our-top-5-snippers/"><u>[Updated] In 2024, Master Your Clips on Mac Explore Our Top 5 Snippers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessing-gpt-4-on-a-shoestring-budget/"><u>Accessing GPT-4 on a Shoestring Budget</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-ai-like-chatgpt-trigger-unauthorized-access-on-personal-computers/"><u>Can AI Like ChatGPT Trigger Unauthorized Access on Personal Computers?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebooks-favorites-top-10-viral-music-videos-guide-for-2024/"><u>Facebook's Favorites TOP 10 Viral Music Videos Guide for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-galaxy-a05s-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Galaxy A05s Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-from-blurry-edges-to-squared-perfection-the-imovie-guide-for-instagram-videos/"><u>In 2024, From Blurry Edges to Squared Perfection The iMovie Guide for Instagram Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-troubleshooting-overcoming-major-issues-in-arise-using-unreal-engine/"><u>Mastering Troubleshooting: Overcoming Major Issues in 'Arise' Using Unreal Engine ✨</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quieting-audible-outputs-a-windowsmac-guide/"><u>Quieting Audible Outputs A Windows/Mac Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-complexity-pythons-role-in-gpt-3/"><u>Simplifying Complexity: Python's Role in GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spearheading-impactful-presentation-design-with-chatgpt-insights/"><u>Spearheading Impactful Presentation Design with ChatGPT Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spotting-and-avoiding-fake-chatgpt-services-immediately/"><u>Spotting and Avoiding Fake ChatGPT Services Immediately</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-digital-transformation-era-thriving-amidst-ai-advancements/"><u>The Digital Transformation Era: Thriving Amidst AI Advancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-advantages-4-reasons-to-prefer-claude-3/"><u>Unveiling the Advantages: 4 Reasons to Prefer Claude 3</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtubes-creator-hub-explained-simply/"><u>YouTube's Creator Hub Explained Simply</u></a></li>
 </ul></div>
 

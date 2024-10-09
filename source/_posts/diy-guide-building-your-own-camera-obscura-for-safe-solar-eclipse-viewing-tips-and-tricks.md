@@ -1,7 +1,7 @@
 ---
 title: "DIY Guide: Building Your Own Camera Obscura for Safe Solar Eclipse Viewing - Tips & Tricks"
-date: 2024-09-18 14:13:42
-updated: 2024-09-20 10:43:56
+date: 2024-10-06T17:21:13.319Z
+updated: 2024-10-09T04:55:46.936Z
 tags:
   - yard-outdoors
 categories:
@@ -68,11 +68,33 @@ The Govee Permanent Outdoor Lights 2 are available for purchase right now. The 5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-clear-screen-techniques-focus-on-your-message-not-the-ambiance-for-2024/"><u>[New] Clear Screen Techniques Focus on Your Message, Not the Ambiance for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-why-does-your-fb-message-feed-show-a-blue-image-decoding-its-purpose/"><u>[Updated] In 2024, Why Does Your FB Message Feed Show a Blue Image? Decoding Its Purpose</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-precision-and-quality-in-screen-recording-discovering-showmores-benefits/"><u>[Updated] Precision and Quality in Screen Recording - Discovering ShowMore's Benefits</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-poco-f5-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Poco F5 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/asgardian-alliance-final-stand-for-2024/"><u>Asgardian Alliance Final Stand for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/balancing-personalization-and-privacy-in-gpt-applications/"><u>Balancing Personalization and Privacy in GPT Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exiting-the-chatgpt-world-a-how-to/"><u>Exiting the ChatGPT World: A How-To</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-browsing-made-simple-unleash-bing-ai-on-your-devices/"><u>Intelligent Browsing Made Simple: Unleash Bing AI on Your Devices.</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-animate-your-dreams-a-comprehensive-guide-to-the-top-drawing-software/"><u>New 2024 Approved Animate Your Dreams A Comprehensive Guide to the Top Drawing Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-chatgpts-revolutionary-feature-set-revealed/"><u>Pioneering Progress: ChatGPT's Revolutionary Feature Set Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plagiarism-perils-chatbot-source-evaluation/"><u>Plagiarism Perils: Chatbot Source Evaluation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-trick-to-a-faster-kodi-interface-complete-guide-to-clearing-your-apps-caches/"><u>The Ultimate Trick to a Faster Kodi Interface: Complete Guide to Clearing Your App's Caches</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

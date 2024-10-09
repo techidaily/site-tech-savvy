@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and Cybersecurity: Unveiling the Hidden Dangers to Bank Data"
-date: 2024-09-30T00:49:09.795Z
-updated: 2024-10-03T22:39:02.967Z
+date: 2024-10-03T18:34:38.298Z
+updated: 2024-10-08T17:50:41.060Z
 tags:
   - chatgpt
   - open-ai
@@ -43,16 +43,10 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -60,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with [a successful phishing attack](http://www.makeuseof.com/what-is-phishing/). Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -85,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -118,19 +106,24 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-optimizing-ppt-presentations-across-devices-for-google-meet/"><u>[New] 2024 Approved Optimizing PPT Presentations Across Devices for Google Meet</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-perfect-chat-harmony-how-to-download-and-tailor-whatsapp-tones/"><u>[Updated] 2024 Approved Perfect Chat Harmony How to Download and Tailor WhatsApp Tones</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-simple-window-recording-on-windows-10/"><u>2024 Approved Simple Window Recording on Windows 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavi-gif-bmp/"><u>自由下載的 Movavi 在線將 GIF 改為 BMP 圖像編譯器</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/effortless-video-management-25plus-free-apps-turning-instagram-content-into-mp4-files/"><u>Effortless Video Management 25+ Free Apps Turning Instagram Content Into MP4 Files</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevating-your-films-impact-with-additional-camera-work/"><u>Elevating Your Film's Impact with Additional Camera Work</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-the-error-windows-installation-failure-on-non-gpt-drives/"><u>How to Fix the Error: Windows Installation Failure on Non-GPT Drives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-windows-keyboard-keys-that-wont-unstick-a-comprehensive-guide/"><u>How to Fix Windows Keyboard Keys That Won't Unstick: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-link-laptop-and-tv-via-hdmi-a-comprehensive-tutorial-including-visuals/"><u>How to Link Laptop and TV via HDMI – A Comprehensive Tutorial Including Visuals</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-s18-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo S18 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-tutorial-on-syncing-beats-audio-with-a-windows-11-pc-problems-solved/"><u>In-Depth Tutorial on Syncing Beats Audio with a Windows 11 PC (Problems Solved)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-your-voice-memos-on-windows-10-a-comprehensive-guide-to-usage-and-troubleshooting/"><u>Mastering Your Voice Memos on Windows 10: A Comprehensive Guide to Usage and Troubleshooting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/newly-updated-windows-11-drivers-for-amd-radeon-hd-ebyss-optimizing-performance-and-stability/"><u>Newly Updated Windows 11 Drivers for AMD Radeon HD Ebyss - Optimizing Performance & Stability</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-breakdown-of-modern-wireless-technologies-from-802nbgwi-fi-protocols-to-the-latest-80211ax-series/"><u>The Complete Breakdown of Modern Wireless Technologies: From 802.nB/gWi-Fi Protocols to the Latest 802.11Ax Series</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-elevate-your-youtube-presence-featuring-essential-channels-tutorial/"><u>[New] In 2024, Elevate Your Youtube Presence Featuring Essential Channels Tutorial</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-learn-to-produce-fb-video-ads-using-free-kit/"><u>[New] In 2024, Learn to Produce FB Video Ads Using Free Kit</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-real-time-recording-rivalry-obs-versus-shadowreplay/"><u>[New] In 2024, Real-Time Recording Rivalry OBS Versus ShadowReplay</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mass-movement-mastery-the-drone-top-list/"><u>[New] Mass Movement Mastery The Drone Top List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smartphone-photographers-must-have-app-list/"><u>[Updated] Smartphone Photographers' Must-Have App List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aerial-titans-clash-dji-and-gopros-quest/"><u>Aerial Titans Clash DJI and GoPro's Quest</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-begin-your-online-romance-via-facebook/"><u>How to Begin Your Online Romance via Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipadiphonemovmp4pc/"><u>IPad/iPhoneのMOV/MP4ファイルをPCに転送して再生する方法 - 互換性改善ステップ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4-movie-converter-universal-device-compatibility-transform-movies-effortlessly/"><u>MP4 Movie Converter: Universal Device Compatibility - Transform Movies Effortlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-wonderfox-assistance-hub-comprehensive-user-handbook/"><u>Navigating the WonderFox Assistance Hub – Comprehensive User Handbook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pc-iphoneandroidaac/"><u>PC, iPhone、Androidを使用してAAC形式のオーディオファイルを再生するための解決策</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/png/"><u>PNG画像をビデオに変換する詳細ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserve-your-movie-night-magic-with-a-the-croods-dvd-copy/"><u>Preserve Your Movie Night Magic with a 'The Croods' DVD Copy!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-guide-converting-videos-to-mobile-friendly-format-in-seconds/"><u>Quick & Simple Guide: Converting Videos to Mobile-Friendly Format in Seconds!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-conversion-techniques-transforming-m2ts-files-into-mkv-format/"><u>Seamless Conversion Techniques: Transforming M2TS Files Into MKV Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-mp3-files-into-aiff-format-on-mac-pc-or-online/"><u>Step-by-Step Guide: Converting MP3 Files Into AIFF Format on Mac, PC, or Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-distinctions-between-fb-pages-and-unames/"><u>Unveiling the Distinctions Between FB Pages & UNAMES</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-choose-dxvk-for-a-better-gaming-experience-on-windows/"><u>Why Choose DXVK for a Better Gaming Experience on Windows</u></a></li>
 </ul></div>
 

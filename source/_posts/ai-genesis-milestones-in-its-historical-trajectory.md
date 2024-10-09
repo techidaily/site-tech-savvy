@@ -1,7 +1,7 @@
 ---
 title: "AI Genesis: Milestones in Its Historical Trajectory"
-date: 2024-10-01T22:48:08.557Z
-updated: 2024-10-03T21:14:00.928Z
+date: 2024-10-01T21:41:09.944Z
+updated: 2024-10-09T00:59:43.045Z
 tags:
   - chatgpt
   - open-ai
@@ -42,16 +42,10 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
  Although the first period looking at the roots of AI covers a vast period, there are some key moments.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1900-1950: The Dawn of Modern AI
@@ -67,15 +61,22 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
  The dawn of modern AI fitting accumulates with Alan Turing's paper and the [Turing Test, which attempts to answer the question](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/), "Can machines think?"
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1951-2000: Exploring the Applications of AI Technologies
 
 ![An Old and Large Supercomputer Display at the Museum](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-super-computer-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:CDC%5F6600%5F-%5FComputer%5FHistory%5FMuseum%5F%2830614723650%29.jpg)
@@ -88,16 +89,16 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 
  The middle period of AI development saw one of the most important moments of all: the coining of the term "artificial intelligence."
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2001-2010: Integrating AI Into Modern Technologies
 
 ![The Black First Generation iPhone on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/original-iphone-first-gen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone%5FFirst%5FGeneration%5F8GB%5F%283680455198%29.jpg)
 
@@ -124,13 +125,6 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 * **2018:** OpenAI developed GPT-1, the first language model of the [GPT family](https://www.makeuseof.com/gpt-models-explained-and-compared/). Developers used the BookCorpus dataset for training. The model could answer general knowledge questions and use natural language.
 
  During this period, consumers were likely to use AI applications without even realizing it, even though visual and voice recognition tools (for most consumers) were still young. Towards the end of the decade, AI development kicked up a notch, but still not as dramatically as what was to come.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2021-Present: Global Tech Leaders Kick off the Great AI Race
 
@@ -168,18 +162,18 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-experience-cinematic-adventure-with-intova-edge-x/"><u>[New] 2024 Approved Experience Cinematic Adventure With Intova Edge X</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-guide-to-sharper-meeting-experience-with-google/"><u>[Updated] Ultimate Guide to Sharper Meeting Experience with Google</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-excellence-in-video-selecting-peak-frame-rates-for-slow-motion-effects/"><u>2024 Approved Excellence in Video Selecting Peak Frame Rates for Slow-Motion Effects</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovative-activities-for-the-modern-podcaster/"><u>2024 Approved Innovative Activities for the Modern Podcaster</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/a-roadmap-for-optimizing-and-tracking-your-fb-in-stream-ad-performance-for-2024/"><u>A Roadmap for Optimizing and Tracking Your FB In-Stream Ad Performance for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1715701106176-apocalypse-arena-top-8-zombie-games-showdown-ranked/"><u>Apocalypse Arena Top 8 Zombie Games Showdown Ranked!</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/compact-guide-setting-up-snapchat-macos-style/"><u>Compact Guide Setting up Snapchat macOS-Style</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/dji-innovation-in-aviation-mavic-pro-deep-dive/"><u>DJI Innovation in Aviation Mavic Pro Deep Dive</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-windows-11-night-light-feature-not-functioning/"><u>Fixing the Issue: Windows 11 Night Light Feature Not Functioning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revitalize-your-pc-with-our-expert-tips-for-a-quick-windows-11-reset-including-4-key-actions/"><u>Revitalize Your PC with Our Expert Tips for a Quick Windows 11 Reset (Including 4 Key Actions)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safe-mode-mastery-for-windows-10-four-proven-approaches-illustrated-with-images/"><u>Safe Mode Mastery for Windows 10 - Four Proven Approaches Illustrated with Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-guide-how-to-set-up-your-wireless-printer-with-ease/"><u>Simple Guide: How to Set Up Your Wireless Printer with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speeding-through-the-login-screen-optimizing-windows-11-boot-speed/"><u>Speeding Through the Login Screen: Optimizing Windows 11 Boot Speed</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2023s-quick-share-tweeted-videos-to-whatsapp-for-2024/"><u>[New] 2023'S Quick Share Tweeted Videos to WhatsApp for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-strategies-to-save-instagram-stories/"><u>[New] Essential Strategies to Save Instagram Stories</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-classic-console-charisma-best-ps1-emulation-tools-reviewed/"><u>[Updated] Classic Console Charisma - Best PS1 Emulation Tools Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dji-unmanned-aircraft-series-basic-high-end-4k-pro/"><u>[Updated] DJI Unmanned Aircraft Series Basic, High-End, 4K Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v30-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/broadcast-bunkers-for-facebooks-2023-for-2024/"><u>Broadcast Bunkers for Facebook's 2023 for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-king-a-deep-dive-into-the-1byone-digital-hdtv-amplified-indoor-antenna/"><u>Budget King - A Deep Dive Into the 1byOne Digital HDTV Amplified Indoor Antenna</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/code-writing-duel-github-copilot-vs-chatgpt-comparison/"><u>Code Writing Duel: GitHub Copilot VS. ChatGPT Comparison</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-script-to-speech-forge-your-own-chatgpt-journey/"><u>From Script to Speech: Forge Your Own ChatGPT Journey</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-xipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone X/iPad/iPod</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/separating-medical-truths-fact-checking-techniques-with-chatgpt/"><u>Separating Medical Truths: Fact-Checking Techniques with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-gpt-powered-website-building-with-4-secrets/"><u>Unlock GPT-Powered Website Building with 4 Secrets</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-rated-online-video-ad-makers/"><u>Updated In 2024, Top-Rated Online Video Ad Makers</u></a></li>
 </ul></div>
 

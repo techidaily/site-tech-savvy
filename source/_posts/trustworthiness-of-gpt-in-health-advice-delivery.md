@@ -1,7 +1,7 @@
 ---
 title: Trustworthiness of GPT in Health Advice Delivery
-date: 2024-09-27T16:23:13.806Z
-updated: 2024-10-03T20:31:39.359Z
+date: 2024-10-04T04:12:25.000Z
+updated: 2024-10-09T06:01:19.385Z
 tags:
   - chatgpt
   - open-ai
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/d0111f28dd3d983ea5a260fddb9a6bea79bc1de4d
 * The AI tool can tailor its advice to your specific circumstances. For instance, it allows you to set parameters and ask follow-up questions so that it can better understand your needs and goals, which can lead to more personalized recommendations.
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
 
  There are several use cases for ChatGPT in the realm of health and wellness. For starters, you could use the AI tool to provide you with nutrition advice, including general recommendations on healthy eating habits.
@@ -51,16 +44,10 @@ thumbnail: https://thmb.techidaily.com/d0111f28dd3d983ea5a260fddb9a6bea79bc1de4d
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
@@ -72,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/d0111f28dd3d983ea5a260fddb9a6bea79bc1de4d
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
@@ -89,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/d0111f28dd3d983ea5a260fddb9a6bea79bc1de4d
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
@@ -103,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/d0111f28dd3d983ea5a260fddb9a6bea79bc1de4d
 * **Consider the context** . Because health and fitness advice can vary so much between individuals, you will want to provide the model with as much personal information as possible, including your health history, goals, and current circumstances, before asking it to generate a response.
 * **Ask for clarification** . If the information provided by ChatGPT seems unclear or incomplete, ask it for additional information. You can even ask ChatGPT to ask you questions to better understand your individual needs before providing you with a response.
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
 
@@ -127,18 +121,14 @@ thumbnail: https://thmb.techidaily.com/d0111f28dd3d983ea5a260fddb9a6bea79bc1de4d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips/"><u>2024 Approved Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-make-a-fortune-on-reddit-without-experience-top-13-methods/"><u>2024 Approved How to Make a Fortune on Reddit Without Experience - Top 13 Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boss-and-educator-ai-diagnostics-four-top-chatgpt-tools/"><u>Boss & Educator AI Diagnostics: Four Top ChatGPT Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-algorithms-tackle-math-questions/"><u>Can Algorithms Tackle Math Questions?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-winning-cover-letters-using-chatgpt-techniques/"><u>Crafting Winning Cover Letters Using ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/debunking-myths-ais-real-role-in-mental-healthcare/"><u>Debunking Myths: AI’s Real Role in Mental Healthcare</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/gaming-transformed-by-tech/"><u>Gaming Transformed by Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/idea-storming-guide-mindmaps-gpt-3-partnership/"><u>Idea Storming Guide: Mindmaps, GPT-3 Partnership</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-elevate-your-videos-auditory-experience-on-youtube/"><u>In 2024, Elevate Your Video's Auditory Experience on YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Tecno Spark Go (2024) | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-pova-5-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Pova 5 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-honor-x9b-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Honor X9b</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-selecting-the-right-gear-a-filmmakers-checklist/"><u>[New] 2024 Approved Selecting the Right Gear A Filmmaker's Checklist</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-mystique-of-a-blue-icon-on-facebook-decoding-its-purpose-and-meaning/"><u>[New] 2024 Approved The Mystique of a Blue Icon on Facebook Decoding Its Purpose and Meaning</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/a-practical-guide-to-saving-screens-on-dell-computers/"><u>A Practical Guide to Saving Screens on Dell Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descargar-convertidor-gratuito-para-cambiar-de-amv-a-flv-online-con-facilidad-guia-completa-del-software-movavi/"><u>Descargar Convertidor Gratuito Para Cambiar De AMV a FLV Online Con Facilidad: Guía Completa Del Software Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descargar-y-convertir-archivos-nsv-a-formatos-de-audio-mp3-sin-costo-con-la-herramienta-online-gratuita-de-conversion-de-movavi/"><u>Descargar Y Convertir Archivos NSV a Formatos De Audio MP3 Sin Costo Con La Herramienta Online Gratuita De Conversión De Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/digital-detective-work-cracking-the-code-to-live-streams/"><u>Digital Detective Work Cracking the Code to Live Streams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/high-definition-video-comparison-choosing-between-1080p-720p-480p-and-4k-for-your-viewing-needs/"><u>High Definition Video Comparison: Choosing Between 1080P, 720P, 480P, and 4K for Your Viewing Needs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-best-video-joiners-with-no-watermark-limitations-for-2024/"><u>The Best Video Joiners with No Watermark Limitations for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/win1120247/"><u>Win11上最佳图片阅读器选择2024年7月：专家推荐</u></a></li>
 </ul></div>
 

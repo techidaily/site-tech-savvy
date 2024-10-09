@@ -1,7 +1,7 @@
 ---
 title: "Synergistic Communication: Integrating ChatGPT with Siri for iPhones"
-date: 2024-09-26T22:39:38.814Z
-updated: 2024-10-03T16:37:53.098Z
+date: 2024-10-05T00:31:16.982Z
+updated: 2024-10-08T22:24:01.968Z
 tags:
   - chatgpt
   - open-ai
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d
 ![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d
 Close
 
  Now that you've obtained your API key, it's time to put it to use in the Shortcuts app. Make sure you don't copy anything else to the clipboard during this process. And if you're wondering, here are some other [things you can do with the OpenAI API key](http://www.makeuseof.com/openai-api-guide-what-can-you-do/).
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Setting Up the ChatGPT Shortcut on Your iPhone
 
@@ -71,16 +78,23 @@ Close
 
 ![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
 
-![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
 Close
 
@@ -98,13 +112,6 @@ Close
 
 ![paste API key in workflow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key-in-workflow.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Congratulations, you now have your very own ChatGPT shortcut set up on your iPhone. Now for the million-dollar question: how do you use the shortcut with Siri on your iPhone?
@@ -117,33 +124,26 @@ Close
 
 ![allow OpenAI access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-openai-access.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![allow speech recognition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-speech-recognition.jpg)
 
-![ChatGPT launched with siri](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-launched-with-siri.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![ChatGPT launched with siri](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-launched-with-siri.jpg)
 
 Close
 
  If you want to change the name of your shortcut, you can always long-press on it and select **Rename** to call it whatever you want.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is More Accessible Than We Thought
@@ -171,22 +171,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-youtube-a-step-by-step-process-unveiled-for-2024/"><u>[New] From Raw Footage to YouTube A Step-by-Step Process Unveiled for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-streamline-your-media-experience-windows-films-to-vimeo-for-2024/"><u>[New] Streamline Your Media Experience Windows Films to Vimeo for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamlining-your-live-events-merging-obs-and-zoom/"><u>[Updated] In 2024, Streamlining Your Live Events Merging OBS and Zoom</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-learn-the-easy-tricks-for-eliminating-unwanted-youtube-content-pcmobile/"><u>2024 Approved Learn the Easy Tricks for Eliminating Unwanted Youtube Content (PC/Mobile)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-ai-enable-real-time-smart-home-adjustments/"><u>Can AI Enable Real-Time Smart Home Adjustments?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creating-effective-fitness-plans-with-safe-guidance/"><u>Creating Effective Fitness Plans with Safe Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diving-into-gpts-bespoke-command-potential/"><u>Diving Into GPT's Bespoke Command Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-design-presentations-through-chatgpt-help/"><u>Efficiently Design Presentations Through ChatGPT Help</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-editorial-output-via-gpt-4/"><u>Elevate Your Editorial Output via GPT-4</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhance-your-visuals-with-winxvideo-top-tier-video-and-image-upgrade-tools/"><u>Enhance Your Visuals with WinxVideo: Top-Tier Video and Image Upgrade Tools</u></a></li>
-<li><a href="https://media-tips.techidaily.com/four-methods-for-capturing-screenshots-on-your-ipad/"><u>Four Methods for Capturing Screenshots on Your iPad</u></a></li>
-<li><a href="https://article-tips.techidaily.com/how-to-choose-between-portable-and-plugged-in-vr-headsets-picking-between-wireless-mobile-or-connected-tethered/"><u>How to Choose Between Portable and Plugged-In VR Headsets Picking Between Wireless (Mobile) or Connected (Tethered)?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/microsofts-bing-transformed-with-cutting-edge-ai/"><u>Microsoft's Bing Transformed with Cutting-Edge AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/productivity-powerhouses-chatgpts-top-10-pdf-plugins/"><u>Productivity Powerhouses: ChatGPT's Top 10 PDF Plugins</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quintessential-radio-narrative-craftsmanship/"><u>Quintessential Radio Narrative Craftsmanship</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamline-avi-to-gif-filmora-for-pc-and-mac-users-for-2024/"><u>Streamline AVI to GIF Filmora for PC & Mac Users for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-pitfalls-of-generative-ai-in-chats/"><u>Top 7 Pitfalls of Generative AI in Chats</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-iphones-hdr-photography-techniques/"><u>[Updated] In 2024, Mastering iPhone's HDR Photography Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/broadcasting-best-practices-twitch-facebook-integration/"><u>Broadcasting Best Practices Twitch-Facebook Integration</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-easily-access-and-save-films-on-solarmovie-platform/"><u>How to Easily Access and Save Films on SolarMovie Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-easily-change-mpeg-files-into-mov-without-paying-top-6-free-techniques-for-digital-editors/"><u>How to Easily Change MPEG Files Into MOV without Paying: Top 6 Free Techniques for Digital Editors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-embracing-the-night-sky-with-iphone-lengthy-exposures/"><u>In 2024, Embracing the Night Sky with iPhone Lengthy Exposures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone4k/"><u>IPhone上で最適化された4Kビデオ再生方法と問題解決ポイント</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-modifying-webex-meeting-captures-a-comprehensive-tutorial/"><u>Master the Art of Modifying Webex Meeting Captures - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-insta-ready-videos-three-simple-techniques-to-perfectly-crop-your-content/"><u>Mastering Insta-Ready Videos: Three Simple Techniques to Perfectly Crop Your Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-live-photos-with-ios-16-a-step-by-step-guide/"><u>Mastering Live Photos with iOS 16: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-multifunctional-desktop-tools-a-guide-to-efficient-media-file-management/"><u>Mastering the Art of Multifunctional Desktop Tools: A Guide to Efficient Media File Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meet-the-future-of-portable-music-introducing-the-6th-gen-ipod-nano-from-apple/"><u>Meet the Future of Portable Music - Introducing the 6Th Gen iPod Nano From Apple</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-samsung-galaxy-f34-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Samsung Galaxy F34 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-geforce-experience-shutdown-issue-complete-solution/"><u>Resolving GeForce Experience Shutdown Issue - Complete Solution</u></a></li>
 </ul></div>
 

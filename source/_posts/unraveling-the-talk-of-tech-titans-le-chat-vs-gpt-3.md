@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Talk of Tech Titans: Le Chat vs GPT-3"
-date: 2024-09-26T17:20:18.078Z
-updated: 2024-10-03T22:21:06.602Z
+date: 2024-10-05T22:09:18.915Z
+updated: 2024-10-09T02:01:53.824Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 * [Le Chat vs. ChatGPT: Creativity](https://bluettius.sjv.io/dkpnv2)
 * [Le Chat vs. ChatGPT: Programming Skills](https://versadesk.pxf.io/xyboxx)
 * [Le Chat vs. ChatGPT: Common Sense and Logical Reasoning](https://ukaidot.sjv.io/daqnoj)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -70,15 +63,22 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 
 ![ChatGPT describes itself-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-describes-itself-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And here's how Le Chat would describe itself as well:
 
 ![Le Chat Mistral describes itself](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-describes-itself.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Both responses were appropriate in their own unique ways. ChatGPT was more invested in using vivid imagery and metaphors to describe itself, demonstrating creative flair. On the other hand, Le Chat's response is very informational and focused on describing its essence as an AI chatbot. Some may say it lacks the creative flair and artistic approach that ChatGPT's response exhibits. However, I'll go out on a limb to say I prefer Le Chat's easier-to-imagine response to ChatGPT's abstract description.
@@ -89,9 +89,23 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 
 ![ChatGPT writes rap about cocumbers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-rap-about-cocumbers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And here's Le Chat's response:
 
 ![Le Chat Mistral writes song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-writes-song.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It might be a subjective issue, but ChatGPT's response seemed like the better option here. Le Chat's lyrics seemed quite wordy and didn't really read like something a rapper would put out. To test how both lyrics would sound if they were to be made into music, we used [Suno AI music generator to generate music](https://www.makeuseof.com/suno-ai-make-music-from-text-prompt/) from the lyrics. Three out of three trials, ChatGPT's lyrics sounded way better. Below are two samples from both AI chatbots, you can be the judge of which chatbot did better.
 
@@ -126,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
  I repeated a few more programming tests involving finding and fixing bugs, and ChatGPT consistently outperformed Le Chat. In some instances, Le Chat didn't even know what it was supposed to do. There's a good chance Le Chat can measure up to ChatGPT in some areas, but coding skills don't seem to be one of them.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Le Chat vs. ChatGPT: Common Sense and Logical Reasoning
@@ -142,35 +156,9 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 
 ![logical and commonsense problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/logical-and-commonsense-problem.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Le Chat tried the same task and was able to solve the problem, although using a different approach.
 
 ![Le Chat Mistral logical reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-logical-reasoning.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Both chatbots performed comparably on this test.
 
@@ -207,16 +195,21 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-your-instagram-business-blueprint/"><u>[New] Crafting Your Instagram Business Blueprint</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-recording-google-voice-conversations/"><u>[New] Step-by-Step Recording Google Voice Conversations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-elevating-engagement-with-innovative-techniques-in-fb-lives-for-2024/"><u>[Updated] Elevating Engagement with Innovative Techniques in FB Lives for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-a-poetry-book-using-intelligent-text-assistant/"><u>Crafting a Poetry Book Using Intelligent Text Assistant</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-home-efficiency-through-chatgpt-utilization/"><u>Empowering Home Efficiency Through ChatGPT Utilization</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-cracking-the-code-of-true-instagram-photos/"><u>In 2024, Cracking the Code of True Instagram Photos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-lenovo-thinkphone-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Lenovo ThinkPhone Phone Now with These Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-proven-subtitle-editors-the-comprehensive-top-10-list-online/"><u>In 2024, Proven Subtitle Editors – The Comprehensive Top 10 List (Online)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-in-cognitive-therapy-methods/"><u>Integrating ChatGPT in Cognitive Therapy Methods</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/which-bot-wins-gpt-plus-or-perplexity-face-off/"><u>Which Bot Wins? GPT Plus or Perplexity Face-Off</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-superior-visuals-leading-hdmi-21-monitors-for-ps5-gaming/"><u>[New] 2024 Approved Superior Visuals Leading HDMI 2.1 Monitors for PS5 Gaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-video-chapters-on-youtube-a-professionals-blueprint/"><u>[New] Perfecting Video Chapters on YouTube A Professional's Blueprint</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-excellent-free-webcam-video-snapper-app/"><u>[Updated] In 2024, Excellent Free Webcam Video Snapper App</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-gratis-business-presentation-boosting-plugins-and-templates/"><u>2024 Approved Gratis Business Presentation Boosting Plugins & Templates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-languages-easily-using-chatgpts-advanced-technology/"><u>Bridging Languages Easily Using ChatGPT’s Advanced Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-human-interaction-predicted-features-for-gpt-5/"><u>Enhancing Human Interaction: Predicted Features for GPT-5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/extracting-eroded-exchanges-from-gpt/"><u>Extracting Eroded Exchanges From GPT</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-tecno-spark-10-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Tecno Spark 10 5G online without jailbreak</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audiophile-tools-best-audio-interfaces-for-podcasters/"><u>In 2024, Audiophile Tools Best Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Google Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interfacing-gpt-technology-with-household-automation/"><u>Interfacing GPT Technology With Household Automation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/m2tsmtsavchd/"><u>M2TS/MTSファイルでAVCHD形式における音障害の考察と解決法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-macgpt-choices-the-smart-decision-guide/"><u>Making MacGPT Choices: The Smart Decision Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguard-digital-realm-stop-bot-harvesters/"><u>Safeguard Digital Realm: Stop Bot Harvesters</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-swagtron-swagger-electric-scooter-unveiled-combining-fashion-forward-design-with-efficient-travel/"><u>The Swagtron Swagger Electric Scooter Unveiled: Combining Fashion-Forward Design with Efficient Travel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-tech-truth-about-texting-with-snapchat-and-gpt/"><u>The Tech Truth About Texting with Snapchat & GPT</u></a></li>
 </ul></div>
 

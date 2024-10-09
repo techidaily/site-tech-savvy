@@ -1,7 +1,7 @@
 ---
 title: "Idea Wellspring: Harnessing GPT-3 with Mindmaps"
-date: 2024-10-02T18:46:52.182Z
-updated: 2024-10-04T00:16:50.550Z
+date: 2024-10-04T19:25:39.378Z
+updated: 2024-10-09T06:24:40.257Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/41ecffa399c4641eb478bbc9a56d686246cf56f42
  Its ability to analyze data and think outside the box makes it a handy tool for brainstorming ideas and successfully bringing them to life. So, let's look at how you can use a mind map and ChatGPT to brainstorm ideas.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Write Out Your Goals
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/41ecffa399c4641eb478bbc9a56d686246cf56f42
  Alternatively, you may [use Google Sheets to track and organize your goals](https://www.makeuseof.com/set-track-goals-in-google-sheets/). Write them down in as much detail as possible—this will help you manage your thoughts and keep everything in check when it's time to build your mind map. Then divide this into categories or branches or keywords as required.
 
 ![Set project goals with the SMART goals worksheet template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/AnyConvcom__Resized_Vertex42_SMART-Goals.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Smart Goals Template
 
@@ -77,10 +70,10 @@ Smart Goals Template
  Similarly, [Canva](https://www.canva.com/mind-maps/templates/) also offers several templates for creating mind maps using different colors, fonts, and shapes. These templates make it easy to create connections and view relationships between different ideas. Not only that, you can add notes of your own and follow a well-defined structure.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use Detailed Text Prompts in ChatGPT
@@ -92,10 +85,10 @@ Smart Goals Template
 ![ChatGPT responses to topic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/mi-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Such an approach can lead to a more thoughtful and creative exploration of ideas rather than a scattershot approach that may result in a jumble of disconnected concepts.
@@ -111,10 +104,16 @@ Smart Goals Template
  You can also ask, "What if we switched to producing Product X instead of Product Y?". Additionally, ask ChatGPT for freestyle suggestions to help build a more engaging conversation, and you can have unique and diverse perspectives on a topic.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Review, Refine, and Expand Your Ideas
@@ -122,6 +121,13 @@ Smart Goals Template
  ChatGPT can help you brainstorm with your team, refine your ideas, and expand on them using AI-generated insights.
 
 ![person writing a mind map on a whiteboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/person-writing-a-mind-map-on-a-whiteboard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. First, select a specific sub-topic or idea from the list of initial responses generated.
 2. Enter a relevant prompt or question into ChatGPT based on the sub-topic to get further responses, lists, or ideas.
@@ -170,16 +176,24 @@ Smart Goals Template
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/1716068816585-new-2024-approved-capture-share-enjoy/"><u>[New] 2024 Approved Capture, Share, Enjoy!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-lightning-fast-fileshare-on-windows-os/"><u>[Updated] Lightning-Fast Fileshare on Windows OS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-streamlining-windows-photos-with-customized-audio-and-visual-settings-for-2024/"><u>[Updated] Streamlining Windows Photos with Customized Audio & Visual Settings for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/drive-innovation-integrating-artificial-intelligence-in-car-modification/"><u>Drive Innovation: Integrating Artificial Intelligence in Car Modification</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hidden-capability-interact-with-ai-chatgpt/"><u>Hidden Capability: Interact with AI ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-delete-your-chatgpt-account/"><u>How to Delete Your ChatGPT Account</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-y100t-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo Y100t For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/seamless-youtube-editing-the-ultimate-finalcut-pro-guidebook-for-2024/"><u>Seamless YouTube Editing The Ultimate FinalCut Pro Guidebook for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-era-of-twitscams-ends-with-new-signatures/"><u>The Era of TwitScams Ends with New Signatures</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-enhancing-video-content-step-by-step-cropping-and-export-guide/"><u>2024 Approved Enhancing Video Content Step-by-Step Cropping & Export Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-civi-3-disney-100th-anniversary-edition-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Civi 3 Disney 100th Anniversary Edition to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/activate-chatgpt-widget-for-android-ease/"><u>Activate ChatGPT Widget for Android Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-product-showdown-ipad-pro-m4-vs-macbook-air-m3-which-wins/"><u>Apple Product Showdown: IPad Pro (M4) Vs. MacBook Air (M3), Which Wins?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-bots-top-9-reasons-for-choosing-chatgpt-plus/"><u>Boosting Bots: Top 9 Reasons for Choosing ChatGPT Plus</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-down-gopros-burst-capture-feature-for-2024/"><u>Breaking Down GoPro's Burst Capture Feature for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-the-workplace-differentiating-factors/"><u>ChatGPT in the Workplace: Differentiating Factors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forge-individualized-chatai/"><u>Forge Individualized ChatAI</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-hot-40-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Hot 40 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-bridge-the-gap-transferring-files-from-pc-to-ios/"><u>In 2024, Bridge the Gap Transferring Files From PC to iOS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-joint-creative-endeavors-between-brands-and-youtube/"><u>In 2024, Joint Creative Endeavors Between Brands & YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/painting-programmatically-gpt-driven-visual-creation/"><u>Painting Programmatically: GPT-Driven Visual Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-algorithms-be-your-new-investment-advisors/"><u>Should Algorithms Be Your New Investment Advisors?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stick-with-textual-interaction-or-embrace-extended-plugin-gpt/"><u>Stick with Textual Interaction or Embrace Extended Plugin GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-cap-on-chatgpt-tokens-how-high-can-it-reach/"><u>The Cap on ChatGPT Tokens: How High Can It Reach?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/table-video-popularity-tracker-in-youtube-arena-for-2024/"><u>Unbeatable Video Popularity Tracker in YouTube Arena for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-my-podcast-story-with-text-mentorship/"><u>Unveiling My Podcast Story with Text Mentorship</u></a></li>
 </ul></div>
 

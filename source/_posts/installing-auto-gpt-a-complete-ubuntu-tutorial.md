@@ -1,7 +1,7 @@
 ---
 title: "Installing Auto-GPT: A Complete Ubuntu Tutorial"
-date: 2024-09-29T19:55:50.992Z
-updated: 2024-10-03T22:53:15.110Z
+date: 2024-10-03T01:41:31.364Z
+updated: 2024-10-08T20:08:14.035Z
 tags:
   - chatgpt
   - open-ai
@@ -64,10 +64,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 `cd Auto-GPT`
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 1: Configure Auto-GPT on Ubuntu
@@ -83,10 +83,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Creating OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-get-api-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once copied, paste the key inside the **.env** file. The env file will store all the API keys that you use with Auto-GPT. If you don't need a backend vector database like Pinecone, your OpenAI API key should be enough to use Auto-GPT.
@@ -115,13 +115,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Install Auto-GPT requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-install-requirements.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, try running Auto-GPT using:
 
 `python3 -m autogpt`
@@ -129,10 +122,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
@@ -153,11 +146,25 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Auto-GPT manual mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-manual.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the name, goals, and role have been provided, your AI assistant will immediately activate and start looping through its thinking and execution process.
 
  Throughout the process, you can view your AI assistant's thoughts, reasoning, plan, criticism, and next action. Its next action will only be executed once you've given your approval.
 
 ![Input-Commands for Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-input-y.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can approve the AI's next action by typing "**y**" for yes. If you don't want the AI to continue with its plans, you can type "**n**" for no and exit.
 
@@ -180,13 +187,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  A big part of this problem was the AI’s inability to handle website ads, cookies, log-in pages, and pop-ups. It was likely caused by the fact that Auto-GPT is still in its early development phase.
 
  So for now, you should only use Auto-GPT as a way to play and experiment with AI assistants.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Auto-GPT Will Keep Getting Better and Better
 
@@ -213,18 +213,20 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-hd-screen-recorders-the-finest-titles/"><u>[New] Cutting-Edge HD Screen Recorders - The Finest Titles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-build-your-personal-brand-on-youtube/"><u>[Updated] 2024 Approved How to Build Your Personal Brand on YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-easy-tips-to-create-a-funny-meme-for-2024/"><u>[Updated] Easy Tips to Create a Funny Meme for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-quality-hero5-black-battery-packs-legit-and-third-party-options/"><u>[Updated] Top-Quality Hero5 Black Battery Packs - Legit & Third-Party Options</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-most-popular-free-soundtrack-sites-for-gamers/"><u>2024 Approved The Most Popular Free Soundtrack Sites for Gamers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-wi-fi-network-driver-solved-for-qualcomm-windows-11-compatibility/"><u>Atheros Wi-Fi Network Driver Solved for Qualcomm Windows 11 Compatibility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-marketing-strategies-through-innovative-cookiebot-solutions/"><u>Enhancing Your Marketing Strategies Through Innovative Cookiebot Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-tailored-results-through-cookiebot-integration/"><u>Experience Tailored Results Through Cookiebot Integration</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-f15-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy F15 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-cookiebot-technology-for-optimized-engagement/"><u>Harnessing the Power of Cookiebot Technology for Optimized Engagement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-data-extraction-the-role-of-retrieval-augmented-generation-in-abbyys-technology-suite/"><u>Innovating Data Extraction: The Role of Retrieval-Augmented Generation in ABBYY's Technology Suite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-document-scanning-and-conversion-utilize-finereader-pdfs-ocr-for-precise-pdfjpg-book-digitization/"><u>IPhone Document Scanning & Conversion: Utilize FineReader PDF's OCR for Precise PDF/JPG Book Digitization</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/separate-visual-elements-videos-to-pics-via-windows-10-photos/"><u>Separate Visual Elements Videos to Pics via Windows 10 Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-audio-integration-essential-tips-for-podcasters/"><u>[New] Pro Audio Integration Essential Tips for Podcasters</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-best-video-editor-for-vimeo/"><u>[Updated] In 2024, Best Video Editor for Vimeo</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-mastering-the-art-of-making-dormant-facebook-vids-pop-up-again/"><u>[Updated] In 2024, Mastering the Art of Making Dormant Facebook Vids Pop Up Again</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rising-from-hobbyist-to-leading-graphic-expert/"><u>[Updated] Rising From Hobbyist to Leading Graphic Expert</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-y36-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo Y36 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adaptive-technology-start-with-your-8-customized-models-now/"><u>Adaptive Technology: Start with Your 8 Customized Models Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-content-quality-with-chatgpt-a-comprehamendous-guide-for-innovation/"><u>Boosting Content Quality with ChatGPT - A Comprehamendous Guide for Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-made-better-in-chrome-discover-our-top-7-fixes/"><u>ChatGPT Made Better in Chrome: Discover Our Top 7 Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/join-openais-quest-track-and-report-software-glitches/"><u>Join OpenAI's Quest: Track and Report Software Glitches!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/make-friends-with-ai-at-bing-start-using-now-guide/"><u>Make Friends With AI at Bing: Start Using Now Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-gpt-capabilities-with-these-9-must-try-plugins/"><u>Maximize GPT Capabilities with These 9 Must-Try Plugins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modifying-reset-counter-for-locked-out-users-post-incorrect-logins/"><u>Modifying Reset Counter for Locked Out Users Post Incorrect Logins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-downgrade-in-gpts-intellectuality-claims-openai/"><u>No Downgrade in GPT's Intellectuality Claims OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-great-ai-debate-on-social-platforms/"><u>The Great AI Debate on Social Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-corsair-hs70-headset-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Corsair HS70 Headset Microphone</u></a></li>
 </ul></div>
 
