@@ -1,7 +1,7 @@
 ---
 title: The AI-Facilitated Journey of My Podcast Creation
-date: 2024-10-02T16:27:39.597Z
-updated: 2024-10-09T03:32:14.426Z
+date: 2024-10-09T19:21:55.533Z
+updated: 2024-10-15T04:56:05.417Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
  So, to frame a fresh discussion of ChatGPT, the podcast team (that’s me Christian Cawley, site editor-in-chief Ben Stegner, and Tech Explained editor Gavin Phillips) decided that it might be interesting to use the technology to script a podcast.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Integrating ChatGPT Into the Really Useful Podcast Format
 
  The Really Useful Podcast is a weekly mix of tech news that affects everyone (e.g. changes to social media, online security issues, new iPhone or Android updates, etc.), explainers, tips and tricks, and finally recommendations.
@@ -49,15 +56,22 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
  This risked making the end product sound very different to every other show, but it was worth it to find something to add to the list of [things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Limitations With ChatGPT’s Scriptwriting Abilities
 
 ![Script by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-script.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Finding ways to pose the instructions that would create a usable script revealed various limitations to ChatGPT.
 
@@ -66,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
  ChatGPT 3.5 is unsuitable for topical writing. It has been [trained on a dataset that contains material up to September 2021](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/), so the shortcoming here is obvious.
 
  For the Really Useful Podcast, this meant that the show’s news section would remain conversational. Instead, the introduction to the section would be created with ChatGPT.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. ChatGPT Doesn’t Quite Understand
 
@@ -84,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
  (Of course, ChatGPT cannot understand in the human sense of the word.)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. ChatGPT Does Not Recommend
 
  In order to mitigate legal claims, ChatGPT is not able to make recommendations. Indeed, upon the first request to “introduce a podcast section on recommending technology” it responded with:
@@ -98,19 +98,6 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-recommend-fail.jpg)
 
  Variations were attempted, but all resulted in largely the same response. Unperturbed, the recorded podcast featured a shortened version of this “script.”
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How the ChatGPT-Scripted Podcast Turned Out
 
@@ -160,6 +147,19 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
  The finished Really Useful Podcast can be listened to on [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), and you can subscribe on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-really-useful-podcast/id1437847131). To give you an idea of how the scripted sections turned out, I’ve edited them into a compressed edition.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Use ChatGPT to Write a Podcast?
 
  Having used ChatGPT to write as much of this podcast as possible, I’ve come to a few conclusions.
@@ -191,16 +191,17 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-essential-tools-top-8-mirrorless-cams-for-professional-filmmakers-for-2024/"><u>[Updated] Essential Tools Top 8 Mirrorless Cams For Professional Filmmakers for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premium-best-ten-spotifys-superior-recording-tools/"><u>[Updated] In 2024, Premium Best Ten Spotify's Superior Recording Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-gpt-benefits-in-absence-of-gpt-4/"><u>Auto-GPT Benefits in Absence of GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/converse-and-analyze-with-the-best-pdf-tools-powered-by-gpt/"><u>Converse and Analyze with the Best PDF Tools Powered by GPT</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-unrivaled-speed-with-apples-latest-innovation-the-imac-with-m1-chip/"><u>Experience Unrivaled Speed with Apple's Latest Innovation: The iMac with M1 Chip</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gain-superior-gpt-4-insights-on-the-lowest-investment-with-copilot/"><u>Gain Superior GPT-4 Insights on the Lowest Investment with Copilot</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-lava-yuva-3-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Lava Yuva 3 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-realme-narzo-n55-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Realme Narzo N55 is off? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-fitness-coaching-with-chatgpt-expertise/"><u>Optimize Fitness Coaching with ChatGPT Expertise</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ultimate-unboxing-logitechs-professional-4k-pro-webcam/"><u>Ultimate Unboxing Logitech's Professional 4K Pro Webcam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-vidvault-screen-recording-review-for-2efficiency-seekers/"><u>[New] 2024 Approved 'VidVault' Screen Recording Review for 2Efficiency Seekers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-become-a-videographer-essentials-of-recording-with-logitech/"><u>[New] 2024 Approved Become a Videographer Essentials of Recording with Logitech</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-sharing-tiktok-on-twitter-quickly/"><u>[Updated] In 2024, Sharing TikTok on Twitter Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adaptive-language-learning-via-chatgpt-plus-interface/"><u>Adaptive Language Learning via ChatGPT Plus Interface</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolution-which-professions-might-be-abolished/"><u>AI Revolution: Which Professions Might Be Abolished?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-podcasts-now-comes-with-live-transcript-capabilities-a-game-changer-in-audio-content-consumption-insights/"><u>Apple Podcasts Now Comes With Live Transcript Capabilities - A Game Changer in Audio Content Consumption | Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cyber-threat-alert-the-risky-side-of-google-bard-download/"><u>Cyber Threat Alert: The Risky Side of Google Bard Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-smooth-chatgpt-interactions-chrome-powered-solution/"><u>Dive Into Smooth ChatGPT Interactions - Chrome-Powered Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fools-errand-of-intelligent-machines-recognizing-ai-hallucination/"><u>Fool's Errand of Intelligent Machines: Recognizing AI Hallucination</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-gaming-console-picks-for-the-year-2024/"><u>Top Gaming Console Picks for the Year 2024</u></a></li>
 </ul></div>
 

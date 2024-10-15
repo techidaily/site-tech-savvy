@@ -1,7 +1,7 @@
 ---
 title: "1. Apple Enhances iCloud Functionality on Windows Platform: Exciting New Updates Revealed!"
-date: 2024-10-05T18:16:28.595Z
-updated: 2024-10-08T22:40:28.967Z
+date: 2024-10-09T11:47:07.459Z
+updated: 2024-10-15T04:50:01.216Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,6 +74,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -101,10 +115,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -118,10 +132,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -152,13 +166,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,22 +218,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-steps-to-acquire-free-picture-frame-videos/"><u>[New] Steps to Acquire Free Picture Frame Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-ninja-techniques-for-instagram-reels-for-2024/"><u>[Updated] The Ultimate Ninja Techniques for Instagram Reels for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-titans-clash-googles-gemini-vs-openais-chatgpt/"><u>AI Titans Clash: Google's Gemini Vs. OpenAI's ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-clutter-unwanted-application-removal-on-windows-11/"><u>Bypassing Clutter: Unwanted Application Removal on Windows 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-nintendo-switch-leading-portable-game-system-unveiled/"><u>Comprehensive Guide to the Nintendo Switch - Leading Portable Game System Unveiled</u></a></li>
-<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-alternative-intelligences-to-openais-sora/"><u>Explore Alternative Intelligences to OpenAI's Sora</u></a></li>
-<li><a href="https://blog-min.techidaily.com/fixing-handbrake-dvd-errors-step-by-step-guide-to-resolving-cannot-scan-dvd-titles/"><u>Fixing HandBrake DVD Errors: Step-by-Step Guide to Resolving 'Cannot Scan DVD Titles'</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guida-completa-alla-conversione-gratuita-di-dvd-in-formato-mp4-usando-winxdvd-su-windows-e-mac/"><u>Guida Completa Alla Conversione Gratuita Di DVD in Formato MP4 Usando WinXDVD Su Windows E Mac</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-realme-gt-neo-5-se-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Realme GT Neo 5 SE.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-uses-of-auto-gpt-in-business/"><u>Innovative Uses of Auto-GPT in Business</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/jestful-journey-through-tech-portable-computing-and-vpn-evolution/"><u>Jestful Journey Through Tech: Portable Computing & VPN Evolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/journey-through-openai-from-concept-to-creative-execution/"><u>Journey Through OpenAI: From Concept to Creative Execution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ai-landscapes-mastering-the-art-of-transfer-learning/"><u>Navigating AI Landscapes: Mastering the Art of Transfer Learning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-your-access-troubleshooting-chatgpt-errors/"><u>Unlocking Your Access: Troubleshooting ChatGPT Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voice-able-the-new-era-of-ai-and-vehicle-commands/"><u>VOICE-ABLE: The New Era of AI and Vehicle Commands</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y100-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y100 5G Phones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-social-sphere-spotlight-this-years-popular-tweets-for-2024/"><u>[New] The Social Sphere Spotlight This Year's Popular Tweets for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-examining-wirecasts-features-against-competitors/"><u>2024 Approved Examining WireCast's Features Against Competitors</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/cs-go-players-guide-fixing-no-user-logon-error-with-5-proven-techniques/"><u>CS GO Players Guide: Fixing No-User-Logon Error with 5 Proven Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-keyboard-inputs-to-sweet-emotions-creating-hearts-in-digital-messages/"><u>From Keyboard Inputs to Sweet Emotions: Creating Hearts in Digital Messages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-gptzero-to-expose-fake-digital-compositions/"><u>Harnessing GPTZero to Expose Fake Digital Compositions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-outsmart-youtube-sanctions/"><u>How to Outsmart Youtube Sanctions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-mobile-methods-download-gifs-from-twitter-on-devices/"><u>In 2024, Mobile Methods Download GIFs From Twitter on Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nine-new-dimensions-ai-altering-creative-processes/"><u>Nine New Dimensions: AI Altering Creative Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scripted-sagas-your-guide-to-chatgpt-roleplay-games/"><u>Scripted Sagas: Your Guide to ChatGPT Roleplay Games</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-upgrading-intel-uhd-graphics-software-for-windows-users/"><u>Step-by-Step Guide: Upgrading Intel UHD Graphics Software for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/weaving-tales-gpt-3-and-world-design/"><u>Weaving Tales: GPT-3 and World Design</u></a></li>
 </ul></div>
 

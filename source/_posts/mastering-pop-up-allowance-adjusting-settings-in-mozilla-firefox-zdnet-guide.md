@@ -1,7 +1,7 @@
 ---
 title: "Mastering Pop-Up Allowance: Adjusting Settings in Mozilla Firefox (ZDNet Guide)"
-date: 2024-09-17 16:20:17
-updated: 2024-09-20 10:52:32
+date: 2024-10-07T20:59:02.924Z
+updated: 2024-10-15T08:57:37.552Z
 tags:
   - work-life
 categories:
@@ -29,6 +29,13 @@ With the [Firefox](https://www.mozilla.org) browser, this is fairly easy to do. 
 
 **What you'll need:** The only thing you'll need is a running instance of Firefox on your desktop or laptop. I would suggest you make sure your version of Firefox is up to date (for security purposes). I'll demonstrate this on version 117.0 of the Firefox browser. That's it. Let's allow some pop-ups.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Firefox Settings
 
 The first thing to do is open Firefox. Once the browser is open, click the three-line menu button near the top right corner and, from the menu, click Settings.
@@ -36,6 +43,13 @@ The first thing to do is open Firefox. Once the browser is open, click the three
 Access the Firefox Settings window from the main menu.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Navigate to Permissions
 
@@ -65,6 +79,13 @@ Adding a pop-up exception in Firefox is quite simple.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to add a pop-up blocker exception: Method Two
 
 There's another method of allowing pop-ups for a site. Here's how.
@@ -80,6 +101,13 @@ In the resulting menu, click More Information.
 Accessing the pop-up blocker exception tool from the Firefox address bar.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Enable pop-ups
 
@@ -112,11 +140,27 @@ You can now close the Page Info pop-up and return to Firefox. At this point, the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-copycatting-charisma-making-ingenious-parodies-for-2024/"><u>[New] Copycatting Charisma Making Ingenious Parodies for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-social-score-best-tools-for-post-and-engagement/"><u>[New] Elevate Your Social Score Best Tools for Post and Engagement</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-complete-handbook-enhancing-productivity-using-mobizen-recorder/"><u>[Updated] 2024 Approved Complete Handbook Enhancing Productivity Using Mobizen Recorder</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-transitioning-from-standard-to-custom-thumbnails-in-twitter-videos/"><u>[Updated] 2024 Approved Transitioning From Standard to Custom Thumbnails in Twitter Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-dynamic-directionality-prime-phone-friendly-tripods/"><u>[Updated] In 2024, Dynamic Directionality Prime Phone-Friendly Tripods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-to-periscope-video-preservation/"><u>2024 Approved Step-by-Step Guide to Periscope Video Preservation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-newest-direct3d-version-with-a-smooth-download-process/"><u>Get Your Hands on the Newest Direct3D Version with a Smooth Download Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-chrome-how-to-update-easily/"><u>Google Chrome How to Update [Easily]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/graphics-processing/"><u>Graphics Processing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-activate-the-hidden-admin-account-on-windows-11-7-and-8-a-comprehensive-guide/"><u>How to Activate the Hidden Admin Account on Windows 11, 7 and 8: A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-a56s-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo A56s 5G?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-telegram-marketing-made-simple-for-those-just-starting-out/"><u>In 2024, Telegram Marketing Made Simple For Those Just Starting Out</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-activating-newly-redesigned-widget-tool/"><u>Step-by-Step Guide: Activating Newly Redesigned Widget Tool</u></a></li>
+</ul></div>
+

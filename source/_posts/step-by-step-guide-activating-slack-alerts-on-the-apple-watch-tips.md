@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating Slack Alerts on the Apple Watch - Tips"
-date: 2024-10-01T17:47:08.419Z
-updated: 2024-10-08T17:36:35.923Z
+date: 2024-10-09T20:29:09.654Z
+updated: 2024-10-15T10:00:12.751Z
 tags:
   - apple
 categories:
@@ -48,28 +48,28 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##   
@@ -82,16 +82,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -110,6 +110,19 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -140,13 +153,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -187,22 +193,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-trail-of-imagery-the-complete-user-manual-for-inverted-scans-in-instagram/"><u>[Updated] 2024 Approved Trail of Imagery The Complete User Manual for Inverted Scans in Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5ywo6z2i5a2457pluss6zu75b2x57eo6lyv5pon5l2c5rwb56il77ym6ycy6zqo54mi6ygg56il6kqy5acc6kej5rg65pa55qgi/"><u>全面學習電影編輯操作流程，進階版遠程課堂解決方案</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apng-png-movavi/"><u>線上APNG PNG自動化轉換工具 - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bu-tarafdan-dogru-olan-izmirdeki-sanat-giselerinin-farklilarin-ustesinden-basaricisi-bolumunun-nedeni-deger/"><u>Bu Tarafdan Doğru Olan İzmir'deki Sanat Gişelerinin Farklıların Üstesinden Başarıcısı Bölümünün Nedeni Değer</u></a></li>
-<li><a href="https://games-able.techidaily.com/budget-friendly-gaming-brilliance-our-selection-of-the-finest-1440p-displays/"><u>Budget-Friendly Gaming Brilliance: Our Selection of the Finest 1440P Displays</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convertir-audio-desde-gsm-a-wav-facilmente-sin-gastar-dinero-guia-para-convertidores-gratuitos-en-linea/"><u>Convertir Audio Desde GSM a WAV Fácilmente, Sin Gastar Dinero: Guía Para Convertidores Gratuitos en Línea</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/descargar-y-convertir-archivos-raf-sin-coste-con-movavi/"><u>Descargar Y Convertir Archivos RAF Sin Coste Con Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-best-of-2024-9-powerful-windows-compatible-tools-that-outshine-final-cut-pro/"><u>Discover the Best of 2024: 9 Powerful Windows-Compatible Tools That Outshine Final Cut Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enregistrez-vos-chansons-mp3-sous-webm-pour-la-diffusion-optimisee-sur-le-web-grace-a-movavi-service-gratuit-en-direct/"><u>Enregistrez Vos Chansons MP3 Sous WebM Pour La Diffusion Optimisée Sur Le Web Grâce À Movavi - Service Gratuit en Direct</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-x-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone X to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-quickrecorder-straightforward-screen-grabber/"><u>In 2024, QuickRecorder - Straightforward Screen Grabber</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-handbrake-suitable-for-encoding-av1-files-comprender-la-compatibilidad/"><u>Is HandBrake Suitable for Encoding AV1 Files? Comprender La Compatibilidad</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-downloading-content-from-tokyvideo/"><u>Step-by-Step Guide: Downloading Content From TokyVideo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-optimizing-video-size-for-seamless-streaming-on-discord-across-devices/"><u>Ultimate Guide: Optimizing Video Size for Seamless Streaming on Discord Across Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-elevate-your-aerial-artistry-best-drone-and-editor-match-ups-ranked/"><u>[New] In 2024, Elevate Your Aerial Artistry Best Drone & Editor Match-Ups Ranked</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-engage-and-captivate-with-these-top-tier-unpacked-vids-for-2024/"><u>[Updated] Engage and Captivate with These Top-Tier Unpacked Vids for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995690374-apex-legends-not-launching-discover-fast-track-fixes-here/"><u>Apex Legends Not Launching? Discover Fast-Track Fixes Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artistic-alchemy-at-play-top-imagery-ideas-by-ais-brilliance/"><u>Artistic Alchemy at Play: Top Imagery Ideas by AI's Brilliance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-enhanced-the-future-of-artificial-intelligence-powered-searches/"><u>Bing Enhanced: The Future of Artificial Intelligence-Powered Searches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-vpn-settings-optimize-chatgpt-interaction/"><u>Can VPN Settings Optimize ChatGPT Interaction?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparison-chart-gpt-4-and-gpt-35-divergences/"><u>Comparison Chart: GPT-4 & GPT-3.5 Divergences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-impact-of-vector-databases-on-ai-systems/"><u>Decoding the Impact of Vector Databases on AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogues-and-dynamics-ai-driven-techniques-for-engaging-video-game-scripts/"><u>Dialogues and Dynamics: AI-Driven Techniques for Engaging Video Game Scripts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-screenshot-solutions-reviewed-for-2024/"><u>Expert Screenshot Solutions Reviewed for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/five-ways-ai-streamlines-crypto-trading-strategies/"><u>Five Ways AI Streamlines Crypto Trading Strategies</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-itel-p40plus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Itel P40+ Devices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-xr-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone XR Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-setup-integrating-disneyplus-with-your-chromecast-for-perfect-playback/"><u>Mastering the Setup: Integrating Disney+ with Your Chromecast for Perfect Playback</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ize-your-youtube-impact-with-perfect-aspect-ratios/"><u>Maximize Your YouTube Impact with Perfect Aspect Ratios</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unveiling-the-most-compelling-ios-apps-for-psp-gaming/"><u>Unveiling the Most Compelling iOS Apps for PSP Gaming</u></a></li>
 </ul></div>
 

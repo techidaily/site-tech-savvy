@@ -1,7 +1,7 @@
 ---
 title: "New Horizons: Registering for Cutting-Edge Plugin Updates"
-date: 2024-10-02T07:07:11.333Z
-updated: 2024-10-08T22:39:20.129Z
+date: 2024-10-10T12:03:36.731Z
+updated: 2024-10-15T04:27:36.532Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can [sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on **Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -70,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 4. Click **Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -101,22 +101,19 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/15-simple-ways-to-integrate-gpt-into-workflow/"><u>15 Simple Ways to Integrate GPT Into Workflow</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-innovate-your-iphones-selfie-quality-the-10-best-free-apps/"><u>2024 Approved Innovate Your iPhone's Selfie Quality The 10 Best Free Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-kickstart-a-successful-charity-contest-via-social-media/"><u>2024 Approved Kickstart a Successful Charity Contest via Social Media</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-rise-to-the-top-livestreaming-on-youtube-no-matter-how-low-followers-are/"><u>2024 Approved Rise to the Top - Livestreaming on YouTube, No Matter How Low Followers Are</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-integral-applications-of-ai-for-digital-criminals/"><u>5 Integral Applications of AI for Digital Criminals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-online-tools-to-improve-your-prompt-engineering-skills/"><u>7 Online Tools to Improve Your Prompt Engineering Skills</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-new-neural-network-wonders-beyond-chatgpts-horizon/"><u>8 New Neural Network Wonders Beyond ChatGPT’s Horizon</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-easy-steps-to-mend-your-mobile-minds-chatgpt-issues/"><u>9 Easy Steps to Mend Your Mobile Mind's ChatGPT Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-superior-features-in-chatgpt-plus-membership/"><u>9 Superior Features in ChatGPT Plus Membership</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-to-multilingual-chatgpt-use/"><u>A Step-by-Step Guide to Multilingual ChatGPT Use</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/gopro-hero-vs-yi-4k-which-takes-the-prize-in-latest-tech/"><u>GoPro Hero Vs. Yi 4K Which Takes the Prize in Latest Tech?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a58-4g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A58 4G Phones with/without a PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy M34? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-13-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 13?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/is-av1-video-format-compatible-with-plex-streaming-platform/"><u>Is AV1 Video Format Compatible with Plex Streaming Platform?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721437336075-level-up-gaming-skills-with-these-top-chatgpt-games/"><u>Level Up Gaming Skills with These Top ChatGPT Games!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-distinct-features-of-auto-gpt-an-in-depth-look-compared-to-chatgpt/"><u>The Distinct Features of Auto-GPT: An In-Depth Look Compared to ChatGPT</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-spreading-smiles-building-a-solid-foundation-in-gif-humor/"><u>[Updated] In 2024, Spreading Smiles Building a Solid Foundation in GIF Humor</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cheap-but-powerful-video-editing-software-options/"><u>Cheap but Powerful Video Editing Software Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-strategies-and-techniques-everyone-should-know-when-playing-pokemon-go/"><u>Essential Strategies and Techniques Everyone Should Know When Playing 'Pokémon Go'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-passo-a-passo-cortando-bordas-em-videos-para-adicionar-um-contorno-preto/"><u>Guia Passo a Passo: Cortando Bordas Em Vídeos Para Adicionar Um Contorno Preto</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-stream-power-showdown-vmix-clashes-with-wirecast-for-broadcast-excellence/"><u>In 2024, Stream Power Showdown VMix Clashes with Wirecast for Broadcast Excellence</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovations-for-elevating-your-gopro-filmmaking-skills-for-2024/"><u>Innovations for Elevating Your GoPro Filmmaking Skills for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-thumbnail-design-tips-and-pitfalls-for-2024/"><u>Mastering the Art of Thumbnail Design Tips and Pitfalls for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/natures-edge-is-chatbot-support-crucial-for-survival/"><u>Nature's Edge: Is Chatbot Support Crucial for Survival?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-googles-ai-ambitions-an-exploration-of-gemini-project/"><u>Navigating Through Google's AI Ambitions – An Exploration of Gemini Project</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-mechanics-behind-bot-success-and-their-appeal/"><u>The Mechanics Behind Bot Success and Their Appeal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-chatbot-question-gpt-pluses-or-perplexities/"><u>The Ultimate Chatbot Question: GPT Pluses or Perplexities?</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-spark-20-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Spark 20 without backup.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-ais-purpose-prospects-and-pitfalls/"><u>Unraveling AI's Purpose, Prospects, and Pitfalls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-ais-role-in-propagating-fakes/"><u>Unraveling AI’s Role in Propagating Fakes</u></a></li>
 </ul></div>
 

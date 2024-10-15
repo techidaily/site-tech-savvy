@@ -1,7 +1,7 @@
 ---
 title: "Understanding VPNs: The Essential Guide to Their Functionality and Advantages - All Your Questions Addressed | ZDNET"
-date: 2024-09-18 23:20:36
-updated: 2024-09-20 12:26:18
+date: 2024-10-12T11:37:45.579Z
+updated: 2024-10-15T02:03:09.664Z
 tags:
   - vpn
 categories:
@@ -46,6 +46,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does a VPN work?
 
@@ -161,6 +168,13 @@ The second type of logging is more benign. VPN services that log bandwidth usage
 
 I have less of a concern with services that just monitor bandwidth usage, as long as they don't store any specifics. That said, we gave top marks to those services that don't do any logging. When I choose a VPN service, I avoid all logging.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is it legal to use a VPN?
 
 That depends. VPN use is legal in most countries, but, according to [VPN provider CyberGhost](https://blog.cyberghostvpn.com/en/countries-where-vpns-are-illegal/), VPN use is illegal in the United Arab Emirates, Turkey, China, Iran, North Korea, Saudi Arabia, [and Russia](https://www.zdnet.com/article/putin-bans-vpn-use-in-russia/). Vladimir Putin has recently banned VPN use in Russia. Also, be aware that the so-called [proxy server alternative to VPNs](https://www.zdnet.com/article/why-a-proxy-server-cant-protect-you-like-a-vpn-can/) is also illegal in many countries, which consider any form of IP spoofing to be illegal, not just those services labeled as VPNs.
@@ -172,6 +186,13 @@ Restrictions vary, as do penalties. [China allows certain approved VPNs](https:/
 Definitely research these laws before you visit a country. Many travelers mistakenly believe that just because they're not citizens, and all they're doing is linking back to a corporate system, they should be able to have unrestricted use of VPN software. This is a mistake.
 
 The bottom line is to check the laws of the country you're in before connecting. It's also a good idea to check with your VPN provider, both for insight into whether it knows if there are issues, and whether it'll support connectivity from the country you're visiting.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I need to use a VPN if my hotel has a wired internet connection?
 
@@ -206,6 +227,13 @@ Both Android and iOS come with basic VPN capabilities to allow you to connect to
 **Also: [The best VPN services for iPhone and iPad in 2024](https://www.zdnet.com/article/best-iphone-vpn/)**
 
 If you're connecting to web applications, like email or Facebook, you should consider using a VPN service -- particularly if you're connecting via an open Wi-Fi network. Most good VPN services offer both iOS and Android clients.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I need a VPN if I'm connecting my phone via LTE?
 
@@ -247,6 +275,13 @@ The second type of VPN kill switch is at the operating system level. These switc
 
 Given that so many [VPN products we reviewed in our directory](https://www.zdnet.com/article/best-vpn-services-for-2021-safe-and-fast-dont-come-for-free/) support a kill switch, we recommend choosing a client with this feature. There may be a slight annoyance if you lose your connection, but that's more than made up for in the added security.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do all those protocol names mean and which one should I choose?
 
 If you've been shopping for a VPN service, you've undoubtedly come across a bunch of terms like SSL, OpenVPN, SSTP, L2TP/IPSec, PPP, PPTP, IKEv2/IPSec, SOCKS5, and more. These are all communication protocols. They are, essentially, the name of the method by which your communication is encrypted and packaged for tunneling to the VPN provider.
@@ -277,6 +312,13 @@ VPNs do not seem to install as easily on the Meta Quest, and if you want a VPN o
 
 **Also: [Why you'll need a VPN for the Vision Pro (and other XR headsets)](https://www.zdnet.com/article/why-youll-need-a-vpn-for-the-vision-pro-and-other-xr-headsets/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When should I choose either dynamic or static IP?
 
 Every device connected to the public internet is assigned an IP address. It's like a phone number for each device. To be able to connect to the internet, each device needs such an address.
@@ -301,6 +343,13 @@ Most VPN services allow you to connect to server locations in many different cou
 
 Server switching is a feature -- offered by most VPN service providers -- that allows you to change what region or country you're going to connect to. Most providers allow you to switch as often as you'd like (although you usually have to disconnect, then change your configuration, and reconnect). This may be useful if you're trying to hide your location or if you're running into some communications glitches on the server you're currently using.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I use a VPN to spoof my location or country of origin?
 
 Because the VPN server you're connected to presents [its IP address](https://www.zdnet.com/article/why-a-proxy-server-cant-protect-you-like-a-vpn-can/) to whatever web application you're using, by choosing a server located in a different country, you can represent your connection as if you're in a different country. This may be illegal in certain regions, so use caution when doing this. 
@@ -324,6 +373,13 @@ In January 2018, Cisco Systems (a very highly respected maker of internet commun
 This is a bug in enterprise-level VPN systems used by corporations, so it's severe. Fortunately, responsible IT administrators could patch their systems to fix the bug. However, the incident goes to show how no system can be truly deemed absolutely secure.
 
 Another example was a [bug in Hotspot Shield](https://www.zdnet.com/article/privacy-flaw-in-hotspot-shield-can-identify-users-locations/), a popular VPN service. This bug allowed a hacker to expose private information, including originating IP addresses. Hotspot Shield issued an update, which gives us an excuse to remind you that you should always install updates, especially on your VPN client software.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who are the key players?
 
@@ -372,11 +428,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-top-30-inspirational-ideas-fusing-animated-themes-and-social-media/"><u>[New] In 2024, Top 30 Inspirational Ideas Fusing Animated Themes and Social Media</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-craft-a-vibrant-youtube-experience-with-tracks/"><u>[Updated] Craft a Vibrant Youtube Experience with Tracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-malware-navigating-a-new-technological-threat/"><u>ChatGPT & Malware: Navigating a New Technological Threat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-proofreading-partner/"><u>ChatGPT: Proofreading Partner?</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-marvel-gaming-experience-the-ultimate-guide-to-fixing-guardians-of-the-galaxy-on-pc/"><u>Elevate Your Marvel Gaming Experience - The Ultimate Guide to Fixing Guardians of the Galaxy on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-efficiency-with-auto-gpt-tools/"><u>Enhancing Efficiency with Auto-GPT Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-a15-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy A15 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-ai-top-desired-features-in-gpt-5/"><u>Next-Gen AI: Top Desired Features in GPT-5</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-camon-20-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Camon 20 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/step-by-step-guide-converting-ts-format-videos-into-playable-dvd-discs/"><u>Step-by-Step Guide: Converting TS Format Videos Into Playable DVD Discs</u></a></li>
+</ul></div>
+

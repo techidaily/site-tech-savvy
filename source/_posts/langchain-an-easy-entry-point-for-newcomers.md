@@ -1,7 +1,7 @@
 ---
 title: "LangChain: An Easy Entry Point for Newcomers"
-date: 2024-10-04T03:41:59.507Z
-updated: 2024-10-09T00:31:43.078Z
+date: 2024-10-11T04:45:48.129Z
+updated: 2024-10-15T10:27:00.710Z
 tags:
   - chatgpt
   - open-ai
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
  LangChain’s preprocessing method is a critical feature that is unavoidable as LLMs become more powerful and data-intensive. This method is mainly used in code and semantic search cases because it provides real-time collection and interaction with the LLMs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## LangChain LLM vs. Other Language Models
 
  The following comparative overview aims to highlight the unique features and capabilities that set LangChain LLM apart from other existing language models in the market:
@@ -62,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 * **Integration**: Integrating LangChain into your application is easy compared to other LLMs. It provides pipeline workflows through [chains](https://docs.langchain.com/docs/components/chains/chain) and [agents](https://docs.langchain.com/docs/components/agents/agent), allowing you to quickly incorporate LangChain into your application. In terms of linear pipelines, chains are objects that essentially connect numerous parts. Agents are more advanced, allowing you to choose how the components should interact using business logic. For instance, you might want to use conditional logic to determine the next course of action based on the results of an LLM.
 * **Data Passing**: Due to the general text-based nature of LLMs, it is usually tricky to pass data to the model. LangChain solves this problem by using [indexes](https://docs.langchain.com/docs/components/indexing/). Indexes enable an application to import data in variable formats and store it in a way that makes it possible to serve it row-by-row to an LLM.
 * **Responses**: LangChain provides output parser tools to give answers in a suitable format as opposed to other LLMs whose model response consists of general text. When using AI in an application, it is preferred to have a structured response that you can program against.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Getting Started With LangChain LLM
 
@@ -81,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
  The command above installs the packages and creates a virtual environment.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Import the Installed Dependencies
 
  First, import the necessary classes such as **LLMChain**, **OpenAI**, **ConversationChain**, and **PromptTemplate** from the **langchain** package.
@@ -99,10 +92,10 @@ from langchain.memory import ConversationBufferWindowMemory`
  The LangChain classes outline and execute the language model chains.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Access OpenAI API Key
@@ -112,6 +105,13 @@ from langchain.memory import ConversationBufferWindowMemory`
  On the dashboard, click on the Profile icon. Then, click the **View API keys** button.
 
 ![OpenAI API key dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-dashboard.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, click the **Create new secret key** button to get a new API key.
 
@@ -128,10 +128,16 @@ from langchain.memory import ConversationBufferWindowMemory`
  Copy and store the API key in a safe place for future use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Developing an Application Using LangChain LLM
@@ -199,18 +205,16 @@ print(output)`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-secrets-to-effortless-obs-broadcasts-on-fb-for-2024/"><u>[New] Secrets to Effortless OBS Broadcasts on FB for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-convenient-mobile-watch-enabledisable-picture-in-picture-in-youtube/"><u>[Updated] In 2024, Convenient Mobile Watch Enable/Disable Picture-In-Picture in YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-and-fast-download-the-logitech-rx250-driver-for-windows-os-versions-7810/"><u>Compatible & Fast: Download the Logitech RX250 Driver for Windows OS Versions (7/8/10)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/downloading-the-latest-nvidia-geforce-rtx-2text-truncated/"><u>Downloading the Latest NVIDIA GeForce RTX 2([Text Truncated])</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embarking-on-langchain-an-insiders-quick-tale/"><u>Embarking on LangChain: An Insider's Quick Tale</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hackers-motives-exploiting-chatgpt-technology/"><u>Hackers’ Motives: Exploiting ChatGPT Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-ios-transforms-your-daily-chatgpt-routine/"><u>How iOS Transforms Your Daily ChatGPT Routine</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-tecno-camon-20-pro-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Tecno Camon 20 Pro 5G FRP Without Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-microsoft-copilot-for-mac-users-installation-and-tips/"><u>Mastering Microsoft Copilot for Mac Users: Installation & Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-galaxy-s23-fe-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Galaxy S23 FE has been deleted</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-stop-windows-task-moving-apps/"><u>Strategies to Stop Windows Task Moving Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truthcoin-reliable-or-risky-venture/"><u>TruthCoin: Reliable or Risky Venture?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unverified-wisdom-why-you-shouldnt-trust-chatgpt-for-health/"><u>Unverified Wisdom: Why You Shouldn't Trust ChatGPT for Health</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-efficient-guide-image-conversion-to-professional-youtube-thumbnails/"><u>[New] Efficient Guide Image Conversion to Professional YouTube Thumbnails</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-cutting-edge-6-urban-designs-in-mc-for-2024/"><u>[Updated] Cutting-Edge 6 Urban Designs in MC for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ppro-full-screen-showcase-made-simple/"><u>[Updated] In 2024, PPro Full-Screen Showcase Made Simple</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-clandestine-way-exploring-insta-stories-on-tech-devices/"><u>[Updated] The Clandestine Way Exploring Insta Stories on Tech Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-tweaks-required-for-better-gpt-plugin-management/"><u>Essential Tweaks Required for Better GPT Plugin Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fantasy-fused-with-fact-leading-ai-trajectories/"><u>Fantasy Fused with Fact: Leading AI Trajectories</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-15-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 15 Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precision-in-patient-care-how-to-confirm-ai-health-advice/"><u>Precision in Patient Care: How to Confirm AI Health Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/setting-standards-for-smart-systems/"><u>Setting Standards for Smart Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stop-matching-siri-with-chatgpt-their-uniqueness-spotlighted/"><u>Stop Matching Siri with ChatGPT: Their Uniqueness Spotlighted</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-to-snapchat-video-opposites-for-2024/"><u>The Ultimate Guide to Snapchat Video Opposites for 2024</u></a></li>
 </ul></div>
 

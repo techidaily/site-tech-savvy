@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Success: Elite Leaders Reveal Crucial Professional Growth Strategies From 'Spin the Wheel'"
-date: 2024-09-17 12:58:33
-updated: 2024-09-20 12:54:39
+date: 2024-10-08T18:44:29.110Z
+updated: 2024-10-15T00:33:20.033Z
 tags:
   - work-life
 categories:
@@ -49,6 +49,13 @@ Jennings has spent two decades with the holiday firm. He says professionals who 
 
 "Don't just sit in once space forever doing one job," he says. "Move around consciously and get experience of different parts of the business, different technologies, different leadership styles -- it makes you a better and more rounded person. And then, wherever you end up in your career, you will do a better job."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Try and find contentment in the moment**
 
 Trustpilot CISO Stu Hirst has reached the top of the security profession but says it's important to make sure you don't push too hard, too quicky.
@@ -61,6 +68,13 @@ Hirst looks back to the early part of his career and says young professionals sh
 
 "I probably spent five or six years battling too hard to try and get to a level I thought I wanted to get to. I'd like to think that would have happened naturally anyway, but I don't know if I enjoyed some of the roles as much as I could have if I'd had a bit more contentment and just been willing to play the longer game a little bit."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **4\. Don't be afraid to spin the wheel**
 
 On the way to running data systems for one of the UK's biggest retailers, Barry Panayi, chief data and insight officer at John Lewis Partnership, has worked across a range of industries, companies and functions. Not all these moves were the right ones -- and he'd have strong advice for his younger self. 
@@ -70,6 +84,13 @@ On the way to running data systems for one of the UK's biggest retailers, Barry 
 Yet Panayi says even the worst parts of the path provided useful lessons, so he advises other professionals to reflect carefully on the tough times and embrace risk. 
 
 "I think if you enjoy variety, you're not always going to get it right. I would always continue to spin the wheel as opposed to playing it safe. I don't really see the point in playing it safe."
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **5\. Go beyond your current mindset**
 
@@ -82,6 +103,13 @@ Lisa Heneghan, global chief digital officer at consultancy firm KPMG, says she'd
 Heneghan encourages younger professionals to keep an open mind to the opportunities and challenges they find. Having good people around you to offer trusted advice is a crucial component for success. 
 
 "When I'm making decisions, I think 'what would I tell my daughters, what would I advise them to do?' Because sometimes I think we make decisions without thinking the options through. We limit ourselves and I would encourage young people to be open to different things. I think that's a very good mindset to have."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **6\. Learn from everyone, even the bad managers**
 
@@ -112,11 +140,28 @@ Ed Higgs, group director of IT shared services at Rentokil Initial, says -- apar
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-key-10-efficient-online-subtitle-editors/"><u>[Updated] Key 10 Efficient Online Subtitle Editors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-trifecta-for-instagram-video-borders/"><u>2024 Approved The Ultimate Trifecta for Instagram Video Borders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808158168-asus-aura-desktop-themes-and-skins-for-windows-1011-download-now/"><u>ASUS AURA Desktop Themes & Skins for Windows 10/11: Download Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-of-these-9-counterfeit-chatgpt-threats-that-risk-your-personal-data/"><u>Beware of These 9 Counterfeit ChatGPT Threats That Risk Your Personal Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808097950-do-you-need-a-vpn-yes-you-do-heres-why/"><u>Do You Need a VPN? Yes, You Do. Here’s Why.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-epson-xp-640-printer-driver-in-windows/"><u>How to Install the Latest Epson XP-640 Printer Driver in Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/implementing-instagram-story-opinion-polls-effectively-for-2024/"><u>Implementing Instagram Story Opinion Polls Effectively for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolving-desynchronization-issues-with-handbrake-tutorials/"><u>Resolving Desynchronization Issues with Handbrake Tutorials</u></a></li>
+<li><a href="https://win-special.techidaily.com/simple-techniques-for-converting-mp3-files-into-wma-format/"><u>Simple Techniques for Converting MP3 Files Into WMA Format</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-undisclosed-secrets-to-growth-on-social-media-for-2024/"><u>The Undisclosed Secrets to Growth on Social Media for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-removing-fortnites-lag-free-edits-proven-solutions/"><u>Ultimate Guide: Removing Fortnite's Lag-Free Edits – Proven Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-walkthrough-running-kodi-on-windows-10-systems/"><u>Ultimate Walkthrough: Running Kodi on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/update-drivers-in-windows-11-easily-and-quickly/"><u>Update Drivers in Windows 11. Easily & Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-10-visual-recall-a-step-by-step-screenshot-tutorial/"><u>Windows 10 Visual Recall: A Step-by-Step Screenshot Tutorial</u></a></li>
+</ul></div>
+

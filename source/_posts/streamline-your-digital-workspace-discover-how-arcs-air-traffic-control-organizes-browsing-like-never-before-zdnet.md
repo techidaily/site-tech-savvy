@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Digital Workspace: Discover How Arc's 'Air Traffic Control' Organizes Browsing Like Never Before | ZDNet"
-date: 2024-09-19 22:11:37
-updated: 2024-09-20 10:58:15
+date: 2024-10-13T00:37:23.498Z
+updated: 2024-10-15T04:57:01.234Z
 tags:
   - work-life
 categories:
@@ -33,9 +33,23 @@ Let me show you how it works.
 
 **What you'll need:** The only thing you'll need for this is an installed and updated version of Arc browser on either MacOS or Windows (please, Browser Company, build a Linux version of Arc). I'll demonstrate this using Arc version 1.5.8.1 on MacOS 14.6.1.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Arc Settings
 
 Open Arc browser and then open the Settings window (on MacOS, that's Arc > Settings).
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Open Air Traffic Control
 
@@ -44,6 +58,13 @@ In the Settings window, click the Links tab at the top, scroll to the bottom of 
 There are plenty of settings you can tweak here.
 
 Jack Wallen\\ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Create a new Route
 
@@ -82,11 +103,28 @@ Air Traffic Control is one of the best tab management features I've seen, since 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/fixed-snipping-tool-not-working-on-windows-1111/"><u>[Fixed] Snipping Tool Not Working on Windows 11/11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-breaking-barriers-in-drone-races-and-top-5-innovative-fpv-units/"><u>[Updated] In 2024, Breaking Barriers in Drone Races & Top 5 Innovative FPV Units</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unveiling-future-frontiers-in-metaverse-with-top-8-gear/"><u>[Updated] In 2024, Unveiling Future Frontiers in Metaverse with Top 8 Gear</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-champions-of-3d-spatial-displays/"><u>2024 Approved Champions of 3D Spatial Displays</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-exploring-snapchats-spotlight-feature-deeply/"><u>2024 Approved Exploring Snapchat's Spotlight Feature Deeply</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-login-validation/"><u>2024 Approved Mastering YouTube Login Validation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fix-hardware-acceleration-issues-for-windows/"><u>Fix Hardware Acceleration Issues for Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-overcome-the-problem-when-itunes-cannot-communicate-with-your-iphone/"><u>How to Overcome the Problem When iTunes Cannot Communicate with Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-uninstall-windows-10-and-downgrade-to-windows-7-or-windows-81-quickly-and-easily/"><u>How to Uninstall Windows 10 and Downgrade to Windows 7 or Windows 8.1, Quickly and Easily!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-update-windows-11-drivers-if-you-cant-find-them-on-manufacturers-website/"><u>How to Update Windows 11 Drivers if You Can't Find Them on Manufacturer's Website</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-gaming-experience-tips-for-increasing-frames-per-second-fps-in-rust/"><u>Optimize Your Gaming Experience: Tips for Increasing Frames Per Second (FPS) in Rust</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007839860-resident-evil-village-mastering-steady-gameplay-on-your-gaming-pc-fps-stabilized/"><u>Resident Evil Village - Mastering Steady Gameplay on Your Gaming PC, FPS Stabilized</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-resolving-the-causes-behind-dragon-age-origins-unstable-performance-in-windows-n-based-computers/"><u>Understanding and Resolving the Causes Behind Dragon Age: Origins' Unstable Performance in Windows N-Based Computers</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: 2023 Unveiled
-date: 2024-10-04T02:19:24.424Z
-updated: 2024-10-08T21:46:27.970Z
+date: 2024-10-12T02:36:36.740Z
+updated: 2024-10-15T03:14:17.441Z
 tags:
   - apple
 categories:
@@ -48,19 +48,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 ## **iPhone App of the Year**:
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [AllTrails](https://apps.apple.com/us/app/alltrails-hike-bike-run/id405075943) from AllTrails, Inc.
 
 Sabrina Ortiz/ZDNET
@@ -77,6 +64,13 @@ The AllTrails app helps connect people of all different athletic backgrounds and
 When searching for a trail, the app considers all your needs, including whether it has to be kid, stroller, dog, or wheelchair friendly. It also provides other specifics about trails, including user-generated trail reviews, different map views, trail previews, weather conditions, and GPS directions to help you pick the perfect trail. 
 
 Then, once you select a route, it helps you stay on course with your planned course. The app also has fitness tracking and community-building elements to encourage meeting your fitness goals. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **iPad App of the Year**:
 
@@ -98,6 +92,13 @@ Another standout feature is that the sketch's lighting responds to the screen's 
 The app is free to download but requires a subscription fee of $8.99 per month or $63.99 per year for unlimited access. 
 
 ## **Mac App of the Year**:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Photomator](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fphotomator-by-pixelmator-team%2Fid1444636541&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899517522%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=DMpWpBcuhJZbtbR8P5%2FANu2dbiat6%2FS5pgtbjBwZ6Cs%3D&reserved=0) from UAB Pixelmator Team
 
@@ -133,14 +134,14 @@ Another standout feature from MUBI is that, unlike other popular streaming platf
 
 The film selection is vast, ranging from rare indie films to classics. Although the app is free to download, a subscription fee starting at $12.99 a month is required to start streaming. If interested in trying the app, there is a seven-day free trial. 
 
-## **Apple Watch App of the Year:**
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## **Apple Watch App of the Year:**
 
 ### [SmartGym](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fsmartgym-gym-home-workouts%2Fid922744883&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899529611%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=bLrFbo2GWv4HJT%2BWTuY%2BCAggvbj8Xdp6k4RGRgG%2FkK4%3D&reserved=0) from Mateus Abras
 
@@ -157,13 +158,6 @@ The app is free to download, but the free version only gets you access to two ro
 
 ## **iPhone Game of the Year:**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Honkai: Star Rail](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fhonkai-star-rail%2Fid1599719154&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899536411%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b23p3w1sKl9J7JMGfbD3gOHrKMcnd%2Btvn5Lnzala6Sg%3D&reserved=0) from COGNOSPHERE PTE. LTD.
 
 Sabrina Ortiz/ZDNET
@@ -178,13 +172,20 @@ One of the biggest standouts of this app is the immersive role-playing experienc
 Even if -- like me -- you are not big into gaming, the app is so intuitive to use that upon picking it up, I found myself quickly understanding what to do and was even able to win a battle with an opponent. The graphics on the game are so impressive that once immersed, you may not want to put it down. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **iPad Game of the Year:**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Lost in Play](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flost-in-play%2Fid6449434958&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899541995%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0oPPE2cRfhafEBvSf1cU1xkz2q%2FOh05%2Bx7GMX1pKbAU%3D&reserved=0), from Snapbreak Games
 
@@ -197,20 +198,13 @@ Lost in Play is a free game following the storyline of a brother and sister on a
 
 While playing, users will help them get home by solving unique puzzles and mini-games. The hand-crafted cartoon style of the gameplay, similar to animated shows from childhood, makes it a game for people of all ages, invoking nostalgia for adults and entertainment for children. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Mac Game of the Year:**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Lies of P](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flies-of-p%2Fid6459738231%3Fmt%3D12&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899548181%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vK%2FJQ7BraKmUU550%2Bcggsy8CfE%2BvSbodTk3LppI7prU%3D&reserved=0), from NEOWIZ
@@ -224,14 +218,14 @@ Lies of P is a roleplaying game in which the user plays a puppet created by Gepe
 
 Apple originally spotlighted Lies of P for the game's smooth gameplay and the storyline's dark, alternative twist on the classic childhood tale The Adventures of Pinocchio. To play the game, you have to pay the full game cost upfront of $59.99\. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Apple Arcade Game of the Year:**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Hello Kitty Island Adventure](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fhello-kitty-island-adventure%2Fid1553505132&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899553812%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=xI09Qn9yJ7RiAmQwgV3zEDVHB%2FisuPX5Y80VnpW4kYI%3D&reserved=0), from Sunblink
 
@@ -263,10 +257,16 @@ To ease parents' other concerns, the app doesn't have any paywalls or advertisem
 It is free to download; however, it requires a subscription after the seven-day trial ends. The subscription cost is $6.99 per month or $45.99 a year. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [**Proloquo**](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fproloquo%2Fid1521978238&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899565260%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=kIkjMFhZ77sZscxfA2SkKM6fyDJ5HHUGhvLJnoNfzg0%3D&reserved=0) **from AssistiveWare**
@@ -361,21 +361,15 @@ To highlight the trend of the year, App Store Editors highlighted a collection o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-fb-live-guide-audiences-for-2024/"><u>[New] FB Live Guide Audiences for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-roadmap-to-identifying-niche-luminaries-on-instagram/"><u>[New] The Roadmap to Identifying Niche Luminaries on Instagram</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-mastering-youtube-titulos-con-algoritmos-for-2024/"><u>[Updated] Mastering YouTube Títulos Con Algoritmos for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-for-transforming-fragments-into-lasting-memories/"><u>[Updated] The Ultimate Guide for Transforming Fragments Into Lasting Memories</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-8-free-instagram-to-mp4-converters-you-can-try-onlinewindowsmac/"><u>2024 Approved 8 Free Instagram to MP4 Converters You Can Try [Online/Windows/Mac]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-msresourceappname-text-glitch-win11-fix/"><u>Addressing 'MsResource/AppName Text' Glitch, Win11 Fix</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-code-why-writers-prefer-human-interaction/"><u>Beyond the Code: Why Writers Prefer Human Interaction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-revolutionizes-your-study-notes-strategy/"><u>ChatGPT Revolutionizes Your Study Notes Strategy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-unveiled-a-familys-perspective/"><u>ChatGPT Unveiled: A Family's Perspective</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/engaging-with-fortnites-latest-season-an-exciting-new-chapter-in-the-battle-royale-universe/"><u>Engaging with Fortnite's Latest Season: An Exciting New Chapter in the Battle Royale Universe</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-how-to-resolve-plugged-in-but-not-charging-issue-on-pcs-running-windows-710/"><u>Fixes and Solutions: How to Resolve 'Plugged In but Not Charging' Issue on PCs Running Windows 7/10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-12-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 12? Heres the Best Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-compelling-youtube-thumbnails/"><u>Leveraging AI for Compelling YouTube Thumbnails</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-data-management-top-4-ai-export-apps/"><u>Revolutionize Your Data Management - Top 4 AI Export Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-operational-dynamics-of-ai-at-edge-devices/"><u>Understanding the Operational Dynamics of AI at Edge Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-gpt-self-driven-tech-distinct-from-chatgpts-model/"><u>Unraveling GPT Self-Driven Tech: Distinct From ChatGPT’s Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-natural-language-processing-forefront-ai-vs-chatgpt/"><u>Beyond Natural Language Processing: Forefront AI Vs ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-chatgpt-capabilities/"><u>Demystifying ChatGPT Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discourse-dissection-unveiling-the-ai-dialogue-divide-between-gpt-and-bingbot/"><u>Discourse Dissection: Unveiling the AI Dialogue Divide Between GPT and BingBot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-life-with-chatgpts-health-innovations/"><u>Enhancing Your Life with ChatGPT’s Health Innovations</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-engaging-vlogger-subjects-each-day/"><u>In 2024, Engaging Vlogger Subjects Each Day</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-video-growth-booster-top-seo-tools-uncovered/"><u>In 2024, Video Growth Booster – Top SEO Tools Uncovered</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/quick-and-efficient-guide-preserve-your-dvds-without-compromising-quality-in-just-five-minutes/"><u>Quick and Efficient Guide: Preserve Your DVDs Without Compromising Quality – In Just Five Minutes!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/silent-input-device-windows-mystery/"><u>Silent Input Device - Windows Mystery</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/splitcam-review-does-it-reign-supreme-in-video-tech-for-2024/"><u>SplitCam Review Does It Reign Supreme in Video Tech for 2024</u></a></li>
 </ul></div>
 

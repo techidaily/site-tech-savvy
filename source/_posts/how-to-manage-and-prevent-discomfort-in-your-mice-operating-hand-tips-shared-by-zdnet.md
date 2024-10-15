@@ -1,7 +1,7 @@
 ---
 title: How to Manage and Prevent Discomfort in Your Mice-Operating Hand – Tips Shared by ZDNet
-date: 2024-09-18 21:10:29
-updated: 2024-09-20 10:48:30
+date: 2024-10-12T03:46:17.925Z
+updated: 2024-10-15T02:56:47.485Z
 tags:
   - work-life
 categories:
@@ -43,6 +43,13 @@ Simple, cheap, and non-invasive.
 
 I almost always work seven days a week, so if I had to declare a wrist sick day, there was usually no real problem. After all, almost everyone is entitled to a day off once or twice a year. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Not this time 
 
 Unfortunately, not this time. This time I had a deliverable due on Wednesday and I had to get it done. Worse, this time my wrist hurt a bit worse than on previous occasions. I was honestly somewhat worried. 
@@ -54,6 +61,13 @@ To meet my obligation and still care for my wrist, I turned to a combination of 
 In this article, I'm going to first talk about my work-practice changes, and then discuss the resources I used to support those changes. 
 
 Let's go. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Narrow the focus 
 
@@ -95,6 +109,13 @@ And, again, check with your doctor. This works for me, but it's best to check wi
 
 I also took Extra Strength Tylenol and Aleve, following the package directions. Obviously, check with your doctor before using any medication. I am neither a doctor nor do I play one on TV, so get real advice from someone with a medical clue. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Take breaks 
 
 The article I had to write wasn't all that big, roughly 1,200 words or so. Unfortunately, it was on a technical, fairly obscure topic, so it required a lot of research. 
@@ -108,6 +129,13 @@ I kept this up for 15 minutes of mousing and 30 minutes of resting practice for 
 I try to remember that I'm not supposed to mouse or move my wrist during the break times. I keep it on that ice pack. That means no Facebook or doom scrolling during the off time. 
 
 I contented myself with watching streaming car shows on the big screen, using the heck out of my [MotorTrend+ subscription](https://www.motortrend.com/plus/). 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Gear up 
 
@@ -159,11 +187,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-inverting-iphone-video-order/"><u>[New] Step-by-Step Inverting iPhone Video Order</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-art-of-making-videos-go-viral-on-tiktok-with-these-quotes-for-2024/"><u>[New] The Art of Making Videos Go Viral on TikTok with These Quotes for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-essential-guide-for-cost-free-google-meet-management-for-2024/"><u>[New] The Essential Guide for Cost-Free Google Meet Management for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-from-roots-to-refined-rogues-journey-through-genres/"><u>[Updated] 2024 Approved From Roots to Refined Rogue's Journey Through Genres</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unveiling-the-hidden-pathways-to-earning-on-youtube/"><u>2024 Approved Unveiling the Hidden Pathways to Earning on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-claude-and-gpt-for-household-assistance/"><u>AI Showdown: Claude & GPT for Household Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-limits-gpts-hidden-potentials/"><u>Bypassing Limits: GPT's Hidden Potentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-the-course-for-safe-ai-ceos-regulatory-plea/"><u>Charting the Course for Safe AI: CEO’s Regulatory Plea</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-balanced-meal-prep-mastery/"><u>ChatGPT for Balanced Meal Prep Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-indicators-when-opting-for-bot-services/"><u>Critical Indicators When Opting for Bot Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-chatgpt-now-with-gpt-4-integration/"><u>Elevate Your ChatGPT Now with GPT-4 Integration</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-cpu-alternatives-to-boost-laptop-functionality/"><u>Exploring CPU Alternatives to Boost Laptop Functionality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-building-a-robust-brand-partnership-portfolio-on-youtube/"><u>In 2024, Building a Robust Brand Partnership Portfolio on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-create-captivating-videos-with-free-intros/"><u>In 2024, Create Captivating Videos with Free Intros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mi-drones-sky-views-unveiled-in-full-hd-quality-check/"><u>In 2024, Mi Drone's Sky Views Unveiled in Full HD Quality Check</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magical-voice-change-tools-for-efficient-calls/"><u>Magical Voice Change Tools for Efficient Calls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-character-conception-with-gpt-artificial-intelligence/"><u>Pioneering Character Conception with GPT, Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pro-tips-on-selecting-quality-computer-hardware-from-toms-authoritative-site/"><u>Pro Tips on Selecting Quality Computer Hardware From Tom's Authoritative Site</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-implications-of-paperclips-for-ai-progression/"><u>Understanding the Implications of Paperclips for AI Progression</u></a></li>
+</ul></div>
+

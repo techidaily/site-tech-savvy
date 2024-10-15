@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Development: CodeGPT + VS Code"
-date: 2024-10-05T00:05:52.515Z
-updated: 2024-10-08T20:28:29.224Z
+date: 2024-10-10T00:13:44.739Z
+updated: 2024-10-15T00:44:09.552Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
  Click on it and paste your API key on the prompt that appears. Save it by pressing **Enter**. Finally, reload VS Code to start using CodeGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Generating Code With CodeGPT
 
  To demonstrate the CodeGPT code generation feature, you will create a calculator app using Python.
@@ -73,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 ![CodeGPT generating code from a comment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-comment-code-generation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can then copy and paste the code into your script. This method is not tidy as the response has text on it.
@@ -137,19 +144,19 @@ else:
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  CodeGPT will explain what the code does on the chat window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Documenting Your Code Using CodeGPT
@@ -178,19 +185,6 @@ def divide(x, y):
 
  These are clear and correct inline comments.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Understanding How Generative AI Works
 
  CodeGPT utilizes the power of generative AI for all its features. It may not always provide the correct information. Hence, you need to counter-check whether its results are correct. Understanding how generative AI works will help you become familiar with its strengths and weaknesses.
@@ -214,22 +208,22 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-7-essential-gif-creation-techniques/"><u>[New] 7 Essential GIF Creation Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-eliminating-frame-discrepancies-in-obs-recordings/"><u>[New] In 2024, Eliminating Frame Discrepancies in OBS Recordings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-master-windows-11-a-treasure-trove-of-undisclosed-features/"><u>[New] Master Windows 11 A Treasure Trove of Undisclosed Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-million-stakes-in-gemini-context-altering-paradigm/"><u>$1 Million Stakes in Gemini: Context Altering Paradigm</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-million-tokens-revolution-in-gemini-context/"><u>$1 Million Tokens Revolution in Gemini Context</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/13-top-tools-automated-email-crafting-with-chatgpt/"><u>13 Top Tools: Automated Email Crafting with ChatGPT</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-filming-techniques-for-high-quality-facebook-video-content/"><u>2024 Approved Filming Techniques for High-Quality Facebook Video Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/3-innovative-ways-to-use-chatgpt-for-excellent-excel-results/"><u>3 Innovative Ways to Use ChatGPT for Excellent Excel Results</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-reasons-you-shouldnt-blindly-trust-artificial-intelligence/"><u>6 Reasons You Shouldn't Blindly Trust Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-gpt-3s-new-browsers-and-plugins/"><u>A Deep Dive Into GPT-3's New Browsers & Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-approach-to-chatgpt-with-iphones-siri/"><u>A Step-by-Step Approach to ChatGPT with iPhone's Siri</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-live-streaming-tools-master-your-videos-with-manycam-and-virtual-webcams/"><u>Best Live Streaming Tools: Master Your Videos with ManyCam and Virtual Webcams</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-a54-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy A54 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exclusive-android-3d-video-enthusiasts-choice/"><u>Exclusive Android 3D Video Enthusiasts' Choice</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-qn55q6f-smart-tv-review/"><u>Samsung QN55Q6F Smart TV Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721433735521-secrets-of-openais-program-find-and-fix-computing-blunders/"><u>Secrets of OpenAI's Program: Find and Fix Computing Blunders!</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/windows-1011dvdwmv/"><u>Windows 10/11対応：劣化無く、素早いDVDからWMVへの変換方法</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-picture-perfect-prose-exploring-apps-for-image-text-edits/"><u>[New] Picture Perfect Prose Exploring Apps for Image Text Edits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-overview-of-du-recorders-technical-specifications/"><u>[New] Ultimate Overview of Du Recorder’s Technical Specifications</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-prime-valorant-video-thumbnails-on-youtube/"><u>[Updated] Crafting Prime Valorant Video Thumbnails on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-three-techniques-to-preserve-discord-live-streams/"><u>2024 Approved Mastering Three Techniques to Preserve Discord Live Streams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-creativity-unintended-consequences/"><u>Artificial Creativity: Unintended Consequences?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-output-with-chatgpt-strategy-tips/"><u>Boosting Output with ChatGPT Strategy Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-europes-ai-law-how-will-it-shape-future-of-ai-like-chatgpt/"><u>Deciphering Europe’s AI Law: How Will It Shape Future of AI Like ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-your-dream-job-with-ai-help/"><u>Discover Your Dream Job with AI Help</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-workflow-expert-tips-on-integrating-chatgpt-in-daily-life/"><u>Elevate Your Workflow: Expert Tips on Integrating ChatGPT in Daily Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-6-behemoths-vast-scale-data-model-summit/"><u>Elite 6 Behemoths: Vast-Scale Data Model Summit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expedite-engagement-with-llm-and-chatbots-using-quoras-poe/"><u>Expedite Engagement with LLM & Chatbots Using Quora's PoE</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-disparate-pixels-constructing-splendid-imagery-weaves/"><u>From Disparate Pixels Constructing Splendid Imagery Weaves</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/funnyfilmmaker-quick-comic-creation/"><u>FunnyFilmMaker Quick Comic Creation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-wireless-charger-not-functioning-here-are-7-remedies-to-check-out/"><u>IPhone's Wireless Charger Not Functioning? Here Are 7 Remedies To Check Out</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-resistance-top-8-compelling-arguments-for-embracing-ai-in-teaching/"><u>Overcoming Resistance: Top 8 Compelling Arguments for Embracing AI in Teaching</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-troubleshooting-of-nspr-(a-href(httpswwwgooglecomsearchqnspr4pluserror)error)-missing-or-not-found-dll(a)/"><u>Step-by-Step Troubleshooting of Nspr <a href=<https://www.google.com/search?q=Nspr4+error>Error>: Missing or Not Found DLL</A></u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-sound-changes-in-ps-console-games/"><u>The Ultimate Guide to Sound Changes in PS Console Games</u></a></li>
 </ul></div>
 

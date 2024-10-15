@@ -1,7 +1,7 @@
 ---
 title: "Creating Your Own DIY Camera Obscura: A Step-by-Step Guide for Safe Solar Eclipse Viewing | TechBlog"
-date: 2024-09-17 20:48:47
-updated: 2024-09-20 10:13:47
+date: 2024-10-10T13:37:27.468Z
+updated: 2024-10-14T23:01:33.828Z
 tags:
   - yard-outdoors
 categories:
@@ -68,11 +68,40 @@ The Govee Permanent Outdoor Lights 2 are available for purchase right now. The 5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-htc-vive-redefining-virtual-playtime-with-unmatched-immersion/"><u>[New] HTC Vive Redefining Virtual Playtime with Unmatched Immersion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-essentials-of-monetization-youtube-policy-update/"><u>[New] In 2024, The Essentials of Monetization YouTube Policy Update</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-live-stream-perfection-ranking-the-best-recorder-gadgets-in-tech/"><u>[Updated] 2024 Approved Live Stream Perfection Ranking the Best Recorder Gadgets in Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-locate-inexpensive-deals-on-gopro-cameras-near-you/"><u>[Updated] Locate Inexpensive Deals on GoPro Cameras Near You</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-step-by-step-instruction-loading-windows-movie-maker-60-for-2024/"><u>[Updated] Step-by-Step Instruction Loading Windows Movie Maker 6.0 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/el-mastery-leverage-customizable-description-templates-for-more-followers/"><u>Channel Mastery Leverage Customizable Description Templates for More Followers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-the-past-the-inception-of-ai/"><u>Charting the Past: The Inception of AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-interviews-enhancing-your-prep-game/"><u>ChatGPT & Interviews: Enhancing Your Prep Game</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-a-well-balanced-meal-plan-via-ai-insights/"><u>Crafting a Well-Balanced Meal Plan via AI Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-public-speaking-with-these-ai-helpers/"><u>Elevate Your Public Speaking with These AI Helpers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inter-app-playlist-exchange-made-simple-for-2024/"><u>Inter-App Playlist Exchange Made Simple for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mislead-no-more-recognize-real-and-rigged-chatgpt-apps/"><u>Mislead No More: Recognize Real and Rigged ChatGPT Apps!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/neural-networks-defended-against-inversion/"><u>Neural Networks Defended Against Inversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peeking-behind-ais-curtain-black-box-dynamics/"><u>Peeking Behind AI's Curtain: Black Box Dynamics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfecting-your-novels-cast-the-most-effective-gpt-techniques/"><u>Perfecting Your Novel's Cast: The Most Effective GPT Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/reviewing-the-powerful-stanley-j5c09-large-scale-capability-meets-quality-craftsmanship/"><u>Reviewing the Powerful Stanley J5C09 – Large-Scale Capability Meets Quality Craftsmanship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/talk-tech-titles-exploring-the-distinctions-between-gpt-and-bings-bot-dialogues/"><u>Talk Tech Titles: Exploring the Distinctions Between GPT & Bing's Bot Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-bottom-line-on-chatgpt-as-an-earnings-engine/"><u>The Bottom Line on ChatGPT as an Earnings Engine</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/transform-your-mobile-browser-with-crystal-clear-videos/"><u>Transform Your Mobile Browser with Crystal-Clear Videos</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

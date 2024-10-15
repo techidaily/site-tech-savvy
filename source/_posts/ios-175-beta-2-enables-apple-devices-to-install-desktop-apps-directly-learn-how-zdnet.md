@@ -1,7 +1,7 @@
 ---
 title: IOS 17.5 Beta 2 Enables Apple Devices to Install Desktop Apps Directly - Learn How! | ZDNet
-date: 2024-10-04T02:19:07.374Z
-updated: 2024-10-08T19:09:39.843Z
+date: 2024-10-12T08:02:35.775Z
+updated: 2024-10-15T10:12:15.184Z
 tags:
   - apple
 categories:
@@ -85,18 +85,18 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best refurbished Apple Watch deals of July 2024
 
 * [Apple Watch Series 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Cellular-Aluminum-Regular%2Fdp%2FB09Q4KVHGB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a783dab-2262-4395-aac4-05a12166dd23%7Cdtp&dtb=1) (41mm, Clover Sport Band, Renewed): $220 (save $295)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -104,9 +104,23 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best Apple watch?
 
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do Apple Watches track my AFib?
 
@@ -126,6 +140,13 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Apple watches have the new double tap feature?
 
 Apple's newest releases, the Watch Series 9 and the Watch Ultra 2 both feature the new finger tap capability. Apple formally refers to this as the "double tap gesture," and with it users can easily control either watch with just one hand and without touching the display. Users can tap the index finger and thumb of their watch hand together twice to quickly perform many of the most common actions.
@@ -136,23 +157,9 @@ Apple offers several band options that are included with their watches, some dep
 
 Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loop, Solo Loop, Braided Solo Loop, and more. Apple and other retailers offer tons of bands made of differing materials in a multitude of colors and designs as well. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are there any alternative smartwatches worth considering?
 
 The Apple watch models are not the only options for smart watches, despite their popularity. ZDNET rounded up the [best smartwatch deals](https://www.zdnet.com/article/best-black-friday-and-cyber-monday-smartwatch-deals-still-available/) so you can scope more alternative deals, including the Fitbit Versa 4, Fitbit Luxe, Google Pixel Watch, Samsung Galaxy Watch 6, and more. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What does "trade-in" mean?
 
@@ -161,13 +168,6 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -213,24 +213,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-a-concise-guide-to-speedy-mac-screen-capture-for-2024/"><u>[New] A Concise Guide to Speedy Mac Screen Capture for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-journey-to-immersive-storytelling-with-ios-and-vr/"><u>[New] Journey to Immersive Storytelling with IOS and VR</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-review-unveiling-the-potential-of-vidma-capture-tech-for-2024/"><u>[Updated] Review Unveiling the Potential of Vidma Capture Tech for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-grasp-the-art-of-steadiness-in-photography/"><u>2024 Approved Grasp the Art of Steadiness in Photography</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-the-sound-barrier-gpts-quintuple-ascent-to-fame/"><u>Breaking the Sound Barrier: GPT's Quintuple Ascent to Fame</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-love-lines-a-modern-approach-to-mates/"><u>ChatGPT Love Lines: A Modern Approach to Mates</u></a></li>
-<li><a href="https://facebook.techidaily.com/checking-the-legitimacy-of-fbs-safety-mail-address-securityfbcom/"><u>Checking the Legitimacy of FB's Safety Mail Address: security@fb.com</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/did-you-know-you-can-speak-to-chatgpt/"><u>Did You Know You Can Speak to ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficient-time-use-with-chatgpts-4-techniques/"><u>Efficient Time Use with ChatGPT's 4 Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-overlooked-gpt-features-for-innovative-dialogue/"><u>Essential, Overlooked GPT Features for Innovative Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-latency-leap-from-gpt-35-to-chatgpt-4/"><u>Exploring the Latency Leap: From GPT-3.5 to ChatGPT-4</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-for-research-and-essays/"><u>How to Use ChatGPT for Research and Essays</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-x-fold-2-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo X Fold 2 Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ranking-the-least-expensive-yet-effective-ais-like-sora/"><u>Ranking the Least Expensive, Yet Effective AIs Like Sora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-dev-workflow-with-ai/"><u>The Future of Dev Workflow with AI</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-troubleshoot-helldivers-2-pc-issues/"><u>Ultimate Guide to Troubleshoot Helldivers 2 PC Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/windows-11-startup-problems-solved-easy-fix-for-non-responsive-menus/"><u>Windows 11 Startup Problems Solved – Easy Fix for Non-Responsive Menus</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-successful-strategies-to-elevate-audience-numbers-on-youtube-shorts/"><u>[New] 2024 Approved Exploring Successful Strategies to Elevate Audience Numbers on YouTube Shorts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-essential-guide-to-tracking-igtv-viewership-metrics/"><u>[New] In 2024, The Essential Guide to Tracking IGTV Viewership Metrics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-techniques-to-realize-time-bending-scenes/"><u>[New] Techniques to Realize Time-Bending Scenes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-10-ios-videos-premier-iphone-and-ipad-players/"><u>2024 Approved Top 10 iOS Videos Premier iPhone & iPad Players</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-demystified-how-it-stacks-up-to-chatgptplus/"><u>Claude Pro Demystified: How It Stacks Up to ChatGPT+</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-steps-to-enjoy-mkv-movies-and-more-on-your-xbox-360-console/"><u>Easy Steps to Enjoy MKV Movies and More on Your Xbox 360 Console</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioned-visions-painting-with-chatgpt-and-ai-magic/"><u>Envisioned Visions: Painting with ChatGPT & AI Magic</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-pova-6-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Pova 6 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-amplify-content-with-free-audio-samples/"><u>In 2024, Amplify Content with Free Audio Samples!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-into-grok-ai-from-elon-musk-purpose-functionality-and-costing-details/"><u>Insight Into Grok AI From Elon Musk - Purpose, Functionality & Costing Details</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-enthusiasts-meet-your-new-chatbuddy/"><u>IOS Enthusiasts, Meet Your New ChatBuddy</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-s24-ultra-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy S24 Ultra – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-chatgpt-access-roadblocks/"><u>Navigating Through ChatGPT Access Roadblocks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-ai-markets-for-creativity-exchange/"><u>Prime AI Markets for Creativity Exchange</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/renewable-energy-cant-replace-fossil-fuels-overnight/"><u>Renewable Energy Can't Replace Fossil Fuels Overnight</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-narzo-n55-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme Narzo N55</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-introduction-bavarder-on-linux-systems/"><u>Swift Introduction: Bavarder on Linux Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitter-strips-emojis-linuss-secrets-exposed-trojan-threats-unveiled-and-chatbot-pitfalls/"><u>Twitter Strips Emojis, Linus's Secrets Exposed, Trojan Threats Unveiled, & ChatBot Pitfalls.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Tecno Phantom V Flip? | Dr.fone</u></a></li>
 </ul></div>
 

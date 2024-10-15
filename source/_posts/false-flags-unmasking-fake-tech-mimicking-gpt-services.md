@@ -1,7 +1,7 @@
 ---
 title: "False Flags: Unmasking Fake Tech Mimicking GPT Services"
-date: 2024-10-03T05:06:21.591Z
-updated: 2024-10-09T03:42:27.648Z
+date: 2024-10-13T23:04:25.163Z
+updated: 2024-10-14T16:07:05.837Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -43,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
  The domain is promoted by “Chat GPT AI,” a popular ChatGPT-themed Facebook page, a page that frequently posts about ChatGPT and [OpenAI’s Jukebox](https://www.makeuseof.com/what-is-openai-jukebox-ai-music/). The posts often contain links to malicious domains, including openai-pc-pro.online.
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. chat-gpt-pc.online
 
@@ -64,29 +64,30 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. AI Photo
@@ -98,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -143,21 +137,14 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-ig-tik-combined-expertise-for-smooth-integration/"><u>[New] IG-Tik Combined Expertise for Smooth Integration</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-pixels-in-a-tap-iphone-and-androids-best-skin-editors/"><u>[New] Perfect Pixels in a Tap IPhone & Android's Best Skin Editors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pioneering-pixels-select-the-leading-video-editors-for-big-sur/"><u>[New] Pioneering Pixels Select the Leading Video Editors for Big Sur</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-professional-approach-to-convert-webp-images-to-jpeg/"><u>[New] Professional Approach to Convert WebP Images to JPEG</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-best-beams-microphones-for-education/"><u>[Updated] Best Beams Microphones for Education</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-superior-obs-configurations-budget-edition/"><u>[Updated] Superior OBS Configurations - Budget Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-prime-array-of-unplugged-digital-pastimes/"><u>2024 Approved Prime Array of Unplugged Digital Pastimes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/does-ai-like-chatgpt-have-wordcharacter-count-boundaries/"><u>Does AI, Like ChatGPT, Have Word/Character Count Boundaries?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-digital-dialogue-to-printed-poetry-collections/"><u>From Digital Dialogue to Printed Poetry Collections</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gamifying-language-text-based-quests-via-chatgpt/"><u>Gamifying Language: Text-Based Quests via ChatGPT</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-plugin-integration/"><u>Mastering ChatGPT Plugin Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-truth-behind-grok-ai-insights-from-musk-on-its-purpose-and-price/"><u>The Truth Behind Grok AI - Insights From Musk on Its Purpose & Price</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-unreliable-shield-of-artificative-intelligence/"><u>The Unreliable Shield of Artificative Intelligence</u></a></li>
-<li><a href="https://article-tips.techidaily.com/tying-iphone-videos-in-seamless-bundles-for-2024/"><u>Tying IPhone Videos in Seamless Bundles for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-shortcomings-of-ai-powered-message-bots/"><u>Unveiling the Shortcomings of AI-Powered Message Bots</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/arning-through-youtube-partnerships/"><u>[New] Earning Through YouTube Partnerships</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-hues-harmony-an-editors-guide-to-perfect-grading/"><u>[New] In 2024, Hues Harmony An Editor's Guide to Perfect Grading</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-tier-emulators-for-gba-games-on-android/"><u>[New] Top-Tier Emulators for GBA Games on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-personalization-tailoring-user-experience-with-smart-data-tracking/"><u>Cookiebot-Enabled Personalization: Tailoring User Experience with Smart Data Tracking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-optimize-your-website-with-advanced-tracking-and-personalization/"><u>Cookiebot-Enabled: Optimize Your Website with Advanced Tracking and Personalization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-optimizing-your-site-with-advanced-tracking-technology/"><u>Cookiebot-Enabled: Optimizing Your Site with Advanced Tracking Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-optimizing-your-site-with-cutting-edge-technology/"><u>Cookiebot-Enabled: Optimizing Your Site with Cutting-Edge Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-upside-down-monitor-situation/"><u>Resolving Upside-Down Monitor Situation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-editing-10-free-fcpx-plugin-must-haves/"><u>Revolutionize Your Editing 10 Free FCPX Plugin Must-Haves</u></a></li>
 </ul></div>
 

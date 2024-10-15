@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Work Success: Top 5 Tips From Industry Experts as Featured on ZDNet"
-date: 2024-09-18 21:56:23
-updated: 2024-09-20 11:35:12
+date: 2024-10-08T18:54:19.444Z
+updated: 2024-10-15T07:15:14.075Z
 tags:
   - work-life
 categories:
@@ -51,6 +51,13 @@ Of course, not every company will be as flexible. Carruthers suggested pushing b
 
 "Now that there are more hybrid or flexible approaches to work, our research suggests companies with more restrictive approaches will struggle to recruit. So, push back."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create flexible guidelines
 
 Craig Donald, CIO at The Football Association (The FA), is another business leader who said it's tough when managers issue a return-to-the-office decree. 
@@ -71,6 +78,13 @@ Donald said empathetic conversations begin when issues become apparent -- and th
 
 "Is the communication happening? Are we seeing any failures from that lack of communication? And if we're seeing that, that's where the conversation starts."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Develop a great place to work
 
 Nic Granger, director of corporate and CFO at North Sea Transition Authority (NSTA), said her organization gives people the freedom to make choices within an established framework.
@@ -86,6 +100,13 @@ Granger said NSTA's hybrid strategy is part of a wider approach to work. The exe
 "We deliver through our people, so apart from using specific partners on technology projects, we don't bring in huge numbers of consultancies," she said. 
 
 "If you have people on your team who don't enjoy working for your organization, they won't stay long. Create a great place to work and live those values."
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Listen to your colleagues
 
@@ -106,6 +127,13 @@ In these situations, he encourages everyone to communicate.
 "It's all about active listening and having a conversation, not just listening to respond. Try to understand the other person's point of view and then try to find a compromise," said Richardson.
 
 "As a manager, you might discover your employee has a good reason why they need to be in the office less and then you can try to find a sensible solution. Listening and communicating is the best advice I can give."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Take a democratic approach
 
@@ -144,11 +172,25 @@ He said these strong results are being delivered by a hybrid workforce, which pr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unleashing-potential-gopro-karmas-journey/"><u>[Updated] In 2024, Unleashing Potential GoPro Karma's Journey</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-navigating-the-world-of-tiktok-video-mastery-with-mac-tools-for-2024/"><u>[Updated] Navigating the World of TikTok Video Mastery with Mac Tools for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-eq-through-ais-perspective-on-social-dynamics/"><u>Enhance EQ Through AI's Perspective on Social Dynamics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-future-of-web-search-bings-ai-on-android-and-ios/"><u>Explore the Future of Web Search: Bing's AI on Android & iOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/immerse-in-innovation-the-ultimate-vr-gear-guide/"><u>Immerse in Innovation - The Ultimate VR Gear Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-precision-steps-for-hassle-free-ipad-and-iphone-recordings/"><u>In 2024, Precision Steps for Hassle-Free iPad & iPhone Recordings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-your-star-wars-movie-marathon-the-perfect-viewing-order-on-disneyplus/"><u>Master Your 'Star Wars' Movie Marathon: The Perfect Viewing Order on Disney+</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-ai-regulation-determining-the-stakeholders-in-controlling-artificial-intelligence/"><u>Navigating Through AI Regulation: Determining the Stakeholders in Controlling Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rethinking-auto-gpt-in-absence-of-gpt-4/"><u>Rethinking Auto-GPT in Absence of GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-data-in-gpt-based-communication/"><u>Safeguarding Data in GPT-Based Communication</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-race-for-excellence-comparing-gemini-and-chatgpt/"><u>The Race for Excellence: Comparing Gemini and ChatGPT</u></a></li>
+</ul></div>
+

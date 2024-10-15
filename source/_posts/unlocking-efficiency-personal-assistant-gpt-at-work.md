@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Efficiency: Personal Assistant GPT at Work"
-date: 2024-10-03T17:18:01.730Z
-updated: 2024-10-08T22:24:45.262Z
+date: 2024-10-09T13:11:40.608Z
+updated: 2024-10-15T08:00:56.592Z
 tags:
   - chatgpt
   - open-ai
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 
  Tip: Avoid giving long-winded and complicated instructions to get the best results. Keep each request as simple and as straightforward as possible.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Ask ChatGPT for Writing Assistance
 
  ChatGPT is not just a task manager; it’s also a versatile writing assistant. Whether you need help crafting a compelling email, polishing a report, or generating creative content, ChatGPT can lend a virtual hand.
@@ -65,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
  In this prompt, we asked ChatGPT for resume writing assistance in [creating a one-page resume](https://www.makeuseof.com/create-one-page-resume/). We used the prompt: “Can you help me create a resume summary? Let me know what details you need.”
 
 ![interacting with chatgpt to help write a resume summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t185502-413.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We added “Let me know what details you need” in our prompt to help ChatGPT come up with the best answer. ChatGPT gives results based on what it knows. If you want the outcome to be more specific, provide it with solid information.
 
@@ -95,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 * “Summarize the key points from the email thread about \[subject\] so I can quickly catch up.”
 * “Can you suggest a follow-up email template for when a client expresses interest in our product?”
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Ask ChatGPT to Assist You in Gaining New Skills and Expertise
 
  Masterclasses, courses, and certifications are now available online. But if you need a more personalized approach, you can ask ChatGPT to teach you one-on-one, like a virtual tutor.
@@ -109,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
  ChatGPT can give you insights across disciplines and help you dive into new technologies or concepts. In the example below, we asked it to discuss [HIPAA privacy](https://www.makeuseof.com/search/?q=hipaa). It gave us a summary of the federal law, focusing on the most critical points.
 
 ![conversation with ChatGPT about HIPAA privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t190351-135.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As of this writing, ChatGPT can provide information up to its last knowledge update in September 2021\. [Forbes](https://www.forbes.com.au/news/innovation/chatgpt-removes-september-2021-knowledge-cutoff/) reports that Open AI will soon remove the knowledge cut-off restriction for all users. However, the timeline for this update is still unclear.
 
@@ -127,16 +127,10 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 * "Can you teach me how to \[skill\]?"
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Ask ChatGPT for Personalized Recommendations
@@ -149,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 
 ![conversation with ChatGPT asking for sitcom recommendations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t191243-497.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We used the following prompt for this example: “I want to watch a good sitcom this weekend. I enjoyed Friends and The Big Bang Theory. Can you give other recommendations?” ChatGPT gave ten sitcoms that fit our bill for a good weekend laugh.
 
  Other prompts to try:
@@ -158,19 +159,6 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 * “I’m planning a vacation to \[destination\]. Can you recommend some must-visit attractions and activities?”
 
  Tip: ChatGPT is designed to understand and respond to natural language queries, so feel free to communicate with it conversationally.
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Say Hello to Your Personal Assistant, ChatGPT
 
@@ -197,20 +185,22 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-from-pantry-to-fame-tiktoks-culinary-stars/"><u>[New] From Pantry to Fame TikTok's Culinary Stars</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-premium-15-ultra-mobile-video-devices-for-2024/"><u>[New] Premium 15 Ultra-Mobile Video Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-virtual-set-masterclass-learning-filmmaking-online/"><u>[Updated] The Virtual Set Masterclass Learning Filmmaking Online</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tiktoks-toptwitter-tweets-amassing-views-for-2024/"><u>[Updated] TikTok's #TopTwitter Tweets Amassing Views for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-photo-grandeur-with-our-best-grid-apps-list/"><u>2024 Approved Photo Grandeur with Our Best Grid Apps List</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-brilliance-of-huawei-p20-pro-a-balanced-blend-of-fantastic-camera-and-solid-performance/"><u>Exploring the Brilliance of Huawei P20 Pro: A Balanced Blend of Fantastic Camera and Solid Performance</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-realitys-new-horizons-analyzing-metaverse-and-omniverse-worlds/"><u>In 2024, Reality's New Horizons Analyzing Metaverse and Omniverse Worlds</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-m4-versus-macbook-air-m3-a-detailed-review-and-contrast-of-specs/"><u>IPad Pro M4 Versus MacBook Air M3: A Detailed Review and Contrast of Specs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-world-of-chatgpt-shared-linking/"><u>Navigating the World of ChatGPT Shared Linking</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-improvements-in-windows-11s-share-options-by-microsoft/"><u>New Improvements in Windows 11'S Share Options by Microsoft</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-exporting-your-personalized-gpt-responses/"><u>Strategies for Exporting Your Personalized GPT Responses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trio-of-tech-titans-compared-gpt-microsofts-ai-googles-bard/"><u>Trio of Tech Titans Compared: GPT, Microsoft's AI, Google's Bard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uniting-tech-giants-apples-siri-and-microsoft-writes/"><u>Uniting Tech Giants: Apple's Siri & Microsoft' Writes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-claude-2-and-what-can-you-do-with-it/"><u>What Is Claude 2 and What Can You Do With It?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/workplace-implications-of-using-chatgpt-the-legal-landscape/"><u>Workplace Implications of Using ChatGPT: The Legal Landscape</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-nurturing-discussions-strategies-to-connect-with-followers-for-2024/"><u>[New] Nurturing Discussions Strategies to Connect With Followers for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-elevate-your-visuals-with-hdr-written-in-the-stars-hdr/"><u>2024 Approved Elevate Your Visuals with HDR' Written in the Stars (HDR)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-showdown-snapchat-vs-chatgpt/"><u>Artificial Intelligence Showdown: Snapchat vs ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/behind-the-scenes-generating-podcast-content-via-chatgpt-an-episode-breakdown/"><u>Behind-the-Scenes: Generating Podcast Content via ChatGPT – An Episode Breakdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-swings-for-gaming-optical-or-mechanical/"><u>Choosing Swings for Gaming: Optical or Mechanical?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/convenient-and-quality-passport-images-top-free-tools-listed-here-for-2024/"><u>Convenient & Quality Passport Images - Top Free Tools Listed Here for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-a-better-day-4-innovative-ways-chatgpt-aids-planning/"><u>Crafting a Better Day: 4 Innovative Ways ChatGPT Aids Planning</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elitemac-hd-video-and-sound-recordist-for-2024/"><u>EliteMac HD Video & Sound Recordist for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-words-to-books-chatgpt-as-your-creative-ally/"><u>From Words to Books: ChatGPT as Your Creative Ally</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminating-imagery-pro-level-tips-for-spectacular-photos-for-2024/"><u>Illuminating Imagery Pro-Level Tips for Spectacular Photos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-speaking-and-listening-to-create-better-decks/"><u>In 2024, Speaking and Listening to Create Better Decks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-time-stamping-your-photos/"><u>In 2024, The Ultimate Guide to Time-Stamping Your Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-in-a-new-era-of-ai-control-openais-vision/"><u>Leading in a New Era of AI Control: OpenAI's Vision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-emoji-tweets-on-twitter-linuss-insight-revealed-trojans-explained-and-chatgpt-concerns-addressed/"><u>No Emoji Tweets on Twitter, Linus's Insight Revealed, Trojans Explained, & ChatGPT Concerns Addressed.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/palm-2-vs-gpt-4-unveiling-key-differences/"><u>PaLM 2 Vs. GPT-4: Unveiling Key Differences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-8-gpt-prompts-for-minimizing-tech-related-distractions/"><u>Prime 8 GPT Prompts for Minimizing Tech-Related Distractions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tracking-chatgpts-health-today/"><u>Tracking ChatGPT's Health Today</u></a></li>
 </ul></div>
 

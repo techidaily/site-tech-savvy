@@ -1,7 +1,7 @@
 ---
 title: "Data-Driven Discourse: Your Own AI Model Blueprints"
-date: 2024-10-07T19:21:37.816Z
-updated: 2024-10-08T18:01:05.539Z
+date: 2024-10-08T19:29:39.305Z
+updated: 2024-10-15T13:07:10.198Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
 
  Now that you understand the importance of providing custom data to ChatGPT, here's a step-by-step on how to do so on your local computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 1: Install and Download Software and Pre-Made Script
 
  Please note the following instructions are for a Windows 10 or Windows 11 machine.
@@ -50,35 +57,22 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
 * **Download:**[Git](https://git-scm.com/downloads) (Free)
 * **Download:**[Microsoft Visual Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) (Free)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Python3 and Microsoft C++ Installation Notes
 
  When installing Python3, make sure that you tick the **Add python.exe to PATH** option before clicking **Install Now**. This is important as it allows you to access Python in any directory on your computer.
 
 ![Adding Python to PATH](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/1-download-python.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When Installing Microsoft C++, you'll want to install **Microsoft Visual Studio Build Tools** first. Once installed, you can tick the **Desktop development with C++** option and click **Install** with all the optional tools automatically ticked on the right sidebar.
 
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
 
@@ -88,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
 
 ![Downloading Python script on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-download-script.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once downloaded, we can now set up a local environment.
 
 ## Step 2: Set Up the Local Environment
@@ -102,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
  To set up the environment, you'll need to open a terminal in the chatgpt-retrieval-main folder you downloaded. To do that, open **chatgpt-retrieval-main** folder, right-click, and select **Open in Terminal**.
 
 ![Opening terminal on directory folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-open-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the terminal is open, copy and paste this command:
 
@@ -113,6 +107,13 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Creating secret API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/generate-api-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will be provided with a string of characters. This is your OpenAI API key. Copy it by clicking on the copy icon on the side of the API key. Keep note that this API key should be kept secret. Do not share it with others unless you really intend for them to use it with you.
 
  Once copied, return to the chatgpt-retrieval-main folder and open constants with **Notepad**. Now replace the placeholder with your API key. Remember to save the file!
@@ -120,26 +121,26 @@ pip install langchain openai chromadb tiktoken unstructured
 ![Adding API key as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-api-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you have successfully set up your virtual environment and added your OpenAI API key as an environment variable. You can now provide your custom data to ChatGPT.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 3: Adding Custom Data
 
  To add custom data, place all your custom text data in the **data** folder within chatgpt-retrieval-main. The format of the text data may be in the form of a PDF, TXT, or DOC.
 
 ![Adding custom data for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-data.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on [AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/), and a PDF document.
 
@@ -156,13 +157,6 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
  To test if we have successfully fed ChatGPT our data, I'll ask a personal question regarding the **Personal Sched.txt** file.
 
 ![Testing ChatGPT with custom data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/visit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It worked! This means ChatGPT was able to read the Personal Sched.txt provided earlier. Now let's see if we have successfully fed ChatGPT with information it does not know due to its knowledge cutoff date.
 
@@ -203,24 +197,21 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-capture-your-screen-on-chromebook-methods-4-you-for-2024/"><u>[New] Capture Your Screen on Chromebook Methods 4 You for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-understanding-facebook-story-algorithms-how-to-optimize-for-success/"><u>[Updated] Understanding Facebook Story Algorithms How to Optimize for Success</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-lifelike-livestreaming-should-streamers-trust-softwares-or-systems/"><u>2024 Approved Lifelike Livestreaming Should Streamers Trust Softwares or Systems?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-no-fuss-streaming-technique-for-podcasts/"><u>2024 Approved No-Fuss Streaming Technique for Podcasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-reasons-why-companies-are-banning-chatgpt/"><u>5 Reasons Why Companies Are Banning ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-costless-comparables-to-openais-sora-model/"><u>6 Costless Comparables to OpenAI's Sora Model</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-dive-into-nvidias-customizable-creativity-engine/"><u>A Dive Into NVIDIA's Customizable Creativity Engine</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cool-down-with-arctic-freezers-36-cooling-systems-your-ideal-partner-for-upcoming-intel-arrow-lake-and-socket-lga1851-processors/"><u>Cool Down with Arctic Freezers 36 Cooling Systems - Your Ideal Partner for Upcoming Intel Arrow Lake & Socket LGA1851 Processors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721404495179-dive-into-smooth-chatgpt-interactions-chrome-powered-solution/"><u>Dive Into Smooth ChatGPT Interactions - Chrome-Powered Solution!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721396161642-gpt-imposters-alert-guard-against-illicit-data-access/"><u>GPT Imposters Alert: Guard Against Illicit Data Access</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y27-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y27 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-find-n3-flip-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Find N3 Flip Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721402315595-ios-users-check-this-out-chatgpt-app/"><u>IOS Users, Check This Out: ChatGPT App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721412760366-iphone-users-reset-your-chatgpt-experience/"><u>IPhone Users, Reset Your ChatGPT Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721430132677-navigate-the-digital-world-easier-bings-new-ai-search-feature-for-phones/"><u>Navigate the Digital World Easier: Bing’s New AI Search Feature for Phones</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-5-free-avi-video-editors/"><u>New 2024 Approved Top 5 Free AVI Video Editors</u></a></li>
-<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721433461562-transform-your-mobile-experience-with-bings-smart-search-technology/"><u>Transform Your Mobile Experience with Bing's Smart Search Technology.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-how-to-fix-constant-crashes-in-wwe-2k22-on-windows/"><u>Troubleshooting Steps: How to Fix Constant Crashes in WWE 2K22 on Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-10-masterpieces-in-job-market-insight/"><u>[New] 2024 Approved 10 Masterpieces in Job Market Insight</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-expertly-archive-your-favorite-streamed-shows-hulu/"><u>[New] 2024 Approved How To Expertly Archive Your Favorite Streamed Shows (Hulu)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-aggregate-video-pieces-into-lists/"><u>[Updated] 2024 Approved Aggregate Video Pieces Into Lists</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-blueprint-for-youtube-video-success/"><u>[Updated] In 2024, The Blueprint for YouTube Video Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlicensed-legal-tracks-downloads-for-gaming/"><u>2024 Approved Unlicensed Legal Tracks Downloads for Gaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anonymity-at-risk-neural-network-inversion/"><u>Anonymity at Risk: Neural Network Inversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-impact-on-efficiency-10-ways-to-apply-ai-in-business/"><u>ChatGPT's Impact on Efficiency: 10 Ways to Apply AI in Business</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hidden-capability-interact-with-ai-chatgpt/"><u>Hidden Capability: Interact with AI ChatGPT</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-a79-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo A79 5G Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innocuous-names-hidden-dangers-a-guide-to-authentic-chatbots/"><u>Innocuous Names, Hidden Dangers: A Guide to Authentic ChatBots!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-samsung-galaxy-f34-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-20-github-chatgpt-interaction-cases/"><u>Premier 20 GitHub ChatGPT Interaction Cases</u></a></li>
+<li><a href="https://article-tips.techidaily.com/snapcutmaster-insights-full-video-editor-evaluation-for-2024/"><u>SnapCutMaster Insights – Full Video Editor Evaluation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-talk-understanding-forefront-ai-versus-chatgpt/"><u>Tech Talk: Understanding Forefront AI Versus ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-era-of-twitscams-ends-with-new-signatures/"><u>The Era of TwitScams Ends with New Signatures</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-tubidy-tool-quick-and-easy-music-video-and-movie-downloads-from-tubidy/"><u>Ultimate Tubidy Tool: Quick & Easy Music, Video & Movie Downloads From Tubidy</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Techniques to Keep Conversations Out of GPT's Archive
-date: 2024-10-04T18:05:08.360Z
-updated: 2024-10-08T18:50:27.576Z
+date: 2024-10-13T19:00:03.550Z
+updated: 2024-10-15T01:50:02.698Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
  The chatbot is not a confidant, so keep your secrets to yourself. It's not safe, especially since OpenAI has been hacked before by cybercriminals who stole the credentials to thousands of ChatGPT accounts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stop ChatGPT From Saving Your Conversations
@@ -53,28 +53,40 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 3. Click on data controls and toggle off **Chat history & training**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Screenshot of ChatGPT History and Training Toggle Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-history-and-training-toggle-switch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that's it! You've just made sure that ChatGPT won't keep any record of your chats.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't Worry About ChatGPT Saving Your Conversations
@@ -98,18 +110,20 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhance-your-photos-on-instagram-with-easy-free-filters-access/"><u>[New] In 2024, Enhance Your Photos on Instagram with Easy, Free Filters Access</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-pajama-plots-revisited-critique-and-analysis-for-kids-slumber-for-2024/"><u>[New] Pajama Plots Revisited Critique and Analysis for Kids' Slumber for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-guide-to-panasonic-hx-a1-action-recorder/"><u>[New] The Ultimate Guide to Panasonic HX-A1 Action Recorder</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-banishing-stickers-from-social-media-short-clips/"><u>[Updated] Banishing Stickers From Social Media Short Clips</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-path-to-larger-video-presentation-in-youtube-for-2024/"><u>[Updated] The Path to Larger Video Presentation in YouTube for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advancing-essay-craft-with-chatgpt-expertise/"><u>Advancing Essay Craft with ChatGPT Expertise</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-for-updated-canon-pixma-mg2522-printer-drivers/"><u>Easy Installation Guide for Updated Canon PIXMA MG2522 Printer Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engage-with-gpt-3s-beta-web-integration-advances/"><u>Engage with GPT-3's Beta Web Integration Advances</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fallacious-chrome-extension-steals-facebook-sign-in-info/"><u>Fallacious Chrome Extension: Steals FACEBOOK Sign-In Info</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/learn-how-to-install-a-folding-brake-on-protected-dvd-with-ribbing-feature-detailed-guide-and-visual-steps/"><u>Learn How to Install a Folding Brake on Protected DVD with Ribbing Feature – Detailed Guide and Visual Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/newfound-knowledge-engage-with-chatgpt/"><u>Newfound Knowledge: Engage with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/supercharge-your-day-examining-7-ways-chatgpt-elevates-productivity/"><u>Supercharge Your Day: Examining 7 Ways ChatGPT Elevates Productivity</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/zoom-mastery-maximizing-communication-potential-in-remote-gatherings/"><u>Zoom Mastery Maximizing Communication Potential in Remote Gatherings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes/"><u>[New] Intergalactic Visions The Best Sci-Fi Movies in Virtual Universes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-obs-camera-not-working-problem-solved/"><u>2024 Approved OBS Camera Not Working Problem [Solved]</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-edition-the-definitive-strategy-for-youtube-monetization/"><u>2024 Edition The Definitive Strategy for YouTube Monetization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-basics-straightforward-insights/"><u>AI Basics: Straightforward Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-chatbot-skills-gpt-versus-huggingface/"><u>Assessing Chatbot Skills: GPT Versus HuggingFace</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-camera-recorders-eye-level-display-option/"><u>Elite Camera Recorders Eye-Level Display Option</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-novice-to-expert-crafting-top-tier-reddit-posts/"><u>From Novice to Expert Crafting Top-Tier Reddit Posts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-sets-the-stage-with-its-innovative-large-model-palm-2/"><u>Google Sets the Stage with Its Innovative Large Model, PaLM 2</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-sonic-modifications-the-5-most-popular-tools-for-2024/"><u>Mastering Sonic Modifications The 5 Most Popular Tools for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/melhores-aplicativos-para-transformar-video-em-gif-tecnicas-online-and-offline-comparadas/"><u>Melhores Aplicativos Para Transformar Video Em GIF - Técnicas Online & Offline Comparadas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revisiting-technology-history-an-experts-journey-in-crafting-a-clone-of-the-1986-macintoshplus/"><u>Revisiting Technology History: An Expert's Journey in Crafting a Clone of the 1986 Macintosh+</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/simplify-your-social-media-uploading-multiple-photos-and-vids-on-ig/"><u>Simplify Your Social Media Uploading Multiple Photos and Vids on IG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-gptbot-impact-on-tech-and-content-blockers/"><u>Unraveling GPTBot - Impact on Tech and Content Blockers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-horizons-exploring-vrs-advancements/"><u>Virtual Horizons Exploring VR’s Advancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-codegpt-and-can-it-really-write-code/"><u>What Is CodeGPT and Can It Really Write Code?</u></a></li>
 </ul></div>
 

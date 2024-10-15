@@ -1,7 +1,7 @@
 ---
 title: "AI's Verbal Advance: Responding to Commands with Confidence"
-date: 2024-10-02T07:15:29.214Z
-updated: 2024-10-09T00:25:43.798Z
+date: 2024-10-10T12:16:27.193Z
+updated: 2024-10-14T23:08:06.612Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  ChatGPT's new text-to-speech model is only available to Plus and Enterprise subscribers using the official Android and iOS apps and is expected to roll out within the next two weeks (starting from September 25, 2023). Furthermore, the new voice feature is limited to English to begin with, though we would expect this to change rapidly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Can Recognize and Analyze Images and Photographs
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  Like the new text-to-speech model, OpenAI will roll out image recognition in the next two weeks, though it will be available on all platforms, not just the ChatGPT app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Privacy, Security, and Other Issues
@@ -75,10 +75,16 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  Given this is the tip of the iceberg, expect pushback against ChatGPT's newfound voice, especially once there is a predictable uptick in unsavory headlines claiming ChatGPT is being used to commit fraud and so on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OpenAI Is Making ChatGPT the Go-To AI App
@@ -106,18 +112,14 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-capture-studio-high-fidelity-screen-record/"><u>[New] Capture Studio High Fidelity Screen Record</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-gpts-quadruple-boost-to-fame/"><u>Breaking Barriers: GPT's Quadruple Boost to Fame</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-with-ai-the-case-for-using-chatgpts-7-ways-in-healthcare/"><u>Bridging the Gap with AI: The Case for Using ChatGPT's 7 Ways in Healthcare</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-mastery-an-apple-centric-approach-to-dialogue/"><u>ChatGPT Mastery: An Apple-Centric Approach to Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creative-horizons-broadened-by-chatbot-innovations/"><u>Creative Horizons Broadened by Chatbot Innovations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-combining-your-epic-battle-royale-profiles-fortnite/"><u>Guide: Combining Your Epic Battle Royale Profiles - Fortnite</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-camon-20-premier-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Camon 20 Premier 5G Device</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-honor-90-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Honor 90? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-rodent-problem-in-resident-evil-village-game/"><u>Resolved: Fixing the Rodent Problem in Resident Evil Village Game</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-proco-advantage-copilots-advanced-offering/"><u>The Proco Advantage - Copilot's Advanced Offering</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-checklist-for-crafting-distinctive-youtube-short-videos/"><u>The Ultimate Checklist for Crafting Distinctive YouTube Short Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transferring-knowledge-in-ai-an-insight-into-transfer-learning/"><u>Transferring Knowledge in AI: An Insight Into Transfer Learning</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-distinct-features-of-echo-pop-vs-echo-dot/"><u>Unveiling the Distinct Features of Echo Pop Vs. Echo Dot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-8-chrome-add-ons-powered-by-ai-boosting-efficiency/"><u>Best 8 Chrome Add-Ons Powered by AI Boosting Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-friend-or-a-fibber/"><u>ChatGPT - A Friend or a Fibber?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/detecting-fabricated-prose-leveraging-gptzeros-capabilities-for-authentic-writing-assurance/"><u>Detecting Fabricated Prose: Leveraging GPTZero's Capabilities for Authentic Writing Assurance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ensuring-smooth-audio-streams-troubleshooting-bluetooth-issues-in-modern-microsoft-environments/"><u>Ensuring Smooth Audio Streams: Troubleshooting Bluetooth Issues in Modern Microsoft Environments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-image-editing-solutions-with-ej-tech-powered-by-movavi-technology/"><u>Expert Image Editing Solutions with EJ Tech - Powered by Movavi Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-courteous-should-you-be-with-smart-tech-alexa-siri/"><u>How Courteous Should You Be with Smart Tech? (Alexa, Siri)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maplestory-launch-trouble-heres-your-complete-fix-guide/"><u>MapleStory Launch Trouble? Here's Your Complete Fix Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-behind-a-computers-bsod-issue/"><u>Unraveling the Mystery Behind a Computer's BSOD Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-ai-outdo-magazine-horoscopes-in-prophetic-accuracy/"><u>Will AI Outdo Magazine Horoscopes in Prophetic Accuracy?</u></a></li>
 </ul></div>
 

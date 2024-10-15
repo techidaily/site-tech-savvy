@@ -1,7 +1,7 @@
 ---
 title: Google Unboxes Bard's Revolutionary AI Advances Showcase
-date: 2024-10-04T16:20:27.742Z
-updated: 2024-10-08T18:01:17.454Z
+date: 2024-10-07T22:53:03.854Z
+updated: 2024-10-14T18:12:24.914Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,19 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle **Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the **Use dark theme** button in the bottom left corner.
 
 ## 3\. Integration With Google Products and Third-Party Plugins
@@ -48,18 +61,18 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image Credit: [Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
 
  OpenAI promised us image prompting with [the release of the highly anticipated GPT-4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/). Unfortunately, as of 10th May 2023, even ChatGPT plus users are still fiddling their fingers, waiting to try out the feature. If you've been disappointed, don't be anymore. Image prompting is coming to Bard AI. The feature will be powered by Google Lens, a technology that Google has developed for several years.
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Image Generation With Adobe Firefly
 
@@ -71,42 +84,41 @@ Image Credit: [Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Tools for Exporting Generated Content
 
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One thing missing from most [AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
  Google is solving this by making content generated by Bard AI cross-compatible with some of its workspace tools like Google Sheets and Docs. So, if you generate data in a tabular format on Bard, you can export it to Sheets, where you can invite your family, friends, or colleagues to collaborate.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like [ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google's AI Endgame Is Gemini
 
@@ -133,15 +145,22 @@ Image Credit: [Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-gold-standard-of-livestream-performances-for-2024/"><u>[Updated] Gold Standard of Livestream Performances for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024ai10/"><u>2024年度・人気無料AI絵画制作プラットフォーム上位10選【専門家推薦版】</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-convert-wmaflac-files-movavi/"><u>Free Online Converter: Convert WMA/FLAC Files - Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-audiophiles-companion-to-top-tier-audio-equipment/"><u>In 2024, The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
-<li><a href="https://discover-great.techidaily.com/in-depth-evaluation-of-ugreen-nasync-dxp280/"><u>In-Depth Evaluation of Ugreen NASync DXP280</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/motorola-edgeplus-assessment-shortcomings-in-matching-top-tier-tech-titans/"><u>Motorola Edge+ Assessment: Shortcomings in Matching Top-Tier Tech Titans</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/riconverti-i-tuoi-file-audio-wav-in-formato-video-webm-su-internet-senza-costi-traduci-audio-a-filmato-via-webmovavi/"><u>Riconverti I Tuoi File Audio WAV in Formato Video WEBM Su Internet Senza Costi - Traduci Audio a Filmato via Webmovavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforma-tu-archivo-webm-al-formato-de-audio-libre-aac-sin-costo-con-este-servicio-online-gratuito/"><u>Transforma Tu Archivo WEBM Al Formato De Audio Libre AAC Sin Costo Con Este Servicio Online Gratuito</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unveiling-secrets-of-successful-virtual-workspaces-embracing-anonymity-zdnet/"><u>Unveiling Secrets of Successful Virtual Workspaces: Embracing Anonymity | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-gpt-the-best-programming-aids-outside-chatgpt/"><u>Beyond GPT: The Best Programming Aids Outside ChatGPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bring-your-iphone-pics-to-life-effective-fixes-for-elusive-sharpness-and-focus/"><u>Bring Your iPhone Pics to Life: Effective Fixes for Elusive Sharpness and Focus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-redmi-k70-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi Redmi K70 is off? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/easy-effective-edits-that-make-a-mark-on-tiktok/"><u>Easy, Effective Edits that Make a Mark on TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-copilot-full-turbo-revolutionize-ai-interaction/"><u>Free Copilot, Full Turbo: Revolutionize AI Interaction</u></a></li>
+<li><a href="https://facebook.techidaily.com/fun-and-respect-keeping-social-media-clean/"><u>Fun & Respect: Keeping Social Media Clean</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-bridging-ai-and-human-interactions-in-practice/"><u>GPT: Bridging AI and Human Interactions in Practice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-write-your-resume/"><u>How to Use ChatGPT to Write Your Resume</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantaneously-enhance-hd-4800-graphics-cards/"><u>Instantaneously Enhance HD 4800 Graphics Cards</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1726221346482-movavi-mp4-3g2/"><u>Movavi를 통해 MP4로 3G2 영상을 깨끗하게 전환하기 – 인터넷에서 안전하게 이용할 수 있는 무료 가이드</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/replacing-roles-is-chatgpt-the-new-worker/"><u>Replacing Roles: Is ChatGPT the New Worker?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-dsounddll-file-not-found-a-step-by-step-guide/"><u>Resolving 'Dsound.dll' File Not Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spanish-numbers-101-a-beginners-guide-to-counting-in-spanish/"><u>Spanish Numbers 101: A Beginner's Guide To Counting In Spanish</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-path-to-prominence-secure-1000-ig-alliesmonth-for-2024/"><u>The Path to Prominence Secure 1,000 IG Allies/Month for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-creativity-select-top-5-ai-prompt-craftors/"><u>Unleash Creativity: Select Top 5 AI Prompt Craftors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-chatgpt-installing-new-features-now/"><u>Unlocking ChatGPT: Installing New Features Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-chatgpts-custom-instructions-feature-and-what-can-you-do-with-it/"><u>What Is ChatGPT's Custom Instructions Feature and What Can You Do With It?</u></a></li>
 </ul></div>
 

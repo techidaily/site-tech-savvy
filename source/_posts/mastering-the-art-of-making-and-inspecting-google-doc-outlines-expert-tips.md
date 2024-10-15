@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Making & Inspecting Google Doc Outlines: Expert Tips"
-date: 2024-09-19 13:50:51
-updated: 2024-09-20 11:49:40
+date: 2024-10-08T07:47:01.230Z
+updated: 2024-10-15T03:46:05.530Z
 tags:
   - work-life
 categories:
@@ -38,6 +38,13 @@ So, what do I do? I create the document such that it automatically adds an outli
 
 Let's see precisely how this is done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only thing you'll need for this is a valid Google Workspaces account. The outline feature is available to both the free and paid accounts. I've been working with the free account for decades and haven't had any problems.
@@ -52,6 +59,13 @@ The headings are nested, relative to their number. So, any H1 heading will be th
 
 Here's how to format the document and view the outline.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Format your document
 
 To create a heading, chapter, or sub-chapter, type the text that will serve as the title, select the text with your cursor, click the Normal text drop-down in the formatting toolbar, and select Heading 1, Heading 2, or Heading 3\. Continue doing this until you have all of the headings formatted.
@@ -60,6 +74,13 @@ Formatting your headings in Google Docs.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. View the outline
 
 To view the outline, click the outline button in the top left corner of your document. 
@@ -67,6 +88,13 @@ To view the outline, click the outline button in the top left corner of your doc
 Your Google Docs outline is just a click away.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Add a summary
 
@@ -105,11 +133,33 @@ And that's all there is to creating, viewing, and using an outline in Google Doc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-streamlining-your-approach-to-configuring-and-gauging-fb-instream-ads/"><u>[New] 2024 Approved Streamlining Your Approach to Configuring & Gauging FB Instream Ads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-budget-friendly-gopro-adds/"><u>[New] Ultimate Budget-Friendly GoPro Adds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-airwaves-to-archives-online-recording-strategies-for-tv-shows/"><u>2024 Approved From Airwaves to Archives Online Recording Strategies for TV Shows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-photo-puzzles-crafted-spark-joy-and-inspiration/"><u>2024 Approved Photo Puzzles Crafted Spark Joy and Inspiration</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/color-space-comparison-srgb-vs-rgb/"><u>Color Space Comparison Srgb vs Rgb</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-horizons-arista-introduces-advanced-cognitive-networking-in-the-middle-market-segment-insights-from-zdnet/"><u>Expanding Horizons: Arista Introduces Advanced Cognitive Networking in the Middle Market Segment - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-construct-a-windows-11-bootable-restore-usb-a-step-by-step-guide/"><u>How to Construct a Windows 11 Bootable Restore USB: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-torrents-step-by-step/"><u>How to Download Torrents Step by Step</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-improve-gaming-performance-on-windows-11/"><u>How to Improve Gaming Performance on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-fonts-for-windows-11-easily-solved/"><u>How to Install Fonts for Windows 11 Easily [Solved]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-open-task-manager-in-windows-10-solved/"><u>How to Open Task Manager in Windows 10 [Solved]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-overcome-the-windows-10-cannot-be-installed-error-code-80240020-detailed-solution-inside/"><u>How to Overcome the 'Windows 10 Cannot Be Installed' Error (Code 80240020) – Detailed Solution Inside</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-spot-the-red-flags-of-phishing-emails-your-ultimate-guide-for-preventing-cyber-fraud/"><u>How to Spot the Red Flags of Phishing Emails - Your Ultimate Guide for Preventing Cyber Fraud</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-update-kodi-quickly-and-easily/"><u>How to Update Kodi | Quickly & Easily</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-meizu-21-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Meizu 21 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-rapid-response-sharing-plays-with-pizzazz/"><u>In 2024, Rapid Response Sharing Plays with Pizzazz</u></a></li>
+<li><a href="https://extra-information.techidaily.com/m1-pro-and-m1-max-exploring-their-significant-differences/"><u>M1 Pro & M1 Max Exploring Their Significant Differences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-pc-maintenance-with-the-ultimate-guide-to-cpu-temperature-monitoring-in-windows-11/"><u>Master PC Maintenance with the Ultimate Guide to CPU Temperature Monitoring in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-your-blog-revenue-effective-strategies-with-buyselladscom/"><u>Maximizing Your Blog Revenue: Effective Strategies with buySellAds.com</u></a></li>
+</ul></div>
+

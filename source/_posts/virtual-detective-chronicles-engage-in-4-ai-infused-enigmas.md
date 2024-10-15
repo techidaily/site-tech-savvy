@@ -1,7 +1,7 @@
 ---
 title: "Virtual Detective Chronicles: Engage in 4 AI-Infused Enigmas"
-date: 2024-10-02T17:22:25.184Z
-updated: 2024-10-08T17:22:11.624Z
+date: 2024-10-08T09:49:25.593Z
+updated: 2024-10-15T12:45:51.820Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ Author Screenshot by Mihir Patkar - No attribution required
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Gron
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
@@ -53,10 +60,10 @@ Author Screenshot by Mihir Patkar - No attribution required
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Mystery-o-Matic
@@ -64,10 +71,16 @@ Author Screenshot by Mihir Patkar - No attribution required
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Author Screenshot by Mihir Patkar - No attribution required
@@ -78,16 +91,16 @@ Author Screenshot by Mihir Patkar - No attribution required
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Murdle
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Author Screenshot by Mihir Patkar - No attribution required
 
@@ -96,13 +109,6 @@ Author Screenshot by Mihir Patkar - No attribution required
  Murdle follows a similar system to Mystery-o-Matic, giving you three or four suspects, three or four locations, and three or four murder weapons every day. The mysteries get more difficult with each day, with Monday being the easiest and Sunday requiring the skills of Sherlock Holmes.
 
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
 
@@ -129,22 +135,24 @@ Author Screenshot by Mihir Patkar - No attribution required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-explore-8plus-places-for-gratis-hdr-environments-and-clips/"><u>[New] In 2024, Explore 8+ Places for Gratis HDR Environments & Clips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-revenue-a-complete-framework-for-tracking-youtube-views-and-income/"><u>2024 Approved Maximizing Revenue A Complete Framework for Tracking YouTube Views & Income</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-unmatched-camera-and-recording-app-selection-on-iphones-and-androids/"><u>2024 Approved Unmatched Camera & Recording App Selection on iPhones and Androids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-phrases-decoded-simplifying-the-technical-jargon/"><u>AI Phrases Decoded: Simplifying the Technical Jargon</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-cgps-reliability-in-providing-health-facts/"><u>Assessing CGP’s Reliability in Providing Health Facts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-system-insight-with-elevated-task-manager-access-on-win11/"><u>Boosting System Insight with Elevated Task Manager Access on Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-giggle-grind-engineering-emotional-echoes/"><u>ChatGPT's Giggle Grind: Engineering Emotional Echoes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-rights-to-ai-artistry/"><u>Deciphering Rights to AI Artistry</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-bcm20702a0-drivers-for-windows-fast-and-simple-setup/"><u>Download BCM20702A0 Drivers for Windows - Fast & Simple Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-development-workflows-innovative-uses-of-chatgpt-and-vs-code/"><u>Enhancing Development Workflows: Innovative Uses of ChatGPT & VS Code</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-moto-z2s-brainpower-examined-in-detail/"><u>In 2024, Moto Z2's Brainpower Examined in Detail</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-the-mystery-of-phantoms-velocity-inversion/"><u>In 2024, Unraveling the Mystery of Phantom's Velocity Inversion</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/maximizing-memories-techniques-for-gameplay-recording/"><u>Maximizing Memories Techniques for Gameplay Recording</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-website-construction-through-chatgpts-insights/"><u>Optimizing Website Construction Through ChatGPT's Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/say-no-to-data-collection-how-to-disengage-from-chatgpt/"><u>Say No to Data Collection – How to Disengage From ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/snapchats-ai-options-explored-my-ai-or-chatgpt/"><u>Snapchat's AI Options Explored: My AI or ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-excels-full-potential-with-chatgpt-guidance/"><u>Unleashing Excel's Full Potential with ChatGPT Guidance</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-monetization-strategies-for-gamers/"><u>[New] 2024 Approved Monetization Strategies for Gamers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/our-pathway-to-professional-looking-animated-gifs-online/"><u>[New] Your Pathway to Professional-Looking Animated GIFs Online</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-correct-inactive-user-profiles-on-fb/"><u>[Updated] Correct Inactive User Profiles on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-effortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube-for-2024/"><u>[Updated] Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-premier-9-video-calls-prioritizing-security-in-smes-for-2024/"><u>[Updated] Premier 9 Video Calls Prioritizing Security in SMEs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-named-top-contender-by-nelsonhall-in-process-discovery-and-data-mining-review-neat-scorecard-202/"><u>ABBYY Named Top Contender by NelsonHall in Process Discovery and Data Mining Review, NEAT Scorecard 202</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ameliorer-la-satisfaction-client-avec-lintelligence-digitale-un-guide-doptimisation/"><u>Améliorer La Satisfaction Client Avec L'intelligence Digitale : Un Guide D'optimisation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automated-marketing-solutions-optimized-with-cookiebot-technology/"><u>Automated Marketing Solutions: Optimized with Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-sites-performance-with-cookiebot-technology/"><u>Boost Your Site's Performance with Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/common-inquiries-and-concerns-regarding-artificnial-intelligence-answers-you-need/"><u>Common Inquiries and Concerns Regarding Artificnial Intelligence: Answers You Need</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-insights-optimize-your-websites-performance/"><u>Cookiebot-Driven Insights: Optimize Your Website's Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-sites-enhance-user-experience-and-tracking/"><u>Cookiebot-Enabled Sites: Enhance User Experience & Tracking</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974659829-effortless-installation-access-the-ultimate-downloaded-instructions-for-behringers-usb-sound-device/"><u>Effortless Installation: Access the Ultimate Downloaded Instructions for Behringer's USB Sound Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/facebook-alternatives-connecting-on-messenger-without-an-official-account/"><u>Facebook Alternatives: Connecting on Messenger without an Official Account</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-roadmap-to-ad-excellence-navigating-the-top-20-fb-video-strategies/"><u>In 2024, The Roadmap to Ad Excellence Navigating the Top 20 FB Video Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-adding-a-pin-it-button-to-your-facebook-fan-page/"><u>Step-by-Step Tutorial: Adding a Pin It Button to Your Facebook Fan Page</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-top-3-factors-hindering-successful-digital-transformation-strategies-insights-from-abbyy/"><u>Unlocking the Potential: Top 3 Factors Hindering Successful Digital Transformation Strategies - Insights From ABBYY</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-process-intelligence-a-comprehensive-guide/"><u>Unveiling Process Intelligence: A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-14-pro-max-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 14 Pro Max?</u></a></li>
 </ul></div>
 

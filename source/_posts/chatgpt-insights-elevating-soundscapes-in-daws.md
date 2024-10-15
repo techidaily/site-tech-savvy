@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Insights: Elevating Soundscapes in DAWs"
-date: 2024-10-07T03:08:01.766Z
-updated: 2024-10-08T17:22:12.928Z
+date: 2024-10-12T04:19:47.923Z
+updated: 2024-10-15T05:19:43.346Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  In the title of each track is the name of the plugin type we used, such as distortion or delay, plus the keywords we used in the prompt i.e., dense, watery, psychedelic, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Prompt Format
 
  There are numerous ways you can ask [ChatGPT](https://chat.openai.com/) to help you craft a sound. After successive experiments, we came up with the following prompt format that is concise, while producing all the necessary information.
@@ -70,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
 ![Table of audio settings produced by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-plugin-settings-results.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you input ChatGPT's suggested settings, listen to the results and see what you think. Here is the result of the prompt we tried above:
 
  Generally, ChatGPT will list values with a small range, so you have some wiggle room to play with the suggestion. Of course, you aren't beholden to these suggestions by any means, so feel free to use them as a starting point and adjust as needed.
@@ -88,22 +88,15 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
  It may be tiring to hear, but nonetheless true.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips and Tricks
 
  In addition to the basic prompt format that we've outlined, there are a few extra things you can experiment with. These tips and tricks will help you play with, or expand on, ChatGPT's responses.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ask for an Explanation
 
@@ -111,18 +104,18 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
 ![A table produced by ChatGPT including recommended audio settings plus explanations.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-table-explanation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Follow-Up Questions
 
  Sometimes the explanations can be hit or miss, so if there is a parameter you want more information about, ask ChatGPT a follow-up question. You can treat the AI chatbot like you would a person and ask it to explain something in depth. If it starts to use too much jargon, ask it to write the answer in simple terms or use a metaphor.
 
  There are several [prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) that can help you distill the information you're looking for.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Get Variations
 
@@ -131,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 ![Screenshot of ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-variations.jpg)
 
  Additionally, look for a couple of arrows near the top left-hand side of ChatGPT's response. You can use them to move back and forth between the different results.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT: An Unsuspecting Music Production Tool
 
@@ -157,22 +157,20 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-fraps-screen-recorder-review-for-2024/"><u>[New] Fraps Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-breaking-down-barriers-to-inaccessible-youtube-content/"><u>[Updated] 2024 Approved Breaking Down Barriers to Inaccessible YouTube Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-a-glance-at-your-world-freeze-and-save-windows-for-2024/"><u>[Updated] A Glance at Your World Freeze and Save Windows for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726224646325-movavi/"><u>優先選用 Movavi: 無枉情曲地改造你的音樂 – 轉換器自由對等服務</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-huawei-nova-y71-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Huawei Nova Y71</u></a></li>
-<li><a href="https://win11.techidaily.com/classic-computing-redeemed-by-atlasos/"><u>Classic Computing Redeemed by AtlasOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-transforming-mxf-files-into-mp4-format-with-movavi/"><u>Free Online Conversion: Transforming MXF Files Into MP4 Format with Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuiti-convertitore-trp-a-mpg-di-movavi-ottimizza-i-tuoi-dati-online/"><u>Gratuiti Convertitore TRP a MPG Di Movavi: Ottimizza I Tuoi Dati Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hololens-review-pioneering-virtual-spacecraft/"><u>HoloLens Review Pioneering Virtual Spacecraft</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp3-to-aac-transformation-at-no-cost-discover-the-simplicity-of-movavis-online-service/"><u>MP3 to AAC Transformation at No Cost - Discover the Simplicity of Movavi's Online Service</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimal-vlog-filming-ideal-handheld-stabilizers-compared/"><u>Optimal Vlog Filming Ideal Handheld Stabilizers Compared</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/screen-snatching-solution-for-2024/"><u>Screen Snatching Solution for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformar-archivos-de-video-3gp-a-formato-mp4-facilmente-y-sin-costo-usando-el-servicio-en-linea-de-convertir-videos-de-movavi/"><u>Transformar Archivos De Video 3GP a Formato MP4 Fácilmente Y Sin Costo Usando El Servicio en Línea De Convertir Videos De Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trasforma-immagini-png-in-gif-gratuitamente-online-con-movavi/"><u>Trasforma Immagini PNG in GIF Gratuitamente Online Con Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trois-techniques-innovantes-pour-retirer-un-objet-dune-image-en-2024/"><u>Trois Techniques Innovantes Pour Retirer Un Objet D'une Image en 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/une-solution-rapide-pour-transformer-des-files-ts-en-vob-essayez-gratuitement-movavi/"><u>Une Solution Rapide Pour Transformer Des Files Ts en Vob : Essayez Gratuitement Movavi</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/yt-titling-excellence-with-smart-technology/"><u>YT Titling Excellence with Smart Technology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-precision-zooming-the-key-to-clear-microsoft-teams-sessions/"><u>[New] Precision Zooming The Key to Clear Microsoft Teams Sessions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-champion-of-chiseled-cheeks-starting-your-youtube-aesthetic-venture/"><u>[Updated] Champion of Chiseled Cheeks Starting Your YouTube Aesthetic Venture</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-eliminating-blur-taming-shutter-vibration/"><u>[Updated] In 2024, Eliminating Blur Taming Shutter Vibration</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamlining-your-mac-techniques-to-remove-green-screen-effects/"><u>[Updated] Streamlining Your Mac Techniques to Remove Green Screen Effects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-powerful-speeches-chatgpts-guide/"><u>Crafting Powerful Speeches: ChatGPT's Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-jewels-of-online-watching-youtubes-treasures-for-2024/"><u>Crown Jewels of Online Watching YouTube's Treasures for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-netflix-connectivity-problems-tips-for-smooth-viewing/"><u>Diagnosing Netflix Connectivity Problems – Tips for Smooth Viewing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-day-to-day-chatgpt-integrations/"><u>Discovering Day-to-Day ChatGPT Integrations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/diversify-earnings-multiplying-revenue-with-mobile-video-content-for-2024/"><u>Diversify Earnings Multiplying Revenue with Mobile Video Content for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-clear-your-browsers-cache-on-mozilla-firefox-a-comprehensive-guide/"><u>How to Clear Your Browser's Cache on Mozilla Firefox: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improving-text-through-gpt-usage/"><u>Improving Text Through GPT Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-auto-gpt-installation-overcoming-6-frequent-hurdles/"><u>Navigating Auto-GPT Installation: Overcoming 6 Frequent Hurdles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nexus-of-innovation-chatai-plus-cryptocurrency/"><u>Nexus of Innovation: ChatAI + Cryptocurrency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ready-for-action-top-6-thrilling-chatgpt-designed-games-await/"><u>Ready for Action? Top 6 Thrilling ChatGPT-Designed Games Await</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolutionary-tale-of-openais-language-powers-gpt-1-to-4/"><u>The Evolutionary Tale of OpenAI's Language Powers (GPT-1 to 4)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Maximize Productivity Using the Opera Pop-Up Function - Insights by ZDNet
-date: 2024-09-19 16:29:18
-updated: 2024-09-20 12:42:27
+date: 2024-10-10T14:25:21.497Z
+updated: 2024-10-15T06:18:23.484Z
 tags:
   - work-life
 categories:
@@ -51,9 +51,23 @@ Let's see how the feature is used.
 
 **What you'll need:** The only thing you'll need is Opera installed on your desktop or laptop. Make sure that you are running the latest version of the browser (to ensure you have the latest security patches).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Opera Settings
 
 The first thing you must do is make sure the Search pop-up is enabled. To do that, open Opera and then type _opera:settings_ in the address bar.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Locate and enable search pop-up
 
@@ -66,6 +80,13 @@ You can also choose what currency to convert to when you've highlighted a price.
 Jack Wallen/ZDNET
 
 **Also: [Firefox vs Opera: Which web browser is best for you?](https://www.zdnet.com/home-and-office/work-life/firefox-vs-opera-which-web-browser-is-best-for-you/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using the search pop-up
 
@@ -104,11 +125,33 @@ Enjoy those extra seconds.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unbeatable-hard-drives-to-upgrade-your-xbox-gear/"><u>[New] Unbeatable Hard Drives to Upgrade Your Xbox Gear</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solved-how-to-use-your-laptop-as-a-monitor/"><u>[Solved] How to Use Your Laptop As A Monitor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-edge-40-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Edge 40 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-oneplus-12-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from OnePlus 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-7-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 7 with a Broken Screen?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oneplus-12r-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost OnePlus 12R for Free? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-taking-off-in-tutorials-the-beginners-guide-to-fashionable-mac-footage/"><u>In 2024, Taking Off in Tutorials The Beginner’s Guide to Fashionable Mac Footage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-quick-shift-adjusting-netflix-regions-instantly/"><u>Master the Quick Shift: Adjusting Netflix Regions Instantly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-network-security-unlocking-ports-through-windows-7s-built-in-firewall/"><u>Mastering Network Security: Unlocking Ports Through Windows 7'S Built-In Firewall</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-painless-way-to-find-out-your-nvidia-driver-version/"><u>Quick and Painless Way to Find Out Your Nvidia Driver Version</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-to-mp3-download-from-soundcloud-a-hassle-free-approach/"><u>Quick Guide to MP3 Download From SoundCloud – A Hassle-Free Approach!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/quickening-vimeo-streaming-time-for-2024/"><u>Quickening Vimeo Streaming Time for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revive-lost-data-on-windows-solution-1-step-by-step-guide-recovering-deleted-items-using-windows-10s-built-in-backup-feature/"><u>Revive Lost Data on Windows # Solution 1: Step-by-Step Guide: Recovering Deleted Items Using Windows 10'S Built-In Backup Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-steps-get-your-windows-10s-one-year-special-patch-without-hiccups/"><u>Simple Steps: Get Your Windows 10'S One Year Special Patch Without Hiccups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-steps-regain-access-to-your-yahoo-account-without-hassle/"><u>Simple Steps: Regain Access to Your Yahoo Account Without Hassle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-headphone-detection-issues-in-windows-11-comprehensive-solutions/"><u>Solving Headphone Detection Issues in Windows 11 - Comprehensive Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-vr-limitations-for-2024/"><u>Understanding VR Limitations for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-invest-in-corsairs-icue-link-uncover-the-four-transformative-perks/"><u>Why Invest in Corsair's iCUE Link? Uncover the Four Transformative Perks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/x-cite-reviews-and-simpler-choices/"><u>X-Cite Reviews & Simpler Choices</u></a></li>
+</ul></div>
+

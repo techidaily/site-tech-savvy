@@ -1,7 +1,7 @@
 ---
 title: AI-Generated Gems or Misleading Stones?
-date: 2024-10-04T05:07:21.847Z
-updated: 2024-10-09T07:24:39.736Z
+date: 2024-10-11T14:25:25.377Z
+updated: 2024-10-14T20:24:32.550Z
 tags:
   - chatgpt
   - open-ai
@@ -43,22 +43,15 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -70,14 +63,14 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -98,6 +91,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  It's crucial, then, to be able to [identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is [the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/).
@@ -105,13 +105,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  You might have come across tools like [Resemble AI](https://www.resemble.ai/), [Speechify](https://speechify.com/), [FakeYou](https://fakeyou.com/), and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by [The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -123,6 +116,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -147,19 +147,18 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-the-hidden-treasure-of-royalty-free-graphics/"><u>[New] In 2024, Unveiling the Hidden Treasure of Royalty-Free Graphics</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-escaping-boredom-with-a-chuckle-best-fb-incarceration-comical-stories/"><u>[Updated] In 2024, Escaping Boredom with a Chuckle Best FB Incarceration Comical Stories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/18-next-level-sales-management-applications-beyond-gpts-realm/"><u>18 Next-Level Sales Management Applications Beyond GPT's Realm</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/26-cutting-edge-solutions-to-replace-chatgpts-pos-software/"><u>26 Cutting-Edge Solutions to Replace ChatGPT's POS Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-point-ai-assessment-kit-gauging-chatgpts-teaching-potency/"><u>4-Point AI Assessment Kit: Gauging ChatGPT's Teaching Potency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-peek-into-hugging-faces-workings-and-uses/"><u>A Peek Into Hugging Face’s Workings and Uses</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comprehensive-overview-dji-inspire-2/"><u>Comprehensive Overview - DJI Inspire 2</u></a></li>
-<li><a href="https://facebook.techidaily.com/empowering-your-adolescent-with-confidentiality-in-social-media/"><u>Empowering Your Adolescent with Confidentiality in Social Media</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enermax-unveils-the-worlds-tiniest-atx-31-power-supply-maximize-your-compact-pc-building-with-extra-room-and-built-in-rear-connectors/"><u>Enermax Unveils the World's Tiniest ATX 3.1 Power Supply: Maximize Your Compact PC Building with Extra Room & Built-In Rear Connectors</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2023-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2023</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/gpu-renaissance-amd-radeon-redux-for-2024/"><u>GPU Renaissance AMD Radeon Redux for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-switching-from-snippet-to-live-play-in-yt/"><u>In 2024, Switching From Snippet to Live Play in YT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721373940749-seamless-ai-powered-bing-search-across-ios-and-android/"><u>Seamless AI-Powered Bing Search Across iOS and Android</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveil-image-by-removing-surroundings/"><u>Unveil Image by Removing Surroundings</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-decoding-your-own-tiktok-trend-identifier-key/"><u>[New] Decoding Your Own TikTok Trend Identifier Key</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-top-tiktok-titans-to-motivate-you-every-day/"><u>[New] In 2024, Top TikTok Titans to Motivate You Every Day</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ideal-ios-options-the-finest-selector-of-emulators-for-playing-psp-games/"><u>[Updated] Ideal iOS Options The Finest Selector of Emulators for Playing PSP Games</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-hdtv-showdown-selecting-the-best-8k-models/"><u>[Updated] In 2024, The Ultimate HDTV Showdown Selecting the Best 8K Models</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-free-call-log-apps-top-picks-for-managing-phone-conversations-on-iphone-models-xs-xr-x-and-older-versions/"><u>Best Free Call Log Apps: Top Picks for Managing Phone Conversations on iPhone Models XS, XR, X, and Older Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-ai-tools-empowering-digital-research-endeavors/"><u>Elite AI Tools Empowering Digital Research Endeavors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-artificial-intelligence-for-personal-finance-decisions/"><u>Evaluating Artificial Intelligence for Personal Finance Decisions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excels-advanced-operational-skills-eclipsing-chatgpts-potential/"><u>Excel's Advanced Operational Skills Eclipsing ChatGPT's Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-student-essays-are-they-competing-titles-now/"><u>GPT and Student Essays: Are They Competing Titles Now?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-x90s-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo X90S Phone Screen?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-critical-review-of-top-no-cost-video-communication-apps-iosandroid/"><u>In 2024, A Critical Review of Top No-Cost Video Communication Apps (iOS/Android)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-path-to-virtual-self-building-metaverse-profiles/"><u>In 2024, Quick Path to Virtual Self Building Metaverse Profiles</u></a></li>
+<li><a href="https://windows11.techidaily.com/trends-in-firmware-enhancement-what-every-surface-user-needs-to-know/"><u>Trends in Firmware Enhancement: What Every Surface User Needs to Know</u></a></li>
 </ul></div>
 

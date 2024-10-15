@@ -1,7 +1,7 @@
 ---
 title: The Shell's Role in Accessing GPT-Powered Conversation
-date: 2024-10-02T17:22:41.205Z
-updated: 2024-10-09T06:27:51.994Z
+date: 2024-10-14T03:10:42.072Z
+updated: 2024-10-14T21:42:05.494Z
 tags:
   - chatgpt
   - open-ai
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
  Before installing ShellGPT on your Ubuntu machine, here are a few prerequisites to take care of.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 1: Install Python and PIP on Your Machine
 
  Like most artificial intelligence-enabled tools, even ShellGPT runs on Python. While Python is usually installed by default on most Linux distros, you can check its installation via its version information. If Python isn’t available on your machine, you must install it before moving on to the next steps.
@@ -80,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
  After installation, you can again use the **\--version** command to check if the installation was successful.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 2: Install and Set Up a Virtual Environment Using Python
 
  Now that Python and PIP are ready, you can set up Python's virtual environment to make the machine environment conducive for installing and running ShellGPT. Virtual environments are ideal for running isolated programs since they can avoid library conflicts.
@@ -102,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 ![Ubuntu terminal window code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-virtual-environment-module-in-ubuntu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set Up the Virtual Environment
@@ -134,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-virtual-environment-for-shellgpt-in-ubuntu-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3: Generate an OpenAPI Key
 
  Since the virtual environment is ready, you must connect the OpenAI services and your Ubuntu machine to run ShellGPT. For this purpose, you must navigate to [OpenAI's website](https://openai.com/) and create an account there.
@@ -144,11 +137,25 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ![OpenAI website interface showing a drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-api-keys-on-openai-website.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Do not share this key with anyone since the connection is private and should be used on your machine only.
 
  Copy the API key from the dialog box, and save it somewhere, since you won't be able to review the same key again.
 
 ![OpenAI's secret key website page with an open dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/generate-api-secret-key.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To establish a connection on your Ubuntu machine, create an environment variable with the **export** command:
 
@@ -165,6 +172,19 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![Ubuntu terminal window with code snippets to create and save an environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-an-environment-variable-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Save and exit the editor. Then, use the source command to enable the changes.
 
 `source ./bashrc`
@@ -177,6 +197,13 @@ export OPENAI_API_KEY=<paste key details here>`
 
  Your **OPENAI\_API\_KEY** environment variable should be listed in the output.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 5: Install ShellGPT on Ubuntu
 
  Once all the installation formalities are complete, you can simply move on to the best part, the ShellGPT installation. The installation steps are quite straightforward, and you can install the tool with the following command:
@@ -185,14 +212,14 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![Installation snippet on ubuntu's terminal screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-shell-gpt-on-ubuntu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Let the installation finish; meanwhile, you can check out some interesting ways to use the AI tool via your terminal window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using ShellGPT for Running Queries via the Terminal
 
@@ -201,20 +228,6 @@ export OPENAI_API_KEY=<paste key details here>`
 `sgpt "How many galaxies exist within the universe"`
 
 ![Ubuntu terminal interface with a query response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-query-reponse.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using ShellGPT for Generating Code
 
@@ -225,13 +238,6 @@ export OPENAI_API_KEY=<paste key details here>`
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-code-reponse.jpg)
 
  The output consists of code you can execute within Python to generate the Fibonacci series.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using ShellGPT Within Ubuntu’s Terminal
 
@@ -260,24 +266,19 @@ export OPENAI_API_KEY=<paste key details here>`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-the-numbers-comprehensive-guide-to-count-views-clicks-and-cash-in-youtube/"><u>[New] 2024 Approved Unveiling the Numbers Comprehensive Guide to Count Views, Clicks, and Cash in YouTube</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exquisite-stop-motion-cinema-top-15-picks/"><u>[New] Exquisite Stop-Motion Cinema - Top 15 Picks</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-panoramic-insights-digest/"><u>[Updated] Panoramic Insights Digest</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-streamlining-zoom-features-on-your-chromebook/"><u>[Updated] Streamlining Zoom Features on Your Chromebook</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-end-to-end-guide-to-picsart/"><u>[Updated] The End-to-End Guide to PicsArt</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/flvaiffmovavi/"><u>如何免費把FLV改為AIFF：使用Movavi在線優化轉換器</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-to-find-the-acceleration-of-the-particle-we-need-to-find-the-derivative-of-the-velocity-function-with-respect-to-time-the-velocity-function-is-given-by.m37/"><u>AI]: To Find the Acceleration of the Particle, We Need to Find the Derivative of the Velocity Function with Respect to Time. The Velocity Function Is Given By:</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-screen-capture-tools-buy-now-and-elevate-your-presentations/"><u>Best Screen Capture Tools: Buy Now and Elevate Your Presentations!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-photo-editing-on-windows-and-macos-a-step-by-step-guide/"><u>Easy Photo Editing on Windows & macOS - A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/fast-techniques-for-reordering-youtube-video-queues/"><u>Fast Techniques for Reordering YouTube Video Queues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-transform-your-wav-files-into-high-quality-mkv-format-with-movavi/"><u>Free Online Conversion: Transform Your WAV Files Into High-Quality MKV Format with Movavi</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-10-best-instagram-video-editor-for-android-pc-online/"><u>In 2024, 10 Best Instagram Video Editor for Android, PC, Online</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-high-definition-hits-top-8k-cameras-for-professionals/"><u>In 2024, High-Definition Hits Top 8K Cameras for Professionals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/libera-conversione-da-flac-ad-aiff-online-con-movavi-ottimizza-il-tuo-audio-intemporaneamente/"><u>Libera Conversione Da Flac Ad Aiff Online Con Movavi: Ottimizza Il Tuo Audio Intemporaneamente</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/m4awma-movavi/"><u>M4A到WMA自由下載 - 用 Movavi音頻編碼器無成本轉換</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/narrative-innovation-weaving-stories-through-movies-and-animations-for-2024/"><u>Narrative Innovation Weaving Stories Through Movies and Animations for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/online-webm-video-shrinking-solutions/"><u>Online WebM Video Shrinking Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-great-debate-mp4-versus-m4v-video-formats-explained/"><u>The Great Debate: MP4 versus M4V Video Formats Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wma-vers-m4a-telechargement-gratuit-du-service-de-conversion-en-ligne-de-movavi/"><u>WMA Vers M4A: Téléchargement Gratuit Du Service De Conversion en Ligne De Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-your-course-building-plays-on-youtube/"><u>[New] 2024 Approved Charting Your Course Building Plays on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-blending-of-voice-and-text-in-powerpoint-decks/"><u>[New] Seamless Blending of Voice and Text in PowerPoint Decks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-hunt-for-impactful-personalities-navigating-influencer-spaces/"><u>[Updated] In 2024, Hunt for Impactful Personalities Navigating Influencer Spaces</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-obs-or-streamlabs-determining-the-superior-livestream-software/"><u>2024 Approved OBS or Streamlabs? Determining the Superior Livestream Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-doctor-consults-chatgpt-pitfalls-explored/"><u>Bypassing Doctor Consults: ChatGPT Pitfalls Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptzero-explained-separating-real-from-synthetic-texts/"><u>GPTZero Explained: Separating Real From Synthetic Texts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-13-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 13 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-for-creative-writing-6-ways/"><u>How to Use ChatGPT for Creative Writing: 6 Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-lava-blaze-curve-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Lava Blaze Curve 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-your-linkedin-summary-statement-for-2024/"><u>Perfecting Your LinkedIn Summary Statement for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-shopping-destinations-customizable-presents-with-flair-for-2024/"><u>Prime Shopping Destinations Customizable Presents with Flair for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-gpt-with-the-best-9-plugin-innovations/"><u>Revolutionize GPT with the Best 9 Plugin Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-taleweavers-toolkit-ai-and-chatgpt-as-storytelling-allies/"><u>The Taleweaver's Toolkit: AI and ChatGPT as Storytelling Allies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-chatgpt-widget-on-android-devices/"><u>Unlocking ChatGPT Widget on Android Devices</u></a></li>
 </ul></div>
 

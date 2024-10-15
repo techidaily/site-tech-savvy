@@ -1,7 +1,7 @@
 ---
 title: "Discover the Leading Mobile Trends of Today: From Advanced AI Integration to Revolutionary Phone Designs, Featured on ZDNet"
-date: 2024-10-08T02:15:14.833Z
-updated: 2024-10-09T00:33:23.042Z
+date: 2024-10-10T12:02:09.986Z
+updated: 2024-10-15T06:13:13.045Z
 tags:
   - apple
 categories:
@@ -69,10 +69,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -92,10 +92,10 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -104,16 +104,16 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -128,10 +128,10 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -168,18 +168,14 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-innovating-visual-storytelling-utilizing-dslr-for-facebook-live-through-personal-devices-for-2024/"><u>[New] Innovating Visual Storytelling Utilizing DSLR for Facebook LIVE Through Personal Devices for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-9-indoor-game-apps-perfect-for-android-without-connectivity/"><u>[Updated] In 2024, Top 9 Indoor Game Apps - Perfect For Android Without Connectivity</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-no-fuss-guides-for-documenting-video-calls-for-2024/"><u>[Updated] No-Fuss Guides for Documenting Video Calls for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-new-companion-for-modern-dating/"><u>ChatGPT: A New Companion for Modern Dating</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discreet-preservation-of-dialogues-with-gpt-assistant/"><u>Discreet Preservation of Dialogues with GPT Assistant</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exposing-pseudo-authors-detecting-ai-written-pieces/"><u>Exposing Pseudo-Authors: Detecting AI Written Pieces</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/handbrake-update-resolved-encountering-vlc-not-64-bit-error/"><u>HandBrake Update Resolved - Encountering 'VLC Not 64-Bit' Error?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-transforming-mundane-images-with-music-on-instagram/"><u>In 2024, Transforming Mundane Images with Music on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maintaining-confidentiality-with-adaptive-chatgpts/"><u>Maintaining Confidentiality with Adaptive ChatGPTs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-conversation-overlooked-strengths-in-ai-tools/"><u>Master the Art of Conversation: Overlooked Strengths in AI Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-overcome-the-critical-videodxgkrnlerror-on-your-pc/"><u>Step-by-Step Solutions to Overcome the Critical Video_dxgkrnl_error on Your PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-gameplay-chatgpt-dall-e-for-diverse-dandd-characters/"><u>Transforming Gameplay: ChatGPT, DALL-E for Diverse D&D Characters</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unshackled-bios-configuration-access/"><u>Unshackled: BIOS Configuration Access</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-filter-fallacies-rising-concerns/"><u>AI Filter Fallacies: Rising Concerns</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-scripted-dialogues-for-podcast-enthusiasts/"><u>AI-Scripted Dialogues for Podcast Enthusiasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/aspect-ratio-guidelines-for-twitter-videos-for-2024/"><u>Aspect Ratio Guidelines for Twitter Videos for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/enjoy-virtual-reality-with-plex-streaming-on-oculus-quest-the-ultimate-guide/"><u>Enjoy Virtual Reality with Plex Streaming on Oculus Quest: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exceeding-expectations-with-chatgpts-token-count/"><u>Exceeding Expectations with ChatGPT's Token Count</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-perform-a-logitech-m510-mouse-firmware-update-step-by-step-tutorial/"><u>How to Perform a Logitech M510 Mouse Firmware Update: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-7-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-defy-2-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Defy 2 Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-at-a-crossroads-with-ai/"><u>OpenAI at a Crossroads with AI</u></a></li>
 </ul></div>
 

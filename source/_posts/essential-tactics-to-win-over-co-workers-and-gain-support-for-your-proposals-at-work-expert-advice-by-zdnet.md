@@ -1,7 +1,7 @@
 ---
 title: Essential Tactics to Win Over Co-Workers and Gain Support for Your Proposals at Work - Expert Advice by ZDNet
-date: 2024-09-17 21:47:43
-updated: 2024-09-20 11:32:23
+date: 2024-10-09T18:15:23.292Z
+updated: 2024-10-15T02:49:31.899Z
 tags:
   - work-life
 categories:
@@ -47,6 +47,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Draw on your fresh perspective
 
 Andy Moore, chief data officer at Bentley Motors, says professionals must have a clear message -- and their senior managers should be receptive, too.
@@ -64,6 +71,13 @@ Moore says smart companies have recognized that great ideas can bubble up from a
 "I think the culture change we have seen is that, rather than a senior executive having the only opinion that counts, the more modern leadership style is about being open to different viewpoints," he says.
 
 "When we talk about inclusion in the workplace and feeling like you belong, a key element is being open to ideas from anywhere in the business. A different perspective is so important."
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Listen to what the business wants
 
@@ -87,6 +101,13 @@ Walker says the key to turning a nice idea into a working solution is listening 
 
 "The functionalities behind it, we have to administer, but it has to be working and useful for the business itself."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Be prepared to reframe your question
 
 Bev White, CEO at recruitment specialist Nash Squared, says getting people to listen to your opinion is about taking the higher ground.
@@ -102,6 +123,13 @@ White says reframing your question in that way makes people curious.
 "At that point, it's a bit like loosening a table. A table is quite rigid often, isn't it? But if you can get it moving a bit more, you'll get people to step away from their corner and start seeing things another way," she says to ZDNET in a video interview.
 
 "And you're not threatening them, and you're not challenging them. But what you're doing is saying, 'Let's encourage each other. Let's understand that there's another side to this debate and another way of being collaborative.'"
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Work for someone who'll listen
 
@@ -142,11 +170,33 @@ Diehl says working for a company where you know your opinions are going to be li
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/solved-cant-install-google-chrome-on-windows-10-in-s-mode/"><u>[SOLVED] | Can’t Install Google Chrome on Windows 10 in S Mode</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-techniques-for-snagging-switch-gaming-videos/"><u>[Updated] 2024 Approved Techniques for Snagging Switch Gaming Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-elevate-your-videography-insights-on-youtube-studio-editor/"><u>[Updated] Elevate Your Videography Insights on YouTube Studio Editor</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-glow-up-the-best-three-highlight-ideas/"><u>[Updated] In 2024, Instagram Glow Up The Best Three Highlight Ideas</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-narzo-60x-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme Narzo 60x 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-successfully-establish-a-miracast-connection-in-windows-1011-solutions-for-common-problems/"><u>How to Successfully Establish a Miracast Connection in Windows 10/11: Solutions for Common Problems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-full-screen-with-chrome-pip-on-any-platform/"><u>In 2024, Unlocking Full Screen with Chrome PIP on Any Platform</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-laminar-flow-the-velocity-profile-across-a-pipe-section-is-parabolic-with-maximum-velocity-at-the-center/"><u>In Laminar Flow, the Velocity Profile Across a Pipe Section Is Parabolic with Maximum Velocity at the Center.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-obs-stability-avoid-frame-drops-with-these-techniques/"><u>Mastering OBS Stability - Avoid Frame Drops with These Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-quick-shots-of-your-laptop-display-a-how-to-tutorial/"><u>Mastering Quick Shots of Your Laptop Display: A How-To Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-window-11-screenshot-techniques/"><u>Mastering the Art of Window 11 Screenshot Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-s17t-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo S17t Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ps4-expanded-storage-tutorial-how-to-set-up-and-utilize-an-external-hard-drive/"><u>PS4 Expanded Storage Tutorial: How to Set Up and Utilize an External Hard Drive</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-quiet-gpu-fans/"><u>Reviving Quiet GPU Fans</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-film-downloads-made-simple-navigating-the-ins-and-outs-of-utorrent/"><u>Seamless Film Downloads Made Simple: Navigating the Ins and Outs of uTorrent</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-the-mystery-restored-my-missing-desktop-icons-in-windows-11/"><u>Solving the Mystery: Restored My Missing Desktop Icons in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transforming-pen-strokes-into-digital-input-excels-breakthrough-in-recognizing-and-converting-handwriting/"><u>Transforming Pen Strokes Into Digital Input: Excel's Breakthrough in Recognizing and Converting Handwriting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-a-smartwatch-and-what-do-they-do/"><u>What Is a Smartwatch and What Do They Do?</u></a></li>
+</ul></div>
+

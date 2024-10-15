@@ -1,7 +1,7 @@
 ---
 title: Boost Your Productivity with Slack's Save Item Functionality – Essential Tips | Digital Workplace Guru
-date: 2024-09-17 11:22:58
-updated: 2024-09-20 12:24:50
+date: 2024-10-11T19:05:24.022Z
+updated: 2024-10-14T20:03:18.844Z
 tags:
   - work-life
 categories:
@@ -45,9 +45,29 @@ That's it. Let's see how the Saved items feature works.
 
 To save to the Saved items section on the desktop app, the first thing to do is open the desktop Slack app, sign in (if necessary), and navigate to a workspace, channel, or thread.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Locate the item to save
 
 Once you're in a workspace, DM, or thread, locate the item you want to save.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Add the item to Saved items
 
@@ -59,6 +79,13 @@ Saving an item to the Slack Saved items section.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. View your Saved items
 
 To view the Saved items section, click Saved items in the left navigation, where your newly-added item will appear. Those items will remain there until you remove them. To remove them, you simply hover your cursor over the item and click the red bookmark icon.
@@ -66,6 +93,13 @@ To view the Saved items section, click Saved items in the left navigation, where
 Viewing a Saved item in Slack is as simple as clicking an entry in the left sidebar.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to save to the Saved items section on the mobile app
 
@@ -114,11 +148,33 @@ And that's all there is to making use of this very handy Slack feature. I've bee
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-maximize-your-meeting-recordings-skype-on-any-operating-system/"><u>[New] 2024 Approved Maximize Your Meeting Recordings Skype on Any Operating System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-expertly-crafted-video-making-software-iphone-android/"><u>[New] In 2024, Expertly Crafted Video-Making Software (iPhone, Android)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expand-your-horizon-the-top-15-youtube-science-hubs-2-written-by-user-for-2024/"><u>[Updated] Expand Your Horizon The Top 15 YouTube Science Hubs (2 Written By User for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-10-best-podcasts-microphones/"><u>[Updated] In 2024, 10 Best Podcasts Microphones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-webcam-and-monitor-recording-how-to-combine/"><u>[Updated] In 2024, Webcam & Monitor Recording How to Combine</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-route-to-record-your-favorite-streaming-content-hulu/"><u>[Updated] The Ultimate Route to Record Your Favorite Streaming Content (Hulu)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-history-in-your-hands-essential-export-tools-reviewed/"><u>AI History in Your Hands – Essential Export Tools Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmenting-data-analysis-in-excel-through-chatgpt-methods/"><u>Augmenting Data Analysis in Excel Through ChatGPT Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/balancing-benefits-and-drawbacks-chatgpt-in-creativity/"><u>Balancing Benefits & Drawbacks: ChatGPT in Creativity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-gpt4alls-complex-processes/"><u>Demystifying GPT4All's Complex Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-impact-on-legal-aid-explored/"><u>GPT's Impact on Legal Aid Explored</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-smilesketcher-easy-to-use-digital-comedy-tool/"><u>In 2024, SmileSketcher Easy-to-Use Digital Comedy Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-of-the-lightroom-app-for-android-users-for-2024/"><u>In-Depth Analysis of the Lightroom App for Android Users for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligence-stands-firm-in-chatgpt-opensai-declares/"><u>Intelligence Stands Firm in ChatGPT, OpensAI Declares</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dichotomy-of-ai-titans-vs-tamer-machines/"><u>The Dichotomy of AI: Titans Vs. Tamer Machines</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-poco-c50-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Poco C50 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-nvidia-and-amd-gpus-for-4k-workstations/"><u>Top NVIDIA & AMD GPUs for 4K Workstations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-unused-powers-a-guide-to-enhanced-chatgpt-experience/"><u>Unleashing Unused Powers: A Guide to Enhanced ChatGPT Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-travel-dreams-best-7-free-ai-apps-for-spontaneous-trips/"><u>Unlock Travel Dreams: Best 7 Free AI Apps for Spontaneous Trips</u></a></li>
+</ul></div>
+

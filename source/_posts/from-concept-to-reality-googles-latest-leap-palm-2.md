@@ -1,7 +1,7 @@
 ---
 title: "From Concept to Reality: Google's Latest Leap, PaLM 2"
-date: 2024-10-03T06:24:59.628Z
-updated: 2024-10-08T17:25:13.524Z
+date: 2024-10-10T12:44:43.889Z
+updated: 2024-10-14T16:19:01.903Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ While OpenAI is leading the way for generative AI development, many have accused
  With Gecko able to process around 20 tokens per second—tokens are the values assigned to real words for use by generative AI models—it looks likely to be a game-changer for mobile deployable AI tools.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PaLM 2 Training Data
@@ -60,10 +60,16 @@ While OpenAI is leading the way for generative AI development, many have accused
  But it's not just spoken languages. Linking to Google's demand for PaLM 2 to deliver better scientific and mathematical reasoning, the LLM has also been trained in more than 20 programming languages, which makes it a phenomenal asset for programmers.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PaLM 2 Is Already Powering Google Services—But Still Requires Fine Tuning
@@ -79,10 +85,10 @@ While OpenAI is leading the way for generative AI development, many have accused
  No matter how much researchers attempt to cleanse LLM training data, it's inevitable some will slip through. The next phase is to continue training PaLM 2 to reduce those toxic responses.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It's a Boom Period for Large Language Models
@@ -108,18 +114,18 @@ While OpenAI is leading the way for generative AI development, many have accused
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-tech-whizs-guide-to-recording-games-on-win10/"><u>[New] In 2024, The Tech Whiz's Guide to Recording Games on Win10</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-giggle-genesis-conceptualizing-7-funny-youtube-sessions/"><u>[Updated] Giggle Genesis Conceptualizing 7 Funny YouTube Sessions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-how-to-become-a-youtube-partner/"><u>[Updated] In 2024, How to Become A YouTube Partner</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-windows-movie-maker-in-depth-analysis-and-insights-explore-the-rise-and-fall/"><u>1. Windows Movie Maker: In-Depth Analysis & Insights - Explore the Rise and Fall</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movaiff-movavi-online-converter/"><u>無料で行うMOVファイルからAIFF変換ツール - Movavi Online Converter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easily-begin-live-video-broadcasting-with-these-top-13-streaming-applications-detailed-analysis-and-reviews/"><u>Easily Begin Live Video Broadcasting with These Top 13 Streaming Applications - Detailed Analysis and Reviews</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-your-movie-experience-with-free-apps/"><u>In 2024, Revolutionize Your Movie Experience with Free Apps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-time-tested-tactics-storing-slides-in-ppt/"><u>In 2024, Time-Tested Tactics Storing Slides in PPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/kostenloos-omheen-m4v-in-flv-vuurgrens-movavi-convertor/"><u>Kostenloos Omheen - M4V in FLV Vuurgrens Movavi Convertor</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/quick-start-video-chatting-technique-for-snapchat-pros-for-2024/"><u>Quick-Start Video Chatting Technique for Snapchat Pros for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-complete-guide-to-capturing-and-storing-youtube-livestreams-seamlessly/"><u>The Complete Guide to Capturing and Storing YouTube Livestreams Seamlessly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-reviews-t17238628805738/"><u>Tom's Tech Insights: In-Depth Computer Hardware Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-vob-videos-to-wmv-file-type-at-no-cost-using-movavis-web-service/"><u>Transform Your VOB Videos to WMV File Type at No Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-discover-the-undiscovered-top-social-media-memes/"><u>[New] 2024 Approved Discover the Undiscovered Top Social Media Memes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-deciphering-the-code-understanding-what-unlisted-on-youtube-means/"><u>[Updated] Deciphering the Code Understanding What 'Unlisted' On YouTube Means</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-3dr-a-singular-perspective-on-3d-printing-revolution/"><u>2024 Approved '3DR' A Singular Perspective on 3D Printing Revolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-and-machine-for-exceptional-job-applications/"><u>Bridging Human and Machine for Exceptional Job Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-ais-face-off-on-equal-ground-prompt/"><u>Creative AIs Face Off on Equal Ground Prompt</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS Max to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-generative-language-models-in-training/"><u>Leveraging Generative Language Models in Training</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/real-time-streaming-mastery-exploring-manycam-features-and-online-camera-integration/"><u>Real-Time Streaming Mastery: Exploring ManyCam Features and Online Camera Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-resolve-hulus-rununk13-error/"><u>Solving the Puzzle: A Step-by-Step Guide to Resolve Hulu's RUNUNK13 Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-pc-chatter-with-nvidias-rtx-assistant/"><u>Streamlining PC Chatter with Nvidia's RTX Assistant</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-6-overlords-massive-nlp-innovators-crown/"><u>Ultimate 6 Overlords: Massive NLP Innovators Crown</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-12-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme 12 5G Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-does-italy-immediately-prohibit-chatgpt/"><u>Why Does Italy Immediately Prohibit ChatGPT?</u></a></li>
 </ul></div>
 

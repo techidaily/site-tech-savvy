@@ -1,7 +1,7 @@
 ---
 title: How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed
-date: 2024-10-02T16:09:49.154Z
-updated: 2024-10-09T01:28:15.759Z
+date: 2024-10-14T05:26:39.611Z
+updated: 2024-10-14T22:11:13.302Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,18 +181,21 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-mac-visual-seize-methods-reviewed-limit-156-chars/"><u>[New] 2024 Approved Top Mac Visual Seize Methods Reviewed (Limit 156 Chars)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-revolutionize-your-clips-with-the-latest-vida-tools/"><u>[New] Revolutionize Your Clips with the Latest Vida Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-wonders-mastering-firefox-x-pie-mode/"><u>[New] Unveiling the Wonders Mastering Firefox X-Pie Mode</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-elevate-your-content-with-jujutsu-kaisen-on-tiktok/"><u>[Updated] 2024 Approved Elevate Your Content with Jujutsu Kaisen on TikTok</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-android-lightroom-assessment/"><u>[Updated] Comprehensive Android Lightroom Assessment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-enhancing-text-fidelity/"><u>ChatGPT: Enhancing Text Fidelity</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crystal-carousel-at-the-olympics/"><u>Crystal Carousel at the Olympics</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972074725-download-and-setup-corsair-void-pro-drivers-on-windows-with-quick-steps-get-started-now/"><u>Download and Setup Corsair Void Pro Drivers on Windows with Quick Steps - Get Started Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ensuring-persistence-in-chatgpt-discussions/"><u>Ensuring Persistence in ChatGPT Discussions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-15-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 15 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ai-world-start-here-with-9-communities/"><u>Navigating AI World: Start Here With 9 Communities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spark-creativity-mindmapping-and-ai-enhanced-ideas/"><u>Spark Creativity: Mindmapping & AI-Enhanced Ideas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasking-medical-misinformation-from-ai-expertise/"><u>Unmasking Medical Misinformation From AI Expertise</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-alternatives-at-a-glance-choosing-the-best-platforms/"><u>[Updated] YouTube Alternatives at a Glance Choosing the Best Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-for-crafting-top-tier-memes-on-9gag/"><u>2024 Approved Step-By-Step for Crafting Top-Tier Memes on 9GAG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-governance-matters-ceo-of-openai-speaks-out/"><u>AI Governance Matters: CEO of OpenAI Speaks Out</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-chatgpt-vs-the-future-with-claude/"><u>AI Showdown: ChatGPT Vs. The Future With Claude</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bert-vs-gpt-understanding-their-nlp-mechanisms/"><u>BERT vs GPT: Understanding Their NLP Mechanisms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-powered-hr-process-streamlining/"><u>GPT-Powered HR Process Streamlining</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-comprehensible-guide-to-high-quality-audios-on-youtube/"><u>In 2024, Comprehensible Guide to High-Quality Audios on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ghostly-lens-takedown-reviews/"><u>In 2024, Ghostly Lens Takedown Reviews</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nubia-z50-ultra-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nubia Z50 Ultra FRP In 3 Different Ways</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mobile-access-to-all-you-love-best-download-tools-for-android-and-ios/"><u>In 2024, Mobile Access to All You Love Best Download Tools for Android and iOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reestablishing-lost-communications-with-chatgpt/"><u>Reestablishing Lost Communications with ChatGPT</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/rising-above-the-rest-crafting-content-for-top-spot-at-vimeo-for-2024/"><u>Rising Above the Rest Crafting Content for Top Spot at Vimeo for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-influence-of-gpt-conversations-on-productivity-boosting/"><u>The Influence of GPT Conversations on Productivity Boosting</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-narzo-60-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme Narzo 60 Pro 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-v29e-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo V29e Location | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-on-the-fly-ai-with-agentgpt/"><u>Unlocking On-the-Fly AI with AgentGPT</u></a></li>
 </ul></div>
 

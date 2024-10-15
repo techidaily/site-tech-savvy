@@ -1,7 +1,7 @@
 ---
 title: Favorite Phones Reviewed by ZDNet Authors – Top Picks and Personal Usage Insights
-date: 2024-10-04T21:34:26.431Z
-updated: 2024-10-08T22:37:48.345Z
+date: 2024-10-08T02:44:07.773Z
+updated: 2024-10-15T09:16:39.278Z
 tags:
   - apple
 categories:
@@ -46,6 +46,13 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -57,6 +64,13 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -81,28 +95,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -114,13 +115,6 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -129,18 +123,18 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -182,18 +176,18 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-master-classroom-titling-software/"><u>[New] 2024 Approved Master Classroom Titling Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-photoshop-tricks-conceal-faces-and-spaces/"><u>[New] Expert Photoshop Tricks Conceal Faces & Spaces</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leading-8-ultimate-tripods-for-4k-video-capture/"><u>2024 Approved Leading 8 Ultimate Tripods for 4K Video Capture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-ways-to-tackle-real-time-dialogue-disruptions-with-chatgpt/"><u>7 Ways to Tackle Real-Time Dialogue Disruptions with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-comprehensible-guide-to-chatgpt/"><u>A Comprehensible Guide to ChatGPT</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721378648420-digital-distrust-spotting-impostor-chatgpt-sites-for-security/"><u>Digital Distrust: Spotting Impostor ChatGPT Sites for Security</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/effortless-audio-collection-from-your-imac-for-2024/"><u>Effortless Audio Collection From Your iMac for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721406565152-fraudulent-app-alert-spot-sham-gpt-tools-and-secure-info/"><u>Fraudulent App Alert: Spot Sham GPT Tools & Secure Info!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721434077213-is-truthgpt-coin-trustworthy-scam-alert/"><u>Is TruthGPT Coin Trustworthy? Scam Alert!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-paradox-of-productivity-is-generative-ai-causing-extra-jobs-according-to-zdnet/"><u>The Paradox of Productivity: Is Generative AI Causing Extra Jobs, According to ZDNet?</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-missing-mouse-icon-on-a-windows-tn-solved/"><u>Troubleshooting Your Missing Mouse Icon on a Windows ˈtɛn - Solved!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721436651003-twitters-without-smiles-linuss-leaked-knowledge-trojan-deconstruction-and-gpt-shortcomings-explored/"><u>Twitters Without Smiles, Linus’s Leaked Knowledge, Trojan Deconstruction, & GPT Shortcomings Explored.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-cloaked-consumption-the-secret-guide-for-exploring-instagram-stories-on-multiple-platforms-free/"><u>[Updated] 2024 Approved Cloaked Consumption The Secret Guide for Exploring Instagram Stories on Multiple Platforms (Free)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-greatest-kid-friendly-flying-toys-summary/"><u>[Updated] Greatest Kid-Friendly Flying Toys Summary</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-next-level-action-gopro-hero5-black-meets-hero4-silver/"><u>[Updated] Next-Level Action GoPro Hero5 Black Meets Hero4 Silver</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-upgrading-your-apple-studio-display-a-step-by-step-guide-to-firmware-updates/"><u>1. Upgrading Your Apple Studio Display: A Step-by-Step Guide to Firmware Updates</u></a></li>
+<li><a href="https://facebook.techidaily.com/12-proven-methods-to-skyrocket-engagement-in-social-networking/"><u>12 Proven Methods to Skyrocket Engagement in Social Networking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/caution-steer-clear-from-gpt-on-phones/"><u>Caution: Steer Clear From GPT on Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-openai-behind-in-controlling-gpt/"><u>Is OpenAI Behind in Controlling GPT?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-reactivating-adobe-on-windows-os/"><u>Mastering the Art of Reactivating Adobe on Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/narrative-enrichment-integrating-chatgpt-and-creative-ai-tools-in-dungeons-and-dragons/"><u>Narrative Enrichment: Integrating ChatGPT & Creative AI Tools in Dungeons & Dragons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-common-users-guide-to-task-ai-choices/"><u>The Common User's Guide to Task AI Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-copywriting-ethically-integrating-ai-techniques/"><u>The Future of Copywriting: Ethically Integrating AI Techniques</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/top-5-free-tools-for-creating-disk-images-on-a-windows-10-machine/"><u>Top 5 Free Tools for Creating Disk Images on a Windows 10 Machine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vital-upgrades-to-transform-chatgpt-plugins-store-dynamics/"><u>Vital Upgrades to Transform ChatGPT Plugins Store Dynamics</u></a></li>
 </ul></div>
 

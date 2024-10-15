@@ -1,7 +1,7 @@
 ---
 title: "Coding for Chuckles by AI: The Quest to Incite Guffaws"
-date: 2024-10-04T19:09:57.057Z
-updated: 2024-10-09T03:00:46.281Z
+date: 2024-10-11T22:05:58.736Z
+updated: 2024-10-15T11:33:02.921Z
 tags:
   - chatgpt
   - open-ai
@@ -48,16 +48,10 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 * **Joke Two:** A man walks into a bar with a piece of asphalt under his arm. He says to the bartender, "I'll take a beer and one for the road."
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Can ChatGPT Do?
@@ -74,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 
 * **Joke Three:** Knock, knock! _Who's there?_ May fourth. _May fourth who?_ May the fourth be with you.
 * **Joke Four:** Knock Knock! _Who's there?_ Boo. _Boo who_? Don't cry, it's just a computer program making jokes!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Can't ChatGPT Do?
 
@@ -99,15 +86,22 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 * **Joke Five:** Why don't scientists trust atoms? Because they make up everything!
 * **Joke Six:** I saw this advert in a window that said: "Television for sale, $1, volume stuck on full." I thought, "I can't turn that down."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Future of AI In Comedy?
 
 ![Screenshot AI Joke about the future of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-ai-joke-about-the-future-of-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are moral and ethical implications to consider here. However, these fall outside the scope of the question that this article poses: Can AI make us laugh?
@@ -124,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 * **Joke Eight:** Why did the computer go to the doctor? Because it had a virus!
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Last Laugh
@@ -155,16 +149,16 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-concealing-identity-select-8-highly-effective-photo-editors/"><u>[New] Concealing Identity Select 8 Highly Effective Photo Editors</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-boosting-your-brand-on-instagram-proven-5-techniques-and-success-stories/"><u>[New] In 2024, Boosting Your Brand on Instagram Proven 5 Techniques & Success Stories</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-founders-flowchart-for-launching-a-review-video-channel/"><u>[New] The Founder's Flowchart for Launching a Review Video Channel</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-ig-coverage-toolkit-apple-and-android-included-for-2024/"><u>[New] The Ultimate IG Coverage Toolkit, Apple & Android Included for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-path-to-virtual-visualization-excellence-a-zoom-video-filters-tutorial/"><u>2024 Approved The Path to Virtual Visualization Excellence A Zoom Video Filters Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/become-a-movavi-ally-exploring-our-partnership-benefits/"><u>Become a Movavi Ally: Exploring Our Partnership Benefits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/descargas-sin-coste-conversion-gratuita-de-archivos-vob-a-linea-con-movavi/"><u>Descargas Sin Coste: Conversión Gratuita De Archivos VOB a Línea Con Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-critical-installer-failure-error-code-1603-and-complete-setup-successfully/"><u>How to Fix the 'Critical Installer Failure (Error Code 1603) and Complete Setup Successfully</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-s17-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo S17 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-18-utilitarios-mais-eficientes-para-transformar-mp4-em-dvd-sem-custo-algum/"><u>Top 18 Utilitários Mais Eficientes Para Transformar MP4 Em DVD Sem Custo Algum!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp4movavimovavi/"><u>ムービーMP4/MOVから無料でAVIに直接変換！Movaviオンラインコンバーター</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-guide-to-compositing-using-blending-modes/"><u>[New] In 2024, Essential Guide to Compositing Using Blending Modes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-logitech-webcam-filming-tips-for-clear-visuals-and-smooth-sessions-for-2024/"><u>[New] Logitech Webcam Filming Tips for Clear Visuals and Smooth Sessions for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-complete-sdr-to-hdr-upgrade-blueprint/"><u>[New] The Complete SDR to HDR Upgrade Blueprint</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-rise-to-editing-greatness-with-our-top-10-youtube-tips/"><u>[Updated] In 2024, Rise to Editing Greatness with Our Top 10 YouTube Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-joy-con-communication-breakdown-with-switch-device/"><u>Addressing Joy-Con Communication Breakdown with Switch Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/installation-wrap-up-all-systems-go-with-nvidia/"><u>Installation Wrap-Up: All Systems Go with NVIDIA</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/minimizing-gan-blunders-expert-tips/"><u>Minimizing GAN Blunders: Expert Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-google-chrome-not-responding-restart-tips/"><u>Resolving 'Google Chrome Not Responding' - Restart Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-carbon-footprint-myth-how-to-truly-assess-impacts/"><u>The Carbon Footprint Myth: How to Truly Assess Impacts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncharted-dialogues-with-gpt-powered-systems/"><u>Uncharted Dialogues with GPT-Powered Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-emotional-intelligence-in-machine-learning/"><u>Unpacking Emotional Intelligence in Machine Learning</u></a></li>
 </ul></div>
 

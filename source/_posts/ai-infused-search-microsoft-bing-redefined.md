@@ -1,7 +1,7 @@
 ---
 title: "AI-Infused Search: Microsoft Bing Redefined"
-date: 2024-10-06T04:38:12.840Z
-updated: 2024-10-08T18:58:26.818Z
+date: 2024-10-08T22:26:04.350Z
+updated: 2024-10-15T00:33:30.189Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
  The Prometheus model powers the new Bing to deliver summarized search results that are more relevant and can even answer composite search queries.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A New Generation of AI for Web Searching
@@ -53,22 +53,15 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
 
 ![Google app on the home screen of a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-google-fi-phones.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the AI-powered Bing, you can specifically query it to give you a list of important points related to your Science class, and Bing will provide you with precisely that. You won’t have to explore multiple retrieved search results. Instead, you can rest assured that Bing has all the correct answers you need, thanks to its AI-powered search algorithm.
 
  You can also use Bing as your AI chatbot and query it for simple questions like “What’s the weather going to be like in two weeks?” and even complex queries such as “I enjoyed Coachella, what similar music festivals should I visit?”. If you’re not satisfied with Bing’s answer, you can ask it to refine the response per your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A New Era for Web Browsers as Well?
@@ -78,15 +71,22 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
 ![Icons of multiple web browsers on a wooden board background](https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b7932652ed0826ec0104cd05df9774.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While we’re certainly still a long way from seeing web browsers go obsolete, but we can expect functional upgrades that make it easy to access AI-powered web searching and content generation. Perhaps other browsers, such as Chrome and Opera, will adopt something similar to Edge’s new AI sidebar.
 
 [Google is expected to release its Bard competitor](https://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) to Microsoft’s AI-powered Bing very soon. Once it’s launched and possibly integrated with Google Chrome, we’ll have a better idea of how web browsers will evolve in the coming future.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bing Redefines Searching Using AI
 
@@ -107,24 +107,18 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-art-of-video-cutting-and-compiling-in-studio/"><u>[New] In 2024, The Art of Video Cutting and Compiling in Studio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5aac5l2v6zmn5l2o6zu76iwm6kea55yl6zu75b2x5pmc55qe6ygy5bu25zwp6agmic0g5pyj5pwi5ps56ycy5oqa6kgt/"><u>如何降低電腦觀看電影時的遲延問題 - 有效改進技術</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-90-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 90</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cambia-file-avi-a-oggv-liberamente-online-gratuito-con-movavi/"><u>Cambia File AVI a OGGV Liberamente Online - Gratuito Con Movavi</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/channel-building-blueprint-reaching-1k-subs-rapidly-for-2024/"><u>Channel Building Blueprint Reaching 1K Subs Rapidly for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/como-convertir-un-archivo-amv-a-un-archivo-mp3-gratuitamente-utilizando-el-servicio-en-linea-de-movavi/"><u>Cómo Convertir Un Archivo AMV a Un Archivo MP3 Gratuitamente Utilizando El Servicio en Línea De Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convert-video-formats-for-free-mp4-and-mpeg-with-movavis-quick-online-tool/"><u>Convert Video Formats for Free: MP4 & MPEG with Movavi's Quick Online Tool!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dicas-e-tecnicas-essenciais-para-clarear-videos-top-6-aplicativos-mais-usados-em-celulares-e-computadores/"><u>Dicas E Técnicas Essenciais Para Clarear Vídeos: Top 6 Aplicativos Mais Usados Em Celulares E Computadores</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-aac-file-transformation-service-quick-and-simple-online-method/"><u>Free AAC File Transformation Service - Quick & Simple Online Method</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-12r-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi Note 12R to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-mini-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 mini Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/pronunciation-patchwork-unraveling-irish-aussie-and-us-accents/"><u>Pronunciation Patchwork: Unraveling Irish, Aussie, and U.S. Accents</u></a></li>
-<li><a href="https://common-error.techidaily.com/ps4-connection-woes-follow-this-step-by-step-fixers-guide-for-nat-types/"><u>PS4 Connection Woes? Follow This Step by Step Fixer's Guide for NAT Types!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/registro-de-pendentes-do-google-em-202n-guia-passo-a-passo-com-a-ferramenta-6-ways-free-movavi/"><u>Registro De Pendentes Do Google Em 202N: Guia Passo-a-Passo Com a Ferramenta 6 Ways Free - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforma-tu-video-webm-directamente-en-un-gif-sin-coste-la-herramienta-online-perfecta-de-movavi/"><u>Transforma Tu Vídeo WebM Directamente en Un GIF Sin Coste: La Herramienta Online Perfecta (De Movavi)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-vos-fichiers-wma-en-3gp-en-ligne-sans-frais-solution-movavi/"><u>Transformez Vos Fichiers WMA en 3GP en Ligne Sans Frais - Solution Movavi</u></a></li>
-<li><a href="https://win-popular.techidaily.com/unlock-your-creativity-with-vue-notus-premium-vuejstailwind-css-bundle-from-creative-tim/"><u>Unlock Your Creativity with Vue Notus: Premium VueJS/Tailwind CSS Bundle From Creative Tim</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-optimize-your-instagram-stories-for-engagement-for-2024/"><u>[New] How to Optimize Your Instagram Stories for Engagement for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-best-video-capture-tools-for-windows/"><u>[Updated] 2024 Approved Ultimate Guide Best Video Capture Tools for Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-a-comprehensive-guide-to-high-quality-laptop-recordings-for-2024/"><u>[Updated] A Comprehensive Guide to High-Quality Laptop Recordings for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-huawei-p60-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Huawei P60 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-emergence-the-historical-tapestry-untold/"><u>AI Emergence: The Historical Tapestry Untold</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/five-artificial-steps-ai-accelerating-cybercrime/"><u>Five Artificial Steps: AI Accelerating Cybercrime</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-standard-to-superior-4-key-ways-claude-outshines-gpt-based-conversation-ais/"><u>From Standard to Superior: 4 Key Ways Claude Outshines GPT-Based Conversation AIs</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-nokia-g310-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Nokia G310 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-icon-vanishing-act-solutions-for-restoring-all-app-icons/"><u>IPhone Icon Vanishing Act: Solutions for Restoring All App Icons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mobile-savings-and-decoding-digital-threats/"><u>Mobile Savings & Decoding Digital Threats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-phenomenon-of-ai-powered-dialogue-systems/"><u>The Phenomenon of AI-Powered Dialogue Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-vivo-g2-by-drfone-android/"><u>Universal Unlock Pattern for Vivo G2</u></a></li>
 </ul></div>
 

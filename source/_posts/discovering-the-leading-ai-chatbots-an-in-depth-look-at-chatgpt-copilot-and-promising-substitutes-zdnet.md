@@ -1,7 +1,7 @@
 ---
 title: "Discovering the Leading AI Chatbots : An In-Depth Look at ChatGPT, Copilot, and Promising Substitutes | ZDNET"
-date: 2024-09-18 19:28:14
-updated: 2024-09-20 12:22:56
+date: 2024-10-14T05:07:23.781Z
+updated: 2024-10-15T08:56:19.762Z
 tags:
   - work-life
 categories:
@@ -36,6 +36,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 ## What is the best AI chatbot right now?
 
 In May 2024, OpenAI [supercharged](https://www.zdnet.com/article/6-ways-openai-just-supercharged-chatgpt-for-free-users/) the free version of ChatGPT, solving its biggest pain points and lapping other AI chatbots on the market. For that reason, ChatGPT moved to the top of the list, making it the best AI chatbot available now. Keep reading to discover why and how it compares to Copilot, You.com, Perplexity, and more. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best AI chatbots of 2024
 
@@ -380,6 +387,19 @@ Another advantage of the upgraded ChatGPT is its availability to the public at n
 | Socratic                      | Free                | From Google                                              | Kid-friendly; can help with homework                                      | Children can type in any question and Socratic will generate a conversational, human-like response with fun unique graphics.                                             |
 | HuggingChat                   | Free                | HuggingFace                                              | Can have access to the internet if you'd like to                          | You can build your own chatbot using HuggingChat that suits your needs.                                                                                                  |
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which AI chatbot is right for you?
 
 While I think ChatGPT is the best AI chatbot, your use case may be hyper-specific or have certain demands. If you want an AI chatbot that produces clean, reliable, business-ready copy, for example, then Jasper is for you. If you want a chatbot that acts more like a search engine, Perplexity may be for you. Lastly, if there is a child in your life, Socratic might be worth checking out. 
@@ -398,6 +418,13 @@ See our breakdown below:
 | Gemini              | An AI chatbot infused with the Google experience you know and love, from its LLM to its UI.                                                                                                          |
 | Socratic by Google  | The best AI chatbot for helping children understand concepts they are learning in school with educational, fun graphics.                                                                             |
 | HuggingChat         | An AI chatbot that's best for building or exploring how to build your very own chatbot.                                                                                                              |
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing a chatbot
 
@@ -431,6 +458,13 @@ Chatbots use LLMs to train the AI to produce human-like responses. Some tools ar
 
 AI chatbot programs vary in cost. Some are entirely free, while others cost as much as $600 a month. However, many, like ChatGPT, Copilot, Gemini, and YouChat, are free to use. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the difference between an AI chatbot and an AI writer?
 
 The main difference between an AI chatbot and an AI writer is the type of output they generate and their primary function.
@@ -462,11 +496,25 @@ Read more about the [best tools for your business](https://www.zdnet.com/home-an
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-unlocking-the-value-in-twitters-archives/"><u>[New] In 2024, Unlocking the Value in Twitters Archives</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-list-of-ex-followers-on-instagram/"><u>2024 Approved List of Ex-Followers on Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/complete-analysis-triangulating-life-with-samsung-vr-for-2024/"><u>Complete Analysis Triangulating Life with Samsung VR for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-lava-yuva-2-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Lava Yuva 2 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-infinix-note-30-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Infinix Note 30 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-window-screenshots-a-comprehensive-tutorial-for-windows-users/"><u>Mastering Window Screenshots: A Comprehensive Tutorial for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-the-no-rest-challenge-fixes-for-windows-11-sleep-issues/"><u>Overcoming the 'No Rest' Challenge: Fixes for Windows 11 Sleep Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventative-measures-against-high-cpu-heat-levels-and-optimization-strategies/"><u>Preventative Measures Against High CPU Heat Levels and Optimization Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protective-strategies-and-timings-for-effective-bios-upgrades/"><u>Protective Strategies & Timings for Effective BIOS Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-tips-accelerate-windows-10-startup-improve-boot-times/"><u>Quick Tips: Accelerate Windows 10 Startup – Improve Boot Times</u></a></li>
+</ul></div>
+

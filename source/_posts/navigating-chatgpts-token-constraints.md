@@ -1,7 +1,7 @@
 ---
 title: Navigating ChatGPT’s Token Constraints
-date: 2024-10-08T01:53:56.305Z
-updated: 2024-10-08T17:52:14.303Z
+date: 2024-10-11T00:58:01.450Z
+updated: 2024-10-14T20:10:41.412Z
 tags:
   - chatgpt
   - open-ai
@@ -71,16 +71,10 @@ thumbnail: https://thmb.techidaily.com/1fae0ad394ab82a99f86e121c7a2e9769c50867e0
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
@@ -93,22 +87,15 @@ thumbnail: https://thmb.techidaily.com/1fae0ad394ab82a99f86e121c7a2e9769c50867e0
 
  If you feel these features are entirely worth it and up your alley, you can enroll for the paid subscription and benefit from them immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Token Pricing Structure
 
 ![Set of black opened envelope and cash dollars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-karolina-grabowska-4386370.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are a few different application models available, which you can choose based on your requirements:
@@ -128,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/1fae0ad394ab82a99f86e121c7a2e9769c50867e0
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Maximum Token Limits
@@ -155,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/1fae0ad394ab82a99f86e121c7a2e9769c50867e0
  If your output is truncated, you must increase the specified maximum limit from your dashboard. Remember, the sum of your prompt and maximum tokens should always be less than equal to the model's maximum token limit.
 
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Learn to Control Your ChatGPT Prompts for Best Results
 
@@ -183,22 +177,14 @@ thumbnail: https://thmb.techidaily.com/1fae0ad394ab82a99f86e121c7a2e9769c50867e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-mastering-tales-and-truths-the-worlds-finest-schools-top-8-for-2024/"><u>[New] Mastering Tales & Truths The World's Finest Schools (Top 8) for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-effective-strategies-for-capturing-online-gatherings-mac-pc/"><u>[Updated] Effective Strategies for Capturing Online Gatherings (Mac, PC)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-dive-into-the-world-of-creative-filters-for-zoom-calls/"><u>2024 Approved Dive Into the World of Creative Filters for Zoom Calls</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-poco-c50-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Poco C50 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/come-scaricare-e-copiare-un-dvd-sul-tuo-computer-con-lutilizzo-di-software-movimaker/"><u>Come Scaricare E Copiare Un DVD Sul Tuo Computer Con L'Utilizzo Di Software MoviMaker</u></a></li>
-<li><a href="https://facebook.techidaily.com/command-control-over-comments-a-guide-for-social-media-users/"><u>Command Control Over Comments: A Guide for Social Media Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/el-poder-del-guion-grafico-en-la-narracion-visual-una-guia-facil-de-seguir-con-7-pasos/"><u>El Poder Del Guión Gráfico en La Narración Visual - Una Guía Fácil De Seguir Con 7 Pasos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explorando-os-top-tecnicas-de-reducao-da-profundidade-de-cor-em-imagens-com-video-tutorials/"><u>Explorando Os Top Técnicas De Redução Da Profundidade De Cor Em Imagens Com Vídeo Tutorials</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuito-conversor-de-formatos-vob-para-jpeg-em-miniature-online-movavi/"><u>Gratuito Conversor De Formatos VOB Para JPEG Em Miniature Online - Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-correcting-discord-set-up-issues-on-win-1011/"><u>Guide to Correcting Discord Set-Up Issues on Win 10/11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-your-epson-es-400-scanner-drivers-on-windows-quick-and-easy-steps/"><u>Install Your Epson ES-400 Scanner Drivers on Windows: Quick and Easy Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformer-gratuitement-les-fichiers-m1v-au-format-ligne-grace-a-movavi-un-guide-detaille/"><u>Transformer Gratuitement Les Fichiers M1V Au Format Ligne Grâce À Movavi - Un Guide Détaillé</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/verzend-retour-beheer-professionele-logistiek-losungen-van-movavi/"><u>Verzend-Retour Beheer: Professionele Logistiek Lösungen Van Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726224334373-tta-flac-movavi/"><u>오픈소스 시청자들에겐 사용하기 쉬운 TTA FLAC 크리이트: Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dpxmovavi/"><u>オンラインで簡単に自由にDPXファイルを変換：Movaviの解決方法</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uilding-a-sports-channel-via-macos-step-by-step-guide-for-2024/"><u>[New] Building a Sports Channel via macOS Step by Step Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-efficiently-manipulate-iphone-images-to-your-desired-scale/"><u>[New] In 2024, Efficiently Manipulate iPhone Images to Your Desired Scale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-penmanship-over-artificial-craftsmanship/"><u>Masterful Penmanship Over Artificial Craftsmanship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-you-pay-more-for-gpt-advantages/"><u>Should You Pay More for GPT Advantages?</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-how-to-address-the-dark-screen-glitch-in-persona-5-strikers/"><u>Solution Steps: How to Address the Dark Screen Glitch in Persona 5 Strikers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-content-generation-for-presentations-via-chatgpt/"><u>Streamlining Content Generation for Presentations via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ai-revolution-in-business-thriving-strategies-at-work/"><u>The AI Revolution in Business: Thriving Strategies at Work</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-list-of-free-user-friendly-editing-apps-for-2024/"><u>The Ultimate List of Free, User-Friendly Editing Apps for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-printer-software-for-windows-11-easy-guide-and-links-to-download/"><u>Update Your HP Printer Software for Windows 11: Easy Guide and Links to Download</u></a></li>
 </ul></div>
 

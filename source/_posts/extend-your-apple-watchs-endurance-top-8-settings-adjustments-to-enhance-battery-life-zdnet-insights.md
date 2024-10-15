@@ -1,7 +1,7 @@
 ---
 title: "Extend Your Apple Watch's Endurance: Top 8 Settings Adjustments to Enhance Battery Life - ZDNet Insights"
-date: 2024-10-03T04:07:49.124Z
-updated: 2024-10-08T21:32:50.004Z
+date: 2024-10-09T22:06:41.797Z
+updated: 2024-10-14T20:27:18.837Z
 tags:
   - apple
 categories:
@@ -76,18 +76,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -98,10 +98,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
@@ -113,10 +113,10 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -126,10 +126,10 @@ I've heard from many folks who have faced issues with battery life on the Apple 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test smartwatches
@@ -173,22 +173,14 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-recall-facebooks-older-episodes-with-your-computer-and-phone/"><u>[New] 2024 Approved How to Recall Facebook's Older Episodes with Your Computer & Phone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/end-the-light-homegrown-animated-innovations-for-2024/"><u>[New] Bend the Light Homegrown Animated Innovations for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>[Updated] In 2024, Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-obs-tutorial-broadcasting-on-youtube-from-home/"><u>2024 Approved OBS Tutorial Broadcasting on Youtube From Home</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-pioneering-usability-unearthed-strategies-for-amplified-windows-11-capabilities/"><u>2024 Approved Pioneering Usability Unearthed Strategies for Amplified Windows 11 Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-clear-winners-why-ios-beats-webchatgpt/"><u>6 Clear Winners: Why iOS Beats WebchatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-criteria-preparing-chatgpt-as-a-mental-wellness-aid/"><u>6 Criteria: Preparing ChatGPT as a Mental Wellness Aid</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-concerns-about-automated-messaging-ai/"><u>7 Concerns About Automated Messaging AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-features-to-consider-when-subscribing-to-an-ai-chatbot-service/"><u>7 Features to Consider When Subscribing to an AI Chatbot Service</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-every-aspect-of-the-samsung-gear-s3-frontier-a-rigorous-assessment-of-its-extensive-features/"><u>Exploring Every Aspect of the Samsung Gear S3 Frontier - A Rigorous Assessment of Its Extensive Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721433072602-gpt-4-at-your-fingertips-but-plus-continues-to-offer-unmatched-services/"><u>GPT-4 at Your Fingertips; But Plus Continues To Offer Unmatched Services</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-google-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Google Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-visual-greenprints-a-treasure-trove-of-free-templates-for-cinematic-professionals/"><u>In 2024, Visual Greenprints A Treasure Trove of Free Templates for Cinematic Professionals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721404975415-join-openais-quest-track-and-report-software-glitches/"><u>Join OpenAI's Quest: Track and Report Software Glitches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721393230759-no-more-payments-for-gpt-4-but-remember-plus-continues-to-innovate-with-6-key-features/"><u>No More Payments for GPT-4: But Remember Plus Continues to Innovate with 6 Key Features.</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/real-time-streaming-and-virtual-camera-app-master-the-art-of-online-broadcasts-with-manycam/"><u>Real-Time Streaming and Virtual Camera App: Master the Art of Online Broadcasts with ManyCam</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721380493945-scam-alert-fake-gpt-programs-may-lead-to-privacy-breaches/"><u>Scam Alert: Fake GPT Programs May Lead to Privacy Breaches</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024s-must-watch-science-youtubers-for-a-world-of-knowledge/"><u>[New] 2024'S Must-Watch Science Youtubers for a World of Knowledge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-implementation-in-hardware-realm/"><u>Exploring AI Implementation in Hardware Realm</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-peak-of-intelligence-between-gemini-elite-and-gptplusplus/"><u>Exploring the Peak of Intelligence: Between Gemini Elite & GPT++</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/fehlerbehebung-windows-file-recovery-kann-nicht-den-zieldirectory-erstellen/"><u>Fehlerbehebung: Windows File Recovery Kann Nicht Den Zieldirectory Erstellen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-chatgpt-for-excel-proficiency/"><u>Leverage ChatGPT for Excel Proficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-interaction-the-impactful-cutting-edge-features-of-gpt/"><u>Next Gen Interaction: The Impactful, Cutting-Edge Features of GPT</u></a></li>
+<li><a href="https://win-community.techidaily.com/schnelle-wiederherstellung-verlorener-pst-dokumente-fuhrung-durch-den-vorgang/"><u>Schnelle Wiederherstellung Verlorener PST-Dokumente - Führung Durch Den Vorgang</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-on-windows-11s-direct-image-viewing/"><u>Turn On Windows 11'S Direct Image Viewing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Efficiency First: Eliminating Nonessential ChatGPT Apps"
-date: 2024-10-01T17:26:19.585Z
-updated: 2024-10-09T03:33:42.121Z
+date: 2024-10-12T17:43:18.720Z
+updated: 2024-10-15T05:11:21.362Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/8497a84119e0a96a5c983db49610c81e2418d1546
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Aaron Web Browser
@@ -56,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/8497a84119e0a96a5c983db49610c81e2418d1546
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to [scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/)? Maybe ChatGPT plugins are not the right tool.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. AppyPie App Builder
 
@@ -78,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/8497a84119e0a96a5c983db49610c81e2418d1546
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. AI Agents
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -89,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/8497a84119e0a96a5c983db49610c81e2418d1546
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. A Movie Please (FilmFindr)
@@ -109,16 +109,16 @@ thumbnail: https://thmb.techidaily.com/8497a84119e0a96a5c983db49610c81e2418d1546
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
@@ -147,19 +147,16 @@ thumbnail: https://thmb.techidaily.com/8497a84119e0a96a5c983db49610c81e2418d1546
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-piecing-a-puzzle-of-cinematic-highlights-for-2024/"><u>[Updated] Piecing a Puzzle of Cinematic Highlights for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-superior-live-streaming-and-conferencing-apps-for-2024/"><u>[Updated] Superior Live Streaming & Conferencing Apps for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/complete-solution-to-overcome-iphones-usb-driving-troubles-a-step-by-nstep-guide/"><u>Complete Solution to Overcome iPhone's USB Driving Troubles: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/corsair-air-a115-evaluation-is-the-high-price-justified-by-its-quietness-and-durability/"><u>Corsair Air A115 Evaluation: Is the High Price Justified by Its Quietness and Durability?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empower-every-moment-ais-role-in-shaping-an-exceptional-lifestyle/"><u>Empower Every Moment: AI's Role in Shaping an Exceptional Lifestyle</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-silence-to-speech-giving-prompts-auditory-answers/"><u>From Silence to Speech: Giving Prompts Auditory Answers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guia-facil-para-insertar-subtitulos-en-su-pelicula-y-usar-archivos-srt/"><u>Guía Fácil Para Insertar Subtítulos en Su Película Y Usar Archivos SRT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-new-hp-officejet-pro-8620-printer-drivers-on-your-windows-device/"><u>How to Install New HP OfficeJet Pro 8620 Printer Drivers on Your Windows Device</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/improve-your-logitech-m510-experience-with-these-easy-drivers-update-instructions/"><u>Improve Your Logitech M510 Experience with These Easy Drivers Update Instructions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-and-ipad-verifying-genuine-ai-services/"><u>IPhone & iPad: Verifying Genuine AI Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pinpointing-the-beneficiaries-in-ai-creation-copyrights/"><u>Pinpointing the Beneficiaries in AI Creation Copyrights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-developers-guide-to-chatgpt-in-vs-code/"><u>The Developer's Guide to ChatGPT in VS Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-minds-tech-savvy-futures-6-workplace-survival-tactics/"><u>Transformative Minds, Tech-Savvy Futures: 6 Workplace Survival Tactics</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-step-by-step-techniques-for-integrating-music-sections-within-video-projects-via-filmora-for-2024/"><u>Updated Step-by-Step Techniques for Integrating Music Sections Within Video Projects via Filmora for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-audible-riches-from-social-media-videos-fb-to-mp3-guide/"><u>[New] In 2024, Audible Riches From Social Media Videos - FB To MP3 Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-amazon-primes-trending-series-twitters-choice-2023/"><u>[Updated] 2024 Approved Amazon Prime's Trending Series - Twitter's Choice, 2023</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-playlist-construction-on-youtube-for-2024/"><u>[Updated] The Art of Playlist Construction on YouTube for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-digital-safety-asap-with-these-9-speedy-cybersecurity-tips/"><u>Boost Your Digital Safety ASAP with These 9 Speedy Cybersecurity Tips!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/come-scaricare-i-podcast-in-modo-ottimale-i-15-consigli-essenziali-di-movavi-per-pc-e-smartphone/"><u>Come Scaricare I Podcast in Modo Ottimale: I 15 Consigli Essenziali Di Movavi per PC E Smartphone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-joy-of-melodic-brain-teasers-a-fresh-take-on-daily-song-quizzes/"><u>Discover the Joy of Melodic Brain Teasers - A Fresh Take on Daily Song Quizzes!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-ways-to-determine-if-workplace-surveillance-is-tracking-your-digital-footprint/"><u>Discover Ways To Determine If Workplace Surveillance Is Tracking Your Digital Footprint!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-the-latest-thunderbird-128-version-featuring-the-new-nebula-upgrade/"><u>Download the Latest Thunderbird 128 Version Featuring the New Nebula Upgrade</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-record-screen-on-laptop/"><u>How to Record Screen on Laptop</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-c12-plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia C12 Plus FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-vids-with-these-8-windows-titles/"><u>Streamline Your Vids with These 8 Windows Titles</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AI's Generational Journey Into Falsehood Spreaders
-date: 2024-10-07T03:17:34.346Z
-updated: 2024-10-08T18:10:46.203Z
+date: 2024-10-12T09:10:03.144Z
+updated: 2024-10-15T06:20:31.241Z
 tags:
   - chatgpt
   - open-ai
@@ -46,13 +46,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example, [ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/). But it can also generate social media posts or news articles that may deceive people.
@@ -63,14 +56,14 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
- Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -83,13 +76,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -99,10 +85,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  It's crucial, then, to be able to [identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -112,6 +98,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  You might have come across tools like [Resemble AI](https://www.resemble.ai/), [Speechify](https://speechify.com/), [FakeYou](https://fakeyou.com/), and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by [The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -123,6 +116,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -147,21 +147,16 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-visual-wit-iphone-memetic-formats/"><u>[New] In 2024, Visual Wit IPhone Memetic Formats</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-amplifying-impact-youtube-visibility-techniques-for-2024/"><u>[Updated] Amplifying Impact YouTube Visibility Techniques for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-ditching-new-features-going-back-to-el-capitan-for-2024/"><u>[Updated] Ditching New Features Going Back to El Capitan for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-talking-head-tricks-simple-steps-for-stunning-online-presence/"><u>[Updated] In 2024, Talking-Head Tricks Simple Steps for Stunning Online Presence</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-ideal-online-destinations-for-video-promotion/"><u>2024 Approved Ideal Online Destinations for Video Promotion</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-s23-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy S23 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatting-to-the-future-gpt-and-bing-in-ai-dialogue-duel/"><u>Chatting to the Future: GPT & Bing in AI Dialogue Duel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/combatting-fake-chatgpt-pages-a-practical-guide/"><u>Combatting Fake ChatGPT Pages: A Practical Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-gratuita-dei-file-wtv-in-mp4-online-guida-rapida-e-completa-con-movavi-video-converter/"><u>Conversione Gratuita Dei File WTV in MP4 Online: Guida Rapida E Completa Con Movavi Video Converter</u></a></li>
-<li><a href="https://games-able.techidaily.com/easing-into-the-game-after-fatigue-episodes/"><u>Easing Into the Game After Fatigue Episodes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-youtube-gaming-pros-choice-of-5-microphones/"><u>In 2024, YouTube Gaming Pros' Choice of 5 Microphones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-teslas-mind-unveiling-gpt/"><u>Inside Tesla's Mind: Unveiling GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-impact-crafting-social-media-posts-with-chatgpt/"><u>Maximizing Impact: Crafting Social Media Posts with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-digital-frontier-with-nightshade-for-authenticity-protection/"><u>Navigating the Digital Frontier with Nightshade for Authenticity Protection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfecting-every-dish-7-ways-ai-assists-chefs/"><u>Perfecting Every Dish: 7 Ways AI Assists Chefs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-lean-on-gpt-to-condense-texts-may-backfire/"><u>Why Lean on GPT to Condense Texts May Backfire?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-charting-your-path-to-higher-youtube-spotlight-for-2024/"><u>[New] Charting Your Path to Higher YouTube Spotlight for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-accelerated-learning-quick-start-to-becoming-a-lut-expert/"><u>2024 Approved Accelerated Learning Quick Start to Becoming a LUT Expert</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adapting-careers-in-an-ai-driven-world/"><u>Adapting Careers in an AI-Driven World</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/bringing-favorite-manga-characters-to-life-in-tiktok/"><u>Bringing Favorite Manga Characters to Life in TikTok</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-to-use-w10-screen-grabber-app/"><u>Easy-to-Use W10 Screen Grabber App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embark-on-a-venture-into-dialogue-system-crafting/"><u>Embark on a Venture Into Dialogue System Crafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-conversation-to-creativity-4-reasons-for-claude-3-preference/"><u>From Conversation to Creativity: 4 Reasons for Claude 3 Preference</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469372294-issue-with-iphone-wi-fi-try-these-five-methods-for-a-stable-connection/"><u>Issue with iPhone Wi-Fi? Try These Five Methods for a Stable Connection!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpts-plugin-for-wolfram-alpha-triad/"><u>Leveraging ChatGPT's Plugin for Wolfram Alpha Triad</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/video-perfection-crafting-squares-for-facebook-popularity-for-2024/"><u>Video Perfection Crafting Squares for Facebook Popularity for 2024</u></a></li>
 </ul></div>
 

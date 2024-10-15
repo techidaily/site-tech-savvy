@@ -1,7 +1,7 @@
 ---
 title: From Virtual Conversations to Real Audio Stories
-date: 2024-10-07T04:39:13.158Z
-updated: 2024-10-08T19:08:26.896Z
+date: 2024-10-11T00:26:08.098Z
+updated: 2024-10-14T18:38:49.661Z
 tags:
   - chatgpt
   - open-ai
@@ -53,26 +53,26 @@ thumbnail: https://thmb.techidaily.com/c2e36ccbc985ffa8060cba8099c01adb9e0bc2274
 ![Script by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-script.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Finding ways to pose the instructions that would create a usable script revealed various limitations to ChatGPT.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Topical Writing Isn’t Possible
 
  ChatGPT 3.5 is unsuitable for topical writing. It has been [trained on a dataset that contains material up to September 2021](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/), so the shortcoming here is obvious.
 
  For the Really Useful Podcast, this meant that the show’s news section would remain conversational. Instead, the introduction to the section would be created with ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. ChatGPT Doesn’t Quite Understand
 
@@ -90,14 +90,14 @@ thumbnail: https://thmb.techidaily.com/c2e36ccbc985ffa8060cba8099c01adb9e0bc2274
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-recommend-fail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Variations were attempted, but all resulted in largely the same response. Unperturbed, the recorded podcast featured a shortened version of this “script.”
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How the ChatGPT-Scripted Podcast Turned Out
 
@@ -131,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/c2e36ccbc985ffa8060cba8099c01adb9e0bc2274
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-news.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For the show’s middle section (explainers, tips, and tricks) the intro prompt was:
 
 > _Write an introduction to discussion about decrypting ransomware, games not working on Windows 11, and why you shouldn't pay to use Microsoft Word_
@@ -153,6 +146,13 @@ thumbnail: https://thmb.techidaily.com/c2e36ccbc985ffa8060cba8099c01adb9e0bc2274
 > _As an AI language model, I cannot comment or recommend the creation of a podcast on behalf of individuals or organizations._
 
  The finished Really Useful Podcast can be listened to on [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), and you can subscribe on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-really-useful-podcast/id1437847131). To give you an idea of how the scripted sections turned out, I’ve edited them into a compressed edition.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should You Use ChatGPT to Write a Podcast?
 
@@ -185,22 +185,18 @@ thumbnail: https://thmb.techidaily.com/c2e36ccbc985ffa8060cba8099c01adb9e0bc2274
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boost-your-engagement-now-discover-these-key-youtube-shortcuts/"><u>[New] 2024 Approved Boost Your Engagement Now! - Discover These Key YouTube Shortcuts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-secrets-of-successful-ps3-game-recording-tactics/"><u>[New] In 2024, Secrets of Successful PS3 Game Recording Tactics</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-getting-comfortable-with-zoom-a-beginners-tutorial/"><u>[Updated] 2024 Approved Getting Comfortable with Zoom A Beginner’s Tutorial</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-connected-world-sharing-twitter-media-in-whatsapp-chat/"><u>[Updated] 2024 Approved The Connected World Sharing Twitter Media in WhatsApp Chat</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unlocking-the-power-of-hashtags-in-youtube-gaming-culture/"><u>[Updated] 2024 Approved Unlocking the Power of Hashtags in YouTube Gaming Culture</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unveiling-the-leading-gratis-converters-srt-edition-for-2024/"><u>[Updated] Unveiling the Leading Gratis Converters SRT Edition for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/24-essential-ai-applications-to-boost-your-email-creativity/"><u>24 Essential AI Applications to Boost Your Email Creativity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-examples-that-show-you-cannot-trust-zerogpt-and-other-ai-detection-tools/"><u>4 Examples That Show You Cannot Trust ZeroGPT and Other AI Detection Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-note-30-vip-racing-edition-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Note 30 VIP Racing Edition Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-close-look-at-claude-pro-and-its-comparison-with-chatgptplus/"><u>A Close Look at Claude Pro and Its Comparison with ChatGPT+</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-closer-look-at-chatgpts-built-in-add-ons/"><u>A Closer Look at ChatGPT's Built-In Add-Ons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-ais-creative-writing-advantagesdisadvantages/"><u>A Deep Dive Into AI’s Creative Writing Advantages/Disadvantages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abandoning-gpt-conversation-steps-here/"><u>Abandoning GPT Conversation: Steps Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-update-with-latest-lenovo-t430-drivers-compatible-with-all-versions-of-windows/"><u>Effortless Update with Latest Lenovo T430 Drivers Compatible With All Versions of Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721390945008-join-the-elite-club-of-bug-detectives-at-openai/"><u>Join the Elite Club of Bug Detectives at OpenAI</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-x100-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo X100 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721434687559-tweet-no-more-emojis-linuss-secrets-revealed-trojan-dangers-decoded-and-gpt-issues-exposed/"><u>Tweet No More Emojis, Linus’s Secrets Revealed, Trojan Dangers Decoded, & GPT Issues Exposed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-10-best-gba-emulators-for-android-you-can-find/"><u>[New] In 2024, 10 Best GBA Emulators for Android You Can Find</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-infusing-your-art-with-captivating-collage-vistas/"><u>[Updated] Infusing Your Art with Captivating Collage Vistas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieving-holistic-health-setting-clear-targets-with-chatgpt/"><u>Achieving Holistic Health: Setting Clear Targets with ChatGPT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-driver-setup-for-your-arduino-mega-2560-swift-downloads-at-hand/"><u>Hassle-Free Driver Setup for Your Arduino Mega 2560 – Swift Downloads at Hand</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone SE Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-captivating-windows-11-visual-themes/"><u>In 2024, Crafting Captivating Windows 11 Visual Themes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maintaining-discretion-and-trust-in-ai-conversations/"><u>Maintaining Discretion and Trust in AI Conversations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-monetization-an-instagram-income-journey-for-2024/"><u>Mastering Monetization An Instagram Income Journey for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-interview-preparation-with-ai-chatgpt/"><u>Revolutionizing Interview Preparation with AI: ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-service-interruptions-in-chatgpt-plugin-relationships/"><u>Tackling Service Interruptions in ChatGPT-Plugin Relationships</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ai-frontier-beckons-meta-sets-new-parameters/"><u>The AI Frontier Beckons - Meta Sets New Parameters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-openais-pioneering-advancements/"><u>Unraveling OpenAI's Pioneering Advancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/worth-the-price-tag-a-deep-dive-into-chatgpt-plus-benefits/"><u>Worth the Price Tag: A Deep Dive Into ChatGPT Plus Benefits</u></a></li>
 </ul></div>
 

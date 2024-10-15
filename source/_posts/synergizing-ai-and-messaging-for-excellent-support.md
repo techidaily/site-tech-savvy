@@ -1,7 +1,7 @@
 ---
 title: Synergizing AI and Messaging for Excellent Support
-date: 2024-10-08T01:16:54.339Z
-updated: 2024-10-09T05:10:43.539Z
+date: 2024-10-11T03:35:36.758Z
+updated: 2024-10-15T04:29:57.332Z
 tags:
   - chatgpt
   - open-ai
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-prompt.jpeg)
 
  Copy and store the key in a secure place for future use.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Setting Up a WhatsApp Business Account
 
@@ -147,6 +140,13 @@ python manage.py runserver`
 
 ![API endpoint test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-endpoint.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, install [Go](https://go.dev/doc/install) if it is not already installed on your machine.
 
  Clone the **Whatsmeow** client using the command below:
@@ -174,6 +174,13 @@ python manage.py runserver`
 
 ![Application QR code prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-qr-code.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Move to your WhatsApp mobile app and navigate to **Settings > QR code > Scan code** to add a new linked device and scan the popped QR code on your terminal.
 
  After logging in, the application will start listening to incoming messages. If someone sends a message, the received message will make a GET request to API with the message as a query parameter and send the response back to the sender on WhatsApp.
@@ -189,10 +196,16 @@ python manage.py runserver`
  Once you register your WhatsApp Business API, use a chat builder like OpenDialog to create a flow for the chat. You will then test your chatbot and add it to your mobile phone.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Integrate OpenAI API With Your WhatsApp Chatbot
@@ -203,29 +216,22 @@ python manage.py runserver`
 
  Though this method is easier if you already have a chatbot, you should only opt for it once you’re comfortable with the risks involved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Configuring Automated Responses
 
  To get better customer service, configure automated responses to provide fast and accurate responses to customer messages. These responses will personalize the customer by name and provide relevant responses to customer queries.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Testing Your WhatsApp Chatbot
 
  Like all AI API systems, testing is key before you deploy your WhatsApp chatbot. This is to ensure that it works as expected. API testing tools like Postman and Curl can help to test your chatbot’s responses.
 
  In this case, the Django REST framework provides a browsable API to help test API requests and responses.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Measuring Success and Fine-Tuning
 
@@ -254,22 +260,24 @@ python manage.py runserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-beyond-the-hype-facebooks-most-critical-24-trends-for-2024/"><u>[New] Beyond the Hype – Facebook's Most Critical '24 Trends for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-start-guide-to-lunapic-professionalism/"><u>[New] Quick-Start Guide to LunaPic Professionalism</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-chuckle-champions-humor-hunt-on-twitter-for-2024/"><u>[Updated] Chuckle-Champions Humor Hunt on Twitter for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-dominate-youtube-with-these-strategic-freefire-video-hashtags/"><u>[Updated] Dominate YouTube with These Strategic FreeFire Video Hashtags</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-universe-explorer-top-ranking-of-best-free-mmorpg-games/"><u>[Updated] Universe Explorer Top Ranking of Best Free MMORPG Games</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-tips-for-sharing-content-on-instagram/"><u>2024 Approved Tips for Sharing Content on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-translation-a-practical-approach/"><u>ChatGPT in Translation: A Practical Approach</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/converting-dall-es-webp-images-to-common-formats-quickly/"><u>Converting DALL-E's WebP Images to Common Formats Quickly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhanced-gameplay-on-ipad-introducing-the-latest-delta-emulator-with-advanced-ds-management-tools/"><u>Enhanced Gameplay on iPad: Introducing the Latest Delta Emulator with Advanced DS Management Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hone-your-prompt-writing-skills-for-maximum-chatgpt-impact/"><u>Hone Your Prompt Writing Skills for Maximum ChatGPT Impact</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-y36-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo Y36 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-ai-landscape-learn-from-our-9-community-experts/"><u>Navigating the AI Landscape: Learn From Our 9 Community Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/questioning-zerogpts-credibility-tech-tools-under-fire/"><u>Questioning ZeroGPT's Credibility: Tech Tools Under Fire</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-turing-test-defined-and-chances-for-a-new-champion/"><u>The Turing Test Defined & Chances for a New Champion</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-realme-c53-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Realme C53 without backup.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uncovering-the-basics-of-langchain-tech/"><u>Uncovering The Basics of LangChain Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-claude-3-wont-miss-the-mark-in-4-key-areas-compared-to-gpt-3/"><u>Why Claude 3 Won't Miss the Mark in 4 Key Areas Compared to GPT-3</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-of-the-best-trivia-channels/"><u>[New] Best of the Best Trivia Channels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-detailed-manual-on-morphvox-voice-alteration-techniques/"><u>[Updated] Full-Detailed Manual on MorphVOX Voice Alteration Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-chrome-multitasking-via-picture-in-picture-mode/"><u>[Updated] Maximizing Chrome Multitasking via Picture in Picture Mode</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-olympic-thrills-amidst-snowy-bliss-in-beijing-2022/"><u>[Updated] Olympic Thrills Amidst Snowy Bliss in Beijing 2022</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unmarred-stock-images-legal-and-ethical-tips/"><u>2024 Approved Unmarred Stock Images Legal & Ethical Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-cinema-decisions-with-chatgpt/"><u>AI-Driven Cinema Decisions with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-chatgpts-bar-based-cocktail-skills/"><u>Assessing ChatGPT's Bar-Based Cocktail Skills</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-database-recovery-aid/"><u>Celestial Database Recovery Aid</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decode-ai-talk-29-must-know-words-in-artificial-intelligence/"><u>Decode AI Talk: 29 Must-Know Words in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elons-secret-gpt-project-unveiled/"><u>Elon's Secret: GPT Project Unveiled?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-acpisys-issues-tips-and-tricks-for-windows-11-users/"><u>Fixing ACPI.sys Issues - Tips and Tricks for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-acquainted-with-claude-3s-power/"><u>Get Acquainted with Claude 3'S Power</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-realme-c53-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Realme C53?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-data-sharing-best-apps-and-extensions-for-ai-conversations/"><u>Secure Data Sharing: Best Apps & Extensions for AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-continues-surpassing-the-original-turing-test/"><u>The Evolution Continues: Surpassing the Original Turing Test</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ai-platforms-for-idea-evolution/"><u>Top AI Platforms for Idea Evolution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-spark-10-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Tecno Spark 10 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-textual-innovation-generative-ais-efficiency-for-businesses/"><u>Unlocking Textual Innovation: Generative AI's Efficiency for Businesses</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-screen-and-webcam-recording-the-top-10-windows-10-tools-for-2024/"><u>Updated Screen and Webcam Recording The Top 10 Windows 10 Tools for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Experience Unmatched Speed with Our Free, Open Source Chromium Browser - Top Performance Tested on ZDNet
-date: 2024-09-17 15:39:38
-updated: 2024-09-20 12:54:13
+date: 2024-10-08T20:36:35.312Z
+updated: 2024-10-15T00:07:33.224Z
 tags:
   - work-life
 categories:
@@ -69,6 +69,13 @@ The developers of Speedometer suggest using a clean browser profile with no othe
 
 Judging all these browsers based on real-world usage paints a different picture. Open each browser and go to zdnet.com. You'll quickly see that not only does Thorium open faster, it renders the ZDNET page noticeably faster than the other browsers. From my experience, Thorium's claims are credible, as the browser is blazingly fast. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final thought
 
 My concerns with Thorium are two-fold: First, it's barely a three-person project. Can the team keep up with the competition and will the project even continue? Second, the latest version of Thorium (as of my testing) is based on Chromium 122.0.6261.132, whereas the latest version of Chromium is 123.0.6312.105\. That means Thorium lags a bit on security patches.
@@ -96,11 +103,29 @@ Setting my security concerns aside, if I had to choose a browser based solely on
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-zoom-in-and-out-expert-techniques-with-videoleap/"><u>[New] 2024 Approved Zoom In & Out Expert Techniques with Videoleap</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-6-unique-asian-themed-structures-in-minecraft-for-2024/"><u>[New] 6 Unique Asian-Themed Structures in Minecraft for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximize-your-consoles-potential-top-monitors-explored/"><u>[New] Maximize Your Console's Potential - Top Monitors Explored</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-coding-standards-is-av1-outclassing-vp9/"><u>2024 Approved Advanced Coding Standards Is AV1 Outclassing VP9?</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphered-doorkeeper-no-swift-shift-to-new-solution/"><u>Deciphered Doorkeeper? No Swift Shift to New Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808345167-effortlessly-start-your-pc-in-safe-mode-on-windows-11-a-comprehensive-guide-to-all-4-strategies-and-their-images/"><u>Effortlessly Start Your PC in Safe Mode on Windows 11 - A Comprehensive Guide to All 4 Strategies and Their Images!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-you-forget-your-ipad-password-or-passcode/"><u>How to Fix It When You Forget Your iPad Password or Passcode</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/my-ai-assisted-adventure-in-podcast-scripting/"><u>My AI-Assisted Adventure in Podcast Scripting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/redefining-possibilities-meet-the-powerhouse-behind-ai-innovation-openais-latest-creation-gpt-4/"><u>Redefining Possibilities: Meet the Powerhouse Behind AI Innovation - OpenAI's Latest Creation, GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808131903-seamlessly-integrate-a-bluetooth-mouse-into-windows-or-macos-environments/"><u>Seamlessly Integrate a Bluetooth Mouse Into Windows or macOS Environments.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-hooking-up-your-laptop-to-a-television-via-hdmi-includes-images/"><u>Step-by-Step Guide: Hooking Up Your Laptop to a Television via HDMI - Includes Images!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-updating-device-drivers-with-windows-10s-built-in-utility/"><u>Step-by-Step Guide: Updating Device Drivers with Windows 10'S Built-In Utility</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/syntax-savants-showdown-gpt-3-vs-bards-brilliance/"><u>Syntax Savants Showdown: GPT-3 Vs. Bard’s Brilliance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-wirelessly-linking-your-pc-or-laptop-to-wi-fi/"><u>Ultimate Guide: Wirelessly Linking Your PC or Laptop to Wi-Fi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wi-fi-installation-tutorial-for-windows-7-users-step-by-step-solutions/"><u>Wi-Fi Installation Tutorial for Windows 7 Users: Step-by-Step Solutions</u></a></li>
+</ul></div>
+

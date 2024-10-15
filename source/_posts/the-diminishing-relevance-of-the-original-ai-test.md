@@ -1,7 +1,7 @@
 ---
 title: The Diminishing Relevance of the Original AI Test
-date: 2024-10-08T02:02:58.342Z
-updated: 2024-10-08T16:40:35.926Z
+date: 2024-10-11T00:08:15.110Z
+updated: 2024-10-14T16:12:07.804Z
 tags:
   - chatgpt
   - open-ai
@@ -55,42 +55,36 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
  At the moment, [GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/), but so far, there is currently no AI model that can comprehend videos like a human. [Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  According to a research paper published on [PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112), the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the [visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can [identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the [thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014\.
@@ -108,10 +102,10 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes [AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. AI Classification Framework
@@ -147,22 +141,19 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finalcut-pro-101-crafting-professional-youtube-edits-for-2024/"><u>[Updated] FinalCut Pro 101 Crafting Professional YouTube Edits for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovative-recording-tech-the-leaders-choice/"><u>[Updated] In 2024, Innovative Recording Tech The Leaders' Choice</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-gadgets-in-auto-traffic-camera-tech/"><u>[Updated] Premier Gadgets in Auto Traffic Camera Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movivaiv-3gmp4/"><u>使用 MoviVaiv 提供的移植器：即時無限制地在線上更改3G到MP4格式</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vob-mjpeg-movavi/"><u>網路直接無障礙 VOB 到 MJPEG 轉換 - 使用 Movavi 工具</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-discover-youtubes-free-text-translations-and-downloads/"><u>In 2024, Discover YouTube's Free Text Translations & Downloads</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-picks-procuring-start-up-youtube-channel-monetization-platforms/"><u>In 2024, Top Picks Procuring Start-Up YouTube Channel Monetization Platforms</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/most-effective-software-options-to-insert-timestamps-into-your-pictures/"><u>Most Effective Software Options to Insert Timestamps Into Your Pictures</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/proven-methods-to-excellence-in-srt-file-design/"><u>Proven Methods to Excellence in SRT File Design</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-navigating-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Navigating Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-15-softwares-de-edicao-de-audio-mais-eficientes-para-windows-e-mac-facil-acesso-publico/"><u>Top 15 Softwares De Edição De Áudio Mais Eficientes Para Windows E Mac - Fácil Acesso Público</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-leader-prospetti-per-trasformare-5-milioni-di-euro-in-pdf-liberamente-usati-nel-2024/"><u>Top 6 Leader Prospetti per Trasformare 5 Milioni Di Euro in PDF Liberamente Usati Nel 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-your-media-library-with-movavi-premium-video-converter-on-sale/"><u>Upgrade Your Media Library with Movavi - Premium Video Converter on Sale</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wma-swf-online/"><u>WMA 파일을 SWF로 무료 변환 - Online 서비스</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wmvogv-onlinetoolscom/"><u>WMV/OGV 이미지를 무료로 스트리밍하는 방법 - Onlinetools.com</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/webptiff-movavi/"><u>무료 혼합 WEBP/TIFF 변환 - Movavi 사용자가 원하는 소스 이미지에 대한 안내</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rafting-viral-videos-how-to-excel-in-youtubers-music-reactions-for-2024/"><u>[New] Crafting Viral Videos How to Excel in Youtubers' Music Reactions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-gridiron-a-detailed-review-of-vegas-pro-2021/"><u>[Updated] Exploring the Gridiron A Detailed Review of Vegas Pro 2021</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unveiling-the-future-of-marketing/"><u>2024 Approved Unveiling the Future of Marketing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/balancing-curiosity-and-security-with-chatgpt-for-children/"><u>Balancing Curiosity and Security with ChatGPT for Children</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-stress-with-5-chatbot-tech-solutions/"><u>Breaking Down Stress with 5 Chatbot Tech Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/can-you-change-your-voice-magically-explore-alternative-tools/"><u>Can You Change Your Voice Magically? Explore Alternative Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-the-art-of-story-crafting/"><u>ChatGPT and the Art of Story Crafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-cognition-compared-gpt-and-bings-bot-battle/"><u>Conversational Cognition Compared: GPT & Bing's Bot Battle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-education-with-ai-the-top-5-ways-to-use-chatgpt-in-schools/"><u>Empowering Education with AI: The Top 5 Ways to Use ChatGPT in Schools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/essential-tips-for-effective-fb-live-split-screens-for-2024/"><u>Essential Tips for Effective FB Live Split Screens for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ghostly-glimpses-video-review/"><u>Ghostly Glimpses Video Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-learning-creating-with-gpts-my-bot-technology/"><u>The Ultimate Guide: Learning, Creating with GPT's My Bot Technology</u></a></li>
 </ul></div>
 

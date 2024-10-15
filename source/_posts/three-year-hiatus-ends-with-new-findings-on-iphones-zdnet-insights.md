@@ -1,7 +1,7 @@
 ---
 title: Three Year Hiatus Ends with New Findings on iPhones | ZDNet Insights
-date: 2024-10-03T02:16:24.503Z
-updated: 2024-10-09T04:19:00.818Z
+date: 2024-10-09T17:59:33.595Z
+updated: 2024-10-15T13:17:29.730Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,16 +60,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -83,10 +77,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -131,19 +125,19 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-free-gift-guide-all-about-our-50-unique-youtube-ads-for-you-for-2024/"><u>[Updated] Free Gift Guide All About Our 50 Unique YouTube Ads for You for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-vintage-video-making-masterclass-complete-tutorial-for-2024/"><u>[Updated] Vintage Video Making Masterclass Complete Tutorial for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-aid-excellence-using-these-high-tech-digital-tools/"><u>Boost Aid Excellence Using These High-Tech Digital Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/constructing-actionable-goals-for-optimal-health-via-gpt/"><u>Constructing Actionable Goals for Optimal Health via GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-rpg-experience-through-chatgpt-techniques/"><u>Enhancing RPG Experience Through ChatGPT Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-unveiling-the-full-capabilities-of-the-garmin-forerunner/"><u>Expert Review: Unveiling the Full Capabilities of the Garmin Forerunner</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/governments-role-supervising-ai-through-four-lenses/"><u>Government's Role: Supervising AI Through Four Lenses</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-infinix-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Infinix Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Phantom V Fold? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 14 Pro to Android | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/no-remote-no-problem-guide-to-directly-controlling-your-roku-device/"><u>No Remote? No Problem! Guide to Directly Controlling Your Roku Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rapid-recovery-fixing-apex-crashes-effortlessly/"><u>Rapid Recovery: Fixing Apex Crashes Effortlessly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vocal-intelligence-on-wheels-mercedes-blends-gpt-with-cars/"><u>Vocal Intelligence on Wheels: Mercedes Blends GPT with Cars</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-list-of-window-screenshot-utilities/"><u>[New] Ultimate List of Window Screenshot Utilities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-keep-up-with-friends-moments-best-live-stream-tools-revealed/"><u>2024 Approved Keep Up With Friends' Moments Best Live-Stream Tools Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-youtube-subtitles-srt-3-steps-guide/"><u>2024 Approved Unlocking YouTube Subtitles (SRT) - 3 Steps Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenger-ai-how-claude-eclipses-chatgpt-in-4-major-ways/"><u>Challenger AI - How Claude Eclipses ChatGPT in 4 Major Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fending-off-automated-imitation-nightshades-protocols-for-protecting-art/"><u>Fending Off Automated Imitation: Nightshade's Protocols for Protecting Art</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-romers-durable-and-renewable-energy-flashlight-your-trusty-nighttime-companer/"><u>In-Depth Look at Romer's Durable and Renewable Energy Flashlight: Your Trusty Nighttime Companer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-the-turing-test-outdated-5-turing-test-alternatives/"><u>Is the Turing Test Outdated? 5 Turing Test Alternatives</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/los-mejores-10-transformadores-de-video-libres-en-pc-un-ranking-definitivo/"><u>Los Mejores 10 Transformadores De Video Libres en PC: Un Ranking Definitivo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-major-challenges-of-your-new-iphone-12-a-comprehensive-guide/"><u>Solving the Major Challenges of Your New iPhone 12 - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-correcting-ntfs-boot-files-missing-issues-on-windows-pcs/"><u>Step-by-Step Tutorial: Correcting NTFS Boot Files Missing Issues on Windows PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/subscriberlull-when-will-gpt-converse-again/"><u>SubscriberLull: When Will GPT Converse Again?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-of-relying-on-text-ai-bots/"><u>The Hidden Dangers of Relying on Text AI Bots</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-pioneer-bdr-xs06-blu-ray-burner-a-study-in-portability-and-capacity/"><u>The Ultimate Guide to the Pioneer BDR-XS06 Blu-Ray Burner: A Study in Portability and Capacity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/toms-tech-review-expert-insights-into-cutting-edge-hardware/"><u>Tom's Tech Review: Expert Insights Into Cutting-Edge Hardware</u></a></li>
 </ul></div>
 

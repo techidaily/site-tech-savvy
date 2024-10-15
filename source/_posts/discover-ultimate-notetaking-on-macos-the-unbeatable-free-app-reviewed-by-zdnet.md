@@ -1,7 +1,7 @@
 ---
 title: "Discover Ultimate Notetaking on macOS: The Unbeatable Free App Reviewed by ZDNet"
-date: 2024-09-17 16:22:47
-updated: 2024-09-20 12:41:26
+date: 2024-10-09T06:09:33.948Z
+updated: 2024-10-15T06:45:45.313Z
 tags:
   - work-life
 categories:
@@ -39,6 +39,13 @@ Let me show you how I make use of Tot.
 
 There's no need to explain how to install Tot, as it's just a matter of opening the App Store, searching for Tot, clicking Get, and then Install. Once it's installed, however, you'll have a choice to make.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Configure how to interact with Tot.
 
 You have two choices: Use Tot from the dock or the Menu Bar. I prefer using the Menu Bar option, as I have my dock set to autohide and I want Tot to be as easy to access as possible. To set this option, open Tot (from the Launchpad) and click the gear icon in the top right corner of the window. You'll see a drop-down labeled Control With. From that drop-down, select Menu Bar Icon, which will place a small circle on your Menu Bar.
@@ -53,6 +60,13 @@ In that same Settings window, you can set the theme for Tot, between Match Syste
 
 That's it for the configuration. Tot really is that simple.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use Tot
 
 Tot is as simple to use as it gets. Click the circle icon in the Menu bar and the main window will open, where you'll see the 7 different circles, each representing a view. Click the far left view and read the Welcome to Tot text. Click on the next view to read what Tot can be used for. Finally, click the third view and gain access to the full Tot tutorial. 
@@ -61,6 +75,13 @@ Tot is as simple to use as it gets. Click the circle icon in the Menu bar and th
 
 Once you've read through those welcome views, you can delete all of the text within and start using each view for a different purpose.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating lists
 
 As you add to your views, you'll eventually want to create lists. With lists, there's one thing you need to know. To create a list, click the asterisk near the bottom right of the window. A popup will appear, where you can select the type of bullet you want to use for your list. Once you select the bullet, it will appear in your view. Type an item for the list and hit Enter on your keyboard to activate the next list item. Keep doing that until your list is complete. At the end of the list, hit Enter twice to exit the list.
@@ -68,6 +89,13 @@ As you add to your views, you'll eventually want to create lists. With lists, th
 Adding list bullets to a Tot view.
 
 Image: Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Sharing views
 
@@ -112,11 +140,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-find-zen-with-these-10-game-choices-for-2024/"><u>[New] Find Zen with These 10 Game Choices for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-photograph-total-browser-scope/"><u>[New] In 2024, Photograph Total Browser Scope</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-guide-setting-up-corsair-icue-software-on-your-windows-1110-machine/"><u>Download Guide: Setting Up Corsair iCUE Software on Your Windows 11/10 Machine</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-mobile-filming-tech-for-iphones/"><u>Elite Mobile Filming Tech for iPhones</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-to-correctly-fixing-windows-11s-non-functional-screen-capture-utility/"><u>Guide to Correctly Fixing Windows 11'S Non-Functional Screen Capture Utility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-to-overcoming-the-issue-of-itunes-not-connecting-to-an-iphone-from-invalid-device-reply/"><u>Guide to Overcoming the Issue of iTunes Not Connecting to an iPhone From Invalid Device Reply</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-ensuring-a-smooth-windows-11-install-with-no-setup-errors/"><u>Guide: Ensuring a Smooth Windows 11 Install with No Setup Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-disable-cortana-in-windows-11/"><u>How to Disable Cortana in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-anker-mouse-driver/"><u>How to Download Anker Mouse Driver</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-case-study-approach-learning-from-successful-market-research-examples/"><u>In 2024, Case Study Approach Learning From Successful Market Research Examples</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-laptop-screenshots-a-comprehensive-guide/"><u>Mastering the Art of Laptop Screenshots: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-nubia-red-magic-9-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Nubia Red Magic 9 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>
+

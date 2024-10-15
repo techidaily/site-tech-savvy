@@ -1,7 +1,7 @@
 ---
 title: New Era Begins with ChatGPT’s Significant Upgrades
-date: 2024-10-05T01:43:45.736Z
-updated: 2024-10-08T19:17:19.215Z
+date: 2024-10-12T09:10:35.912Z
+updated: 2024-10-14T23:58:39.842Z
 tags:
   - chatgpt
   - open-ai
@@ -41,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Image Input and Output Capabilities
@@ -60,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -91,15 +78,22 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -111,13 +105,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -125,6 +112,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Here, I’ve given ChatGPT-4o an SQL file containing a database from an e-commerce project and asked it to analyze and graph the top products commonly ordered.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
@@ -155,24 +149,18 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unrivaled-windows-video-calls-top-8-apps/"><u>[New] 2024 Approved Unrivaled Windows Video Calls Top 8 Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-adventure-at-a-glance-comparing-gopros-hero5-b-and-session/"><u>[Updated] In 2024, Adventure at a Glance Comparing GoPro's Hero5 B & Session</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-demystifying-screen-recording-how-bandicam-changes-the-game/"><u>[Updated] In 2024, Demystifying Screen Recording How Bandicam Changes the Game</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-movavi-image-editing-suite-buy-now-and-transform-your-pictures/"><u>1. Movavi Image Editing Suite: Buy Now & Transform Your Pictures!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5b2x5yop5qplusu546h5qch5q2j55qe6auy5pwi5oqa6kgt44cq5b2x54mh5asn5bcp6kq5pw05oyh5y2x44cr/"><u>影像比率校正的高效技術【影片大小調整指南】</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-capcut-replacements-of-202abbreviated-yearly-as-the-most-effective-alternatives-for-pc-and-online-editing-tools/"><u>Best CapCut Replacements of 202Abbreviated Yearly as the Most Effective Alternatives for PC & Online Editing Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversion-en-linea-y-gratis-de-mpe-a-wav-con-movavi-herramienta-sin-coste/"><u>Conversion en Línea Y Gratis De MPE a WAV Con Movavi: Herramienta Sin Coste</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversione-gratuita-di-video-m4v-a-mov-su-internet-tramite-il-servizio-convertimovavi-t1726233810812118/"><u>Conversione Gratuita Di Video M4V a MOV Su Internet Tramite Il Servizio ConvertiMovavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversione-rapida-e-gratuita-da-mp3-a-mp4-tramite-movavicom-prova-ora/"><u>Conversione Rapida E Gratuita Da MP3 a MP4 Tramite movavi.com – Prova Ora!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/converta-seus-gifs-gratuitamente-em-bmp-no-movavi-ferramenta-de-conversao-on-line-sem-custo/"><u>Converta Seus GIFs Gratuitamente Em BMP No Movavi - Ferramenta De Conversão On-Line Sem Custo</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 7 Plus</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transformative-techniques-to-mute-background-noise/"><u>In 2024, Transformative Techniques to Mute Background Noise</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-destiny-ebserver-disconnects-a-complete-guide-to-troubleshooting-and-fixing-the-issue/"><u>Overcome Destiny Ebserver Disconnects: A Complete Guide to Troubleshooting and Fixing the Issue</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premiere-pros-approach-to-clearing-iphone-video-overexposure/"><u>Premiere Pro's Approach to Clearing iPhone Video Overexposure</u></a></li>
-<li><a href="https://win-hot.techidaily.com/quick-and-easy-guide-transforming-mov-videos-into-avi-with-minimal-hitches/"><u>Quick and Easy Guide: Transforming MOV Videos Into AVI with Minimal Hitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-steam-updates-that-wont-download/"><u>Resolving Issues with Steam Updates That Won't Download</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transcode-music-files-from-mp3-to-m4a-at-no-cost-using-movavis-web-service/"><u>Transcode Music Files From MP3 to M4A at No Cost Using Movavi's Web Service</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformation-facile-dun-fichier-webp-en-jpg-par-movavi-service-internet-gratuit/"><u>Transformation Facile D'un Fichier Webp en Jpg Par Movavi - Service Internet Gratuit</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-the-secrets-of-instagrams-music-rights-management-for-2024/"><u>Unlocking the Secrets of Instagram's Music Rights Management for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-ppt-media-rendering-velocity/"><u>Boosting PPT Media Rendering Velocity</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-views-with-customized-thumbnail-sizes-on-youtube/"><u>Boosting Views with Customized Thumbnail Sizes on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-articles-with-chatgpts-assistance/"><u>Elevating Articles with ChatGPT's Assistance</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/exportierung-von-kontakten-vom-iphone-erfolgreich-in-nur-6-schritten/"><u>Exportierung Von Kontakten Vom iPhone – Erfolgreich in Nur 6 Schritten</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/going-beyond-chatgpt-what-does-the-future-hold-for-generative-ai-and-chatbots/"><u>Going Beyond ChatGPT: What Does the Future Hold for Generative AI and Chatbots?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-s18e-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo S18e Activity | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-storytelling-6-gpt-powered-strategies/"><u>Mastering Storytelling: 6 GPT-Powered Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-job-functions-with-the-help-of-advanced-gpt-technology/"><u>Optimize Your Job Functions with the Help of Advanced GPT Technology</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-4g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 4G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-new-conversation-king-assessing-googles-ai-vs-chatgpt/"><u>The New Conversation King? Assessing Google's AI Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-conversation-superpowers-overlooked-gpt-features/"><u>Unlock Your Conversation Superpowers: Overlooked GPT Features</u></a></li>
 </ul></div>
 

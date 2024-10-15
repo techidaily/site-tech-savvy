@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Chatbots: Shaping Modern Media Artistry"
-date: 2024-10-06T05:17:35.650Z
-updated: 2024-10-08T18:51:38.943Z
+date: 2024-10-14T08:55:17.586Z
+updated: 2024-10-15T11:40:55.891Z
 tags:
   - chatgpt
   - open-ai
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![ChatGPT Answering Question About Itself Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-stating-incorrect-information.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Despite these limitations, some writers wholly depend on ChatGPT for topic research. They want quick, convenient answers. However, you can’t replace proper research with AI chatbot conversations. You’ll end up publishing incorrect information.
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![Google Analytics Google Search Results on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/google-search-results-on-smartphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Unfortunately, you’ll find AI content ranking on Google. AI writers use the time and effort they save to improve their SEO, boosting page visibility. Some of them even utilize backlinks to fake authoritativeness.
 
  SERPs (Search Engine Results Pages) are flooded with low-effort AI content that comprises generic, simplistic insights. They touch on topics but never explain them. Readers only gain a basic, surface-level understanding of subjects from these articles.
@@ -81,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  The upside is that Google rewards well-researched content. Googlebot eventually replaces ranking AI articles that provide no added value to readers. Even results on page one could quickly drop. Just keep publishing quality pieces. You could also brush up on [Google’s helpful content guide update](https://www.makeuseof.com/tips-to-write-for-google-helpful-content-update/) to write even better.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Marketers Revamp Their SEO Strategies
@@ -97,24 +90,25 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![Bing Chat Suggesting Keywords Based on Your Topic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-doing-seo-keyword-research.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Since Bing Chat wasn’t designed for SEO research, you must phrase your prompts properly. Don’t just say you need SEO analytics. Ask for specific data, like top-ranking LSI keywords, search volume analytics, and market trends.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Content Mills Publish AI-Generated Articles in Masses
 
 ![Asking ChatGPT to Write a 1,000 word Article on AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-1-000-word-article.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Content mills have always prioritized quantity over quality. But with the availability of AI-driven chatbots, they further sped up the writing process at no extra cost. It’s common for them to publish hundreds of AI content daily.
 
@@ -134,19 +128,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![ChatGPT Answering a Basic Question General Kowledge Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answers-general-knowledge-question-about-ai.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We started a new chat and reused our prompt, but ChatGPT provided identical facts. It only rephrased its output.
 
 ![Trying to Get ChatGPT to Answer the Same Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answering-a-regenerated-question-about-ai.jpg)
@@ -162,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  To make matters worse, fake gurus encourage unsuspecting newbies to exploit AI-driven platforms. They make the practice seem normal, even if it’s not. [AI content falls outside of copyright protection laws](https://www.makeuseof.com/copyright-rules-ai-art/). Since you can’t claim ownership, using them commercially could have legal consequences.
 
  Also, AI writing tools are unsustainable. [Google](https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t) prioritizes authoritative websites that publish well-researched articles—it might start cracking down on AI content soon. It already prohibits manipulating SERP rankings with AI, after all.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do AI Chatbots Positively or Negatively Impact the Content Industry?
 
@@ -188,22 +176,24 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-streamline-your-vlogs-sound-with-effective-tips/"><u>[New] Streamline Your Vlog's Sound with Effective Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-discovering-2024s-best-science-youtubers-for-knowledge-boost/"><u>[Updated] Discovering 2024'S Best Science Youtubers for Knowledge Boost</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-magix-paintbox-assessment-the-reveal/"><u>[Updated] MAGIX Paintbox Assessment The Reveal</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-websites-showcasing-diverse-text-styling-options/"><u>[Updated] Pinnacle Websites Showcasing Diverse Text Styling Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-screen-9-debunked-beliefs-about-artificial-intelligence-bots/"><u>Behind the Screen: 9 Debunked Beliefs About Artificial Intelligence Bots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/checking-if-windows-11-is-fully-operational/"><u>Checking If Windows 11 Is Fully Operational</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-microsoft-store-glitches-error-x80072f17-guide/"><u>Correcting Microsoft Store Glitches: Error X80072F17 Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deceitful-gpt-add-on-harvests-facebook-logins/"><u>Deceitful GPT Add-On: Harvests Facebook Logins</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-action-camera-showdown-who-wins-with-gopro-hero5-black-and-yis-4k-update/"><u>In 2024, Action Camera Showdown Who Wins with GoPro Hero5 Black & Yi's 4K Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-powered-dialogues-into-task-management/"><u>Integrating GPT-Powered Dialogues Into Task Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-new-frontiers-ais-influence-on-digital-entertainment/"><u>Navigating New Frontiers: AI's Influence on Digital Entertainment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premium-extensions-for-enhanced-gpt-in-vs-code/"><u>Premium Extensions for Enhanced GPT in VS Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-us-launch-of-enhanced-ai-gpt-plus-20-mo/"><u>Step Into the Future: US Launch of Enhanced AI: GPT-Plus ($20 Mo)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-up-your-online-research-ai-powered-bing-on-ios-and-android/"><u>Step Up Your Online Research: AI-Powered Bing on iOS and Android.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/text-only-vs-extended-chatgpt-with-browsing-capabilities/"><u>Text-Only vs Extended ChatGPT with Browsing Capabilities</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-sony-by-fonelab-android-recover-music/"><u>The way to get back lost music from Sony</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/harting-the-course-to-youtube-livestream-mastery/"><u>[New] Charting the Course to YouTube Livestream Mastery</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-shine-on-mastering-the-art-of-illumination-for-youtube-videos/"><u>[Updated] Shine On Mastering the Art of Illumination for YouTube Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-superior-4k-screens-our-1-picks-for-2024/"><u>[Updated] Superior 4K Screens Our #1 Picks for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-swift-windows-document-reviewing-techniques/"><u>2024 Approved Swift Windows Document Reviewing Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-pcs-gameplay-in-windows-11-top-tips-and-tricks/"><u>Boost Your PC's Gameplay in Windows 11 – Top Tips and Tricks!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detecting-and-eradicating-malware-on-your-windows-computer-swift-solutions/"><u>Detecting & Eradicating Malware on Your Windows Computer: Swift Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-every-image-a-guide-to-locating-all-photographs-on-your-windows-10-computer/"><u>Discovering Every Image: A Guide to Locating All Photographs on Your Windows 10 Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-launches-chrome-optimized-for-arm-architecture-in-windows-computers/"><u>Google Launches Chrome Optimized for Arm Architecture in Windows Computers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-90-gt-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor 90 GT FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-insiders-guide-to-crafting-perfect-instagram-posts/"><u>In 2024, The Insider's Guide to Crafting Perfect Instagram Posts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oneplus-11-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from OnePlus 11 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-gaming-performance-a-comprehensive-guide-to-fine-tuning-your-windows-11-system/"><u>Maximizing Gaming Performance: A Comprehensive Guide to Fine-Tuning Your Windows 11 System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsofts-copilot-enhances-with-new-video-creation-features/"><u>Microsoft's Copilot Enhances with New Video Creation Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/millions-at-risk-latest-vulnerability-discovered-in-universal-extensible-firmware-interface-uefi/"><u>Millions at Risk: Latest Vulnerability Discovered in Universal Extensible Firmware Interface (UEFI)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/moving-your-applications-to-a-new-hardware-device-on-windows-11/"><u>Moving Your Applications to a New Hardware Device on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-windows-11-experience-with-microsofts-new-copilot-feature/"><u>Navigating the Windows 11 Experience with Microsoft's New Copilot Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-missing-important-updates-in-windows-a-comprehensive-guide/"><u>Resolving 'Missing Important Updates' In Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/slash-your-pcs-graphics-performance-hit-5-methods-to-optimize-the-desktop-window-manager-on-windows/"><u>Slash Your PC's Graphics Performance Hit: 5 Methods to Optimize the Desktop Window Manager on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-recurrent-noxplayer-instability-issues-on-windowsmacos/"><u>Troubleshooting Recurrent NoxPlayer Instability Issues on Windows/MacOS</u></a></li>
 </ul></div>
 

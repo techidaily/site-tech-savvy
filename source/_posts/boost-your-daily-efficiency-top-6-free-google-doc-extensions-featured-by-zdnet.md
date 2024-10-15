@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Daily Efficiency: Top 6 FREE Google Doc Extensions Featured by ZDNet"
-date: 2024-09-19 13:56:16
-updated: 2024-09-20 12:48:16
+date: 2024-10-12T16:06:58.417Z
+updated: 2024-10-14T17:07:10.200Z
 tags:
   - work-life
 categories:
@@ -49,6 +49,13 @@ If you pony up for the paid version, you get more features, such as document mer
 
 Install [Doc Builder](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://workspace.google.com/marketplace/app/doc%5Fbuilder/86284954986) from the Google Workspace Marketplace.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Consistency Checker
 
 How many times have you gone through a document, only to find common typos, spelling variations, different abbreviations for the same word, and other inconsistencies? If you're looking to keep those documents consistent, and don't always have the best eye for such things, then the Consistency Checker is the add-on for you.
@@ -58,6 +65,13 @@ How many times have you gone through a document, only to find common typos, spel
 After installing Consistency Checker, you open the add-on and click Scan. For example, while writing this piece, Consistency Checker found I had written both **add on** and **add-on**, as well as **wide range** and **wide-range**. The only thing Consistency Checker doesn't do is automatically fix the problems. You'll have to go through the document and fix them manually.
 
 Install [Consistency Checker](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://workspace.google.com/marketplace/app/consistency%5Fchecker/101396327524) from the Google Workspace Marketplace.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Table of Contents
 
@@ -73,6 +87,19 @@ This handy little add-on goes through your documents and cleans them up. With it
 
 Install [Text Cleaner](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://workspace.google.com/marketplace/app/text%5Fcleaner/103106847686) from the Google Workspace Marketplace.
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. OneLook Thesaurus
 
 Usually, my vocabulary is pretty solid. However, I do have a pet peeve that often has me depending on the OneLook Thesaurus add-on -- repeated words. In my fiction-writing, I don't like to repeat words in sentences or paragraphs and will go to great lengths to avoid it. With OneLook Thesaurus, I can highlight a word for which I need a synonym, click Extensions > OneLook Thesaurus > Synonyms, and the sidebar will open with all the possibilities I can select from. 
@@ -82,6 +109,13 @@ Usually, my vocabulary is pretty solid. However, I do have a pet peeve that ofte
 This add-on can also help you find triggers, rhymes, complete, adjectives, nouns, quotes, lyrics, and proverbs. The only thing missing from OneLook Thesaurus is antonyms, but that might be asking a bit much for a free piece of software.
 
 Install [OneLook Thesaurus](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://workspace.google.com/marketplace/app/onelook%5Fthesaurus/372652075936) from the Google Workspace Marketplace.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Writer's Highlighter
 
@@ -112,11 +146,33 @@ Any one of these add-ons can help make you a more creative and productive writer
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-tech-for-instant-time-lapse-videos-for-2024/"><u>[New] Essential Tech for Instant Time-Lapse Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-transforming-scripted-words-into-powerful-video-soundtracks/"><u>[New] Transforming Scripted Words Into Powerful Video Soundtracks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-enticing-instagram-followers-a-puzzle-post-primer/"><u>[Updated] The Art of Enticing Instagram Followers A Puzzle Post Primer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-guide-top-10-cameras-in-the-new-os-for-2024/"><u>[Updated] Ultimate Guide Top 10 Cameras in the New OS for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-back-online-three-quick-fixes-for-an-unresponsive-ipad-in-itunes-mode/"><u>Get Back Online: Three Quick Fixes for an Unresponsive iPad in iTunes Mode</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-effectively-eliminate-malware-from-your-android-device-without-performing-a-factory-reset/"><u>How to Effectively Eliminate Malware From Your Android Device without Performing a Factory Reset</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-reduce-cpu-usage-in-windows/"><u>How to Reduce CPU Usage in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-seamlessly-integrate-your-printer-with-windows-10-a-comprehensive-guide/"><u>How To Seamlessly Integrate Your Printer with Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-stop-your-xbox-one-from-self-starting-simple-solutions-explored/"><u>How to Stop Your Xbox One From Self-Starting – Simple Solutions Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-swiftly-update-your-windows-11-drivers/"><u>How to Swiftly Update Your Windows 11 Drivers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-template-wizardry-a-blueprint-for-creating-viral-tiktoks/"><u>In 2024, Template Wizardry A Blueprint for Creating Viral TikToks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-itel-p55-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Itel P55</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-font-setup-in-windows-nix-a-hassle-free-tutorial-explored/"><u>Mastering Font Setup in Windows Nix: A Hassle-Free Tutorial Explored</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-the-art-of-dispersed-posting-in-social-networks/"><u>Mastering the Art of Dispersed Posting in Social Networks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-fixes-for-connecting-your-anker-mouse-driver-download-essentials/"><u>Quick Fixes for Connecting Your Anker Mouse - Driver Download Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-fixes-for-unresponsive-windows-11-systems-a-users-guide/"><u>Quick Fixes for Unresponsive Windows 11 Systems: A User's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-tutorial-making-google-the-first-page-in-any-browser/"><u>Quick Tutorial: Making Google the First Page in Any Browser!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ultimate-mobile-solutions-to-sharpen-dji-drone-shoots-for-2024/"><u>Ultimate Mobile Solutions to Sharpen DJi Drone Shoots for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Behind the Curtain: Elon and GPT Revolution"
-date: 2024-10-03T20:36:42.228Z
-updated: 2024-10-09T03:26:24.335Z
+date: 2024-10-10T11:28:36.793Z
+updated: 2024-10-15T06:29:52.404Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,16 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Is Elon Musk Building TruthGPT?
@@ -50,13 +56,6 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
  Singling out companies like OpenAI and Google, who, in his view, are not doing enough in the areas of AI safety and guarding against disinformation, Elon Musk proposed a third force—TruthGPT. The SpaceX and Tesla CEO wants to create TruthGPT as a counterweight to Google's Bard and OpenAI's ChatGPT. The idea is to create an AI model that tries as much as possible to be truthful in the information it provides.
 
  Elon Musk, who recently authored an open letter calling for a [moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Would TruthGPT Look Like?
 
@@ -71,15 +70,22 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
  So, is this idea of a maximum truth-seeking AI even practical?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Building TruthGPT Is a Huge Challenge
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you [understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/), it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
 
@@ -90,10 +96,10 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is TruthGPT an Exciting Possibility?
@@ -119,16 +125,24 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-a-comprehensible-guide-for-mastering-instagram-live-engagements/"><u>[New] 2024 Approved A Comprehensible Guide for Mastering Instagram Live Engagements</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-nba-viewing-discover-the-best-15-streaming-options/"><u>[New] Seamless NBA Viewing Discover the Best 15 Streaming Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-ethical-ai-journeys-the-role-of-governance-opensai-suggests/"><u>Charting Ethical AI Journeys: The Role of Governance, OpensAI Suggests</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-gpt-1-to-gpt-4-an-in-depth-analysis/"><u>From GPT-1 To GPT-4: An In-Depth Analysis</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/monetary-returns-for-one-million-youtube-watchers-for-2024/"><u>Monetary Returns for One Million YouTube Watchers for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revealing-the-hidden-powers-of-your-conversational-ai/"><u>Revealing the Hidden Powers of Your Conversational AI</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/strategic-data-clearance-guides-and-articles-curated-by-stellars-authorities/"><u>Strategic Data Clearance Guides and Articles Curated by Stellar's Authorities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-intrigue-9-techniques-chatgpt-uses-in-fiction/"><u>The Art of Intrigue: 9 Techniques ChatGPT Uses in Fiction</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ingenuity-of-android-understanding-its-intelligent-framework/"><u>The Ingenuity of Android: Understanding Its Intelligent Framework</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-top-9-powerful-chatgpt-tools/"><u>Unveiling the Top 9 Powerful ChatGPT Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-installing-kinemaster-on-a-mac-for-2024/"><u>Updated The Ultimate Guide to Installing KineMaster on a Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-delving-into-youtubes-digital-video-workshop/"><u>[New] 2024 Approved Delving Into YouTube's Digital Video Workshop</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-best-movie-trailers/"><u>[New] In 2024, Best Movie Trailers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-golden-five-best-dvd-makers-for-macos-sierra/"><u>[Updated] Golden Five Best DVD Makers for macOS Sierra</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-efficient-resurrection-for-lost-images/"><u>[Updated] In 2024, Efficient Resurrection for Lost Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-budgets-youtube-marketing-investments/"><u>[Updated] Understanding Budgets YouTube Marketing Investments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-top-5-agile-and-lightweight-cameras-list/"><u>2024 Approved Leading Top 5 Agile and Lightweight Cameras List</u></a></li>
+<li><a href="https://win-docs.techidaily.com/a-currency-peg-is-a-fixed-exchange-rate-system-where-a-countryamoon-sets-its-currency-value-relative-to-another-currency-or-basket-of-currencies/"><u>A Currency Peg Is a Fixed Exchange Rate System Where a Country'amoon Sets Its Currency Value Relative to Another Currency or Basket of Currencies.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customizable-with-cookiebot-your-ultimate-solution-for-personalized-experiences/"><u>Customizable with Cookiebot: Your Ultimate Solution for Personalized Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customized-user-experience-with-advanced-cookiebot-technology/"><u>Customized User Experience with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-smart-document-automation-system-the-premier-industry-choice-elevates-its-capabilities/"><u>Cutting-Edge Smart Document Automation System - The Premier Industry Choice Elevates Its Capabilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/display-dilemma-which-of-oled-amoled-or-lcd-triumphs/"><u>Display Dilemma: Which Of OLED, AMOLED Or LCD Triumphs?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/drive-engagement-and-analytics-using-the-cookiebot-platform/"><u>Drive Engagement and Analytics Using the Cookiebot Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-conversion-optimization-with-the-help-of-cookiebot-technology/"><u>Efficient Conversion Optimization with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-financial-expertise-with-abbyys-content-intelligence-for-accounting-professionals/"><u>Elevate Your Financial Expertise with ABBYY's Content Intelligence for Accounting Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-online-presence-innovative-solutions-from-cookiebots-expertise/"><u>Elevate Your Online Presence: Innovative Solutions From Cookiebot's Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-website-engagement-using-cookiebots-innovative-solutions/"><u>Elevate Your Website Engagement Using Cookiebot's Innovative Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-user-experience-with-cookiebots-advanced-tracking-and-privacy-tools/"><u>Enhance User Experience with Cookiebot's Advanced Tracking & Privacy Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-educational-websites-for-high-quality-virtual-classroom-enrollment/"><u>Leading Educational Websites for High-Quality Virtual Classroom Enrollment</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y78-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y78 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

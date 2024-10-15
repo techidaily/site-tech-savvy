@@ -1,7 +1,7 @@
 ---
 title: "Exposing the Risks of FraudGPT: How to Fortify Digital Spaces"
-date: 2024-10-03T22:09:45.273Z
-updated: 2024-10-08T18:58:52.167Z
+date: 2024-10-07T21:37:02.781Z
+updated: 2024-10-14T22:45:04.022Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
  To better picture the tool, you can think of FraudGPT as ChatGPT but for fraud. But how exactly does FraudGPT work, and how are cybercriminals using it?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does FraudGPT Work?
@@ -64,10 +64,10 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Can You Protect Yourself From FraudGPT?
@@ -75,10 +75,10 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 ![worrying about red flags online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/thinking-person-using-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Despite being a new kind of tool, the threat posed by FraudGPT is not fundamentally different. You could say it introduces more automation and efficiency to already established methods of executing cybercrime.
@@ -95,10 +95,10 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay Informed to Protect Yourself
@@ -126,20 +126,18 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-crafting-engaging-snapchat-campaigns/"><u>[New] 2024 Approved The Ultimate Guide to Crafting Engaging Snapchat Campaigns</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1-top-3-free-tools-for-converting-mkv-videos-into-playable-dvd-format/"><u>1. Top 3 Free Tools for Converting MKV Videos Into Playable DVD Format</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-vision-and-craft-best-cinematography-practices/"><u>2024 Approved Vision and Craft Best Cinematography Practices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-communicators-from-idea-to-interaction-using-gpt/"><u>AI Communicators: From Idea to Interaction - Using GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-your-sidekick-crafting-epic-stories-through-chatgpts-aid/"><u>AI Your Sidekick: Crafting Epic Stories Through ChatGPT's Aid</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/blizzards-new-chapter-with-microsoft-unveils-innovative-use-of-ai-in-gaming-and-artistry-audio-analysis/"><u>Blizzard's New Chapter with Microsoft Unveils Innovative Use of AI in Gaming & Artistry [Audio Analysis]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cut-through-the-chatter-debunking-nine-biggies-of-ai-dialogue/"><u>Cut Through the Chatter: Debunking Nine Biggies of AI Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-employment-preparing-for-ai-driven-transformation/"><u>Future Employment: Preparing for AI-Driven Transformation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/la-guida-completa-alla-duplicazione-dei-film-dvd-in-modo-economico-e-legale-domestica/"><u>La Guida Completa Alla Duplicazione Dei Film DVD in Modo Economico E Legale Domestica</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-conversations-gpt-plus-a-premium-plan-for-us-citizens-20mth/"><u>Master Your Conversations: GPT-Plus, a Premium Plan for US Citizens ($20/Mth)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-3d-luts-a-comprehensive-guide-for-2024/"><u>Mastering 3D LUTs A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reconstructed-windows-log-a-guide-to-clearing-defender-data/"><u>Reconstructed Windows Log: A Guide to Clearing Defender Data</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/restart-and-repair-a-comprehensive-guide-to-resolving-rainbow-six-sieges-voice-chat-problem-in-the-new-patch-of-2024/"><u>Restart and Repair: A Comprehensive Guide to Resolving Rainbow Six Siege's Voice Chat Problem in the New Patch of 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-chuckles-by-code-from-laptops-to-vpn-safeguarding/"><u>The Art of Chuckles by Code: From Laptops to VPN Safeguarding</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-2023-guide-to-affordable-laptop-dvd-players/"><u>2024 Approved 2023 Guide to Affordable Laptop DVD Players</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/articulating-imagination-chatgpts-creative-edge/"><u>Articulating Imagination: ChatGPT's Creative Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/astounding-revelation-communicate-with-ai-powered-gpt/"><u>Astounding Revelation: Communicate with AI-Powered GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-on-bilingual-ai-help-should-you-use-bing-or-chatgpt-10-factors/"><u>Deciding on Bilingual AI Help: Should You Use Bing or ChatGPT? 10 Factors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-and-install-llama-2-locally/"><u>How to Download and Install Llama 2 Locally</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oppo-a1x-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo A1x 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-securely-document-whatsapp-discussions/"><u>In 2024, How to Securely Document WhatsApp Discussions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-nubia-red-magic-8s-proplus-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Nubia Red Magic 8S Pro+ for Free? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-story-structures-with-ais-assistive-chatgpt/"><u>Masterful Story Structures with AI's Assistive ChatGPT</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-multi-stream-video-in-edge/"><u>Navigating Multi-Stream Video in Edge</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-simultaneous-collision-errors-on-personal-computers-a-comprehamatic-guide/"><u>Resolving Simultaneous Collision Errors on Personal Computers - A Comprehamatic Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-vanishing-how-messenger-achieves-it/"><u>The Art of Vanishing: How Messenger Achieves It</u></a></li>
 </ul></div>
 

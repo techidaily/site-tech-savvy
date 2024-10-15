@@ -1,7 +1,7 @@
 ---
 title: "Privacy at Stake: A Closer Look at 3 Chatbot Threats"
-date: 2024-10-03T22:49:24.753Z
-updated: 2024-10-08T18:37:25.117Z
+date: 2024-10-12T21:22:59.108Z
+updated: 2024-10-15T13:28:54.259Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 
  But the concerns don't stop here.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How Does ChatGPT Learn?
 
  In order to provide information, large language models are trained with huge amounts of data. According to [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3), ChatGPT-4 alone was fed 300 billion words of information during its training period. This isn't taken straight from a few encyclopedias. Rather, chatbot developers use masses of information from the internet to train their models. This can include data from books, movies, articles, Wikipedia entries, blog posts, comments, and even review sites.
@@ -62,16 +55,10 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
@@ -93,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Data Theft
@@ -111,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Malware Infection
 
  If you're using a shady chatbot without realizing it, you may find the chatbot providing you with links to malicious websites. Maybe the chatbot has alerted you of a tempting giveaway, or provided a source for one of its statements. If the operators of the service have illicit intentions, the entire point of the platform may be to spread malware and scams via malicious links.
@@ -122,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Chatbots Aren't Impervious to Privacy Issues
@@ -155,16 +149,19 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/he-future-of-content-creation-profitability-on-youtube-for-2024/"><u>[New] The Future of Content Creation Profitability on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-eco-friendly-cities-redefining-urban-spaces-for-nature/"><u>[Updated] 2024 Approved Eco-Friendly Cities Redefining Urban Spaces for Nature</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-avoid-the-backtrack-blunder-with-these-tips-for-2024/"><u>[Updated] Avoid the Backtrack Blunder with These Tips for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-tool-foundations-starting-with-9-community-guides/"><u>AI Tool Foundations: Starting with 9 Community Guides</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-gpts-effectiveness-independent-or-not/"><u>Auto-GPT's Effectiveness: Independent or Not?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-interactivity-chatgpt-and-its-plug-ins/"><u>Enhancing Interactivity: ChatGPT and Its Plug-Ins</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722895713932-exciting-insights-on-the-next-google-watch-pricing-release-window-and-expected-specs-revealed/"><u>Exciting Insights on the Next Google Watch – Pricing, Release Window & Expected Specs Revealed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-15-pro-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 15 Pro in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/narrative-navigators-face-off-gpt-versus-google-bard/"><u>Narrative Navigators Face-Off: GPT Versus Google Bard</u></a></li>
-<li><a href="https://win-forum.techidaily.com/seamless-driver-upgrades-on-windows-10-a-comprehensive-how-to-guide/"><u>Seamless Driver Upgrades on Windows 10 - A Comprehensive How-To Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-essentials-a-guide-to-making-the-right-choice-when-purchasing-your-first-smartwatch/"><u>Top 5 Essentials: A Guide to Making the Right Choice When Purchasing Your First Smartwatch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-miniature-homes-japanese-and-chinese-inspirations/"><u>[New] 2024 Approved Miniature Homes Japanese & Chinese Inspirations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-huawei-p10-review/"><u>[New] Huawei P10 Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-chart-converters-for-video-for-2024/"><u>[New] Ultimate Chart Converters for Video for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerated-productivity-with-the-top-8-ai-apps-on-your-phone/"><u>Accelerated Productivity with the Top 8 AI Apps on Your Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversation-champions-which-ai-triumphs-gpt-or-bard/"><u>Conversation Champions: Which AI Triumphs, GPT or Bard?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-chatgpts-new-horizon-android-platform/"><u>Discover ChatGPT's New Horizon - Android Platform</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-fixing-common-iphone-13-setbacks-for-smoother-performance/"><u>Expert Advice: Fixing Common iPhone 13 Setbacks for Smoother Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focusfulness-selecting-online-video-augmenters/"><u>In 2024, Focusfulness Selecting Online Video Augmenters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-long-distance-wifi-gadgets-the-ultimate-picks-for-2er/"><u>Leading Long-Distance WiFi Gadgets: The Ultimate Picks for 2Er</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-copilot-setup-guide-for-mac-users/"><u>Microsoft Copilot Setup Guide for Mac Users</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/techni-kembali-akses-folder-gagal-terhubung-pada-sistem-windows-versi-10-11-resmi-dan-easy-guide/"><u>Techni Kembali Akses Folder Gagal Terhubung Pada Sistem Windows Versi 10-11: Resmi Dan Easy Guide!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-counterfeit-corner-of-creative-writing-ai-detection-tips/"><u>The Counterfeit Corner of Creative Writing: AI Detection Tips</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-y78-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Y78 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-of-tailored-ai-interactions-with-chatgpt/"><u>Unlocking the Potential of Tailored AI Interactions with ChatGPT</u></a></li>
 </ul></div>
 

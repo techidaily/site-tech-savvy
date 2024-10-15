@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT as a Language Translation Tool
-date: 2024-10-04T00:45:20.977Z
-updated: 2024-10-09T01:20:54.570Z
+date: 2024-10-10T18:07:00.731Z
+updated: 2024-10-14T18:39:00.596Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
  If you're wondering how ChatGPT stacks up against Google Translate as a translation tool, here's a [comparison of ChatGPT vs. Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). Furthermore, did you know you can [use ChatGPT to help you learn a new language](https://www.makeuseof.com/how-chatgpt-plus-can-help-you-learn-a-language/)? Translating with ChatGPT is fast and accurate, but why not go the extra step and learn an entirely new language using an AI tutor?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Translate Languages With ChatGPT
@@ -52,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
  Here are other important things you'll need to keep in mind to use ChatGPT efficiently as a translation tool.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Provide Context
@@ -65,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
  Take the Spanish sentence “Gracias por preguntar, pero estoy bastante seguro aquí” for instance. Google Translate produces "Thanks for asking, but I'm pretty sure here" as the translation. While this isn't entirely wrong, depending on the context, the sentence could mean, "Thanks for asking, but I'm safe here."
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Of course, Google Translate will provide the same translation no matter how many times you attempt to translate it because it doesn't have a way to recognize contextual nuance. As per the screenshot above, ChatGPT will attempt to provide the most accurate translation depending on the provided context. Providing context can significantly improve the quality of your translation. If you are not sure how to provide context, here are some inspirations:
 
@@ -98,9 +97,29 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 
 ![Translating with ChatGPT using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-using-style-transfer.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The translation above uses the closest English equivalent of the corresponding Spanish words, while the one below uses words suitable for an audience not acquainted with soccer terms. However, it is interesting to note that both translations are considered accurate.
 
 ![An English translation using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/an-english-translation-using-style-transfer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To use style transfer when translating, use prompts like:
 
@@ -119,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
  We prompted ChatGPT to translate "I'm going to play football" into Chinese. As expected, it produced "我要去踢足球 (Wǒ yào qù tī zúqiú)." In Chinese, "zúqiú" means "football," which refers to soccer rather than the rugby-style sport.
 
 ![ChatGPT translation accounting for regional differences in meaning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-translation-accounting-for-regional-differences-in-meaning.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We repeated the translation prompt but added hints about the speaker's origin and possible intent. ChatGPT changed the translation to "我要去踢橄榄球 (Wǒ yào qù tī gǎnlǎnqiú)," this time using "gǎnlǎnqiú" which is the Chinese term for American football and better reflects the potential intent of the speaker.
 
@@ -149,25 +175,11 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 
  We achieved improved translation with every prompt without taking any further steps.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Use Custom Instructions for Consistency in Translations
 
  If you use ChatGPT for translation frequently, one of the most frustrating limitations you'll experience is having to provide certain translation instructions every time you start a new chat. Fortunately, [ChatGPT's Custom Instructions feature](https://www.makeuseof.com/what-is-chatgpt-custom-instructions-feature/) can help solve that problem. The feature allows you to create reusable translation instructions that ChatGPT will remember across all future conversations. You can use it to specify your preferred translation style just once, and ChatGPT will then apply automatically whenever you ask ChatGPT to translate something.
 
  For instance, in point six above, we talked about a word-translation pair. You can simply add your preferred translations of words to the ChatGPT Custom Instruction editor and have the chatbot use that preference across all chat sessions. If you spend time translating between two specific languages and use tricky, unique, or colloquial words and phrasing, this will speed up your ChatGPT language translation efforts.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Replicate Linguistic Form
 
@@ -184,10 +196,10 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 ![Translation that preserves linguistic form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/translation-that-preserves-linguistic-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, this is not a perfect translation example, but with a few prompt tweaks, there's more to achieve.
@@ -215,22 +227,15 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-boost-your-visual-impact-essential-tricks-for-pixlr-pros/"><u>[New] Boost Your Visual Impact Essential Tricks for Pixlr Pros</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-breaking-down-snapchats-new-highlight-functionality/"><u>[New] Breaking Down Snapchat's New Highlight Functionality</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-essential-steps-to-design-impressive-facebook-slideshows/"><u>[New] Essential Steps to Design Impressive Facebook Slideshows</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-choosing-the-best-a-dive-into-obs-and-twitch-streaming/"><u>[New] In 2024, Choosing the Best A Dive Into OBS & Twitch Streaming</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-professional-livestream-tools-outside-of-standard-obs/"><u>[New] Professional Livestream Tools Outside of Standard OBS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-guide-to-enhance-your-iphone-x-animoji-skills/"><u>2024 Approved Expert Guide to Enhance Your iPhone X Animoji Skills</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/aeroco-pilots-essential-distinctions-between-models/"><u>AeroCo-Pilots: Essential Distinctions Between Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-tools-4-writers-elevating-the-editorial-experience/"><u>AI Tools 4 Writers: Elevating the Editorial Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-mapping-the-landscape-of-openai/"><u>Comprehensive Mapping: The Landscape of OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/culinary-creativity-unlocked-7-innovative-chatgpt-tips/"><u>Culinary Creativity Unlocked: 7 Innovative ChatGPT Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-honor-magic-v2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Honor Magic V2 FRP Bypass</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/microsofts-gpt-vs-anthropics-claude-which-leads-the-ai-chatbot-revolution/"><u>Microsoft's GPT Vs. Anthropic's Claude - Which Leads the AI Chatbot Revolution?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/newcomers-guide-to-langchain-tech/"><u>Newcomers' Guide to LangChain Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pivoting-from-chatgpt-a-guide-to-superior-options/"><u>Pivoting From ChatGPT: A Guide to Superior Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-doesnt-strike-the-gpt-core/"><u>What Doesn't Strike the GPT Core?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-snapchats-my-ai-stands-out-beyond-toys-and-games/"><u>Why Snapchat’s My AI Stands Out Beyond Toys and Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-enhancements-for-terria-pros/"><u>[New] 2024 Approved Essential Enhancements for Terria Pros</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-techniques-for-saving-and-recording-ps4-gameplay/"><u>[Updated] In 2024, Essential Techniques for Saving and Recording PS4 Gameplay</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-collection-top-notch-free-meme-designs/"><u>[Updated] Ultimate Collection Top-Notch FREE Meme Designs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assisted-wellbeing-safe-practices-in-counseling/"><u>AI-Assisted Wellbeing: Safe Practices in Counseling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-chatgpt-bans-tips-and-tricks-explained/"><u>Bypassing ChatGPT Bans: Tips and Tricks Explained</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-8-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 8 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-infinix-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Infinix? Try These Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfected-phrasing-eliminating-mistakes-using-chatgpt/"><u>Perfected Phrasing: Eliminating Mistakes Using ChatGPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-m54-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy M54 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-risks-in-mobile-gpt-downloads/"><u>Understanding Risks in Mobile GPT Downloads</u></a></li>
 </ul></div>
 

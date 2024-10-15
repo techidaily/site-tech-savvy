@@ -1,7 +1,7 @@
 ---
 title: Embracing Nightshade Techniques to Safeguard Originality From AI
-date: 2024-10-06T00:00:27.277Z
-updated: 2024-10-09T02:38:37.936Z
+date: 2024-10-11T08:56:02.119Z
+updated: 2024-10-15T03:46:28.164Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,16 +47,10 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is AI Poisoning?
@@ -66,10 +60,16 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
@@ -83,6 +83,13 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Using this technique, digital creators who do not consent for their images to be used in AI datasets can [protect them from being fed to generative AI without permission](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/). Some platforms provide creators the option to opt out of including their artwork in AI training datasets. However, such opt-out lists have been disregarded by AI model trainers in the past and continue to be disregarded with little to no consequence.
 
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Nightshade
 
@@ -101,13 +108,6 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 3. Select the image you want to protect by clicking the **Select** button in the top-left. You can also select multiple images at once for batch processing.  
 ![nightshade-program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nightshade-program.jpg)
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
 6. Click the **Run Nightshade** button at the bottom to run the program and poison your images.
@@ -133,18 +133,20 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-youtube-footage-for-ultimate-quality/"><u>[New] Transforming YouTube Footage for Ultimate Quality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-portable-gyro-assisted-visual-soother/"><u>2024 Approved Portable Gyro-Assisted Visual Soother</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/brainchild-of-bard-googles-answer-to-the-ai-world-leaders/"><u>Brainchild of Bard: Google's Answer to the AI World Leaders</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-ipados-version-handbook-a-complete-reference/"><u>Comprehensive iPadOS Version Handbook: A Complete Reference</u></a></li>
-<li><a href="https://win-answers.techidaily.com/house-flipper-angs-ensuring-smooth-performance-without-pc-glitches/"><u>House Flipper Angs: Ensuring Smooth Performance Without PC Glitches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-writes-your-stories-with-custom-gpt-solutions/"><u>OpenAI' Writes Your Stories with Custom GPT Solutions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/polish-primer-fast-learners-pathway/"><u>Polish Primer: Fast Learner's Pathway</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-oxygen-not-included-game-crashes-tips-and-solutions/"><u>Resolving 'Oxygen Not Included' Game Crashes: Tips & Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-storytelling-enhanced-by-ais-intelligence/"><u>The Art of Storytelling Enhanced by AI's Intelligence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-tips-and-criteria-for-choosing-the-perfect-projector-for-you/"><u>Top Tips and Criteria for Choosing the Perfect Projector for You</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-chatbots-building-with-create-a-gpt-techniques/"><u>Transformative ChatBots: Building with Create a GPT Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-epic-games-sign-in-problems-on-pc/"><u>Troubleshooting Epic Games Sign-In Problems on PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-are-hackers-targeting-chatgpt-accounts/"><u>Why Are Hackers Targeting ChatGPT Accounts?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-bring-your-best-movies-from-mmc-to-the-vimeo-universe/"><u>[New] 2024 Approved Bring Your Best Movies From MMC to the Vimeo Universe</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-prototyping-perfection-the-best-vector-software-of-the-year-for-2024/"><u>[New] Prototyping Perfection The Best Vector Software of the Year for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-build-circles-and-spheres-in-minecraft/"><u>[Updated] 2024 Approved How to Build Circles and Spheres in Minecraft</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-optimal-tools-for-high-quality-zoom-recordings/"><u>[Updated] 2024 Approved Optimal Tools for High-Quality Zoom Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-blueprint-for-youtube-video-narratives/"><u>ChatGPT's Blueprint for YouTube Video Narratives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-individualistic-gpt-3-writing-guidelines/"><u>Crafting Individualistic GPT-3 Writing Guidelines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defend-website-reject-openai-bots/"><u>Defend Website: Reject OpenAI Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-implementing-gpt-3-with-python/"><u>Efficiently Implementing GPT-3 with Python</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-video-production-achieve-optimal-quality-using-winxvideo-artificial-intelligence/"><u>Elevate Video Production: Achieve Optimal Quality Using Winxvideo Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embrace-a-new-era-in-web-exploration-microsoft-enhances-bing-with-smart-ai-capabilities/"><u>Embrace a New Era in Web Exploration: Microsoft Enhances Bing with Smart, AI Capabilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-the-link-restoring-steam-deck-cloud-sync/"><u>Fixing the Link: Restoring Steam Deck Cloud Sync</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-chatgpt-now-9-leading-plug-ins-to-enhance-your-workflow/"><u>Harness the Power of ChatGPT Now: 9 Leading Plug-Ins to Enhance Your Workflow</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-multilingualism-chatgpt-at-the-forefront/"><u>Interactive Multilingualism: ChatGPT at the Forefront</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-the-versatile-use-cases-for-chatgpt/"><u>Unpacking the Versatile Use Cases for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-wins-the-tech-talk-comparing-gpt-and-bing-ai/"><u>Who Wins the Tech Talk: Comparing GPT & Bing AI?</u></a></li>
 </ul></div>
 

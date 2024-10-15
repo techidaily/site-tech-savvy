@@ -1,7 +1,7 @@
 ---
 title: Maximize Portability & Performance - Transport Vast Data Storage (368TB) In Style Using WD Ultrastar Transporter's Cutting-Edge Features
-date: 2024-10-01T17:35:54.916Z
-updated: 2024-10-08T23:10:23.564Z
+date: 2024-10-14T11:02:41.724Z
+updated: 2024-10-15T12:04:38.137Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We are also going to recommend GPUs rather than specific makes and models of graphics cards. For example, we'd recommend an RTX 4070 Ti and link to a list of available cards rather than, for example, the[Zotac RTX 4070 Ti](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FZOTAC-Graphics-IceStorm-Advanced-ZT-D40710J-10P%2Fdp%2FB0BQCVTSR3%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1261595583226646282-20) [.](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FZOTAC-Graphics-IceStorm-Advanced-ZT-D40810B-10P%2Fdp%2FB0BKK3RFT6%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8032896364299685703-20) Given frequent price and stock changes in the space, you should get whichever third or first-party card is available with the GPU you want for the best price at the time you read this.
 
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best $500 PC Build for Gaming
 
@@ -76,13 +83,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Amazon)
 
  Swipe to scroll horizontally
@@ -106,10 +106,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![14400 CPU vs competition](https://cdn.mos.cms.futurecdn.net/FVyBrR3Fkm8RXeguWat4ik-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -120,13 +120,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![1080p GPUs Ranked](https://cdn.mos.cms.futurecdn.net/ktyz8PAoeeySeFAwDS7RGh-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  The card can also do some ray tracing as it averaged 41.7 fps on 1080p ultra with ray tracing enabled. Forget about playing in 2K with ray tracing as that only gave us 25.8 fps.
@@ -135,22 +128,29 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Crucial P5 Plus Tests](https://cdn.mos.cms.futurecdn.net/dVtKieHEMPgzXkpEJa7jcm-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We're going with 32GB of TeamGroup T-Force Zeus DDR4 RAM and we're stepping up to a 700W version of the[Thermaltake](https://www.tomshardware.com/tag/thermaltake) Smart power supply so we can support our higher wattage CPU and GPU.
 
  Our case is the Gamdias Aura GC1, a full-size ATX case that comes with four ARGB fans. The GC1 has a mesh front for optimal airflow and plenty of room for expansion.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best $1,000 PC Build for Gaming
 
 ![Phanteks XT Pro](https://cdn.mos.cms.futurecdn.net/AeCzMV4DUqQFiBnV2hPQuf-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -194,9 +194,23 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Finally, we've stepped up to a 750-watt power supply and we're going with Corsair CX750M, which is 80+ Bronze certified and semi-modular. You can get a modular PSU or one that's 80+ Gold certified for a bit more, but that's money you don't need to spend at this price point.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best $1,500 PC Build for Gaming
 
 ![Lian Li Lancool 216](https://cdn.mos.cms.futurecdn.net/Km4g6hf6hy2XkxhB88oxBR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -221,13 +235,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  With ray tracing enabled, the RTX 4070 delivers 69.4 fps at 1080 ultra and a playable 45.2 fps at 1440p. In some titles, the numbers are much higher. For example, in Spider-Man: Miles Morales at 1440p, the card returned an average frame rate of 69 fps.
 
 ![RTX 4070 Spider-Man: Miles Morales Ray Tracing results](https://cdn.mos.cms.futurecdn.net/XgVebfNva528szwrGpaooB-320-80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -298,15 +305,22 @@ If you want a computer that meets your exact needs and budget, you need to put i
  To power all these high-end components, we're using a Corsair RM750e PSU which is 80+ Gold certified and fully modular.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best $4000+ PC Build for Gaming
 
 ![Fractal Design North XL](https://cdn.mos.cms.futurecdn.net/gohZoiw9QykbPm5kgrhfbi-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -332,13 +346,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4090 Performance](https://cdn.mos.cms.futurecdn.net/mKv5emaUBYKBRQ8URPsxCY-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  Our CPU is AMD's Ryzen 9 7950X3D, which offers faster gaming than any Intel CPU on the market, including the Core i9-14900K. It has a whopping 140MB of cache, thanks to AMDs innovative 3D V-Cache and it boasts 16 full-power cores and 32 threads, which is more regular cores than the 13900K's set of 8 (to go with 16 E-Cores).
@@ -363,19 +370,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  With these high-end components, we don't want to skimp on the power supply, and having something that's fit for a future graphics card upgrade makes sense. We're going with a full 1000-watts of power and the Corsair HX1000\. This power supply is 80+ Platinum certified and fully modular.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Finding Discounts on the Best PC Components
 
  To find savings on components of all types, check out our lists of the[best PC hardware deals](https://www.tomshardware.com/news/best-deals-on-tech) , along with the latest[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) ,[Corsair coupon codes](https://www.tomshardware.com/coupons/corsair.com) and[Best Buy promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fbestbuy.com) .
@@ -395,24 +389,17 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-shake-and-smile-with-iphone-memes-for-2024/"><u>[Updated] Shake & Smile with iPhone Memes for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-streaming-sound-excellence-5-top-headsets-for-2024/"><u>[Updated] Streaming Sound Excellence 5 Top Headsets for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-essential-guide-to-embedding-youtube-into-gslides/"><u>[Updated] The Essential Guide to Embedding YouTube Into GSlides</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-kid-friendly-drone-recommendations/"><u>10 Kid-Friendly Drone Recommendations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/24-next-gen-pos-applications-beyond-openais-innovations/"><u>24 Next-Gen POS Applications Beyond OpenAI's Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-ai-text-generators-for-writing-inspiration/"><u>5 AI Text Generators for Writing Inspiration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-common-fails-in-ai-driven-discussions/"><u>6 Common Fails in AI-Driven Discussions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-responsible-ways-to-use-ai-as-a-content-writer-or-editor/"><u>7 Responsible Ways to Use AI as a Content Writer or Editor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-big-problems-with-openais-chatgpt/"><u>8 Big Problems With OpenAI's ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-groundbreaking-replacements-to-enhance-phone-interactions-with-ai/"><u>8 Groundbreaking Replacements to Enhance Phone Interactions with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-ways-that-chatgpt-can-help-content-creators/"><u>9 Ways That ChatGPT Can Help Content Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-complete-overview-claude-3-unwrapped/"><u>A Complete Overview: Claude 3 Unwrapped</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-guide-to-employing-chatgpt-for-translators/"><u>A Comprehensive Guide to Employing ChatGPT for Translators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/edge-off-your-windows-11-desktop/"><u>Edge Off Your Windows 11 Desktop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-cutting-and-splicing-360-degree-footage-in-adobe-premiere-for-2024/"><u>Expert Tips for Cutting and Splicing 360-Degree Footage in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/netflix-nw-1-19-fix-what-you-need-to-know-and-do/"><u>Netflix NW-1-19 Fix: What You Need to Know and Do</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/timeless-lens-capture-expert-picks-of-cameras-for-extended-shutter/"><u>Timeless Lens Capture Expert Picks of Cameras for Extended Shutter</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-visuals-detailed-guide-to-hero5-black-proficiency-for-2024/"><u>Unlocking Visuals Detailed Guide to Hero5 Black Proficiency for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-sound-control-problems-solved-quick-fixes-for-dead-volume-buttons/"><u>Windows 11 Sound Control Problems Solved: Quick Fixes for Dead Volume Buttons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-gpt-vs-bing-top-ai-chat-companions/"><u>AI Showdown: GPT Vs. Bing - Top AI Chat Companions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/creer-un-gif-a-partir-dune-video-conversion-mp4-en-image-animee-avec-movavi/"><u>Créer Un GIF À Partir D'une Vidéo : Conversion MP4 en Image Animée Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-copywriting-with-ai-wisdom/"><u>Enhancing Copywriting with AI Wisdom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-6-advantages-more-than-just-a-toy-for-snapchat-ai/"><u>Exploring 6 Advantages: More Than Just a Toy for Snapchat AI</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-hazy-days-no-more-ensuring-clean-gopro-images/"><u>In 2024, Hazy Days No More Ensuring Clean GoPro Images</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-bridging-starting-conversations/"><u>Language Bridging: Starting Conversations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-world-vs-virtual-unveiling-fps-fantasyland/"><u>Real World vs Virtual: Unveiling FPS Fantasyland</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-system-enhancement-efficient-update-of-acer-drivers-for-win10/"><u>Swift System Enhancement: Efficient Update of Acer Drivers for Win10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-limits-of-machine-learning-in-medicine-revealed/"><u>The Limits of Machine Learning in Medicine Revealed</u></a></li>
 </ul></div>
 

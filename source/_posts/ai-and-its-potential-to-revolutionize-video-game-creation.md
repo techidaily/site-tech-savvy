@@ -1,7 +1,7 @@
 ---
 title: AI and Its Potential to Revolutionize Video Game Creation
-date: 2024-10-03T02:49:55.624Z
-updated: 2024-10-09T00:43:05.790Z
+date: 2024-10-12T17:31:29.636Z
+updated: 2024-10-15T04:38:11.970Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
 
  This increase in the number of games being released is arguably good because of the vastly expanded variety of experiences now available. More people are making games than ever before, presenting viewpoints and perspectives that we may not have had a chance to see if the games industry had remained the way it was the in the 90s and early 2000s. It’s not much of a logical leap to say that AI would only strengthen this effect.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### AI-Assistants to Make Games With
 
  If you were lucky enough to catch [what was going on at Google I/O 2023](https://www.makeuseof.com/google-io-2023-what-was-announced/), then you know that AI assistants are currently the "in" thing. Services like [Bard](https://bard.google.com/) and [ChatGTP](https://openai.com/blog/chatgpt) are showing that AI can help everyone from writers and artists to programmers and designers. The future of AI in game design will almost certainly take the form of in-software assistants that can help developers with areas they’re not too familiar with.
@@ -51,27 +44,20 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
 
  Of course, all of this assumes that the issue of AI being trained on unwitting creatives’ work has been solved. Currently, the two biggest barriers to this technology becoming widely used are related to public image and legality. Right now, most AI is trained on work without the original creator's permission, and thanks to this, much AI-driven work isn't exactly well-received online.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How AI Could Oversaturate Video Games
 
 ![A chart showing the number of games relased on Steam each year from 2006 to 2023. The chart shows a huge increase in released games from 2014-2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chart-showing-increased-in-games-released-on-steam-each-year-steam-db.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While it’s true that AI will help more people make video games, it could also lead to a huge glut in the market, and that has caused some problems for the games industry in the past. With AI assistance, it will become even easier for low-effort developers to churn out low-quality, low-price games as a quick scam. This has already been an issue in previous years, with 2017 seeing Valve remove 173 asset flip games from the storefront as reported by [Gamesindustry.biz](https://www.gamesindustry.biz/valve-removes-173-asset-flipping-games-from-steam).
 
  AI assistants could make these games easier to produce and make it harder to detect such games, as AI-generated content can at least appear marginally different from bundles of pre-bought assets currently used. When you add the ability for the incredibly young and inexperienced to make a game because they feel like it, it’s not hard to see why the introduction of AI assistants would make some people nervous.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Another Gaming Explosion
 
@@ -79,9 +65,23 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
 
  The final major struggle with AI-assisted game design is how it works legally. As we previously mentioned, AI-driven art is not currently accepted by the wider public, especially not in online circles. With gaming being such an online-centric industry, it seems that the hurdles could be bigger here than anywhere else, and many gamers may see avoiding the purchase of AI-driven games as an important moral stance.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Video Game Industry Needs Solid Guidelines Around AI
 
 ![screenshot of Google I/O 2023 showing a woman and man on opposite sides of the stage with a screen between them showing an AI-assistant helping to write a story.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-io-stage-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
 
@@ -92,10 +92,10 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
  On top of that, the games industry should not wait until legislation is imposed upon it by the government. Self-imposed codes and standards are an important part of any industry, from the Comic Code Authority to the ESRB; these self-policing policies are an important part of a healthy industry. People in positions of power within the industry need to start thinking about how we restrict the power that AI has over creative human expression now and not when it's too late.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Could AI Be the Future of Gaming?
@@ -121,20 +121,15 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-chasing-titles-key-moments-from-2022-olympics-short-tracks/"><u>[New] Chasing Titles Key Moments From 2022 Olympics Short Tracks</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-the-self-play-feature-in-facebook-videos/"><u>[New] In 2024, Mastering the Self-Play Feature in Facebook Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-podcasts/"><u>2024 Approved The Secret Ingredient to Success 15 Activities that Enhance Learning While Listening to Podcasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bert-and-gpt-explained-the-linguistic-frontier/"><u>BERT and GPT Explained: The Linguistic Frontier</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evolving-developer-workflows-with-ai/"><u>Evolving Developer Workflows with AI</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/free-techniques-for-turning-youtube-watching-into-a-screenshot-for-2024/"><u>Free Techniques for Turning YouTube Watching Into a Screenshot for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harness-the-power-of-ai-top-10-chatgpt-and-vs-code-tactics/"><u>Harness the Power of AI: Top 10 ChatGPT & VS Code Tactics</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-narzo-60-pro-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme Narzo 60 Pro 5G Lock Screen Password?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-transforming-youtube-viewing-how-to-efficiently-insert-timestamps/"><u>In 2024, Transforming YouTube Viewing How to Efficiently Insert Timestamps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-to-overcome-language-barriers-with-chatgpts-help/"><u>Leveraging AI to Overcome Language Barriers with ChatGPT's Help</u></a></li>
-<li><a href="https://extra-information.techidaily.com/making-photos-dance-dynamic-distortions-with-ps/"><u>Making Photos Dance Dynamic Distortions with PS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-thought-outdoing-the-original-test/"><u>Mastering Thought: Outdoing the Original Test</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/questioning-the-benefit-of-ai-driven-chat-bots/"><u>Questioning the Benefit of AI-Driven Chat Bots</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/screenplay-blueprint-unveiled/"><u>Screenplay Blueprint Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-custom-ai-crafting-chatgpt-from-scratch/"><u>The Art of Custom AI: Crafting ChatGPT From Scratch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-streams-weighing-xsplit-against-obs-capabilities/"><u>[Updated] Mastering Streams Weighing XSplit Against OBS Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-in-arithmetic-and-algebra/"><u>AI in Arithmetic and Algebra</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/el-mejor-software-de-captura-de-pantalla-compatible-con-windows-1087-grabar-cualquier-parte-del-monitor-facilmente/"><u>El Mejor Software De Captura De Pantalla Compatible Con Windows 10/8/7 - Grabar Cualquier Parte Del Monitor Fácilmente</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-job-market-for-ai-driven-prompt-designers/"><u>Evaluating the Job Market for AI-Driven Prompt Designers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-gpt-freedom-for-pc-enthusiasts/"><u>Maximizing GPT Freedom for PC Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-missing-window-panes-in-windows-11-6-tactics/"><u>Reinstating Missing Window Panes in Windows 11 (6 Tactics)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smartwatch-evolution-through-conversation-gpts-top-6-innovations/"><u>Smartwatch Evolution Through Conversation: GPT's Top 6 Innovations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/stop-device-freeze-non-playing-fb-videos/"><u>Stop Device Freeze Non-Playing FB Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-htc-u23-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your HTC U23 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722865962215-whea-error-cant-be-corrected-heres-how-to-overcome-the-obstacle/"><u>WHEA Error Can't Be Corrected? Here's How to Overcome the Obstacle</u></a></li>
 </ul></div>
 

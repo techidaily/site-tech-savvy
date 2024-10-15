@@ -1,7 +1,7 @@
 ---
 title: Top 11 Must-Have Windows & macOS Tools From Your Favorite Tech Source on ZDNet
-date: 2024-10-07T20:57:25.441Z
-updated: 2024-10-09T05:29:01.691Z
+date: 2024-10-09T20:03:53.685Z
+updated: 2024-10-15T11:39:54.418Z
 tags:
   - apple
 categories:
@@ -38,6 +38,13 @@ Show less
 
 ## Microsoft 365 apps for Business
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It's not just a bundle anymore
 
 The four desktop apps that make up the core of what used to be Microsoft Office are an absolutely essential part of my working day, and not much has changed despite the rebranding to Microsoft 365\. Outlook is the first app I open in the morning, and I cannot remember the last day where I didn't use Excel and Word. (I typically only use PowerPoint a few times a year.) These apps are available for Windows and MacOS as part of my Microsoft 365 Business Standard (formerly Office 365) subscription, for which I pay $150 annually. The package also includes support for my custom email domain and a terabyte of cloud storage. (For more on what's included, see: [Microsoft 365 vs Google Workspace (formerly G Suite): Which productivity suite is best for your business?](https://www.zdnet.com/article/office-365-vs-g-suite-which-productivity-suite-is-best-for-your-business/))
@@ -51,19 +58,19 @@ Show less
 [View now at Tweeten](https://tweetenapp.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tweeten
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### It's TweetDeck on steroids
@@ -79,13 +86,6 @@ Show less
 [View now at OneNote](https://www.onenote.com/)
 
 ## OneNote
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### An infinitely expandable notebook
 
@@ -117,13 +117,6 @@ Show less
 
 ## Quicken Home and Business
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### I hate it, but I use it
 
 A gazillion years ago, a famous household brand sold a lot of mouthwash with ads whose tagline went something like: "You hate the taste, but you use it twice a day." That, to me, is the perfect description of Quicken for Windows, which is occasionally infuriating to use, comes with a steep learning curve, and includes a virtual guarantee that you will run into some terribly annoying bug roughly once a quarter. Despite all that, it's better than any of the alternatives. I know. I've tried them all.
@@ -133,10 +126,10 @@ The good news is that Quicken's support staff is responsive and knowledgeable, a
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Browser and extensions
@@ -144,13 +137,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Edge (Chromium)
 
@@ -180,7 +166,27 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Workona
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The cleanest way to organize browser tabs
 
@@ -191,10 +197,10 @@ Because Workona is currently in preview, it's free. After it's officially releas
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Media
@@ -202,13 +208,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Spotify Music
 
@@ -223,6 +222,19 @@ Show Expert Take Show less
 Show less 
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VLC Media Player
 
@@ -276,20 +288,16 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-audio-integration-in-digital-photo-albums/"><u>[New] Audio Integration in Digital Photo Albums</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-aspect-ratios-in-video-production/"><u>2024 Approved Mastering Aspect Ratios in Video Production</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bargain-tech-meets-ransomware-unraveling-secrets/"><u>Bargain Tech Meets Ransomware Unraveling Secrets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-productivity-essential-ai-tools-for-writers/"><u>Boost Your Productivity: Essential AI Tools for Writers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-c55-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme C55 Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-zte-axon-40-lite-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from ZTE Axon 40 Lite to New Android? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/join-the-bug-sniffers-club-at-openai-where-expertise-meets-rewards/"><u>Join the Bug-Sniffers Club at OpenAI, Where Expertise Meets Rewards</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/llama-3-vs-gpt-4-an-in-depth-comparison-of-leading-ais/"><u>Llama 3 Vs. GPT-4 - An In-Depth Comparison of Leading AIs</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/nar-du-kan-finne-horer-pa-nettet-easy-to-use-audio-extractor-fra-video/"><u>Når Du Kan Finne Hører På Nettet: Easy-to-Use Audio Extractor Fra Video</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-waiting-swift-fixes-to-get-you-into-action-with-battlefield-5-a-comprehensive-tutorial/"><u>No More Waiting: Swift Fixes to Get You Into Action with Battlefield 5 - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/overcoming-aol-mail-problems-on-the-iphone-6-proven-methods/"><u>Overcoming AOL Mail Problems on the iPhone: 6 Proven Methods</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/summit-creation-pro-x-evaluation-for-2024/"><u>Summit Creation Pro X Evaluation for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-content-creation-hixplusgpt-4/"><u>The Future of Content Creation: HIX+GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-openais-api-features/"><u>Unlocking Potential with OpenAI's API Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-of-gpt-4-collectively/"><u>Unlocking the Potential of GPT-4 Collectively</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/harting-a-course-for-youtube-success-viewer-numbers-and-income/"><u>[New] Charting a Course for YouTube Success Viewer Numbers and Income</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-mastering-snapchats-call-and-chat-features-for-2024/"><u>[Updated] The Ultimate Guide Mastering Snapchat's Call & Chat Features for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-a-tailored-communicator-build-a-unique-gpt/"><u>Craft a Tailored Communicator: Build a Unique GPT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-a-smooth-playthrough-addressing-praey-for-the-overlords-pc-crash-problems/"><u>Expert Tips for a Smooth Playthrough - Addressing Praey for the Overlord's PC Crash Problems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/innovative-mac-live-streaming-options-ranked-1-5/"><u>Innovative Mac Live Streaming Options Ranked #1-5</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/one-handed-efficiency-7-essential-techniques-for-handling-oversized-android-phones/"><u>One-Handed Efficiency: 7 Essential Techniques for Handling Oversized Android Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/switching-to-claude-3-heres-why-it-beats-gpt-3/"><u>Switching to Claude 3? Here's Why It Beats GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-digital-dialogue-snapchats-myai-vs-openais-gpt/"><u>The Digital Dialogue: Snapchat's MyAI vs OpenAI's GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truth-talks-busting-9-common-chatbot-misconceptions-today/"><u>Truth Talks - Busting 9 Common Chatbot Misconceptions Today</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-tecno-camon-20-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Tecno Camon 20 Pro 5G to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Monitor: OpenAI's Response to ChatGPT Content Duplication"
-date: 2024-10-04T21:45:29.034Z
-updated: 2024-10-09T02:57:58.533Z
+date: 2024-10-13T13:36:32.548Z
+updated: 2024-10-14T18:04:09.623Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  So instead of hoovering up information and recreating its best approximation, the GPT-Classifier attempts to compare similarities between known human text and known AI text to find discrepencies that reveal the source writer.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-Classifier's Detection Is Currently Limited
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![gpt classifier tool testing human written text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpt-classifier-tool-testing-human-written-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A cursory test of the GPT-Classifier spotted a human-generated example and marked it "very unlikely to be AI-generated," and also correctly indicated that a ChatGPT-generated snippet on USB issues was "possibly AI generated."
@@ -63,17 +63,17 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 ![gpt classifier tool testing ai written text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpt-classifier-tool-testing-ai-written-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Demand for ChatGPT Detection Is High
@@ -97,20 +97,17 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-audiophiles-dilemma-podcast-or-youtube-dominance-for-2024/"><u>[New] Audiophile's Dilemma Podcast or YouTube Dominance for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-zooms-finest-audio-to-text-solutions-complimentary-and-subscriptions-for-2024/"><u>[Updated] Zoom's Finest Audio-to-Text Solutions Complimentary & Subscriptions for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/activating-your-digital-guard-facebooks-privacy-toolkit/"><u>Activating Your Digital Guard: Facebook's Privacy Toolkit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-user-feedback-valuable-for-ai-learning-processes/"><u>Are User Feedback Valuable for AI Learning Processes?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/asuschromebookflipc302ca-unveiled-budget-friendly-dual-mode-marvel-that-delivers-top-performance/"><u>AsusChromebookFlipC302CA Unveiled: Budget-Friendly, Dual-Mode Marvel That Delivers Top Performance</u></a></li>
-<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-14-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 14 Pro Max Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-plugins-to-skip-in-gpt-enhancements/"><u>Essential Plugins to Skip in GPT Enhancements</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/grasping-the-fundamentals-of-animated-communication-for-2024/"><u>Grasping the Fundamentals of Animated Communication for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-play-7t-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor Play 7T Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/let-windows-10-do-the-heavy-lifting-automatic-error-correction-and-computer-maintenance-explained/"><u>Let Windows 10 Do the Heavy Lifting: Automatic Error Correction and Computer Maintenance Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spotting-distinctions-nlp-tech-versus-ml-framework/"><u>Spotting Distinctions: NLP Tech Versus ML Framework</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/surpassing-corporate-communication-barriers-with-skills/"><u>Surpassing Corporate Communication Barriers with Skills</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-misguided-assumption-ai-as-the-future-of-written-communication-jobs/"><u>The Misguided Assumption: AI as the Future of Written Communication Jobs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-next-big-step-in-ai-googles-unveiling-of-palm-2-model/"><u>The Next Big Step in AI: Google's Unveiling of PaLM 2 Model</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-storytelling-secrets-using-chatgpt/"><u>Unlocking Storytelling Secrets Using ChatGPT</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-surviving-in-mc-6-home-ideas/"><u>[New] 2024 Approved Surviving in MC 6 Home Ideas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-financial-flourishing-with-glamour-vlogs/"><u>[Updated] Financial Flourishing with Glamour Vlogs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-fueled-success-enhancing-your-websites-performance/"><u>Cookiebot-Fueled Success: Enhancing Your Website's Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-elevating-website-engagement-through-smart-cookies-and-ai-driven-insights/"><u>Cookiebot: Elevating Website Engagement Through Smart Cookies & AI-Driven Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-drivers-for-universal-bluetooth-devices-on-your-pc/"><u>Download the Newest Drivers for Universal Bluetooth Devices on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/drive-more-traffic-with-advanced-personalization-powered-by-the-leading-cookiebot-technology/"><u>Drive More Traffic with Advanced Personalization: Powered by the Leading Cookiebot Technology</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-a2-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo A2 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-audience-engagement-through-intelligent-conversational-agents/"><u>Enhanced Audience Engagement Through Intelligent Conversational Agents</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-chart-topping-content-youtubes-top-5/"><u>In 2024, Chart-Topping Content YouTube's Top 5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-infinix-smart-7-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Infinix Smart 7</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-navigating-the-launch-of-tiktok-videos-from-pc/"><u>In 2024, Navigating the Launch of TikTok Videos From PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726224813763-avi-movavi/"><u>オンラインで免許なしAVIファイルの自由な変換 - MOVAVIサービス</u></a></li>
 </ul></div>
 

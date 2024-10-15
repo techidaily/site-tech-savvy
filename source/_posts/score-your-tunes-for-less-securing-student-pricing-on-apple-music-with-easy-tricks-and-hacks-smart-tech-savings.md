@@ -1,7 +1,7 @@
 ---
 title: "Score Your Tunes for Less: Securing Student Pricing on Apple Music with Easy Tricks and Hacks | Smart Tech Savings"
-date: 2024-10-07T16:17:50.433Z
-updated: 2024-10-09T04:24:26.261Z
+date: 2024-10-13T12:02:56.325Z
+updated: 2024-10-14T16:49:50.611Z
 tags:
   - apple
 categories:
@@ -40,13 +40,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
@@ -70,10 +63,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -81,13 +74,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -99,6 +85,19 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
@@ -106,10 +105,10 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -119,6 +118,13 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -162,15 +168,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-capture-the-scope-of-space-sharing-panoramic-pictures-with-facebook/"><u>[Updated] Capture the Scope of Space Sharing Panoramic Pictures with Facebook</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-showcase-excellence-with-these-essential-thumbnail-fonts/"><u>2024 Approved Showcase Excellence with These Essential Thumbnail Fonts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-facilitated-world-design-beyond-boundaries/"><u>AI-Facilitated World Design: Beyond Boundaries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chaos-or-evolution-ai-beyond-boundaries/"><u>Chaos or Evolution? AI Beyond Boundaries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-knowledge-on-openais-ethos/"><u>Essential Knowledge on OpenAI's Ethos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/how-to-enable-youtube-videos-to-self-play-on-facebook-for-2024/"><u>How to Enable Youtube Videos to Self-Play on Facebook for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-nord-3-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus Nord 3 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-gb-usage-for-full-day-film-length/"><u>In 2024, GB Usage for Full-Day Film Length</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-a-local-llm-right-for-you-pros-and-cons-explored/"><u>Is a Local LLM Right for You? Pros and Cons Explored</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-wpcapsddll-file-not-found-a-step-by-step-guide/"><u>Solving the wpcapsd.dll File Not Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-simplified-methods-for-google-meet-recordings/"><u>[New] Simplified Methods for Google Meet Recordings</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-a-step-by-step-guide-turning-viral-soundtracks-into-personal-ringtones/"><u>[Updated] A Step-by-Step Guide Turning Viral Soundtracks Into Personal Ringtones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-business-breakthroughs-on-youtube-the-simplest-channel-launches-ranked-for-2024/"><u>[Updated] Business Breakthroughs on YouTube The Simplest Channel Launches Ranked for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-browser-ai-7-excellent-extensions/"><u>Boosting Browser AI: 7 Excellent Extensions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/camera-confusion-no-video-display-issue/"><u>Camera Confusion No Video Display Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-entry-joining-without-phone-numbers-or-sims/"><u>ChatGPT Entry: Joining Without Phone Numbers or SIMs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/creating-a-personalized-french-education-at-home/"><u>Creating a Personalized French Education at Home</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-dialogue-chatgpt-joins-the-android-family/"><u>Dive Into Dialogue: ChatGPT Joins the Android Family</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mobile-gpt-utilization-tips-and-tricks-for-androidios/"><u>Mobile GPT Utilization: Tips and Tricks for Android/iOS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/one-click-iphone-screen-capture/"><u>One-Click Iphone Screen Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-and-easy-access-apps-best-20-games-for-rapid-phone-gaming/"><u>Quick & Easy-Access Apps: Best 20 Games for Rapid Phone Gaming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-convert-srt-files-to-text-a-step-by-step-manual-for-2024/"><u>Quick-Convert SRT Files to Text A Step-by-Step Manual for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-chronicle-of-language-models-from-gpt-1-to-gpt-4/"><u>The Chronicle of Language Models From GPT-1 to GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-drawbacks-of-gpt-based-smartphone-uses/"><u>The Drawbacks of GPT-Based Smartphone Uses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-fallacy-of-faithfulness-in-chatgpts-summaries/"><u>The Fallacy of Faithfulness in ChatGPT's Summaries</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-best-lightweight-action-cameras-for-backpacking-or-hiking-for-2024/"><u>Top 5 Best Lightweight Action Cameras For Backpacking Or Hiking for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-communication-skills-with-chatgpt/"><u>Transforming Communication Skills with ChatGPT</u></a></li>
 </ul></div>
 

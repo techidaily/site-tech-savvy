@@ -1,7 +1,7 @@
 ---
 title: "From Fear to Proficiency: Excel & ChatGPT Duo"
-date: 2024-10-06T04:39:26.526Z
-updated: 2024-10-09T01:23:14.396Z
+date: 2024-10-11T16:24:51.730Z
+updated: 2024-10-14T20:37:47.509Z
 tags:
   - chatgpt
   - open-ai
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
  Here are some examples of common ChatGPT prompts and code that can be useful while working with Excel.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Rounding Numbers
 
  To round a number to the nearest whole number, you can ask ChatGPT, "What is the formula to round a number to the nearest whole number?", and ChatGPT will respond with the formula "=ROUND(A1,0)".
@@ -62,16 +55,10 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 ![ChatGPT showing the formula to round a number to the nearest whole number on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-round-number.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Calculating Averages
@@ -87,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 ![ChatGPT showing an example macro for the sort filter on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-sort-filter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. More Advanced Examples
@@ -103,18 +90,25 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
 ![ChatGPT showing the macro to copy filtered data to a new worksheet on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-macro-to-workbook.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you ask “Calculate the weighted average of a range of cells”, it will respond with:
 
 ![ChatGPT showing the formula for the SUMPRODUCT function for weighted average on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-weighted-average.jpg)
 
- As you can see, ChatGPT can provide you with the prompts and code examples you need to use Excel more effectively. Just ask ChatGPT in plain English, and it will respond with the necessary information.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ As you can see, ChatGPT can provide you with the prompts and code examples you need to use Excel more effectively. Just ask ChatGPT in plain English, and it will respond with the necessary information.
 
 ## The Best Practices of Using ChatGPT With Excel
 
@@ -126,18 +120,18 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
  For instance, a prompt like "Can you please tell me the average sales figures for the previous quarter, excluding sales from the southeast region, and sorted by date in descending order?" might be too complicated for ChatGPT to parse and provide a meaningful response accurately.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Double-Check the Generated Code
 
  ChatGPT is an AI-based tool, and while it's usually very accurate, it's always a good idea to double-check the generated code to ensure it's doing what you want it to do. Test the generated code with sample data to ensure it's accurate and functioning as expected.
 
  When using ChatGPT to generate a macro, review the code carefully and check for syntax errors or logical inconsistencies. Testing the macro with sample data can also help ensure it functions as expected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Start With More Straightforward Problems
 
@@ -146,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
  As you become more comfortable using ChatGPT with Excel, you can move on to more complex problems, such as creating custom functions or automating repetitive tasks with macros.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make the Best of ChatGPT and Excel
@@ -177,24 +171,24 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-exploring-premium-9-digital-mic-capture-tools/"><u>[New] 2024 Approved Exploring Premium 9 Digital Mic Capture Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-audio-wizardry-in-action-techniques-for-professional-video-sound-recording/"><u>[New] In 2024, Audio Wizardry in Action Techniques for Professional Video Sound-Recording</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-verifying-your-youtube-sign-in-details/"><u>[New] In 2024, Verifying Your YouTube Sign-In Details</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-transforming-tweets-into-animated-gifs-a-step-by-step-guide/"><u>[Updated] Transforming Tweets Into Animated GIFs A Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/achieving-video-greatness-on-tiktok-with-smart-use-of-pre-made-templates/"><u>Achieving Video Greatness on TikTok with Smart Use of Pre-Made Templates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-next-step-in-ai-conversation/"><u>ChatGPT: The Next Step in AI Conversation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enriched-design-processes-using-chatgpt-for-3d-printing/"><u>Enriched Design Processes Using ChatGPT for 3D Printing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-a-broken-fortnite-microphone-tips-and-solutions-for-players/"><u>Fixing a Broken Fortnite Microphone: Tips & Solutions for Players</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/methods-to-autoplay-youtube-videos-on-facebook/"><u>Methods to Autoplay Youtube Videos on Facebook?</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-6-darth-vader-ai-generators-for-all-platforms/"><u>New 2024 Approved Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-dub-a-video-video-dubbing-wondershare-filmora/"><u>New In 2024, How to Dub a Video Video Dubbing - Wondershare Filmora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-product-understanding-through-chatgpts-personas/"><u>Optimizing Product Understanding Through ChatGPT's Personas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proven-top-6-ai-powered-notes-organizing-tools-reviewed/"><u>Proven Top 6 AI-Powered Notes Organizing Tools Reviewed</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/small-business-reviews-how-the-fujitsu-scansnap-ix1400-streamlines-document-handling/"><u>Small Business Reviews: How the Fujitsu ScanSnap iX1400 Streamlines Document Handling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dangers-of-ai-writing-and-how-to-spot-ai-generated-text/"><u>The Dangers of AI Writing and How to Spot AI-Generated Text</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-world-of-tailored-guidance-in-ai-conversation-tools/"><u>The World of Tailored Guidance in AI Conversation Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-myths-bypassing-gpt-in-digital-coin-studies/"><u>Top 5 Myths: Bypassing GPT in Digital Coin Studies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-gpt-3-insights-choose-the-right-export-solutions/"><u>Unlocking GPT-3 Insights – Choose the Right Export Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-poetic-potential-with-chatgpt-assistance/"><u>Unlocking Poetic Potential with ChatGPT Assistance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-step-by-step-guide-to-crafting-an-instagram-enterprise-profile/"><u>[New] In 2024, Step-by-Step Guide to Crafting an Instagram Enterprise Profile</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-story-complete-guide-what-is-it-and-how-to-use-it-in-2024/"><u>[Updated] Facebook Story Complete Guide What Is It and How to Use It, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-quick-guide-to-disconnect-on-ig/"><u>[Updated] The Quick Guide to Disconnect on IG</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-engaging-youtube-summaries-with-tailored-templates/"><u>2024 Approved Engaging YouTube Summaries with Tailored Templates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/addressing-car-gpt-issues-6-common-hurdles-and-their-remedies/"><u>Addressing Car GPT Issues: 6 Common Hurdles and Their Remedies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-content-blindness-an-escalating-hurdle/"><u>AI's Content Blindness: An Escalating Hurdle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-remote-work-discussions-using-ai/"><u>Elevating Remote Work Discussions Using AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-the-safety-of-gpt-web-extensions/"><u>Examining the Safety of GPT Web Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-extent-using-gpt-my-bots-for-game-strategy-and-imagery/"><u>Explore the Extent: Using GPT-My Bots for Game Strategy and Imagery</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-your-perfect-match-logitech-g402-driver-downloads-for-seamless-experience/"><u>Find Your Perfect Match: Logitech G402 Driver Downloads for Seamless Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-frostbite-to-neural-networks-how-ms-and-bz-transform-gaming-and-ai-talk-show-episode/"><u>From Frostbite to Neural Networks: How MS and BZ Transform Gaming & AI [Talk Show Episode]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-edge-in-document-processing-6-gpt-powered-applications/"><u>Leading Edge in Document Processing: 6 GPT-Powered Applications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-when-your-laptops-sound-system-stops-working/"><u>Quick Solutions for When Your Laptop's Sound System Stops Working</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sign-up-simplicity-chatgpt-to-whatsapp-without-a-sim-card/"><u>Sign-Up Simplicity: ChatGPT to WhatsApp without a SIM Card</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-complete-guide-to-eradicating-youtube-keep-queue-for-2024/"><u>The Complete Guide to Eradicating YouTube Keep Queue for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/transform-your-gaming-experience-razer-driver-updates-for-win10-users/"><u>Transform Your Gaming Experience: Razer Driver Updates for Win10 Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-tutorial-for-moving-ultra-hd-footage-between-iphone-and-windows-laptop-or-computer/"><u>Ultimate Tutorial for Moving Ultra HD Footage Between iPhone and Windows Laptop or Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-of-ai-content-detection-via-gptzero/"><u>Unveiling the Secrets of AI Content Detection via GPTZero</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/which-vimeo-e-sy-option-suits-your-needs-for-2024/"><u>Which Vimeo E-Sy Option Suits Your Needs for 2024</u></a></li>
 </ul></div>
 

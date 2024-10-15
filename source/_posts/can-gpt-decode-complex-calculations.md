@@ -1,7 +1,7 @@
 ---
 title: Can GPT Decode Complex Calculations?
-date: 2024-10-07T05:03:59.042Z
-updated: 2024-10-08T22:18:42.330Z
+date: 2024-10-13T22:33:53.996Z
+updated: 2024-10-15T10:28:45.431Z
 tags:
   - chatgpt
   - open-ai
@@ -61,10 +61,10 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Solve Geometry and Trigonometry Problems?
@@ -77,7 +77,21 @@ Close
 
 ![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -92,10 +106,10 @@ Close
 ![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
@@ -103,13 +117,6 @@ Close
 ![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
 
 ![chatgpt gives an incorrect definition of sine after user insists that it is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -125,34 +132,27 @@ Close
 
 ![chatgpt solves for the limit of an equation correctly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is ChatGPT Accurate at Solving Math Problems?
 
@@ -194,24 +194,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-excellent-ios-tools-the-hottest-choices-for-simulating-psp-games/"><u>[Updated] 2024 Approved Excellent iOS Tools The Hottest Choices for Simulating PSP Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-a-step-by-step-plan-efficient-vimeo-video-logging-for-2024/"><u>[Updated] A Step-by-Step Plan Efficient Vimeo Video Logging for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-in-depth-look-at-best-videographer-selection/"><u>[Updated] In 2024, In-Depth Look at Best Videographer Selection</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-foremost-6-networks-fostering-profitable-partnerships/"><u>2024 Approved Foremost 6 Networks Fostering Profitable Partnerships</u></a></li>
-<li><a href="https://article-tips.techidaily.com/beginners-tips-shooting-hero5-time-lapse-footage-for-2024/"><u>Beginner's Tips Shooting Hero5 Time-Lapse Footage for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-beliefs-9-chatbot-claims-we-need-to-debunk-right-now/"><u>Beyond Beliefs: 9 Chatbot Claims We Need to Debunk Right Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bots-and-copywriting-why-the-distinction-matters/"><u>Bots and Copywriting: Why the Distinction Matters</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-how-to-address-and-repair-the-absent-propsysdll-file/"><u>Comprehensive Strategies: How To Address and Repair the Absent PropSys.dll File</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-romance-chatgpts-role-in-dating/"><u>Crafting Romance: ChatGPT's Role in Dating</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-ai-dominance-generative-chatbot-showdown/"><u>Discovering AI Dominance - Generative Chatbot Showdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/four-tiers-of-regulatory-oversight-in-the-age-of-ai/"><u>Four Tiers of Regulatory Oversight in the Age of AI</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-drone-purchase-primer-the-beginners-guide-to-informed-buying/"><u>In 2024, Drone Purchase Primer The Beginner's Guide to Informed Buying</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-instantly-display-pics-on-platforms-with-this-guide/"><u>In 2024, Instantly Display Pics on Platforms with This Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-your-online-research-choose-perplexity-ai/"><u>Innovate Your Online Research – Choose Perplexity AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-chatgpt-dialogue-proven-tactics-to-elevate-responses/"><u>Master ChatGPT Dialogue: Proven Tactics to Elevate Responses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcome-your-windows-11-hurdle-effective-fixes-for-the-sleep-feature-glitch/"><u>Overcome Your Windows 11 Hurdle: Effective Fixes for the Sleep Feature Glitch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-identity-balancing-personalization-and-privacy/"><u>Protecting Identity: Balancing Personalization and Privacy</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/skys-the-limit-for-your-shots-blend-free-space-and-premium-subscriptions/"><u>Sky's the Limit for Your Shots Blend Free Space and Premium Subscriptions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-or-fiction-top-free-ppc-games-reviewed/"><u>Truth or Fiction? Top Free PPC Games Reviewed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-eliminate-hurdle-video-playback-issue-in-chrome/"><u>[New] In 2024, Eliminate Hurdle Video Playback Issue in Chrome</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-video-chatting-compendium/"><u>[New] Instagram's Video Chatting Compendium</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-secrets-of-selecting-the-best-nba-live-feed/"><u>[New] Secrets of Selecting the Best NBA Live Feed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-insiders-method-for-rl-recording-for-2024/"><u>[Updated] The Insider's Method for RL Recording for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-reality-check-examining-gpts-8-core-issues/"><u>AI's Reality Check: Examining GPT’s 8 Core Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-instructions-tinkering-7-web-based-tools/"><u>Boost Your Instructions Tinkering: 7 Web-Based Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/co-pilot-extension-for-chatgpt-a-guide-to-its-functions-and-uses/"><u>Co-Pilot Extension for ChatGPT: A Guide to Its Functions and Uses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-techniques-integrating-chatgpt-into-3d-printing-workflows/"><u>Cutting-Edge Techniques: Integrating ChatGPT Into 3D Printing Workflows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-on-using-winx-video-converter-to-edit-and-transcode-videos/"><u>Effortless Guide on Using WinX Video Converter to Edit and Transcode Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-audiofreexer-extraction-for-2-point-zero-two-four/"><u>In 2024, The Ultimate Guide to AudioFreexer Extraction for 2 Point Zero Two Four</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-customer-help-tools-combining-chatgpt-and-whatsapp/"><u>Integrating Customer Help Tools: Combining ChatGPT & WhatsApp</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-gaming-advantage-for-twitch-fans/"><u>Prime Gaming Advantage for Twitch Fans</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/software-requirements-defied-installing-intell-graphics/"><u>Software Requirements Defied: Installing Intell Graphics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-artisans-algorithm-gpt-assisted-ai-masterpieces/"><u>The Artisan's Algorithm: GPT-Assisted AI Masterpieces</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-seventh-wave-ais-role-in-workforce-change/"><u>The Seventh Wave: AI's Role in Workforce Change</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Email Experience - Less Keystrokes, Fewer Typos Using Google Snippets | ZDNet
-date: 2024-09-17 17:20:58
-updated: 2024-09-20 12:54:56
+date: 2024-10-13T02:28:27.347Z
+updated: 2024-10-15T02:49:18.048Z
 tags:
   - work-life
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **What you'll need:** The only things you'll need are a valid Gmail account and the Vault addon. You can access your Vault (and the Snippets contained within) from either the browser or mobile version of Gmail. I will demonstrate with the web version (as that's what I use the most).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Installing the Vault add-on
 
 The first thing to do is install the Vault add-on for Gmail. To do this, open your web browser, point it to the [Vault addon page](https://workspace.google.com/marketplace/app/vault/740264277609), and click Install. Follow the prompts to complete the installation. Once the installation is complete, point your web browser to [Gmail](https://mail.google.com/mail/u/0/). Once Vault is installed (and Gmail is open), you're ready to go.
@@ -53,6 +60,13 @@ The Gmail compose window should now include the Vault icon.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Snippet editor
 
 In the resulting window, click New Snippet at the bottom left corner.
@@ -60,6 +74,13 @@ In the resulting window, click New Snippet at the bottom left corner.
 You can add as many Snippets as needed.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Create your first Snippet
 
@@ -78,6 +99,13 @@ When you need to use the new Snippet, all you have to do is open the Gmail Compo
 A quick click of Insert and your Snippet is added to your email.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A possible word of warning
 
@@ -110,11 +138,27 @@ If used wisely, Vault and Snippets can really save you time and typing in Gmail.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-dissecting-tunefabs-technology-for-flawless-capture/"><u>[Updated] Dissecting Tunefab's Technology for Flawless Capture</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-exclusive-catalogue-free-to-use-stock-media-sites-for-2024/"><u>[Updated] Exclusive Catalogue Free-to-Use Stock Media Sites for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-essentials-of-excellence-superior-editing-tips-for-obs-studios/"><u>2024 Approved Essentials of Excellence Superior Editing Tips for OBS Studios</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-the-skies-with-top-10-beginner-drones/"><u>Exploring the Skies with Top 10 Beginner Drones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-successfully-pair-your-printer-with-windows-10-expert-guide/"><u>How To Successfully Pair Your Printer With Windows 10: Expert Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-troubleshoot-and-set-up-bluetooth-connection-between-an-android-phone-and-computer/"><u>How to Troubleshoot and Set Up Bluetooth Connection Between an Android Phone and Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-nuances-of-snapchat-high-visibility/"><u>In 2024, Navigating the Nuances of Snapchat High-Visibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/july-2020-updates-and-exodus-on-kodi-fixing-compatibility-issues-efficiently/"><u>July 2020 Updates and Exodus on Kodi: Fixing Compatibility Issues Efficiently</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/master-the-art-of-self-help-a-complete-tutorial-on-erasing-your-iphone/"><u>Master the Art of Self-Help: A Complete Tutorial on Erasing Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-controller-pairing-linking-your-xbox-one-to-pc-complete-how-to/"><u>Mastering Controller Pairing: Linking Your Xbox One to PC - Complete How-To</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-screen-captures-simple-steps-for-snipping-on-your-toshiba-device/"><u>Mastering the Art of Screen Captures: Simple Steps for Snipping on Your Toshiba Device</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/solving-obs-high-bitrate-issues/"><u>Solving OBS High Bitrate Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-reno-10-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Reno 10 5G Device</u></a></li>
+</ul></div>
+

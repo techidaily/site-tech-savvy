@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Emails: Activating 'Do Not Track' Feature in Thunderbird and Its Benefits"
-date: 2024-09-17 10:45:13
-updated: 2024-09-20 10:36:40
+date: 2024-10-12T07:09:21.799Z
+updated: 2024-10-14T18:38:47.965Z
 tags:
   - work-life
 categories:
@@ -46,13 +46,34 @@ In other words, we need legislation to force third parties to comply with DNT or
 
 That being said, let's enable it on Thunderbird so that eventually (when businesses are forced to comply with DNT requests) you'll be protected.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to add Do Not Track to Thunderbird (and why you should)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Requirements
 
 The only thing you'll need to make this work is a running instance of the Thunderbird email client. Thunderbird is supported on Linux, MacOS, and Windows, and it doesn't matter which operating system you use, as the feature is the same across all platforms. I'll be demonstrating on Thunderbird version 102.5.0, running on [Pop!\_OS Linux](https://www.zdnet.com/article/pop-os-might-have-a-complicated-name-but-it-makes-using-linux-so-easy/).
 
 With that said, let's get this feature enabled.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Open Thunderbird and access the menu
 
@@ -61,6 +82,13 @@ Open your Thunderbird email client and click the three-horizontal-line menu butt
 Accessing the Thunderbird menu is but a click away.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Open Settings
 
@@ -111,11 +139,33 @@ Even then (especially with HTML email from business), unless you have DNT enable
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-mastering-advertising-for-profit-the-ultimate-vimeo-guidebook/"><u>[Updated] 2024 Approved Mastering Advertising for Profit The Ultimate Vimeo Guidebook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-vidoetwitter-fetcher-gather-twitter-videos-effortlessly/"><u>[Updated] 2024 Approved VidoeTwitter Fetcher Gather Twitter Videos Effortlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerate-your-computer-speeding-up-windows-11-vs-windows-turbocharging-techniques/"><u>Accelerate Your Computer: Speeding Up Windows 11 Vs. Windows Turbocharging Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-clutter-with-a-sleek-setup-using-your-android-tab-in-w11/"><u>Avoiding Clutter with a Sleek Setup: Using Your Android Tab in W11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginner-friendly-steps-setting-up-a-vpn-connection-on-your-apple-tv/"><u>Beginner-Friendly Steps: Setting up a VPN Connection on Your Apple TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/connecting-your-xbox-one-gamepad-to-windows-pc-a-step-by-step-tutorial/"><u>Connecting Your Xbox One Gamepad to Windows PC: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/directx-download-for-windows-11-and-10-quickly-and-easily/"><u>DirectX Download for Windows 11 & 10. Quickly & Easily!</u></a></li>
+<li><a href="https://techidaily.com/1723808070986-disable-windows-11-updates-easily/"><u>Disable Windows 11 Updates Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723807936957-do-you-need-a-vpn-yes-you-do-heres-why/"><u>Do You Need a VPN? Yes, You Do. Here's Why.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-software-to-enhance-your-brother-mfc-l2690dw-printer-experience/"><u>Get the Newest Software to Enhance Your Brother MFC-L2690DW Printer Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-control-how-to-get-rid-of-automated-recommendations-on-instagram/"><u>Master the Control: How to Get Rid of Automated Recommendations on Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavis-best-in-class-skype-video-capture-application-try-it-for-free/"><u>Movavi's Best-in-Class Skype Video Capture Application - Try It for Free!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-manual-for-earning-facebooks-coveted-verification-for-2024/"><u>The Ultimate Manual for Earning Facebook's Coveted Verification for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/turbo-charge-your-win-chances-in-csgo/"><u>Turbo Charge Your Win Chances in CS:GO</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-maximum-frame-rates-on-ps5xbox-series-x-with-the-new-skyrim-se-speed-upgrade-2024/"><u>Unleash Maximum Frame Rates on PS5/Xbox Series X with the New Skyrim SE Speed Upgrade, 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808235815-whats-new-in-windows-10-creators-update-insider-preview-build-1503/"><u>What's New in Windows 10 Creators Update: Insider Preview Build 1503</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-wont-my-oculus-controller-respond-tips-for-immediate-solutions/"><u>Why Won't My Oculus Controller Respond? Tips for Immediate Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zoom-troubles-overcome-screen-sharing-problems-with-these-latest-fixes/"><u>Zoom Troubles? Overcome Screen Sharing Problems with These Latest Fixes</u></a></li>
+</ul></div>
+

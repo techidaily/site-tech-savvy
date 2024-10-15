@@ -1,7 +1,7 @@
 ---
 title: "Navigating Multilingualism: ChatGPT as Your Translation Companion"
-date: 2024-10-06T02:07:29.689Z
-updated: 2024-10-09T01:07:50.737Z
+date: 2024-10-08T21:28:45.550Z
+updated: 2024-10-14T20:13:47.471Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  Here are other important things you'll need to keep in mind to use ChatGPT efficiently as a translation tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Provide Context
 
  One of the key advantages of ChatGPT over popular translation tools like Google Translate is its ability to accurately consider the context of a text when generating translations. Considering context can be the difference between simply translating individual words in a sentence and generating a translation that truly reflects the author's or speaker's intention.
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Of course, Google Translate will provide the same translation no matter how many times you attempt to translate it because it doesn't have a way to recognize contextual nuance. As per the screenshot above, ChatGPT will attempt to provide the most accurate translation depending on the provided context. Providing context can significantly improve the quality of your translation. If you are not sure how to provide context, here are some inspirations:
 
 * "Translate \[text to translate in Filipino\] to English from the perspective of a native Filipino speaker" should try to maintain as many cultural connotations as possible in a translation.
@@ -59,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 * "Translate \[text to translate\] to English. The text discusses a battle during WWII" should use appropriate military and historical terms.
 
  You can adjust each prompyour chosen languageosing, and ChatGPT will do the rest.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Declare the Type of Text
 
@@ -78,11 +85,25 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  The prompts above or similar ones help ChatGPT use relevant or industry-specific context when generating a translation. Although ChatGPT sometimes recognizes the right niche words to use for translation, you'll have to explicitly prompt it to do so using type declaration in some cases.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Use Style Transfer
 
  Sometimes, when translating text, the translation might be too technical or simply inappropriate for the target audience. Using style transfer in ChatGPT can help adjust the tone and style of a translation to match the target audience or industry. So, if you're translating a legal document, the translation could retain the author's original meaning while using more layman's wording. In the example below, I translated a soccer commentary from Spanish to English, first without style transfer and then using style transfer.
 
 ![Translating with ChatGPT using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-using-style-transfer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The translation above uses the closest English equivalent of the corresponding Spanish words, while the one below uses words suitable for an audience not acquainted with soccer terms. However, it is interesting to note that both translations are considered accurate.
 
@@ -108,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  We repeated the translation prompt but added hints about the speaker's origin and possible intent. ChatGPT changed the translation to "我要去踢橄榄球 (Wǒ yào qù tī gǎnlǎnqiú)," this time using "gǎnlǎnqiú" which is the Chinese term for American football and better reflects the potential intent of the speaker.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Use Summarized Translation
 
  Sometimes, you don't want to read the entirety of a text. You just want to understand the message the author or speaker is trying to convey. ChatGPT is one of the few translation tools you can rely on for situations like this.Fort a summarized translation, ask ChatGPT to provide a "summarized" or "condensed" translation of the target text. Some prompts examples include:
@@ -127,10 +141,10 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Translation summaries are great when you're trying to communicate but don't necessarily have time to get deep into learning the language immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Use a Fine-Tuned Instance of ChatGPT
@@ -147,21 +161,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 ![Providing a parralel corpus of text for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/providing-a-parralel-corpus-of-text-for-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We achieved improved translation with every prompt without taking any further steps.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Use Custom Instructions for Consistency in Translations
 
@@ -184,10 +184,10 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![Translation that preserves linguistic form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/translation-that-preserves-linguistic-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, this is not a perfect translation example, but with a few prompt tweaks, there's more to achieve.
@@ -215,24 +215,22 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-improving-online-sessions-with-increased-zoom-for-2024/"><u>[New] Improving Online Sessions with Increased Zoom for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-your-twitter-potential-premium-video-upload-tools/"><u>2024 Approved Unleash Your Twitter Potential Premium Video Upload Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-revolution-parents-edition/"><u>AI Revolution: Parents Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-deception-in-online-dating/"><u>AI-Driven Deception in Online Dating</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-chatgpt-extensions-vulnerable-to-threats/"><u>Are ChatGPT Extensions Vulnerable to Threats?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-the-wilderness-is-it-a-lifesaver/"><u>ChatGPT in the Wilderness: Is It a Lifesaver?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-excellence-trim-down-4-mistakes-when-utilizing-chatgpt/"><u>Content Excellence - Trim Down 4 Mistakes When Utilizing ChatGPT</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oneplus-ace-2v-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from OnePlus Ace 2V Phones with/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-hot-30i-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Hot 30i to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/integrating-unique-lock-patterns-in-windows-11-systems/"><u>Integrating Unique Lock Patterns in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-files-with-these-gpt-interaction-apps/"><u>Master Your Files with These GPT Interaction Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reclaim-your-privacy-the-ultimate-guide-to-exiting-gpt/"><u>Reclaim Your Privacy: The Ultimate Guide to Exiting GPT</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-unveiled-the-essence-of-facebook-twitter-instagram-and-youtube/"><u>Social Media Unveiled: The Essence of Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-accessing-the-developer-toolbar-within-the-microsoft-office-interface/"><u>Step-by-Step Tutorial on Accessing the Developer Toolbar Within the Microsoft Office Interface</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-art-of-crafting-gopro-time-lapses-for-2024/"><u>The Art of Crafting GoPro Time-Lapses for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-genuine-value-of-truthgpt-coins/"><u>The Genuine Value of TruthGPT Coins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-inaccessibility-of-altering-chatgpt-framework/"><u>The Inaccessibility of Altering ChatGPT Framework</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-tips-for-fixing-constant-fortnite-pc-crashes/"><u>Ultimate Troubleshooting Tips for Fixing Constant Fortnite PC Crashes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-vocal-variations-a-curated-list-of-the-best-15-youtube-vocals-tutorials/"><u>[New] 2024 Approved Vocal Variations A Curated List of the Best 15 YouTube Vocals Tutorials</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/1716854572518-new-live-streaming-software-vs-hardware-which-is-better/"><u>[New] Live Streaming Software Vs Hardware Which Is Better?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-techniques-for-ensuring-quality-screen-recording-in-facetime-chats/"><u>[New] Techniques for Ensuring Quality Screen-Recording in FaceTime Chats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-phantom-sensation-in-virtual-reality-is-this-a-common-perception-among-users/"><u>Demystifying Phantom Sensation in Virtual Reality – Is This a Common Perception Among Users?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-how-google-chromes-latest-update-includes-gemini-ai-for-an-advanced-smart-browser-functionality/"><u>Discover How Google Chrome's Latest Update Includes Gemini AI for an Advanced, Smart Browser Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proofing-your-privacy-the-next-generation-of-cryptography/"><u>Future-Proofing Your Privacy: The Next Generation of Cryptography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/general-motors-deploys-thousands-of-electric-vehicle-charging-stations-in-us-and-canadian-markets/"><u>General Motors Deploys Thousands of Electric Vehicle Charging Stations in U.S. and Canadian Markets</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-honor-magic-6-lite-frp-by-drfone-android/"><u>How Can We Bypass Honor Magic 6 Lite FRP?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/join-the-exclusive-listing-experience-googles-groundbreaking-bard-ai-chatbot-today/"><u>Join the Exclusive Listing: Experience Google's Groundbreaking BARD AI Chatbot Today!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/professional-looking-gopro-videos-without-shakiness-for-2024/"><u>Professional-Looking GoPro Videos without Shakiness for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/remedy-for-audio-pause-in-obs-streams-for-2024/"><u>Remedy for Audio Pause in OBS Streams for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformez-vos-fichiers-wmv-en-mp4-gratuitement-pour-mac-via-le-convertisseur-mp4-de-confiance/"><u>Transformez Vos Fichiers WMV en MP4 Gratuitement Pour Mac via Le Convertisseur MP4 De Confiance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-limits-of-ai-exploring-6-instances-where-chatgpt-falls-short/"><u>Understanding the Limits of AI: Exploring 6 Instances Where ChatGPT Falls Short</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-october-unveiling-metas-revolutionary-project-cambria-headset-redefines-vr-experience/"><u>Upcoming October Unveiling: Meta's Revolutionary Project Cambria Headset Redefines VR Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/where-can-i-locate-my-steam-image-savings/"><u>Where Can I Locate My Steam Image Savings?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/witness-the-next-generation-of-rocketry-four-must-see-spacecraft-lift-offs-coming-soon/"><u>Witness the Next Generation of Rocketry: Four Must-See Spacecraft Lift-Offs Coming Soon</u></a></li>
 </ul></div>
 

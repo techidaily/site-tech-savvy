@@ -1,7 +1,7 @@
 ---
 title: Bash Basics for ChatGPT Interaction Through ShellGPT
-date: 2024-10-03T06:52:12.981Z
-updated: 2024-10-09T02:22:07.806Z
+date: 2024-10-10T21:19:54.862Z
+updated: 2024-10-14T23:05:48.857Z
 tags:
   - chatgpt
   - open-ai
@@ -71,14 +71,14 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 
 ![Ubuntu terminal window with code snippets with installation codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-pip-on-ubuntu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After installation, you can again use the **\--version** command to check if the installation was successful.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 2: Install and Set Up a Virtual Environment Using Python
 
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 ![Ubuntu terminal window code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-virtual-environment-module-in-ubuntu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set Up the Virtual Environment
@@ -128,16 +128,10 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-virtual-environment-for-shellgpt-in-ubuntu-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Generate an OpenAPI Key
@@ -151,10 +145,16 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 ![OpenAI website interface showing a drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-api-keys-on-openai-website.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Do not share this key with anyone since the connection is private and should be used on your machine only.
@@ -188,14 +188,14 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![List of variables in a linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-secret-key-in-env-list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your **OPENAI\_API\_KEY** environment variable should be listed in the output.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 5: Install ShellGPT on Ubuntu
 
@@ -204,13 +204,6 @@ export OPENAI_API_KEY=<paste key details here>`
 `pip3 install shell-gpt`
 
 ![Installation snippet on ubuntu's terminal screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-shell-gpt-on-ubuntu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Let the installation finish; meanwhile, you can check out some interesting ways to use the AI tool via your terminal window.
 
@@ -222,6 +215,19 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![Ubuntu terminal interface with a query response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-query-reponse.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using ShellGPT for Generating Code
 
  You can use your ShellGPT for generating code as well. You can do it by passing the right command with the **sgpt** command:
@@ -230,14 +236,14 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-code-reponse.jpg)
 
- The output consists of code you can execute within Python to generate the Fibonacci series.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The output consists of code you can execute within Python to generate the Fibonacci series.
 
 ## Using ShellGPT Within Ubuntu’s Terminal
 
@@ -266,17 +272,18 @@ export OPENAI_API_KEY=<paste key details here>`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-best-bargains-in-the-market-6-leading-4k-projectors/"><u>[New] Best Bargains in the Market 6 Leading 4K Projectors</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-irresistible-topic-titler-machine-for-2024/"><u>[New] Irresistible Topic Titler Machine for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-leading-tech-in-snap-capture/"><u>[Updated] 2024 Approved Leading Tech in Snap Capture</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-slowing-youtube-videos-37-chars/"><u>[Updated] The Ultimate Guide to Slowing YouTube Videos (37 Chars)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-12-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 12</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-well-being-8-cutting-edge-ai-fitness-tools/"><u>Boost Well-Being: 8 Cutting-Edge AI Fitness Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-11-powerful-gpt-strategies-for-authenticity-in-fiction/"><u>Discovering 11 Powerful GPT Strategies for Authenticity in Fiction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/langchain-101-for-languaged-learners/"><u>LangChain 101 for Languaged Learners</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-your-tweets-how-to-effectively-use-retweets-and-re-tweets-on-twitter/"><u>Mastering Your Tweets: How to Effectively Use Retweets & Re-Tweets on Twitter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlined-ai-for-optimal-results-with-bing-android-edition/"><u>Streamlined AI for Optimal Results with Bing, Android Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-rainbow-six-siege-lag-for-better-gaming-experience/"><u>Troubleshooting Rainbow Six Siege Lag for Better Gaming Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-five-mechanisms-ais-boost-to-malicious-online-activities/"><u>Unveiling the Five Mechanisms: AI's Boost to Malicious Online Activities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-bigger-picture-tvs-ranked-10/"><u>[New] Best Bigger Picture TVs Ranked #10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unique-outro-music-files-at-your-fingertips-free/"><u>[New] In 2024, Unique Outro Music Files at Your Fingertips - Free</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-zenith-pinnacle-prodigy-review/"><u>[New] In 2024, Zenith Pinnacle Prodigy Review</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-master-iphone-podcast-downloads-a-comprehensible-approach-for-2024/"><u>[New] Master iPhone Podcast Downloads A Comprehensible Approach for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-discovering-screenflow-on-macos-an-expert-review/"><u>[Updated] Discovering ScreenFlow on MacOS An Expert Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-melodymentor-detailed-sound-review/"><u>[Updated] MelodyMentor Detailed Sound Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/comprehensible-guide-to-azure-voice-to-text/"><u>Comprehensible Guide to Azure Voice to Text</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-to-efficiently-deploy-chatgpt-extensions/"><u>Guide to Efficiently Deploy ChatGPT Extensions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unlock-creative-potential-with-10-best-backdrop-modification-software/"><u>In 2024, Unlock Creative Potential with 10 Best Backdrop Modification Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-game-changing-ai-to-craftsmanship/"><u>Introducing Game-Changing AI to Craftsmanship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steering-clear-of-mistakes-with-ai-generators/"><u>Steering Clear of Mistakes with AI Generators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unnoticed-artifacts-by-chatgpt/"><u>The Unnoticed Artifacts by ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/traps-in-tokens-exposing-fake-bingpt-projects/"><u>Traps in Tokens: Exposing Fake BinGPT Projects</u></a></li>
 </ul></div>
 

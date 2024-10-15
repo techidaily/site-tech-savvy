@@ -1,7 +1,7 @@
 ---
 title: Automating Analysis with ChatGPT in Spreadsheets
-date: 2024-10-02T19:35:47.866Z
-updated: 2024-10-09T07:05:00.558Z
+date: 2024-10-12T21:18:42.328Z
+updated: 2024-10-15T07:18:03.372Z
 tags:
   - chatgpt
   - open-ai
@@ -44,17 +44,18 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 2. Locate and click on **Extensions > Add-ons > Get Add-ons**.  
 ![Adding GPT for Sheets and Docs to Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/adding-gpt-for-sheets-and-docs-to-google-sheets.jpg)
 3. Up next, you should be taken to the Google Workspace Marketplace. Locate the search bar in the top right corner of the screen and search for **GPT for Sheets and Docs**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Google Workspace Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/google-workspace-marketplace.jpg)
 4. Click on the first extension, as seen in the screenshot above. On the next page, click on **Install** and then **Continue.**  
 ![Installing GPT for Sheets and Docs on Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-gpt-for-sheets-and-docs-on-google-sheets.jpg)
 5. Select the Google account associated with your Google Sheets account and then tap **Allow** on the permission prompt to grant the extension access it needs to modify your spreadsheets.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. After the installation, click **Next** and tap **Done** on the post-installation screen to complete the installation process.
 
@@ -95,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 ![GPT functions for snapchat story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-functions-for-snapchat-story.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Screenshot was taken by the author, Maxwell Timothy
@@ -111,6 +112,13 @@ Screenshot was taken by the author, Maxwell Timothy
 
 ![multi-cell response in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/multi-cell-response-in-gpt-for-sheets.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Translate Text
 
  With the GPT for Sheets and Docs extension, you can use [ChatGPT translation prompts](https://www.makeuseof.com/how-to-translate-with-chatgpt/) within Google Sheets. You can achieve this using the **GPT\_TRANSLATE** function or wrapping a typical ChatGPT translation prompt around the base GPT function. This could be in the form of **\=GPT(" translate 'Bonjour' to English ")** or **GPT\_TRANSLATE(\[text\_to\_translate\], \[target\_language\], \[source\_language\])**.
@@ -118,22 +126,15 @@ Screenshot was taken by the author, Maxwell Timothy
 ![translating with GPT on Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/translating-with-gpt-on-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Summarize Text
 
  To summarize text, you can either wrap a summarization prompt with the base =GPT function or use the **\=GPT\_SUMMARIZE** function. For instance, **\=GPT\_SUMMARIZE(C44)** will summarize the content of cell C44 into the active cell.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Classify Text
 
@@ -152,10 +153,17 @@ Screenshot was taken by the author, Maxwell Timothy
 ![GPT_TABLE function in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_table-function-in-gpt-for-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Copy Text Formatting
@@ -163,10 +171,10 @@ Screenshot was taken by the author, Maxwell Timothy
  When working on a spreadsheet, some formatting is a bit too loosely defined or arbitrary for Google Sheets to replicate. For cases like this, the **\=GPT\_FILL** can be a lifesaver. To use the function, demonstrate a few examples of what you need to be done and invoke the **\=GPT\_FILL** to copy the formatting. Below is a video that demonstrates how to use the function.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Extract Data
@@ -176,17 +184,10 @@ Screenshot was taken by the author, Maxwell Timothy
 ![Data Extraction using GPT functions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/data-extraction-using-gpt-functions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Boost Your Productivity With ChatGPT Prompts in Google Sheets
@@ -216,15 +217,15 @@ Screenshot was taken by the author, Maxwell Timothy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-samsungs-gaming-memories-record-and-reveal/"><u>[New] 2024 Approved Samsung's Gaming Memories Record and Reveal</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-a1-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo A1 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automation-made-easy-ubuntu-plus-gpt-setup/"><u>Automation Made Easy: Ubuntu + GPT Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-barriers-chatgpts-role-in-workplace-e-mails/"><u>Breaking Down Barriers: ChatGPT's Role in Workplace E-Mails</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-essence-and-applications-of-hugging-face/"><u>Exploring the Essence & Applications of Hugging Face</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-adventure-showdown-analyzing-gopros-hero5b-and-session/"><u>In 2024, Adventure Showdown Analyzing GoPro's Hero5B & Session</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/seamless-conferencing-how-to-fix-your-webex-microphone-woes/"><u>Seamless Conferencing: How to Fix Your Webex Microphone Woes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-tips-for-lenovo-system-driver-updates-made-easy/"><u>Troubleshooting Tips for Lenovo System Driver Updates Made Easy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/will-ai-enhance-mental-health-care-or-hinder-it/"><u>Will AI Enhance Mental Health Care or Hinder It?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-your-youtube-stored-melodies-easily/"><u>[Updated] 2024 Approved Finding Your YouTube-Stored Melodies Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-stellar-video-beginnings-with-free-tools-for-2024/"><u>[Updated] Crafting Stellar Video Beginnings with Free Tools for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-easy-routines-for-screen-recording-in-gaming/"><u>2024 Approved Easy Routines for Screen Recording in Gaming</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/expediting-clogged-print-order/"><u>Expediting Clogged Print Order</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranked-sources-for-embedding-text-visual-effects-for-2024/"><u>Top Ranked Sources for Embedding Text Visual Effects for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshoot-and-solve-your-windows-security-connection-problems-tips-for-restoring-internet-access/"><u>Troubleshoot & Solve Your Windows Security Connection Problems – Tips for Restoring Internet Access</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-7-fixing-common-microphone-issues/"><u>Troubleshooting Windows 7: Fixing Common Microphone Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-utilizing-pushd-and-popd-in-your-linux-terminal/"><u>Ultimate Guide to Utilizing Pushd and Popd in Your Linux Terminal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-and-activating-smart-app-control-in-windows-11-an-essential-tutorial/"><u>Understanding & Activating Smart App Control in Windows 11 - An Essential Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-new-features-introducing-powertoys-v079s-customizable-keyboard-shortcuts-for-enhanced-windows-control/"><u>Unleash New Features: Introducing PowerToys V0.79's Customizable Keyboard Shortcuts for Enhanced Windows Control</u></a></li>
 </ul></div>
 

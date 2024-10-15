@@ -1,7 +1,7 @@
 ---
 title: The Easy Way to Launch AIs From Your Browser
-date: 2024-10-03T21:09:22.011Z
-updated: 2024-10-08T19:36:17.416Z
+date: 2024-10-10T19:40:49.483Z
+updated: 2024-10-14T19:50:11.825Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,19 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 
  To ensure you don't miss out on anything important, let's talk about the features, settings, and general usage of AgentGPT.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Access AgentGPT
 
  You can get AgentGPT in two ways. For those looking to try out the platform without installation, you simply have to visit [AgentGPT](https://agentgpt.reworkd.ai/). More advanced users can go to the [official AgentGPT GitHub](https://github.com/reworkd/AgentGPT) to download and install AgentGPT on their local system.
@@ -47,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 * **No Account:** You can deploy agents as normal but with limited tokens and without the ability to save agents and manage accounts.
 * **With Account:** Allows you to deploy agents with limited tokens, manage accounts, and save deployed agents.
 * **With Account and API Key:** Provides features to deploy agents with set tokens, manage accounts, save deployed agents, set agent focus level, and set the maximum number of loops.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use AgentGPT
 
@@ -65,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 
  Let's ensure proper deployment by first talking about assembly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Assemble Agent
 
  To assemble your agent, you need to provide a name and a goal.
@@ -72,10 +85,16 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 ![Assembling AgentGPT agent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/deal-finder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We have named our agent "Deal Finder." You can name your agent anything you want; just make sure that name is related to its function or goal. This will make it easy to identify your agents once you save several of them on your side panel.
@@ -85,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
  Now, before clicking that deploy agent button, let's first configure our agent.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Configure Agent
@@ -118,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
  Once you've assembled and configured your agent, you hit **Deploy Agent** for your agent to start. You can monitor the entire process through the main console of the website. When finished, you can choose to save the agent to store the output within AgentGPT. You can also save your output locally as a PDF, Image, or just a text copy.
 
 ![PDF generated by AgentGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, our Deal Finder agent successfully provided us with a promo code, a free shipping voucher, and a bundle offer!
 
@@ -159,24 +171,22 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-enhancing-visibility-the-power-of-strategic-facebook-giveaways/"><u>[New] Enhancing Visibility The Power of Strategic Facebook Giveaways</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-techniques-for-flawless-live-broadcasting-of-rl-games-for-2024/"><u>[New] Techniques for Flawless Live Broadcasting of RL Games for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-masterclass-in-instagram-designing-eye-catching-cover-images/"><u>[Updated] In 2024, Masterclass in Instagram Designing Eye-Catching Cover Images</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-countermoves-in-media-how-to-reverse-videos/"><u>2024 Approved Countermoves in Media How to Reverse Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-dialogue-with-chatgpt-and-macsynchrony/"><u>Enhancing Dialogue with ChatGPT & MacSynchrony</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-ai-guidance-top-7-strategies-explored/"><u>Essential AI Guidance: Top 7 Strategies Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fake-gpt-enhancement-swipes-facebook-account-details/"><u>Fake GPT Enhancement: Swipes Facebook Account Details</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-vision-to-reality-accessing-openais-personalized-gpt/"><u>From Vision to Reality: Accessing OpenAI’s Personalized GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-efficient-is-ai-at-tailoring-drinks/"><u>How Efficient Is AI at Tailoring Drinks?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/into-new-realms-the-5-pivotal-points-of-gpt-4/"><u>Into New Realms: The 5 Pivotal Points of GPT-4</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-stability-keep-your-escape-from-tarkov-on-pc-running-smoothly/"><u>Mastering Stability: Keep Your Escape From Tarkov on PC Running Smoothly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pivotal-8-gpt-instances-for-cutting-down-screen-distractions/"><u>Pivotal 8 GPT Instances for Cutting Down Screen Distractions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/refining-ai-communication-top-prompting-methods-for-better-outputs/"><u>Refining AI Communication: Top Prompting Methods for Better Outputs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/rigorous-assessment-of-jabras-tough-earbuds/"><u>Rigorous Assessment of Jabra's Tough Earbuds</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-integration-of-microsoft-copilot-into-your-macos-workflow/"><u>Seamless Integration of Microsoft Copilot Into Your macOS Workflow</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-narzo-n55-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme Narzo N55 Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-ai-chatbot-censorship-and-how-does-it-affect-you/"><u>What Is AI Chatbot Censorship and How Does It Affect You?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-from-2d-to-spatial-the-evolution-of-cinematic-videos/"><u>[New] In 2024, From 2D to Spatial The Evolution of Cinematic Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-notion-vs-gpt-3-in-content-creation/"><u>AI Showdown: Notion Vs. GPT-3 in Content Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpts-solo-potential-explored/"><u>Auto-GPT's Solo Potential Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/code-strategies-for-effective-gpt-3-usage/"><u>Code Strategies for Effective GPT-3 Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dream-trip-no-hurdles-choose-from-the-7-best-free-chatgpt-planning-tools/"><u>Dream Trip, No Hurdles - Choose From the 7 Best Free ChatGPT Planning Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-data-depths-like-never-before-select-perplexity-ai/"><u>Explore Data Depths Like Never Before - Select Perplexity AI</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-v30-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme V30 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-sign-up-for-chatgpts-new-plugins-feature/"><u>How to Sign Up for ChatGPT's New Plugins Feature</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-6s-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 6s Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-15-pro-max-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone 15 Pro Max Smoothly</u></a></li>
+<li><a href="https://win-latest.techidaily.com/integracion-facil-y-gratis-sincronizar-archivos-en-red-con-google-drive-proceso-completo/"><u>Integración Fácil Y Gratis: Sincronizar Archivos en Red Con Google Drive - Proceso Completo</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-poco-c65-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Poco C65? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/securely-capturing-your-zoom-sessions/"><u>Securely Capturing Your Zoom Sessions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-shared-digital-calendars-perfect-for-managing-family-schedules/"><u>Top 7 Shared Digital Calendars Perfect for Managing Family Schedules</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-chatgpt-accessing-up-to-date-information-means-for-everyone/"><u>What ChatGPT Accessing Up-to-Date Information Means for Everyone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whynosubscriptions-awaiting-gpts-return/"><u>WhyNoSubscriptions: Awaiting GPT's Return</u></a></li>
 </ul></div>
 

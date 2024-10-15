@@ -1,7 +1,7 @@
 ---
 title: How Does a VPN Work, and Why Should You Use One? Unlocking the Secrets of Virtual Privacy with ZDNet's Complete Guide
-date: 2024-09-17 10:23:42
-updated: 2024-09-20 10:13:50
+date: 2024-10-07T19:04:49.876Z
+updated: 2024-10-15T10:06:14.015Z
 tags:
   - vpn
 categories:
@@ -59,6 +59,13 @@ Each internet request usually results in a whole series of communication events 
 
 One of the most important issues in understanding the limits of VPNs is understanding where the endpoint of the VPN server resides. We'll talk about that next.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the two main types of VPNs?
 
 Most of us are familiar with the concept of a LAN, or a local area network. That's the private network inside one physical location -- be it a home, a corporate building, or a campus. Many businesses use more than one LAN since they don't run out of one location -- they have branch offices, departments, and divisions that are geographically dispersed.
@@ -101,6 +108,19 @@ Another reason you might choose to use a VPN is if you have something to hide, w
 
 And then, of course, there are those people in restrictive countries who need to hide their activity merely to gain access to the internet without potentially grave penalties.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Are the free VPN services any good?
 
 There are some good [free VPN services](https://www.zdnet.com/article/want-more-privacy-online-protonmail-brings-its-free-vpn-to-android/), but [I avoid all free VPNs](https://www.zdnet.com/article/why-free-vpns-are-not-a-risk-worth-taking/).
@@ -119,6 +139,13 @@ Beyond our directory, it's always good practice to [Google](https://www.zdnet.co
 
 Finally, be sure to choose a service with the capabilities [that meet your needs](https://www.zdnet.com/article/best-vpn-services-for-2021-safe-and-fast-dont-come-for-free/). You may need one or more features only provided by certain services. So, think through your needs as you make a decision.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can a VPN guarantee my privacy?
 
 Oh, [heck no](https://www.zdnet.com/article/vpns-are-not-as-private-as-the-name-suggests-csiro/). A VPN can help ensure you're not snooped on when connecting between your computer and a website. That said, the website itself is quite capable of some serious privacy violations. For example, a VPN can't protect you against a website setting a tracking cookie that will tell other websites about you. A VPN can't protect you against a website recording information about products you're interested in. A VPN can't protect you against a website that sells your email address to list brokers. And so on and so on.
@@ -136,6 +163,13 @@ Maybe. Back in the day, the process of encrypting and decrypting packets would t
 However, network performance is another thing entirely. First, keep in mind that if you're using a VPN, you're probably using it at a public location. That public Wi-Fi service is likely to range in performance somewhere between "meh" and unusable. So, just the fact that you're remotely working on a mediocre network will reduce performance. Additionally, if you connect to a VPN in a different country, the connection between countries is also likely to degrade network performance. Server locations matter.
 
 My rule of thumb is to use a domestic VPN and connect to servers as close to my location as possible. That said, I have had good nights and bad nights getting online. On a recent trip, I found most hotel networks become unusable after about 9pm. My theory is that many of the guests are watching Netflix at that time, completely clogging the hotels' pipes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do VPN service providers limit usage and how?
 
@@ -160,6 +194,19 @@ Although the use of these services will still protect you from Wi-Fi spies in yo
 The second type of logging is more benign. VPN services that log bandwidth usage and connection timestamp data usually do so either to tune their own systems or manage any abuse of their services.
 
 I have less of a concern with services that just monitor bandwidth usage, as long as they don't store any specifics. That said, we gave top marks to those services that don't do any logging. When I choose a VPN service, I avoid all logging.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is it legal to use a VPN?
 
@@ -259,6 +306,13 @@ My recommendation -- and the protocol I most often choose to use -- is OpenVPN. 
 
 Yes, there are certainly other protocol choices, even some that might be more appropriate than OpenVPN in certain situations. But if that's the case, either you've already made that decision, or your IT organization has specified a protocol you should use. If, however, you're not sure what to look for, look for OpenVPN.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does it mean when a VPN service talks about simultaneous connections?
 
 The term "simultaneous connections" generally refers to the number of devices that can be connected to a VPN service and that can talk to the internet at once. For example, when I was driving across the country and working in my hotel room at night, I often had both my MacBook Pro and iPad connected to the internet.
@@ -301,6 +355,13 @@ Most VPN services allow you to connect to server locations in many different cou
 
 Server switching is a feature -- offered by most VPN service providers -- that allows you to change what region or country you're going to connect to. Most providers allow you to switch as often as you'd like (although you usually have to disconnect, then change your configuration, and reconnect). This may be useful if you're trying to hide your location or if you're running into some communications glitches on the server you're currently using.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I use a VPN to spoof my location or country of origin?
 
 Because the VPN server you're connected to presents [its IP address](https://www.zdnet.com/article/why-a-proxy-server-cant-protect-you-like-a-vpn-can/) to whatever web application you're using, by choosing a server located in a different country, you can represent your connection as if you're in a different country. This may be illegal in certain regions, so use caution when doing this. 
@@ -314,6 +375,13 @@ Sometimes it is possible to watch a blacked-out sporting event or other show, al
 **Also: [What is the dark web? Here's everything to know before you access it](https://www.zdnet.com/article/what-is-the-dark-web-heres-everything-to-know-before-you-access-it/)**
 
 Also, be aware that some broadcasters have developed increasingly sophisticated methods to determine whether the IP address you represent is the IP address where you're located. The VPN may be able to protect your original IP address from being seen, but there are characteristics of proxy communications (like a slightly longer time to transfer packets) that can be used to identify whether you are trying to bypass watching restrictions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is it true that a VPN is completely unhackable?
 
@@ -372,11 +440,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-24-hour-heavyweights-top-10-most-watched-on-yt/"><u>[Updated] 24 Hour Heavyweights Top 10 Most Watched on YT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-basics-and-beyond-learn-the-ropes-in-our-9-top-communities/"><u>AI Basics & Beyond: Learn the Ropes in Our 9 Top Communities</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ancient-lexicons-ranking-the-worlds-time-tested-tongues/"><u>Ancient Lexicons: Ranking the World’s Time-Tested Tongues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/art-of-healthful-eating-simplified-with-chatai/"><u>Art of Healthful Eating Simplified with ChatAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-googles-wizard-bot-potential-cyber-threat-alert/"><u>Avoid Google's Wizard Bot — Potential Cyber Threat Alert</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chronology-on-camera-best-practices-for-date-insertion-for-2024/"><u>Chronology on Camera Best Practices for Date Insertion for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/comprehensively-understanding-recmeisters-screen-recording-strengths/"><u>Comprehensively Understanding Recmeister's Screen Recording Strengths</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-forefront-ais-strengths-over-chatgpt/"><u>Exploring Forefront AI's Strengths Over ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gaining-authorization-from-trustedinstaller-a-guide-for-safe-file-editing/"><u>Gaining Authorization From TrustedInstaller: A Guide for Safe File Editing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-14-pro-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Xiaomi 14 Pro.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-reno-8t-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo Reno 8T 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-open-conversations-windows-freedomgpt/"><u>Mastering Open Conversations: Windows FreedomGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-truth-and-tale-in-ai/"><u>The Intersection of Truth & Tale in AI</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-c51-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-coin-experts-cant-be-replaced-by-gpt-analysis-tools/"><u>Why Coin Experts Can't Be Replaced by GPT Analysis Tools</u></a></li>
+</ul></div>
+

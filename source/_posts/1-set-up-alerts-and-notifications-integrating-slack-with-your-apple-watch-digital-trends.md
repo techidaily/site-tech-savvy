@@ -1,7 +1,7 @@
 ---
 title: "1. Set Up Alerts & Notifications: Integrating Slack with Your Apple Watch | Digital Trends"
-date: 2024-10-08T07:28:41.674Z
-updated: 2024-10-08T17:00:01.567Z
+date: 2024-10-08T14:23:05.338Z
+updated: 2024-10-15T01:32:03.395Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -55,15 +62,22 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -74,13 +88,6 @@ Once you're in the Slack settings pane, make sure Background App Refresh and Cel
 Now, back out to the top of the Settings app and tap the red Notifications icon. Make sure you Allow Notifications and turn on Time Sensitive Notifications. I also recommend you make sure Sounds is set to on. 
 
 Screenshot by David Gewirtz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
@@ -104,13 +111,6 @@ Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Set your notification schedule
 
 Let's go back to the Slack app's Notifications screen for a moment. Scroll down to General Settings and notice the Notification Schedule option. See how it says "Every day."
@@ -131,16 +131,16 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -187,22 +187,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-capture-the-spectacular-our-selection-of-prime-cameras/"><u>[New] Capture the Spectacular - Our Selection of Prime Cameras</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-minimum-view-count-for-youtube-success-stories-for-2024/"><u>[New] The Minimum View Count for YouTube Success Stories for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-galactic-game-guide-the-top-10-affordable-mmo-titles/"><u>[Updated] Galactic Game Guide The Top 10 Affordable MMO Titles</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-top-5-best-full-hd-action-cameras-below-100-for-2024/"><u>[Updated] Top 5 Best Full HD Action Cameras Below $100 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/banks-and-computers-are-you-protected-from-gpt-powered-cyberattacks/"><u>Banks & Computers: Are You Protected From GPT-Powered Cyberattacks?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/boosted-audio-visual-experience-choose-av1-on-youtube/"><u>Boosted Audio-Visual Experience Choose AV1 on YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chorus-companion-selecting-scores-for-clips-for-2024/"><u>Chorus Companion Selecting Scores for Clips for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-tips-for-easing-4-common-chatgpt-holds/"><u>Comprehensive Tips for Easing 4 Common ChatGPT Holds</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/easy-instructions-for-downloading-and-setting-up-microsoft-store-apps-on-windows-10/"><u>Easy Instructions for Downloading and Setting Up Microsoft Store Apps on Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-detect-and-handle-illegitimate-chatgpt-sites/"><u>How to Detect and Handle Illegitimate ChatGPT Sites</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-a14-4g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy A14 4G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-accurate-user-persona-development/"><u>Leveraging ChatGPT for Accurate User Persona Development</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-language-with-personalized-techniques/"><u>Mastering AI Language with Personalized Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguard-sensitive-data-not-chatgpt/"><u>Safeguard Sensitive Data, Not ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speedy-documentation-made-simple-with-gpt-word-integration/"><u>Speedy Documentation Made Simple with GPT-Word Integration</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-elevating-windows-speaker-output-three-effective-costless-strategies/"><u>Updated In 2024, Elevating Windows Speaker Output Three Effective, Costless Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/verse-vanguard-showdown-bards-chatbots-and-wooly-companions/"><u>Verse Vanguard Showdown: Bards, ChatBots & Wooly Companions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-5-best-racing-simulator-games/"><u>[New] In 2024, 5 Best Racing Simulator Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-elite-writers-of-aural-narratives/"><u>[New] In 2024, Elite Writers of Aural Narratives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterclass-enhancing-live-streams-with-360-cameras/"><u>[New] Masterclass Enhancing Live Streams with 360° Cameras</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-gamer-perks-lowest-priced-monitors-and-keyboards-for-2024/"><u>[Updated] Essential Gamer Perks Lowest Priced Monitors & Keyboards for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-updating-your-skills-regularly/"><u>2024 Approved Updating Your Skills Regularly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-7-chrome-plugins-boosting-ai-responses-with-chatgpt-integration/"><u>Discover the Best 7 Chrome Plugins Boosting AI Responses with ChatGPT Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embark-on-an-api-adventure-with-openais-innovations/"><u>Embark on an API Adventure with OpenAI's Innovations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009943367-exclusive-sniper-rounds-and-weaponry-now-available-in-cod-mw-fps-drop/"><u>Exclusive Sniper Rounds and Weaponry Now Available in Cod: MW FPS Drop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722053322073-explore-fun-top-6-games-you-can-enjoy-on-chatgpt/"><u>Explore Fun: Top 6 Games You Can Enjoy on ChatGPT!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fourfold-responsibility-of-governments-to-monitor-ai-progress/"><u>Fourfold Responsibility of Governments to Monitor AI Progress</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-subpar-to-spectaculous-elevating-proposals-with-gpt-3/"><u>From Subpar to Spectaculous: Elevating Proposals with GPT-3</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-video-resizing-utility/"><u>In 2024, Precision Video Resizing Utility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-character-creation-integrating-gpt-dall-e-in-dandd/"><u>Mastering Character Creation: Integrating GPT, DALL-E in D&D</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mental-healing-on-the-rise-with-top-5-bot-counselors/"><u>Mental Healing on the Rise with Top 5 Bot Counselors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-minefield-of-generative-ai-nightshade-as-your-safeguard/"><u>Navigating the Minefield of Generative AI: Nightshade as Your Safeguard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/practical-guide-to-gpt-4-in-modern-chatgpt-dialogues/"><u>Practical Guide to GPT-4 in Modern ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-tech-trio-talks-blizzard-microsoft-and-ai-redefining-creativity-in-digital-realms-podcast-episode/"><u>The Tech Trio Talks: Blizzard, Microsoft & AI - Redefining Creativity in Digital Realms [Podcast Episode]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-computer-how-to-correctly-handle-ieframedll-errors/"><u>Troubleshooting Your Computer: How to Correctly Handle ieframe.dll Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-best-8-plugin-coalition-for-crypto-and-ai-conversation/"><u>Unveiling Best 8 Plugin Coalition for Crypto & AI Conversation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT to Create a Presentation
-date: 2024-10-03T19:16:19.073Z
-updated: 2024-10-09T01:57:51.739Z
+date: 2024-10-10T21:28:24.454Z
+updated: 2024-10-14T18:59:22.617Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,16 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
  Once you've generated the presentation, all that is left is to make some final changes and export the presentation to any format you like. If you want to create a PowerPoint slideshow with AI, you can follow these same steps and then export the slideshow to PowerPoint.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Generate the Presentation Text With ChatGPT
@@ -65,11 +71,25 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 
  If you want to make the whole process even easier and don't feel like editing the AI-generated text yourself, you can use yet another [AI writing tool](https://www.makeuseof.com/ai-writing-tools/) to edit ChatGPT's output.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Install SlidesAI for Google Slides
 
  After generating the text for your presentation, the next step is to install [SlidesAI for Google Slides](https://workspace.google.com/marketplace/app/slidesaiio%5Fcreate%5Fslides%5Fwith%5Fai/904276957168). You can do this through the Google Slides add-ons store.
 
 ![SlidesAI on the Google Webstore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Go to Google Slides.
 2. Create a blank presentation.
@@ -79,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 6. Click it and then select **Install**.
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Compile the Presentation With SlidesAI
 
@@ -98,19 +111,6 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
 6. Check **Replace Existing Slides**.
 7. Go to the **Themes** tab and select a style.  
@@ -118,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 8. When all is set, go back to the **Text** tab and click **Create Slides**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
@@ -130,18 +130,18 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Add the Finishing Touches and Export the Presentation
 
  Now you can customize the slides and add the finishing touches. Remember that AI is still prone to making mistakes, so proofread your presentation to ensure there aren't any blunders. If the main content looks good, you can then start making visual improvements like [adding animations to your slides](https://www.makeuseof.com/add-animation-google-slides/).
 
 ![The Magic Write tool in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-magic-write.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There's a chance that SlidesAI adds irrelevant images to some slides. In that case, you can replace the image with SlideAI's Magic Write tool. This feature considers the slide's content and suggests relevant stock photos.
 
@@ -183,16 +183,24 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/2024-approved-maximizing-your-video-content-on-zoom-for-fb-live/"><u>2024 Approved Maximizing Your Video Content on ZOOM for FB Live</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-mobile-users-ultimate-manual/"><u>ChatGPT: The Mobile User's Ultimate Manual</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-7t-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 7T Phone without PIN</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-targus-drivers-downloading-instructions-for-windows-1087-users/"><u>Latest Targus Drivers Downloading Instructions for Windows 10/8/7 Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/precision-and-reality-in-ai-six-pathways-to-authentic-outputs/"><u>Precision and Reality in AI: Six Pathways to Authentic Outputs</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/top-25-anime-visionaries-on-tiktok-changing-content-norms-for-2024/"><u>Top 25 Anime Visionaries on TikTok Changing Content Norms for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/travel-planning-made-easy-with-7-ai-powered-cost-free-tools/"><u>Travel Planning Made Easy with 7 AI-Powered, Cost-Free Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unique-chatbot-creation-build-with-self-data/"><u>Unique ChatBot Creation: Build with Self-Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-chatgpt-potential-today/"><u>Unlocking ChatGPT Potential Today</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-optimal-zoom-features-in-google-meet-webinars/"><u>Unlocking Optimal Zoom Features in Google Meet Webinars</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-make-a-movie-on-your-mac-a-comprehensive-tutorial/"><u>Updated Make a Movie on Your Mac A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comparative-review-top-cloud-services-prices/"><u>[New] Comparative Review Top Cloud Services' Prices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-complete-look-into-razers-streaming-hardware/"><u>[Updated] Complete Look Into Razer's Streaming Hardware</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-regular-payouts-for-youtube-content-makers/"><u>[Updated] Regular Payouts for YouTube Content Makers?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultrafine-a-deep-dive-into-lgs-elite-4k-display-features/"><u>[Updated] UltraFine A Deep Dive Into LG's Elite 4K Display Features</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-the-unsuccessful-java-vm-startup/"><u>Addressing the Unsuccessful Java VM Startup</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-8-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 8 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/incorporating-distinctive-benefits-into-online-film-streaming-and-rental-services/"><u>Incorporating Distinctive Benefits Into Online Film Streaming and Rental Services</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-file-access-denial-on-windows-11/"><u>Overcoming File Access Denial on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/restore-hidden-icons-on-your-windows-11-taskbar-with-these-proven-6-methods/"><u>Restore Hidden Icons on Your Windows 11 Taskbar with These Proven 6 Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-it-protection-how-microsofts-ztdns-strengthens-windows-security/"><u>Revolutionizing IT Protection: How Microsoft's ZTDNS Strengthens Windows Security</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-practices-ensuring-safety-while-acquiring-new-applications-online/"><u>Secure Practices: Ensuring Safety While Acquiring New Applications Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solve-the-blank-cursor-issue-top-6-strategies-for-when-your-text-cursor-goes-white-in-windows/"><u>Solve the Blank Cursor Issue: Top 6 Strategies for When Your Text Cursor Goes White in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-accessing-windows-11s-group-policy-editor/"><u>Step-by-Step Guide: Accessing Windows 11'S Group Policy Editor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-adding-programs-from-the-microsoft-store-onto-your-windows-10-pc/"><u>Step-by-Step Guide: Adding Programs From the Microsoft Store Onto Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-solution-resolving-exit-code-e-in-minecraft-when-playing-on-a-windows-pc/"><u>Step-by-Step Solution: Resolving 'Exit Code E in Minecraft when Playing on a Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-for-burning-mp3s-directly-from-compact-discs-using-windows-software/"><u>Step-by-Step Tutorial for Burning MP3s Directly From Compact Discs Using Windows Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-tweaking-mouse-pointer-appearance-in-windows-10-for-personalized-comfort/"><u>Step-by-Step Tutorial: Tweaking Mouse Pointer Appearance in Windows 10 for Personalized Comfort</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-to-windows-obs-studio-non-launch-problems/"><u>Unveiling Solutions to Windows OBS Studio Non-Launch Problems</u></a></li>
 </ul></div>
 

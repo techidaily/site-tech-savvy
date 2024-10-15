@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to iPhone and iPad Models Supported by iOS 18 - Including Exclusions
-date: 2024-10-05T20:20:21.841Z
-updated: 2024-10-08T18:55:38.891Z
+date: 2024-10-07T20:23:24.573Z
+updated: 2024-10-15T05:36:34.852Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ Jason Hiner/ZDNET
 
 Go to your iPhone's Settings and select General. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
@@ -51,19 +44,6 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
@@ -71,6 +51,13 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -83,10 +70,10 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
@@ -96,6 +83,13 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -107,6 +101,13 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -123,13 +124,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -175,19 +169,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-elevate-your-engagement-select-8-social-apps-for-facebook-fame/"><u>[New] 2024 Approved Elevate Your Engagement Select 8 Social Apps for Facebook Fame</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-earning-equations-decoding-the-mathematics-behind-youtube-income-monitoring-for-2024/"><u>[New] Earning Equations Decoding the Mathematics Behind YouTube Income Monitoring for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-free-downloaders-download-youtube-thumbnail-for-freeonlinewinmac/"><u>[New] In 2024, Best Free Downloaders Download YouTube Thumbnail for Free[Online/Win/Mac]</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-art-of-profile-video-attraction/"><u>[New] Mastering the Art of Profile Video Attraction</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unlocking-all-about-dji-inspire-2-today-for-2024/"><u>[New] Unlocking All About DJI Inspire 2 Today for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-ultimate-checklist-what-makes-dji-phantom-4-special/"><u>[Updated] In 2024, The Ultimate Checklist What Makes DJI Phantom 4 Special?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-gpt-be-your-guide-through-wild-trails-and-hazards/"><u>Can GPT Be Your Guide Through Wild Trails and Hazards?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-natural-language-tech-and-ml/"><u>Comparative Analysis: Natural Language Tech and ML</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-x5-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco X5 Pro? Try These Fixes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-s23-fe-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy S23 FE without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/jailbreaking-vs-standard-use-chatgpt-exploration/"><u>Jailbreaking Vs. Standard Use: ChatGPT Exploration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proven-elements-for-optimal-bot-assisted-support-systems/"><u>Proven Elements for Optimal Bot-Assisted Support Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-personalized-health-top-7-reasons-with-chatgpt/"><u>The Future of Personalized Health: Top 7 Reasons with ChatGPT</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boost-your-instagram-game-macs-automated-video-resizing/"><u>[New] 2024 Approved Boost Your Instagram Game Mac's Automated Video Resizing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-excellent-envoys-top-laptops-to-edit-videos-in-4k-for-2024/"><u>[New] Excellent Envoys Top Laptops to Edit Videos in 4K for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-mac-snippet-apps-a-compilation/"><u>[Updated] Essential Mac Snippet Apps A Compilation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-laptop-friendly-tips-to-start-live-chats-with-whatsapp-desktop/"><u>[Updated] In 2024, Laptop-Friendly Tips to Start Live Chats with WhatsApp Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/constraint-b-each-historical-event-chosen-for-the-footnotes-should-not-have-been-commonly-referenced-in-mainstream-media/"><u>Constraint B: Each Historical Event Chosen for the Footnotes Should Not Have Been Commonly Referenced in Mainstream Media.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-wireless-earbud-connectivity-abbyys-guide-on-pairing-and-securing-passwords/"><u>Enhancing Wireless Earbud Connectivity: ABBYY's Guide on Pairing & Securing Passwords</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-insights-how-process-analytics-can-transform-unstructured-business-procedures/"><u>Essential Insights: How Process Analytics Can Transform Unstructured Business Procedures</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-fix-stability-issues-with-outpost-infinity-siege-on-windows-pcs/"><u>Expert Tips to Fix Stability Issues with Outpost: Infinity Siege on Windows PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-inconsistent-audio-interruptions-in-windows-11-a-comprehensive-guide/"><u>Fixing Inconsistent Audio Interruptions in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-forecast-half-a-million-more-digital-professionals-by-2023-recent-global-report-reveals/"><u>Future Forecast: Half a Million More Digital Professionals by 2023 - Recent Global Report Reveals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/groundbreaking-automated-ocr-system-enables-quick-access-to-over-a-million-historical-health-documents/"><u>Groundbreaking Automated OCR System Enables Quick Access to Over a Million Historical Health Documents</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-cookiebot-for-advanced-online-marketing-success/"><u>Harnessing the Power of Cookiebot for Advanced Online Marketing Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-ai-is-set-to-revolutionize-iot-integration-according-to-abbyy-experts/"><u>How AI Is Set to Revolutionize IoT Integration, According to ABBYY Experts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme 11 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-becoming-an-smm-virtuoso-the-ultimate-pathway-of-10-strategic-steps/"><u>In 2024, Becoming an SMM Virtuoso The Ultimate Pathway of 10 Strategic Steps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-note-30-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Note 30 FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-the-abbyy-flexicapture-12-and-winactor-connectivity-abbyy-official-blog/"><u>Introducing the ABBYY FlexiCapture 12 and WinActor Connectivity - ABBYY Official Blog</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-artificial-intelligence-in-ocr-for-advanced-app-features-learn-from-abbyys-masterclass-webinar/"><u>Leverage Artificial Intelligence in OCR for Advanced App Features – Learn From ABBYY's Masterclass Webinar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-cookiebot-technology-for-superior-user-tracking-and-insights/"><u>Leverage Cookiebot Technology for Superior User Tracking & Insights</u></a></li>
 </ul></div>
 

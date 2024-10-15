@@ -1,7 +1,7 @@
 ---
 title: Harnessing ChatGPT & DALL-E for Dynamic Dungeons & Dragons Protagonists
-date: 2024-10-03T17:14:45.895Z
-updated: 2024-10-08T20:27:58.023Z
+date: 2024-10-08T16:56:34.521Z
+updated: 2024-10-15T06:16:53.080Z
 tags:
   - chatgpt
   - open-ai
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  In our example, we’ll be creating a two-handed weapon-wielding Dragonborn Paladin for the Lost Mine of Phandelver adventure.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### For Background and Backstory
 
  Since ChatGPT is familiar with any popular D&D 5e module or adventure, you can save a lot of time by asking your questions directly to the chat instead of googling it. This way, you have a good lore-friendly way to tie in your new character. In our case, we asked it to briefly describe the Lost Mine of Phandelver and the lore surrounding the Sword Coast.
@@ -50,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 ![ChatGPT's detailed response to creating a backstory and background for a D&D character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-s-detailed-response-to-creating-a-backstory-and-background-for-a-d-d-character.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, ChatGPT isn’t very good with names. The name it generated for our Dragonborn was Draconis, which isn’t very original. You can prompt it to give you ideas for better names or just come up with your own instead. We ended up renaming the Dragonborn Anomander Rake.
@@ -69,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 ![D&D character Anomander Rake's physical description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/d-d-character-anomander-rake-s-physical-description.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### To Determine Character Traits and NPC Attributes
@@ -82,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  If you would like an NPC character for your campaign, you could also use ChatGPT to generate stats based on what role they’ll be performing. For example, you can ask ChatGPT to generate attributes and a character sheet for a giant dragonfly if your players should ever encounter one in battle.
 
  However, while generating attributes for an NPC, you should remember to tell ChatGPT to balance it according to the level of the players who will be facing the NPC. As the dungeon master, you should still make sure it’s balanced, but it would do a fairly decent job of trying to balance it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use DALL-E 2 to Create D&D Characters
 
@@ -93,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  The prompt might be too long for DALL-E 2, but you can still ask ChatGPT to shorten it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### To Create a Character Image
 
  If you’re new to it, you should first learn [how to use DALL-E 2](https://www.makeuseof.com/how-to-use-dall-e-2/) so you know how to create an account and be aware of its workings. Once that’s done, you should add a few key things to the description you give DALL-E.
@@ -102,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 * Specify “portrait” if you want a bust image. Doing this will leave less room for DALL-E 2 to mess up the rest of the image.
 
 ![DALL-E 2's results from the prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dall-e-2-s-results-from-the-prompt.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're unhappy with the results, you can keep clicking**Generate** to create more images. If there’s an image close to what you want, click it and select**Variations** so that DALL-E can create more like that. If you find something you like, select it and click the**Download** button (represented by a download arrow) on the top right of the image. All your previously generated images are saved on the right menu, so don’t worry about losing them.
 
@@ -135,16 +135,24 @@ All images you download from DALL-E have watermarks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/harting-your-course-in-youtubing-dodge-these-top-8-common-missteps/"><u>[New] Charting Your Course in YouTubing Dodge These Top 8 Common Missteps!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-picking-perfect-smartwatches-5-must-know-tips/"><u>A Comprehensive Guide to Picking Perfect Smartwatches – 5 Must-Know Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/clarifying-how-shared-links-function-in-ai-conversations/"><u>Clarifying How Shared Links Function in AI Conversations</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-new-windows-11-against-current-operating-system/"><u>Evaluating New Windows 11 Against Current Operating System</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/gratuit-konverteren-van-mp3-naar-aac-onlinereptiel-met-movavi/"><u>Gratuit Konverteren Van MP3 Naar AAC - Onlinereptiel Met Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-s24-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy S24 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mindful-studying-foregoing-gpt-for-assistance/"><u>Mindful Studying: Foregoing GPT for Assistance</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unleashing-popularity-how-to-make-a-youtube-hit-for-2024/"><u>Unleashing Popularity How to Make a YouTube Hit for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-full-potential-10-chatgpt-vs-code-pairings/"><u>Unlocking the Full Potential: 10 ChatGPT-VS Code Pairings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-choose-plus-unveiling-9-enhanced-benefits-of-chatgpt/"><u>Why Choose Plus? Unveiling 9 Enhanced Benefits of ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-device-checkup-the-essential-five-ways-to-monitor-availability/"><u>Windows 11 Device Checkup: The Essential Five Ways to Monitor Availability</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-xbox-expansion-top-5-external-hard-drives-ranked/"><u>[New] In 2024, Xbox Expansion Top 5 External Hard Drives Ranked</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-quality-video-uplift-immaculate-resolution/"><u>[New] Top Quality Video Uplift Immaculate Resolution</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-edge-enhancement-3-essential-methods-for-2024/"><u>[Updated] Instagram Edge Enhancement - 3 Essential Methods for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-solo-mastery-how-to-turn-off-apex-legends-cross-play-feature/"><u>[Updated] Solo Mastery How to Turn Off Apex Legends' Cross-Play Feature</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-quick-collage-creation-a-step-by-step-guide-for-google-images/"><u>2024 Approved Quick Collage Creation A Step-by-Step Guide for Google Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-unoriginal-content-in-ai-dialogue/"><u>Avoiding Unoriginal Content in AI Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claudios-battle-for-productivity-gpt-vs-everyday-task-helper/"><u>Claudio's Battle for Productivity: GPT Vs. Everyday Task Helper</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excavate-new-reads-discover-these-5-leading-ai-powered-book-services/"><u>Excavate New Reads: Discover These 5 Leading AI-Powered Book Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/go-mobile-bings-intelligent-search-for-your-devices-now/"><u>Go Mobile: Bing’s Intelligent Search for Your Devices Now.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/love-in-a-digital-age-chatgpt-to-the-rescue/"><u>Love in a Digital Age: ChatGPT to the Rescue</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-watch-dvds-on-windows-10-for-free-the-best-players/"><u>New Watch DVDs on Windows 10 for Free The Best Players</u></a></li>
+<li><a href="https://android-frp.techidaily.com/nokia-c210-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia C210 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-chatgpt-barriers-to-entry-effortlessly/"><u>Overcoming ChatGPT Barriers to Entry Effortlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-beginners-path-to-auto-gpt-installation-in-ubuntu/"><u>The Beginner's Path to Auto-GPT Installation in Ubuntu</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-nokia-c02-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Nokia C02 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-troubleshooting-tip-starting-up-your-mac-in-diagnostics-or-recovery-mode/"><u>Ultimate Troubleshooting Tip: Starting Up Your Mac in Diagnostics or Recovery Mode</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ransomware-decode-on-the-go-tech-guide/"><u>Understanding Ransomware Decode - On-the-Go Tech Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unsubscribe-from-gpt-communication/"><u>Unsubscribe From GPT Communication</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-stop-motion-mastery-the-top-5-online-tools/"><u>Updated Stop Motion Mastery The Top 5 Online Tools</u></a></li>
 </ul></div>
 

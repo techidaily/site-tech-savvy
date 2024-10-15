@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Written Workflow with LibreOffice Vs. Google Docs: Key Advantages for the Serious Writer"
-date: 2024-09-17 14:47:10
-updated: 2024-09-20 12:41:40
+date: 2024-10-11T06:53:45.449Z
+updated: 2024-10-15T00:41:22.905Z
 tags:
   - work-life
 categories:
@@ -41,6 +41,13 @@ One example of this is the customization of styles. By default, the Heading 2 st
 
 With LibreOffice, I can put my fingers on the keyboard and write without interruption or distraction. The problem with distraction is that it's not just the time it takes to handle the issue at hand; it's also getting back in the flow of things. So, even a 10-second distraction can turn into a minute. A 10-minute distraction can turn into 20, and it's all uphill from there.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. LibreOffice saves documents locally
 
 Ten years ago, I wouldn't have considered this a selling point for an office suite. But with the migration to cloud (and the possibility of AI using stored documents for fodder), storing my manuscripts on a third-party server is a non-starter. Thankfully, LibreOffice hasn't gone the way of the cloud; everything is saved and stored on your local file system.
@@ -63,6 +70,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. LibreOffice offers continuity
 
 I have LibreOffice installed (and set as the default) on my Linux desktop and my MacBook Pro. By doing this, I can ensure that switching from one machine to the next will keep the document formatting intact. This becomes very important when dealing with book manuscripts that you submit to your publisher, as they might require them to be formatted in a very particular way. 
@@ -73,6 +87,13 @@ If I were to switch between LibreOffice, Pages, and Google Documents, the format
 
 With LibreOffice -- more than any other office suite -- I find the continuity between applications, computers, and documents to be spot on.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. LibreOffice is packed with tools
 
 LibreOffice comes with plenty of built-in tools that cover a variety of needs. Yes, it has spellchecking, a thesaurus, autocorrect, and other standard tools. But it also contains a few extras that might appeal to you, such as text redaction, accessibility check, auto-text, macros, extensions, a style navigator, templates, and style editing. 
@@ -82,6 +103,13 @@ LibreOffice comes with plenty of built-in tools that cover a variety of needs. Y
 And that only scratches the surface. There are also database, presentation, formula, and drawing tools available, each of which has its own set of specialized tools.
 
 The thing about LibreOffice is that if I need to get something done in a document, you bet I can do it without turning to a third-party tool.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. LibreOffice is free (and not just in price)
 
@@ -128,11 +156,33 @@ Download and install LibreOffice from the [Document Foundation](https://www.libr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-elevate-video-quality-with-vlcs-high-resolution-webcam-recording/"><u>[Updated] In 2024, Elevate Video Quality with VLC's High-Resolution Webcam Recording</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-innovative-templates-for-stellar-youtube-video-decks-for-2024/"><u>[Updated] Innovative Templates for Stellar YouTube Video Decks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-canon-editing-kit-freepay-for-luts-included/"><u>[Updated] Ultimate Canon Editing Kit - Free/Pay for LUTs Included</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-swiftsoundphone-apps-top-10-for-rapid-music/"><u>2024 Approved SwiftSoundphone Apps Top 10 for Rapid Music</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fortnite-is-blocked-at-your-school-heres-how-to-unblock-it/"><u>Fortnite Is Blocked at Your School? Here’s How to Unblock It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guaranteed-solutions-to-overcome-oculus-software-install-problems-on-your-pc-windows-11-and-10/"><u>Guaranteed Solutions to Overcome Oculus Software Install Problems on Your PC (Windows 11 & 10)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-boot-into-bios-configuration-in-windows-10windows-7-systems/"><u>How to Boot Into BIOS Configuration in Windows 10/Windows 7 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-clear-cache-on-windows-10/"><u>How to Clear Cache on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-convert-images-to-gif/"><u>How to Convert Images to GIF</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-detect-and-treat-excessive-temperatures-on-your-motherboards-brain/"><u>How to Detect and Treat Excessive Temperatures on Your Motherboard's Brain</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-easily-rectify-error-code-0x80248007-on-your-windows-11-pc-expert-advice/"><u>How to Easily Rectify Error Code 0X80248007 on Your Windows 11 PC: Expert Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-forget-wireless-network-on-windows-11/"><u>How to Forget Wireless Network on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-screenshot-on-windows-heres-the-quick-way/"><u>How to Screenshot on Windows? Here’s the Quick Way!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-xr-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone XR</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-pop-8frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Pop 8FRP Lock</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-zero-to-hero-creating-a-countdown-timer-in-fcpx/"><u>New From Zero to Hero Creating a Countdown Timer in FCPX</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-how-to-forcibly-close-unresponsive-apps-in-windows-11-using-quick-fixes/"><u>Ultimate Guide: How to Forcibly Close Unresponsive Apps in Windows 11 Using Quick Fixes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-elgoog-the-definitive-mirror-site-analysis/"><u>Unveiling elgooG: The Definitive Mirror Site Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+</ul></div>
+

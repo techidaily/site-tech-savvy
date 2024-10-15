@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Efficient Data Management Using Premade Tables in Google Sheets, According to Experts at ZDNET
-date: 2024-09-17 17:25:19
-updated: 2024-09-20 12:36:57
+date: 2024-10-11T03:56:53.944Z
+updated: 2024-10-14T17:56:00.095Z
 tags:
   - work-life
 categories:
@@ -27,9 +27,23 @@ Pre-built tables are easy to use -- here's how to get started.
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser. One thing to keep in mind: the pre-built tables feature cannot be used on the mobile version of Google Sheets, so the only way to access it is via a desktop web browser. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Create a new spreadsheet
 
 To start, log into either Google Drive or Google Docs and create a new spreadsheet. The pre-built tables feature only appears in new spreadsheets, so if you open a previously existing document, you won't see the pre-built tables sidebar.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Find the type of pre-built table you want
 
@@ -43,6 +57,13 @@ There are several pre-built tables to choose from.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Insert the desired table
 
 Once you've found the type of table you want to use, hover your cursor over the entry again and click Insert. If the table you've added doesn't work, you can go back to the sidebar and select a different pre-built table to replace it. 
@@ -54,6 +75,13 @@ If you've already closed the sidebar, you can re-open it by clicking the Insert 
 You'll see both the Insert button on a cursor hover and a demonstration of how the table will look.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Customize the table
 
@@ -86,11 +114,27 @@ That's all there is to using the Google Sheets pre-built tables feature. This ha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-simple-steps-to-coordinate-consistent-productive-google-collaboration-times/"><u>[New] In 2024, Simple Steps to Coordinate Consistent, Productive Google Collaboration Times</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-essential-tips-for-crafting-engaging-facebook-reels/"><u>[Updated] In 2024, Essential Tips for Crafting Engaging Facebook Reels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-inside-look-at-youtubes-creator-studio-interface/"><u>[Updated] Inside Look at YouTube's Creator Studio Interface</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-larger-print-formats-same-sharpness-levels/"><u>[Updated] Larger Print Formats, Same Sharpness Levels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-whats-different-on-facebook-a-comprehensive-overview-for-2024/"><u>[Updated] What's Different on Facebook? - A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-the-problems-of-a-slow-moving-freezing-pc-a-comprehensive-guide/"><u>Eliminating the Problems of a Slow-Moving, Freezing PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-your-web-experience-fixing-chromes-muted-mode-issue/"><u>Enhance Your Web Experience: Fixing Chrome's Muted Mode Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-preparation-guide-transitioning-to-the-windows-11-creators-edition/"><u>Essential Preparation Guide: Transitioning to the Windows 11 Creator's Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-tablet-mode-in-windows-your-ultimate-guide-for-optimal-use/"><u>Exploring Tablet Mode in Windows # - Your Ultimate Guide for Optimal Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixes-for-your-computer-starting-without-showing-anythe-on-monitor/"><u>Fixes for Your Computer Starting Without Showing Anythe on Monitor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-download-and-update-dell-drivers-for-windows-11/"><u>Free Download and Update Dell Drivers for Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-connection-issues-with-the-logitech-c922-webcam/"><u>Resolving Connection Issues with the Logitech C922 Webcam</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-8-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 8</u></a></li>
+</ul></div>
+

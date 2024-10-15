@@ -1,7 +1,7 @@
 ---
 title: Probing Into the Rights Behind Machine-Made Masterpieces
-date: 2024-10-02T04:09:23.980Z
-updated: 2024-10-09T04:09:05.190Z
+date: 2024-10-11T20:30:46.925Z
+updated: 2024-10-14T18:05:44.821Z
 tags:
   - chatgpt
   - open-ai
@@ -61,10 +61,10 @@ Close
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Example of AI Copyright Rejection
@@ -74,6 +74,13 @@ Close
  Although the USCO issued a copyright in September 2022, it said it did it in error. When it came to light that the comic book was produced using MidJourney AI, its copyright protection was revoked.
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
 
@@ -85,22 +92,15 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
@@ -118,10 +118,10 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -149,18 +149,16 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-digital-cutting-edge-streamlined-strategies-for-editing-videos-on-vimeo/"><u>[New] 2024 Approved Digital Cutting Edge Streamlined Strategies for Editing Videos on Vimeo</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-request-info-on-obtaining-full-shared-content-on-messengers/"><u>[New] 2024 Approved Request Info on Obtaining Full Shared Content on Messengers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-tech-unity-expert-easeus-reviews/"><u>[New] In 2024, Tech Unity Expert EaseUS Reviews</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-deciphering-digital-dominance-youtube-content-strategy-comparison/"><u>[Updated] 2024 Approved Deciphering Digital Dominance YouTube Content Strategy Comparison</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-comprehending-drone-systems-mechanics-and-applications-explained/"><u>[Updated] In 2024, Comprehending Drone Systems Mechanics and Applications Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-bots-separating-truth-from-ai-mythology/"><u>Beyond Bots: Separating Truth From AI Mythology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-gpt4alls-functionality/"><u>Decoding GPT4All's Functionality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-chatgpts-integrity/"><u>Exploring ChatGPT's Integrity</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-y100-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo Y100 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Moto G Stylus (2023) Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leap-into-advanced-chatgpt-top-9-essential-plugins-here/"><u>Leap Into Advanced ChatGPT – Top 9 Essential Plugins Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-communication-post-chatgpt-era/"><u>Revolutionizing Communication: Post-ChatGPT Era</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/sony-ps-players-voice-modification-techniques/"><u>Sony PS Players' Voice Modification Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-embarking-on-a-virtual-odyssey-through-yt-stories/"><u>[New] Embarking on a Virtual Odyssey Through YT Stories</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-exploring-the-latest-advancements-in-lgs-all-round-360-camera/"><u>[New] Exploring the Latest Advancements in LG's All-Round 360 Camera</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unleashing-iphones-potential-for-dynamic-shots/"><u>[Updated] In 2024, Unleashing iPhone’s Potential for Dynamic Shots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-capabilities-of-next-gen-llama-technology/"><u>Exploring the Capabilities of Next-Gen Llama Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/families-ai-and-the-future-of-tech-interaction/"><u>Families, AI & The Future of Tech Interaction</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-14-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 14</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-pixelated-persistence-selecting-the-ultimate-cam-for-extended-shots/"><u>In 2024, Pixelated Persistence Selecting the Ultimate Cam for Extended Shots</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-generation-technology-enables-fabrication-of-3d-chip-circuits-via-cutting-edge-3d-printing-processes/"><u>Next-Generation Technology Enables Fabrication of 3D Chip Circuits via Cutting-Edge 3D Printing Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-checklist-for-verifying-wellness-tips-from-ai/"><u>The Ultimate Checklist for Verifying Wellness Tips From AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-29-alternatives-to-gpts-pos-software/"><u>Top 29 Alternatives to GPT's POS Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-vector-databases-in-ai/"><u>Unveiling the Power of Vector Databases in AI</u></a></li>
 </ul></div>
 

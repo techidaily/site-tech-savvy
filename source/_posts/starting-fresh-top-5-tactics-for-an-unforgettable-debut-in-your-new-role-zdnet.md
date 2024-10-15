@@ -1,7 +1,7 @@
 ---
 title: "Starting Fresh: Top 5 Tactics for an Unforgettable Debut in Your New Role | ZDNet"
-date: 2024-09-19 15:31:47
-updated: 2024-09-20 10:23:21
+date: 2024-10-14T01:07:52.239Z
+updated: 2024-10-15T03:20:15.276Z
 tags:
   - work-life
 categories:
@@ -20,6 +20,13 @@ You've got the job you always wanted -- but now the hard work begins. Any new en
 Research by consultant McKinsey suggests [46% of senior management appointments are regarded as failures or disappointments](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/successfully-transitioning-to-new-leadership-roles) after two years. So, how can you succeed in a new role? Five business leaders give us their top tips.
 
 ### 1\. Set out your objectives clearly
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### More from **ZDNET**
 
@@ -55,6 +62,19 @@ Instead, Higgs says the key to succeeding in a new role is spending time with st
 
 "You have to listen -- you have to understand the workforce," he says." But you must also understand what the senior guys are trying to achieve and link those aims together."
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Win hearts and minds across the business
 
 Clare Lansley, CIO at Aston Martin Cognizant Formula One, says new entrants must have an open ear to the people around them, so that they can understand the challenge they're taking on.
@@ -69,6 +89,13 @@ She advises other people looking to climb the ladder to spend time engaging with
 
 "I'm never at my desk. Because if you do that, how are you going to understand what the issues are and what the perception of your team is? You need to go and win some hearts and minds, so you've got to get out there."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Deliver quick wins to prove your value
 
 Alex Read, senior manager of data platforms at utility giant EDF UK, says the key to being successful in a new role is to identify your aims quickly and then make sure you deliver them. 
@@ -82,6 +109,13 @@ Read got the opportunity to test this philosophy when he joined EDF UK last May.
 Just over six months on from his appointment, Read's team is delivering the benefits he promised. Now, the business is using this data platform to deliver a range of machine-learning products to help customers make smarter decisions about energy use.
 
 "You must have a mission and a clear set of goals, and then you need to drive and deliver against them," he says. "If your key stakeholders cannot see what they're getting as a return for their investment, then there will always be questions around the value of your work."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Get out and meet people
 
@@ -112,11 +146,31 @@ Steve Capper, CIO at engineering and construction specialist SNC-Lavalin, says a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2-ways-to-add-a-letterbox-for-facebook-videos-for-2024/"><u>[New] 2 Ways to Add a Letterbox for Facebook Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-dji-aerial-palette-changes-get-20-free-with-pay-options-available/"><u>[New] DJI Aerial Palette Changes - Get 20 FREE with Pay Options Available</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-potential-of-onestream-live-streaming/"><u>2024 Approved Unlocking the Potential of OneStream Live Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bluetooth-range-improvement-techniques-for-microsoft-windows-11-users/"><u>Bluetooth Range Improvement Techniques for Microsoft Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-games-in-windows-11-using-the-latest-nvidia-drivers-a-step-by-step-guide/"><u>Boost Your Games in Windows 11 Using the Latest NVIDIA Drivers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/change-google-password-what-should-i-do/"><u>Change Google Password – What Should I Do?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dealing-with-the-mysterious-hxtrsrexe-in-windows-10-tips-and-solutions-revealed/"><u>Dealing with the Mysterious hxtrsr.exe in Windows 10 - Tips and Solutions Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/duo-monitor-integration-for-laptops-a-comprehensive-guide/"><u>Duo Monitor Integration for Laptops - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-solutions-for-dealing-with-excessively-growth-of-pagefilesys/"><u>Effective Solutions for Dealing with Excessively Growth of Pagefile.sys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-freeing-up-storage-on-your-windows-10-pc/"><u>Effective Strategies for Freeing Up Storage on Your Windows 10 PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-offline-ios-game-list-unplugged-fun-awaits-for-2024/"><u>Essential Offline iOS Game List - Unplugged Fun Awaits for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-world-of-vpns-understanding-different-vpn-tunneling-methods/"><u>Exploring the World of VPNs: Understanding Different VPN Tunneling Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-converter-convert-flv-files-to-avi-format-with-movavi/"><u>Free Online Converter: Convert FLV Files to AVI Format with Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-motorola-razr-40-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Razr 40 phone? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/inside-the-hp-omen-obelisk-a-game-changer-in-affordable-powerful-pcs/"><u>Inside the HP Omen Obelisk: A Game Changer in Affordable, Powerful PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/instagram-live-feature-malfunction-immediate-solutions/"><u>Instagram Live Feature Malfunction? Immediate Solutions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solving-unplayable-video-files-a-step-by-step-guide/"><u>Solving Unplayable Video Files: A Step-by-Step Guide</u></a></li>
+</ul></div>
+

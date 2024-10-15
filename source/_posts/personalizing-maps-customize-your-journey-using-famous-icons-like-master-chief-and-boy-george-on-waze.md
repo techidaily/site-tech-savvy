@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Maps: Customize Your Journey Using Famous Icons Like Master Chief & Boy George on Waze"
-date: 2024-09-19 13:21:56
-updated: 2024-09-20 12:25:48
+date: 2024-10-12T01:06:47.807Z
+updated: 2024-10-15T03:59:24.168Z
 tags:
   - work-life
 categories:
@@ -33,11 +33,31 @@ Whether you're planning a road trip to visit family for the holidays, or use its
 
 ## How to change the voice in Waze
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Waze
 
 Open the Waze app on your phone. You don't have to be logged in to an account to change the voice of the navigation. 
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Tap on sound icon
 
@@ -79,6 +99,13 @@ Maria Diaz/ZDNET
 3. Select **Drive with Santa**.
 4. Customize your **Moods, Car,** and **Voice directions**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can you have Morgan Freeman or Yoda give you directions?
 
 Waze rotates different celebrity voices at different times. Unfortunately, Morgan Freeman or Yoda voices are not available on the Waze app. However, you can have Waze give you directions using the voices of Terminator, Boy George, Master Chief or Escharum from Halo, Maisie from Sea Beast, Kehlani, Christina Aguilera, or Andy Field, just to name a few.
@@ -94,6 +121,13 @@ Fun fact: You can give yourself directions on Waze by recording different prompt
 3. Select **Voice directions**.
 4. Tap on **Add a voice**.
 5. Follow the prompts to record your own voice, Waze will prompt you to read different statements that it will use to guide you on road navigations.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does Waze have other languages aside from English?
 
@@ -120,11 +154,29 @@ In addition to English, Waze has a variety of different languages and different 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-explore-best-15-cost-free-photo-editors/"><u>[New] Explore Best 15 Cost-Free Photo Editors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Without iTunes</u></a></li>
+<li><a href="https://facebook.techidaily.com/alert-possible-intrusion-in-your-email-and-computer-system/"><u>Alert! Possible Intrusion in Your Email & Computer System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-gaming-and-graphics-on-windows-1087-using-official-nvidia-rtx-3070-ti-drivers/"><u>Enhance Gaming and Graphics on Windows 10/8/7 Using Official NVIDIA RTX 3070 Ti Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-networking-downloading-and-updating-netgear-wi-fi-card-drivers/"><u>Ensure Smooth Networking: Downloading & Updating NETGEAR Wi-Fi Card Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-check-ram-on-windows-quickly-and-easily/"><u>How to Check RAM on Windows | Quickly & Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-counteract-constant-high-cpu-consumption-and-boost-efficiency/"><u>How to Counteract Constant High CPU Consumption and Boost Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-disable-windows-11-lock-screen-easily/"><u>How to Disable Windows 11 Lock Screen, Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-and-update-the-realtek-high-definition-sound-driver-on-windows-11/"><u>How to Fix and Update the Realtek High Definition Sound Driver on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-pair-your-wireless-bluetooth-headset-with-a-playstation-4-console-a-step-by-step-guide-with-images/"><u>How to Pair Your Wireless Bluetooth Headset with a PlayStation 4 Console: A Step-by-Step Guide with Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-stop-windows-10-update-completely/"><u>How to Stop Windows 10 Update Completely</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-xr-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone XR and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-s17t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo S17t Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-x100-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo X100? Fixed | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-g54-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola G54 5G FRP Bypass Everything You Need to Know</u></a></li>
+</ul></div>
+

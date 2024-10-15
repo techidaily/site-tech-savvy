@@ -1,7 +1,7 @@
 ---
 title: Protecting Users From GPT-Related Threats
-date: 2024-10-06T04:29:23.087Z
-updated: 2024-10-09T05:37:18.114Z
+date: 2024-10-12T13:28:42.362Z
+updated: 2024-10-15T00:27:46.786Z
 tags:
   - chatgpt
   - open-ai
@@ -34,19 +34,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
  According to [OpenAI’s terms of use](https://openai.com/policies/terms-of-use), here’s how ChatGPT handles the following data:
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Personally Identifiable Information
 
  Rumors say that ChatGPT sells [personally identifiable information](https://www.makeuseof.com/what-is-personally-identifiable-information/) (PII).
@@ -54,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  The platform was launched by OpenAI, a reputable AI research lab funded by tech investors like Microsoft and Elon Musk. ChatGPT should only use customer data to provide the services stated in the [privacy policy](https://openai.com/policies/privacy-policy).
 
  Moreover, ChatGPT asks for minimal information. You can create an account with just your name and email address.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conversations
 
@@ -64,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ### Public Information
 
  According to the [BBC](https://www.sciencefocus.com/future-technology/gpt-3/), OpenAI trained ChaGPT on 300 billion words. It collects data from public web pages, like social media platforms, business websites, and comment sections. Unless you’ve gone off the grid and erased your digital footprint, ChatGPT likely has your information.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Security Risks Does ChatGPT Present?
 
@@ -79,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
  Learn to spot hacking attempts. Although email providers filter spam messages, some crafty ones could fall through the cracks. You should still know what phishing messages look like.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Data Theft
 
  ChatGPT uses an open-source LLM, which anyone can modify. Coders proficient in large language models (LLM) and machine learning often integrate pre-trained AI models into their legacy systems. Training AI on new datasets alters functionality. For instance, ChatGPT becomes a pseudo-fitness expert if you feed it recipes and exercise routines.
@@ -94,16 +88,16 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
  Remember: you have no control over how crooks operate. The best approach is to contact the Federal Trade Commission (FTC) once you notice [signs of identity theft](https://www.makeuseof.com/what-is-identity-theft/).
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Malware Production
 
 ![Lines of Codes With Different Colors on a Black Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/lines-of-code-on-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT writes usable code snippets in different programming languages. Most samples require minimal modifications to function properly, especially if you structure a concise prompt. You could leverage this feature to develop apps and sites.
 
@@ -112,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  The below photo shows that ChatGPT rejects writing code for malicious purposes.
 
 ![ChatGPT Refusing to Write Code for the Trojan Virus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-trojan-virus.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Meanwhile, the below photo shows that ChatGPT will give you harmful information if you phrase your prompts correctly.
 
@@ -132,9 +119,23 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 ![ChatGPT Paraphrasing Text to Avoid Plagiarism](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-paraphrasing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Of course, spinning still classifies as plagiarism. Paraphrased AI articles sometimes rank by chance, but Google generally prefers original content from reputable sources. Cheap tricks and SEO hacks can’t beat high-quality, evergreen writing.
 
  Also, Google releases multiple core updates annually. It will soon focus on removing lazy, unoriginal AI-generated pieces from SERPs.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Generating Unethical Responses
 
@@ -146,25 +147,18 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 ![Asking ChatGPT to Produce Harmful Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bypassing-chatgpt-limits.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The good news is [OpenAI hasn’t lost control of ChatGPT](https://www.makeuseof.com/openai-lost-control-chatgpt/). Its ongoing efforts in tightening restrictions stop ChatGPT from producing unethical responses, regardless of user input. Jailbreaking won’t be as easy moving forward.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Quid Pro Quo
 
 ![Searching ChatGPT on Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-play-store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The rapid growth of new, unfamiliar technologies like ChatGPT creates opportunities for quid pro quo attacks. They’re social engineering tactics wherein crooks lure victims with fake offers.
 
@@ -201,22 +195,24 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-surging-profits-with-three-steps-an-easy-way-to-tally-your-youtube-earning/"><u>[Updated] In 2024, Surging Profits with Three Steps An Easy Way to Tally Your YouTube Earning</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/4-xtwitter-chat-tools-to-follow-hashtags/"><u>4 X/Twitter Chat Tools to Follow Hashtags</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-chatgpt-therapist-bots-and-ai-apps-to-relieve-mental-health-problems/"><u>5 ChatGPT Therapist Bots and AI Apps to Relieve Mental Health Problems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-exceptional-ways-to-leverage-personalized-chatgpt-directives/"><u>5 Exceptional Ways to Leverage Personalized ChatGPT Directives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-prompting-strategies-to-transform-your-ai-dialogues/"><u>7 Prompting Strategies to Transform Your AI Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-chatgpt-plugins-for-fitness-and-wellness/"><u>8 ChatGPT Plugins for Fitness and Wellness</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-beginners-exploration-into-langchain-and-llm/"><u>A Beginner’s Exploration Into LangChain & LLM</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/apple-iphone-11-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone 11 Pro iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721414326797-chatgpt-memories-safely-store-em/"><u>ChatGPT Memories, Safely Store 'Em</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-microsoft-store-error-0x80072f17-on-windows/"><u>How to Fix Microsoft Store Error 0X80072F17 on Windows</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-defy-2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Defy 2 Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-moto-g14-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola Moto G14 Is Unlocked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721408515538-innocuous-names-hidden-dangers-a-guide-to-authentic-chatbots/"><u>Innocuous Names, Hidden Dangers: A Guide to Authentic ChatBots</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-15-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 15 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721418285267-liberating-gpt-4-for-all-plus-membership-consider-these-6-persisting-benefits/"><u>Liberating GPT-4 for All; Plus Membership? Consider These 6 Persisting Benefits</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-xiaomi-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-swiftly-swiveling-how-to-improve-video-viewability-in-vlc/"><u>[New] In 2024, Swiftly Swiveling How to Improve Video Viewability in VLC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-upgrade-to-better-beats-with-these-top-free-analyzers/"><u>[New] Upgrade to Better Beats with These Top Free Analyzers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-chrome-os-snapshotting-for-2024/"><u>[Updated] The Ultimate Guide to Chrome OS Snapshotting for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-supercharge-your-task-management-with-top-8-chrome-plug-ins/"><u>AI Supercharge Your Task Management with Top 8 Chrome Plug-Ins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-engaging-sites-with-chatgpts-creative-four-ways/"><u>Craft Engaging Sites with ChatGPT’s Creative Four Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/current-methods-incorporating-gpt-4-with-chatgpt/"><u>Current Methods: Incorporating GPT-4 with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/daily-dharma-with-technology-cultivating-zen-through-gpt/"><u>Daily Dharma with Technology: Cultivating Zen Through GPT</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-motorola-moto-e13-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Moto E13 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dynamic-interactions-chatgpt-meets-crypto-world/"><u>Dynamic Interactions: ChatGPT Meets Crypto World</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expertise-in-format-switching-srt-to-advanced-standards-for-2024/"><u>Expertise in Format Switching SRT to Advanced Standards for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/i-top-8-migliori-programmi-di-riparazione-fotografica-aperti-source-con-algoritmo-ia/"><u>I Top 8 Migliori Programmi Di Riparazione Fotografica Aperti Source Con Algoritmo IA</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-asus-rog-phone-7-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Asus ROG Phone 7? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-googles-breakthrough-introduction-to-palm-2-model/"><u>Inside Google's Breakthrough: Introduction to PaLM 2 Model</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-pixma-mx922-driver-updates-for-windows-users-installation-tutorial/"><u>Latest Canon PIXMA MX922 Driver Updates for Windows Users: Installation Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/refining-chatgpts-writing-to-your-unique-essence/"><u>Refining ChatGPT's Writing to Your Unique Essence</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-xiaomi-redmi-a2plus-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Xiaomi Redmi A2+ Phones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/topline-numbers-pewdiepies-yearly-income/"><u>Topline Numbers PewDiePie's Yearly Income</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-anthropics-revolutionary-prompt-library/"><u>Unveiling Anthropic's Revolutionary Prompt Library</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-innovation-made-simple-with-chatgpt-integration/"><u>Web Innovation Made Simple with ChatGPT Integration</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover an Unforeseen and Incredibly Resourceful New Addition to Your Smart Home Setup – ZDNet's Top Pick!
-date: 2024-09-17 14:43:33
-updated: 2024-09-20 12:14:20
+date: 2024-10-12T00:54:52.108Z
+updated: 2024-10-14T17:48:49.379Z
 tags:
   - work-life
 categories:
@@ -35,6 +35,13 @@ This isn't the first Govee smart floor lamp; both of these lamps are successors 
 
 Both floor lamp models have similar designs. They're tall, thin floor lamps (without a lampshade or bulb at the top obviously) and a wide illuminated base that holds the lamp's mechanism. The thin 60-inch metal post that forms the lamp's core holds the silicone strip light, which acts as the main light source. These lamps are best positioned in a corner so that the light creates an ambient glow.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Govee Floor Lamp 2
 
 While the Govee Floor Lamp 2 doesn't have a speaker base, it can react to music. 
@@ -48,6 +55,13 @@ Govee is marketing this Floor Lamp 2 as a perfect option for apartment dwellers 
 **Also: [This $80 smart air purifier has a clever design that makes it super effective](https://www.zdnet.com/home-and-office/kitchen-household/this-80-smart-air-purifier-has-a-clever-design-that-makes-it-super-effective/)**
 
 Its sleek black design matches our decor, and the base is attractive. It has a black glass finish at the top and clear on the bottom, with a gradient to make the base's light colors pop. With Matter support, the Govee Floor Lamp 2 connects easily with your existing smart home automation system, from Amazon Alexa to Apple HomeKit. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Govee Floor Lamp Pro
 
@@ -77,6 +91,13 @@ This turned out to be one of my favorite features since I don't like just having
 
 As a floor lamp, this device is very functional; it can go up to 2100 lumens in brightness, though it should always face a wall where the light can reflect. While the Govee Floor Lamp Pro doesn't support Matter at launch, it's slated to be available with Matter support later in 2024\. The Govee Floor Lamp Pro goes on sale on April 22nd for $220\. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The new [Govee Floor Lamp 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGovee-Matter-1725lm-Control-Bedroom%2Fdp%2FB0CTH2QF23%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef7d8bf0-bf10-44b1-831d-8c0d8fd09b44%7Cdtp&dtb=1) and Govee Floor Lamp Pro are pretty solid smart floor lamps – both perform as expected and work smoothly with Alexa and the Govee app. Both lamps must face a wall for the light to reflect and illuminate a room effectively, so I find a corner is the best spot to put them in. Just note that these Govee floor lamps aren't meant to go over a reading chair as they won't work effectively. 
@@ -104,11 +125,27 @@ If I could only choose one, I'd be more inclined to add the Govee Floor Lamp 2 t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-best-10-camera-lenses-to-use/"><u>[Updated] Best 10 Camera Lenses to Use</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-never-a-cap-on-saved-instagram-stories/"><u>[Updated] In 2024, Never a Cap on Saved Instagram Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-vs-fortune-tellers-which-shines-light-on-tomorrow/"><u>AI Vs. Fortune-Tellers: Which Shines Light on Tomorrow?</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-asus-rog-phone-8-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Asus ROG Phone 8 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-browser-addons-for-secure-gpt-interaction/"><u>Evaluating Browser AddOns for Secure GPT Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-mind-of-gpt-the-code-that-powers-dialogue/"><u>Inside the Mind of GPT: The Code That Powers Dialogue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-trends-on-toms-hardware-guide/"><u>Navigating New Tech Trends on Tom's Hardware Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/physical-theatre/"><u>Physical Theatre</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/royale-royalty-leading-gaming-showdowns/"><u>Royale Royalty Leading Gaming Showdowns</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-ai-chat-expertise-gpt-versus-bings-bot/"><u>Unraveling AI Chat Expertise: GPT versus Bing's Bot</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-windows-bluetooth-connection-with-the-newest-microsoft-drivers-for-win-111087/"><u>Update Your Windows' Bluetooth Connection with the Newest Microsoft Drivers (For Win 11/10/8/7)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-infinix-note-30i-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Infinix Note 30i? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/winning-over-win11-launch-problems-success-stories-inside/"><u>Winning Over Win11 Launch Problems - Success Stories Inside!</u></a></li>
+</ul></div>
+

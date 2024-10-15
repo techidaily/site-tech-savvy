@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing Screen Shots on Dell, Lenovo, and Mac Computers - SEO Tips for Windows & macOS"
-date: 2024-09-17 22:13:25
-updated: 2024-09-20 11:16:18
+date: 2024-10-08T03:21:33.964Z
+updated: 2024-10-14T20:57:02.114Z
 tags:
   - work-life
 categories:
@@ -31,7 +31,21 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: The old fashioned way**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -55,6 +69,13 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
@@ -72,6 +93,13 @@ Michael Gariffo/ZDNET
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
 
@@ -92,6 +120,13 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 ### What's a good, free image editing software to use on my screenshots? 
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot? 
 
@@ -123,11 +158,25 @@ There's a few reasons why things can look strange in your screenshots. Animated 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-how-to-for-navigating-old-features-on-fb-mobilepc-for-2024/"><u>[New] The Ultimate How-To for Navigating Old Features on FB, Mobile/PC for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-greenhouse-gatherings-the-best-farm-titles-for-group-joy/"><u>[Updated] Greenhouse Gatherings The Best Farm Titles for Group Joy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-exclusive-templates-for-tiktok-backdrops/"><u>[Updated] Unveiling Exclusive Templates for TikTok Backdrops</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-cutting-edge-recording-facing-screen-first/"><u>2024 Approved Cutting Edge Recording - Facing Screen First</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-effective-methods-to-access-and-utilize-the-gpeditmsc-open-group-policy-editor-on-windows-10/"><u>5 Effective Methods to Access and Utilize the gpedit.msc Open Group Policy Editor on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-windows-11-creators-update-uncovering-new-features-with-insider-preview-build-1503/"><u>A Deep Dive Into Windows 11 Creator’s Update: Uncovering New Features with Insider Preview Build 1503</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-changing-your-username-in-windows-11/"><u>A Step-by-Step Guide: Changing Your Username in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-world-of-audio-clarity-with-dts-digital-surround-sound-the-ultimate-guide/"><u>Discover the World of Audio Clarity with DTS Digital Surround Sound - The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-display-link-experience-update-to-the-most-recent-drivers-on-windows-7-8-and-10/"><u>Enhance Your Display Link Experience - Update to the Most Recent Drivers on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808324185-fortnite-is-blocked-at-your-school-heres-how-to-unblock-it/"><u>Fortnite Is Blocked at Your School? Here’s How to Unblock It.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-family-sharing-hurdles-with-these-six-effective-strategies/"><u>Overcome Family Sharing Hurdles with These Six Effective Strategies</u></a></li>
+</ul></div>
+

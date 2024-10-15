@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Features: A Guide to LibreOffice's Innovative Page Numbering Tool"
-date: 2024-09-18 22:17:46
-updated: 2024-09-20 10:44:53
+date: 2024-10-13T10:48:27.815Z
+updated: 2024-10-14T21:02:31.946Z
 tags:
   - work-life
 categories:
@@ -55,9 +55,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 To find out which version you're using, open LibreOffice, click Help > About LibreOffice, and verify the version number in the popup window. If you're using any release prior to 7.6, you'll need to upgrade.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open LibreOffice
 
 The first thing to do is open LibreOffice Writer. If you already have a document that needs page numbers, open that document. If you don't have a previously created document, you can start with a blank one. Either way, adding page numbers is the same process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Open the Page Number Wizard
 
@@ -66,6 +80,13 @@ To open the Page Number Wizard, click Insert > Page Number.
 The Page Number option lives near the bottom part of the menu.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Configure your page numbers
 
@@ -104,11 +125,31 @@ If you're curious about what other new features have been added to the [LibreOff
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-fastest-way-to-scan-windows-files/"><u>[New] 2024 Approved The Fastest Way to Scan Windows Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-how-to-save-and-archive-google-voice-chats/"><u>[Updated] 2024 Approved How to Save and Archive Google Voice Chats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-high-speed-race-replicas-our-top-picks/"><u>[Updated] In 2024, High-Speed Race Replicas Our Top Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-top-american-vpn-services-offering-free-trials-enhance-online-security/"><u>5 Top American VPN Services Offering FREE Trials – Enhance Online Security</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726221830817-20/"><u>優選影片剪接工具20款: 消除水波紋，不用付錢</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-peeking-at-public-posts-on-instagram-without-registering/"><u>A Beginner's Guide to Peeking at Public Posts on Instagram without Registering</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-gaming-experience-with-latest-nvidia-graphics-driver-update-on-windows-10/"><u>Boost Gaming Experience with Latest NVIDIA Graphics Driver Update on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bust-the-puzzle-of-monitor-ghosting-straightforward-solutions-infographic/"><u>Bust the Puzzle of Monitor Ghosting: Straightforward Solutions [Infographic]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-wav-to-mp3-with-audials-one-easily-and-quickly/"><u>Convert WAV to MP3 with Audials One Easily & Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-guide-how-to-easily-install-directx-12-on-your-windows-10-system/"><u>Download Guide: How to Easily Install DirectX 12 on Your Windows 10 System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-methods-to-detect-and-enumerate-software-on-your-windows-pc/"><u>Easy Methods to Detect and Enumerate Software on Your Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-ways-to-track-cpu-temps-under-windows-11-operating-system/"><u>Easy Ways to Track CPU Temps Under Windows 11 Operating System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-gameplay-experience-by-correcting-second-monitor-lag-on-your-windows-device/"><u>Enhancing Gameplay Experience by Correcting Second Monitor Lag on Your Windows Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-incorporating-film-into-lessons/"><u>In 2024, Mastering the Art of Incorporating Film Into Lessons</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-gaming-performance-with-the-havit-5-laptop-fan-cooler-reviewed-here/"><u>Maximize Your Gaming Performance with the HAVIT 5 Laptop Fan Cooler Reviewed Here</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-meme-generation-made-easy-top-10-apps-for-android-and-ios-for-2024/"><u>New Meme Generation Made Easy Top 10 Apps for Android & iOS for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/will-you-pay-to-keep-your-pc-updated-microsoft-reveals-plans-for-charging-windows-10-updates-in-year-what-it-could-cost-you-zdnet-news/"><u>Will You Pay to Keep Your PC Updated? Microsoft Reveals Plans for Charging Windows 10 Updates in [Year], What It Could Cost You | ZDNET News</u></a></li>
+</ul></div>
+

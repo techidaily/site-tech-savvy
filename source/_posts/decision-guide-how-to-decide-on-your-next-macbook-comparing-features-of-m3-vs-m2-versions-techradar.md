@@ -1,7 +1,7 @@
 ---
 title: "Decision Guide: How to Decide on Your Next MacBook - Comparing Features of M3 Vs. M2 Versions | TechRadar"
-date: 2024-10-06T04:07:54.644Z
-updated: 2024-10-09T03:18:13.049Z
+date: 2024-10-10T10:13:36.834Z
+updated: 2024-10-15T05:06:05.377Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,24 +134,16 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-decoding-the-secret-of-highest-quality-youtube-mp3s/"><u>[New] 2024 Approved Decoding the Secret of Highest Quality YouTube MP3s</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-embrace-the-pause-button-3-techniques-for-decelerating-youtube-video-playback-59-chars-slight-overage-with-rich-content-justification/"><u>[New] 2024 Approved Embrace the Pause Button 3 Techniques for Decelerating YouTube Video Playback (59 Chars, Slight Overage with Rich Content Justification)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-from-social-media-videos-to-audible-mp3s-one-click-conversion/"><u>[Updated] From Social Media Videos to Audible MP3s - One Click Conversion</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-sierra-users-meet-the-future-of-video-editing-tools-for-2024/"><u>[Updated] Sierra Users, Meet the Future of Video Editing Tools for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-uncovering-expert-video-making-talents/"><u>[Updated] Uncovering Expert Video Making Talents</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2-a-closer-look-at-windows-movie-makers-journey-through-highs-and-lows-the-2024-update-breakdown/"><u>2. A Closer Look at Windows Movie Maker's Journey Through Highs and Lows - The 2024 Update Breakdown</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/busting-the-glitch-a-guide-to-getting-your-fifa-21-game-running-smoothly/"><u>Busting the Glitch: A Guide to Getting Your FIFA 21 Game Running Smoothly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/come-download-gratuito-freemaker-percorso-di-installazione-per-mac/"><u>Come Download Gratuito FreeMaker Percorso Di Installazione per Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/como-descargar-videos-de-youtube-como-mp4-sin-coste-los-9-mas-efectivos-para-su-dispositivo/"><u>Cómo Descargar Videos De YouTube Como MP4 Sin Coste: Los 9 Más Efectivos Para Su Dispositivo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/como-transformar-archivos-de-audio-wav-a-formato-mp3-sin-costo-alguno-con-herramientas-en-linea/"><u>Cómo Transformar Archivos De Audio WAV a Formato MP3 Sin Costo Alguno Con Herramientas en Línea</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convert-videos-into-wmv-format-easily-with-these-3-methods-free-software-options-and-web-services/"><u>Convert Videos Into WMV Format Easily with These 3 Methods: Free Software Options & Web Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/converti-file-video-3gp-in-formato-audio-libero-m4a-con-movavi/"><u>Converti File Video 3GP in Formato Audio Libero M4A Con Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-compress-videos-for-easy-sharing-on-whats-app-pc-online-or-mobile-guide/"><u>How to Compress Videos for Easy Sharing on What's App: PC, Online or Mobile Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-itel-p40plus-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Itel P40+ FRP?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/les-apps-de-diapositives-les-plus-performantes-sur-ios-et-android-un-top-10-comparatif/"><u>Les Apps De Diapositives Les Plus Performantes Sur iOS Et Android : Un Top 10 Comparatif</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/meilleures-capteurs-decrans-compatibles-avec-nimporte-quel-appareil-critiques-top-13-par-movavi/"><u>Meilleures Capteurs D’Écrans Compatibles Avec N'importe Quel Appareil | Critiques Top 13 Par Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolved-fixes-for-intermittent-stoppage-in-samsung-dvd-player-during-movie-viewing/"><u>Resolved: Fixes for Intermittent Stoppage in Samsung DVD Player During Movie Viewing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-pick-5-premier-software-solutions-for-on-screen-drawing-and-animation/"><u>Ultimate Pick: 5 Premier Software Solutions for On-Screen Drawing & Animation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-experts-blueprint-boosting-income-via-vimeo-advertising/"><u>[New] The Expert's Blueprint Boosting Income via Vimeo Advertising</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-reviews-by-tom-your-trusted-source/"><u>Advanced Gadget Reviews by Tom: Your Trusted Source</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-ai-dependence-for-financial-data-study/"><u>Debunking AI Dependence for Financial Data Study</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-risks-with-chatgpt-mobile-apps/"><u>Exploring the Risks with ChatGPT Mobile Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hands-on-analysis-of-the-latest-samsung-galaxy-budsplus/"><u>Hands-On Analysis of the Latest Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/journey-redefined-chatbot-wisdom-in-car-customization-processes/"><u>Journey Redefined: Chatbot Wisdom in Car Customization Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proactive-leaders-embracing-5-breakthrough-artificial-intelligence-tech/"><u>Proactive Leaders: Embracing 5 Breakthrough Artificial Intelligence Tech</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/boundaries-with-unique-split-screen-videos-for-youtube/"><u>Push Boundaries with Unique Split-Screen Videos for YouTube</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-fit-analysis-the-ultimate-gadget-for-fitness-enthusiasts/"><u>Samsung Galaxy Fit Analysis: The Ultimate Gadget for Fitness Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-development-journey-with-a-chatgpt-web-app/"><u>Streamline Your Development Journey with a ChatGPT Web App</u></a></li>
 </ul></div>
 

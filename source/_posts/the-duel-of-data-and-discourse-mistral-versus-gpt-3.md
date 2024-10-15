@@ -1,7 +1,7 @@
 ---
 title: "The Duel of Data and Discourse: Mistral Versus GPT-3"
-date: 2024-10-02T05:48:20.463Z
-updated: 2024-10-09T02:50:56.362Z
+date: 2024-10-07T21:48:41.407Z
+updated: 2024-10-15T00:24:54.217Z
 tags:
   - chatgpt
   - open-ai
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 * [Le Chat vs. ChatGPT: Programming Skills](https://versadesk.pxf.io/xyboxx)
 * [Le Chat vs. ChatGPT: Common Sense and Logical Reasoning](https://ukaidot.sjv.io/daqnoj)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Le Chat, an AI chatbot by Mistral AI, shows promise but lags behind ChatGPT in creativity and programming skills.
@@ -48,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 
  But is this fledgling AI chatbot really worth the title? Is Mistral's Le Chat better than ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Mistral AI's Le Chat?
 
  Le Chat is a conversational AI chatbot developed by French AI startup Mistral AI. It is powered by several Mistral-owned large language models, including Mistral Large, Mistral Small, and Mistral Next, all of which you can choose to use when interacting with the AI chatbot. Although it is a relatively new entrant in the AI chatbot space, it is rated highly because of the performance of its AI models despite their smaller size when compared to industry heavyweights like Gemini and GPT-4\.
@@ -60,6 +60,19 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 
  I've been wondering the same, and to find out, I tested Le Chat extensively to see how it compares to ChatGPT.
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Le Chat vs. ChatGPT: Creativity
 
  Creativity is one of the most important metrics for judging the performance of a conversational AI chatbot. Remember, the purpose of an AI chatbot is to replicate or mimic the conversational abilities and creative flair of humans at scale. This makes creativity a very important strength for any AI chatbot. The world has experimented with ChatGPT for over a year, and its creative abilities are undeniable. But how does Le Chat compare? We put both chatbots to a series of creativity tests.
@@ -69,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
  Here's how ChatGPT would describe itself to an artist:
 
 ![ChatGPT describes itself-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-describes-itself-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And here's how Le Chat would describe itself as well:
 
@@ -88,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
  Here's ChatGPT's response:
 
 ![ChatGPT writes rap about cocumbers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-rap-about-cocumbers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And here's Le Chat's response:
 
@@ -110,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
  I tried a few other creative tasks, like poems, article writing, and drafting tricky work emails with the AI chatbots. Despite showing great promise, Le Chat was clearly outdone by ChatGPT in all instances. It's important to point out that one area Le Chat was particularly strong in was crafting articles, although with some tricky prompting styles. However, in terms of all-round creativity, the medal goes to ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Le Chat vs. ChatGPT: Programming Skills
@@ -133,10 +146,16 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
  I repeated a few more programming tests involving finding and fixing bugs, and ChatGPT consistently outperformed Le Chat. In some instances, Le Chat didn't even know what it was supposed to do. There's a good chance Le Chat can measure up to ChatGPT in some areas, but coding skills don't seem to be one of them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Le Chat vs. ChatGPT: Common Sense and Logical Reasoning
@@ -165,13 +184,6 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 
 ![Le Chat Mistral answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-answers-trick-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I tried more trick questions, and it seemed both ChatGPT and Le Chat are quite adept at dealing with commonsense and logical reasoning prompts. However, with more complex logic questions, only ChatGPT could provide the right responses.
 
  While Le Chat has generated some buzz as a potential "ChatGPT killer," our testing shows it still has growing to do before it can truly go toe-to-toe with the heavyweights of the AI chatbot world. Though Le Chat demonstrated impressive capabilities in areas like common sense reasoning, its creative output and coding skills lagged noticeably behind ChatGPT. The French AI upstart certainly shows promise, but the hype machine may be getting a little ahead of itself.
@@ -195,24 +207,20 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-step-by-step-tutorial-for-capturing-excellent-igtv-footage/"><u>[New] In 2024, A Step-by-Step Tutorial for Capturing Excellent IGTV Footage</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-essential-submarine-cinematography-tools-for-gopro/"><u>[Updated] 2024 Approved Essential Submarine Cinematography Tools for Gopro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-fast-techniques-to-restructure-your-youtube-sequence/"><u>[Updated] Fast Techniques to Restructure Your YouTube Sequence</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unleash-timeliness-iphone-slow-motion-filming/"><u>[Updated] Unleash Timeliness IPhone Slow Motion Filming</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2019-amazon-kindle-analysis-high-quality-e-reader-at-a-budget-friendly-cost/"><u>2019 Amazon Kindle Analysis: High-Quality E-Reader at a Budget-Friendly Cost</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-prompt-innovation-and-its-impact-on-sustainable-jobs/"><u>AI Prompt Innovation & Its Impact on Sustainable Jobs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/debunking-lies-no-win-chatgpt-version-is-malware/"><u>Debunking Lies: No, Win ChatGPT Version Is Malware</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-perks-and-pitfalls-of-chatgpt-pro/"><u>Decoding the Perks & Pitfalls of ChatGPT Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-how-these-5-mobile-apps-can-help-you-build-lasting-connections/"><u>Discover How These 5 Mobile Apps Can Help You Build Lasting Connections</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/do-users-play-a-role-in-shaping-chatgpts-intelligence/"><u>Do Users Play a Role in Shaping ChatGPT's Intelligence?</u></a></li>
-<li><a href="https://win11.techidaily.com/easing-up-on-windows-update-troubles-defeating-0x800736cc/"><u>Easing Up on Windows Update Troubles: Defeating 0X800736CC</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-cod-black-ops-4-experience-by-eliminating-fps-drops/"><u>Enhance Your COD Black Ops 4 Experience by Eliminating FPS Drops</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-videography-the-leading-screen-recorder-apps/"><u>Essential Videography The Leading Screen Recorder Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-for-fictional-worldbuilding/"><u>How to Use ChatGPT for Fictional Worldbuilding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/isolating-linguistic-tech-from-machine-learning-systems/"><u>Isolating Linguistic Tech From Machine Learning Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-canva-and-chatgpt-for-large-scale-creation/"><u>Leveraging Canva & ChatGPT for Large-Scale Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-intersection-of-human-and-machine-best-practices-for-writers/"><u>Navigating the Intersection of Human and Machine: Best Practices for Writers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-integrating-nvidias-ai-chatbot/"><u>Step-by-Step: Integrating Nvidia’s AI Chatbot</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-video-file-management-in-adobe-premiere-import-edit-and-export-like-a-pro/"><u>Updated In 2024, Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-broadcasting-fb-movies-on-whatsapp-for-2024/"><u>[New] Broadcasting FB Movies on WhatsApp for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamless-gamewatching-unlock-nba-livestream-top-15-hacks/"><u>[New] Seamless Gamewatching Unlock NBA Livestream (Top 15 Hacks)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-small-scale-startups-guide-to-trustworthy-video-tools/"><u>[New] Small-Scale Startups' Guide to Trustworthy Video Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-5-excellent-gaming-keyboards-within-a-100-budget/"><u>[Updated] In 2024, 5 Excellent Gaming Keyboards Within a $100 Budget</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-cutting-edge-techniques-recording-in-adobe-presenter/"><u>2024 Approved Cutting Edge Techniques Recording in Adobe Presenter</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-vdsc-vidmaster-tale-a-comprehensive-evaluation/"><u>2024 Approved VDSC VidMaster Tale A Comprehensive Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-ai-dialogue-keywords-for-the-tech-savvy/"><u>Demystifying AI Dialogue: Keywords for the Tech-Savvy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embrace-innovative-writing-hixplusgpt-4-combo/"><u>Embrace Innovative Writing: HIX+GPT-4 Combo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-job-search-techniques-through-chatgpt/"><u>Enhancing Job Search Techniques Through ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-personalized-conversations-the-ultimate-guide-to-crafted-gpt-instructions/"><u>Enhancing Personalized Conversations: The Ultimate Guide to Crafted GPT Instructions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/polyglot-paradise-learn-languages-through-vr-experiences/"><u>Polyglot Paradise: Learn Languages Through VR Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-education-with-chatgpt-top-5-applications-in-the-schooling-space/"><u>Redefining Education with ChatGPT: Top 5 Applications in the Schooling Space</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dilemma-of-aligning-artificial-intelligence/"><u>The Dilemma of Aligning Artificial Intelligence</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-unequal-airpod-loudness-understanding-the-cause-and-implementing-these-four-solutions/"><u>Troubleshooting Unequal AirPod Loudness: Understanding The Cause & Implementing These Four Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-s-best-video-editing-software-for-hd-videos-for-2024/"><u>Updated S Best Video Editing Software for HD Videos for 2024</u></a></li>
 </ul></div>
 

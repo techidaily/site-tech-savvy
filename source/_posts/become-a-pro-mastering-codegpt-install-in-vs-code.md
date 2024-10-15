@@ -1,7 +1,7 @@
 ---
 title: "Become a Pro: Mastering CodeGPT Install in VS Code"
-date: 2024-10-02T03:11:29.888Z
-updated: 2024-10-09T00:24:19.893Z
+date: 2024-10-10T22:46:22.456Z
+updated: 2024-10-15T06:27:50.178Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,19 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 
  Click on it and paste your API key on the prompt that appears. Save it by pressing **Enter**. Finally, reload VS Code to start using CodeGPT.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Generating Code With CodeGPT
 
  To demonstrate the CodeGPT code generation feature, you will create a calculator app using Python.
@@ -78,22 +91,16 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 
 ![CodeGPT chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-chat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then input your request and click **Send**. In this case, the request is for a simple calculator. CodeGPT will process your request and generate your code in the chat window.
 
 ![CodeGPT code generation in the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-code-generation-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click on the "insert code" arrow to automatically paste the code into your script. As you can see, this method is more tidy. The generated code is as shown below:
 
@@ -130,31 +137,24 @@ else:
 
  When you run the code it works correctly. With just a single prompt, you were able to create a simple calculator.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Refactoring Your Code With CodeGPT
 
  To refactor your code, select the code that you want to refactor, then right-click on it and select **Refactor CodeGPT**. In the **Refactor CodeGPT** dialog box, enter your prompt describing the refactoring that you want to perform. For example, you could enter "refactor this code to use [a for loop](https://www.makeuseof.com/learn-for-loops-in-python/) instead of [a while loop](https://www.makeuseof.com/learn-while-loop-in-python/)".
 
  CodeGPT will generate new code that implements the requested refactoring.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Explaining Your Code With CodeGPT
 
  To explain your code, select the code that you want CodeGPT to explain. Then right-click on the highlighted code and select the **Explain CodeGPT** option.
 
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  CodeGPT will explain what the code does on the chat window.
 
@@ -185,10 +185,10 @@ def divide(x, y):
  These are clear and correct inline comments.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Understanding How Generative AI Works
@@ -214,17 +214,18 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-getting-it-just-right-the-art-of-social-media-video-dimensions/"><u>[New] In 2024, Getting It Just Right The Art of Social Media Video Dimensions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-tailoring-talent-to-treasure-the-proactive-pursuit-of-video-profitability-for-2024/"><u>[Updated] Tailoring Talent to Treasure The Proactive Pursuit of Video Profitability for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-guide-to-top-6-creative-mojave-dwellings-for-2024/"><u>[Updated] Ultimate Guide to Top 6 Creative Mojave Dwellings for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-snapsplit-scrutiny/"><u>2024 Approved SnapSplit Scrutiny</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-new-chief-raises-gpt-questions/"><u>AI's New Chief Raises GPT Questions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/comprehensive-audio-cleanse-kit-windows-and-os-x-supported-2024-enhanced-model/"><u>Comprehensive Audio Cleanse Kit Windows and OS X Supported (2024 Enhanced Model)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-group-interaction-in-virtual-setups-via-gpt/"><u>Enhancing Group Interaction in Virtual Setups via GPT</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-t2-pro-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-jobs-threatened-professional-predictions/"><u>GPT Jobs Threatened: Professional Predictions?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-paperclip-algorithms-and-artificial-intelligence/"><u>The Intersection of Paperclip Algorithms & Artificial Intelligence</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-xiaomi-13-ultra-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Xiaomi 13 Ultra Phones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-critical-look-at-irecorders-screenshot-tech-for-2024/"><u>[New] A Critical Look at iRecorder's Screenshot Tech for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-transform-your-streams-adopting-these-four-recording-approaches/"><u>[Updated] 2024 Approved Transform Your Streams Adopting These Four Recording Approaches</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-mastery-showdown-same-prompt-different-bots/"><u>AI's Mastery Showdown: Same Prompt, Different Bots</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/behind-the-scenes-of-iphones-audio-alteration-techniques-for-2024/"><u>Behind the Scenes of iPhone's Audio Alteration Techniques for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-constraints-the-impermissible-questions-list/"><u>ChatGPT's Constraints: The Impermissible Questions List</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ient-ways-to-clean-your-youtube-watch-later-playlist/"><u>Efficient Ways to Clean Your YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fact-checking-health-advice-navigating-chatgpt-and-ai-sources-for-truthful-information/"><u>Fact-Checking Health Advice: Navigating ChatGPT and AI Sources for Truthful Information</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/goovision-chromium-captures-on-screen-for-2024/"><u>GooVision Chromium Captures On-Screen for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-scholarly-essays/"><u>Leveraging ChatGPT for Scholarly Essays</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nostalgia-in-your-palm-handhenas-and-hardware-hacks/"><u>Nostalgia in Your Palm: Handhenas and Hardware Hacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/syntax-spectacle-chatgpt-versus-googles-game/"><u>Syntax Spectacle: ChatGPT Versus Google's Game</u></a></li>
 </ul></div>
 

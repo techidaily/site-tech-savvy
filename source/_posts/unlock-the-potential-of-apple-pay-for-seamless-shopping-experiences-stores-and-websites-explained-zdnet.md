@@ -1,7 +1,7 @@
 ---
 title: Unlock the Potential of Apple Pay for Seamless Shopping Experiences - Stores and Websites Explained | ZDNet
-date: 2024-10-05T03:55:15.153Z
-updated: 2024-10-09T05:05:34.560Z
+date: 2024-10-11T11:55:56.453Z
+updated: 2024-10-14T17:05:09.921Z
 tags:
   - apple
 categories:
@@ -45,6 +45,13 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -61,10 +68,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -74,10 +81,10 @@ Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
@@ -135,10 +142,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -170,13 +177,6 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -212,18 +212,21 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-unveiling-youtubes-hidden-gems-the-comment-space/"><u>[New] Unveiling YouTube's Hidden Gems The Comment Space</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-avoiding-the-common-path-the-route-to-unique-streamer-identities/"><u>[Updated] 2024 Approved Avoiding the Common Path The Route to Unique Streamer Identities</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-spectrum-signatures-filmmakers-guide-to-adjustment/"><u>2024 Approved Spectrum Signatures Filmmaker's Guide to Adjustment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/3-ways-to-use-chatgpts-wolfram-plugin/"><u>3 Ways to Use ChatGPT'S Wolfram Plugin</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-creative-uses-of-auto-gpt-technology/"><u>5 Creative Uses of Auto-GPT Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-reasons-against-using-generative-ai-in-messaging-apps/"><u>7 Reasons Against Using Generative AI in Messaging Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-the-transformative-shifts-from-gpt-35-to-gpt-4/"><u>A Deep Dive Into the Transformative Shifts From GPT-3.5 to GPT-4</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-honor-100-pro-frp-bypass-by-drfone-android/"><u>About Honor 100 Pro FRP Bypass</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/efficiently-coordinating-group-activities-via-zoom/"><u>Efficiently Coordinating Group Activities via Zoom</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/get-started-in-editing-videos-via-windows-11s-movie-maker/"><u>Get Started in Editing Videos via Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721424324203-introducing-openais-customizable-cutting-edge-gpt-stores/"><u>Introducing OpenAI's Customizable, Cutting-Edge GPT Stores</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-role-of-dissonant-harmonies-and-pacing-in-creating-film-music-suspense/"><u>New The Role of Dissonant Harmonies and Pacing in Creating Film Music Suspense</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721380229451-unmasking-deceptive-gpt-apps-protect-your-personal-info/"><u>Unmasking Deceptive GPT Apps: Protect Your Personal Info</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-laptop-friendly-tips-to-start-live-chats-with-whatsapp-desktop/"><u>[New] Laptop-Friendly Tips to Start Live Chats with WhatsApp Desktop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-best-camera-apps-for-iphone-x88-plus7-7-plus-free-and-paid-for-2024/"><u>10 Best Camera Apps for iPhone X/8/8 Plus/7/ 7 Plus - Free & Paid for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-creating-compelling-youtube-live-content-with-wirecast/"><u>2024 Approved Creating Compelling Youtube Live Content with WireCast</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y17s-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726223663865-movavimxfwmv/"><u>無料でMovaviを使って、オンラインでMXF形式をWMVに変換 - フリー・ヴィデオコンバータ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alternatives-to-chatgpt-7-tools-for-programming-efficiency/"><u>Alternatives to ChatGPT: 7 Tools for Programming Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-claude-3-and-its-potential/"><u>Demystifying Claude 3 and Its Potential</u></a></li>
+<li><a href="https://win11.techidaily.com/end-session-of-unknown-windows-users-effectively/"><u>End Session of Unknown Windows Users Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-tech-for-developing-habitual-inner-peace-practices/"><u>GPT-Tech for Developing Habitual Inner Peace Practices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-infuses-bing-with-advanced-ai/"><u>Microsoft Infuses Bing With Advanced AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-as-a-professional-writer/"><u>Navigating ChatGPT as a Professional Writer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rapidly-increase-your-instagram-following-with-these-proven-strategies/"><u>Rapidly Increase Your Instagram Following with These Proven Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-ghostly-gpt-interactions/"><u>Reviving Ghostly GPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-ai-talks-in-chrome-here-are-7-tips/"><u>Revolutionize AI Talks in Chrome, Here Are 7 Tips</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-teamwork-platforms-of-2022-expert-reviews-and-comparisons/"><u>Top 5 Teamwork Platforms of 2022 - Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-visuals-10-must-try-text-upgrades-in-videos-for-2024/"><u>Transforming Visuals 10 Must-Try Text Upgrades in Videos for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Medical Misinformation Risks with Tech Assistance
-date: 2024-10-08T02:52:16.065Z
-updated: 2024-10-09T00:21:18.365Z
+date: 2024-10-11T09:40:36.929Z
+updated: 2024-10-14T17:10:29.885Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/c3a01c2ae3f81e16b541392d97981a23b54ae2c3a
 
  Therefore, it cannot get current news on developments in medical fields. Yes, ChatGPT is unaware of the pig-to-human heart transplant or any other very recent breakthroughs in medical science.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. ChatGPT May Produce Incorrect Information
 
  ChatGPT can answer the questions you ask, but the responses can be inaccurate or biased. According to a [PLoS Digital Health](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198) study, ChatGPT performed with at least 50% accuracy across all USMLE examinations. And while it exceeded the 60% passing threshold in some aspects, there is still the possibility of error.
@@ -53,28 +46,28 @@ thumbnail: https://thmb.techidaily.com/c3a01c2ae3f81e16b541392d97981a23b54ae2c3a
 
  Because ChatGPT cannot independently research or verify material, it cannot differentiate between fact and fiction. Respected medical journals, including the Journal of the American Medical Association (JAMA), have established strict regulations that only humans can write scientific studies published in the journal. As a result, [you should constantly fact-check ChatGPT's responses](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. ChatGPT Does Not Physically Examine You
 
  Medical diagnoses are not solely dependent on symptoms. Physicians can gain insights into the pattern and severity of an illness through a patient's physical examination. In order to diagnose patients, doctors today use both medical technologies and the five senses.
 
  ChatGPT cannot perform a complete virtual checkup or even a physical examination; it can only reply to the symptoms you provide as messages. For a patient's safety and care, errors in physical examination—or completely ignoring physical examination—can be harmful. Because ChatGPT didn't physically examine you, it will offer an incorrect diagnosis.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. ChatGPT Can Provide False Information
 
 ![ChatGPT False Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-response.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A recent study by the [University of Maryland School of Medicine](https://www.medschool.umaryland.edu/news/2023/UM-School-of-Medicine-Study-Finds-ChatGPT-Helpful-for-Breast-Cancer-Screening-Advice-With-Certain-Caveats-.html) on ChatGPT's advice for breast cancer screening found the following results:
@@ -85,18 +78,31 @@ thumbnail: https://thmb.techidaily.com/c3a01c2ae3f81e16b541392d97981a23b54ae2c3a
 
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. ChatGPT Is Just an AI Language Model
 
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Not a Replacement for Your Doctor
 
@@ -125,16 +131,15 @@ thumbnail: https://thmb.techidaily.com/c3a01c2ae3f81e16b541392d97981a23b54ae2c3a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/comparing-collective-vs-constrained-artificinas/"><u>Comparing Collective Vs. Constrained Artificinas</u></a></li>
-<li><a href="https://article-helps.techidaily.com/determining-maximum-videos-on-a-64gb-device-for-2024/"><u>Determining Maximum Videos on a 64GB Device for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-groks-purpose-through-musks-explanation-and-pricing-details/"><u>Discovering Grok's Purpose Through Musk's Explanation & Pricing Details</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/flow-rate-varies-with-system-pressure-unlike-the-constant-output-of-displacement-pumps/"><u>Flow Rate Varies with System Pressure, Unlike the Constant Output of Displacement Pumps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x9b-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor X9b Location by Number | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/human-touch-and-the-imperative-for-authentic-content/"><u>Human Touch and the Imperative for Authentic Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-effortless-transfer-facebook-videos-from-pcmac/"><u>In 2024, Effortless Transfer Facebook Videos From PC/Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-googles-visionary-approach-to-language-models-palm-2/"><u>Inside Google's Visionary Approach to Language Models: PaLM 2</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-22h2-windows-woes/"><u>Navigating Through 22H2 Windows Woes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/to-invest-or-not-in-minecraft-realms-a-cost-benefit-analysis/"><u>To Invest or Not in Minecraft Realms: A Cost-Benefit Analysis.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-and-mitigating-ai-generated-text-risks/"><u>Understanding and Mitigating AI-Generated Text Risks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-achieving-professional-skype-recordings-in-obs/"><u>[New] In 2024, Achieving Professional Skype Recordings in OBS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-initiate-social-media-exploration-with-a-new-twitter-for-2024/"><u>[Updated] Initiate Social Media Exploration with a New Twitter for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/8-premier-no-lag-screen-capture-tools/"><u>8 Premier No-Lag Screen Capture Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-phrozens-sonic-mega-8ks-resin-a-top-choice-for-advanced-printing-operations/"><u>In-Depth Review of Phrozen's Sonic Mega 8kS Resin: A Top Choice for Advanced Printing Operations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peeking-into-the-functionality-of-predictive-ai-tools/"><u>Peeking Into the Functionality of Predictive AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peering-into-cyberspaces-future-7-prediction-highlights/"><u>Peering Into Cyberspace's Future: 7 Prediction Highlights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/photo-wordsmithing-ios-and-androids-leading-caption-tools-for-2024/"><u>Photo Wordsmithing IOS and Android's Leading Caption Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-screen-recording-apps-explore-the-best-tools-by-movavi/"><u>Top 12 Screen Recording Apps: Explore the Best Tools by Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-secure-chat-with-gpt-via-vpn/"><u>Unlocking Secure Chat with GPT via VPN?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/when-virtual-meets-real-8-ai-innovations/"><u>When Virtual Meets Real: 8 AI Innovations</u></a></li>
 </ul></div>
 

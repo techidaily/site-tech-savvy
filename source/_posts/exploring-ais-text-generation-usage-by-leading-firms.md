@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI's Text Generation: Usage by Leading Firms"
-date: 2024-10-03T02:24:26.182Z
-updated: 2024-10-08T21:40:59.599Z
+date: 2024-10-12T16:43:08.175Z
+updated: 2024-10-15T01:10:23.985Z
 tags:
   - chatgpt
   - open-ai
@@ -40,16 +40,16 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
  But generative AI search aims to use that kind of output generation to replace all, or most, of the currently searched queries through regular search engines. And it aims to do a lot more. It's, essentially, putting the capabilities of ChatGPT, and all its power, at the fingertips of most regular users.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Is Generative AI Search Different From Regular Search?
 
 ![openai chatgpt logo on code background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/openai-chatgpt-logo-on-code-background-feature.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are a few ways in which generative AI search is vastly different from regular search.
 
@@ -62,22 +62,21 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
  It has a few challenges ahead, and it might not replace regular search engines entirely as they will still have their purpose, but it might become a nice compliment that will make them way more useful whenever the technology is mature and released.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Companies Are Using Generative AI Search?
 
 ![microsoft building with logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-building.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Right now, the generative AI search battle is being fought between Google and Microsoft.
 
@@ -87,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
  Google, on the other hand, is also coming up with new AI features of its own. Google launched its [ChatGPT-like chatbot called Bard](http://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) , but eventually, the company wants to bring AI features into its main products as well. This includes the company's regular search experience, where AI-generated answers will complement, not replace, regular search results.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Will I Be Able to Use Generative AI Search?
 
  Right now, you're able to play around with ChatGPT. It's been doing some amazing things, and [you can ask it to come up with answers to your questions](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) now. It has a few limitations—it is, of course, a product in testing, its data range is limited to the end of 2021 (at the time of writing), and it might occasionally say inaccurate or false things. But it's a fun product to play around with.
@@ -94,16 +100,16 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
  As for actual AI-powered search engines, you can now join the waitlist for "the new Bing" at Microsoft's website. As for Google, there's no waitlist, but the company might eventually open up its work on AI sometime over the next few months.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generative AI Search is Great
@@ -125,19 +131,19 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-effortless-preservation-of-your-loved-instagram-reels/"><u>[New] Effortless Preservation of Your Loved Instagram Reels</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-record-and-save-with-zero-cost-on-android-devices/"><u>[New] In 2024, Record & Save with Zero Cost on Android Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-masterful-motivational-webcast-maker-for-2024/"><u>[New] Masterful Motivational Webcast Maker for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pixiz-techniques-to-fuse-images-and-movement-seamlessly/"><u>[New] Pixiz Techniques to Fuse Images and Movement Seamlessly</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-beyond-expression-understanding-snapchat-emojis-deeply/"><u>[Updated] 2024 Approved Beyond Expression Understanding Snapchat Emojis Deeply</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-convert-flawlessly-leading-software-for-high-res-videos-for-2024/"><u>[Updated] Convert Flawlessly Leading Software for High-Res Videos for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-surging-upstream-in-the-youtube-subscriber-pool/"><u>2024 Approved Surging Upstream in the YouTube Subscriber Pool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cambia-file-mmf-a-mp3-online-e-gratuitamente-con-movavi-trasforma-i-tuoi-file-musica/"><u>Cambia File MMF a MP3 Online E Gratuitamente Con Movavi - Trasforma I Tuoi File Musica</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversion-gratuite-du-fichier-aif-au-format-mp4-sur-linternet-movavi/"><u>Conversion Gratuite Du Fichier AIF Au Format MP4 Sur L'Internet - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-top-6-best-video-stitching-tools-of-2024-compare-leading-options-on-android-and-ios-with-movavis-expert-list/"><u>Discover the Top 6 Best Video Stitching Tools of 2024: Compare Leading Options on Android & iOS with Movavi's Expert List</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-v29-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo V29 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/os-melhores-programas-de-producao-musica-digital-para-pc-e-mac-descoberta-das-opcoes-principais/"><u>Os Melhores Programas De Produção Musica Digital Para PC E MAC Descoberta Das Opções Principais</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trouvez-les-sites-les-plus-securises-et-legaux-pour-telecharger-des-jeux-gratuits-sur-ordinateur-notre-top-10/"><u>Trouvez Les Sites Les Plus Sécurisés Et Légaux Pour Télécharger Des Jeux Gratuits Sur Ordinateur - Notre Top 10!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/m4v-jpgpng/"><u>오늘날의 원격 모바일용 M4V를 JPG/PNG로 전환하는 가장 좋은 방법</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-turn-off-youtube-preview-in-one-easy-step-guide/"><u>[New] 2024 Approved Turn Off YouTube Preview in One Easy Step Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-webcam-recording-guide-for-hp-and-chromebook-users/"><u>[Updated] In 2024, Webcam Recording Guide for HP & Chromebook Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-perfecting-the-science-of-converting-speech-to-text-with-google-for-2024/"><u>[Updated] Perfecting the Science of Converting Speech to Text with Google for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-screen-mastery-for-premier-pro-users/"><u>2024 Approved Full Screen Mastery for Premier Pro Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieving-optimal-health-through-chatgpt-strategies/"><u>Achieving Optimal Health Through ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-glossary-simplified-essential-terms-for-all-scales/"><u>AI Glossary Simplified: Essential Terms for All Scales</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-is-gemini-more-effective-than-chatgpt/"><u>AI Showdown: Is Gemini More Effective Than ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-between-human-and-machine-writing/"><u>Bridging the Gap Between Human and Machine Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/facilitating-online-discussions-with-ai-powered-tools/"><u>Facilitating Online Discussions with AI-Powered Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Passcode without Computer?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-identify-10-shadowy-instagram-story-observers/"><u>In 2024, Identify 10 Shadowy Instagram Story Observers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-combining-multiple-iphone-photos/"><u>The Art of Combining Multiple iPhone Photos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-fcp-safety-net-saving-and-backing-up-your-projects/"><u>Updated The Ultimate FCP Safety Net Saving and Backing Up Your Projects</u></a></li>
 </ul></div>
 

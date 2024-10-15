@@ -1,7 +1,7 @@
 ---
 title: Groundbreaking Dialogue Strategies with AI
-date: 2024-10-05T23:49:24.761Z
-updated: 2024-10-09T03:42:25.363Z
+date: 2024-10-12T09:43:40.423Z
+updated: 2024-10-15T02:29:17.088Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/cb31b7e1126829f3edd114be49ab32d4b537b8ce3
  There are thousands of crypto tokens listed on CoinMarketCap. Analyzing these tokens can be challenging. But you can simplify research with ChatGPT Plus, which allows you to use [ChatGPT crypto plugins](https://www.makeuseof.com/best-crypto-chatgpt-plugins/) to access the latest real-time data.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Learn to Do Advanced Trading
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/cb31b7e1126829f3edd114be49ab32d4b537b8ce3
 ![Screenshot of ChatGPT showing how to do advanced trading](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/learn-to-do-advanced-trading.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whenever you want to upgrade your skills, you easily get overwhelmed with every detail you must consider. In this case, the prompt will help you narrow down these details, so you can focus on the most important aspects.
@@ -70,19 +70,6 @@ thumbnail: https://thmb.techidaily.com/cb31b7e1126829f3edd114be49ab32d4b537b8ce3
 
  With many crypto projects in the market, you don't want to spend thousands of hours going through endless whitepapers. Use this prompt to summarize any crypto whitepaper and get a quick, firm grasp of what the project entails.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Review Smart Contracts
 
  Note that for the following, we tested the source code of a [smart contract](https://etherscan.io/address/0xa7ca36f7273d4d38fc2aec5a454c497f86728a7a#code) listed on Etherscan.
@@ -92,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/cb31b7e1126829f3edd114be49ab32d4b537b8ce3
 * **Result**:  
 ![Screenshot of ChatGPT Reviewing a Smart Contract](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/review-smart-contracts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is perhaps one of the most ingenious ways to use ChatGPT in crypto. Considering the many scams in the industry, it's wise to complete a technical analysis of every smart contract you wish to use or participate in. Paste the smart contract into ChatGPT and let it tell you if it's malicious.
 
 ## 5\. Get Crypto Terms Explanations
@@ -100,14 +94,14 @@ thumbnail: https://thmb.techidaily.com/cb31b7e1126829f3edd114be49ab32d4b537b8ce3
 * **Result**:  
 ![Screenshot of ChatGPT offering Crypto Terms Explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-crypto-terms-explanations.jpg)
 
- The cryptocurrency industry is fast evolving. A few years back, we thought Bitcoin's only use was as a store of value and currency. Today courtesy of [Bitcoin ordinals](https://www.makeuseof.com/what-are-bitcoin-ordinals-how-differ-from-nfts/), Bitcoin can now support NFTs. Often, you'll come across many such crypto terms that need some explaining, and this prompt helps you to understand them better.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The cryptocurrency industry is fast evolving. A few years back, we thought Bitcoin's only use was as a store of value and currency. Today courtesy of [Bitcoin ordinals](https://www.makeuseof.com/what-are-bitcoin-ordinals-how-differ-from-nfts/), Bitcoin can now support NFTs. Often, you'll come across many such crypto terms that need some explaining, and this prompt helps you to understand them better.
 
 ## 6\. Make Investment Strategies
 
@@ -115,14 +109,14 @@ thumbnail: https://thmb.techidaily.com/cb31b7e1126829f3edd114be49ab32d4b537b8ce3
 * **Result**:  
 ![Screesnhot of ChatGPT offering Investment Strategies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/make-investment-strategies.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to take control of your financial future and have chosen cryptocurrency as the tool for growth, ChatGPT can be a great companion. This prompt, for instance, can help you get started with crypto staking the safest way.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a "Getting Started" Plan
 
@@ -138,27 +132,20 @@ thumbnail: https://thmb.techidaily.com/cb31b7e1126829f3edd114be49ab32d4b537b8ce3
 * **Result**:  
 ![Screenshot of ChatGPT Brainstorming Token Project Ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/brainstorm-token-project-ideas.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Sometimes, we fall into a creativity rut. Don't let it stop you. You can use this type of prompt to brainstorm ideas that run the gamut from crypto projects to [meme crypto coins](https://www.makeuseof.com/what-are-crypto-meme-coins/). ChatGPT is your oyster.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Get Guidelines for Launching a Project
 
 * **Prompt**: I want to launch a new cryptocurrency project. Please provide a step-by-step guide for launching a successful crypto project. Include all stages I must go through and highlight potential challenges and how to overcome them at each step. Lastly, include best practices for maintaining transparency and building trust with potential investors and participants.
 * **Result**:  
 ![Screenshot of ChatGPT offering a Guideline for Launching a Project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-a-guideline-for-launching-a-project.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you've got a crypto project idea to solve whatever world problems you can conjure up, this prompt lets ChatGPT break down the process of successfully launching your project.
 
@@ -172,6 +159,13 @@ thumbnail: https://thmb.techidaily.com/cb31b7e1126829f3edd114be49ab32d4b537b8ce3
 ![Screenshot of ChatGPT Role-play Vitalik Buterin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/role-play-anyone-for-their-crypto-opinion.jpg)
 
  Yes, you can have fun with ChatGPT too. This prompt exemplifies how you can turn ChatGPT into a crypto thought leader and get their opinion without DMing them on social media. You can even go further and generate a conversation with two personalities.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Crypto Prompts Are Like Cheat Codes
 
@@ -200,24 +194,16 @@ thumbnail: https://thmb.techidaily.com/cb31b7e1126829f3edd114be49ab32d4b537b8ce3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-ideal-8-desktop-images-to-personalize-your-mbp-for-2024/"><u>[New] Ideal 8 Desktop Images to Personalize Your MBP for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-movie-magic-with-the-4k-31mu97-b-from-lg/"><u>[New] Revolutionizing Movie Magic with the 4K 31MU97-B From LG</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-the-perfect-voice-and-vision-for-docs/"><u>[Updated] Crafting the Perfect Voice and Vision for Docs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-melody-manual-grab-listen-and-scrutinize-songs-for-2024/"><u>[Updated] Melody Manual Grab, Listen & Scrutinize Songs for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-reality-crafted-by-machine-minds/"><u>A New Reality Crafted by Machine Minds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-timeline-to-ais-inception/"><u>A Timeline to AI's Inception</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/associated-hyperlinks-uncover-related-content-connections/"><u>Associated Hyperlinks: Uncover Related Content Connections</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-11-pro-max-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 11 Pro Max - 4 Easy Ways</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-2-unveiled-insight-into-its-purpose-and-utility/"><u>Claude 2 Unveiled: Insight Into Its Purpose and Utility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-originality-challenges-artificial-intelligence/"><u>Content Originality Challenges Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/context-revolution-gemini-15s-million-token-journey/"><u>Context Revolution: Gemini 1.5'S Million Token Journey</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-power-in-career-pursuits/"><u>Harnessing ChatGPT Power in Career Pursuits</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/missed-malware-alert-say-no-to-google-bard-download/"><u>Missed Malware Alert: Say No to Google Bard Download</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-5-most-popular-hand-drawn-whiteboard-animation-creators/"><u>New In 2024, The 5 Most Popular Hand-Drawn Whiteboard Animation Creators</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/rapid-norwegian-understanding-10-daily-moments/"><u>Rapid Norwegian Understanding, 10 Daily Moments</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-potential-of-your-cvs-use-chatgpt-for-cover-letters/"><u>Unlock the Potential of Your CVs: Use ChatGPT for Cover Letters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-trust-chatgpt-with-confidential-information/"><u>Why You Shouldn't Trust ChatGPT With Confidential Information</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/be-shorts-success-top-10-steps-to-stand-out-for-2024/"><u>Youtube Shorts Success - Top 10 Steps to Stand Out for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-engagement-the-list-of-todays-hot-instagram-hashtags-for-2024/"><u>[New] Elevate Engagement The List of Today's Hot Instagram Hashtags for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastering-appearance-in-apples-audio-library/"><u>[Updated] 2024 Approved Mastering Appearance in Apple's Audio Library</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cracking-the-code-to-youtube-income-through-views-for-2024/"><u>[Updated] Cracking the Code to YouTube Income Through Views for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-translation-tussle-who-will-triumph/"><u>AI Translation Tussle: Who Will Triumph?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-with-openai-free-ai-applications/"><u>Breaking Barriers with OpenAI-Free AI Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-unleashed-still-6-strengths-of-selecting-plus-endure/"><u>ChatGPT Unleashed; Still, 6 Strengths of Selecting Plus Endure</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-troubleshoot-persistent-lagging-issues-in-deathloop-on-both-pc-and-ps5/"><u>How To Troubleshoot Persistent Lagging Issues In Deathloop On Both PC And PS5?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>In 2024, Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-custom-youtube-shorts-image-credits-with-ease-for-2024/"><u>Mastering Custom YouTube Shorts Image Credits with Ease for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-ai-how-machines-grasp-human-sentiments/"><u>Unveiling AI: How Machines Grasp Human Sentiments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voicecommand-mastery-with-android-and-gpt-synergy/"><u>VoiceCommand Mastery with Android & GPT Synergy</u></a></li>
 </ul></div>
 

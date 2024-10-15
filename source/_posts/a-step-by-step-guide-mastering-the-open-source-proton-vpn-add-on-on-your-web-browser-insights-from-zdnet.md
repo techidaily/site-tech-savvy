@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Guide: Mastering the Open-Source Proton VPN Add-On on Your Web Browser - Insights From ZDNet"
-date: 2024-09-19 11:39:19
-updated: 2024-09-20 12:43:17
+date: 2024-10-11T20:49:59.233Z
+updated: 2024-10-15T08:43:34.690Z
 tags:
   - vpn
 categories:
@@ -49,6 +49,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Open your web browser of choice and point it to either the [Chrome Web Store](https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa) (for Chromium-based browsers) or the [Firefox Add-Ons store](https://addons.mozilla.org/en-US/firefox/addon/proton-vpn-firefox-extension/?utm%5Fsource=addons.mozilla.org&utm%5Fmedium=referral&utm%5Fcontent=search).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Click to add
 
 From the Proton VPN page in your web store of choice, click the Add button and, when prompted, allow the installation. Once the extension is installed, you can close the web store page.
@@ -56,6 +63,13 @@ From the Proton VPN page in your web store of choice, click the Add button and, 
 You can install the Proton VPN extension on Opera from within the Chrome Web Store.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Pin the extension
 
@@ -69,6 +83,13 @@ I highly recommend pinning the extension for easier access.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Sign in to your Proton VPN account
 
 Click the Proton VPN icon in your browser taskbar and then click the Sign In button. You'll be prompted for your Proton VPN username and password.
@@ -76,6 +97,13 @@ Click the Proton VPN icon in your browser taskbar and then click the Sign In but
 You can either sign in to an existing account or create a new one.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Connect to the VPN
 
@@ -119,11 +147,26 @@ The Proton VPN browser extension is a great option if you're looking for more se
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-perfecting-the-green-screen-essential-techniques/"><u>[Updated] 2024 Approved Perfecting the Green Screen Essential Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quick-and-easy-iphone-screen-recording-tutorial/"><u>2024 Approved Quick & Easy IPhone Screen Recording Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accelerated-learning-quick-start-to-becoming-a-lut-expert-for-2024/"><u>Accelerated Learning Quick Start to Becoming a LUT Expert for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-revolutionizing-the-way-you-learn-a-new-language/"><u>ChatGPT Plus: Revolutionizing the Way You Learn a New Language</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-development-with-7-non-chatgpt-ai-solutions/"><u>Enhancing Development with 7 Non-ChatGPT AI Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-13-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 13 Pro Max</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-gt-5-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme GT 5 Lock Screen Password</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-your-ps4s-cameras-tips-for-ideal-placement/"><u>Mastering Your PS4's Cameras: Tips for Ideal Placement</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-13-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-countermeasure-against-gpt-generated-deceptions/"><u>OpenAI Countermeasure Against GPT-Generated Deceptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-efficient-notetaking-via-chatgpt/"><u>The Art of Efficient Notetaking via ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-highly-rated-walkie-talkies-expert-reviews-and-ratings-from-zdnet/"><u>Top 5 Highly Rated Walkie-Talkies - Expert Reviews & Ratings From ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Sending and Receiving iMessage Notifications on PC with Windows: A Step-by-Step Guide | ZDNet Tips"
-date: 2024-10-03T16:06:31.612Z
-updated: 2024-10-08T22:47:38.998Z
+date: 2024-10-10T02:42:21.213Z
+updated: 2024-10-15T06:31:35.231Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -57,10 +64,10 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
@@ -68,13 +75,6 @@ Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings,
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -92,6 +92,13 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -99,10 +106,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -110,13 +117,6 @@ Screenshot by Lance Whitney/ZDNET
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -158,24 +158,18 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,19 +207,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-five-best-racing-games-on-the-market-today-for-2024/"><u>[Updated] The Five Best Racing Games on the Market Today for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wmvwebm-movavi-convert/"><u>免費網路WMV到WEBM格式傳送 - 使用Movavi Convert</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bot-communication-how-they-pretend-to-speak/"><u>Bot Communication: How They Pretend to Speak</u></a></li>
-<li><a href="https://article-helps.techidaily.com/comprehensively-reviewed-androids-lightroom-features-and-functions-for-2024/"><u>Comprehensively Reviewed Android’s Lightroom Features & Functions for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/direct-engagement-broadcast-from-twitch-to-facebook-friends-for-2024/"><u>Direct Engagement Broadcast From Twitch to Facebook Friends for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exposing-ai-susceptibility-to-prompt-injection-techniques/"><u>Exposing AI Susceptibility to Prompt Injection Techniques</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-hp-officejet-3830-drivers-install-guide-and-downloads-for-windows/"><u>Free HP OfficeJet 3830 Drivers: Install Guide & Downloads for Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-nubia-red-magic-9-pro-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Nubia Red Magic 9 Pro using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/making-the-right-vr-purchase-on-the-go-vs-tethered-tech-for-2024/"><u>Making the Right VR Purchase On-the-Go Vs. Tethered Tech for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-productivity-a-guide-to-gpt-3-at-your-service/"><u>Maximizing Productivity: A Guide to GPT-3 at Your Service</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sense-your-wallet-while-enjoying-sound-with-activbuds/"><u>Sense Your Wallet While Enjoying Sound with ActivBuds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-excel-features-unattainable-by-chatgpt/"><u>Top Excel Features Unattainable by ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-or-chatter-debunking-9-popular-ai-chatbot-claims/"><u>Truth or Chatter? Debunking 9 Popular AI Chatbot Claims</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-hidden-narrators-of-fb-nuggets/"><u>[New] 2024 Approved Hidden Narrators of FB Nuggets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-navigating-the-process-youtube-clips-become-engaging-animation-gifs/"><u>[New] In 2024, Navigating the Process YouTube Clips Become Engaging Animation Gifs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-gamescene-capturers-compendium-for-2024/"><u>[Updated] GameScene Capturer's Compendium for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessing-chatgpt-benefits-without-membership/"><u>Accessing ChatGPT Benefits Without Membership</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-engagement-with-easy-to-add-story-captions-on-instagram/"><u>Boosting Engagement with Easy-to-Add Story Captions on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chasing-titles-key-moments-from-2022-olympics-short-tracks-for-2024/"><u>Chasing Titles Key Moments From 2022 Olympics Short Tracks for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-solution-to-iphone-usb-c-liquid-sensor-error/"><u>Comprehensive Solution to iPhone USB-C Liquid Sensor Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cracking-ais-code-with-gptzero-how-it-unveils-fake-writing/"><u>Cracking AI's Code with GPTZero: How It Unveils Fake Writing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-superfetch-essentials-you-must-understand-today/"><u>Demystifying SuperFetch: Essentials You Must Understand Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/developers-query-github-copilot-against-gpt-3/"><u>Developer's Query: GitHub Copilot Against GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-your-new-favorite-book-discover-these-best-ai-enhanced-literary-recommenders/"><u>Find Your New Favorite Book - Discover These Best AI-Enhanced Literary Recommenders</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-vignette-apps-for-mobile-devices-free-and-premium-options-for-2024/"><u>New Top Vignette Apps for Mobile Devices Free and Premium Options for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-chatbots-paving-the-way-forward/"><u>Next-Gen Chatbots: Paving the Way Forward</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-your-creative-legacy-with-nightshades-protective-measures/"><u>Securing Your Creative Legacy with Nightshade's Protective Measures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smooth-conversion-from-dall-es-innovative-webp-images-to-pngjpg/"><u>Smooth Conversion From DALL-E’s Innovative WebP Images to PNG/JPG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-harmony-of-ai-and-automotive-voices-mercedes-leap/"><u>The Harmony of AI and Automotive Voices: Mercedes Leap</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-tiktok-voice-alteration-steps/"><u>The Ultimate TikTok Voice Alteration Steps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/thors-quest-battle-for-valhalla/"><u>Thor’s Quest Battle for Valhalla</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/true-text-guardianship-openais-anti-duplicate-ai/"><u>True Text Guardianship: OpenAI’s Anti-Duplicate AI</u></a></li>
 </ul></div>
 

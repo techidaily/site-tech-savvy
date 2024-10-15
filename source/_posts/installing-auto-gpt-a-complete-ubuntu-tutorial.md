@@ -1,7 +1,7 @@
 ---
 title: "Installing Auto-GPT: A Complete Ubuntu Tutorial"
-date: 2024-10-03T01:41:31.364Z
-updated: 2024-10-08T20:08:14.035Z
+date: 2024-10-14T04:45:23.488Z
+updated: 2024-10-15T05:21:57.424Z
 tags:
   - chatgpt
   - open-ai
@@ -64,10 +64,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 `cd Auto-GPT`
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 1: Configure Auto-GPT on Ubuntu
@@ -81,13 +81,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  To generate an API key, click on the **Create new secret key** button, add any name, and copy the API key by pressing **Ctrl + C** or clicking the copy icon. You'll use this key as credentials for your AI assistant to use OpenAI's GPT technology.
 
 ![Creating OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-get-api-key.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once copied, paste the key inside the **.env** file. The env file will store all the API keys that you use with Auto-GPT. If you don't need a backend vector database like Pinecone, your OpenAI API key should be enough to use Auto-GPT.
 
@@ -121,14 +114,14 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT on Ubuntu
 
@@ -146,25 +139,11 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Auto-GPT manual mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-manual.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the name, goals, and role have been provided, your AI assistant will immediately activate and start looping through its thinking and execution process.
 
  Throughout the process, you can view your AI assistant's thoughts, reasoning, plan, criticism, and next action. Its next action will only be executed once you've given your approval.
 
 ![Input-Commands for Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-input-y.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can approve the AI's next action by typing "**y**" for yes. If you don't want the AI to continue with its plans, you can type "**n**" for no and exit.
 
@@ -174,9 +153,23 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Providing human feedback to Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-human-feedback.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once your AI assistant finishes its task, you can view its final output by opening the **/Auto-GPT-x.x.x/autogpt/auto\_gpt\_workspace** directory.
 
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
 
@@ -187,6 +180,13 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  A big part of this problem was the AI’s inability to handle website ads, cookies, log-in pages, and pop-ups. It was likely caused by the fact that Auto-GPT is still in its early development phase.
 
  So for now, you should only use Auto-GPT as a way to play and experiment with AI assistants.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Auto-GPT Will Keep Getting Better and Better
 
@@ -213,20 +213,16 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pro-audio-integration-essential-tips-for-podcasters/"><u>[New] Pro Audio Integration Essential Tips for Podcasters</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-best-video-editor-for-vimeo/"><u>[Updated] In 2024, Best Video Editor for Vimeo</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-mastering-the-art-of-making-dormant-facebook-vids-pop-up-again/"><u>[Updated] In 2024, Mastering the Art of Making Dormant Facebook Vids Pop Up Again</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-rising-from-hobbyist-to-leading-graphic-expert/"><u>[Updated] Rising From Hobbyist to Leading Graphic Expert</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-y36-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo Y36 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adaptive-technology-start-with-your-8-customized-models-now/"><u>Adaptive Technology: Start with Your 8 Customized Models Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-content-quality-with-chatgpt-a-comprehamendous-guide-for-innovation/"><u>Boosting Content Quality with ChatGPT - A Comprehamendous Guide for Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-made-better-in-chrome-discover-our-top-7-fixes/"><u>ChatGPT Made Better in Chrome: Discover Our Top 7 Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/join-openais-quest-track-and-report-software-glitches/"><u>Join OpenAI's Quest: Track and Report Software Glitches!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/make-friends-with-ai-at-bing-start-using-now-guide/"><u>Make Friends With AI at Bing: Start Using Now Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-gpt-capabilities-with-these-9-must-try-plugins/"><u>Maximize GPT Capabilities with These 9 Must-Try Plugins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modifying-reset-counter-for-locked-out-users-post-incorrect-logins/"><u>Modifying Reset Counter for Locked Out Users Post Incorrect Logins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-downgrade-in-gpts-intellectuality-claims-openai/"><u>No Downgrade in GPT's Intellectuality Claims OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-great-ai-debate-on-social-platforms/"><u>The Great AI Debate on Social Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-corsair-hs70-headset-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Corsair HS70 Headset Microphone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-pixelpioneer-creating-collages-for-instagramplusdevices/"><u>[New] 2024 Approved PixelPioneer Creating Collages for Instagram+Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastering-the-download-dance-of-hd-media-on-social-platforms/"><u>[Updated] 2024 Approved Mastering the Download Dance of HD Media on Social Platforms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ient-keyword-utilization-discover-the-best-7-online-video-tag-extractors-reviewed-for-2024/"><u>Efficient Keyword Utilization Discover the Best 7 Online Video Tag Extractors Reviewed for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/imaginefx-editor/"><u>ImagineFX Editor</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6s Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-language-learning-a-chatgpt-plus-approach/"><u>Interactive Language Learning: A ChatGPT Plus Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-kitchen-tasks-with-chatgpt-7-essentials/"><u>Mastering Kitchen Tasks with ChatGPT - 7 Essentials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-team-collaboration-using-chatgpt-technology/"><u>Optimizing Team Collaboration Using ChatGPT Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-the-dependability-of-zerogpt-tools-including-others/"><u>Probing the Dependability of ZeroGPT Tools, Including Others</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-chatgpt-for-personal-data-exposure/"><u>Scrutinizing ChatGPT for Personal Data Exposure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-game-crashes-effective-fixes-for-r-type-final-on-your-computer/"><u>Solving Game Crashes: Effective Fixes for R-Type Final on Your Computer</u></a></li>
 </ul></div>
 

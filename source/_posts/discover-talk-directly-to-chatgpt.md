@@ -1,7 +1,7 @@
 ---
 title: "Discover: Talk Directly to ChatGPT!"
-date: 2024-10-06T06:35:12.617Z
-updated: 2024-10-08T16:24:30.237Z
+date: 2024-10-10T12:10:12.421Z
+updated: 2024-10-15T11:49:59.522Z
 tags:
   - chatgpt
   - open-ai
@@ -47,10 +47,10 @@ Close
 **Download:** ChatGPT for [iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
@@ -66,36 +66,48 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these [ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -116,22 +128,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-redirect-saved-image-to-custom-folder-on-mac/"><u>[New] 2024 Approved Redirect Saved Image to Custom Folder on Mac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-list-of-free-vfx-websites/"><u>[New] 2024 Approved The Ultimate List of FREE VFX Websites</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-riches-301-safe-and-highest-earning-strategies/"><u>[New] In 2024, Instagram Riches 301 Safe and Highest Earning Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-challenges-can-gpt-enhance-your-side-hustle/"><u>8 Challenges: Can GPT Enhance Your Side Hustle?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridge-to-everywheres-chatgpt-with-ease/"><u>Bridge to Everywhere's ChatGPT with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-tech-and-treatment-gpt-for-effective-cognitive-strategies/"><u>Bridging Tech and Treatment: GPT for Effective Cognitive Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-rtx-ai-on-pc-a-step-by-step-guide/"><u>Engaging with RTX AI on PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-of-valkyrie-syn-series-2n40-liquid-cooler-excellent-performance-marred-by-clunky-software-experience/"><u>Expert Evaluation of Valkyrie Syn Series 2N40 Liquid Cooler: Excellent Performance Marred by Clunky Software Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fact-or-fantasy-debunking-9-key-ai-chatbot-beliefs/"><u>Fact or Fantasy? Debunking 9 Key AI Chatbot Beliefs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-nokia-g22-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Nokia G22 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-diving-deep-into-lyric-video-designs-powered-by-lyric-video-maker/"><u>In 2024, Diving Deep Into Lyric Video Designs, Powered by Lyric Video Maker</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/lart-den-ligne-et-gratis-changer-un-fichier-aiff-en-mov-avec-movavi/"><u>L’art D'en Ligne Et Gratis: Changer Un Fichier AIFF en MOV Avec Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpts-potential-in-academia/"><u>Maximizing ChatGPT's Potential in Academia</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-tech-advancements-the-six-sweepstakes-of-gpts-conductor/"><u>Pioneering Tech Advancements - The Six Sweepstakes of GPT's Conductor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talk-your-way-through-ai-mastering-chatgpt-via-vocal-commands/"><u>Talk Your Way Through AI: Mastering ChatGPT via Vocal Commands</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-d3dx9e933dll-issue/"><u>Troubleshooting the Missing d3dx9_e9_33.dll Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-remedying-install-fail-in-wins-discord-setup/"><u>Understanding and Remedying Install Fail in Win's Discord Setup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-host-smart-and-cheap-your-guide-to-youtube-seminars/"><u>[New] 2024 Approved Host Smart and Cheap Your Guide to Youtube Seminars</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-peeling-the-onion-understanding-instagram-story-audiences/"><u>[New] 2024 Approved Peeling the Onion Understanding Instagram Story Audiences</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-footage-imovie-videos-for-youtube-enthusiasts-for-2024/"><u>[New] Elevating Your Footage IMovie Videos for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-focusing-on-roblox-elements-closeup/"><u>[New] The Art of Focusing on Roblox Elements Closeup</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-step-by-step-process-to-disengage-from-discord-groups-for-2024/"><u>[Updated] The Step-by-Step Process to Disengage From Discord Groups for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-transformed-by-ai-unleashing-new-potential-with-microsoft/"><u>Bing Transformed by AI, Unleashing New Potential with Microsoft</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-explained-seamless-language-translation-techniques/"><u>ChatGPT Explained: Seamless Language Translation Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-limitations-in-the-crypto-domain/"><u>ChatGPT's Limitations in the Crypto Domain</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fresh-start-for-your-epson-workforce-ds-30-printer-on-windows-find-the-right-driver-download-here/"><u>Fresh Start for Your Epson WorkForce DS-30 Printer on Windows: Find the Right Driver Download Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-unveiled-the-science-and-companies-leading-its-integration/"><u>Generative AI Unveiled: The Science & Companies Leading Its Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-creativity-in-writing-unmatched-by-algorithms/"><u>Human Creativity in Writing Unmatched by Algorithms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-online-screenshots-and-screen-recorders-guide/"><u>In 2024, Online Screenshots & Screen Recorders Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-ai-evolving-faster-the-duel-between-googles-gemini-and-chatgpt/"><u>Is AI Evolving Faster? The Duel Between Google's Gemini and ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/six-considerations-before-full-ai-dependence/"><u>Six Considerations Before Full AI Dependence</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/snapscreen-scrutiny-a-deep-dive-into-recorders-for-2024/"><u>SnapScreen Scrutiny A Deep Dive Into Recorders for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/superior-venues-for-ai-creative-collaboration/"><u>Superior Venues for AI Creative Collaboration</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-flat-to-fabulous-converting-videos-for-vr-with-ease/"><u>Updated 2024 Approved From Flat to Fabulous Converting Videos for VR with Ease</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-art-of-pan-and-zoom-how-to-achieve-the-ken-burns-effect/"><u>Updated 2024 Approved The Art of Pan and Zoom How to Achieve the Ken Burns Effect</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies Shared by Industry Leaders: Helping Female Professionals Excel in Information Technology"
-date: 2024-09-17 18:58:57
-updated: 2024-09-20 12:33:39
+date: 2024-10-11T11:49:33.262Z
+updated: 2024-10-15T12:31:08.047Z
 tags:
   - work-life
 categories:
@@ -47,6 +47,19 @@ Heneghan says modern business needs engaged communicators and all senior manager
 
 "I'm rolling that initiative out globally, but you have to keep challenging yourself on diversity every day. I just think we all must be ruthless and rigorous." 
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't fit people into neat boxes
 
 Clare Lansley, CIO at Aston Martin Cognizant Formula One, says there's a lot more that can be done in terms of diversity in IT.
@@ -69,6 +82,13 @@ And Lansley encourages recruiters to be more open than relying on a wish list of
 
 "I think a lot of recruiters go for a wish list -- 'this would be my perfect candidate'. But I would challenge those guys by saying, 'Have you ever hired your perfect candidate?' There are always areas where you're compromising. I'd much rather hire for attitudes and behaviors, because at the end of day, I can teach skills." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Encourage people to find their voice
 
 Rajeswari Koppala, senior manager of DevOps at United Airlines, sees herself as an IT professional who deserves respect and attention from her peers.
@@ -89,6 +109,13 @@ Don't let others try to push you down and don't be afraid to grab the mic and ta
 
 "If you're not tall enough to look at something, you would take the help of a tool," she says. "So, you just need to put your effort into being seen or heard and to make a difference in your own way."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Show younger candidates the benefits
 
 Adam Warne, CIO at retailer River Island, says a diverse team means fresh perspectives and new ways of solving problems.
@@ -106,6 +133,13 @@ Warne says one answer is to start encouraging more people to think about IT at a
 "We need to get into the schools. We need to interact with people when they're thinking about what their career might be in 10 years' time, and we need to be talking to them openly and honestly about what a career in tech might look like. Because for me, it's for everybody," he says.
 
 "Technology is not a career that is limited to certain demographics or people who like playing video games. It's a career for anybody, and anybody should be able to get into it. We need to do more to influence younger people before they're making career choices, and demystifying the myths about what a career in tech looks like."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Create senior role models
 
@@ -140,11 +174,31 @@ Plumettaz says more females in senior positions means more role models for the n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/solved-connect-bluetooth-speaker-to-laptop-quickly-and-easily/"><u>[SOLVED] Connect Bluetooth Speaker To Laptop. Quickly & Easily</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-guide-to-seamlessly-share-your-igtv-story/"><u>[Updated] 2024 Approved Guide to Seamlessly Share Your IGTV Story</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-zoom-launch-your-guide-to-online-chats/"><u>2024 Approved Zoom Launch Your Guide to Online Chats</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-value-in-miniature-unpacking-the-features-of-the-samsung-galaxy-s10e/"><u>Discovering Value in Miniature: Unpacking the Features of the Samsung Galaxy S10e</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/expert-strategies-obs-streams-to-facebook-success-for-2024/"><u>Expert Strategies OBS Streams to Facebook Success for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-discord-chat-troubleshooting-solving-the-non-responsive-push-to-talk-problem/"><u>Mastering Discord Chat Troubleshooting: Solving the Non-Responsive Push-To-Talk Problem</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/maximale-komprimierung-von-hochauflosenden-videos-tipps-zur-verringerung-ihrer-dateigrossen-um-90/"><u>Maximale Komprimierung Von Hochauflösenden Videos: Tipps Zur Verringerung Ihrer Dateigrößen Um 90%</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-and-swift-top-vpns-for-safely-downloading-torrent-files-globally/"><u>Secure and Swift: Top VPNs for Safely Downloading Torrent Files Globally</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speed-testing-your-processor-a-fast-and-simple-guide-to-assess-cpu-power/"><u>Speed-Testing Your Processor: A Fast and Simple Guide to Assess CPU Power</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-creating-a-bootable-windows-11-installation-drive-from-an-iso-file/"><u>Step-by-Step Guide: Creating a Bootable Windows 11 Installation Drive From an ISO File</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-setting-up-your-new-chromecast/"><u>Step-by-Step Guide: Setting Up Your New Chromecast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-customizing-display-preferences-in-microsofts-latest-operating-system/"><u>Step-by-Step Tutorial on Customizing Display Preferences in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hassle-free-way-to-link-your-wireless-printer-to-any-device/"><u>The Hassle-Free Way to Link Your Wireless Printer to Any Device</u></a></li>
+<li><a href="https://win11.techidaily.com/the-project-pro-essential-ms-project-keys-explained/"><u>The Project Pro: Essential MS Project Keys Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-linking-your-laptop-with-a-projector/"><u>Ultimate Guide: Linking Your Laptop with a Projector</u></a></li>
+</ul></div>
+

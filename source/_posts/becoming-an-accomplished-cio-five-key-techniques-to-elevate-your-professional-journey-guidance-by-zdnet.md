@@ -1,7 +1,7 @@
 ---
 title: "Becoming an Accomplished CIO: Five Key Techniques to Elevate Your Professional Journey - Guidance by ZDNET"
-date: 2024-09-18 16:47:49
-updated: 2024-09-20 11:45:45
+date: 2024-10-11T13:35:34.597Z
+updated: 2024-10-15T01:47:48.200Z
 tags:
   - work-life
 categories:
@@ -49,6 +49,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Build strong relationships with people
 
 Omer Grossman, global CIO at technology specialist CyberArk, says smart digital leaders can change the business but must concentrate on the right areas.
@@ -64,6 +71,13 @@ While making the most of technology is still a big part of the CIO role, Grossma
 "You must build relationships. You want to be a trusted adviser and partner," he said.
 
 "You need to manage your relationships and build them. You can buy a great solution, but you won't be able to implement it successfully if your users reject it. Success is all about people."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Boost your diversity and sustainability smarts
 
@@ -83,6 +97,13 @@ However, she also said successful CIOs will need to rise to the challenges of mo
 
 "But in two key strategic areas, standing still means falling back. There is room for CIOs to increase the momentum here and set the standards to inspire others in the business."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Work hand in glove with your peers
 
 Sasha Jory, CIO at insurer Hastings Direct, said the definition of a [successful digital leader](https://www.zdnet.com/article/it-strategy-how-to-be-an-influential-digital-leader/) has changed, and up-and-coming IT professionals must concentrate on collaboration.
@@ -98,6 +119,19 @@ Jory told ZDNET this change in the type of person who becomes a credible digital
 "If you're on an island, you won't be successful. The route for a successful CIO is to be collaborative and engaged with everybody so that they can deliver the right outcomes," she said.
 
 "I don't believe you can lead technology transformation without working hand in glove with your business."
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Stay abreast of emerging technologies
 
@@ -138,11 +172,25 @@ However, they should also deliver value and justify investments in new technolog
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/-comprehensive-tour-youtube-creator-suite-for-2024/"><u>[New] A Comprehensive Tour YouTube Creator Suite for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-efficiently-archive-social-media-videos-with-top-5-pick/"><u>[New] Efficiently Archive Social Media Videos with Top 5 Pick</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unleash-your-imagination-best-drawers-for-ipados/"><u>[New] Unleash Your Imagination Best Drawers for iPadOS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-your-complimentary-access-to-50-premium-youtube-banners/"><u>2024 Approved Your Complimentary Access to 50 Premium YouTube Banners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-enable-ssltls-on-a-web-server-configuring-nginx-for-https-redirection/"><u>How to Enable SSL/TLS on a Web Server: Configuring Nginx for HTTPS Redirection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-enter-safe-mode-in-window-7-vista-and-xp/"><u>How to Enter Safe Mode in Window 7, Vista & XP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-enter-safe-mode-in-windows-11-7-8-81-xp-and-vista/"><u>How to Enter Safe Mode in Windows 11, 7, 8, 8.1, XP & Vista</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-factory-reset-windows-11-4-steps/"><u>How to Factory Reset Windows 11 [4 Steps]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-manage-browser-cookie-settings-in-windows-10-a-guide-for-chrome-firefox-opera-and-edge-users/"><u>How to Manage Browser Cookie Settings in Windows 10: A Guide for Chrome, Firefox, Opera, and Edge Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-correcting-obs-darkness-during-live-streams/"><u>In 2024, Correcting OBS Darkness During Live Streams</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-by-step-backdrop-blurring-techniques-on-youtube-videos/"><u>Step-by-Step Backdrop Blurring Techniques on YouTube Videos</u></a></li>
+</ul></div>
+

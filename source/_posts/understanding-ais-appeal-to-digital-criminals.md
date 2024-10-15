@@ -1,7 +1,7 @@
 ---
 title: Understanding AI's Appeal to Digital Criminals
-date: 2024-10-04T06:51:36.741Z
-updated: 2024-10-08T20:05:16.931Z
+date: 2024-10-10T01:04:49.215Z
+updated: 2024-10-15T00:04:08.300Z
 tags:
   - chatgpt
   - open-ai
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
 
  So why are hackers going after ChatGPT accounts, and why are people willing to pay for these stolen accounts?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Stealing Sensitive Information
 
 ![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
@@ -58,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
  While most of the world can access the ChatGPT website, some countries are officially banned from the platform. At the time of writing, China, with more than a billion potential users, is on this list. While residents from banned countries can use a VPN and other measures to bypass this restriction, buying cheap, stolen premium accounts is also appealing. This naturally creates a market for stolen [ChatGPT Plus accounts](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), some of which are auctioned off to more than one user. With a readily available market, hackers are naturally incentivized to steal ChatGPT accounts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Protect Your ChatGPT Account
@@ -69,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
  Since ChatGPT accounts have become a prime target for hackers, how can you protect your ChatGPT account? Here are two ways to stay safe.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Set Up Two-Factor Authentication (2FA) on Your Account
@@ -84,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
 2. Tap **Settings > Data controls** and then **Enable** beside **Enable two-factor authentication** to turn on the feature for your account  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
@@ -100,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
 
 1. Tap your account name in the bottom left corner of your ChatGPT interface.
 2. Go to **Clear Conversations > Confirm clear conversations** to delete all your saved conversations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Your ChatGPT Accounts From Hackers
 
@@ -124,20 +124,24 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-ditching-new-features-going-back-to-el-capitan/"><u>[New] 2024 Approved Ditching New Features Going Back to El Capitan</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-push-more-viewers-to-your-channel-with-easy-tricks-2/"><u>2024 Approved Push More Viewers to Your Channel with Easy Tricks (2)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-reviewing-changes-in-the-sony-s6500-blu-ray-system/"><u>2024 Approved Reviewing Changes in the Sony S6500 Blu-Ray System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-unleashed-groundbreaking-gpt-developments-that-matter-most/"><u>AI Unleashed: Groundbreaking GPT Developments That Matter Most</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-common-auto-gpt-barriers-with-these-six-fixes/"><u>Bypassing Common Auto-GPT Barriers with These Six Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-cache-cleanup-universal-steps-for-all-popular-browsing-platforms/"><u>Effortless Cache Cleanup: Universal Steps for All Popular Browsing Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-task-management-auto-gpt-in-ubuntu/"><u>Effortless Task Management: Auto-GPT in Ubuntu</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-acquainted-with-gptzero-for-detecting-ais/"><u>Getting Acquainted with GPTZero for Detecting AIs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hone-your-prompt-mastery-the-quintessential-approach-to-perfecting-chatgpt-conversations/"><u>Hone Your Prompt Mastery: The Quintessential Approach to Perfecting ChatGPT Conversations</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pixel-perfection-your-path-to-exceptional-edits/"><u>In 2024, Pixel Perfection Your Path to Exceptional Edits</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-redmi-k70e-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Redmi K70E FRP Bypass</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pivotal-data-analysis-excel-delivers-no-ai-matches/"><u>Pivotal Data Analysis Excel Delivers No AI Matches</u></a></li>
-<li><a href="https://games-able.techidaily.com/revitalizing-shared-games-valve-updates-steam-family-sharing/"><u>Revitalizing Shared Games: Valve Updates Steam Family Sharing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-integrating-siri-and-chatgpt-in-ios/"><u>The Ultimate Guide to Integrating Siri & ChatGPT in iOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elite-cgi-green-screen-tutorial-for-kinemaster-enthusiasts/"><u>[Updated] Elite CGI Green Screen Tutorial for Kinemaster Enthusiasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-reach-for-the-millennium-1000-youtube-supporters/"><u>[Updated] In 2024, Reach for the Millennium 1,000 YouTube Supporters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-pinpointing-the-10-most-discreet-story-advocates-for-2024/"><u>[Updated] Pinpointing the 10 Most Discreet Story Advocates for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-step-by-step-strategies-for-thriving-on-stardews-exotic-hidden-gem-ginger-island/"><u>[Updated] Step-by-Step Strategies for Thriving on Stardew’s Exotic, Hidden Gem – Ginger Island</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beneath-the-surface-of-ai-exploring-black-boxes/"><u>Beneath the Surface of AI: Exploring Black Boxes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-and-content-the-next-frontier-in-media-design/"><u>Chatbots and Content: The Next Frontier in Media Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-stellar-cvs-integrating-chatgpt-insights/"><u>Crafting Stellar CVs - Integrating ChatGPT Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-myth-real-vs-imitation-gpt-binco-tokens/"><u>Decoding the Myth: Real vs Imitation GPT-Binco Tokens</u></a></li>
+<li><a href="https://fox-where.techidaily.com/erstellen-sie-ihre-newsarchiv-auf-dem-iphone-schritt-fur-schritt-anleitung-zum-anzeigen-und-organisieren/"><u>Erstellen Sie Ihre Newsarchiv Auf Dem iPhone: Schritt-Für-Schritt-Anleitung Zum Anzeigen Und Organisieren</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968856195-free-download-canon-imageclass-mf4800-printer-drivers-and-software/"><u>Free Download: Canon ImageCLASS MF4800 Printer Drivers and Software</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-realme-by-drfone-android/"><u>How to Bypass FRP on Realme?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-honor-x8b-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor X8b Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-master-gpts-text-limit-bounds/"><u>How to Master GPT’s Text Limit Bounds?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-12-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 12 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-flour-factor-choosing-your-cookie-foundation/"><u>The Flour Factor: Choosing Your Cookie Foundation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-chatgpt-dialogues-expert-techniques-unveiled/"><u>Transform ChatGPT Dialogues: Expert Techniques Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-low-iphone-phone-call-volume/"><u>Troubleshooting Techniques for Low iPhone Phone Call Volume</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-predictive-ai-a-simplified-overview/"><u>Understanding Predictive AI - A Simplified Overview</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-gpt-challenge-se-dominance/"><u>Will GPT Challenge SE Dominance?</u></a></li>
 </ul></div>
 

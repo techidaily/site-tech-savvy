@@ -1,0 +1,330 @@
+---
+title: "Strategic Synergy: How ChatGPT Enhances Analytical Prowess"
+date: 2024-10-10T16:13:03.088Z
+updated: 2024-10-15T10:36:31.162Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Strategic Synergy: How ChatGPT Enhances Analytical Prowess"
+excerpt: "This Article Describes Strategic Synergy: How ChatGPT Enhances Analytical Prowess"
+thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e7bac2e7594923dabb645a34.jpg
+---
+
+## Strategic Synergy: How ChatGPT Enhances Analytical Prowess
+
+ Over the past few months, there has been a rise in the number of artificial intelligence tools being released. One such powerful tool is ChatGPT, an advanced LLM capable of understanding and holding human-like text conversations.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Though ChatGPT has been proven to generate conversational text, it has been a valuable asset for people across various industries. For data analysts, ChatGPT can be used to enhance their analytical capabilities and handle complex data challenges. Let’s look at some ways data analysts can use ChatGPT to be more productive in their day-to-day work.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Refine Ideas About a Task
+
+ Data analysts can leverage the capabilities of ChatGPT to refine and brainstorm about a task or case study. Since [ChatGPT](https://chat.openai.com/) can generate conversational text, you can engage it and explore various perspectives by asking questions.
+
+![The response from ChatGPT on a prompt that ask it how to segment customer data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image3-v1.jpg)
+
+ Suppose you want to write a script to automate a business process. You can ask ChatGPT for ideas on how to get started. All you have to do is ask it for a prompt via the chat and wait for its response. You can ask further questions or alternative viewpoints from the response.
+
+> **Case Study:** I have a business problem. I want to [create a dashboard in Excel](https://www.makeuseof.com/create-interactive-excel-dashboard/) to segment and track the behavior of my customer. I currently run a coffee shop, and a few make orders via my e-commerce website.
+>
+> What kind of information should I collect from my customers? What key performance indicators should I measure? Which tool and type of visualization should I use? Also, what kind of cohort analysis, and what will you recommend I incorporate for my user segmentation?
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 2\. Fixing Bugs and Troubleshooting
+
+ You encounter bugs in your code, formula, or script during your day-to-day work as a data analyst. A conversational encounter with ChatGPT can provide debugging strategies, a fresh perspective, or even code solutions to the bugs.
+
+ ChatGPT can explain why your code threw the issue in the first place if you provide a prompt and the error message.
+
+> **My prompt**: I want this DAX formula to return a value based on the selected date on my filter. Year and month considered. However, the formula below returned an error.
+
+`Customer Espresso and Cappuccino=
+  
+CALCULATE(  
+  
+           SUM('Sales Data'[Amount]), ,
+  
+           KEEPFILTERS('Sales Data'[Product Type] ="Espresso" and 'Sales Data'[Product Type] ="Cappuccino")`
+
+![A prompt response from ChatGPT about a debugging task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image1-v1.jpg)
+
+## 3\. To Interpret Data and Explain Complex Code
+
+![A prompt from ChatGPT that displays the explaination of a code block](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image6-v1.jpg)
+
+ ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
+
+## 4\. To Write, Edit and Generate Codes, Formula, and Syntax
+
+ In the same way that ChatGPT may be used to interpret complex coding. You can request that it create the code or syntax for you.
+
+> **Case Study:** You have a [Python if statement with a for Loop](https://www.makeuseof.com/python-if-statement/). Your current code only checks if the length of myList is precisely 3 and loops through it if the statement is true. Otherwise, it executes the else statement and outputs each item in myList2\. However, you would like to modify it to print all items in either list with exactly four letters instead.
+>
+> **My prompt:** can you modify this Python code to print all items in either list with exactly four letters instead:
+
+`myList = ['Python', 'MUO', 'Hello']  
+  
+myList2 = ["Fish", "Gold", "Bag"]  
+  
+if len(myList) == 3:  
+  
+   for items in myList:  
+  
+       print(items)  
+  
+else:  
+  
+   for items2 in myList2:  
+  
+       print(items2)`
+
+![A prompt that display clearly written code by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image4-v1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 5\. Learning New Skills
+
+ We have an article on how you can [add a static date and time in Google Sheets](https://www.makeuseof.com/add-static-date-time-google-sheets/). You can use ChatGPT to learn more about this topic or how to do something similar in a different application. For example, how to add a static date and time in Tableau.
+
+![A prompt that show how to add a static date and time in Tableau.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image5-v1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ By writing a prompt, you can learn about new features and skills, or how to use a specific function in your favorite analytical tool.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 6\. Document Your Codes
+
+ Codes that have comments are easier to read. But you can admit that everyone finds the process boring and monotonous. ChatGPT can perform this task effortlessly and with great accuracy and efficiency.
+
+ Ask it a question, and it will provide you with fully commented code you can copy and paste in response.
+
+> **My Prompt:** Can you add comments to this SQL code:
+
+`SELECT  
+  
+ e.employee_id AS "Employee #"  
+  
+ , e.first_name || ' ' || e.last_name AS "Name"  
+  
+ , e.email AS "Email"  
+  
+ , e.phone_number AS "Phone"  
+  
+ , TO_CHAR(e.hire_date, 'MM/DD/YYYY') AS "Hire Date"  
+  
+ , TO_CHAR(e.salary, 'L99G999D99', 'NLS_NUMERIC_CHARACTERS = ''.,'' NLS_CURRENCY = ''
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+'') AS "Salary"  
+  
+ , e.commission_pct AS "Comission %"  
+  
+ , 'works as ' || j.job_title || ' in ' || d.department_name || ' department (manager: '  
+  
+   || dm.first_name || ' ' || dm.last_name || ') and immediate supervisor: ' || m.first_name || ' ' || m.last_name AS "Current Job"  
+  
+ , TO_CHAR(j.min_salary, 'L99G999D99', 'NLS_NUMERIC_CHARACTERS = ''.,'' NLS_CURRENCY = ''
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+'') || ' - ' ||  
+  
+     TO_CHAR(j.max_salary, 'L99G999D99', 'NLS_NUMERIC_CHARACTERS = ''.,'' NLS_CURRENCY = ''
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+'') AS "Current Salary"  
+  
+ , l.street_address || ', ' || l.postal_code || ', ' || l.city || ', ' || l.state_province || ', '  
+  
+   || c.country_name || ' (' || r.region_name || ')' AS "Location"  
+  
+ , jh.job_id AS "History Job ID"  
+  
+ , 'worked from ' || TO_CHAR(jh.start_date, 'MM/DD/YYYY') || ' to ' || TO_CHAR(jh.end_date, 'MM/DD/YYYY') ||  
+  
+   ' as ' || jj.job_title || ' in ' || dd.department_name || ' department' AS "History Job Title"  
+  
+FROM employees e  
+  
+-- to get title of current job_id  
+  
+ JOIN jobs j
+  
+   ON e.job_id = j.job_id  
+  
+-- to get name of current manager_id  
+  
+ LEFT JOIN employees m
+  
+   ON e.manager_id = m.employee_id  
+  
+-- to get name of current department_id  
+  
+ LEFT JOIN departments d
+  
+   ON d.department_id = e.department_id  
+  
+-- to get name of manager of current department  
+  
+-- (not equal to current manager and can be equal to the employee itself)  
+  
+ LEFT JOIN employees dm
+  
+   ON d.manager_id = dm.employee_id  
+  
+-- to get name of location  
+  
+ LEFT JOIN locations l  
+  
+   ON d.location_id = l.location_id  
+  
+ LEFT JOIN countries c  
+  
+   ON l.country_id = c.country_id  
+  
+ LEFT JOIN regions r  
+  
+   ON c.region_id = r.region_id  
+  
+-- to get job history of employee  
+  
+ LEFT JOIN job_history jh  
+  
+   ON e.employee_id = jh.employee_id  
+  
+-- to get title of job history job_id  
+  
+ LEFT JOIN jobs jj  
+  
+   ON jj.job_id = jh.job_id  
+  
+-- to get namee of department from job history  
+  
+ LEFT JOIN departments dd  
+  
+   ON dd.department_id = jh.department_id  
+  
+ORDER BY e.employee_id;`
+
+![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
+
+## Data Analysts Can Use ChatGPT in Their Work
+
+ Powerful AI solutions like ChatGPT boost everyone's productivity, even data analysts. Using ChatGPT's natural language processing capabilities and asking the right prompt, data analysts can quickly and accurately get ideas and insight into their tasks.
+
+ However, while ChatGPT can be a collaborator in your work, it's vital to critically evaluate and test its feedback. So explore this fantastic technology, integrate it into your workflow, and let me know your thoughts.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Though ChatGPT has been proven to generate conversational text, it has been a valuable asset for people across various industries. For data analysts, ChatGPT can be used to enhance their analytical capabilities and handle complex data challenges. Let’s look at some ways data analysts can use ChatGPT to be more productive in their day-to-day work.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchats-artistic-palette-the-anime-filter-experience/"><u>[New] In 2024, Snapchat’s Artistic Palette The Anime Filter Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-note-networks-audit-sound-file-archives-for-2024/"><u>[New] Note Networks Audit Sound File Archives for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-seeking-the-8-pinnacle-of-androids-collaborative-video-collage-tools/"><u>[New] Seeking the #8 Pinnacle of Android's Collaborative Video Collage Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/trategies-for-maximizing-youtube-view-counts-through-regular-uploads/"><u>[New] Strategies for Maximizing YouTube View Counts Through Regular Uploads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-time-saving-guide-seconds-to-clear-background-bg/"><u>[New] Time-Saving Guide Seconds to Clear Background Bg</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-the-kitchen-7-applications-of-ai-in-cooking/"><u>Conquer the Kitchen: 7 Applications of AI in Cooking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/direct-vs-supplemental-which-gpt-suits-you/"><u>Direct Vs. Supplemental: Which GPT Suits You?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-fidelity-of-chatgpts-output/"><u>Exploring the Fidelity of ChatGPT's Output</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-gpt-3-making-students-written-workout-old/"><u>Is GPT-3 Making Students' Written Workout Old?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leadership-toolkit-critical-analysis-of-gpts-outputs/"><u>Leadership Toolkit: Critical Analysis of GPT's Outputs</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plagiarism-proof-gpt-source-examination/"><u>Plagiarism Proof: GPT Source Examination</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/source-verification-in-ai-conversation-models/"><u>Source Verification in AI Conversation Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-android-amidst-anticipation-prospective-pricing-details-and-expected-release-timeline-uncovered/"><u>Upcoming Android Amidst Anticipation: Prospective Pricing Details & Expected Release Timeline Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-next-novel-awaits-dive-into-these-top-5-ai-powered-reading-sites/"><u>Your Next Novel Awaits: Dive Into These Top 5 AI-Powered Reading Sites</u></a></li>
+</ul></div>
+

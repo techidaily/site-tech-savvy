@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Effective ChatGPT Prompt Crafting
-date: 2024-10-03T02:52:50.710Z
-updated: 2024-10-08T19:12:10.705Z
+date: 2024-10-07T17:39:30.223Z
+updated: 2024-10-15T05:53:24.555Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 ![QuickRef's ChatGPT cheat sheet offers free examples and templates of prompts for ChatGPT across various categories and uses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-quickref-cheat-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  QuickRef is a website with cheat sheets for different apps or programming languages, like Google Search, Sheets, Excel, JavaScript, Python, etc. These are added mainly by regular users from the community. The latest cheat sheet in its impressive lineup is ChatGPT, with a series of prompts and tips for the AI. You won't learn the process of PE here, but it's a good reference when you're stuck.
@@ -55,22 +55,29 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 
  Multiple words or phrases of each prompt are replaceable to customize it for your query. The must-fill parts are marked in brackets for you to replace the original text, while optional replacements are colored red or blue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3. Adrian Twarog
 
 ![Adrian Twarog's "Ultimate ChatGPT Resource Guide" is the best free series of YouTube lessons to learn how to write ChatGPT prompts and then use it in advanced applications, or even to make your own ChatGPT clone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-adrian-twarog.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  YouTuber Adrian Twarog has quite a following for his how-to and tutorial videos on myriad topics like web development, apps, and AI. He deep-dived into the system and has already made videos on creating a ChatGPT clone or making your Discord bot with the OpenAI models. Naturally, this requires understanding the core principles of how ChatGPT works, and he's imparting all that knowledge in a series of YouTube videos.
 
  In the Ultimate ChatGPT Resource Guide, Twarog explains what ChatGPT is in a quick five-minute video before moving on to a 35-minute crash course on how to use ChatGPT. In the second video, Twarog covers a lot on how to use prompts, focusing on use-case scenarios like summarization, templates, short stories, JavaScript, resumes, and blogging or editing. You'll need to go through both of these to understand the basics before moving on in the series.
 
  The third video, titled Advanced ChatGPT Guide, is the one you want to pay particular attention to if you want to understand advanced prompts. Twarog goes into details of prompt engineering with a series of examples. Even if the examples aren't what you want to do with ChatGPT, go through these as an exercise to truly understand the finer points of composing a prompt.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4. Micah Johns
 
@@ -86,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 
 ![Learn Prompting is a free online course for beginner, intermediate, or advanced AI users to learn all aspects of prompt engineering](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-learn-prompting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Learn Prompting is a free online course to understand how to write prompts for any AI app, not just ChatGPT. Sander Schulhoff, a computer science student at the University of Maryland, designed it. It caters to a range of users, from complete novices to those with domain expertise or programming knowledge.
 
  The course is entirely text-based, with chapters that take you through different aspects of AI prompting. Schulhoff defines PE as "How to talk to AI to get it to do what you want." The Basics and Intermediate chapters will take you through the founding principles of PE with theory, tricks and tips, and examples.
@@ -100,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
  The course then goes into advanced practices like applied prompting (contributed by users), fine-tuning, images, and more, where you'll learn techniques like Chain of Thought, Self Consistency, etc. It might sound like a lot of jargon, but it'll be clear and easy to understand if you go through the course step-by-step.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Learning ChatGPT With a Personal Project
@@ -125,20 +125,22 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-drone-racing-all-you-need-to-know-and-5-best-fpv-racing-drones-for-2024/"><u>[New] Drone Racing All You Need to Know and 5 Best FPV Racing Drones for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-experttech-reviews-data-drive-de-stressing/"><u>[New] In 2024, ExpertTech Reviews Data Drive De-Stressing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1715860418024-new-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/"><u>[New] Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10).</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mobile-communication-redefined-best-10-secured-free-video-call-apps-to-keep-you-covered-on-devices/"><u>[Updated] 2024 Approved Mobile Communication Redefined Best 10 Secured, Free Video Call Apps to Keep You Covered on Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bridging-reality-and-simulation/"><u>[Updated] Bridging Reality and Simulation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-full-screen-flexibility-with-pip-feature-on-iphones/"><u>2024 Approved Unlock Full Screen Flexibility with PIP Feature on iPhones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-narratives-transforming-text-with-gpt-for-epic-dandd-experiences/"><u>AI Narratives: Transforming Text with GPT for Epic D&D Experiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/anthropic-ai-accessing-claude-3-prompts/"><u>Anthropic AI: Accessing Claude 3 Prompts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/awaken-your-inner-german-top-25-idioms-to-perfect-your-speech/"><u>Awaken Your Inner German - Top 25 Idioms to Perfect Your Speech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-minds-and-devices-chatgpt-on-android/"><u>Bridging Minds & Devices: ChatGPT on Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-ai-responses-top-5-techniques-for-crafting-powerful-chatgpt-prompts/"><u>Enhance AI Responses: Top 5 Techniques for Crafting Powerful ChatGPT Prompts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-creative-webps-to-standard-pngjpg-with-dall-e-3-techniques/"><u>From Creative WebPs to Standard PNG/JPG with DALL-E 3 Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/palette-proficiency-expertise-through-experience-for-2024/"><u>Palette Proficiency Expertise Through Experience for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailored-export-solutions-the-top-tools-for-ai-conversation-histories/"><u>Tailored Export Solutions – The Top Tools for AI Conversation Histories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tips-for-ensuring-no-trace-of-past-gpt-interactions/"><u>Tips for Ensuring No Trace of Past GPT Interactions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-5-smart-ways-to-save-your-roblox-gaming-on-apple-computers/"><u>[New] In 2024, 5 Smart Ways to Save Your Roblox Gaming on Apple Computers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-5-remote-recorders-online/"><u>[New] In 2024, Best 5 Remote Recorders Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-screencast-technology-with-itop-review/"><u>[New] Mastering Screencast Technology with ITop Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-prospects-cutting-edge-strategies-in-telegram-advertising/"><u>2024 Approved Pioneering Prospects Cutting-Edge Strategies in Telegram Advertising</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-record-pc-sounds-effortlessly-with-x-recorder/"><u>2024 Approved Record PC Sounds Effortlessly with X-Recorder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-ai-comparing-notions-prowess-against-chatgpt/"><u>Choosing AI: Comparing Notion's Prowess Against ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-the-future-of-sound-integrating-gpt-into-daws/"><u>Crafting the Future of Sound: Integrating GPT Into DAWs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-self-care-setting-boundaries-through-ai/"><u>Enhancing Self-Care: Setting Boundaries Through AI</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-agni-2-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Agni 2 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/open-secrets-mechanical-keyboards-unveiled/"><u>Open Secrets: Mechanical Keyboards Unveiled</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oneplus-nord-ce-3-lite-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix OnePlus Nord CE 3 Lite 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-workflows-utilizing-chatgpt-wisely/"><u>Strategic Workflows: Utilizing ChatGPT Wisely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-checklist-key-aspects-to-assess-prior-to-purchasing-wearable-tech-gear/"><u>The Ultimate Checklist: Key Aspects to Assess Prior to Purchasing Wearable Tech Gear</u></a></li>
+<li><a href="https://win-web.techidaily.com/top-10-highly-rated-xvid-video-players-compatible-with-pc-systems/"><u>Top 10 Highly Rated Xvid Video Players Compatible with PC Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twittrick-uncovered-metasig-initiative/"><u>TwitTrick Uncovered: Metasig Initiative</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-your-smartphone-with-bing-ai-search/"><u>Unlock the Full Potential of Your Smartphone: With Bing AI Search</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-chatgpt-pioneer-the-next-wave-of-healthtech/"><u>Will ChatGPT Pioneer the Next Wave of Healthtech?</u></a></li>
 </ul></div>
 

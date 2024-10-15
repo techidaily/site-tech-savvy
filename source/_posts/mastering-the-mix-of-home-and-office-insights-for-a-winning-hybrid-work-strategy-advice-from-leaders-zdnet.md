@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Mix of Home and Office: Insights for a Winning Hybrid Work Strategy - Advice From Leaders | ZDNET"
-date: 2024-09-18 20:48:52
-updated: 2024-09-20 10:19:27
+date: 2024-10-10T20:53:07.151Z
+updated: 2024-10-14T23:31:16.940Z
 tags:
   - work-life
 categories:
@@ -51,6 +51,13 @@ Of course, not every company will be as flexible. Carruthers suggested pushing b
 
 "Now that there are more hybrid or flexible approaches to work, our research suggests companies with more restrictive approaches will struggle to recruit. So, push back."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create flexible guidelines
 
 Craig Donald, CIO at The Football Association (The FA), is another business leader who said it's tough when managers issue a return-to-the-office decree. 
@@ -71,6 +78,19 @@ Donald said empathetic conversations begin when issues become apparent -- and th
 
 "Is the communication happening? Are we seeing any failures from that lack of communication? And if we're seeing that, that's where the conversation starts."
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Develop a great place to work
 
 Nic Granger, director of corporate and CFO at North Sea Transition Authority (NSTA), said her organization gives people the freedom to make choices within an established framework.
@@ -86,6 +106,13 @@ Granger said NSTA's hybrid strategy is part of a wider approach to work. The exe
 "We deliver through our people, so apart from using specific partners on technology projects, we don't bring in huge numbers of consultancies," she said. 
 
 "If you have people on your team who don't enjoy working for your organization, they won't stay long. Create a great place to work and live those values."
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Listen to your colleagues
 
@@ -106,6 +133,13 @@ In these situations, he encourages everyone to communicate.
 "It's all about active listening and having a conversation, not just listening to respond. Try to understand the other person's point of view and then try to find a compromise," said Richardson.
 
 "As a manager, you might discover your employee has a good reason why they need to be in the office less and then you can try to find a sensible solution. Listening and communicating is the best advice I can give."
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Take a democratic approach
 
@@ -144,11 +178,28 @@ He said these strong results are being delivered by a hybrid workforce, which pr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-key-principles-to-uphold-youtube-civility/"><u>[New] Key Principles to Uphold YouTube Civility</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-channel-evolution-via-studio/"><u>[New] The Ultimate Guide to Channel Evolution via Studio</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-zte-axon-40-lite-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For ZTE Axon 40 Lite Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-cumuluspro-standing-desk-pad-assessment-your-ultimate-comfort-solution/"><u>Comprehensive CumulusPRO Standing Desk Pad Assessment: Your Ultimate Comfort Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fix-lenovo-easy-camera-not-working-issue-on-windows-10/"><u>Fix Lenovo Easy Camera Not Working Issue on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hiberfilsys-file-in-windows-10-expert-guide-on-removal/"><u>Hiberfil.sys File in Windows 10: Expert Guide on Removal</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-c32-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia C32? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-and-speedy-up-your-windows-1011-startup/"><u>How to Fix and Speedy Up Your Windows 10/11 Startup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-repeatloop-youtube-videos-automatically/"><u>How to Repeat/Loop YouTube Videos Automatically</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-uninstall-drivers-in-windows-11-7-and-81/"><u>How to Uninstall Drivers in Windows 11, 7 & 8.1</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-poco-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Poco Devices</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-x-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone X Location | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instagram-mastery-easy-steps-to-great-collages/"><u>Instagram Mastery Easy Steps to Great Collages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-strategy-to-recover-or-confirm-your-personal-email-id/"><u>The Ultimate Strategy to Recover or Confirm Your Personal Email ID</u></a></li>
+</ul></div>
+

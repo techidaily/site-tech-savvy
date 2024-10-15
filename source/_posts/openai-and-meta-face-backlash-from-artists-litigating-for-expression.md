@@ -1,7 +1,7 @@
 ---
 title: OpenAI & Meta Face Backlash From Artists Litigating for Expression
-date: 2024-10-04T06:52:12.391Z
-updated: 2024-10-09T04:09:32.982Z
+date: 2024-10-10T16:05:22.643Z
+updated: 2024-10-15T09:02:07.592Z
 tags:
   - chatgpt
   - open-ai
@@ -37,16 +37,16 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
  Coincidentally, a [separate class action lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.cand.414822/gov.uscourts.cand.414822.1.0%5F1.pdf) \[PDF\] against OpenAI alleges the company used unauthorized private information to train ChatGPT. Google is also facing a similar lawsuit over allegedly using stolen data to train Google Bard. This is why you should [make it a habit to protect your personal information](https://www.makeuseof.com/online-safety-habits-data-privacy/), though publishing work and private personal data are not the same.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are the Chances Sarah Silverman Could Win the Lawsuit?
@@ -62,10 +62,10 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
  If it's proven that OpenAI and Meta used illegal torrent websites to acquire copyrighted materials to train its AI models, Silverman may have a shot of winning the lawsuit. However, AI models are uncharted territory with no precedent for courts to rely on to make a ruling based on AI copyright infringement. In fact, that's one of the reasons why [the EU proposed an AI Act.](https://www.makeuseof.com/what-is-the-eu-ai-act-how-would-it-affect-chatgpt/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Future of AI Models and Copyright Law?
@@ -73,10 +73,10 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We're still in the early days of AI to know how it will adapt to copyright law. It's even more complex trying to figure out [who owns the copyright to AI creation](https://www.makeuseof.com/who-owns-copyright-to-ai-creations/). But for human creators, regulations exist to protect them against someone else accessing their copyrighted material without compensation, consent, or credit. If the rules exist for humans, will they apply to AI models?
@@ -84,10 +84,10 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
  The EU parliament drafted the closest glimpse into the future of how AI models will comply with copyright law. If the EU AI Act is assented into law, AI models like ChatGPT and Bard will be required to publish all their dataset sources and copyrighted data used for training. This will help clear up any confusion if the AI models accessed copyrighted books, movies, music, and photos for training through illegal piracy websites.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The AI Class Action Lawsuit Ruling Will Set a Legal Precedent
@@ -115,18 +115,22 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-audiences-choice-in-drama-writings-for-2024/"><u>[New] Audience's Choice in Drama Writings for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-powerful-ai-software-transforming-how-we-take-notes/"><u>6 Powerful AI Software Transforming How We Take Notes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-chatgpt-alternatives-for-coding-programs-automatically/"><u>7 ChatGPT Alternatives for Coding Programs Automatically</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-compreenhensive-guide-to-everyones-gpt-4/"><u>A Compreenhensive Guide to Everyone's GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-guide-to-the-openai-api-and-what-you-can-do-with-it/"><u>A Guide to the OpenAI API and What You Can Do With It</u></a></li>
-<li><a href="https://fox-info.techidaily.com/enhance-your-iphone-hd-video-clarity-in-premiere-pro-effortlessly-for-2024/"><u>Enhance Your iPhone HD Video Clarity in Premiere Pro Effortlessly for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Itel A05s? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-m14-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy M14 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-printer-software-for-windows/"><u>HP OfficeJet Pro 8600 Printer Software for Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instant-annotation-text-overlaying-on-images-and-videos-using-windows-photos/"><u>Instant Annotation Text Overlaying on Images & Videos Using Windows Photos</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-nokia-105-classic-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia 105 Classic – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-poco-f5-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Poco F5 5G</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlocking-youtube-videos-a-guide-to-sequential-viewing-for-2024/"><u>Unlocking YouTube Videos A Guide to Sequential Viewing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-turning-youtube-viewers-into-brand-partners/"><u>[New] The Ultimate Guide to Turning Youtube Viewers Into Brand Partners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-secrets-top-strategies-for-advanced-srt-tweaks-on-apple/"><u>[New] Unveiling Secrets Top Strategies for Advanced SRT Tweaks on Apple</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlock-the-secrets-of-your-lost-iphone-x/"><u>[Updated] 2024 Approved Unlock the Secrets of Your Lost iPhone X</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-eco-friendly-visual-effects-revolutionizing-online-video-content/"><u>2024 Approved Leveraging Eco-Friendly Visual Effects Revolutionizing Online Video Content</u></a></li>
+<li><a href="https://fox-place.techidaily.com/creative-tims-innovative-laravel-headless-cms-and-json-api-guide/"><u>Creative Tim's Innovative Laravel Headless CMS & JSON API Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-truthgpt-innovation-by-tesla-boss/"><u>Decoding TruthGPT: Innovation by Tesla Boss</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-realme-note-50-frp-by-drfone-android/"><u>Full Guide to Bypass Realme Note 50 FRP</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-misconfigured-or-unknown-speakers-on-your-pc-running-windows-11/"><u>Guide to Fixing Misconfigured or Unknown Speakers on Your PC Running Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-quickcapturewin-instant-screenshots-for-pcs/"><u>In 2024, QuickCaptureWin Instant Screenshots for PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-plugin-installation-with-ease/"><u>Navigating ChatGPT Plugin Installation with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-integration-using-gpt-3-tools-at-openai-hub/"><u>Seamless Integration: Using GPT-3 Tools at OpenAI Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/selecting-the-perfect-ultrawide-display-for-gamers/"><u>Selecting the Perfect Ultrawide Display for Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swiftly-sidestep-common-chatgpt-login-blockades/"><u>Swiftly Sidestep Common ChatGPT Login Blockades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-comparison-guide-bing-chat-vs-gpt-3-for-freelancers/"><u>The Ultimate Comparison Guide: Bing Chat Vs. GPT-3 for Freelancers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tomorrows-technology-tales-a-look-at-7-future-secrets/"><u>Tomorrow's Technology Tales: A Look at 7 Future Secrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-factors-chatgpts-unprecedented-ascent/"><u>Top 5 Factors: ChatGPT's Unprecedented Ascent</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truth-unveiled-dispelling-popular-fallacies-in-ai-chatbots/"><u>Truth Unveiled: Dispelling Popular Fallacies in AI Chatbots</u></a></li>
 </ul></div>
 

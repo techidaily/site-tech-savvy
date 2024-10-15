@@ -1,7 +1,7 @@
 ---
 title: Tailoring Dietary Patterns With AI Assistance
-date: 2024-10-05T20:34:15.903Z
-updated: 2024-10-09T02:32:06.327Z
+date: 2024-10-08T23:48:44.565Z
+updated: 2024-10-15T12:51:36.310Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/43c06cd54be27b9a1da971cc73bbcba750a0ab4f1
 * How long do you want the cooking time to be for each meal?
 * How much do you want the cost per meal to be if you're cooking on a budget?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT to Determine Your TDEE and BMR
 
 ![ChatGPT AI chatbot online tool TDEE BMR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tdee-bmr.jpg)
@@ -57,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/43c06cd54be27b9a1da971cc73bbcba750a0ab4f1
  BMR is the energy your body uses while at rest. Knowing these numbers is important to your particular goals. All you have to do is type "**How do I calculate my TDEE and BMR?**" into ChatGPT, and it automatically generates the needed equations and formulas.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use ChatGPT to Create a Healthy Meal Plan
@@ -79,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/43c06cd54be27b9a1da971cc73bbcba750a0ab4f1
 * Two-week vegetarian meal plan that caters to nut allergies, serves one, and includes three meals per day. No more than one hour of cooking time with an included grocery list.
 * One-week meal plan with three meals, one snack, and no dietary restrictions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Problems With ChatGPT Meal Plans
 
  Keep in mind that ChatGPT is not consistent all the time, and the tool may generate factual errors that could mislead you if you don't verify the information with other trustworthy sources. For example, in the previous screenshot, ChatGPT erroneously reports that the price of the breakfast meal is $4 when it is, in fact, $5\.
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/43c06cd54be27b9a1da971cc73bbcba750a0ab4f1
  This can result in spending an enormous amount of money on groceries and lots of extra unused ingredients.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Better Meal Planning Alternatives to ChatGPT
@@ -112,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/43c06cd54be27b9a1da971cc73bbcba750a0ab4f1
 ![SideChef meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-meal-plan-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![SideChef preferences mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-preferences.jpg)
@@ -134,14 +134,14 @@ Close
 
 ![Eat this much meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-meal-plan.jpg)
 
-![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
 
 Close
 
@@ -170,16 +170,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-a-beginners-guide-to-profitable-animated-advertising-in-facebook/"><u>[New] In 2024, A Beginner's Guide to Profitable Animated Advertising in Facebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-easy-and-fast-youtubes-best-subtitle-getters-for-2024/"><u>[Updated] Free, Easy and Fast YouTube's Best Subtitle Getters for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-sprint-towards-subscriber-goal-reach-1000/"><u>2024 Approved Sprint Towards Subscriber Goal Reach 1,000</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-definitive-selection-gopros-top-15-tripod-options/"><u>2024 Approved The Definitive Selection GoPro's Top 15 Tripod Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-career-trajectories-in-ai-driven-responsiveness-design/"><u>Exploring Career Trajectories in AI-Driven Responsiveness Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-poetic-excellence-the-chatgpt-method/"><u>Leveraging AI for Poetic Excellence: The ChatGPT Method</u></a></li>
-<li><a href="https://fox-access.techidaily.com/securing-photo-libraries-without-copyright-notices/"><u>Securing Photo Libraries Without Copyright Notices</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/solve-single-airpod-issues-with-these-proven-steps/"><u>Solve Single AirPod Issues with These Proven Steps</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/surviving-snapstreaks-essential-strategies-for-longevity/"><u>Surviving Snapstreaks Essential Strategies for Longevity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-route-to-reproduce-and-store-your-gpt-powered-talks/"><u>The Route to Reproduce and Store Your GPT-Powered Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasking-imitations-openais-new-gpt-verifier/"><u>Unmasking Imitations: OpenAI's New GPT Verifier</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-integrating-mixer-with-macos-for-smooth-streaming/"><u>[New] Integrating Mixer with macOS for Smooth Streaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-analysis-dji-inspire-1-unveiled/"><u>[Updated] Comprehensive Analysis DJI Inspire 1 Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-push-the-boundaries-of-snapchat-choose-from-these-best-edits/"><u>2024 Approved Push the Boundaries of Snapchat Choose From These Best Edits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieve-high-quality-streams-the-top-4k-youtube-tools/"><u>Achieve High-Quality Streams The Top 4K YouTube Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-pro-merits-vs-costs/"><u>ChatGPT Pro: Merits Vs. Costs?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-peak-performance-in-live-recording-software/"><u>In 2024, Peak Performance in Live Recording Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/modern-measures-of-machine-minds-after-the-turing-test/"><u>Modern Measures of Machine Minds: After The Turing Test</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/natural-selection-and-climate-change-a-separate-issue/"><u>Natural Selection and Climate Change: A Separate Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-complex-world-of-ai-as-a-mental-health-aide/"><u>Navigating the Complex World of AI as a Mental Health Aide</u></a></li>
+<li><a href="https://facebook.techidaily.com/prime-free-digital-aides-to-streamline-social/"><u>Prime Free Digital Aides to Streamline Social</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-stuck-spacebar-problem-on-your-newly-installed-windows-11-pc/"><u>Solving the Stuck Spacebar Problem on Your Newly Installed Windows 11 PC</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/upgrading-to-more-space-installing-larger-drives-and-ssds-on-windows-11-systems/"><u>Upgrading to More Space: Installing Larger Drives and SSDs on Windows 11 Systems</u></a></li>
 </ul></div>
 

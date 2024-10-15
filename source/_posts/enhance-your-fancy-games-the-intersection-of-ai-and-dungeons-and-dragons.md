@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Fancy Games: The Intersection of AI and Dungeons & Dragons"
-date: 2024-10-02T18:06:39.247Z
-updated: 2024-10-08T22:49:26.389Z
+date: 2024-10-11T16:33:45.724Z
+updated: 2024-10-15T00:56:10.946Z
 tags:
   - chatgpt
   - open-ai
@@ -56,16 +56,16 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 
 ![ChatGPT describing a crystal weapon foundry in a the fictional city of Tremion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-describing-a-crystal-weapon-foundry-in-a-the-fictional-city-of-tremion.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One advantage of using an advanced [virtual tabletop (or VTT)](https://www.makeuseof.com/what-is-virtual-tabletop-how-it-works/) is that you can embed these ChatGPT-generated descriptions as notes into your scenes. This will let the game flow smoothly, and you will get less distracted juggling tabs for descriptions.
 
  If you don’t know which VTT to use for your D&D game, we have a list of [the best VTTs for D&D](https://www.makeuseof.com/the-best-virtual-tabletops-vtts-to-play-dd-and-other-rpgs/) you can work with.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Generating Loot Is a Lot Faster
 
@@ -87,14 +87,14 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 
 ![ChatGPT suggesting to use an Investigation roll for a D&D scenario](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-suggesting-to-use-an-investigation-roll-for-a-d-d-scenario.jpeg)
 
- In the image above, ChatGPT resolved a scenario where the players had to find a handprint stain in a burgled room as an Investigation roll, not a Perception roll. Additionally, it also gave its reasons why, which could be a great explanation for players who would like to argue.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ In the image above, ChatGPT resolved a scenario where the players had to find a handprint stain in a burgled room as an Investigation roll, not a Perception roll. Additionally, it also gave its reasons why, which could be a great explanation for players who would like to argue.
 
 ## Calculations and Simulating Results
 
@@ -105,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
  When we typed the scenario into ChatGPT, it was able to detect how far the arrow would have to travel to reach its target. Thanks to this, we quickly figured out that the arrow would travel 158.7ft, which is no longer in the longbow’s accurate range—meaning that the roll had to be made with a disadvantage.
 
 ![ChatGPT calculating the distance an arrow has to travel to hit its target](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-calculating-the-distance-an-arrow-has-to-travel-to-hit-its-target.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s still worth noting that sometimes the AI may generate wrong results, as that’s one of the [issues with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). You should still use your discretion as a game master and a human to make the right calls.
 
@@ -124,10 +117,17 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 ![ChatGPT answering the question on how a bard should string their lute](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-answering-the-question-on-how-a-bard-should-string-their-lute.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## There’s More AI Can Do in Your Games
@@ -155,17 +155,16 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-twists-that-tell-stories-mastering-the-art-and-technique-of-spinning-visuals-for-maximum-impact-on-social-media-platforms/"><u>[New] In 2024, Twists That Tell Stories Mastering the Art and Technique of Spinning Visuals for Maximum Impact on Social Media Platforms</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-twitch-live-recording-made-simple/"><u>[New] In 2024, Twitch Live Recording Made Simple</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-navigating-the-insider-features-of-zoom-software-for-windows-11-for-2024/"><u>[New] Navigating the Insider Features of Zoom Software for Windows 11 for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-elevating-your-nba-experience-with-advanced-streaming/"><u>[Updated] In 2024, Elevating Your NBA Experience with Advanced Streaming</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/exploring-sourav-joshis-success-on-youtube-for-a-profitable-2024/"><u>Exploring Sourav Joshi’s Success on YouTube for a Profitable 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-odt-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .odt file document with Electronic Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-tap-into-anthropics-ai-creative-store/"><u>How to Tap Into Anthropic's AI Creative Store</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-fundamentals-of-generative-ai-demystified/"><u>The Fundamentals of Generative AI Demystified</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/who-wins-gpt-clashes-with-bings-ai-and-google-bard/"><u>Who Wins? GPT Clashes with Bing's AI and Google Bard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-trusting-chatbots-isnt-a-strategy-for-secure-key-creation/"><u>Why Trusting Chatbots Isn't a Strategy for Secure Key Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-art-of-youtube-split-screens/"><u>[Updated] Unveiling the Art of YouTube Split-Screens</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-ultimate-guide-to-generating-ideal-youtube-titles-on-a-shoestring/"><u>2024 Approved The Ultimate Guide to Generating Ideal YouTube Titles on a Shoestring</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-5-compelling-literary-video-tts/"><u>2024 Approved Unveiling 5 Compelling Literary Video TTs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-exploration-benchmarked-against-enhanced-chatgptplus/"><u>Claude Pro Exploration: Benchmarked Against Enhanced ChatGPT+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-ai-insights-with-stardust-guided-futures/"><u>Comparing AI Insights with Stardust-Guided Futures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-titans-palm-2-vs-gpt-4-comparison/"><u>Dissecting AI Titans: PaLM 2 Vs. GPT-4 Comparison</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mapping-out-the-ideal-next-linguistic-adventure/"><u>Mapping Out The Ideal Next Linguistic Adventure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speak-up-smartphone-chatgpts-android-introduction/"><u>Speak Up, Smartphone: ChatGPT's Android Introduction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-analyzing-gpt-versions-from-one-to-four/"><u>Step by Step: Analyzing GPT Versions From One to Four</u></a></li>
+<li><a href="https://tools.techidaily.com/ubackup/products/"><u>Ubackup's Products</u></a></li>
+<li><a href="https://fox-http.techidaily.com/wintry-wonderland-olympic-moments-from-beijing-2022-for-2024/"><u>Wintry Wonderland Olympic Moments From Beijing 2022 for 2024</u></a></li>
 </ul></div>
 

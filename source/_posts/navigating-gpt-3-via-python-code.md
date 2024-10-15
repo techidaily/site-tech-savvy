@@ -1,7 +1,7 @@
 ---
 title: Navigating GPT-3 via Python Code
-date: 2024-10-03T23:27:57.288Z
-updated: 2024-10-09T04:38:15.490Z
+date: 2024-10-11T06:56:13.900Z
+updated: 2024-10-15T03:21:25.475Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
  If you're wondering what GPT-3 is capable of, then you can explore some of the [creative uses for GPT-3 in OpenAI Playground](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generating the API Key
@@ -55,16 +55,23 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 3. Click on **Create new secret key** to generate your API key.  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Create Secret API Screen of OpenAI website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/create-secret-api-screen-of-openai-website.jpg)
 4. Copy your API key and keep it in a secure location as you won't be able to view it again.
 
  OpenAI's GPT-3 API charges you based on the number of tokens (words) you use to interact with it. Luckily, OpenAI provides $18 of credit for free for the first three months, so you can explore it and experiment according to your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Building a Python Program to Use the GPT-3 API
 
@@ -110,25 +117,24 @@ main()`
 
  Put it all together and use Artificial Intelligence to answer your questions.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Output of Your GPT-3-Enabled Python Program
 
  When you run the program, it will ask you to enter a question. On entering the prompt, "Write a poem in 5 lines about how Iron Man is the greatest superhero of all time," the program produced the following impressive output:
 
 ![Output of using GPT3 with Python](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/output-of-using-gpt3-with-python.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## GPT-3 Has Many Interesting Applications
 
@@ -155,20 +161,19 @@ main()`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-drive-audience-participation-through-custom-stories-queries-for-2024/"><u>[New] Drive Audience Participation Through Custom Stories Queries for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-stock-photography-hits-and-heartfelt-tales/"><u>[New] In 2024, Stock Photography Hits & Heartfelt Tales</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unleash-your-video-potential-with-free-enhancers/"><u>[New] Unleash Your Video Potential with Free Enhancers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-ios-filmmaking-software/"><u>2024 Approved Best iOS Filmmaking Software</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/choreographing-narrative-news-wrappers/"><u>Choreographing Narrative News Wrappers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cracking-the-language-code-insights-into-gpts-translation-mechanism/"><u>Cracking the Language Code: Insights Into GPT's Translation Mechanism</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-gpts-present-working-state/"><u>Discovering GPT's Present Working State</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-your-analysis-game-with-these-chatgpt-techniques/"><u>Enhance Your Analysis Game with These ChatGPT Techniques</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-xiaomi-redmi-note-12-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Xiaomi Redmi Note 12 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone XS Max</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-lava-yuva-3-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Lava Yuva 3 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-latest-updates-enabling-chatgpt-beta-plugins/"><u>Leveraging Latest Updates: Enabling ChatGPT Beta Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-advancing-ai-intensifies-our-digital-threats/"><u>Why Advancing AI Intensifies Our Digital Threats</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-the-wheel-turns-slow-for-chatgpt-4-compared-to-35/"><u>Why the Wheel Turns Slow for ChatGPT-4 Compared to 3.5?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-social-circulation-sharing-your-journey-through-video-on-facebook/"><u>[Updated] Seamless Social Circulation Sharing Your Journey Through Video on Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transcribe-speaking-to-writing-free-of-charge/"><u>[Updated] Transcribe Speaking to Writing Free of Charge</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-digital-documentation-at-its-best-with-ezvide-software/"><u>2024 Approved Digital Documentation at Its Best with EZvide Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fast-track-your-mobile-vids-with-these-tools/"><u>2024 Approved Fast-Track Your Mobile Vids with These Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-persuasive-reasons-to-upgrade-to-chatgpt-plus-today/"><u>5 Persuasive Reasons to Upgrade to ChatGPT Plus Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-future-of-professional-development/"><u>AI & the Future of Professional Development</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/discovering-video-content-on-fb-a-comprehensive-guide-for-2024/"><u>Discovering Video Content on FB A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-pc-interaction-with-nvidias-ai-assistant/"><u>Enhancing PC Interaction with Nvidia’s AI Assistant</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-dynamics-of-shared-links-in-chatgpt/"><u>Exploring the Dynamics of Shared Links in ChatGPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/five-proven-fixes-to-stop-pathfinder-wrath-of-the-righteous-from-crashing-down/"><u>Five Proven Fixes to Stop 'Pathfinder: Wrath of the Righteous' From Crashing Down</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-minecraft-lan-connectivity-woes-on-windows/"><u>Navigating Minecraft LAN Connectivity Woes on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-resume-writing-leverage-ai-inspire-employers/"><u>Smart Résumé Writing: Leverage AI, Inspire Employers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-services-revolutionized-by-chatgpt-technology/"><u>Web Services Revolutionized by ChatGPT Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726027945459-facebook-live/"><u>スムーズに保存！Facebook LIVE動画の取得方法</u></a></li>
 </ul></div>
 

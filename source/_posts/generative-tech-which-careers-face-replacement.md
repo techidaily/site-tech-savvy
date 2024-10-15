@@ -1,7 +1,7 @@
 ---
 title: "Generative Tech: Which Careers Face Replacement?"
-date: 2024-10-05T06:53:56.939Z
-updated: 2024-10-09T03:14:54.500Z
+date: 2024-10-10T21:34:07.183Z
+updated: 2024-10-15T11:42:56.348Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  These examples might make you think there’s [no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/). However, that’s not an accurate assumption.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Replace Programmers?
@@ -56,10 +56,10 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -77,10 +77,10 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some [criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/), ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -94,10 +94,10 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Elsewhere, people are explicitly [formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and [spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
@@ -121,22 +121,20 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-30-must-try-mp4-gadgets-unveiled/"><u>[Updated] 30 Must-Try MP4 Gadgets Unveiled</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-expert-selection-ranking-the-finest-6-head-mounted-gopros/"><u>2024 Approved Expert Selection Ranking the Finest 6 Head-Mounted GOPROs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-art-of-recording-your-online-fb-conversations/"><u>2024 Approved The Art of Recording Your Online FB Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/character-depth-explored-top-11-chatgpt-inquiry-models/"><u>Character Depth Explored: Top 11 ChatGPT Inquiry Models</u></a></li>
-<li><a href="https://common-error.techidaily.com/combat-high-cpu-load-from-desktop-window-manager-with-these-5-powerful-windows-1110-tweaks/"><u>Combat High CPU Load From Desktop Window Manager with These 5 Powerful Windows 11/10 Tweaks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/discovering-the-world-of-audio-with-your-ios-device-for-2024/"><u>Discovering the World of Audio with Your iOS Device for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-linguistics-tech-nlp-vs-ml/"><u>Dissecting Linguistics Tech: NLP vs ML</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-list-of-leading-artificial-intelligence-note-taking-apps/"><u>Essential List of Leading Artificial Intelligence Note-Taking Apps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-15-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 15 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-obs-broadcasting-directly-on-instagram/"><u>In 2024, OBS Broadcasting Directly on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/modern-ai-metrics-beyond-the-historical-turing-index/"><u>Modern AI Metrics: Beyond the Historical Turing Index</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paramount-considerations-in-utilizing-artificial-intelligence-for-emotional-support-via-chatgpt/"><u>Paramount Considerations in Utilizing Artificial Intelligence for Emotional Support via ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pathway-to-peak-performance-chatgpts-wellbe-point-of-view/"><u>Pathway to Peak Performance: ChatGPT's Wellbe Point of View</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/politeness-in-the-age-of-ai-engaging-with-gpt-alexa-and-more/"><u>Politeness in the Age of AI: Engaging with GPT, Alexa & More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-health-care-with-chatgpts-top-9-tactics/"><u>Revolutionizing Health Care with ChatGPT’s Top 9 Tactics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sparkle-in-the-spotlight-personalized-logos-made-easy-and-free-for-2024/"><u>Sparkle in the Spotlight Personalized Logos Made Easy & Free for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-repair-a-non-responsive-microsoft-store-application/"><u>Troubleshooting Guide: How to Repair a Non-Responsive Microsoft Store Application</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-green-screen-recording-tools/"><u>[New] Best Green Screen Recording Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-rx-fanfare-update-pack/"><u>[Updated] In 2024, RX Fanfare Update Pack</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-the-art-of-video-to-audio-conversion-on-insta/"><u>[Updated] Mastering the Art of Video-to-Audio Conversion on Insta</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-virality-vortex-mastering-content-circulation-on-social-media/"><u>[Updated] The Virality Vortex Mastering Content Circulation on Social Media</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-y55s-5g-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo Y55s 5G (2023) Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-14-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 14 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/leading-list-the-10-cost-effective-mobile-video-conferencing-for-2024/"><u>Leading List The 10 Cost-Effective Mobile Video Conferencing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-the-power-of-cookiebot-for-superior-online-tracking-and-conversion-optimization/"><u>Leverage the Power of Cookiebot for Superior Online Tracking and Conversion Optimization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-smart-contract-handling-key-perspectives-by-abbyy-thought-leaders-on-linkedin/"><u>Mastering Smart Contract Handling: Key Perspectives by ABBYY Thought Leaders on LinkedIn</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-network-communications-key-aspects-of-outbound-ip-addresses-by-abbyy/"><u>Navigating Network Communications: Key Aspects of Outbound IP Addresses by ABBYY</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimized-with-advanced-cookie-management-technology/"><u>Optimized with Advanced Cookie Management Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rhenus-und-die-verbesserte-systemgestaltung-der-dokumentenaufnahme-erfolg-durch-seo/"><u>Rhenus Und Die Verbesserte Systemgestaltung Der Dokumentenaufnahme – Erfolg Durch SEO?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scan-textbooks-and-documents-to-pdf-or-jpg-via-iphones-finereader-pro-advanced-optical-character-recognition-ocr-features/"><u>Scan Textbooks and Documents to PDF or JPG via iPhone's FineReader Pro | Advanced Optical Character Recognition (OCR) Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seize-your-chance-unlocking-potential-with-intelligent-process-automation/"><u>Seize Your Chance: Unlocking Potential with Intelligent Process Automation</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Poco X5 | Dr.fone</u></a></li>
 </ul></div>
 

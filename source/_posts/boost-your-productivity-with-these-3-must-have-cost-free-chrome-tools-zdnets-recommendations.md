@@ -1,7 +1,7 @@
 ---
 title: Boost Your Productivity with These 3 Must-Have, Cost-Free Chrome Tools - ZDNet's Recommendations
-date: 2024-09-19 22:31:10
-updated: 2024-09-20 12:39:29
+date: 2024-10-08T18:19:51.370Z
+updated: 2024-10-14T22:25:56.854Z
 tags:
   - work-life
 categories:
@@ -44,11 +44,31 @@ Here are the three that I've installed. And the good news is that they are all f
 
 Increased productivity, here I come!
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Checker Plus for Gmail
 
 Checker Plus for Gmail
 
 Google
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -61,6 +81,13 @@ Checker Plus for Gmail allows emails to appear as pop-up notifications, giving m
 There's even an option to run this in the background when Google Chrome is closed and still get new email alerts.
 
 **See it here:** [Checker Plus for Gmail on the Chrome Web Store](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj?hl=en)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Dualless
 
@@ -79,6 +106,13 @@ The ratios of the splits can be adjusted according to my needs -- between 3:7, 4
 I'm amazed by just how much of a productivity booster using multiple windows is compared with switching between tabs.
 
 **See it here:** [Dualless on the Chrome Web Store](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd/related?hl=en)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. RescueTime for Chrome and Chrome OS
 
@@ -115,11 +149,31 @@ RescueTime auto-categorizes sites I visit and scores them on a scale ranging fro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unveiling-youtubes-features-adding-images-to-videos/"><u>[Updated] In 2024, Unveiling YouTube's Features Adding Images to Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2023-strategy-for-twitter-snaps-via-snapchat-uploads/"><u>2023 Strategy for Twitter Snaps via Snapchat Uploads</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-disappearance-fresh-gpu-setup/"><u>Display Disappearance: Fresh GPU Setup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-insights-adjusting-tempo-for-optimal-snapchat-viewing/"><u>Expert Insights Adjusting Tempo for Optimal Snapchat Viewing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-change-a-word-file-into-easy-reading-kindle-mobi-books/"><u>How to Change a Word File Into Easy-Reading Kindle MOBI Books</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-bring-your-best-movies-from-mmc-to-the-vimeo-universe/"><u>In 2024, Bring Your Best Movies From MMC to the Vimeo Universe</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-image-resizing-techniques-for-windows-and-mac-users/"><u>Mastering Image Resizing Techniques for Windows and Mac Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-miracast-technology-in-windows-1011-setup-instructions-and-troubleshooting-hacks-for-smooth-streaming/"><u>Mastering Miracast Technology in Windows 10/11: Setup Instructions & Troubleshooting Hacks for Smooth Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-youtube-audio-removal-2-proven-strategies/"><u>Mastering the Art of YouTube Audio Removal - 2 Proven Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-trouble-free-streaming-solving-not-responsive-errors-with-spotify-on-windows/"><u>Mastering Trouble-Free Streaming: Solving 'Not Responsive' Errors with Spotify on Windows</u></a></li>
+<li><a href="https://win-lab.techidaily.com/microsofts-potential-ban-on-windows-11-24h2-mod-apps-what-you-need-to-know-now/"><u>Microsoft's Potential Ban on Windows 11 24H2 Mod Apps – What You Need to Know Now</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-how-to-remove-audio-from-avi/"><u>New 2024 Approved How to Remove Audio From AVI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-tips-for-driver-update-across-windows-881-windows-7-and-windows-nx/"><u>Quick and Simple Tips for Driver Update Across Windows 8/8.1, Windows 7 & Windows nX</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-fix-update-your-windows-10-drivers-with-these-simple-steps/"><u>Quick Fix: Update Your Windows 10 Drivers with These Simple Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolved-troubleshooting-tips-for-fixing-windows-11-install-errors/"><u>Resolved: Troubleshooting Tips for Fixing Windows 11 Install Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/service-host-local-system-svchostexe-high-disk-usage-on-windows-10-solved/"><u>Service Host: Local System (svchost.exe) High Disk Usage on Windows 10 [Solved]</u></a></li>
+</ul></div>
+

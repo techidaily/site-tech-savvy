@@ -1,7 +1,7 @@
 ---
 title: AI's Influence on the Future of Employment
-date: 2024-10-08T07:43:44.316Z
-updated: 2024-10-08T23:45:53.063Z
+date: 2024-10-11T12:27:14.925Z
+updated: 2024-10-14T17:17:30.112Z
 tags:
   - chatgpt
   - open-ai
@@ -42,36 +42,15 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 ![a magnifying glass on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/research-job-market.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One of the biggest problems with text-based generative AI tools such as ChatGPT is inaccuracy. When you talk to ChatGPT, you instinctively trust what it is saying. However, keep in mind that these AI tools don't actually know if what they are saying is true and simply present information in a way that seems human-like and is therefore perceived as trustworthy.
 
  In other words, there is a clear gap that needs to be solved. To fill that gap is the job of fact-checkers. And as these AI tools become mainstream, we will require an increasing number of fact-checkers working behind the scenes to make sure the bots give reliable and accurate information and limit the spread of misinformation.
 
  To do this, we envision companies like Google and Microsoft hiring massive teams of fact-checkers in the near future to train their [AI-powered search engines](https://www.makeuseof.com/ways-ai-search-engines-change-internet/) like Bard and Bing Chat.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Productivity Will Skyrocket for White-Collar Workers
 
 ![Man Working on a Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/man-techie.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We saw how Google is integrating [generative AI in Google Workspace apps](https://www.makeuseof.com/google-workspace-generative-ai/) such as Gmail, Docs, Sheets, Slides, and more. Microsoft is doing the same with its Office 365 suite of productivity apps. Many more companies are implementing the tech on their own products too.
 
@@ -85,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 ![Two women looking at a computer and iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creative-activities-that-boost-your-mental-health.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Speaking of creativity, creative AI tools like DALL-E and Midjourney have taken the art world by storm. We won't get into how many artists are protesting against the use of such tools, as they deem it unfair to have them use their copyrighted artwork for reference.
 
  On a more practical note, creative AI tools will allow artists, graphic designers, interior designers, fashion designers, and product designers to work and come up with new ideas much faster. By having the AI create a rough first draft for you, it allows you the flexibility to quickly make tweaks and adjustments later on to churn out original content faster.
@@ -104,34 +76,68 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 ![Illustration of two computers and app icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/illustration-of-two-computers-and-app-icons.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Planning, organizing, designing, and scheduling a social media campaign is no easy task. There are so many things that you need to keep in mind, such as your brand image, tonality, target audience, brand colors, style guide, and more. It's a job that requires an entire team of creative people.
 
  With generative AI, however, that may no longer be the case. We may soon see the launch of AI tools so capable, they can run month-long social media campaigns all by themselves with little to no oversight.
 
  All you'll need to do, as a social media manager, is simply type your requirements along with contextual specifics such as company history, product description, target audience, tonality, and the timeline of the campaign. The tool will take care of the rest; it'll create designs, schedule posts, put up stories, and respond to comments on your behalf.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Automation Will Lead to Shorter Workdays
 
 ![A clock and a calendar with stationery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Reminders-Notion-Feature-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Given how generative AI will allow many of us to work much faster than before, it's fair to assume that some jobs will see a decline in the number of hours required, leading to shorter workdays.
 
  Since [human capital will become less necessary](https://www.makeuseof.com/types-of-jobs-risk-ai/) going forward, companies will increasingly embrace automation in white-collar jobs. But since some level of human intervention will still be required, employees in some industries will be asked to work fewer hours.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Blue-Collar Jobs Will Become Far More Lucrative
 
 ![Feature cover of a happy construction worker behind his desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/feature-cover-of-a-happy-construction-worker-behind-his-desk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Blue-collar jobs such as farmer, plumber, electrician, mechanic, construction worker, and more are likely to become far more lucrative than ever before in history—perhaps even more than some white-collar jobs. Why? Because unlike white-collar work, many blue-collar jobs require manual labor and cannot be easily automated.
 
  Generative AI can easily learn the patterns of a desk job and produce useful results, but all of those capabilities are limited to software. This is not to say that AI isn't used in some blue-collar jobs, as it is, but software alone can't fix a leaky toilet, plow land, build a house, perform pest control, remove dents from your car, or repair a broken air conditioner.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adapt and Work With AI
 
@@ -158,21 +164,18 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-wrap-up-wisdom-for-media-masters/"><u>[New] In 2024, Wrap-Up Wisdom for Media Masters</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-luminous-techniques-crafting-captivating-cinematic-pieces-for-2024/"><u>[New] Luminous Techniques Crafting Captivating Cinematic Pieces for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unveiling-youtube-shorts-what-it-all-means/"><u>[Updated] In 2024, Unveiling YouTube Shorts What It All Means</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/articulating-ambitions-chatgpt-for-healthy-life-plans/"><u>Articulating Ambitions: ChatGPT for Healthy Life Plans</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-your-creative-catalyst-for-poetic-works/"><u>ChatGPT as Your Creative Catalyst for Poetic Works</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatterbot-security-staying-one-step-ahead/"><u>Chatterbot Security: Staying One Step Ahead</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-unique-chat-experiences/"><u>Craft Unique Chat Experiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-syntax-giants-unveiling-gpt-and-bert-distinctions/"><u>Dissecting Syntax Giants: Unveiling GPT & BERT Distinctions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enabling-iphone-text-messages-imessage-on-android-phones/"><u>Enabling iPhone Text Messages (iMessage) on Android Phones</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-maximizing-your-reach-with-youtube-shorts-templates/"><u>In 2024, Maximizing Your Reach with YouTube Shorts Templates</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/keep-an-eye-out-for-insta-follower-fleece/"><u>Keep an Eye Out for Insta Follower Fleece</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/perfect-plays-in-a-minute-tiktok-templates-for-stellar-videos/"><u>Perfect Plays in a Minute TikTok Templates for Stellar Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-your-final-usb-peripheral-solutions-for-non-recognition-by-windows-os/"><u>Reviving Your Final USB Peripheral: Solutions for Non-Recognition by Windows OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/skype-vs-snapchat-top-8-in-ai-divergence/"><u>Skype vs Snapchat: Top 8 in AI Divergence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/virtual-quests-engaging-with-chatgpt-as-a-game-master/"><u>Virtual Quests: Engaging with ChatGPT as a Game Master</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-advancing-training-with-vr-systems/"><u>[Updated] Advancing Training with VR Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-ai-for-companionship-the-chatgpt-solution/"><u>Cutting-Edge AI for Companionship: The ChatGPT Solution</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-intel-wireless-bluetooth-drivers-for-windows-7-with-one-click/"><u>Download the Intel Wireless Bluetooth Drivers for Windows 7 with One-Click</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-the-best-out-of-your-touchscreen-essential-tips-for-windows-10-users/"><u>Getting the Best Out of Your Touchscreen: Essential Tips for Windows 10 Users</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-cutting-through-content-clutter-youtube-shorts-essentials/"><u>In 2024, Cutting Through Content Clutter YouTube Shorts Essentials</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Infinix Zero 30 5G?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c02-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C02 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-idea-generation-discover-the-leading-5-ai-engines/"><u>Pioneering Idea Generation: Discover the Leading 5 AI Engines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/police-strike-down-vpns-upholding-cyber-law/"><u>Police Strike Down VPNs, Upholding Cyber Law</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-health-guidance-through-ai-with-chatgpt-in-7-steps/"><u>Seamless Health Guidance Through AI with ChatGPT, in 7 Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-nightshade-solutions-for-authenticity-and-ownership-in-art/"><u>Unveiling Nightshade Solutions for Authenticity and Ownership in Art</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-shellgpt-for-efficient-chatgpt-experiences/"><u>Utilizing ShellGPT for Efficient ChatGPT Experiences</u></a></li>
 </ul></div>
 

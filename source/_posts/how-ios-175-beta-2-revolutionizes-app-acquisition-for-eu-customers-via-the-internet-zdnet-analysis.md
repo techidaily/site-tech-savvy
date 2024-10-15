@@ -1,7 +1,7 @@
 ---
 title: How iOS 17.5 Beta 2 Revolutionizes App Acquisition for EU Customers via the Internet | ZDNet Analysis
-date: 2024-10-08T03:52:24.092Z
-updated: 2024-10-08T17:04:31.552Z
+date: 2024-10-11T16:58:12.223Z
+updated: 2024-10-14T21:16:24.131Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -52,13 +52,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -99,10 +92,10 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -115,6 +108,19 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -124,10 +130,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -176,21 +182,16 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-win10-strategy-for-successful-zoom-sessions/"><u>[New] 2024 Approved The Ultimate Win10 Strategy for Successful Zoom Sessions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-from-zero-to-hero-how-to-triumph-with-10-powerful-fb-strategies-for-2024/"><u>[New] From Zero to Hero How to Triumph with 10 Powerful FB Strategies for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-become-an-engaging-speaker-on-google-meet-platforms/"><u>[New] In 2024, Become an Engaging Speaker on Google Meet Platforms</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-daily-dollars-and-cents-average-income-from-youtubes-adsense-per-thousand-viewer-hours/"><u>[Updated] 2024 Approved Daily Dollars and Cents Average Income From YouTube's AdSense Per Thousand Viewer Hours</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-ai-constraints-in-virtual-assistants-and-its-influence/"><u>Decoding AI Constraints in Virtual Assistants and Its Influence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-ai-magic-with-dall-e-3-on-microsoft-bing-free/"><u>Discover AI Magic with DALL-E 3 on Microsoft Bing (Free)</u></a></li>
-<li><a href="https://win-webster.techidaily.com/edit-and-enhance-your-pdfs-to-professional-ppt-format-for-free-discover-the-power-of-flipbuilder-converter/"><u>Edit and Enhance Your PDFs to Professional PPT Format for Free - Discover the Power of FlipBuilder Converter!</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-strategies-to-open-control-panel-in-windows/"><u>Efficient Strategies to Open Control Panel in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-navigate-away-from-dead-end-gpt-tools/"><u>Efficiently Navigate Away From Dead-End GPT Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-networking-how-chatgpt-boosts-your-chance-for-linkedin-employment/"><u>Enhancing Networking: How ChatGPT Boosts Your Chance for LinkedIn Employment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/freelancing-edge-6-innovative-ways-to-utilize-chatgpt/"><u>Freelancing Edge: 6 Innovative Ways to Utilize ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/get-icloud-running-without-glitches-on-your-windows-device/"><u>Get iCloud Running Without Glitches on Your Window's Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openais-linguistic-titans-understanding-gpt-14/"><u>OpenAI’s Linguistic Titans: Understanding GPT-1–4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-twitter-threads-for-maximum-impact-chatgpt/"><u>Tailoring Twitter Threads for Maximum Impact (ChatGPT)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-oppo-reno-11-pro-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Oppo Reno 11 Pro 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-unleash-your-creativity-best-free-and-paid-glitch-video-editing-tools/"><u>Updated Unleash Your Creativity Best Free and Paid Glitch Video Editing Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-recollection-runway-your-easy-path-to-story-archives-for-2024/"><u>[New] Recollection Runway Your Easy Path to Story Archives for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-bandicam-evaluation-features-and-pricing-review-by-movavi/"><u>Comprehensive Bandicam Evaluation: Features and Pricing Review by Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-11-proplus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme 11 Pro+ in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simulate-hand-held-camera-effects-in-photoshop/"><u>In 2024, Simulate Hand-Held Camera Effects in Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-smoothing-iphone-pics-4-methods/"><u>In 2024, The Ultimate Guide to Smoothing iPhone Pics (4 Methods)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-sales-executives-of-the-dach-area-teaming-up-with-abbyys-holt-and-chris-zechmeister/"><u>Top Sales Executives of the DACH Area - Teaming Up with ABBYY's Holt & Chris Zechmeister</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/training-for-the-long-haul-elevating-skills-for-successful-intelligent-automation-endeavors/"><u>Training for the Long Haul: Elevating Skills for Successful Intelligent Automation Endeavors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-document-management-effortlessly-using-cutting-edge-no-code-solutions/"><u>Transform Document Management Effortlessly Using Cutting-Edge No-Code Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformez-votre-transition-numerique-avec-la-derniere-technologie-de-reconnaissance-textuelle-instantanee-dabbyy/"><u>Transformez Votre Transition Numérique Avec La Dernière Technologie De Reconnaissance Textuelle Instantanée D'ABBYY</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-the-future-of-businesses-globally-abbyy-reveals-its-innovative-reimagine-conference-for-digital-empowerment/"><u>Transforming the Future of Businesses Globally - ABBYY Reveals Its Innovative 'Reimagine Conference' For Digital Empowerment</u></a></li>
 </ul></div>
 

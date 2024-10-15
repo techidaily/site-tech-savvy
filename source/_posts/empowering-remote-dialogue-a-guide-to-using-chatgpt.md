@@ -1,7 +1,7 @@
 ---
 title: "Empowering Remote Dialogue: A Guide to Using ChatGPT"
-date: 2024-10-02T22:39:01.154Z
-updated: 2024-10-09T07:41:37.738Z
+date: 2024-10-08T08:04:33.911Z
+updated: 2024-10-15T04:40:10.950Z
 tags:
   - chatgpt
   - open-ai
@@ -40,37 +40,30 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
 
  While these responses may not be the best, they can serve as a great starting point for your preparation. Then, with the questions and potential responses in hand, you can organize them further in any note-taking app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Brainstorm Ideas
 
 ![ChatGPT asnwering the prompt "ideas for improving the collaboration between the project management department and the health and safety department during the installation of a new injection moulding machine on site"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/brainstorming-ideas-using-chatgpt.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT can also be used to brainstorm great ideas during a virtual meeting. For example, you can open the AI in another window and ask it to provide intuitive suggestions about the topics under discussion. These ideas can then be passed to the meeting members, and everyone can discuss their viability.
 
  ChatGPT can help provide a new angle that may solve the issue more efficiently. It can also provide a good starting point for your team to come up with fresh new ideas of their own. You can streamline this process of asking ChatGPT for new ideas by [using your voice to control ChatGPT](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Summarize the Meeting Transcript
 
 ![ChatGPT answering the prompt "Summarize this transcript in 150 words. I just need to know what was discussed in bullet points"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/summarizing-meeting-transcripts-using-chatgpt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  An intuitive and time-saving way to use ChatGPT for your online session is to have it summarize the meeting transcript. All you have to do is provide the transcript and ask ChatGPT to summarize it within a word count of your choice.
@@ -83,15 +76,22 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
 
 ![ChatGPT answering the prompt "What is the next course of action based on the transcription of the meeting we just had"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/deciding-the-next-course-of-action-using-chatgpt.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  An essential part of meeting minutes is to jot down all follow-up actions at the end. This helps clarify what needs to be done next and prevents misunderstandings. Again, ChatGPT can help you with this at the press of a key.
 
  Ask the language model what the next course of action is based on the transcription of your meeting. Then provide the AI chatbot with the transcription of your meeting, and ChatGPT will list all follow-up actions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Assistant for Your Virtual Meetings
@@ -119,22 +119,16 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-ios-leading-ps2-simulators-top-picks/"><u>[New] IOS Leading PS2 Simulators Top Picks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-tag-friends-listen-to-this-podcast-story/"><u>[New] Tag Friends Listen to This Podcast Story</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725287662773-2dvd/"><u>簡単な手順でアナと雪の女王2DVDバックアップ作り方を学ぶ</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-led-adventures-crafting-text-based-roleplay-experiences/"><u>AI-Led Adventures: Crafting Text-Based Roleplay Experiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/democratizing-discussions-sharing-your-gpt-conversations/"><u>Democratizing Discussions: Sharing Your GPT Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-for-dream-job-pursuit/"><u>Harnessing AI for Dream Job Pursuit</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-magic5-ultimate-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor Magic5 Ultimate to iPod | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-routine-mindfulness-engagement/"><u>Leveraging AI for Routine Mindfulness Engagement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/math-and-machine-learning-an-intersection/"><u>Math and Machine Learning: An Intersection</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-your-creativity-best-mac-video-maker-apps/"><u>New 2024 Approved Unleash Your Creativity Best Mac Video Maker Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-ai-integration-in-the-web-sphere/"><u>Seamless AI Integration in the Web Sphere</u></a></li>
-<li><a href="https://network-issues.techidaily.com/silencing-the-fallout-4-errors-on-pc/"><u>Silencing the Fallout 4 Errors on PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speedy-sign-in-strategies-unlock-your-best-gmail-shortcuts/"><u>Speedy Sign-In Strategies: Unlock Your Best Gmail Shortcuts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tactical-gpt-recognition-for-detecting-sham-chatbots/"><u>Tactical GPT Recognition for Detecting Sham ChatBots</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-technology-secrets-at-toms-electronics-hub/"><u>Unveiling Technology Secrets at Tom's Electronics Hub</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spectacular-screens-7-premium-photo-editing-tools/"><u>[Updated] Spectacular Screens 7 Premium Photo Editing Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-ios-photo-editors-to-eliminate-objects-effectively/"><u>2024 Approved Best iOS Photo Editors to Eliminate Objects Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-expands-asian-footprint-with-new-office-launch-in-hong-kong/"><u>ABBYY Expands Asian Footprint with New Office Launch in Hong Kong</u></a></li>
+<li><a href="https://win-community.techidaily.com/guide-visuel-transferer-des-images-entre-systemes-dexploitation-windows-107-tutoriel-en-video/"><u>Guide Visuel : Transférer Des Images Entre Systèmes D'exploitation Windows 10/7 (Tutoriel en Vidéo)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-disabling-do-not-disturb-feature-on-your-ios-device/"><u>Guide: Disabling 'Do Not Disturb' Feature on Your iOS Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-budget-savvy-shoppers-guide-to-panoramic-recording-tech/"><u>In 2024, Budget-Savvy Shoppers' Guide to Panoramic Recording Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-site-advanced-analytics-and-personalization-using-the-cookiebot-engine/"><u>Revolutionize Your Site: Advanced Analytics & Personalization Using the Cookiebot Engine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surfez-sur-la-vague-de-changement-limpact-accelerateur-des-crises-sur-les-relations-bancaires/"><u>Surfez Sur La Vague De Changement - L'Impact Accélérateur Des Crises Sur Les Relations Bancaires</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-gpt-models-from-one-to-four/"><u>Unpacking GPT Models From One to Four</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/video-posting-made-simple-with-correct-aspect-ratio/"><u>Video Posting Made Simple with Correct Aspect Ratio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/world-leaders-in-tech-discussing-tomorrows-intelligence-systems/"><u>World Leaders in Tech Discussing Tomorrow's Intelligence Systems</u></a></li>
 </ul></div>
 

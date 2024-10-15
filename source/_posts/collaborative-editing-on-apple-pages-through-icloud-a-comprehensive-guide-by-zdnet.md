@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Editing on Apple Pages Through iCloud: A Comprehensive Guide by ZDNet"
-date: 2024-10-06T05:23:47.341Z
-updated: 2024-10-08T16:25:07.460Z
+date: 2024-10-13T09:26:58.512Z
+updated: 2024-10-14T19:42:55.513Z
 tags:
   - apple
 categories:
@@ -34,16 +34,10 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
@@ -51,10 +45,10 @@ I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/76
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -65,13 +59,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -80,13 +67,20 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enable the Collaboration feature
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
@@ -163,22 +157,22 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-creating-funny-text-memes-a-step-by-step-guide-for-2024/"><u>[New] Creating Funny Text Memes A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-art-of-illusion-crafting-stunning-snaps-with-filters/"><u>[New] The Art of Illusion Crafting Stunning Snaps with Filters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/12-artificial-intelligence-helpers-for-perfecting-emails/"><u>12 Artificial Intelligence Helpers for Perfecting Emails</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/22-streamline-communication-leading-free-ai-email-services/"><u>22 Streamline Communication: Leading Free AI Email Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/3-effective-ways-to-use-chatgpt-in-excel/"><u>3 Effective Ways to Use ChatGPT in Excel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-improvements-to-the-chatgpt-plugins-store-we-want-to-see/"><u>4 Improvements to the ChatGPT Plugins Store We Want to See</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-unconventional-ways-to-leverage-chatbots/"><u>5 Unconventional Ways to Leverage ChatBots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-reasons-for-vigilance-when-dealing-with-automated-systems/"><u>6 Reasons for Vigilance when Dealing with Automated Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-reasons-why-snapchats-my-ai-is-more-than-just-a-cool-toy/"><u>6 Reasons Why Snapchat's My AI Is More Than Just a Cool Toy</u></a></li>
-<li><a href="https://article-files.techidaily.com/comparative-overview-of-googles-ar-stickers-and-its-counterparts/"><u>Comparative Overview of Google's AR Stickers & Its Counterparts</u></a></li>
-<li><a href="https://fox-within.techidaily.com/enhance-your-ebook-appeal-turn-dull-text-and-images-into-vibrant-flash-books-using-flipbuilder/"><u>Enhance Your eBook Appeal: Turn Dull Text & Images Into Vibrant Flash Books Using FlipBuilder</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oppo-a18-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Oppo A18 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamlined-steps-for-storing-webcam-chat-transcripts/"><u>In 2024, Streamlined Steps for Storing Webcam Chat Transcripts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-call-of-duty-warzone-techniques-to-eliminate-hiccups-and-up-your-games-fps/"><u>Mastering Call of Duty: Warzone - Techniques to Eliminate Hiccups and Up Your Game's FPS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721419593588-unlock-bings-full-potential-with-ai-powered-mobile-search/"><u>Unlock Bing’s Full Potential with AI-Powered Mobile Search.</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/zooms-role-in-professional-podcast-recording-explained/"><u>Zoom's Role in Professional Podcast Recording Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fostering-resilience-in-the-face-of-cyber-haters/"><u>[Updated] In 2024, Fostering Resilience in the Face of Cyber Haters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-your-slides-with-these-4-youtube-video-inclusion-methods/"><u>[Updated] Streamline Your Slides with These 4 YouTube Video Inclusion Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-investigators-unite-explore-4-online-whodunit-adventures/"><u>AI Investigators Unite: Explore 4 Online Whodunit Adventures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-gpt-plus-versus-perplexity/"><u>AI Showdown: GPT Plus Versus Perplexity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/character-complexity-made-simple-by-chatgpts-nine-methods/"><u>Character Complexity Made Simple by ChatGPT’s Nine Methods</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-send-gif-on-snapchat-stey-by-stey-guide/"><u>How to Send Gif on Snapchat [Stey-by-Stey Guide]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-motorola-moto-g04-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Motorola Moto G04 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-oppo-a1x-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Oppo A1x 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-users-check-this-out-chatgpt-app/"><u>IOS Users, Check This Out: ChatGPT App!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps5-controller-not-charging-heres-how-you-can-fix-it/"><u>PS5 Controller Not Charging? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-business-8-key-ways-to-harness-chatgpt/"><u>The Future of Business: 8 Key Ways to Harness ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-human-element-in-comprehensive-document-synopses/"><u>The Human Element in Comprehensive Document Synopses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-vr-video-versus-spherical-capture-tech-distinctions-for-2024/"><u>Unveiling VR Video versus Spherical Capture Tech Distinctions for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-expert-audio-tidying-up-techniques-and-applications-to-purify-soundtracks/"><u>Updated 2024 Approved Expert Audio Tidying Up Techniques and Applications to Purify Soundtracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-llama-2-and-how-can-you-use-it/"><u>What Is Llama 2 and How Can You Use It?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/winchatgpt-hoax-exposed-the-facts-unfolded/"><u>WinChatGPT Hoax Exposed - The Facts Unfolded</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Recruitment Game: How Influential Business Leaders Unlock Attraction of Premier Tech Talent – Expert Tips on ZDNET"
-date: 2024-09-17 17:15:17
-updated: 2024-09-20 10:33:49
+date: 2024-10-09T11:25:35.446Z
+updated: 2024-10-14T18:43:38.104Z
 tags:
   - work-life
 categories:
@@ -51,6 +51,13 @@ Finally, Mills ensures his company has a ready source of up-and-comping talent, 
 
 "We're going in and influencing their curriculum, offering internships, sponsorships, externships, and tuition reimbursement," he says. "It's about helping to find and fuel talent. We get some of our brightest and best people from local community sources."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Identify the opportunities
 
 Lisa Heneghan, global chief digital officer at consultancy firm KPMG, says the ability of a business to attract talent is directly related to the opportunity to learn new things. 
@@ -66,6 +73,13 @@ The key to success is showing how working for a company like KPMG, with a wide r
 "I show people they'll have the opportunity for new experiences and to broaden their skills in areas that they hadn't necessarily thought about; to get close to the client, sector or functional issue and to be creative," she says.
 
 "For me, the opportunity for technologists at KPMG is to work on business problems. But don't get me wrong. It's a very challenging market. And you must create mobility, flexibility, and excitement for people."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Expose your values
 
@@ -83,6 +97,13 @@ Another key value -- which Gonzalez says is probably his favorite -- is "own it"
 
 "People at LNER can really own what they're doing," he says. "They have the autonomy to focus on what we need to do and then get on and do it, and actually own that all the way through to delivery."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Make people excited 
 
 Simon Liste, chief information technology officer at the Pension Protection Fund, goes out of his way to show potential candidates that being part of his organization means working on some meaty projects.
@@ -96,6 +117,13 @@ Liste says that show-and-tell mentality is something he's pushed massively.
 "When we engage with potential candidates, we talk about our values, we talk about the strategic plan, what we're doing, and how technology changes services directly. We show how our IT organization is influencing where we go next as a business," he says.
 
 "It's not about operational activity, it's about exciting work. They see the value that technology and digital can bring and the impact we've already made."
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Cast your net wide
 
@@ -134,11 +162,29 @@ External recruitment can play an important role, too. And, once again, the peopl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-vrecorder-guide-downloading-and-setting-up-instantly/"><u>[New] VRecorder Guide Downloading & Setting Up Instantly</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-harmony-in-sounds-legally-downloaded-meditation-chants-and-more/"><u>[Updated] In 2024, Harmony in Sounds Legally Downloaded Meditation Chants & More</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-of-achievements-a-million-gaming-milestones/"><u>Arena of Achievements A Million Gaming Milestones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-abnormal-android-video-display/"><u>Fix Abnormal Android Video Display</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/foremost-frame-openers-identifying-the-most-effective-16-youtube-intros/"><u>Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-15-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 15 Prevention & Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-miracast-pairing-with-your-windows-11-device-a-comprehensive-guide/"><u>Mastering Miracast Pairing with Your Windows 11 Device - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-youtube-music-eclecticism-for-2024/"><u>Navigating YouTube Music Eclecticism for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-fix-solutions-to-accelerate-your-windows-10-update-process/"><u>Quick-Fix Solutions to Accelerate Your Windows 10 Update Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-guide-usb-tethering-setup-on-windows-11-made-easy/"><u>Simple Guide: USB Tethering Setup on Windows 11 Made Easy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplest-ways-to-get-audio-out-of-youtube-clips-with-precision/"><u>Simplest Ways to Get Audio Out of YouTube Clips with Precision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ideal-apple-sanctioned-video-editor-app-for-mac-users-seeking-quality-and-performance/"><u>The Ideal Apple Sanctioned Video Editor App for Mac Users Seeking Quality and Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-strategies-to-boost-your-fps-in-roblox-gaming-expert-tips-for-2n4/"><u>Top Strategies to Boost Your FPS in Roblox Gaming: Expert Tips for 2N4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-vpn-services-for-optimal-performance-on-pc-games/"><u>Top-Ranked VPN Services for Optimal Performance on PC Games</u></a></li>
+</ul></div>
+

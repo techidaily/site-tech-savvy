@@ -1,7 +1,7 @@
 ---
 title: Why Claude 3 Could Be Your New Go-To Over ChatGPT's Version
-date: 2024-10-02T16:57:04.632Z
-updated: 2024-10-09T05:51:00.797Z
+date: 2024-10-08T02:37:06.437Z
+updated: 2024-10-14T18:31:17.482Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/705f65e32c2a47c9858b39842cfffb42a850218d7
 * [Claude Offers Multimodality for Free](https://atezr.pxf.io/752omg)
 * [Larger Context Window](https://bluettieu.pxf.io/nlgoka)
 * [More Messages Per Hour](https://boody-eco-wear.pxf.io/qyo4oo)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -59,20 +52,34 @@ thumbnail: https://thmb.techidaily.com/705f65e32c2a47c9858b39842cfffb42a850218d7
 1. Sample 1  
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
 
@@ -91,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/705f65e32c2a47c9858b39842cfffb42a850218d7
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  Claude Offers Multimodality for Free
@@ -114,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/705f65e32c2a47c9858b39842cfffb42a850218d7
  Why does this even matter? Well, the larger the context window, the more text data you can process at a time without the AI chatbot making things up. Claude's 200k context window is equivalent to around 150,000 words. Yep, it means you'll theoretically be able to process 150,000 words simultaneously with Claude, while ChatGPT could cap you out at 24,000 words even on its premium tier. You see? The difference is like night and day—at least in theory.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  More Messages Per Hour
@@ -151,14 +158,16 @@ thumbnail: https://thmb.techidaily.com/705f65e32c2a47c9858b39842cfffb42a850218d7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-navigating-personal-brand-identity-high-engagement/"><u>[New] 2024 Approved Navigating Personal Brand Identity [High Engagement]</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-cleanest-recording-app-ad-aware-edition-for-2024/"><u>[Updated] Cleanest Recording App - Ad-Aware Edition for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-the-role-of-analytics-in-amplifying-your-youtube-presence/"><u>2024 Approved The Role of Analytics in Amplifying Your YouTube Presence</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721476193860-6-effective-fixes-for-an-iphone-stuck-showing-sos-in-the-status-bar-restore-full-use/"><u>6 Effective Fixes for an iPhone Stuck Showing SOS in the Status Bar - Restore Full Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-there-security-flaws-in-chatgpt/"><u>Are There Security Flaws in ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-the-course-for-ethical-ai-navigation/"><u>Charting the Course for Ethical AI Navigation</u></a></li>
-<li><a href="https://win-able.techidaily.com/game-fixed-wrath-of-the-rightenous-no-longer-plagued-by-continuous-crashes-patch-details-inside/"><u>Game Fixed! 'Wrath of the Rightenous' No Longer Plagued by Continuous Crashes – Patch Details Inside</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/showcase-of-ai-uniform-tasks-evaluation/"><u>Showcase of AI: Uniform Tasks Evaluation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-insights-into-using-chatgpt-as-a-health-advice-partner/"><u>Top 7 Insights Into Using ChatGPT as a Health Advice Partner</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easy-download-of-youtube-preview-pictures/"><u>[New] In 2024, Easy Download of YouTube Preview Pictures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-finest-html5-video-tools-for-content-creators/"><u>[New] The Finest HTML5 Video Tools for Content Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44ox44ot44k744k544oe44kk44ol44oz44kw44gu6kmz57sw6kej6kqs77ya44gp44gg44gx44gm6yen6kab44gl77yf44cn/"><u>「プロセスマイニングの詳細解説：どうして重要か？」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-enhanced-traffic-insights-with-our-state-of-the-art-cookiebot-technology/"><u>1. Enhanced Traffic Insights with Our State-of-the-Art Cookiebot Technology</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unveiling-the-secrets-perfecting-motion-blur-in-photoshop/"><u>2024 Approved Unveiling the Secrets Perfecting Motion Blur in Photoshop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-blog-the-five-biggest-challenges-facing-developers-with-receipt-ocr-technology/"><u>ABBYY Blog: The Five Biggest Challenges Facing Developers with Receipt OCR Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-enhances-eucon-efficiency-through-advanced-automatic-document-handling/"><u>ABBYY Enhances Eucon Efficiency Through Advanced Automatic Document Handling</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 12 with IMEI Code?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-beam-into-collaborative-spaces-within-tiktok/"><u>In 2024, Beam Into Collaborative Spaces Within TikTok</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cost-analysis-completing-a-music-video-shoot/"><u>In 2024, Cost Analysis Completing A Music Video Shoot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-abbyy2020/"><u>デジタルインテリジェンスとその6つの魅力的な物語 - ABBYYブログで読むべき2020年</u></a></li>
 </ul></div>
 

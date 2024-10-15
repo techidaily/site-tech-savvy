@@ -1,7 +1,7 @@
 ---
 title: Bridging the Gap Between Human Creativity and AI with Nightshade
-date: 2024-10-02T22:44:21.975Z
-updated: 2024-10-08T18:31:57.947Z
+date: 2024-10-08T12:31:48.371Z
+updated: 2024-10-14T20:06:26.480Z
 tags:
   - chatgpt
   - open-ai
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 * [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Nightshade is an AI tool that "poisons" digital art, making it unusable for training AI models.
@@ -47,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is AI Poisoning?
@@ -60,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
@@ -79,10 +72,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Nightshade
@@ -102,6 +95,14 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 3. Select the image you want to protect by clicking the **Select** button in the top-left. You can also select multiple images at once for batch processing.  
 ![nightshade-program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nightshade-program.jpg)
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
 6. Click the **Run Nightshade** button at the bottom to run the program and poison your images.
 
@@ -126,22 +127,14 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-symphony-of-social-sharing-adding-audio-to-instagram/"><u>[New] 2024 Approved The Symphony of Social Sharing Adding Audio to Instagram</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-chromebooks-finest-free-video-capturers/"><u>[New] In 2024, Chromebooks' Finest Free Video Capturers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-premier-mp4-converter-for-smooth-fb-integration-for-2024/"><u>[New] Premier MP4 Converter for Smooth FB Integration for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/5255-drivers-free-downloads-available-now/"><u>5255 Drivers - Free Downloads Available Now!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-fireside-chat-about-the-latest-addition-to-minecraft-the-campfire-tales-skin-series-evaluation/"><u>A Fireside Chat About the Latest Addition to Minecraft: The Campfire Tales Skin Series Evaluation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-video-edits-on-zoom-discover-3-simple-techniques/"><u>Effortless Video Edits on Zoom: Discover 3 Simple Techniques</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/fastidious-norsk-comprehension-in-short-spurts/"><u>Fastidious Norsk Comprehension in Short Spurts!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-3gp-to-mjpeg-using-movavi/"><u>Free Online Converter: Transform 3GP to MJPEG Using Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-tool-convert-wmv-audio-files-to-mp3-format-by-movavi/"><u>Free Online Tool: Convert WMV Audio Files to MP3 Format by Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/god-of-war-action-packed-first-person-shooter-now-available-for-windows-gamers/"><u>God of War Action-Packed First Person Shooter Now Available for Windows Gamers!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuiti-mpg-ai-formati-m4v-convertiti-in-ligne-da-videoexpert/"><u>Gratuiti MPG Ai Formati M4V Convertiti in Ligne Da VideoExpert</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-magic-vs-2-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor Magic Vs 2?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-top-8-limitations-of-ai-chatbots-for-professional-content-creators/"><u>The Top 8 Limitations of AI Chatbots for Professional Content Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-dvd-conversion-tools-best-software-solutions-for-pc-and-mac-devices/"><u>Top 7 DVD Conversion Tools: Best Software Solutions for PC & Mac Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforma-musica-y-dialogos-de-pelicula-en-mp3-sin-gastos-utilizando-la-herramienta-convertidora-en-linea-gratuita-para-archivos-vob/"><u>Transforma Música Y Diálogos De Película en MP3 Sin Gastos Utilizando La Herramienta Convertidora en Línea Gratuita Para Archivos VOB</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trasforma-flac-in-wmv-on-line-gratuitamente-usando-leditor-di-video-movavi/"><u>Trasforma FLAC in WMV On-Line Gratuitamente Usando L'editor Di Video Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wi-fi-nef/"><u>무료 Wi-Fi용 NEF 텔리드화 - 모바이비전 스타일 및 기타 최신 기능</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-lone-user-review-of-future-printer-world/"><u>[New] Unveiling the Lone User Review of Future Printer World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessing-ai-dialogue-bashscripting-and-shellgpt-integration/"><u>Accessing AI Dialogue: BashScripting and ShellGPT Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-impact-of-ai-on-search-algorithms/"><u>Assessing the Impact of AI on Search Algorithms</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-through-frozen-windows-update-snags-quickly/"><u>Cutting Through Frozen Windows Update Snags Quickly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-complet-comment-assembler-et-combiner-diverses-videos-mp4-en-un-seul-fichier/"><u>Guide Complet : Comment Assembler Et Combiner Diverses Vidéos MP4 en Un Seul Fichier</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovation-unleashed-learning-to-use-free-dall-e-3-via-bing/"><u>Innovation Unleashed: Learning to Use Free DALL-E 3 via Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peeling-back-layers-in-ai-security-how-do-prompt-injections-work/"><u>Peeling Back Layers in AI Security: How Do Prompt Injections Work?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-producing-shareable-videos-as-memes-on-social-media-for-2024/"><u>Step-by-Step Producing Shareable Videos as Memes on Social Media for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-how-to-setting-up-bings-artificial-intelligence-on-your-android-typing-platform/"><u>The Ultimate How-To: Setting Up Bing's Artificial Intelligence on Your Android Typing Platform</u></a></li>
 </ul></div>
 

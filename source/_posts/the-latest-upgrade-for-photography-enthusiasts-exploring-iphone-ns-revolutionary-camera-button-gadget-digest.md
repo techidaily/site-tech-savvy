@@ -1,7 +1,7 @@
 ---
 title: "The Latest Upgrade for Photography Enthusiasts: Exploring iPhone N's Revolutionary Camera Button | Gadget Digest"
-date: 2024-10-01T17:27:33.981Z
-updated: 2024-10-09T00:40:14.435Z
+date: 2024-10-09T11:25:52.732Z
+updated: 2024-10-15T08:21:15.772Z
 tags:
   - apple
 categories:
@@ -45,9 +45,23 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -57,13 +71,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -71,6 +78,13 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -90,22 +104,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -115,13 +122,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -165,20 +165,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-premium-4k-capture-systems-our-1-to-18-picks/"><u>[New] 2024 Approved Premium 4K Capture Systems Our #1 to #18 Picks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-video-potential-top-4k-downloader-apps-reviewed/"><u>2024 Approved Unleash Video Potential Top 4K Downloader Apps Reviewed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-v27-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo V27 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-machine-intelligence-beyond-traditional-trials/"><u>Assessing Machine Intelligence Beyond Traditional Trials</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-standard-the-top-10-customizations-for-chatgpt/"><u>Beyond Standard: The Top 10 Customizations for ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-llm-unraveling-the-pros-and-cons-quickly/"><u>Choosing the Right LLM: Unraveling the Pros & Cons Quickly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/duel-of-the-devices-github-copilot-vs-openais-gpt/"><u>Duel of the Devices: GitHub Copilot Vs. OpenAI's GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harness-the-power-of-ai-the-best-pdf-extensions-ranked/"><u>Harness the Power of AI: The Best PDF Extensions Ranked</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-create-unique-ringtone-experiences-on-iphone-for-2024/"><u>How to Create Unique Ringtone Experiences on iPhone for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-aggregate-video-pieces-into-lists/"><u>In 2024, Aggregate Video Pieces Into Lists</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-y200e-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo Y200e 5G FRP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/structured-eating-schemes-inspired-by-gpt/"><u>Structured Eating Schemes Inspired by GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stunning-truth-easy-communication-with-ai-gpt/"><u>Stunning Truth: Easy Communication With AI GPT</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-premier-list-visionary-audiovideo-makers-web/"><u>The Premier List Visionary Audio/Video Makers Web</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-all-inclusive-screen-logger-detailed-app-analyses/"><u>[New] 2024 Approved All-Inclusive Screen Logger - Detailed App Analyses</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-tweaking-the-viewers-journey-the-art-of-custom-thumbnail-design-in-twitter/"><u>[New] 2024 Approved Tweaking the Viewer's Journey The Art of Custom Thumbnail Design in Twitter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-radial-magic-transforming-ordinary-photos-into-art/"><u>[New] Radial Magic Transforming Ordinary Photos Into Art</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capture-it-all-webcams-to-transform-podcasts/"><u>[Updated] Capture It All Webcams to Transform Podcasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advantages-and-disadvantages-of-hiring-nearby-legal-professionals/"><u>Advantages and Disadvantages of Hiring Nearby Legal Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-new-developer-landscape/"><u>AI and the New Developer Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-accuracy-of-chatgpt-and-bard-for-budgets/"><u>Assessing the Accuracy of ChatGPT and Bard for Budgets</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mg3022-printer-driver-update-where-to-download-them-now/"><u>Canon MG3022 Printer Driver Update - Where to Download Them Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-precise-chatgpt-prompts-in-health-and-wellness/"><u>Crafting Precise ChatGPT Prompts in Health & Wellness</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discovering-the-features-of-copernic-for-seamless-image-retrieval/"><u>Discovering the Features of Copernic for Seamless Image Retrieval</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-criteria-top-7-considerations-for-an-effective-bot-service/"><u>Essential Criteria: Top 7 Considerations for an Effective Bot Service</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-gpt-for-enhanced-google-data-management/"><u>Harnessing GPT for Enhanced Google Data Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-enhance-your-dandd-games/"><u>How to Use ChatGPT to Enhance Your D&D Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-maxed-gpt-on-windows-platforms/"><u>Tackling Maxed GPT on Windows Platforms</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/wiederherstellung-geloschter-dokumente-aus-dem-onedrive-recycle-bin/"><u>Wiederherstellung Gelöschter Dokumente Aus Dem OneDrive-Recycle-Bin</u></a></li>
 </ul></div>
 

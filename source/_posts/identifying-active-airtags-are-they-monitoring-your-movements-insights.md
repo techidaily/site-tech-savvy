@@ -1,7 +1,7 @@
 ---
 title: Identifying Active AirTags - Are They Monitoring Your Movements? [Insights]
-date: 2024-10-02T20:51:02.778Z
-updated: 2024-10-09T06:26:49.343Z
+date: 2024-10-09T03:08:05.655Z
+updated: 2024-10-14T18:00:53.628Z
 tags:
   - apple
 categories:
@@ -50,6 +50,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Keyboard passthrough
 
 Working in any of the virtual environments (I prefer Mount Hood) is great, but the immersive environment occludes my keyboard. The Digital Crown allows users to open the side view of the virtual space, but the center is still blocked. 
@@ -81,10 +88,10 @@ Apple currently allows just a few fully immersive environments. While the surfac
 I'd love to see more immersive environments for the Vision Pro. There is a category of long-running videos on YouTube called "ambience videos." They consist of cozy animated scenes with some background music like [this serene coffee shop](https://www.youtube.com/watch?v=W5qamfXh3Q4&t=11737s). How nice would it be to set up work virtually in a coffee shop like this, chill, and be productive? I can see a great app market for well-designed third-party ambience environments. Heck, I'd pay a couple of bucks to work in a selection of charming coffee shops! 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  7\. Larger play space boundary
@@ -99,13 +106,6 @@ There's more flexibility on the Quest 3\. Using a [fairly dangerous optional set
 
 Maybe, with VisionOS 2.0, Apple will allow for some flexibility in play space boundary size. 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  8\. VR controller support
 
 While I wouldn't say that the Quest experience beats the Apple Vision Pro experience, some things just work better on the [Quest 3](https://www.zdnet.com/article/zdnet-2023-product-of-the-year-meta-quest-3/). Key to this is the fact that the Quest 3 has controllers, and the Vision Pro relies entirely on hand gestures. It's time for the Vision Pro to add controller support. 
@@ -119,10 +119,10 @@ This situation was also apparent in [the Marvel What…If? immersive experience]
 Most likely, Apple will someday introduce its own controllers, if only to meet some special purpose large-scale enterprise need. But given that Meta has added support for Apple's spatial videos to the Quest 3, it seems only fair for Apple to add support for Quest controllers. I haven't found Quest 3 controllers available separately, but [since the Quest 2 is only $199](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOculus-Quest-Advanced-All-One-Virtual%2Fdp%2FB099VMT8VZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc38e9c1f-6415-47cc-be35-e1ce57791800%7Cdtp&dtb=1), folks could buy it and get the Quest 2 controllers. Hey, at $199, it's the same price as a [spare Vision Pro battery](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW283LL%2FA%2Fapple-vision-pro-battery&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) or [Vision Pro carrying case](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW2F3LL%2FA%2Fapple-vision-pro-travel-case&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  9\. Better and more accurate hand and eye tracking
@@ -130,13 +130,6 @@ Most likely, Apple will someday introduce its own controllers, if only to meet s
 While many reviewers have described the Vision Pro's hand and eye tracking as "magical," I've found eye tracking so difficult I had to [replace it with wrist tracking using accessibility mode](https://www.zdnet.com/article/i-found-apple-vision-pro-unusable-at-first-but-then-i-fixed-it-heres-how/). As I mentioned above, some hand-tracking latency seems to disrupt game play, and I've found that the Vision Pro has difficulty recognizing hand tracking at the very edge or bottom of the visible screen. 
 
 This needs to improve, and I hope to see an upgrade in VisionOS 2.0\. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  10\. Find My support
 
@@ -147,6 +140,13 @@ Even cooler would be a heads-up display version of Find My that puts an arrow in
 ##  Bonus: Better personas
 
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
 
@@ -186,21 +186,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-analytics-mastery-measuring-success-on-your-instagram-videos/"><u>[New] Analytics Mastery Measuring Success on Your Instagram Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-revolutionize-traffic-flows-with-innovative-facebook-video-tactics/"><u>[Updated] In 2024, Revolutionize Traffic Flows with Innovative Facebook Video Tactics</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-quicktakes-why-videos-thrive-on-twitter-writes/"><u>2024 Approved QuickTakes Why Videos Thrive on Twitter' Writes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-enhanced-ai-tools-justified-by-costs-incurred/"><u>Are Enhanced AI Tools Justified by Costs Incurred?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-microsoft-bing-ai-vs-google-bard-an-in-depth-look-at-the-worlds-best-conversational-agents/"><u>ChatGPT Vs. Microsoft Bing AI Vs. Google Bard - An In-Depth Look at The World’s Best Conversational Agents</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delving-into-claude-2-its-mechanisms-purpose/"><u>Delving Into Claude 2: Its Mechanisms, Purpose</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/descargar-y-convertir-archivos-rmvb-a-formato-mp4-sin-costo-alguno-con-convertidor-online-de-movavi/"><u>Descargar Y Convertir Archivos RMVB a Formato MP4 Sin Costo Alguno Con Convertidor Online De Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-abodes-productivity-with-chatgpt-techniques/"><u>Elevate Your Abode's Productivity with ChatGPT Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/full-gameplay-experience-for-apple-m-devices-using-crossover/"><u>Full Gameplay Experience for Apple M Devices Using CrossOver</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-defy-2-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Defy 2 Phones with/without a PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mitigating-pressure-chatgpt-techniques/"><u>Mitigating Pressure: ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-budget-no-barrier-to-adventure-find-your-plan-with-these-7-free-apps/"><u>No Budget, No Barrier to Adventure – Find Your Plan with These 7 Free Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sparkling-ai-chat-mastering-chatgpts-10-enhancements/"><u>Sparkling AI Chat: Mastering ChatGPT's 10 Enhancements</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tell-your-circle-about-our-best-free-iphone-video-conversion-tools-a-must-for-everyone/"><u>Tell Your Circle About Our Best Free iPhone Video Conversion Tools – A Must for Everyone!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-8-chrome-productivity-boosts-with-cutting-edge-ai-technology/"><u>Top 8 Chrome Productivity Boosts with Cutting-Edge AI Technology</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-sub4sub-does-it-really-work-for-2024/"><u>YouTube Sub4Sub Does It Really Work for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-excellent-video-recorders-for-desktops/"><u>[Updated] 2024 Approved Excellent Video Recorders for Desktops</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-tips-on-inserting-captions-into-youtube-videos-for-2024/"><u>[Updated] Expert Tips on Inserting Captions Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-cutting-edge-platform-for-12-video-live-feeds/"><u>[Updated] In 2024, Cutting-Edge Platform for 12 Video Live Feeds</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-masterful-voice-modification-tools-for-smartphones/"><u>[Updated] In 2024, Masterful Voice Modification Tools for Smartphones</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unveiling-the-ultimate-8-ranked-apps-mobile-video-tile-masters-freepaid/"><u>[Updated] In 2024, Unveiling the Ultimate #8 Ranked Apps Mobile Video Tile Masters (Free/Paid)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screensnap-chromecast-quick-video-capture/"><u>2024 Approved ScreenSnap Chromecast Quick Video Capture</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-oppo-k11-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Oppo K11 5G.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-human-intelligence-surpassing-the-turing-scale/"><u>Beyond Human Intelligence: Surpassing the Turing Scale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engage-gpt-leveraging-bash-for-openais-chatbot/"><u>Engage GPT: Leveraging Bash for OpenAI's Chatbot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flight-frontier-forward-why-upgrade-to-copilot-pro/"><u>Flight Frontier Forward: Why Upgrade to Copilot Pro?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-ai-for-seamless-pc-troubleshooting/"><u>Harness AI for Seamless PC Troubleshooting</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-a-detailed-review-of-murfai-ai-text-to-speech-tool-for-2024/"><u>New A Detailed Review of Murf.ai AI Text-to-Speech Tool for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-hold-on-chatgpt-weakens/"><u>OpenAI's Hold on ChatGPT Weakens?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/predicting-the-unpredictable-chatgpt-vs-astrology/"><u>Predicting the Unpredictable: ChatGPT Vs. Astrology</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-connection-with-up-to-date-netgear-a6210-driver-software-for-windows-platforms-87/"><u>Seamless Connection with Up-to-Date Netgear A6210 Driver Software for Windows Platforms 8/7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-dialogue-engineers-personalizing-chatgpt-with-create-a-gpt/"><u>Tailored Dialogue Engineers: Personalizing ChatGPT with Create a GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-inner-peace-ai-guided-journeys-to-meditation/"><u>Unleashing Inner Peace: AI-Guided Journeys to Meditation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-gpt4alls-working-principles/"><u>Unraveling GPT4All's Working Principles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win1011-a-complete-guide-to-overcoming-error-code-0x800704b3/"><u>Win10/11: A Complete Guide to Overcoming Error Code 0X800704B3</u></a></li>
 </ul></div>
 

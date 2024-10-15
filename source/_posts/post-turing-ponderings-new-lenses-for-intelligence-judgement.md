@@ -1,7 +1,7 @@
 ---
 title: "Post-Turing Ponderings: New Lenses for Intelligence Judgement"
-date: 2024-10-01T22:13:39.173Z
-updated: 2024-10-08T16:03:54.528Z
+date: 2024-10-10T03:13:28.716Z
+updated: 2024-10-15T09:10:08.841Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
  However, the current AI models like ChatGPT-4 and Google Bard haven't yet advanced to a point they can consistently pass the Turing test. In fact, if you're familiar with AI, you can [spot AI-generated text](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The 5 Best Turing Test Alternatives
@@ -66,10 +66,10 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  According to a research paper published on [PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112), the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the [visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
@@ -79,13 +79,6 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the [thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014\.
 
@@ -105,15 +98,22 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  According to the AI classification framework developed by [Chris Saad](https://docsend.com/view/et7755yasfpj3iy6), the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance, [ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/), describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
@@ -141,19 +141,21 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/20-mastering-emails-with-chatgpt-top-20-ai-applications/"><u>20 Mastering Emails with ChatGPT: Top 20 AI Applications</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>2024 Approved Ultimate List of Accessibility 8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-key-ai-assessments-ensuring-chatgpts-accuracy-and-learning/"><u>4 Key AI Assessments: Ensuring ChatGPT's Accuracy and Learning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-ways-to-use-chatgpt-as-a-data-analyst/"><u>6 Ways to Use ChatGPT as a Data Analyst</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-strategies-to-enhance-the-quality-of-your-chatgpt-conversations/"><u>7 Strategies to Enhance the Quality of Your ChatGPT Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-practical-ways-you-can-put-auto-gpt-to-use/"><u>8 Practical Ways You Can Put Auto-GPT to Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-communities-for-beginners-to-learn-about-ai-tools/"><u>9 Communities for Beginners to Learn About AI Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/cutting-edge-tools-for-seamless-vimeo-video-download-for-2024/"><u>Cutting-Edge Tools for Seamless Vimeo Video Download for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-augmenting-creativity-with-the-best-ai-for-podcast-names/"><u>In 2024, Augmenting Creativity with the Best AI for Podcast Names</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-laughter-lab-steps-to-simple-sharp-memes/"><u>In 2024, Laughter Lab Steps to Simple, Sharp Memes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/time-lapse-wizardry-harnessing-gopros-potential-for-2024/"><u>Time-Lapse Wizardry Harnessing GoPro's Potential for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-made-simple-learn-to-connect-detach-and-reinitialize-your-apple-tv-remote-controller-instructions/"><u>Troubleshooting Made Simple: Learn to Connect, Detach & Reinitialize Your Apple TV Remote Controller Instructions.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-hidden-wonders-a-comprehensive-review-of-yokus-island-adventures-gameplay/"><u>Unveiling Hidden Wonders - A Comprehensive Review of Yoku's Island Adventures Gameplay</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-rundll32exe-comprehensive-guide-for-protection-and-management/"><u>What Is rundll32.exe? Comprehensive Guide for Protection & Management</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-dynamic-movement-analysis-a-complete-examination-for-2024/"><u>[New] Dynamic Movement Analysis A Complete Examination for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-starting-out-right-budget-friendly-game-editing-software-for-beginners/"><u>[Updated] 2024 Approved Starting Out Right Budget-Friendly Game Editing Software for Beginners</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-universal-iptv-access-model/"><u>[Updated] In 2024, Universal IPTV Access Model</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tweaking-audio-outputs-sony-ps4-and-ps5-tips/"><u>[Updated] Tweaking Audio Outputs Sony PS4 & PS5 Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-learn-photo-edits-like-a-pro-lunapic-for-starters/"><u>2024 Approved Learn Photo Edits Like a Pro LunaPic for Starters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-your-ideal-vr-gear-selection-would-you-prefer-the-ease-of-mobile-or-tethered-setup/"><u>2024 Approved Unveiling Your Ideal VR Gear Selection Would You Prefer the Ease of Mobile or Tethered Setup?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-love-the-modern-hackers-playbook/"><u>Artificial Love: The Modern Hacker's Playbook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatteach-aid-essential-accuracy-tools-for-classroom-leaders/"><u>ChatTeach Aid: Essential Accuracy Tools for Classroom Leaders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-instagram-video-harmonizing-visuals-with-melody/"><u>Enhancing Instagram Video Harmonizing Visuals with Melody</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y200-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y200 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-into-predictive-ai-written-in-code/"><u>Insights Into Predictive AI' Written in Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-artificial-intelligence-tools-simplifying-notes-capture/"><u>Leading Artificial Intelligence Tools Simplifying Notes Capture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nutrition-blueprints-via-ai-gpt-tips/"><u>Nutrition Blueprints via AI: GPT Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stuck-keys-alert-restoring-order-in-windows/"><u>Stuck Keys Alert: Restoring Order in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-classroom-tech-utilizing-chatgpt-for-learning-enhancement/"><u>Top 5 Classroom Tech: Utilizing ChatGPT for Learning Enhancement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unearthed-secret-chat-with-chatgpt-easily/"><u>Unearthed Secret: Chat With ChatGPT Easily</u></a></li>
 </ul></div>
 

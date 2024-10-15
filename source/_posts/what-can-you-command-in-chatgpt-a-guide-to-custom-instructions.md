@@ -1,7 +1,7 @@
 ---
 title: What Can You Command in ChatGPT? A Guide to Custom Instructions
-date: 2024-10-05T01:00:45.745Z
-updated: 2024-10-09T04:29:38.273Z
+date: 2024-10-12T05:29:15.401Z
+updated: 2024-10-14T19:54:53.668Z
 tags:
   - chatgpt
   - open-ai
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 ![toggling on custom instructions on ChatGPT Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/toggling-on-custom-instructions-on-chatgpt-settings-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the feature is turned on, you have to provide instructions that you want ChatGPT to retain across all your chat sessions.
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 3. Up next, you'll find two fields for providing custom instruction. Click on **Show tips** below each editor to see some examples of what kind of instructions should be provided on both fields.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * For the first editor, provide information about yourself.  
@@ -73,16 +73,23 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
    * For the second editor, you can provide information about how you want ChatGPT's response to be.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    ![Answering custom instructions question 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/answering-custom-instructions-question-2.jpg)
 4. After entering your custom instructions on both fields, click **Save.**
 
  Once your instructions have been saved, your account is ready to use the Custom Instructions feature. If you are still unsure what to do with this incredible new feature, we have a few ideas for you.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Can You Do With ChatGPT Custom Instructions?
 
@@ -95,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 * Outline relevant beliefs, values, or ethical stances you hold that should guide ChatGPT's responses.
 
  The urge to provide personal information to ChatGPT might increase with the introduction of this new feature, but [avoid providing any sensitive information to ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/), even in the instructions' editor. If you have plugins turned on for your account, third-party plugin developers can access any sensitive information you share using the feature.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Personalize ChatGPT to Your Taste
 
@@ -128,19 +128,15 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-craft-your-photos-in-minutes-learning-lunapic/"><u>[New] Craft Your Photos in Minutes Learning LunaPic</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-deciphering-snss-hdr-capabilities-and-comparisons/"><u>[New] Deciphering SNS's HDR Capabilities and Comparisons</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-effortless-guide-never-see-youtube-shorts-again/"><u>[New] In 2024, Effortless Guide Never See YouTube Shorts Again</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-navigating-top-purchasers-for-monetized-yt-channels/"><u>[Updated] In 2024, Navigating Top Purchasers for Monetized YT Channels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-era-for-ai-how-does-transfer-learning-pave-the-way/"><u>A New Era for AI: How Does Transfer Learning Pave The Way?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-website-navigation-systems/"><u>AI's Impact on Website Navigation Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-for-stable-fps-in-resident-evil-village-troubleshooting-guide/"><u>Expert Advice for Stable FPS in Resident Evil Village - Troubleshooting Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-a14-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy A14 5G Lock Screen Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/outshining-gpt-claudes-four-unique-features-for-better-conversations/"><u>Outshining GPT: Claude's Four Unique Features for Better Conversations</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-response-restoration-nvlddmkm-fixed/"><u>Screen Response Restoration: Nvlddmkm Fixed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securing-data-amidst-tailored-chatgpt-models/"><u>Securing Data Amidst Tailored ChatGPT Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ethical-boundaries-chatgpt-and-harmful-programming/"><u>The Ethical Boundaries: ChatGPT and Harmful Programming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-innovation-chatgpt-meets-mindmap-techniques/"><u>Unleash Innovation: ChatGPT Meets Mindmap Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10plus-best-free-online-video-editors/"><u>Updated Top 10+ Best Free Online Video Editors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-aspect-ratio-checklist-for-editors-and-directors-for-2024/"><u>[Updated] The Ultimate Aspect Ratio Checklist for Editors and Directors for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-enhancing-digital-art-with-layered-imagery/"><u>2024 Approved Enhancing Digital Art with Layered Imagery</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-focus-on-you-not-the-surroundings-blur-techniques-for-google-meet-success/"><u>2024 Approved Focus on You, Not the Surroundings Blur Techniques for Google Meet Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-collaboration-redefined-with-6-chatgpt-techniques/"><u>Digital Collaboration Redefined with 6 ChatGPT Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-a78-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo A78 5G Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-to-enrich-your-imaginative-dungeon-quests/"><u>Leveraging GPT to Enrich Your Imaginative Dungeon Quests</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-team-collaboration-using-chatgpt-technology/"><u>Optimizing Team Collaboration Using ChatGPT Technology</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-poco-x5-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Poco X5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dark-side-of-seeking-help-from-artificial-intelligence/"><u>The Dark Side of Seeking Help From Artificial Intelligence</u></a></li>
 </ul></div>
 
