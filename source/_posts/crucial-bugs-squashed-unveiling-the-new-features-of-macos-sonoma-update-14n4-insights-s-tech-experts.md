@@ -1,7 +1,7 @@
 ---
 title: "Crucial Bugs Squashed: Unveiling the New Features of MacOS Sonoma Update 14.n.4 | Insights 'S Tech Experts"
-date: 2024-10-08T22:20:13.774Z
-updated: 2024-10-14T17:43:50.719Z
+date: 2024-10-18T03:43:00.532Z
+updated: 2024-10-21T03:01:29.933Z
 tags:
   - apple
 categories:
@@ -35,6 +35,13 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -72,10 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -103,10 +110,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -120,13 +127,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -156,6 +156,13 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -170,13 +177,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,20 +218,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-noise-free-conversations-achievable-with-voicemod-on-discord-platforms/"><u>[New] In 2024, Noise-Free Conversations Achievable with VoiceMod on Discord Platforms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-guide-testing-mycam-recording-capabilities/"><u>[New] In 2024, Ultimate Guide Testing MyCam Recording Capabilities</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-ultimate-guide-to-crypto-conversion-best-generator-list-for-2024/"><u>[New] The Ultimate Guide to Crypto Conversion – Best Generator List for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-twist-and-turn-tales-transforming-visual-content-on-instagram-platforms-for-2024/"><u>[Updated] Twist and Turn Tales Transforming Visual Content on Instagram Platforms for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/art-of-ai-interaction-top-5-online-lessons/"><u>Art of AI Interaction: Top 5 Online Lessons</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/creating-gripping-videography-content-plans/"><u>Creating Gripping Videography Content Plans</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elite-communities-for-artificinas-intelligentis-prompts/"><u>Elite Communities for Artificinas Intelligentis Prompts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boost-your-movie-magic-free-text-animation-basics/"><u>In 2024, Boost Your Movie Magic Free Text Animation Basics</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-car-ai-troubleshooting-and-fixing-6-common-mishaps/"><u>Mastering Car AI: Troubleshooting & Fixing 6 Common Mishaps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-ai-terrain-openai-leaders-regulatory-vision/"><u>Navigating the AI Terrain: OpenAI Leader’s Regulatory Vision</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-writing-with-hix-and-gpt-4/"><u>Streamline Writing with HIX and GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-textual-adventures-with-chatgpt/"><u>The Art of Textual Adventures with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-power-and-potential-of-claude-2/"><u>The Power and Potential of Claude 2</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mpg-aac-movivid/"><u>오픈 소스 공유: MPG 파일을 무료로 AAC로 전환 - MoviVid</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-cutting-edge-8-innovative-open-source-video-meeting-systems-for-2024/"><u>[Updated] The Cutting Edge 8 Innovative Open Source Video Meeting Systems for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290620011-avchdtsmov/"><u>全種類のビデオファイル変換 - AVCHD、TS、MOVなど対応! 完全ガイド</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/captivate-viewers-strategies-for-viral-video-success-for-2024/"><u>Captivate Viewers Strategies for Viral Video Success for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/imessage-communication-from-your-desktop-tips-for-using-it-with-windows/"><u>IMessage Communication From Your Desktop: Tips for Using It with Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-discovering-video-content-on-fb-a-comprehensive-guide/"><u>In 2024, Discovering Video Content on FB A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-s17-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo S17 to iPad | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-camon-20-premier-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Camon 20 Premier 5G Phone FRP Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsung-leads-with-galaxy-ai-as-tech-giants-face-regulatory-scrutiny-in-global-innovation-rankings/"><u>Samsung Leads with Galaxy AI as Tech Giants Face Regulatory Scrutiny in Global Innovation Rankings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-media-symphony-coordinating-video-sharing/"><u>Social Media Symphony Coordinating Video Sharing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-macbook-gadgets-and-enhancements-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MacBook Gadgets & Enhancements of 2024: Comprehensive Reviews by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-updates-explore-how-apples-latest-airpods-pro-and-max-compare-insights-for-tech-enthusiasts/"><u>Unveiling the Updates: Explore How Apple's Latest AirPods Pro and Max Compare - Insights for Tech Enthusiasts</u></a></li>
 </ul></div>
 

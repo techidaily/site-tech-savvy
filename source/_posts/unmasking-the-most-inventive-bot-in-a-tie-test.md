@@ -1,7 +1,7 @@
 ---
 title: Unmasking the Most Inventive Bot in a Tie Test
-date: 2024-10-12T00:49:18.635Z
-updated: 2024-10-15T05:35:26.301Z
+date: 2024-10-16T01:08:24.942Z
+updated: 2024-10-20T18:58:25.443Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,19 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 * [Which Chatbot Did Best With Short Stories?](https://turtlebeacheu.sjv.io/1r0r59)
 * [Which Chatbot Did Best With Scripts?](https://godlikehost.sjv.io/vnbxzv)
 * [Which Chatbot Did Best With Social Media Bios?](https://eimmie.pxf.io/21emk7)
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -60,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
  ChatGPT wrote the longest song and used interesting lyrics, but the koala theme barely existed, especially when compared to what the other chatbots came up with. It also struggled to complete the song.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Poetry?
@@ -74,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 
 ![ChatGPT Writes a Poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writes-a-poem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Copilot and Gemini were both less effective than ChatGPT in all these regards. However, you may find that results vary depending on the type of poem and the instructions you give each chatbot. Make a note of the many available [tips and tricks for better AI prompting](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/) .
 
 ## Which Chatbot Did Best With Short Stories?
@@ -83,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
  None of the chatbots’ stories were particularly unique or thought-provoking. But the best outcome came from ChatGPT. It was simple but interesting and well-written, a quality sample of creative writing.
 
 ![ChatGPT Writing a Short Story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writing-a-short-story.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The same applied to Gemini’s creation, except that its narration contained confusing elements in what seemed to be an attempt at imaginative expression. It was intriguing to see, but it missed the mark.
 
@@ -103,28 +116,15 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 
 ![Google Gemini Writing a Play Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/google-gemini-writing-a-play-script.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The other two chatbots went for the exact same structure for the scene—perhaps because both apps use OpenAI’s data as their source. They flowed nicely enough, but there was nothing special about the results.
 
  An extra downside to ChatGPT was that one side of the script was cut off and unreadable. When I pointed out the problem, instead of offering a solution, the chatbot produced the exact same text with the same issue. One way to deal with this is to copy the script and paste it into a document, where you can read the scene in full.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Social Media Bios?
@@ -160,20 +160,20 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-from-social-media-videos-to-audible-mp3s-one-click-conversion/"><u>[Updated] 2024 Approved From Social Media Videos to Audible MP3s - One Click Conversion</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-going-beyond-boundaries-streaming-mastery-on-facebook/"><u>[Updated] Going Beyond Boundaries Streaming Mastery on Facebook</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-understanding-video-duration-20mb-example/"><u>[Updated] Understanding Video Duration 20MB Example</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/6-effective-solutions-for-fixing-windows-10-setup-stuck-at-1-34-64-or-99/"><u>6 Effective Solutions for Fixing Windows 10 Setup Stuck at 1%, 34%, 64%, or 99%</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-and-job-market-evolution-the-seven-pillars/"><u>AI & Job Market Evolution – The Seven Pillars</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-aid-excellence-using-these-high-tech-digital-tools/"><u>Boost Aid Excellence Using These High-Tech Digital Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/constructing-actionable-goals-for-optimal-health-via-gpt/"><u>Constructing Actionable Goals for Optimal Health via GPT</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/demystifying-the-purpose-what-is-a-blue-image-on-facebook-for-2024/"><u>Demystifying the Purpose What Is a Blue Image on Facebook for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/digital-training-footage-for-2024/"><u>Digital Training Footage for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expedient-approach-to-identifying-real-chatai-apps/"><u>Expedient Approach to Identifying Real ChatAI Apps</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/governments-role-supervising-ai-through-four-lenses/"><u>Government's Role: Supervising AI Through Four Lenses</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-6-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 6 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-windows-107-audio-issues-no-more-crackling-from-your-speakers/"><u>Resolving Windows 10/7 Audio Issues: No More Crackling From Your Speakers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vocal-intelligence-on-wheels-mercedes-blends-gpt-with-cars/"><u>Vocal Intelligence on Wheels: Mercedes Blends GPT with Cars</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-leading-10-video-editing-programs-for-instagram-reels-enthusiasts/"><u>[New] 2024 Approved Leading 10 Video Editing Programs for Instagram Reels Enthusiasts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-creators-route-to-riches-on-vimeo/"><u>[New] 2024 Approved The Creator's Route to Riches on Vimeo</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-enlightening-your-iphone-experience-with-new-camera-features-for-2024/"><u>[New] Enlightening Your iPhone Experience with New Camera Features for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>[New] In 2024, Internal Screen Recording Huawei Mate 10/20 & P Series Devices (P20, P10)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-deciphering-the-art-of-reversed-visual-searches-online-fb/"><u>[Updated] 2024 Approved Deciphering the Art of Reversed Visual Searches Online (FB)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-navigating-the-telegram-online-experience/"><u>2024 Approved Expert Tips for Navigating the Telegram Online Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apple-podcasts-get-your-audio-fix-instantly/"><u>Apple Podcasts Get Your Audio Fix Instantly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-allure-finding-perfect-background-sounds/"><u>Auditory Allure Finding Perfect Background Sounds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ding-youtube-audience-through-perpetual-creative-commons/"><u>Expanding YouTube Audience Through Perpetual Creative Commons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-online-privacy-60-savings-on-5-year-vpn-membership-learn-more-inside/"><u>Secure Your Online Privacy: 60% Savings on 5-Year VPN Membership - Learn More Inside!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/setting-up-a-windows-10-vpn-connection-step-by-step-guide/"><u>Setting Up a Windows 10 VPN Connection - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-vpn-services-for-uninterrupted-watching-of-the-summer-games-a-comprehensive-review/"><u>Top 3 VPN Services for Uninterrupted Watching of the Summer Games - A Comprehensive Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-free-vpn-services-reviewed-by-experts-unbiased-ratings-from-zdnet/"><u>Top Free VPN Services Reviewed by Experts - Unbiased Ratings From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-android-vpn-providers-thoroughly-evaluated-by-tech-specialists-zdnet/"><u>Top-Ranking Android VPN Providers - Thoroughly Evaluated by Tech Specialists | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mobile-vpn-services-of-2024-comprehensive-expert-reviews-and-comparisons-zdnet/"><u>Top-Ranking Mobile VPN Services of 2024 - Comprehensive Expert Reviews & Comparisons | ZDNet</u></a></li>
 </ul></div>
 

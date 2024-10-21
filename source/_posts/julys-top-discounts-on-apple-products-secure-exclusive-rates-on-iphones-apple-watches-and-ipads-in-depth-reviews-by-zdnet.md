@@ -1,7 +1,7 @@
 ---
 title: "July's Top Discounts on Apple Products : Secure Exclusive Rates on iPhones, Apple Watches, and iPads | In-Depth Reviews by ZDNET"
-date: 2024-10-12T13:48:28.748Z
-updated: 2024-10-15T02:31:45.931Z
+date: 2024-10-15T22:56:32.978Z
+updated: 2024-10-20T23:25:09.763Z
 tags:
   - apple
 categories:
@@ -125,6 +125,13 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -157,13 +164,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7edfde58-3192-4628-8e7b-42c56a313acd%7Cdtp&dtb=1)
@@ -178,22 +178,15 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
@@ -205,6 +198,19 @@ Apple's AirTag, a tracking device that connects to your account and allows you t
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -218,13 +224,6 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -246,6 +245,13 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -291,15 +297,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-audio-best-practices-for-5-windows-11-applications/"><u>[New] Mastering Audio Best Practices for 5 Windows 11 Applications</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-optimizing-large-scale-video-migrations-from-iphone-to-mac-systems/"><u>[New] Optimizing Large-Scale Video Migrations From iPhone to Mac Systems</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-guide-to-structuring-youtube-content-with-separate-chapters/"><u>2024 Approved Guide to Structuring YouTube Content with Separate Chapters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-the-height-final-cut-pro-x-techniques-for-instagram-video/"><u>2024 Approved Mastering the Height Final Cut Pro X Techniques for Instagram Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pugilism-power-play-against-viewership-virtue/"><u>2024 Approved Pugilism Power Play Against Viewership Virtue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-conversational-dynamics-the-evolution-of-response-mechanisms/"><u>AI Conversational Dynamics: The Evolution of Response Mechanisms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-safety-dissecting-cybersecurity-risks/"><u>ChatGPT's Safety: Dissecting Cybersecurity Risks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/developer-decisions-github-copilot-versus-chatgpt-prospects/"><u>Developer Decisions: GitHub Copilot Versus ChatGPT Prospects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-secret-arsenal-5-features-underutilized-by-most-users/"><u>GPT's Secret Arsenal: 5 Features Underutilized by Most Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-free-mindfulness-melodies/"><u>In 2024, Free Mindfulness Melodies</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-streamline-your-creative-process-with-instagrams-audio-features/"><u>[New] 2024 Approved Streamline Your Creative Process with Instagram's Audio Features</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-8k-tv-showdown-highest-resolution-screens-compared/"><u>[Updated] 8K TV Showdown Highest Resolution Screens Compared</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-crafting-the-perfect-binge-worthy-mukbang-experience/"><u>[Updated] Crafting the Perfect Binge-Worthy Mukbang Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fb-story-downloads-decoded-a-quick-and-convenient-guide-for-all-users/"><u>[Updated] In 2024, FB Story Downloads Decoded A Quick & Convenient Guide for All Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-common-mistakes-tips-on-switch-account-security/"><u>Avoid Common Mistakes: Tips on Switch Account Security</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-efficiency-quotient-with-these-4-advanced-chatgpt-tactics/"><u>Boost Your Efficiency Quotient with These 4 Advanced ChatGPT Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/coding-for-chuckles-by-ai-the-quest-to-incite-guffaws/"><u>Coding for Chuckles by AI: The Quest to Incite Guffaws</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-truecaller-app-analysis-features-performance-and-user-experience/"><u>Comprehensive TrueCaller App Analysis: Features, Performance & User Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-apple-watchs-longevity-discover-the-top-8-battery-boosting-configurations/"><u>Enhance Your Apple Watch's Longevity - Discover the Top 8 Battery-Boosting Configurations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-begins-with-chatgpts-significant-upgrades/"><u>New Era Begins with ChatGPT’s Significant Upgrades</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-c12-video-recovery-recover-deleted-videos-from-nokia-c12-by-fonelab-android-recover-video/"><u>Nokia C12 Video Recovery - Recover Deleted Videos from Nokia C12</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/parents-choice-award-winners-a-guide-to-the-finest-kids-tablets-featured/"><u>Parents' Choice Award Winners: A Guide to the Finest Kids' Tablets Featured</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-programmers-dilemma-github-copilot-vs-chatgpt/"><u>The Programmer's Dilemma: GitHub Copilot Vs. ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-repair-windows-11s-malfunctioning-start-menu/"><u>Troubleshooting Guide: How to Repair Windows 11'S Malfunctioning Start Menu</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-the-full-narrative-beyond-chatgpts-summaries/"><u>Unpacking the Full Narrative Beyond ChatGPT's Summaries</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AI's Role in Today's Misinformation Landscape
-date: 2024-10-08T10:59:35.250Z
-updated: 2024-10-15T02:09:54.863Z
+date: 2024-10-13T16:35:33.436Z
+updated: 2024-10-20T22:13:28.645Z
 tags:
   - chatgpt
   - open-ai
@@ -43,22 +43,15 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -70,7 +63,27 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -82,13 +95,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 * **Targeted personalization**: Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -106,13 +112,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by [The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -123,6 +122,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -147,18 +153,20 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-how-to-film-seamless-ocean-vibes-with-these-7-hacks/"><u>[New] How to Film Seamless Ocean Vibes with These 7 Hacks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-stars-of-tomorrow-perfecting-reaction-videos-for-audiences-through-dual-perspectives/"><u>[New] In 2024, Stars of Tomorrow Perfecting Reaction Videos for Audiences Through Dual Perspectives</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-revolutionize-virtuality-top-7-devices-for-success/"><u>[Updated] 2024 Approved Revolutionize Virtuality - Top 7 Devices for Success</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-selecting-the-ultimate-5-game-chat-devices/"><u>[Updated] Selecting the Ultimate 5 Game Chat Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-2-unveiled-insight-into-its-purpose-and-utility/"><u>Claude 2 Unveiled: Insight Into Its Purpose and Utility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guidelines-for-perfecting-your-gpt-interactions/"><u>Guidelines for Perfecting Your GPT Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-power-in-career-pursuits/"><u>Harnessing ChatGPT Power in Career Pursuits</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-v30t-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-of-images-on-the-lock-screen-on-or-off-windows-style/"><u>Mastery of Images on the Lock Screen: On or Off, Windows Style</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-big-ai-moment-predicting-the-release-of-gpt-5/"><u>Next Big AI Moment: Predicting the Release of GPT-5?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/starting-off-as-an-innovator-in-conversational-systems/"><u>Starting Off as an Innovator in Conversational Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-pros-playbook-mastering-the-art-of-capturing-ps4-gaming/"><u>The Pro's Playbook Mastering the Art of Capturing PS4 Gaming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-potential-of-your-cvs-use-chatgpt-for-cover-letters/"><u>Unlock the Potential of Your CVs: Use ChatGPT for Cover Letters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamlining-sound-recording-a-filmmakers-handbook-on-voice-overs-for-2024/"><u>[New] Streamlining Sound Recording A Filmmaker's Handbook on Voice-Overs for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elysiumeditpro-unveiling-photo-wonders-for-2024/"><u>[Updated] ElysiumEditPro Unveiling Photo Wonders for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-full-exploration-of-googles-voice-to-text-speech-recognition-tool/"><u>[Updated] Full Exploration of Google's Voice-to-Text Speech Recognition Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-directors-playbook-with-powerdirector-2024-edition/"><u>[Updated] The Ultimate Directors' Playbook with PowerDirector 2024 Edition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-transform-your-tiktok-avatar-instruction-manual-for-change/"><u>2024 Approved Transform Your TikTok Avatar Instruction Manual for Change</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-an-effective-coding-showcase-a-guide-inspired-by-zdnet/"><u>Creating an Effective Coding Showcase: A Guide Inspired by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-y27s-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo Y27s in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-conquering-interviews-a-compreayers-journey-to-success/"><u>In 2024, Conquering Interviews A Compreayer's Journey to Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/learn-how-to-mute-instagram-recommendations/"><u>Learn How to Mute Instagram Recommendations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-silicon-orchards-expert-strategies-for-a-flourishing-career-at-apple-digitalguruguide/"><u>Navigating Through Silicon Orchards: Expert Strategies for a Flourishing Career at Apple | DigitalGuruGuide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overwhelmed-at-work-discover-how-the-pomodoro-approach-enhances-efficiency-featured-on-zdnet/"><u>Overwhelmed at Work? Discover How the Pomodoro Approach Enhances Efficiency | Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shaping-tomorrows-tech-profiles-of-experts-building-ai-futures-zdnet/"><u>Shaping Tomorrow's Tech: Profiles of Experts Building AI Futures | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-securing-employment-during-economic-downturns-insights-from-zdnet/"><u>Strategies for Securing Employment During Economic Downturns: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-career-development-discover-how-linkedin-leverages-artificam-intelligence-for-simplified-job-matching-and-professional-growth-zdnet/"><u>Streamline Your Career Development: Discover How LinkedIn Leverages Artificam Intelligence for Simplified Job Matching and Professional Growth | ZDnet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-htc-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your HTC Phone</u></a></li>
 </ul></div>
 

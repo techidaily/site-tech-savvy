@@ -1,7 +1,7 @@
 ---
 title: "Dive Into AI Creations: OpenAI's Flexible GPT Offerings"
-date: 2024-10-07T23:29:38.100Z
-updated: 2024-10-15T07:49:53.303Z
+date: 2024-10-16T16:50:33.316Z
+updated: 2024-10-20T17:51:23.893Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 * [How to Find the Best Custom GPTs in the GPT Store](https://ancheer.sjv.io/y96bgp)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -39,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
  OpenAI has finally unveiled its highly anticipated GPT Store, offering users a selection of ChatGPT community-created custom GPTs featuring specialized chatbots ranging from writing and design to programming and productivity. The launch marks OpenAI's latest move to capitalize on the runaway popularity of its AI creation ChatGPT, which took the world by storm after its launch in November 2022\.
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Access the GPT Store
 
@@ -65,34 +65,35 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
-![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
-4. When you find a GPT you want to try, click on it to open the individual GPT page.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
+4. When you find a GPT you want to try, click on it to open the individual GPT page.
 
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
@@ -120,14 +121,22 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-guide-to-selecting-peak-performance-lipo-tech/"><u>[New] A Guide to Selecting Peak-Performance LiPo Tech</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-highlighting-the-leading-10-shadowy-story-viewers/"><u>[New] In 2024, Highlighting the Leading 10 Shadowy Story Viewers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastery-in-maintaining-a-clean-feed-best-twitter-tools/"><u>[Updated] 2024 Approved Mastery in Maintaining a Clean Feed Best Twitter Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazon-prime-day-tech-deals-2024/"><u>Amazon Prime Day Tech Deals 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-revolutionizing-fb-ads-through-innovative-and-effective-video-techniques/"><u>In 2024, Revolutionizing FB Ads Through Innovative and Effective Video Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-trouble-free-streaming-solving-not-responsive-errors-with-spotify-on-windows/"><u>Mastering Trouble-Free Streaming: Solving 'Not Responsive' Errors with Spotify on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-tips-for-driver-update-across-windows-881-windows-7-and-windows-nx/"><u>Quick and Simple Tips for Driver Update Across Windows 8/8.1, Windows 7 & Windows nX</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-fix-update-your-windows-10-drivers-with-these-simple-steps/"><u>Quick Fix: Update Your Windows 10 Drivers with These Simple Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolved-troubleshooting-tips-for-fixing-windows-11-install-errors/"><u>Resolved: Troubleshooting Tips for Fixing Windows 11 Install Errors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mocroscreen-recording-ads/"><u>[New] In 2024, MocroScreen Recording Ads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevating-channels-strategies-for-stardom-on-youtube-for-2024/"><u>[Updated] Elevating Channels Strategies for Stardom on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-videovisionary-toolkit/"><u>[Updated] VideoVisionary Toolkit</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-instagram-video-descriptions/"><u>2024 Approved The Ultimate Guide to Instagram Video Descriptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-redefining-human-experience/"><u>AI's Role in Redefining Human Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/athletic-advocates-mastering-machine-dialogue/"><u>Athletic Advocates, Mastering Machine Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-writers-slump-with-our-top-5-ai-helpers/"><u>Conquer Writer's Slump with Our Top 5 AI Helpers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-bot-face-off-deciding-ai-conversation-leader/"><u>Generative Bot Face-Off - Deciding AI Conversation Leader</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-films-best-shot-techniques-top-5-essentials/"><u>In 2024, Film's Best Shot Techniques Top 5 Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-nutrition-strategies-using-chatgpt/"><u>Personalized Nutrition Strategies Using ChatGPT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-economics-of-successful-podcasting-for-2024/"><u>The Economics of Successful Podcasting for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-showdown-for-writers-notion-ai-vs-openai/"><u>The Ultimate Showdown for Writers: Notion AI Vs. OpenAI</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-substitutes-for-mactubes-compatible-with-both-mac-and-windows-systems-by-allavsoft/"><u>Top Substitutes for MacTubes Compatible with Both Mac & Windows Systems by AllavSoft</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-locating-missing-airpods-and-preventing-future-losses-tips-and-tricks/"><u>Ultimate Guide: Locating Missing AirPods and Preventing Future Losses - Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-interpretability-shap-e-explained/"><u>Understanding AI Interpretability: SHAP E Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-ai-potential-for-enhanced-wellbeing-with-chatgpt/"><u>Unlocking AI Potential for Enhanced Wellbeing with ChatGPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Understanding Labor Strikes and Picketing"
-date: 2024-09-17 20:30:47
-updated: 2024-09-20 12:37:24
+date: 2024-10-16T00:01:55.445Z
+updated: 2024-10-20T23:35:04.197Z
 tags:
   - speakers
 categories:
@@ -55,11 +55,38 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-high-definition-gaming-with-lg-27ud68-monitor-review/"><u>[New] High Definition Gaming with LG 27UD68 Monitor Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-initiating-your-sporty-online-presence-with-mac/"><u>[New] Initiating Your Sporty Online Presence with Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-videographers-toolkit-for-easy-downloads/"><u>[Updated] Top Videographers' Toolkit for Easy Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/140-discounted-xr-headsets-solved-my-app-vision-shortcomings-during-prime-day-a-review-by-tech-expert/"><u>$140 Discounted XR Headsets Solved My App Vision Shortcomings During Prime Day: A Review by Tech Expert</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-lg-unveils-upcoming-xr-headset-meta-quest-3-pro-clone-or-a-brand-new-device/"><u>1. LG Unveils Upcoming XR Headset: Meta Quest 3 Pro Clone or a Brand New Device?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-showcase-spectacatives-the-best-ice-artistry-22/"><u>2024 Approved Showcase Spectacatives The Best Ice Artistry '22</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-xboxs-video-conferencing-feature/"><u>2024 Approved The Ultimate Guide to Xbox's Video Conferencing Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-xr-glasses-solution-beats-apples-vision-tech-and-eliminates-fomo-insights-for-savvy-consumers/"><u>Affordable XR Glasses Solution Beats Apple's Vision Tech and Eliminates FOMO - Insights for Savvy Consumers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-windows-10-errors-starting-dolby-digital-drivers/"><u>How to Resolve Windows 10 Errors Starting Dolby Digital Drivers</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-mastering-drones-key-parts-for-peak-performance/"><u>In 2024, Mastering Drones Key Parts for Peak Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-crafting-tailored-listening-sessions-with-windows-media-player/"><u>Quick Guide to Crafting Tailored Listening Sessions with Windows Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergy-unleashed-how-ai-and-5g-are-revolutionizing-tech-innovations-insights-from-zdnet/"><u>Synergy Unleashed: How AI & 5G Are Revolutionizing Tech Innovations | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-end-of-an-eye-catching-era-google-ditches-augmented-reality-glasses-for-immersive-xr-experiences-infotech-daily/"><u>The End of an Eye-Catching Era: Google Ditches Augmented Reality Glasses for Immersive XR Experiences | InfoTech Daily</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-discounted-tribit-audio-gear-savvy-shoppers-guide-to-prime-day-offers/"><u>Top Discounted Tribit Audio Gear: Savvy Shoppers' Guide to Prime Day Offers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-googles-stealthy-smart-eyewear-a-sign-of-groundbreaking-innovation-on-horizon-zdnet/"><u>Unveiling Google’s Stealthy Smart Eyewear: A Sign of Groundbreaking Innovation on Horizon? | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-apples-latest-innovations-at-wwdc-vision-pro-and-new-mac-pro-revealed/"><u>Unveiling the Future: Apple's Latest Innovations at WWDC - Vision Pro and New Mac Pro Revealed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-expert-guide-to-designing-with-visionos-essential-tips-endorsed-by-apple-featuring-7-strategies/"><u>ZDNet's Expert Guide to Designing with VisionOS - Essential Tips Endorsed by Apple, Featuring 7 Strategies</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

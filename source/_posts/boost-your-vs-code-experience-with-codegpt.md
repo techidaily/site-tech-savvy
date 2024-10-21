@@ -1,7 +1,7 @@
 ---
 title: Boost Your VS Code Experience with CodeGPT
-date: 2024-10-12T13:47:36.393Z
-updated: 2024-10-14T16:27:32.772Z
+date: 2024-10-18T23:14:32.336Z
+updated: 2024-10-20T19:59:24.419Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,19 @@ thumbnail: https://thmb.techidaily.com/1ccd2dbf2e6000433c361586dbc867e80efe1088f
 
  Click on it and paste your API key on the prompt that appears. Save it by pressing **Enter**. Finally, reload VS Code to start using CodeGPT.
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Generating Code With CodeGPT
 
  To demonstrate the CodeGPT code generation feature, you will create a calculator app using Python.
@@ -78,22 +91,15 @@ thumbnail: https://thmb.techidaily.com/1ccd2dbf2e6000433c361586dbc867e80efe1088f
 
 ![CodeGPT chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-chat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then input your request and click **Send**. In this case, the request is for a simple calculator. CodeGPT will process your request and generate your code in the chat window.
 
 ![CodeGPT code generation in the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-code-generation-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click on the "insert code" arrow to automatically paste the code into your script. As you can see, this method is more tidy. The generated code is as shown below:
@@ -131,37 +137,24 @@ else:
 
  When you run the code it works correctly. With just a single prompt, you were able to create a simple calculator.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Refactoring Your Code With CodeGPT
 
  To refactor your code, select the code that you want to refactor, then right-click on it and select **Refactor CodeGPT**. In the **Refactor CodeGPT** dialog box, enter your prompt describing the refactoring that you want to perform. For example, you could enter "refactor this code to use [a for loop](https://www.makeuseof.com/learn-for-loops-in-python/) instead of [a while loop](https://www.makeuseof.com/learn-while-loop-in-python/)".
 
  CodeGPT will generate new code that implements the requested refactoring.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Explaining Your Code With CodeGPT
 
  To explain your code, select the code that you want CodeGPT to explain. Then right-click on the highlighted code and select the **Explain CodeGPT** option.
 
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  CodeGPT will explain what the code does on the chat window.
 
@@ -191,6 +184,13 @@ def divide(x, y):
 
  These are clear and correct inline comments.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Understanding How Generative AI Works
 
  CodeGPT utilizes the power of generative AI for all its features. It may not always provide the correct information. Hence, you need to counter-check whether its results are correct. Understanding how generative AI works will help you become familiar with its strengths and weaknesses.
@@ -214,22 +214,18 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-detailed-insight-the-functionality-of-google-podcast-app/"><u>[Updated] 2024 Approved Detailed Insight The Functionality of Google Podcast App</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-social-media-sphere-speaking-up-to-fans/"><u>[Updated] The Social Media Sphere Speaking Up to Fans</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-in-making-the-perfect-match-of-drones-and-propellers/"><u>2024 Approved Mastery in Making the Perfect Match of Drones and Propellers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-magic5-ultimate-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Magic5 Ultimate Unlock Without Password</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capture-curiosity-with-these-6-video-categories-for-2024/"><u>Capture Curiosity with These 6 Video Categories for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/character-depth-explored-top-11-chatgpt-inquiry-models/"><u>Character Depth Explored: Top 11 ChatGPT Inquiry Models</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/choosing-your-smartphone-iphone-vs-samsung-making-the-right-decision/"><u>Choosing Your Smartphone: IPhone Vs. Samsung - Making the Right Decision</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-linguistics-tech-nlp-vs-ml/"><u>Dissecting Linguistics Tech: NLP vs ML</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-list-of-leading-artificial-intelligence-note-taking-apps/"><u>Essential List of Leading Artificial Intelligence Note-Taking Apps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-gt-3-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme GT 3</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-insight-how-meditation-shapes-the-mental-landscape/"><u>Integrating Insight: How Meditation Shapes the Mental Landscape</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/modern-ai-metrics-beyond-the-historical-turing-index/"><u>Modern AI Metrics: Beyond the Historical Turing Index</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paramount-considerations-in-utilizing-artificial-intelligence-for-emotional-support-via-chatgpt/"><u>Paramount Considerations in Utilizing Artificial Intelligence for Emotional Support via ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pathway-to-peak-performance-chatgpts-wellbe-point-of-view/"><u>Pathway to Peak Performance: ChatGPT's Wellbe Point of View</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/politeness-in-the-age-of-ai-engaging-with-gpt-alexa-and-more/"><u>Politeness in the Age of AI: Engaging with GPT, Alexa & More</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-redmi-13c-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Redmi 13C 5G has been deleted</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-health-care-with-chatgpts-top-9-tactics/"><u>Revolutionizing Health Care with ChatGPT’s Top 9 Tactics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-reel-mastery-made-simple-with-these-free-apps-to-manage-instagram-videos/"><u>[New] In 2024, Reel Mastery Made Simple with These Free Apps to Manage Instagram Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecurely-transforming-youtube-videos-into-mp3-files-3-techniques/"><u>[New] Securely Transforming YouTube Videos Into MP3 Files - 3 Techniques</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boosting-visibility-using-cookiebot-technology/"><u>Boosting Visibility Using Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-save-your-life-in-the-wilderness/"><u>Can ChatGPT Save Your Life in the Wilderness?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-6s-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 6s</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-what-to-expect-from-oneplus-10-speculated-release-timeline-features-and-more/"><u>In-Depth Analysis: What to Expect From OnePlus 10 - Speculated Release Timeline, Features & More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-apple-gadget-outdated-understanding-vintage-mode-and-its-implications-for-users/"><u>Is Your Apple Gadget Outdated? Understanding 'Vintage' Mode & Its Implications for Users</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/qnapgmail3/"><u>QNAPサポート機能でGmailのメールバックアップ：3シンプル手順</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-note-13-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi Note 13 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/showdown-of-wrist-worn-marvels-google-pixel-watch-2-vs-apple-watch-s/"><u>Showdown of Wrist-Worn Marvels: Google Pixel Watch 2 Vs. Apple Watch S</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-way-of-life-using-chatgpt-wisdom/"><u>Transform Your Way of Life Using ChatGPT Wisdom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-or-not-expert-advice-on-choosing-the-iphone-16-perspectives-editors/"><u>Upgrade or Not? Expert Advice on Choosing the iPhone 16 - Perspectives Editors</u></a></li>
 </ul></div>
 

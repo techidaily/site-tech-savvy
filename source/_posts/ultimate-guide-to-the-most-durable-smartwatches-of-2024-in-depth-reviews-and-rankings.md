@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Most Durable Smartwatches of 2024: In-Depth Reviews & Rankings"
-date: 2024-10-14T06:54:05.326Z
-updated: 2024-10-15T10:40:18.090Z
+date: 2024-10-13T19:08:03.751Z
+updated: 2024-10-20T23:28:07.639Z
 tags:
   - apple
 categories:
@@ -26,6 +26,13 @@ At ZDNET, we've tested all of the best smartwatches on the market, testing their
 
 Based on both our [hands-on testing](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/) and insights from experts, we named the [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) the best smartwatch overall due to its new processor, long battery life, storage capacity, high-quality titanium materials, [sleep-tracking capabilities](https://www.zdnet.com/article/how-to-sleep-better-with-the-apple-watch/), women's wellness features, and advanced workout metric feature suite. If you're not an Apple user, read on to see how watches from [Samsung](https://www.zdnet.com/article/best-android-smartwatch/) (including its newest [Galaxy Watch Ultra](https://www.zdnet.com/article/the-galaxy-watch-ultra-convinced-me-to-replace-my-apple-watch-in-less-than-a-week-heres-why/)), Google (including its newest [Pixel Watch 3](https://www.zdnet.com/article/hands-on-with-the-pixel-watch-3-the-three-features-google-got-right/)), [Garmin,](https://www.zdnet.com/article/best-garmin-watch/) Withings, and Amazfit compare, to find the best smartwatch for your needs and your wrist. 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The best smartwatches of 2024
 
 Show less 
@@ -42,13 +49,6 @@ Pros
 Cons 
 * No offline mapping
 * May be too large for small wrists
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
 
@@ -79,21 +79,7 @@ Pros
 Cons 
 * Less than two-day battery life
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch Series 9
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best smartwatch for iPhone users
 
@@ -156,13 +142,6 @@ Pros
 Cons 
 * Large size not suitable for smaller wrists
 * Blood pressure certification taking much longer than advertised
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Samsung Galaxy Watch Ultra
 
@@ -229,13 +208,6 @@ Cons
 
 ## Apple Watch SE
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best value Apple Watch
 
 Apple made an interesting move in 2020 and released a lower-priced Apple Watch designed to expand the use of an Apple Watch to other family members. The newest version of the [Apple Watch SE](https://www.apple.com/apple-watch-se/) starts at just $249, and if you are an iPhone user, it's an easy wearable to recommend.
@@ -299,6 +271,13 @@ Cons
 * No Google Assistant support
 * Overwhelming smartphone app experience
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Amazfit Balance
 
 ### Best basic, budget smartwatch
@@ -331,6 +310,13 @@ Cons
 * Limited third-party support
 
 ## Withings ScanWatch 2
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best hybrid smartwatch
 
@@ -408,13 +394,6 @@ For a deeper look into our testing process, check out our comprehensive [smartwa
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are there any smartwatches I should avoid?
 
 There are many reasons why a person might want a smartwatch, so depending on your needs, it's hard to recommend watches that will satisfy everyone. However, based on my testing, there are a couple of smartwatches that you may want to leave off your list of considerations as you conduct your research.
@@ -422,6 +401,13 @@ There are many reasons why a person might want a smartwatch, so depending on you
 Fossil has been offering smartwatches for a long time, and I still have a working Fossil Wrist PDA that is powered by Palm OS and has a tiny stylus. For the past few years, Fossil has been making Google Wear OS-powered smartwatches and offering a fairly compelling option with some unique styles. However, in January 2024 Fossil Group announced that it would no longer be releasing smartwatches, with the last Gen 6 model released in 2021\. You can still find some Fossil watches available, and Fossil Group stated that they will continue to update the watches for the next few years, but be careful when you are considering one of these watches.
 
 There was a great promise with a luxury Wear OS watch in 2022 when Montblanc released the [Summit 3 smartwatch](https://www.zdnet.com/article/montblanc-summit-3-review/). While we provided a preliminary review as we looked for a future update that was supposed to add some core functionality, that update never came, and the watch sits idly by running the same older version of Wear OS on a processor that is now a couple of generations old. It's a lovely luxury watch so if you want a basic smartwatch with those good looks, maybe you can find one on sale. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I set up my smartwatch?
 
@@ -437,11 +423,31 @@ Google Wear OS watches used to work with both Android and iPhone devices, but th
 
 Garmin, Amazfit, and Withings watches work flawlessly with both Android and iPhone devices.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I text from a smartwatch?
 
 You absolutely can! However, most of their screens are too small to type on, so you'll compose messages with speech-to-text or other dictation functions or choose from several generic, auto-generated responses. 
 
 Garmin watches support quick-response text messaging via a connected Android smartphone. Apple restricts third-party text messaging on the iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can you use a cellular Apple Watch as a standalone device?
 
@@ -450,10 +456,10 @@ While you can leave your iPhone at home while you run, go to the store, or strol
 After initial setup, a cellular-enabled Samsung Galaxy Watch or Google Pixel Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 7, Watch Ultra, or Pixel Watch 3 running Wear OS, many more apps can be used on the go, so you can leave the phone behind in most cases.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the hot new features in the latest smartwatches?
@@ -478,18 +484,18 @@ Google acquired Fitbit, and now the Fitbit ecosystem is deeply incorporated into
 
 Apple has advanced its health monitoring technology, and the upcoming watchOS 11 will bring even more capability with detailed data measurements in its Vitals application. Training Load will also be coming with this next version of the operating system, challenging the likes of Garmin, Coros, and Polar with this advanced fitness metric.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can smartwatches monitor blood sugar?
 
 The FDA released a [safety communication](https://www.fda.gov/medical-devices/safety-communications/do-not-use-smartwatches-or-smart-rings-measure-blood-glucose-levels-fda-safety-communication) to the public that advises consumers not to use smartwatches or smart rings that claim to measure blood glucose levels without piercing the skin. That said, there are indeed FDA-authorized blood glucose level devices that attach to your body and then send that data to smartwatch applications so that you can use your smartwatch to view the readings from an approved device.
 
 Devices, like those from [Dexcom](https://www.dexcom.com/all-access/dexcom-cgm-explained/cgm-and-smartwatch), send real-time glucose data directly to a compatible watch. For Dexcom monitors, this includes most versions of the Apple Watch. Make sure to check both your glucose monitor and your smartwatch compatibility before deciding whether or not to use your smartwatch to connect to your monitor and smartphone.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What about tracking blood pressure?
 
@@ -559,20 +565,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-tiny-mansions-crafting-ornate-japanese-spaces/"><u>[New] Tiny Mansions Crafting Ornate Japanese Spaces</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-video-repository-explorator/"><u>[New] Video Repository Explorator</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-amp-up-your-media-get-free-soundtracks-for-2024/"><u>[Updated] Amp Up Your Media Get Free Soundtracks for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-key-steps-for-applying-fades-in-digital-audio-editing/"><u>[Updated] Key Steps for Applying Fades in Digital Audio Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-emotionality-can-machines-provide-solace-or-stress/"><u>Artificial Emotionality: Can Machines Provide Solace or Stress?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-chatgpts-shared-link-ecosystem/"><u>Decoding ChatGPT's Shared Link Ecosystem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-gpts-role-in-academic-endeavors/"><u>Exploring GPT's Role in Academic Endeavors</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-to-downloading-and-installing-camera-drivers-on-win-os-win111087/"><u>Guide to Downloading and Installing Camera Drivers on Win OS (Win11/10/8/7)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-samsung-galaxy-a15-4g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Samsung Galaxy A15 4G Phones? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-oppo-a56s-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Oppo A56s 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/e-the-core-operations-of-youtubes-content-creators-for-2024/"><u>Inside the Core Operations of YouTube’s Content Creators for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reaching-new-heights-with-chatgpts-token-limit/"><u>Reaching New Heights with ChatGPT's Token Limit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-twitter-hashtags-insights-from-chatgpt/"><u>Tailoring Twitter Hashtags: Insights From ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-unparalleled-computing-power-on-the-go-with-our-portable-server-4tb-ram-480tb-nvme-and-ampere-altra-cpu-packed-in-a-fly-away-kit/"><u>Unleash Unparalleled Computing Power On-The-Go With Our Portable Server: 4TB RAM, 480TB NVMe, and Ampere Altra CPU Packed in a Fly-Away Kit</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ge-wonders-enhancing-with-youtubes-playlist-features-for-2024/"><u>Webpage Wonders Enhancing with YouTube's Playlist Features for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-crafting-chic-looks-the-ultimate-cosmetic-compendium-for-2024/"><u>[Updated] Crafting Chic Looks The Ultimate Cosmetic Compendium for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-a56s-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo A56s 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-ideal-phone-for-your-child-expert-picks-and-reviews-zdnet/"><u>Choosing the Ideal Phone for Your Child: Expert Picks and Reviews - ZDNet</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/glitch-repeat-revolutionize-top-video-editing-apps-for-ios-and-android-for-2024/"><u>Glitch, Repeat, Revolutionize Top Video Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-schedule-and-dive-into-virtual-gatherings-with-zoom-on-an-android-platform-for-2024/"><u>How to Schedule and Dive Into Virtual Gatherings with Zoom on an Android Platform for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-13-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 13 in the Best Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-minds-when-ai-entered-our-world/"><u>Pioneering Minds: When AI Entered Our World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-trust-in-zerogpt-against-detection-assumptions/"><u>Scrutinizing Trust in ZeroGPT Against Detection Assumptions</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-your-digital-presence-on-fb-amid-outages/"><u>Secure Your Digital Presence on FB Amid Outages</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-reviving-the-scroll-wheel-in-a-malfunctioning-logitech-mouse/"><u>Step-by-Step Guide: Reviving the Scroll Wheel in a Malfunctioning Logitech Mouse</u></a></li>
+<li><a href="https://article-tips.techidaily.com/supreme-graphics-power-for-4k-gamers-only-for-2024/"><u>Supreme Graphics Power For 4K Gamers Only for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-art-of-crafting-content-for-snapchat-professionals-for-2024/"><u>The Art of Crafting Content for Snapchat Professionals for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-artisans-guide-harnessing-chatgpt-for-visual-ai/"><u>The Artisan's Guide: Harnessing ChatGPT for Visual AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-google-apps-with-chatgpt-assistance/"><u>Unlocking Google Apps with ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-enhanced-repairability-of-apples-new-iphone-16-whats-improved-compared-to-earlier-models-zdnet/"><u>Unveiling the Enhanced Repairability of Apple's New iPhone 16 - What's Improved Compared to Earlier Models? | ZDNet</u></a></li>
 </ul></div>
 

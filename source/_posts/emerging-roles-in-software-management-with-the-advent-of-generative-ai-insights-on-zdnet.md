@@ -1,7 +1,7 @@
 ---
 title: Emerging Roles in Software Management with the Advent of Generative AI | Insights on ZDNet
-date: 2024-09-17 14:19:12
-updated: 2024-09-20 10:26:56
+date: 2024-10-16T19:31:44.273Z
+updated: 2024-10-20T20:16:44.211Z
 tags:
   - professional-development
 categories:
@@ -93,11 +93,34 @@ Finally, [recruiting, developing, and managing talent](https://www.zdnet.com/hom
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-fine-details-focused-discussions-zoom-tips-for-teams/"><u>[Updated] In 2024, Fine Details, Focused Discussions Zoom Tips for Teams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-15-gopro-video-enhancers-with-luts/"><u>2024 Approved Premier 15 GoPro Video Enhancers with LUTs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-powered-strategies-for-outstanding-interviews/"><u>ChatGPT-Powered Strategies for Outstanding Interviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-factors-in-selecting-a-bot-based-support-system/"><u>Essential Factors in Selecting a Bot-Based Support System</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/creator-to-critic-evaluating-video-value-across-platforms/"><u>From Creator to Critic Evaluating Video Value Across Platforms</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-monetizing-your-content-on-youtube/"><u>In 2024, Monetizing Your Content on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpt-potential-in-different-tongues/"><u>Maximizing ChatGPT Potential in Different Tongues</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-advanced-techniques-for-rendering-audio-waveform-graphs-and-incorporating-animation-into-video-projects-using-premiere-pro-for-2024/"><u>New Advanced Techniques for Rendering Audio Waveform Graphs and Incorporating Animation Into Video Projects Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pursue-profits-and-purpose-through-software-error-discovery-at-openai/"><u>Pursue Profits and Purpose Through Software Error Discovery at OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dilemmas-of-ai-conversation-chatgpts-8-issues/"><u>The Dilemmas of AI Conversation: ChatGPT’s 8 Issues</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-combine-mov-files-for-free-5-excellent-options/"><u>Updated Combine MOV Files for Free 5 Excellent Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-wonders-how-to-triumph-over-machine-penning/"><u>Writing Wonders: How to Triumph Over Machine Penning</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

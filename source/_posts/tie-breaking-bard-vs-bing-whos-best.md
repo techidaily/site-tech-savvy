@@ -1,7 +1,7 @@
 ---
 title: "Tie-Breaking: Bard Vs. Bing – Who’s Best?"
-date: 2024-10-10T01:50:07.037Z
-updated: 2024-10-15T09:09:19.033Z
+date: 2024-10-16T16:36:23.829Z
+updated: 2024-10-21T02:52:27.937Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,19 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
@@ -64,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bing Chat vs. Google Bard: Ease of Use
 
  There is nothing complicated about either model. If you have used a messaging app, you can use these tools. However, we did notice some differences that are relevant here.
@@ -81,35 +87,42 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As both platforms are going through rapid development, the user experience will continue to improve.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
 
@@ -125,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
  But don't rule Bard out. We liked the more fact-driven approach that Google Bard took; the inclusion of ppm levels of CO2 was closer to the spirit of the original question than the Bing response. This is what we would expect to see, given its underlying architecture.
@@ -145,10 +151,16 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
@@ -174,18 +186,24 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-easy-webcam-video-capture-using-vlc/"><u>[New] In 2024, Easy Webcam Video Capture Using VLC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-cut-to-the-chase-download-fb-videos-as-mp4/"><u>[Updated] 2024 Approved Cut to the Chase - Download FB Videos as MP4</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-every-moment-unveiling-5-exceptional-streamer-webcams-for-2024/"><u>[Updated] Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-indoor-adventures-select-escapade-venues-for-2024/"><u>[Updated] Ultimate Indoor Adventures Select Escapade Venues for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/breaking-down-the-secrets-of-impactful-asmr-video-creation-for-2024/"><u>Breaking Down the Secrets of Impactful ASMR Video Creation for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversational-crusade-will-ai-claude-emerge-superior/"><u>Conversational Crusade: Will AI Claude Emerge Superior?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-setup-windows-plus-samsung-driver/"><u>Easy Setup: Windows + Samsung Driver</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-script-writing-for-your-next-youtube-masterpiece-with-chatgpt/"><u>Innovative Script Writing for Your Next YouTube Masterpiece with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/lack-of-awareness-in-ai-prose/"><u>Lack of Awareness in AI Prose</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-transition-utilizing-gpt-4-within-todays-chatgpt-setup/"><u>Seamless Transition: Utilizing GPT-4 Within Today's ChatGPT Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-new-era-of-conversational-agents-bard-vs-bing-chatbot/"><u>The New Era of Conversational Agents: Bard Vs. Bing Chatbot</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/transferring-your-entire-windows-ebootableimage-from-one-machine-to-another/"><u>Transferring Your Entire Windows Ebootable_image From One Machine to Another</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/twitscam-takedown-with-the-advent-of-metasignature/"><u>TwitScam Takedown with the Advent of MetaSignature</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boost-your-visuals-video-enhance-pro-22-guide/"><u>[New] Boost Your Visuals - Video Enhance Pro 2.2 Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-creative-mc-survival-habitat-concepts/"><u>[New] Creative MC Survival Habitat Concepts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-learn-the-art-of-gaussian-blur-mobile-and-pc-edition/"><u>[Updated] Learn the Art of Gaussian Blur Mobile and PC Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-ultimate-notetaking-on-macos-the-unbeatable-free-app-reviewed-by-zdnet/"><u>Discover Ultimate Notetaking on macOS: The Unbeatable Free App Reviewed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-leading-ai-chatbots-an-in-depth-look-at-chatgpt-copilot-and-promising-substitutes-zdnet/"><u>Discovering the Leading AI Chatbots : An In-Depth Look at ChatGPT, Copilot, and Promising Substitutes | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easily-customize-your-gmail-experience-with-different-keyboard-layouts-step-by-step-tutorial/"><u>Easily Customize Your Gmail Experience with Different Keyboard Layouts - Step by Step Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-cybersecurity-teams-effective-ways-to-enhance-their-support-and-resilience/"><u>Empowering Cybersecurity Teams - Effective Ways to Enhance Their Support and Resilience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-browsing-privacy-discover-how-mullvad-offers-robust-security-without-using-tor-insights-from-zdnet/"><u>Enhance Your Browsing Privacy: Discover How Mullvad Offers Robust Security Without Using Tor - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-written-workflow-with-libreoffice-vs-google-docs-key-advantages-for-the-serious-writer/"><u>Enhancing Your Written Workflow with LibreOffice Vs. Google Docs: Key Advantages for the Serious Writer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-tactics-to-win-over-co-workers-and-gain-support-for-your-proposals-at-work-expert-advice-by-zdnet/"><u>Essential Tactics to Win Over Co-Workers and Gain Support for Your Proposals at Work - Expert Advice by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unmatched-speed-with-our-free-open-source-chromium-browser-top-performance-tested-on-zdnet/"><u>Experience Unmatched Speed with Our Free, Open Source Chromium Browser - Top Performance Tested on ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harness-the-power-of-iphones-shutter-speed-for-motion-blurs/"><u>Harness the Power of iPhone’s Shutter Speed for Motion Blurs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-enable-ad-free-emails-in-gmail-with-one-easy-hack-the-surprising-twist-you-should-know-techsavvy/"><u>How to Enable Ad-Free Emails in Gmail with One Easy Hack: The Surprising Twist You Should Know | TechSavvy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-the-latest-canon-mp280-drivers-for-your-windows-operating-system-1187/"><u>How to Obtain the Latest Canon MP280 Drivers for Your Windows Operating System (11/8/7)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-10-essential-vlog-editing-hacks-for-novice-creators/"><u>In 2024, 10 Essential Vlog Editing Hacks for Novice Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovation-showdown-google-bard-versus-microsofts-bing-chat-who-wins/"><u>Innovation Showdown: Google Bard Versus Microsoft's Bing Chat - Who Wins?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/navigating-the-world-of-sound-symbols-on-instagram-platform-for-2024/"><u>Navigating the World of Sound Symbols on Instagram Platform for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-solutions-for-restoring-speaker-functionality-in-toshibe-laptops/"><u>Top Solutions for Restoring Speaker Functionality in Toshibe Laptops</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-crafting-a-commanding-presence-in-audio-media-with-filmoras-filters-for-2024/"><u>Updated Crafting a Commanding Presence in Audio Media with Filmoras Filters for 2024</u></a></li>
 </ul></div>
 

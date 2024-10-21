@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to the New Apple Studio Monitor - Features, Specs and Pros/Cons | CNET
-date: 2024-10-13T05:46:46.795Z
-updated: 2024-10-15T04:48:16.758Z
+date: 2024-10-14T01:27:41.728Z
+updated: 2024-10-20T17:23:20.352Z
 tags:
   - apple
 categories:
@@ -73,13 +73,6 @@ June Wan/ZDNET
 Users can control the headset with eye and hand tracking, a feature that's slowly being adopted by other headsets on the market, as well as voice commands. For example, users can pinch to select and flick to scroll.
 
 Vision Pro runs on a new Apple operating system, VisionOS, which resembles the iPadOS interface, bringing Apple's apps and services ecosystem to the headset. VisionOS was created specifically for spatial computing. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro AR or VR?
 
@@ -158,10 +151,16 @@ Included in the $3,499 purchase price is the headset, the battery pack, a Dual L
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I wear the Apple Vision Pro with glasses?
@@ -174,13 +173,6 @@ However, Apple knows that people who wear glasses need to be able to see to use 
 
 June Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does the Apple Vision Pro have controllers?
 
 One of the standout features of the [Apple Vision Pro](https://www.zdnet.com/article/what-is-apples-vision-pro-price-features-hands-on-insights-and-everything-you-need-to-know/) is its advanced hand tracking, which allows users to forgo using controllers for a more immersive AR/VR experience. Unlike the Meta Quest 3, there is no optional controller. Instead, you rely entirely on hand tracking.
@@ -191,11 +183,25 @@ However, if you want controllers in the future, you may be in luck. Apple recent
 
 **Also: [To rescue the Vision Pro, Apple must do these 3 things](https://www.zdnet.com/article/to-rescue-the-vision-pro-apple-must-do-these-3-things/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When is the Vision Pro available?
 
 The Apple Vision Pro is available for purchase on the Apple website and in stores. Preorders for the device began on January 19, and those units began arriving on February 2\. 
 
 **Also: [These are the Vision Pro apps Apple says will transform healthcare](https://www.zdnet.com/article/these-are-the-vision-pro-apps-apple-says-will-transform-healthcare/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can you try the Vision Pro before buying it?
 
@@ -227,6 +233,13 @@ There were many announcements, but some of the highlights included:
 
 If you want to see the full list, you can read the VisionOS 2 section of this article: [Every new feature Apple unveiled for iPhone, iPad, Mac, and more this fall (including AI)](https://www.zdnet.com/article/every-new-feature-apple-unveiled-for-iphone-ipad-mac-and-more-this-fall-including-ai/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Apple Vision Pro better than Meta Quest 3?
 
 The Apple Vision Pro is more of a premium headset and, as a result, it costs seven times more than the $500 Meta Quest 3\. 
@@ -240,13 +253,6 @@ The products differ in display, weight, processors, controllers, and more, affec
 Jason Hiner/ZDNET
 
 **Also: [Why I returned my Apple Vision Pro and Meta Quest 3 for these XR glasses](https://www.zdnet.com/article/why-i-returned-my-apple-vision-pro-and-meta-quest-3-for-these-xr-glasses/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro worth the price?
 
@@ -291,22 +297,24 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-seo-booster-essentials-for-top-online-videos/"><u>[New] In 2024, SEO Booster Essentials for Top Online Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-cameras-collide-in-motorsport-showdown-gopro-vs-drift-ghost-s/"><u>[Updated] Cameras Collide in Motorsport Showdown! GoPro Vs. Drift Ghost-S</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-decoding-youtube-income-how-much-does-each-1000-viewer-earn/"><u>2024 Approved Decoding YouTube Income How Much Does Each 1,000 Viewer Earn?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-class-on-vsco-camera-and-lens-for-creative-use/"><u>2024 Approved Master Class on VSCO Camera & Lens for Creative Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoidable-slip-ups-with-neural-networks/"><u>Avoidable Slip-Ups with Neural Networks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-and-bard-safely-steer-your-money-moves/"><u>Can ChatGPT and Bard Safely Steer Your Money Moves?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-what-claude-3-offers-and-how-to-use-it/"><u>Explore What Claude 3 Offers and How to Use It</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/families-and-the-world-of-generative-ai/"><u>Families and the World of Generative AI</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-aperture-alchemy-crafting-the-top-10-lens-list/"><u>In 2024, Aperture Alchemy Crafting the Top 10 Lens List</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-8-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 8</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-through-synthetic-prose-gptzero-as-a-guide/"><u>Navigating Through Synthetic Prose: GPTZero as a Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-love-in-motion-how-to-craft-a-romantic-valentines-day-video-for-2024/"><u>New Love in Motion How to Craft a Romantic Valentines Day Video for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalized-fitness-plans-with-safe-and-effective-tips/"><u>Personalized Fitness Plans with Safe and Effective Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essence-of-claude-3-what-it-does-and-how-to-use-it/"><u>The Essence of Claude 3 – What It Does & How to Use It</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-multifaceted-use-of-ai-in-our-lives/"><u>Unveiling the Multifaceted Use of AI in Our Lives</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-distrust-in-artificial-intelligence-isnt-extreme/"><u>Why Distrust in Artificial Intelligence Isn't Extreme</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eats-and-banners-discovering-premium-dj-templates-for-2024/"><u>[New] Beats & Banners Discovering Premium DJ Templates for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-16-best-free-video-players-for-windowsmac-pc/"><u>[Updated] In 2024, Top 16 Best Free Video Players for Windows/Mac PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revival-by-apple-significant-advances-and-areas-for-enhancement-unveiled/"><u>AI Revival by Apple: Significant Advances & Areas for Enhancement Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/banish-email-clutter-with-one-clever-hack-say-goodbye-to-complex-filters-and-multiple-accounts-tips/"><u>Banish Email Clutter with One Clever Hack - Say Goodbye to Complex Filters and Multiple Accounts | Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-content-extraction-from-pdfs-via-chatgpt-techniques/"><u>Boosting Content Extraction From PDFs via ChatGPT Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-methods-for-eliminating-game-crash-issues-in-ghost-recon-breakpoint/"><u>Effortless Methods for Eliminating Game Crash Issues in Ghost Recon Breakpoint</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-on-guide-to-optimize-your-youtube-channels-with-adsense/"><u>Hands-On Guide to Optimize Your YouTube Channels with AdSense</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-text-based-models-for-universe-creation/"><u>Harnessing Text-Based Models for Universe Creation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-note-30-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Note 30 Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-note-30i-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Infinix Note 30i Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-pro-tips-on-selecting-the-best-mac-snipers/"><u>In 2024, Pro Tips on Selecting the Best Mac Snipers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-ais-frailty-how-do-prompt-injections-threaten-its-integrity/"><u>Inside AI's Frailty: How Do Prompt Injections Threaten Its Integrity?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-upgrades-with-advanced-image-recognition-features-inspired-by-google-lens-detailed-review-on-apples-latest-tech-breakthrough/"><u>IPhone 16 Upgrades with Advanced Image Recognition Features Inspired by Google Lens - Detailed Review on Apple's Latest Tech Breakthrough</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-oneplus-12-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from OnePlus 12</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-and-easy-troubleshooting-guide-overcoming-ipads-iso-media-format-challenges/"><u>Quick-and-Easy Troubleshooting Guide: Overcoming iPad's ISO Media Format Challenges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sonos-unveils-s2-application-for-streamlined-audio-command-yet-beware-not-all-is-smooth-sailing/"><u>Sonos Unveils S2 Application for Streamlined Audio Command, Yet Beware - Not All Is Smooth Sailing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-downside-of-dependence-on-ai-for-key-generation/"><u>The Downside of Dependence on AI for Key Generation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pinnacle-of-ai-dialogues-post-chatgpt/"><u>The Pinnacle of AI Dialogues Post-ChatGPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/upgrading-windows-10-from-basic-home-to-advanced-pro/"><u>Upgrading Windows 10: From Basic Home to Advanced Pro</u></a></li>
 </ul></div>
 

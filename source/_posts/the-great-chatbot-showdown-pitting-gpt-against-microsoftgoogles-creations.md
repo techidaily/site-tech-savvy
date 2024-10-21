@@ -1,7 +1,7 @@
 ---
 title: "The Great Chatbot Showdown: Pitting GPT Against Microsoft/Google's Creations"
-date: 2024-10-09T02:26:58.040Z
-updated: 2024-10-15T02:53:04.099Z
+date: 2024-10-16T20:23:43.373Z
+updated: 2024-10-20T20:52:11.165Z
 tags:
   - chatgpt
   - open-ai
@@ -71,46 +71,32 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 ![ChatGPT answers Event planning question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-answers-event-planning-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To push the boundaries on hallucination further, we pressed all three chatbots to describe an image using an image URL. For reference, the image at the URL is of a young man sitting. However, Bing AI described a bird. It's probably better to read it for yourself.
 
 ![Bing AI hallucinates image description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-hallucinates-image-description.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We also asked Google Bard to describe the image, and it couldn't have been any more hilarious.
 
 ![Google Bard hallucinates image description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-bard-hallucinates-image-description.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Luckily, when asked ChatGPT to describe the image, it explains that it cannot do so—a simple reply you'd expect any self-respecting AI chatbot to provide, rather than making things up.
 
 ![ChatGPT refuses to describe image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-refuses-to-describe-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Winner:** ChatGPT wins.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT vs. Bing AI vs. Bard: Basic Math
 
@@ -124,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
 ![simple arithmetic Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-bard-ai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Like Bing AI, ChatGPT responded with **\-1** and even explained the answer.
 
 ![simple arithmetic ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-chatgpt.jpg)
@@ -135,10 +128,10 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 ![rational equation by Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rational-equation-by-bing-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Like the previous math question, Google Bard failed by providing **1** as the answer.
@@ -149,9 +142,23 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
 ![rational fractions by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rational-fractions-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moral of the story? Maybe don't trust Google Bard and Bing AI with your math homework.
 
 **Winner:** ChatGPT performs better in basic math.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Bing AI vs. Bard: Creativity
 
@@ -160,13 +167,6 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
  We started with Bing AI, and it didn't disappoint. The conversation was quite interesting.
 
 ![Creativity test-1 - Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-1-bing-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We then fed the same prompt to Google Bard. Let's just say there's a lot of room for improvement.
 
@@ -179,13 +179,6 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
  And here's the second part:
 
 ![Creativity test-2 - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-2-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Bard AI's response appears to be the poorest of the three. ChatGPT outperforms Bing AI, but the creativity levels of both chatbots are impressive.
 
@@ -200,10 +193,10 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 ![Bing AI self-description-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-self-description-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We used the same prompt with ChatGPT, and ChatGPT had an interesting description to provide. However, ChatGPT's response seems to be more suitable for an artist.
@@ -225,6 +218,13 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
  Up next was Bing. Despite repeated attempts to trick the chatbot, Bing refused to yield. Instead, the chatbot suggested it might be time to move on to another topic.
 
 ![microsoft bing chat refuses to write keylogger malware april 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-bing-chat-refuses-to-write-keylogger-malware-april-2023.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We then moved on to ChatGPT. Unsurprisingly, ChatGPT was the most detailed when giving instructions on how to build malware. It was also able to write code to that effect, even if it wasn't exactly ready to deploy. However, OpenAI has clearly plugged a lot of loopholes since we last poked for safety flaws on ChatGPT. However, malicious actors who poke hard and long enough might be able to use ChatGPT to truly create scary malware.
 
@@ -259,15 +259,22 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-expert-tips-reversed-color-effects-in-pictures/"><u>[New] In 2024, Expert Tips Reversed Color Effects in Pictures</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-11-not-detecting-hdmi-tv-issue/"><u>Fix Windows 11 Not Detecting HDMI TV Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-conversational-power-3-techniques-of-chatgpt-wolframlink/"><u>Harnessing Conversational Power: 3 Techniques of ChatGPT-WolframLink</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-apple-iphone-8-plus-by-drfone-ios/"><u>How to Bypass iCloud Lock from Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-handle-body-stream-disruptions-in-chatgpt/"><u>How To Handle Body Stream Disruptions in ChatGPT</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-essential-sites-for-watching-vr-media/"><u>In 2024, Essential Sites for Watching VR Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-shadowy-fringe-to-front-row-action-gaining-popularity-in-tiktok-unboxings/"><u>In 2024, From Shadowy Fringe to Front Row Action Gaining Popularity in TikTok Unboxings</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-12-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 12 Pro Max in the Best Ways</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-convincing-proposal-craft-with-gpt-3/"><u>Mastering Convincing Proposal Craft with GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-slowdown-question-why-is-chatgpt-4-hesitant/"><u>The Slowdown Question: Why Is ChatGPT-4 Hesitant?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-youtube-organizing-music-into-a-playlist/"><u>[New] In 2024, Mastering YouTube Organizing Music Into a Playlist</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-flat-to-fantastic-3d-text-creation-tips/"><u>[Updated] 2024 Approved From Flat to Fantastic 3D Text Creation Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-androids-animal-world-simulator-games-roundup-for-2024/"><u>[Updated] Android's Animal World Simulator Games Roundup for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/celebrating-java-games-a-summary-of-wins/"><u>Celebrating Java Games: A Summary of Wins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-value-unmatched-audio-quality-meets-shocking-affordability-in-this-anker-bluetooth-speaker-zdnets-top-pick/"><u>Discover the Value: Unmatched Audio Quality Meets Shocking Affordability in This Anker Bluetooth Speaker - ZDNet's Top Pick!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exceptional-audio-quality-from-top-rated-portable-speaker-universal-genre-support-reviews-on-zdnet/"><u>Exceptional Audio Quality From Top-Rated Portable Speaker - Universal Genre Support Reviews on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expertly-rated-ultimate-list-of-2024s-top-sonos-sound-solutions-in-depth-zdnet-review/"><u>Expertly Rated Ultimate List of 2024'S Top Sonos Sound Solutions - In-Depth ZDNET Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-correcting-device-misconfiguration-error-code-1-solution/"><u>Guide to Correcting Device Misconfiguration Error - Code 1 Solution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-a15-4g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy A15 4G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Tecno Phantom V Fold</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-on-the-newest-echo-show-8-exclusive-30-labor-day-discount-from-zdnet/"><u>Save Big on the Newest Echo Show 8 - Exclusive 30% Labor Day Discount From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-entertainment-anywhere-how-apple-revolutionizes-airplay-and-content-distribution-in-homes-hotel-rooms-and-vehicles-tech-analysis-by-zdnet/"><u>Seamless Entertainment Anywhere: How Apple Revolutionizes AirPlay & Content Distribution in Homes, Hotel Rooms, and Vehicles | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-affordable-wireless-speakers-of-2022-your-guide-to-the-best-budget-bluetooth-soundscape-pcmag/"><u>Top Affordable Wireless Speakers of 2022: Your Guide to the Best Budget Bluetooth Soundscape - PCMag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-budget-friendly-bluetooth-sound-systems-of-2022-your-ultimate-guide/"><u>Top Rated Budget-Friendly Bluetooth Sound Systems of 2022: Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-childrens-earbuds-professional-recommendations-zdnet/"><u>Top-Rated Children's Earbuds : Professional Recommendations - ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-windows-11-error-0xc19001e1/"><u>Troubleshooting Guide: Fixing Windows 11 Error 0xC19001E1</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-pathway-to-pristine-recordings-removing-unwanted-noises-for-crystal-clear-sound/"><u>Updated The Pathway to Pristine Recordings Removing Unwanted Noises for Crystal-Clear Sound</u></a></li>
 </ul></div>
 

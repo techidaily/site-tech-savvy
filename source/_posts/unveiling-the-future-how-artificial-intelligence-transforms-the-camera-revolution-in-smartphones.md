@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future: How Artificial Intelligence Transforms the Camera Revolution in Smartphones"
-date: 2024-10-13T16:22:19.116Z
-updated: 2024-10-15T08:44:58.351Z
+date: 2024-10-15T19:32:55.674Z
+updated: 2024-10-21T03:03:57.684Z
 tags:
   - apple
 categories:
@@ -57,16 +57,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -90,10 +84,10 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -142,13 +136,6 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -162,6 +149,13 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -184,10 +178,10 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
@@ -268,19 +262,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-ultimate-9-listing-best-virtual-microphones-recorders-2023-for-2024/"><u>[New] Ultimate 9 Listing Best Virtual Microphones Recorders 2023 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-master-recorders-impact-on-efficient-screen-capturing/"><u>[Updated] In 2024, Master Recorder's Impact on Efficient Screen Capturing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-evolution-when-will-we-see-gpt-5-unveiled/"><u>AI Evolution: When Will We See GPT-5 Unveiled?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-academia-4-key-ai-approaches/"><u>Elevating Academia: 4 Key AI Approaches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-gptzero-for-ai-generated-content-recognition/"><u>Exploring GPTZero for AI-Generated Content Recognition</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-redmi-note-12t-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Redmi Note 12T Pro FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-note-50-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme Note 50 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mac-mastery-with-stellar-recovery-interface/"><u>Mac Mastery with Stellar Recovery Interface</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-art-of-quickscoping-boost-your-fortnite-gunning-skills-with-expert-tips-players/"><u>Master the Art of Quickscoping: Boost Your Fortnite Gunning Skills with Expert Tips Players</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-or-not-third-party-gpt-software/"><u>Secure or Not? Third-Party GPT Software</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-necessity-of-flexible-language-learning-frameworks/"><u>The Necessity of Flexible Language Learning Frameworks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-chatgpts-approach-to-source-integrity/"><u>Unveiling ChatGPT’s Approach to Source Integrity</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-10-upgrade-realtek-gbe-drivers/"><u>Windows 10: Upgrade Realtek GBE Drivers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-dynamic-design-building-perspective-with-text/"><u>[New] Dynamic Design Building Perspective with Text</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-impact-and-value-of-instagrams-self-verifying-feature-for-2024/"><u>[New] The Impact and Value of Instagram's Self-Verifying Feature for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-selecting-the-perfect-cam-mic-the-essentials/"><u>[Updated] 2024 Approved Selecting the Perfect Cam Mic, The Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-excel-productivity-with-effective-chatgpt-techniques/"><u>Boosting Excel Productivity with Effective ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-excellence-via-gpt-collaborations/"><u>Content Excellence via GPT Collaborations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-integrates-advanced-image-recognition-in-iphone-16-mirroring-google-lens-exclusive-report/"><u>How Apple Integrates Advanced Image Recognition in iPhone 16, Mirroring Google Lens - Exclusive Report</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-honor-100-frp-by-drfone-android/"><u>How Can We Bypass Honor 100 FRP?</u></a></li>
+<li><a href="https://win-webster.techidaily.com/identifier-les-limites-et-trouver-la-meilleure-alternative-a-sauvegarde-windows-server/"><u>Identifier Les Limites Et Trouver La Meilleure Alternative À Sauvegarde Windows Server</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-5-most-advanced-tools-for-shaping-and-sculpting-sound-for-2024/"><u>New The 5 Most Advanced Tools for Shaping and Sculpting Sound for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-techniques-for-iphone-nature-photography-at-a-new-level-for-2024/"><u>Pro Techniques for iPhone Nature Photography at a New Level for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sculpting-stanzas-with-the-help-of-chatgpt-ai/"><u>Sculpting Stanzas with the Help of ChatGPT AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-core-of-7-gpt-4-applications-an-analysis/"><u>The Core of 7 GPT-4 Applications: An Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolutionary-leap-in-ai-linguistics-introducing-palm-2/"><u>The Evolutionary Leap in AI Linguistics: Introducing PaLM 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-languages-mysteries-with-openais-text-tools/"><u>Unlocking Language's Mysteries with OpenAI’s Text Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-t2x-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo T2x 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/windows-server-201-update-issue-resolved-fixing-boot-loop-after-upgrade/"><u>Windows Server 201# Update Issue Resolved: Fixing Boot Loop After Upgrade</u></a></li>
 </ul></div>
 

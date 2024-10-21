@@ -1,7 +1,7 @@
 ---
 title: Maximize Productivity and Explore New Horizons with the Latest Upgrades to Popular XR Glasses - Insights From ZDNet
-date: 2024-10-12T08:42:02.545Z
-updated: 2024-10-15T13:33:22.151Z
+date: 2024-10-14T22:46:15.770Z
+updated: 2024-10-20T23:44:44.804Z
 tags:
   - apple
 categories:
@@ -38,6 +38,13 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
@@ -52,13 +59,6 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 
 Apple
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
 The Smart Stack, introduced in WatchOS 10, is improving slightly with some new widgets.
@@ -70,16 +70,16 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 Apple
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
@@ -100,6 +100,13 @@ Jason Hiner/ZDNET
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Tap to Cash for quick payments
 
 Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. Tap to Cash lets you hold your Apple Watch near another watch or iPhone to quickly send Apple Cash to someone else.
@@ -110,22 +117,15 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11\. Tickets in your Wallet get an upgrade
@@ -166,24 +166,22 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rom-free-to-fortune-unlocking-youtubes-earnings-at-the-500-subscriber-level-for-2024/"><u>[New] From Free to Fortune Unlocking YouTube's Earnings at the 500 Subscriber Level for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ios-and-ps2-gaming-top-emulators-unveiled-for-2024/"><u>[New] IOS and PS2 Gaming Top Emulators Unveiled for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlock-fb-story-potential-4-effective-techniques/"><u>2024 Approved Unlock FB Story Potential - 4 Effective Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-costless-comparables-to-openais-sora-model/"><u>6 Costless Comparables to OpenAI's Sora Model</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-better-alternatives-to-openais-chatgpt-mobile-app/"><u>7 Better Alternatives to OpenAI's ChatGPT Mobile App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-close-look-at-dji-phantom-3s-high-end-capabilities-for-2024/"><u>A Close Look at DJI Phantom 3'S High-End Capabilities for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-8-chatgpt-income-opportunities/"><u>A Deep Dive Into 8 ChatGPT Income Opportunities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-ais-creative-writing-advantagesdisadvantages/"><u>A Deep Dive Into AI’s Creative Writing Advantages/Disadvantages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deeper-dive-into-claude-pro-and-its-competition-with-chatgptplus/"><u>A Deeper Dive Into Claude Pro and Its Competition with ChatGPT+</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-guide-to-the-best-ai-tools-for-file-conversation/"><u>A Guide to the Best AI Tools for File Conversation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-excellence-through-ai-technology/"><u>Academic Excellence Through AI Technology</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/brighten-iphones-night-scenes-using-simple-tricks/"><u>Brighten iPhone's Night Scenes Using Simple Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721433766016-dont-trust-unverified-ai-services-spot-the-fakes/"><u>Don't Trust Unverified AI Services - Spot the Fakes!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-6-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 6 iCloud Activation Lock</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-realme-gt-neo-5-se-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Realme GT Neo 5 SE to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721430445638-redefine-your-browsing-experience-bings-smart-ai-search/"><u>Redefine Your Browsing Experience: Bing's Smart AI Search</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-essential-guide-to-angular-video-compilation-android/"><u>The Essential Guide to Angular Video Compilation (Android)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-audiovisual-vocal-transformations-at-no-charge-expert-techniques-for-voice-changes-in-filmora-projects-for-2024/"><u>Updated Audiovisual Vocal Transformations at No Charge Expert Techniques for Voice Changes in Filmora Projects for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-soundscout-beyond-dacast-horizons/"><u>[New] 2024 Approved SoundScout Beyond DaCast Horizons</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-understanding-vimeo-online-movie-marketplace/"><u>[New] 2024 Approved Understanding Vimeo Online Movie Marketplace</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-optimal-online-stream-setup-the-vlc-methodology/"><u>[New] Optimal Online Stream Setup The VLC Methodology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transitioning-artistry-in-inshot-videos/"><u>[New] Transitioning Artistry in Inshot Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-snapchat-to-subscribers-jake-pauls-youtube-quest-for-2024/"><u>[Updated] Snapchat to Subscribers Jake Paul’s Youtube Quest for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-diving-into-user-preferences-a-tiktok-vs-snapchat-breakdown/"><u>2024 Approved Diving Into User Preferences A TikTok Vs Snapchat Breakdown</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-nextgen-fidelity-upgrade-your-viewing-experience/"><u>2024 Approved NextGen Fidelity Upgrade Your Viewing Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/3-simple-methods-to-block-unwanted-sms-messages-on-ios-devices-techadvisor/"><u>3 Simple Methods to Block Unwanted SMS Messages on iOS Devices | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-apple-laptop-macbook-air-vs-macbook-pro-tips-and-considerations-techadvisor/"><u>Choosing the Right Apple Laptop: MacBook Air Vs. MacBook Pro - Tips & Considerations | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/coding-made-easier-10-strategies-for-combining-chatgpt-and-vs-code/"><u>Coding Made Easier: 10 Strategies for Combining ChatGPT & VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/encountered-liquid-damage-on-iphone-charger-end-explore-solution-strategies-with-zdnet/"><u>Encountered Liquid Damage on iPhone Charger End? Explore Solution Strategies with ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forest-fears-and-ai-can-conversations-keep-you-safe-outside/"><u>Forest Fears & AI: Can Conversations Keep You Safe Outside?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-influence-on-my-podcast-narrative-design/"><u>GPT's Influence on My Podcast Narrative Design</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-digital-game-chronicles/"><u>In 2024, Digital Game Chronicles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-unblock-full-capacity-windows/"><u>Strategies to Unblock Full Capacity (Windows)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2e24-expert-analysis-and-ratings/"><u>Ultimate Guide to the Best MagSafe Wallets of 2E24: Expert Analysis & Ratings</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-nubia-red-magic-8s-proplus-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nubia Red Magic 8S Pro+? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

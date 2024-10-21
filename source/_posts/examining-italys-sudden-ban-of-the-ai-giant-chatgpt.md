@@ -1,7 +1,7 @@
 ---
 title: Examining Italy's Sudden Ban of the AI Giant, ChatGPT
-date: 2024-10-14T00:20:40.477Z
-updated: 2024-10-14T17:21:20.096Z
+date: 2024-10-19T16:56:45.855Z
+updated: 2024-10-21T03:46:11.604Z
 tags:
   - chatgpt
   - open-ai
@@ -36,26 +36,26 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 
  The Italian data regulator declared that [OpenAI's ChatGPT posed several problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) and infringed the EU's privacy law. The GDPD's privacy concerns can be broken down into five key areas:
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Breach of Privacy Laws
 
  The GDPD's chief concern is that ChatGPT continues processing personal data in breach of its privacy laws. Although [the way ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) is that it has been trained prior to deployment, the chatbot still collects and processes data from users to provide relevant answers.
 
 ![ChatGPT Onboarding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-onboarding.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Italian regulator ensures data controllers follow the general obligations outlined in the EU's privacy law, and OpenAI falls short.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Unjustified Collection of Personal Data
@@ -67,28 +67,28 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
  In addition, the Italian regulator pointed out that OpenAI doesn't inform users whose data it collects. This is another clear violation of the EU's privacy laws.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Lack of Age Verification Systems
 
  The GDPD announced that ChatGPT exposes inappropriate information to users under 13 because it lacks appropriate age detection mechanisms. This underage exposure violates the EU's GDPR, which states that individuals must clearly consent to the processing of their personal data. As underage individuals, they are not to consent on their behalf.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Risk of Data Breaches
 
  While citing a data breach reported on March 20th, 2023, the Italian regulator raised concerns about the chatbot's risk of data breaches. [Europol's announcement](https://www.europol.europa.eu/publications-events/publications/chatgpt-impact-of-large-language-models-law-enforcement) of the potential of criminals using ChatGPT to commit fraud and cybercrime likely fostered these concerns.
 
  Data breaches also infringe on the country's privacy laws—all data processors must implement appropriate security measures.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Italy's ChatGPT Ban Could Be a Template for Other EU Countries
 
@@ -117,21 +117,21 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-ghostly-witness-to-fb-vignettes-for-2024/"><u>[New] Ghostly Witness to Fb Vignettes for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-optimal-free-tools-5-gif-to-video-conversion-websites-without-downloads/"><u>[New] Optimal Free Tools 5 GIF-to-Video Conversion Websites Without Downloads</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-comprehensive-analysis-of-android-based-lightroom-software/"><u>[Updated] 2024 Approved Comprehensive Analysis of Android-Based Lightroom Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-study-aids-top-10-educational-history-channels/"><u>[Updated] Study Aids Top 10 Educational History Channels</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-bebops-feathered-wings-unleashed-in-the-parrot-review/"><u>2024 Approved Bebop's Feathered Wings Unleashed in the Parrot Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-unveiled-a-family-guide-to-gpt/"><u>AI Unveiled: A Family Guide to GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-job-search-with-chatgpt-insights/"><u>Cutting-Edge Job Search with ChatGPT Insights</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effective-methods-for-packaging-applications-using-a-repacker/"><u>Effective Methods for Packaging Applications Using a Repacker</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-performance-by-controlling-cpu-hogs/"><u>Enhancing Performance by Controlling CPU Hogs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721425749303-gpt-4-unlocked-for-all-yet-6-chatgpt-plus-advantages-remain/"><u>GPT-4: Unlocked For All, Yet 6 ChatGPT Plus Advantages Remain</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-unlocking-the-million-sub-code-insights-for-digital-growth/"><u>In 2024, Unlocking the Million-Sub Code Insights for Digital Growth</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-update-for-nvidia-quadro-rtx-eight-thousand-gpus-win11win10win7-driver-download/"><u>Latest Update for Nvidia Quadro RTX Eight Thousand GPUs - Win11/Win10/Win7 Driver Download</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/methodology-saving-the-dialogue-history-of-gpt-chat/"><u>Methodology: Saving the Dialogue History of GPT-Chat</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-meditative-moments-with-chatgpt/"><u>Optimizing Meditative Moments with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-dall-es-potential-with-png-and-jpg-conversions/"><u>Unlocking DALL-E's Potential with PNG and JPG Conversions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/verse-vendetta-the-ultimate-showdown-humans-chatgpt-and-sheep-like-alpacas/"><u>Verse Vendetta - The Ultimate Showdown: Humans, ChatGPT & Sheep-Like Alpacas</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-innovative-methods-for-preserving-youtube-videos-for-2024/"><u>[New] Innovative Methods for Preserving YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-learn-the-art-of-crafting-short-youtube-videos/"><u>[Updated] Learn the Art of Crafting Short YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-path-to-success-starts-on-screen-10-must-see-films/"><u>2024 Approved The Path to Success Starts on Screen 10 Must-See Films</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-typing-troubles-learn-how-to-reconnect-your-wireless-keyboard-with-computer/"><u>Bluetooth Typing Troubles? Learn How to Reconnect Your Wireless Keyboard with Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/budget-friendly-sonic-upgrades-for-your-home-theater-expert-picks-and-reviews-at-gadgetguru/"><u>Budget-Friendly Sonic Upgrades for Your Home Theater : Expert Picks & Reviews at GadgetGuru</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-perfect-apple-smart-speaker-a-detailed-comparison-between-homepod-and-homepod-mini/"><u>Choosing the Perfect Apple Smart Speaker: A Detailed Comparison Between HomePod and HomePod Mini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-wireless-sound-for-less-than-a-hundred-dollars-recommended-speakers-list-from-zdnet/"><u>Discover the Ultimate Wireless Sound for Less than a Hundred Dollars - Recommended Speakers List From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-why-the-amazon-echo-show-8-leads-as-top-smart-home-device/"><u>Evaluating Why the Amazon Echo Show 8 Leads as Top Smart Home Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-anthropics-claude-is-revolutionizing-amazons-alexa-experience-insights-by-zdnet/"><u>How Anthropic's Claude Is Revolutionizing Amazon's Alexa Experience – Insights by ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-play-40c-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Play 40C Phone FRP Lock</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/recursos-visuales-para-colores-espanol/"><u>Recursos Visuales Para Colores Español</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-2021-ipad-pro-with-m1-chip-analysis-unmatched-laptop-level-power-at-your-fingertps/"><u>The Ultimate 2021 iPad Pro with M1 Chip Analysis: Unmatched Laptop-Level Power at Your Fingertps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ideal-presents-for-the-unsure-shopper-a-guide-zdnet/"><u>Top Ideal Presents for the Unsure Shopper: A Guide | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tips-and-essentials-for-an-unforgettable-labor-day-bash-insights-from-zdnet/"><u>Top Tips and Essentials for an Unforgettable Labor Day Bash: Insights From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-nokia-c300-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Nokia C300 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secure Flex Work Arrangements & Enhanced Perks: Mastering the Art of Negotiation with Your Manager - Insights From ZDNet"
-date: 2024-09-19 18:26:17
-updated: 2024-09-20 10:56:34
+date: 2024-10-14T17:43:15.418Z
+updated: 2024-10-20T18:27:36.460Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ But with thousands of tech and IT roles currently available and salary growth sh
 
 Haggling for benefits or perks with your employer can be daunting, especially if what you're after isn't something that's offered as part of your contract, or if it's something that might shift the work dynamic with your colleagues – for example, requesting reduced hours or flexible start or finish times.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Setting the bar
 
 Vicki Salemi, career expert at jobs site Monster, says people shouldn't feel guilty about negotiating for better pay or better perks. On the contrary, asking for a better deal stands to benefit both you and those you work with.
@@ -42,6 +49,13 @@ With financial pressures biting, now might actually be an ideal time to push for
 Rebecca Henderson, CEO of HR services provider Randstad Global Businesses, says candidates should always consider negotiating for better terms, especially in high-demand roles. "Women, in particular, need to push back on initial offers because we continue to see a persistent pay gap between men and women," she says.
 
 "The U.S. Census Bureau reported that women make just 83 cents for every dollar a man makes, and part of that gap is due to women not negotiating for more. It's important for them to keep this in mind."
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Think about the long-term
 
@@ -63,6 +77,13 @@ Then comes the task of actually speaking to your manager. Start by asking to sch
 
 "Explain what you're seeking, how it can be a value-add to the organization and highlight your accomplishments to show all of the value you bring to the team and the organization."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Timing is key
 
 For employees who are negotiating additional benefits for their current job, the ideal time is usually a few months in advance of their actual review, says Frana. Often, raises and benefits are calculated from the existing budget, which usually includes the compensation budget for the entire company.
@@ -76,6 +97,13 @@ To help make their case, Frana advises employees to come armed with facts and fi
 **SEE: [The future of work: How everything changed and what's coming next](https://www.zdnet.com/article/the-hybrid-work-revolution-is-within-our-reach-its-time-to-decide-what-we-want/)**
 
 Employees should also recognize that negotiations won't always be successful, and usually involve a little bit of give and take on both sides. Sometimes it might just be a case of timing; in which case, candidates might benefit from raising the request with their manager again a few months down the line. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Know when to walk away
 
@@ -117,11 +145,27 @@ Rahman-Jones agrees, adding that anyone thinking about exploring new opportuniti
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-sound-in-windows-11-explained/"><u>[New] Capturing Sound in Windows 11 Explained</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-confirmed-age-adjustment-editing-your-profile-on-tiktok-easily-for-2024/"><u>[Updated] Confirmed Age Adjustment Editing Your Profile on TikTok Easily for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-guide-to-add-srt-to-mp4-2024/"><u>[Updated] Ultimate Guide to Add SRT to MP4 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-pcs-best-of-breed-ps1-emulation-titles/"><u>2024 Approved PC's Best of Breed PS1 Emulation Titles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artistic-augmentation-or-duplication-pros-and-cons-of-ai-writing/"><u>Artistic Augmentation or Duplication? Pros & Cons of AI Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-non-commercial-art-creation-software/"><u>Cutting-Edge Non-Commercial Art Creation Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-compromise-our-privacy/"><u>Does ChatGPT Compromise Our Privacy?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/implementing-cross-browser-compatibility-in-web-development-for-2024/"><u>Implementing Cross-Browser Compatibility in Web Development for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-play-8t-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor Play 8T to Roku | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-diving-deep-into-nikons-d500-for-exceptional-4k-imaging/"><u>In 2024, Diving Deep Into Nikon's D500 for Exceptional 4K Imaging</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-fixes-eliminate-ssgnatures-in-a-blink/"><u>In 2024, Quick Fixes Eliminate Ssgnatures in a Blink</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-into-daily-life-against-loneliness/"><u>Integrating GPT Into Daily Life Against Loneliness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-intellectual-property-rights/"><u>Understanding AI Intellectual Property Rights</u></a></li>
+</ul></div>
+

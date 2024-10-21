@@ -1,7 +1,7 @@
 ---
 title: "The Rights to Robot-Generated Imagery: Who Holds Them?"
-date: 2024-10-13T02:31:15.924Z
-updated: 2024-10-14T17:29:22.523Z
+date: 2024-10-13T22:57:53.598Z
+updated: 2024-10-20T22:09:12.606Z
 tags:
   - chatgpt
   - open-ai
@@ -60,6 +60,13 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -69,10 +76,10 @@ Close
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
@@ -85,22 +92,15 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
@@ -118,10 +118,10 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -149,21 +149,20 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-arc-electrify-powerful-media-player-replacement/"><u>[New] Arc Electrify Powerful Media Player Replacement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-premium-convo-boost-chatgpt-plus-unveiled-at-20mo-us-only/"><u>AI's Premium Convo Boost: ChatGPT Plus Unveiled at $20/Mo (US-Only)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-hr-workloads-gpts-role/"><u>Augmenting HR Workloads: GPT's Role</u></a></li>
-<li><a href="https://win-answers.techidaily.com/chrome-freeze-no-more-easy-fixes-for-stability-on-your-windows-10-pc/"><u>Chrome Freeze No More: Easy Fixes for Stability on Your Windows 10 PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-claude-2-an-in-depth-guide-to-its-capabilities/"><u>Demystifying Claude 2: An In-Depth Guide to Its Capabilities</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discovering-the-power-of-iphone-burst-images/"><u>Discovering the Power of iPhone Burst Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ethical-engagement-chatgpt-for-emotional-support/"><u>Ethical Engagement: ChatGPT for Emotional Support</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/free-to-paid-transitioning-your-channel-via-partnership-for-2024/"><u>From Free to Paid Transitioning Your Channel via Partnership for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gemini-elite-vs-powered-chatgpt/"><u>Gemini Elite Vs. Powered ChatGPT</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-honor-x50-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Honor X50 Screen | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/swift-windows-insight-sharing-methods/"><u>Swift Windows Insight Sharing Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-traditional-gaming-with-innovative-ai-techniques/"><u>Transforming Traditional Gaming with Innovative AI Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-responsive-iphone-easy-fixes-to-try/"><u>Troubleshooting a Non-Responsive iPhone: Easy Fixes to Try</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-the-potential-perils-of-using-chatgpt-in-our-lives/"><u>Unpacking the Potential Perils of Using ChatGPT in Our Lives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-expanding-your-instagram-video-footprint-practical-tips/"><u>[New] In 2024, Expanding Your Instagram Video Footprint Practical Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-prime-retro-elements-reviving-classic-vhs-tricks/"><u>[Updated] 2024 Approved Prime Retro Elements Reviving Classic VHS Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-education-the-role-of-virtual-reality/"><u>[Updated] Immersive Education The Role of Virtual Reality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-acoustic-bliss-500-yamaha-soundbar-vs-1000-jbl-a-budget-friendly-audio-revelation/"><u>Affordable Acoustic Bliss: $500 Yamaha Soundbar Vs. $1,000 JBL - A Budget-Friendly Audio Revelation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dying-light-optimization-guide-eliminating-frustrating-lag-issues-for-smooth-play/"><u>Dying Light Optimization Guide: Eliminating Frustrating Lag Issues for Smooth Play</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-webm-to-mp4-converter-movavi/"><u>Free Online Webm to Mp4 Converter - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/homepod-vs-homepod-mini-showdown-a-deep-dive-into-audio-excellence-apples-larger-pod-takes-the-crown/"><u>HomePod Vs. HomePod Mini Showdown: A Deep Dive Into Audio Excellence - Apple's Larger Pod Takes the Crown</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-art-of-tiktok-dance-a-step-by-step-guide-for-mac-users/"><u>In 2024, The Art of TikTok Dance A Step-by-Step Guide for Mac Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-zte-axon-40-lite-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from ZTE Axon 40 Lite to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-design-on-a-budget-our-selection-of-the-best-free-cad-programs-available/"><u>Mastering Design on a Budget: Our Selection of the Best Free CAD Programs Available</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-10-free-online-video-compression-tools-no-software-required/"><u>New Top 10 Free Online Video Compression Tools No Software Required</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-voice-assistants-amazon-enhances-alexa-with-cutting-edge-anthropic-ai-technology-zdnet/"><u>Revolutionizing Voice Assistants: Amazon Enhances Alexa with Cutting-Edge Anthropic AI Technology | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-best-smart-speakers-with-wi-fi-connectivity-expert-picks-by-zdnet/"><u>The Best Smart Speakers with Wi-Fi Connectivity - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-smart-home-innovations-unveiled-at-ces-2024-explore-the-latest-gadgets-with-insights-from-zdnet/"><u>Top Smart Home Innovations Unveiled at CES 2024 - Explore the Latest Gadgets with Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmatched-audio-precision-versatile-stylish-speakers-spotlighted-by-zdnet/"><u>Unmatched Audio Precision - Versatile, Stylish Speakers Spotlighted by ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Achieve Workplace Success: Discover Five Tactics to Skyrocket Your Career Trajectory | ZDNet"
-date: 2024-09-18 20:43:55
-updated: 2024-09-20 10:13:16
+date: 2024-10-13T22:32:30.777Z
+updated: 2024-10-20T18:59:59.954Z
 tags:
   - professional-development
 categories:
@@ -22,6 +22,13 @@ Right now, many workers can choose if they want to work in person, on a hybrid s
 Whether you're just starting your professional journey, in the middle of your career, or switching careers, we've got advice for you. Keep reading to learn more about certifications and skills that may help you upgrade your tech-focused career. 
 
 Spoiler alert: While certifications and upskilling help, so do soft skills and general tech professionalization.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## CompTIA A+ certification
 
@@ -68,6 +75,13 @@ That's because AI technology has value in every industry. Educators and employer
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Essential tech skills include soft skills, too
 
 Education, experience, and job-related skills matter to hiring managers. But emotional intelligence, empathy, ethics, integrity, time management, communication, and teamwork matter too. 
@@ -92,6 +106,13 @@ Whether you're an internal job candidate or applying for a position with another
 
 Check out this ZDNet guide if you want some interview prep insight: [41 impressive questions to ask in a job interview](https://www.zdnet.com/education/professional-development/questions-to-ask-in-an-interview/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Learn to negotiate your salary
 
 Sixty-three percent of workers who voluntarily left their jobs in 2021 said [low pay was the reason](https://www.pewresearch.org/fact-tank/2022/03/09/majority-of-workers-who-quit-a-job-in-2021-cite-low-pay-no-opportunities-for-advancement-feeling-disrespected/).
@@ -108,6 +129,13 @@ Nearly everyone changes jobs or careers throughout their lifetime. That means yo
 
 If you need some guidance, check out this guide: [Do's and don'ts for writing a resignation letter](https://www.zdnet.com/education/professional-development/how-to-write-a-resignation-letter/). It may help you avoid burning bridges or going viral for the wrong reasons.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Read more from this special report: Tech skills - Upgrade your job**
 
 * [**Software skills will get you far, but you don't have to be a coder to make it big in tech**](https://www.zdnet.com/education/professional-development/if-you-want-to-make-it-big-in-tech-these-non-tech-skills-are-essential/)
@@ -122,11 +150,28 @@ If you need some guidance, check out this guide: [Do's and don'ts for writing a 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-integrating-twitter-feed-into-your-whatsapp-conversations/"><u>[New] 2024 Approved Integrating Twitter Feed Into Your WhatsApp Conversations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-audiovisual-innovators-best-portable-devices-for-editors/"><u>2024 Approved Audiovisual Innovators Best Portable Devices for Editors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-powered-innovations-for-modern-enterprises/"><u>ChatGPT-Powered Innovations for Modern Enterprises</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-digital-duplicates-to-increase-youtube-exposure-for-2024/"><u>Dodge Digital Duplicates to Increase YouTube Exposure for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-ai-and-bitcoin-discussions-top-8-gpt-plugins-selection/"><u>Enhancing AI & Bitcoin Discussions: Top 8 GPT Plugins Selection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-circumvent-common-fails-with-chatgpt-in-writing/"><u>How to Circumvent Common Fails with ChatGPT in Writing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-11-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 11? Learn All 4 Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-v27-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo V27</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-gpts-influence-erasing-students-essay-excellence/"><u>Is GPT's Influence Erasing Students' Essay Excellence?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-gopro-video-editing-for-everyone-a-simple-free-and-fun-approach-for-2024/"><u>New GoPro Video Editing for Everyone A Simple, Free, and Fun Approach for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/profit-through-ai-interactions-and-tech-enthusiasm/"><u>Profit Through AI Interactions & Tech Enthusiasm</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silent-gameplay-restoring-sounds-in-call-of-duty-black-ops-cold-war-for-pc-players/"><u>Solving Silent Gameplay: Restoring Sounds in Call of Duty: Black Ops Cold War for PC Players</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/stop-car-sickness-with-your-smartphone-how-ios-18s-new-feature-can-help/"><u>Stop Car Sickness with Your Smartphone: How iOS 18'S New Feature Can Help</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-the-mysteries-of-gpt-4-within-verified-sphere/"><u>Unpacking the Mysteries of GPT-4 Within Verified Sphere</u></a></li>
+</ul></div>
+

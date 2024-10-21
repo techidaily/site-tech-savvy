@@ -1,7 +1,7 @@
 ---
 title: "Thousands Receive Apple's Newly Launched AI Education Program: Opportunities for Current & Former Students | Tech News"
-date: 2024-10-12T03:16:59.570Z
-updated: 2024-10-14T18:01:37.418Z
+date: 2024-10-16T00:29:26.059Z
+updated: 2024-10-20T20:30:28.989Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -89,10 +89,10 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,17 +131,18 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-quick-and-easy-xbox-one-image-snaps-for-gaming/"><u>[New] In 2024, Quick & Easy Xbox One Image Snaps for Gaming</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-techniques-for-effortless-documentation-of-your-online-classesmeets/"><u>[New] In 2024, Top Techniques for Effortless Documentation of Your Online Classes/Meets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/3-chatbot-privacy-risks-and-concerns-you-should-know-about/"><u>3 Chatbot Privacy Risks and Concerns You Should Know About</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-ways-chatgpt-can-revolutionize-smartwatches/"><u>6 Ways ChatGPT Can Revolutionize Smartwatches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721431688383-beware-these-sham-ai-tools-risky-for-data-security/"><u>Beware: These Sham AI Tools Risky for Data Security!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-limitations-in-the-crypto-domain/"><u>ChatGPT's Limitations in the Crypto Domain</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/eco-stage-designs-mastering-cinematographic-skills-with-free-downloads-for-2024/"><u>Eco-Stage Designs Mastering Cinematographic Skills with Free Downloads for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oneplus-ace-2v-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From OnePlus Ace 2V to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/inside-vitas-advanced-video-editing-tools-full-review-and-expert-tutorial-2024/"><u>Inside Vita's Advanced Video Editing Tools Full Review & Expert Tutorial 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721394173958-step-up-your-online-research-ai-powered-bing-on-ios-and-android/"><u>Step Up Your Online Research: AI-Powered Bing on iOS and Android</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ant-portraits-instant-professional-thumbnail-designs-for-2024/"><u>Valorant Portraits - Instant Professional Thumbnail Designs for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/wax-video-editing-software-tips-tricks-and-tutorials/"><u>Wax Video Editing Software Tips, Tricks, and Tutorials</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-epson-scan-not-working-in-windows-1011/"><u>[SOLVED] Epson Scan Not Working in Windows 10/11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-step-by-step-strategies-to-thrive-on-reddit/"><u>[Updated] 2024 Approved Step-by-Step Strategies to Thrive on Reddit</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-instagram-insiders-guide-to-dynamic-story-quizzes/"><u>2024 Approved The Instagram Insider's Guide to Dynamic Story Quizzes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypassing-equipment-limits-to-watch-the-roku-channel-online/"><u>Bypassing Equipment Limits to Watch the Roku Channel Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-is-the-best-way-to-use-gpt-4-turbo-for-free/"><u>Copilot Is the Best Way to Use GPT-4 Turbo for Free</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-word-2000-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Create a Digital Signature Online for Word 2000 document</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-turn-any-device-into-a-youtube-livestream-capturing-tool-for-2024/"><u>How to Turn Any Device Into a YouTube Livestream Capturing Tool for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-best-companions-premium-mac-programs-for-videography/"><u>In 2024, Best Companions Premium Mac Programs for Videography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-cutting-edge-tips-refine-your-brands-instagram-visibility/"><u>In 2024, Cutting-Edge Tips Refine Your Brand's Instagram Visibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-apple-watch-lifetime-on-a-single-charge-discover-key-settings-adjustments-for-better-efficiency-insights/"><u>Maximize Apple Watch Lifetime on a Single Charge: Discover Key Settings Adjustments for Better Efficiency | Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pure-playthings-select-free-pc-games/"><u>Pure Playthings: Select Free PC Games</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-zte-nubia-flip-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My ZTE Nubia Flip 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unplanned-thrill-of-snagging-apples-17-usb-c-earpods-on-prime-day-a-tech-enthusiasts-revelation-at-zdnet/"><u>The Unplanned Thrill of Snagging Apple's $17 USB-C EarPods on Prime Day – A Tech Enthusiast’s Revelation at ZDNet</u></a></li>
 </ul></div>
 

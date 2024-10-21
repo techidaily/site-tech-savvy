@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Installation of Microsoft Copilot for macOS Users
-date: 2024-10-09T13:51:19.031Z
-updated: 2024-10-15T06:33:36.936Z
+date: 2024-10-14T01:45:54.237Z
+updated: 2024-10-20T22:56:25.242Z
 tags:
   - chatgpt
   - open-ai
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
 ![Microsoft Copilot on the App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-on-the-app-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have an Apple silicon Mac, you're in luck because you can install and run the iPad version of Microsoft Copilot on your computer. Here's how:
 
 1. Launch the **App Store** app on your Mac from the Dock, Launchpad, or [the Applications folder in Finder](https://www.makeuseof.com/applications-folder-mac/).
@@ -53,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![Dragging Copilot app from Launchpad to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/dragging-copilot-app-from-launchpad-to-the-dock.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Double-click its icon to start using Copilot right away. Jump to the **Getting Started** section below to get acquainted with the app.
@@ -70,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![Adding a new shortcut in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-a-new-shortcut-in-macos.jpg)
 3. Drag the **Open App** action from the right sidebar to the empty space on the left.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click the blue **App** field and use the search bar to find and select **Copilot**.  
 ![Creating a simple Open app shortcut to quickly open Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/creating-a-simple-open-app-shortcut-to-quickly-open-copilot.jpg)
 5. Next, switch to the **Info (i)** tab of the sidebar and click **Add Keyboard Shortcut**.  
@@ -84,14 +84,14 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other [useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/). Then, hit the **Return** key.  
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
 
- You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
 
 ## Install Microsoft Copilot as a Web App on Your Mac
 
@@ -104,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
 ![Adding Copilot web app to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-copilot-web-app-to-the-dock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll find the Copilot web app on your Dock immediately. Launch it to begin.
 
 ## Getting Started With Microsoft Copilot on Your Mac
@@ -122,19 +115,26 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![Enabling GPT-4 in Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/enabling-gpt-4-in-copilot.jpg)
 3. You can choose from **Creative**, **Balanced**, and **Precise**. By default, it's set to **Creative**, which gets you descriptive responses. I use the **Precise** setting as I prefer concise responses with only the facts that I need.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Changing tone in the Copilot app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/changing-tone-in-the-copilot-app.jpg)
 4. Additionally, you can click **Sign in** in the top-left corner of the window and log in with your Microsoft account. This allows you to ask more questions and have longer conversations with the AI chatbot.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  At this point, you're all set to use Copilot on your Mac at its full potential. If you want to make further tweaks, click the **three-line** icon in the top-left corner to access the app's settings menu. Here, you can change the theme, region and language, permissions, and privacy settings for Copilot.
 
  You can clear your Copilot search history by heading to the app's privacy settings menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Benefits of Using Copilot Over ChatGPT
 
@@ -161,19 +161,24 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-attract-1000-viewers-quickly-on-youtube/"><u>[New] In 2024, Attract 1,000 Viewers Quickly on YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-premier-hd-picks-for-impeccable-video-recorders-for-2024/"><u>[New] Premier HD Picks for Impeccable Video Recorders for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-elite-hd-video-recorder-macpc-fullscreen/"><u>2024 Approved Elite HD Video Recorder MacPC Fullscreen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-strategies-from-palm-2-for-a-better-bard-experience/"><u>7 Strategies From PaLM 2 for a Better Bard Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comparacao-detalhada-entre-mp3-e-mp4-qual-e-a-melhor-opcao-para-seu-audio/"><u>Comparação Detalhada Entre MP3 E MP4: Qual É a Melhor Opção Para Seu Audio?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/createwinfx-movies/"><u>CreateWinFX Movies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-image-design-mastering-microsofts-copilot-capabilities/"><u>Cutting-Edge Image Design: Mastering Microsoft's Copilot Capabilities</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578813837-monday-to-domingo-learn-the-days-of-the-week-in-spanish/"><u>Monday To Domingo - Learn The Days Of The Week In Spanish</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-ai-scrutiny-post-turing-test-paradigm-shift/"><u>Reimagining AI Scrutiny Post-Turing Test Paradigm Shift</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-art-of-zooming-in-youtube-videos-for-2024/"><u>The Art of Zooming in YouTube Videos for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-surge-of-edge-computing-devices-how-it-impacts-professional-growth-insights-from-zdnet/"><u>The Surge of Edge Computing Devices: How It Impacts Professional Growth - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-uses-for-tailored-chatgpt-guidance/"><u>Top 5 Uses for Tailored ChatGPT Guidance</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/top-rated-gaming-pc-configurations-in-2-024-affordable-and-high-end-options/"><u>Top Rated Gaming PC Configurations in 2 024 - Affordable & High-End Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-power-of-chatgpt-in-multiple-languages/"><u>Unlocking the Power of ChatGPT in Multiple Languages</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-t5-thievery-a-comprehensive-action-footage-analysis/"><u>[New] 2024 Approved T5 Thievery - A Comprehensive Action Footage Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-master-your-screen-time-discover-these-top-7-android-adblockers/"><u>[New] Master Your Screen Time Discover These Top 7 Android AdBlockers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-recorders-eye-a-snapshot-of-best-tools/"><u>[New] The Recorder's Eye A Snapshot of Best Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-revealed-the-10-most-reliable-android-and-ios-countdown-clocks-for-marriage-bliss-for-2024/"><u>[Updated] Revealed The 10 Most Reliable Android and iOS Countdown Clocks for Marriage Bliss for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-implementing-exact-timestamp-features-for-youtube/"><u>2024 Approved Implementing Exact Timestamp Features for YouTube</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweeted-timeline-capture-securing-your-social-media-videos/"><u>2024 Approved Tweeted Timeline Capture Securing Your Social Media Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-yamaha-vs-pricey-jbl-stunning-acoustic-victory-for-under-500/"><u>Affordable Yamaha Vs. Pricey JBL - Stunning Acoustic Victory for Under $500!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-sonic-surround-without-the-big-names-how-a-lesser-known-brand-outperforms-sony-and-bose-insights-from-zdnets-testing/"><u>Best Sonic Surround Without the Big Names: How a Lesser-Known Brand Outperforms Sony and Bose - Insights From ZDNet's Testing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-vizio-and-jbl-unveiling-the-best-immersive-soundbar-ive-ever-tested-for-audiophiles-zdnet-review/"><u>Beyond Vizio and JBL: Unveiling the Best Immersive Soundbar I've Ever Tested for Audiophiles | ZDNET Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compact-handheld-bluetooth-speaker-delivers-impressive-bass-quality-exclusive-review-by-zdnet/"><u>Compact Handheld Bluetooth Speaker Delivers Impressive Bass Quality: Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-wf-2760-driver-download-windows-11108/"><u>Epson WF 2760 Driver Download - Windows 11/10/8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-review-2024s-leading-bookshelf-sound-solutions-as-ranked-by-gizmohub/"><u>Expert Review: 2024'S Leading Bookshelf Sound Solutions as Ranked by GizmoHub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-premium-quality-sound-with-yamahas-budget-friendly-bar-for-only-half-of-a-1000-jbl-price-expert-insights-from-zdnet/"><u>Get Premium Quality Sound with Yamaha's Budget-Friendly Bar for Only Half of a $1,000 JBL Price - Expert Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/immersive-sound-experience-premium-quality-bass-and-treble-with-versatile-styles-discover-the-best-wireless-speakers/"><u>Immersive Sound Experience: Premium Quality Bass & Treble with Versatile Styles - Discover the Best Wireless Speakers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-tecno-spark-20-proplus-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Tecno Spark 20 Pro+ FRP</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-decoding-the-route-to-achieving-facebook-verification/"><u>In 2024, Decoding the Route to Achieving Facebook Verification</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/my-unexpected-love-affair-with-jbl-trading-high-end-soundbar-for-impressive-performance-zdnet/"><u>My Unexpected Love Affair with JBL: Trading High-End Soundbar for Impressive Performance | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turn-your-unused-electronics-into-amazon-rewards-with-easy-trading-discover-the-steps/"><u>Turn Your Unused Electronics Into Amazon Rewards with Easy Trading - Discover the Steps!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unveiling-hidden-functionalities-of-instagrams-question-marker-for-2024/"><u>Unveiling Hidden Functionalities of Instagram’s Question Marker for 2024</u></a></li>
 </ul></div>
 

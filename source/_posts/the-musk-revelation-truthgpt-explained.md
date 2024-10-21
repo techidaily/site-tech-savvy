@@ -1,7 +1,7 @@
 ---
 title: "The Musk Revelation: TruthGPT Explained"
-date: 2024-10-08T07:28:29.540Z
-updated: 2024-10-14T20:52:18.297Z
+date: 2024-10-14T22:00:08.789Z
+updated: 2024-10-20T17:56:25.510Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
 
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Is Elon Musk Building TruthGPT?
 
  In an interview with [Fox News](https://www.foxnews.com/media/elon-musk-develop-truthgpt-warns-civilizational-destruction-ai), Elon Musk expressed his concerns about how big AI firms can perpetuate bias and disinformation through AI chatbots—an emerging tool people increasingly depend on for information. Elon Musk also commented on the threat AI poses to humanity, emphasizing the possibility of an AI apocalypse, a scenario where AI systems could take control of our daily lives.
@@ -45,10 +52,10 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
  Elon Musk, who recently authored an open letter calling for a [moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Would TruthGPT Look Like?
@@ -56,10 +63,10 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
 ![artificial brain doing data analytics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
@@ -70,23 +77,9 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
 
  So, is this idea of a maximum truth-seeking AI even practical?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Building TruthGPT Is a Huge Challenge
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you [understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/), it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
 
@@ -95,6 +88,13 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
  Of course, accuracy can also be tackled from the algorithm side. However, irrespective of the algorithm, language ambiguity still represents a big problem for the accuracy of AI models. Even humans often struggle to accurately interpret a sentence or phrase's meaning, leading to misinformation. For AI models, ambiguity can lead to misinterpretations resulting in inaccuracies.
 
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is TruthGPT an Exciting Possibility?
 
@@ -119,20 +119,19 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-mastering-video-avi-into-graphic-image-gif-filmoras-complete-guide-for-2024/"><u>[Updated] Mastering Video (AVI) Into Graphic Image (GIF) Filmora's Complete Guide for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-youtube-mastery-starts-here-building-and-monetizing-your-channel/"><u>[Updated] YouTube Mastery Starts Here Building and Monetizing Your Channel</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-lolkit-design-memes-and-graphics-with-a-click/"><u>2024 Approved LolKit Design Memes & Graphics with a Click</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-collective-vs-constrained-artificinas/"><u>Comparing Collective Vs. Constrained Artificinas</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-conversion-of-quicktime-to-windows-media-video-effortlessly-transform-with-movavi/"><u>Free Conversion of QuickTime to Windows Media Video - Effortlessly Transform with Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-se-2020-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone SE (2020) without Losing Data? | Stellar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/human-touch-and-the-imperative-for-authentic-content/"><u>Human Touch and the Imperative for Authentic Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-adjusting-story-video-playback-rate-on-instagram/"><u>In 2024, Adjusting Story Video Playback Rate on Instagram</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-microsoft-azure-unlocking-speech-to-text-potential/"><u>In 2024, Microsoft Azure Unlocking Speech-to-Text Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-googles-visionary-approach-to-language-models-palm-2/"><u>Inside Google's Visionary Approach to Language Models: PaLM 2</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-a38-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo A38? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/llm-demystified-the-framework-of-giant-ai-tools/"><u>LLM Demystified: The Framework of Giant AI Tools</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/sul-vuoto-5-trichefici-strategie-per-superare-limpegno-del-trasferimento-dati-bloccato-sugli-iphone-1415/"><u>Sul Vuoto? 5 Trichefici Strategie per Superare L'Impegno Del Trasferimento Dati Bloccato Sugli iPhone 14/15</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-showdown-palm-2-vs-openais-gpt-4/"><u>The Ultimate Showdown: PaLM 2 Vs. OpenAI's GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-and-mitigating-ai-generated-text-risks/"><u>Understanding and Mitigating AI-Generated Text Risks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-be-the-artist-drawing-animated-characters-on-phones/"><u>[New] Be the Artist Drawing Animated Characters on Phones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-how-to-use-android-phones-in-watching-vr-or-360-videos-2023-update/"><u>[Updated] How to Use Android Phones in Watching VR or 360 Videos -2023 Update</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/2-r2/"><u>2 R2上的最高效备份解决方案 - 专业推荐</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-sony-dvd-players-with-audio-but-no-visuals-complete-guide/"><u>Fixing Sony DVD Players with Audio but No Visuals - Complete Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-anthropics-prompt-potential-via-claude-3/"><u>Maximizing Anthropic's Prompt Potential via Claude 3</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mfc-9330-wireless-setup-guide-for-brother-fans/"><u>MFC-9330 Wireless Setup Guide for Brother Fans</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dual-gpu-conflicts-in-win11/"><u>Overcoming Dual GPU Conflicts in Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-tozo-t6-problems-on-your-windows-11-system/"><u>Overcoming Tozo T6 Problems on Your Windows 11 System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-tv-vpn-services-comprehensive-reviews-and-comparisons-techradar/"><u>Top Rated Apple TV VPN Services - Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-traveler-friendly-vpn-services-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Traveler-Friendly VPN Services - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-vpn-routers-expert-reviews-and-comparisons-zdnet/"><u>Top Rated VPN Routers : Expert Reviews & Comparisons - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-affordable-vpn-services-of-2024-comprehensive-review-by-industry-pros-techradar/"><u>Top-Rated Affordable VPN Services of 2024: Comprehensive Review by Industry Pros | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-budget-friendly-vpn-services-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Budget-Friendly VPN Services : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/your-next-best-friend-in-conversation-is-ai/"><u>Your Next Best Friend in Conversation Is AI</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Paving the Way for an AI Profession: Begin With These Five Key Strategies - Insights From ZDNet"
-date: 2024-09-17 17:21:42
-updated: 2024-09-20 11:37:24
+date: 2024-10-17T02:38:26.394Z
+updated: 2024-10-20T22:12:03.593Z
 tags:
   - professional-development
 categories:
@@ -53,6 +53,13 @@ Depending on what kind of product manager he is, he might also have marketing co
 
 As an experienced product manager, he probably also has strong project management skills, strong organization skills, and some level of product knowledge (in his case, for life science-related offerings). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Identify skills that might transfer
 
 Rick might not be aware of this, but he has skills that are particularly well-suited to the world of AI. Prompt engineering (the writing of instructions for generative AI tools) is much more about structuring requests in natural language than it is about writing code. 
@@ -97,6 +104,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Train yourself
 
 But, Rick says he doesn't know the AI field. He doesn't know the business of AI (all the players, how they relate, their competitive landscape). He doesn't really know how it all works. And he's never done any actual AI work. 
@@ -118,6 +132,13 @@ Then, get yourself a [ChatGPT Plus](https://www.zdnet.com/article/gpt-3-5-vs-gpt
 **Also: [You can build your own AI chatbot with this drag-and-drop tool](https://www.zdnet.com/article/you-can-build-your-own-ai-chatbot-with-this-drag-and-drop-tool/)**
 
 My point here is simple: make yourself knowledgeable. If you want to get a job in a field where you don't possess the experience, expertise, or credentials, you won't get anywhere without any of them. Fortunately, AI is a field that doesn't require board certification or a specific terminal degree. But it does require knowing stuff. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Build yourself some AI resume points 
 
@@ -165,6 +186,13 @@ But keep in mind that a career in AI also comes with challenges. It's a moving t
 
 There. That'll get you thinking. Good luck.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Let us know how it goes
 
 Feel free to share your journey of exploration and transformation in the comments below. Or, even better, share it in your new blog or Substack. Good luck. Be strong. Be curious. What do you think? Let us know if Rick's path seems like it might be similar to yours. Did you learn anything you can put to use? What ideas do you have that I didn't share? Let us know in the comments below.
@@ -194,11 +222,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-detailed-exploration-into-sourcing-high-quality-backdrops/"><u>[New] A Detailed Exploration Into Sourcing High-Quality Backdrops</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-video-length-limit-a-compre-written-for-you-for-2024/"><u>[New] Instagram’s Video Length Limit - A Compre Written for You for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stay-updated-the-latest-on-changing-win11-walls/"><u>2024 Approved Stay Updated The Latest on Changing Win11 Walls</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-stream-mastery-top-rated-tech-and-devices-guide-for-creators/"><u>2024 Approved YouTube Stream Mastery Top-Rated Tech & Devices Guide for Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-cgp-offer-dependable-medical-data-and-advice/"><u>Can CGP Offer Dependable Medical Data and Advice?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-your-ai-ally-chatgpt-is-up-and-at-em/"><u>Ensuring Your AI Ally, ChatGPT, Is Up and At 'Em</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-gateway-to-gpt-4s-power-four-approaches-explained/"><u>Free Gateway to GPT-4's Power: Four Approaches Explained</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/get-ready-for-a-wild-ride-an-essential-guide-to-fortnites-newest-and-most-fun-season-yet/"><u>Get Ready for a Wild Ride: An Essential Guide to Fortnite’s Newest and Most Fun Season Yet!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-action-replay-compare-gopros-hero5-black-and-session/"><u>In 2024, Action Replay Compare GoPro's Hero5 Black & Session</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shortcuts-to-excellent-iphone-time-lapse-videos/"><u>In 2024, Shortcuts to Excellent iPhone Time Lapse Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-best-fast-photo-viewer-for-windows-11/"><u>In 2024, Top Best Fast Photo Viewer for Windows 11?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-digital-marketplace-the-power-of-chatgpt-in-freelance-work/"><u>Navigating the Digital Marketplace: The Power of ChatGPT in Freelance Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-to-download-and-deploy-llama-2/"><u>Quick Guide to Download & Deploy Llama 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/text-warriors-gpt-3-vs-google-for-perfect-phrases/"><u>Text Warriors: GPT-3 Vs. Google for Perfect Phrases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-9-dangers-when-ai-takes-over-emotional-care/"><u>The 9 Dangers: When AI Takes Over Emotional Care</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-30-innovative-point-of-sale-systems-excluding-gpt/"><u>The Top 30 Innovative Point-of-Sale Systems, Excluding GPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-apple-iphone-12-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>Wondering the Best Alternative to Hola On Apple iPhone 12? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+

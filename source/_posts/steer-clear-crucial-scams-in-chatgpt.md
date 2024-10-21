@@ -1,7 +1,7 @@
 ---
 title: "Steer Clear: Crucial Scams in ChatGPT"
-date: 2024-10-07T18:35:49.958Z
-updated: 2024-10-15T07:12:07.156Z
+date: 2024-10-18T02:05:56.641Z
+updated: 2024-10-20T16:01:25.809Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 
  In general, using ChatGPT to write phishing emails can streamline the scam process for cybercriminals, which may cause phishing attacks to grow in frequency overall.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Fake ChatGPT Browser Extensions
 
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
@@ -50,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Fake ChatGPT Apps
 
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
@@ -67,15 +67,22 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Malware Created by ChatGPT
 
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There's been a lot of talk about AI and cybercrime in recent years, as many are concerned this technology may make it easier for malicious actors to scam and attack victims.
@@ -88,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Phishing attacks are often conducted using malicious websites. These sites are designed to log the keystrokes you enter so that valuable data can be stolen and exploited.
 
  If you want to use ChatGPT, there's a chance you are at risk of falling victim to this kind of phishing scam. Say you click on a website believing it to be the official ChatGPT webpage. Here, you create an account, entering your name, contact details, and other information. If the website you're using is, in reality, [a malicious site](https://www.makeuseof.com/beginners-guide-to-malicious-websites/), the information you enter will likely be stolen for exploitation.
@@ -104,16 +104,10 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
  In reality, the link you click on leads to a malicious webpage that can steal any data you enter, including your login credentials. Now, another person can access your ChatGPT account and view your prompt history, account details, and other sensitive data. It's important to know [how to spot phishing scams](https://www.makeuseof.com/top-signs-phishing-scams/) in order to avoid this kind of cybercrime.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Scams Are Worryingly Common
@@ -137,24 +131,19 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mac-enhanced-a-dive-into-screenflows-capabilities/"><u>[Updated] 2024 Approved Mac Enhanced A Dive Into ScreenFlow's Capabilities</u></a></li>
-<li><a href="https://win-best.techidaily.com/1726220649456-mov-wav-movavi/"><u>免費在線 MOV 文件轉成高品質 WAV 格式 - 使用 MOVAVI 專業工具</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-claude-2-features-unveiled/"><u>Breaking Down Claude 2: Features Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/compare-and-conquer-why-ios-chatgpt-wins-over-web/"><u>Compare & Conquer: Why iOS ChatGPT Wins Over Web</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cutting-the-power-bill-with-smart-tv-adjustments-discover-zdnets-secret-to-saving-electricity-on-your-set-up/"><u>Cutting the Power Bill with Smart TV Adjustments! Discover ZDNet's Secret to Saving Electricity on Your Set-Up.</u></a></li>
-<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-12-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 12 Pro Max Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/discover-the-ultimate-free-and-cross-platform-video-encoders-for-windows-and-apple-devices/"><u>Discover the Ultimate Free & Cross-Platform Video Encoders for Windows and Apple Devices</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/essential-15-ideas-to-boost-your-snap-score-for-2024/"><u>Essential 15 Ideas to Boost Your Snap Score for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/flawless-visual-shifts-for-filmmakers-for-2024/"><u>Flawless Visual Shifts for Filmmakers for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-correct-chatgpt-live-dialogue-problems/"><u>How To Correct ChatGPT Live Dialogue Problems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-a-world-of-videos-made-easy-with-vidas-aid/"><u>In 2024, Navigating a World of Videos Made Easy with Vida's Aid</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/musks-mystery-the-future-of-gpt-revealed/"><u>Musk's Mystery: The Future of GPT Revealed?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-for-kids-five-child-friendly-practices/"><u>Navigating ChatGPT for Kids: Five Child-Friendly Practices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-complexities-of-ai-made-messages/"><u>Navigating the Complexities of AI-Made Messages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seek-these-six-no-cost-ai-options-similar-to-sora/"><u>Seek These Six No-Cost AI Options Similar to Sora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-exporting-data-from-your-ai-conversations/"><u>Strategies for Exporting Data From Your AI Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quest-for-excellence-between-gemini-max-and-enhanced-chatgpt/"><u>The Quest for Excellence: Between Gemini Max & Enhanced ChatGPT</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/top-15-facebook-strategies-for-maximizing-online-selling-power/"><u>Top 15 Facebook Strategies for Maximizing Online Selling Power</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-best-twitter-gif-saver-for-you/"><u>[New] 2024 | Best Twitter GIF Saver for You</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-complete-insight-the-full-picture-of-bublcam-360/"><u>[New] Complete Insight The Full Picture of Bublcam 360</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/levate-your-online-presence-mastering-youtube-edits-in-premiere-for-2024/"><u>[New] Elevate Your Online Presence Mastering YouTube Edits in Premiere for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unlock-creative-potential-advanced-zooming-on-snapchat-for-2024/"><u>[New] Unlock Creative Potential Advanced Zooming on Snapchat for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-enterprise-ready-managing-your-apple-vision-pro-with-precision-tech-insights/"><u>1. Enterprise-Ready: Managing Your Apple Vision Pro with Precision | Tech Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-tutorial-for-building-movies-on-windows-8/"><u>2024 Approved Step-by-Step Tutorial for Building Movies on Windows 8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/amazons-persuasive-power-how-i-found-myself-unplannedly-buying-an-apple-watch/"><u>Amazon's Persuasive Power: How I Found Myself Unplannedly Buying an Apple Watch</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-through-boundaries-15plus-best-free-video-starters/"><u>Break Through Boundaries 15+ Best Free Video Starters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-boundaries-custom-font-use-in-after-effects-for-2024/"><u>Breaking Boundaries Custom Font Use in After Effects for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claudes-edge-over-gpt-identifying-the-top-4-differentiators/"><u>Claude’s Edge Over GPT: Identifying the Top 4 Differentiators</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-capture-to-share-proven-methods-for-live-360-video-on-youtube/"><u>In 2024, From Capture to Share Proven Methods for Live 360° Video on Youtube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-image-warping-techniques/"><u>In 2024, Mastering Image Warping Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stealthy-backup-for-unaltered-chatgpt-communications/"><u>Stealthy Backup for Unaltered ChatGPT Communications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-redesign-apple-set-to-update-budget-friendly-series-se-timepiece-exciting-features-revealed/"><u>Upcoming Redesign: Apple Set to Update Budget-Friendly Series SE Timepiece - Exciting Features Revealed</u></a></li>
 </ul></div>
 

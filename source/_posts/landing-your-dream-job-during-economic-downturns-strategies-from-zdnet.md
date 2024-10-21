@@ -1,7 +1,7 @@
 ---
 title: "Landing Your Dream Job During Economic Downturns: Strategies From ZDNet"
-date: 2024-09-19 19:33:14
-updated: 2024-09-20 12:29:23
+date: 2024-10-15T00:45:26.008Z
+updated: 2024-10-21T01:07:34.670Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ Write down what you want in a job and prioritize your list. Refer back to the li
 
 Next, set achievable goals. Instead of telling yourself to find a job by a certain date, set goals for networking, like attending a certain number of events each month or reaching out to a certain number of contacts each week. You can also set goals for the number of job applications you want to submit each week. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update your resume and LinkedIn.
 
 ### Explore
@@ -51,6 +58,13 @@ Make sure you send brief but collegial emails and LinkedIn messages. Even a dist
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Find companies that are clearly looking to hire.
 
 It might sound backward to start with companies rather than job postings, but identifying organizations that match your professional skills and goals focuses your job search. 
@@ -58,6 +72,19 @@ It might sound backward to start with companies rather than job postings, but id
 Research corporate culture, the hiring process at different companies, and your networking connections. 
 
 Identify companies where you'd like to work, and narrow your search by filtering for companies that are expanding or hiring. Even in a recession, many companies hire new employees.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Learn new skills to boost your resume.
 
@@ -91,6 +118,13 @@ While your goal might be a full-time job, temporary work can bridge the gap. Dur
 
 Search for temporary or contract positions as part of your overall job search. And consider reaching out to recruiters to ask about temporary work opportunities.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Stay the course, be patient, and focus on what you can control.
 
 Looking for a job can feel overwhelming. And a recession only adds to that pressure. You might experience frustration, disappointment, [and burnout](https://www.zdnet.com/education/professional-development/how-to-avoid-burnout/) during your job search. Be kind to yourself and stay focused on your long-term goals.
@@ -123,11 +157,28 @@ Focus on what you can control. Stand up to [imposter syndrome](https://www.zdnet
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-innovativescreens-newrecorderx-reviewed-and-rated-for-2024/"><u>[New] InnovativeScreens' NewRecorderX Reviewed & Rated for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-ig-peak-performers-iphone-plus-androids-top-covers-app/"><u>[Updated] 2024 Approved IG Peak Performers IPhone + Android's Top Covers App</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-innovative-fb-ad-campaigns-boosting-patient-care/"><u>[Updated] In 2024, Innovative FB Ad Campaigns Boosting Patient Care</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-techniques-for-lut-use-in-premiere-pro/"><u>2024 Approved Advanced Techniques for LUT Use in Premiere Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/coding-your-own-story-interactive-rpg-with-chatgpt/"><u>Coding Your Own Story: Interactive RPG with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engaging-gpt-prose-with-your-voice-and-vibe/"><u>Engaging GPT Prose with Your Voice and Vibe</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/formulating-attractive-instagram-story-captions/"><u>Formulating Attractive Instagram Story Captions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-chatgpt-could-help-improve-your-dating-life/"><u>How ChatGPT Could Help Improve Your Dating Life</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mouse-pointer-on-black-window-issue/"><u>Mouse Pointer On Black Window Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-system-resources-through-edges-webview2-controls/"><u>Optimizing System Resources Through Edge's WebView2 Controls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-rivalry-chatgpt-meets-claude-ai/"><u>Revolutionary Rivalry: ChatGPT Meets Claude AI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-differences-between-basic-and-advanced-ev-charging-levels-explored/"><u>The Differences Between Basic and Advanced EV Charging - Levels Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-performing-ai-trial-with-uniform-tasks/"><u>Top Performing AI: Trial with Uniform Tasks</u></a></li>
+</ul></div>
+

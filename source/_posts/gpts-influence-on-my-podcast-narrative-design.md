@@ -1,7 +1,7 @@
 ---
 title: GPT's Influence on My Podcast Narrative Design
-date: 2024-10-10T01:21:13.396Z
-updated: 2024-10-15T03:24:28.562Z
+date: 2024-10-13T19:53:58.681Z
+updated: 2024-10-20T16:39:56.502Z
 tags:
   - chatgpt
   - open-ai
@@ -49,10 +49,16 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
  This risked making the end product sound very different to every other show, but it was worth it to find something to add to the list of [things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Limitations With ChatGPT’s Scriptwriting Abilities
@@ -60,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 ![Script by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-script.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Finding ways to pose the instructions that would create a usable script revealed various limitations to ChatGPT.
@@ -91,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-recommend-fail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Variations were attempted, but all resulted in largely the same response. Unperturbed, the recorded podcast featured a shortened version of this “script.”
@@ -148,10 +154,10 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
  The finished Really Useful Podcast can be listened to on [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), and you can subscribe on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-really-useful-podcast/id1437847131). To give you an idea of how the scripted sections turned out, I’ve edited them into a compressed edition.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Use ChatGPT to Write a Podcast?
@@ -185,24 +191,19 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/-compreehensive-guide-to-youtube-thumbnail-creation-mac-for-2024/"><u>[New] A Compreehensive Guide to YouTube Thumbnail Creation (Mac) for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-fuss-guides-for-documenting-video-calls-for-2024/"><u>[New] No-Fuss Guides for Documenting Video Calls for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ookie-riches-economical-channels-for-monetization/"><u>[New] Rookie Riches Economical Channels for Monetization</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-breaking-boundaries-education-through-vr-lenses/"><u>2024 Approved Breaking Boundaries Education Through VR Lenses</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-free-from-the-frozen-windows-terminal/"><u>Breaking Free From the Frozen Windows Terminal</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/contrasting-standard-and-enterprise-chatgpt-uses/"><u>Contrasting Standard and Enterprise ChatGPT Uses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-insights-tackling-the-top-6-gpt-car-issues/"><u>Essential Insights: Tackling the Top 6 GPT Car Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-the-need-for-jailbreaking-chatgpt/"><u>Evaluating the Need for Jailbreaking ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excels-visualization-brilliance-chatgpt-counterpart-lacks-this/"><u>Excel's Visualization Brilliance: ChatGPT Counterpart Lacks This</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-a78-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on A78</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-the-complexity-of-ai-with-googles-browser-extension/"><u>Navigate the Complexity of AI with Google’s Browser Extension</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagining-the-look-of-basic-text-editor-in-windows-11/"><u>Reimagining the Look of Basic Text Editor in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-children-top-5-secure-chatgpt-activities/"><u>Safeguarding Children: Top 5 Secure ChatGPT Activities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailor-your-text-experience-openais-gpt-custom-shops/"><u>Tailor Your Text Experience – OpenAI's GPT Custom Shops</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tips-for-adding-music-to-photo-online-for-2024/"><u>Tips for Adding Music to Photo Online for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tracing-ais-footsteps-through-time/"><u>Tracing AI’s Footsteps Through Time</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unveiling-europes-linguistic-tapestry-language-diversity-on-europe-day/"><u>Unveiling Europe's Linguistic Tapestry: Language Diversity on Europe Day</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/will-ai-enhance-mental-health-care-or-hinder-it/"><u>Will AI Enhance Mental Health Care or Hinder It?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplified-explanation-of-stories-art/"><u>[New] Simplified Explanation of Stories' Art</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-snaptweet-transporter-swift-transfer-of-tweets-content/"><u>[Updated] 2024 Approved SnapTweet Transporter Swift Transfer of Tweets' Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/0-download-and-update-your-printers-driver-software-today/"><u>0, Download & Update Your Printer's Driver Software Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/broadcasting-and-collaborative-play-via-ps5/"><u>Broadcasting & Collaborative Play via PS5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-desktop-on-hold-discover-this-top-quality-open-source-chat-app-as-your-go-to-solution/"><u>ChatGPT Desktop on Hold? Discover This Top-Quality Open Source Chat App as Your Go-To Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-guide-solving-high-ping-issues-in-warzone-as-of-2024/"><u>Essential Guide: Solving High-Ping Issues in Warzone as of 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-does-a-vpn-work-and-what-benefits-could-it-offer-you-comprehensive-insights-into-using-a-virtual-private-network-zdnet/"><u>How Does a VPN Work, and What Benefits Could It Offer You? Comprehensive Insights Into Using a Virtual Private Network: ZDNet</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-efficiently-save-video-content-from-veoh-streaming-service-using-veoh-downloader-compatible-with-macos-and-windows/"><u>How to Efficiently Save Video Content From Veoh Streaming Service Using Veoh Downloader: Compatible with macOS and Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-review-of-protonvpn-by-zdnet-exceptional-vpn-service-with-superior-data-breach-prevention-capabilities/"><u>In-Depth Review of ProtonVPN by ZDNet: Exceptional VPN Service with Superior Data Breach Prevention Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nordvpn-and-surfshark-head-to-head-battle-determining-the-top-vpn-for-your-privacy-needs-zdnet/"><u>NordVPN & SurfShark Head-to-Head Battle: Determining the Top VPN for Your Privacy Needs (ZDNet)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nordvpn-evaluation-unwavering-velocity-and-excellence-in-service-insights-from-zdnet/"><u>NordVPN Evaluation: Unwavering Velocity & Excellence in Service - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nordvpn-versus-protonvpn-a-comprehensive-head-to-head-comparison-the-definitive-answer/"><u>NordVPN versus ProtonVPN: A Comprehensive Head-to-Head Comparison – The Definitive Answer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speak-with-elegance-on-chrome-top-picks-for-web-based-voice-transformers-for-2024/"><u>Speak with Elegance on Chrome Top Picks for Web-Based Voice Transformers for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/virtual-reality-explained-meta-vs-omni-insights/"><u>Virtual Reality Explained Meta Vs. Omni Insights</u></a></li>
 </ul></div>
 

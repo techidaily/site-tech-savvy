@@ -1,7 +1,7 @@
 ---
 title: "From Words to World: GPT's Podcast Storytelling"
-date: 2024-10-12T13:46:52.447Z
-updated: 2024-10-15T03:32:45.441Z
+date: 2024-10-18T21:25:59.134Z
+updated: 2024-10-20T16:18:59.587Z
 tags:
   - chatgpt
   - open-ai
@@ -48,16 +48,16 @@ thumbnail: https://thmb.techidaily.com/b7b3d8c39a821649dc44d49c09139a20a97e41dfc
 
  This risked making the end product sound very different to every other show, but it was worth it to find something to add to the list of [things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 Limitations With ChatGPT’s Scriptwriting Abilities
 
 ![Script by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-script.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Finding ways to pose the instructions that would create a usable script revealed various limitations to ChatGPT.
 
@@ -77,27 +77,20 @@ thumbnail: https://thmb.techidaily.com/b7b3d8c39a821649dc44d49c09139a20a97e41dfc
 
  (Of course, ChatGPT cannot understand in the human sense of the word.)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. ChatGPT Does Not Recommend
 
  In order to mitigate legal claims, ChatGPT is not able to make recommendations. Indeed, upon the first request to “introduce a podcast section on recommending technology” it responded with:
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-recommend-fail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Variations were attempted, but all resulted in largely the same response. Unperturbed, the recorded podcast featured a shortened version of this “script.”
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How the ChatGPT-Scripted Podcast Turned Out
 
@@ -131,18 +124,18 @@ thumbnail: https://thmb.techidaily.com/b7b3d8c39a821649dc44d49c09139a20a97e41dfc
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-news.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For the show’s middle section (explainers, tips, and tricks) the intro prompt was:
 
 > _Write an introduction to discussion about decrypting ransomware, games not working on Windows 11, and why you shouldn't pay to use Microsoft Word_
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-tips.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Finally, ChatGPT was asked to script a section on tech recommendations:
 
@@ -153,6 +146,19 @@ thumbnail: https://thmb.techidaily.com/b7b3d8c39a821649dc44d49c09139a20a97e41dfc
 > _As an AI language model, I cannot comment or recommend the creation of a podcast on behalf of individuals or organizations._
 
  The finished Really Useful Podcast can be listened to on [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), and you can subscribe on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-really-useful-podcast/id1437847131). To give you an idea of how the scripted sections turned out, I’ve edited them into a compressed edition.
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should You Use ChatGPT to Write a Podcast?
 
@@ -185,16 +191,18 @@ thumbnail: https://thmb.techidaily.com/b7b3d8c39a821649dc44d49c09139a20a97e41dfc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unleash-your-creative-vision-with-youtubes-filmmaking-courses/"><u>[New] 2024 Approved Unleash Your Creative Vision with YouTube's Filmmaking Courses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-new-rock-bottom-deal-apples-mac-mini-fitted-with-m2-chip-for-just-479-tech-insights-from-zdnet/"><u>Discover the New Rock-Bottom Deal: Apple's Mac Mini Fitted with M2 Chip for Just $479 | Tech Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-built-in-extensions-uses-and-functionalities/"><u>Exploring ChatGPT's Built-In Extensions: Uses & Functionalities</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fixing-windows-10-bluetooth-connection-glitches-a-comprehensive-guide/"><u>Fixing Windows 10 Bluetooth Connection Glitches – A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-gmail-organization-the-ultimate-tutorial-on-utilizing-labels-for-better-inbox-management/"><u>Mastering Gmail Organization: The Ultimate Tutorial on Utilizing Labels for Better Inbox Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-era-of-conversation-chatgpt-on-ios/"><u>New Era of Conversation: ChatGPT on iOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-creation-ten-advances-by-ai/"><u>Revolutionizing Creation: Ten Advances by AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-employing-chatgpt-in-study-papers/"><u>Strategies for Employing ChatGPT in Study Papers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-ai-communication-implementing-gpt-creation/"><u>Tailoring AI Communication: Implementing GPT Creation</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-essential-list-of-leading-mp3-metadata-editors-in-the-cloud/"><u>The Essential List of Leading MP3 Metadata Editors in the Cloud</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-ai-powered-chrome-extensions-for-better-task-management/"><u>The Ultimate List of AI-Powered Chrome Extensions for Better Task Management</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-analyzing-channels-monetization-status-at-a-glance/"><u>[New] 2024 Approved Analyzing Channels Monetization Status at a Glance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-how-to-save-top-cloud-providers-rates/"><u>[New] How to Save Top Cloud Providers' Rates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-360-degree-and-virtual-reality-cinematography/"><u>[New] Understanding 360-Degree and Virtual Reality Cinematography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grow-your-channelnode-through-joint-videography-endeavors/"><u>[Updated] In 2024, Grow Your Channelnode Through Joint Videography Endeavors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-youtube-to-mp4-blueprint-for-2024/"><u>[Updated] The Ultimate YouTube to MP4 Blueprint for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decorating-your-wardrobe-a-guide-to-haul-edits/"><u>Decorating Your Wardrobe A Guide to Haul Edits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-2930-printer-driver-for-windows-7-81-and-10/"><u>Download the Latest Epson WF-2930 Printer Driver for Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-homes-with-apple-powered-robots-revolutionizing-assistance-and-convenience-at-your-fingertps/"><u>Future Homes with Apple-Powered Robots: Revolutionizing Assistance and Convenience at Your Fingertps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-facile-pour-changer-des-videos-mkv-en-mp4-sans-perdre-la-clarte-bons-conseils/"><u>Guide Facile Pour Changer Des Vidéos MKV en MP4 Sans Perdre La Clarté - Bons Conseils!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-garmin-obsolete-with-the-new-workout-sync-feature-on-apple-watch-tech-insights/"><u>Is Your Garmin Obsolete with the New Workout Sync Feature on Apple Watch? | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-workouts-with-apples-latest-tech-the-2023-airpods-pro-heart-rate-fitness-companion/"><u>Revolutionize Your Workouts with Apple's Latest Tech: The 2023 AirPods Pro Heart Rate Fitness Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-compendium-of-ai-enhanced-note-managers/"><u>The Ultimate Compendium of AI Enhanced Note Managers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-googles-innovative-language-strategist-palm-2/"><u>Unveiling Google's Innovative Language Strategist: PaLM 2</u></a></li>
 </ul></div>
 

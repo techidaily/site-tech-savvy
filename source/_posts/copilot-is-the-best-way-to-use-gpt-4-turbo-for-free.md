@@ -1,7 +1,7 @@
 ---
 title: Copilot Is the Best Way to Use GPT-4 Turbo for Free
-date: 2024-10-11T19:42:25.423Z
-updated: 2024-10-14T20:52:50.087Z
+date: 2024-10-19T19:11:36.557Z
+updated: 2024-10-20T21:37:02.007Z
 tags:
   - chatgpt
   - open-ai
@@ -38,37 +38,38 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing **Win + C**. Or, if you're lucky enough to own a [laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/), just press that to bring up the assistant at any time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
@@ -78,22 +79,15 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
  If you're on mobile, you can download the [Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or [iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445). The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
@@ -121,24 +115,18 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-tap-into-the-quickest-way-for-downloading-musically-videos-for-2024/"><u>[New] Tap Into the Quickest Way for Downloading Musical.ly Videos for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-boosting-engagement-uploading-and-sharing-on-instagram-desktop-for-2024/"><u>[Updated] Boosting Engagement Uploading and Sharing on Instagram Desktop for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-innovative-iphone-close-up-techniques-for-photo-excellence/"><u>2024 Approved Innovative iPhone Close-Up Techniques for Photo Excellence</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-smartphone-guide-crafting-engaging-video-content/"><u>2024 Approved Smartphone Guide Crafting Engaging Video Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>2024 Approved Tackling Massed-Up TikToks Expert Edits for Less Chaos</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-iphone-14-pro-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On iPhone 14 Pro Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-future-of-verification-on-twit/"><u>Deciphering the Future of Verification on Twit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-ai-writing-making-chatgpt-write-like-you/"><u>Elevating AI Writing: Making ChatGPT Write Like You</u></a></li>
-<li><a href="https://windows11.techidaily.com/escape-slowness-boosting-outlook-in-windows-os/"><u>Escape Slowness: Boosting Outlook in Windows OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-career-trajectories-in-ai-driven-responsiveness-design/"><u>Exploring Career Trajectories in AI-Driven Responsiveness Design</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fast-track-to-finding-your-phones-imei-offline-a-step-by-step-guide/"><u>Fast Track to Finding Your Phone's IMEI Offline – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-impressive-job-applications/"><u>Harnessing ChatGPT for Impressive Job Applications</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-zero-5g-2023-turbo-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Zero 5G 2023 Turbo Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy XCover 6 Pro Tactical Edition to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-poetic-excellence-the-chatgpt-method/"><u>Leveraging AI for Poetic Excellence: The ChatGPT Method</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-machine-talk-comparing-gpt-and-bingbot/"><u>Mastering Machine Talk: Comparing GPT and BingBot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ai-hierarchy-strength-in-machines/"><u>The AI Hierarchy: Strength in Machines</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-route-to-reproduce-and-store-your-gpt-powered-talks/"><u>The Route to Reproduce and Store Your GPT-Powered Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasking-imitations-openais-new-gpt-verifier/"><u>Unmasking Imitations: OpenAI's New GPT Verifier</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-cutting-edge-tips-streamline-your-ps4-gameplay-footage-collection/"><u>[New] 2024 Approved Cutting-Edge Tips Streamline Your PS4 Gameplay Footage Collection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-windows-and-mac-8-best-3d-video-apps-for-free/"><u>[New] Explore Windows & Mac 8 Best 3D Video Apps for FREE</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-make-a-game-streaming-video-with-ai-portrait/"><u>[Updated] In 2024, How to Make a Game Streaming Video With AI Portrait</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-funimate-unraveled-your-path-to-mastery/"><u>2024 Approved Funimate Unraveled Your Path to Mastery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/7-essential-tips-to-extend-the-lifespan-of-your-headphones/"><u>7 Essential Tips to Extend the Lifespan of Your Headphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/about-to-say-goodbye-to-your-current-role-ponder-over-these-essential-points-first-careernest/"><u>About to Say Goodbye to Your Current Role? Ponder Over These Essential Points First | CareerNest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-phone-screen-strategies-securing-your-next-in-person-meeting-with-top-companies/"><u>Effective Phone Screen Strategies: Securing Your Next In-Person Meeting with Top Companies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-interpersonal-abilities-top-5-communication-skills-for-success-in-technology-positions-insights-from-zdnet/"><u>Essential Interpersonal Abilities: Top 5 Communication Skills for Success in Technology Positions - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proof-careers-how-ai-influences-evolving-job-titles-and-roles-insights-from-zdnet/"><u>Future-Proof Careers: How AI Influences Evolving Job Titles and Roles - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-charting-a-course-for-growth-precise-youtube-stats-from-social-blades-hub/"><u>In 2024, Charting a Course for Growth Precise YouTube Stats From Social Blade's Hub</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/methoden-zur-wiederherstellung-von-partitionierungsdaten-mit-myrecover-ein-umfassender-leitfaden/"><u>Methoden Zur Wiederherstellung Von Partitionierungsdaten Mit MyRecover: Ein Umfassender Leitfaden.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pros-and-cons-is-pursuing-a-career-as-a-devops-engineer-worth-it-tech-insights-by-zdnet/"><u>Pros & Cons: Is Pursuing a Career as a DevOps Engineer Worth It? | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-startling-reasons-behind-employee-resignation-spree-insights-from-zdnet/"><u>Unveiling the Startling Reasons Behind Employee Resignation Spree - Insights From ZDNet</u></a></li>
 </ul></div>
 

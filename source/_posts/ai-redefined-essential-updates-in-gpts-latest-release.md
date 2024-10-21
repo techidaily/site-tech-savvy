@@ -1,7 +1,7 @@
 ---
 title: "AI Redefined: Essential Updates in GPT's Latest Release"
-date: 2024-10-11T21:21:15.506Z
-updated: 2024-10-15T11:15:31.818Z
+date: 2024-10-15T19:44:45.807Z
+updated: 2024-10-20T21:08:15.713Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -64,10 +64,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
@@ -84,6 +90,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
@@ -98,13 +111,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -113,6 +119,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
@@ -120,19 +133,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -155,24 +155,24 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-visual-vibes-building-a-repertoire-of-shareable-fb-and-insta-videos/"><u>[New] 2024 Approved Visual Vibes Building a Repertoire of Shareable FB & Insta Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ios-leading-ps2-simulators-top-picks/"><u>[New] In 2024, IOS Leading PS2 Simulators Top Picks</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-the-loop-a-comprehensive-guide-for-instagram-videographers/"><u>[New] In 2024, Mastering the Loop A Comprehensive Guide for Instagram Videographers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-revamping-social-media-presence-efficient-changes-in-video-covers/"><u>[New] In 2024, Revamping Social Media Presence Efficient Changes in Video Covers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-top-techniques-for-turning-yt-order-upside-down/"><u>[New] The Top Techniques for Turning YT Order Upside-Down</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-anonymous-live-on-instagram-the-sneaky-techniques/"><u>[Updated] Anonymous Live on Instagram The Sneaky Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-sustainable-traffic-growth-ethical-video-marketing-tips/"><u>[Updated] Sustainable Traffic Growth Ethical Video Marketing Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-avenues-for-state-intervention-in-ai-technologies/"><u>4 Avenues for State Intervention in AI Technologies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862734166-best-buy-unveils-new-release-date-for-innovative-ryzen-ai-300-laptops-order-starting-june-28/"><u>Best Buy Unveils New Release Date for Innovative Ryzen AI 300 Laptops - Order Starting June 28!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/exploring-tony-castleys-expertise-at-digiarty-software-innovations-and-insights/"><u>Exploring Tony Castley's Expertise at Digiarty Software: Innovations and Insights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-inserting-dates-in-digital-pictures/"><u>In 2024, Step-by-Step Inserting Dates in Digital Pictures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-workout-blueprinting-with-ai-partnership/"><u>Intelligent Workout Blueprinting with AI Partnership</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-gemini-the-future-of-ai-beyond-chatgpts-reach/"><u>Is Gemini the Future of AI Beyond ChatGPT's Reach?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/liberate-your-conversations-with-windows-freegpt/"><u>Liberate Your Conversations with Windows FreeGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/meal-mastery-via-chatgpt-insights/"><u>Meal Mastery via ChatGPT Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/social-media-smarts-picking-between-snapchats-ai-and-gpt/"><u>Social Media Smarts: Picking Between Snapchat’s AI and GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ai-the-basics-of-transfer-learning/"><u>Understanding AI: The Basics of Transfer Learning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-in-chatbot-dialogue-dynamics/"><u>Unlock Your Potential in Chatbot Dialogue Dynamics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-the-ai-alignment-control-problem/"><u>What Is the AI Alignment Control Problem?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-real-time-broadcasting-step-by-step-guide/"><u>[New] Mastering Real-Time Broadcasting Step by Step Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-delving-into-popular-discussion-threads-on-youtube-for-2024/"><u>[Updated] Delving Into Popular Discussion Threads on YouTube for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-inshot-alternatives-for-laptop-editors-for-2024/"><u>[Updated] Inshot Alternatives for Laptop Editors for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-an-impactful-tech-resume-key-strategies-for-standing-out-as-a-software-developer/"><u>Crafting an Impactful Tech Resume: Key Strategies for Standing Out as a Software Developer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-most-effective-free-artificial-intelligence-courses-and-evaluate-the-value-of-ai-certifications-expert-analysis-by-zdnet/"><u>Discover the Most Effective Free Artificial Intelligence Courses & Evaluate the Value of AI Certifications | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-work-life-discover-five-key-tactics-for-career-enhancement-zdnet/"><u>Elevate Your Work Life: Discover Five Key Tactics for Career Enhancement | ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-3-stability-improvements-for-windows-11-users-no-more-crashes/"><u>Fallout 3 Stability Improvements for Windows 11 Users - No More Crashes!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-remote-work-is-redefining-workplace-norms-stay-alert-insights-from-zdnet/"><u>How Remote Work Is Redefining Workplace Norms: Stay Alert - Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-magic-5-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Honor Magic 5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-mini-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 mini to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-unlocking-the-secrets-of-profitability-on-vimeo-platform/"><u>In 2024, Unlocking the Secrets of Profitability on Vimeo Platform</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/measuring-64gbs-video-holding-ability/"><u>Measuring 64Gb's Video Holding Ability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-new-norms-how-remote-work-is-redefining-professional-spaces-insights-from-zdnet/"><u>Navigating New Norms: How Remote Work Is Redefining Professional Spaces – Insights From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-11-5g-music-recovery-recover-deleted-music-from-realme-11-5g-by-fonelab-android-recover-music/"><u>Realme 11 5G Music Recovery - Recover Deleted Music from Realme 11 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rising-demand-for-coders-meets-elevated-expectations-from-tech-firms-insights-from-zdnet/"><u>Rising Demand for Coders Meets Elevated Expectations From Tech Firms - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-ais-biggest-challenge-how-to-complete-the-puzzle-by-harnessing-vital-data-insights-zdnet/"><u>Solving AI's Biggest Challenge: How to Complete the Puzzle by Harnessing Vital Data Insights | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-securing-a-technology-position-at-google-insights-from-zdnet/"><u>Strategies for Securing a Technology Position at Google: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-premier-platforms-for-connecting-tech-experts-insights-from-zdnet/"><u>Top 10 Premier Platforms for Connecting Tech Experts - Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/upcoming-iphones-to-support-in-app-payments-via-third-party-applications/"><u>Upcoming iPhones to Support In-App Payments via Third-Party Applications</u></a></li>
 </ul></div>
 

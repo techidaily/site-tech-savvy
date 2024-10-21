@@ -1,7 +1,7 @@
 ---
 title: Pinpointing BingChat's Deceptive Crypto Schemes
-date: 2024-10-13T02:26:40.264Z
-updated: 2024-10-15T14:38:47.393Z
+date: 2024-10-17T19:13:39.547Z
+updated: 2024-10-20T22:29:55.785Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,10 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  With Microsoft integrating AI into its Bing search tool, users can expect an improved search experience, more complete answers, and an interactive AI-powered chat to help them create content. So, how are these new technologies being capitalized on by malicious actors?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are BingChatGPT Scam Tokens?
@@ -48,10 +48,10 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 ![red digital scam alert graphic with binary code in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scam-alert-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The crypto industry is no stranger to scam tokens. Thousands of people have fallen victim to fake assets launched by malicious actors, with some losing huge amounts of money to such scams. So, it's really no surprise that cybercriminals are looking to use Bing and ChatGPT's well-established names to lure in unknowing victims.
@@ -71,10 +71,10 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  Then, the scammers who launched the coin will sell all their holdings at a higher price. These scammers hold back a large proportion of the overall supply to make big profits by dumping it after the price rise. The huge sell-off causes a massive price crash, leaving all other investors out of pocket.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Steer Clear of Scam Crypto Tokens
@@ -88,10 +88,10 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  Finally, beware of tokens with names linked to any trend or meme. [Memecoins like Dogecoin and Shiba Inu](https://www.makeuseof.com/what-are-crypto-meme-coins/) have become popular, but most meme cryptos are used in scams.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Scam Tokens Pose a Huge Risk to Investors
@@ -115,16 +115,14 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-eight-powerful-devices-for-prospective-filmora-alternatives/"><u>[New] 2024 Approved Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-smartphone-cinematography-crafting-perfect-youtube-thumbnails/"><u>[Updated] In 2024, Smartphone Cinematography Crafting Perfect YouTube Thumbnails</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-strategies-for-smoother-real-time-dialogue-with-chatgpt/"><u>7 Strategies for Smoother Real-Time Dialogue with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-practical-path-to-powerful-text-generation-with-openai/"><u>A Practical Path to Powerful Text Generation with OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-quick-primer-on-langchain-llm-tech/"><u>A Quick Primer on LangChain LLM Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academia-meets-artificial-intelligence/"><u>Academia Meets Artificial Intelligence</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-lava-yuva-2-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Lava Yuva 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-bluetooth-audio-latency-issues-in-no-time/"><u>Fixing Bluetooth Audio Latency Issues in No Time!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-gionee-f3-pro-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Gionee F3 Pro Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-converting-images-into-harmonious-videography/"><u>In 2024, Converting Images Into Harmonious Videography</u></a></li>
-<li><a href="https://discover-best.techidaily.com/mastering-media-conversion-a-comprehensive-handbrake-guide-for-windows-users/"><u>Mastering Media Conversion: A Comprehensive Handbrake Guide for Windows Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-charting-a-course-youtubes-best-brands/"><u>[New] In 2024, Charting a Course YouTube's Best Brands</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spectacular-scenes-from-snowspeedcross-22/"><u>[Updated] Spectacular Scenes From Snowspeedcross '22</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-exceptional-writer-productivity/"><u>Harnessing ChatGPT for Exceptional Writer Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plotting-paths-with-the-help-of-chatgpt-for-storytellers/"><u>Plotting Paths with the Help of ChatGPT for Storytellers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reach-new-heights-top-7-applications-turning-your-art-into-nfts-for-2024/"><u>Reach New Heights Top 7 Applications Turning Your Art Into NFTs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/remote-revolution-with-chatgpt-the-ultimate-guide-for-freelancers/"><u>Remote Revolution with ChatGPT: The Ultimate Guide for Freelancers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dichotomy-of-digital-companions-in-therapy-and-care/"><u>The Dichotomy of Digital Companions in Therapy and Care</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-tecno-spark-10-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Tecno Spark 10 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/vaccination-push-via-fb-twittersphere-and-snaps-by-jolie/"><u>Vaccination Push via FB, Twittersphere and Snaps by Jolie</u></a></li>
 </ul></div>
 

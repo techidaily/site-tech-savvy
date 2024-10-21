@@ -1,7 +1,7 @@
 ---
 title: Who Owns the Copyright to AI Creations? How Does AI Copyright Work?
-date: 2024-10-11T12:41:43.505Z
-updated: 2024-10-15T04:39:58.169Z
+date: 2024-10-17T22:03:11.895Z
+updated: 2024-10-21T02:26:35.065Z
 tags:
   - chatgpt
   - open-ai
@@ -61,10 +61,10 @@ Close
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Example of AI Copyright Rejection
@@ -76,10 +76,10 @@ Close
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
@@ -92,16 +92,16 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
 
@@ -118,10 +118,10 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -149,24 +149,24 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-inside-look-the-future-of-home-cam-recordings/"><u>[New] Inside Look The Future of Home Cam Recordings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-vidas-interface-and-features-for-seamless-creation-experience/"><u>[New] Vida’s Interface and Features for Seamless Creation Experience</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-decoding-funimates-downloading-mechanics-easily/"><u>[Updated] 2024 Approved Decoding Funimate's Downloading Mechanics Easily</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-enchanting-photographs-with-music-infused-videography/"><u>[Updated] Enchanting Photographs with Music-Infused Videography</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-stand-out-design-and-customize-professional-logos-via-free-templates-for-2024/"><u>[Updated] Stand Out Design and Customize Professional Logos via Free Templates for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-achieving-maximum-comfort-in-vr-landscape/"><u>2024 Approved Achieving Maximum Comfort in VR Landscape</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-practices-for-keeping-a-copy-of-your-ai-dialogues/"><u>Best Practices for Keeping a Copy of Your AI Dialogues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-on-restoring-default-settings-in-lenovo-systems/"><u>Complete Tutorial on Restoring Default Settings in Lenovo Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-stories-with-chatgpt-6-innovative-techniques/"><u>Craft Stories with ChatGPT: 6 Innovative Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/debunking-ai-myths-inadequate-cryptocurrency-expertise/"><u>Debunking AI Myths: Inadequate Cryptocurrency Expertise</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-vr-experience-logitech-enhances-meta-quest-2-with-cutting-edge-chorus-audio/"><u>Elevate Your VR Experience: Logitech Enhances Meta Quest 2 with Cutting-Edge Chorus Audio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emoji-cleared-tweets-linuss-leaks-revealed-trojan-truths-told-and-chatgpt-problems-unpacked/"><u>Emoji Cleared Tweets, Linus's Leaks Revealed, Trojan Truths Told, & ChatGPT Problems Unpacked.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empower-chatgpt-with-these-ultimate-9-power-tools/"><u>Empower ChatGPT with These Ultimate 9 Power Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excel-mastery-boosted-by-these-chatgpt-methods/"><u>Excel Mastery Boosted by These ChatGPT Methods</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-vivo-x100-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo X100? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-the-notorious-minecraft-error-n405/"><u>Step-by-Step Guide: Correcting the Notorious Minecraft Error N405</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-fundamentals-of-generative-ai-demystified/"><u>The Fundamentals of Generative AI Demystified</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-chatgpts-individual-instruction-feature/"><u>Understanding ChatGPT’s Individual Instruction Feature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/who-wins-gpt-clashes-with-bings-ai-and-google-bard/"><u>Who Wins? GPT Clashes with Bing's AI and Google Bard</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-elevating-vr-gametime-through-advanced-recording-practices/"><u>[New] In 2024, Elevating VR Gametime Through Advanced Recording Practices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unmatched-action-footage-top-7-best-camcorders/"><u>[New] Unmatched Action Footage Top 7 Best Camcorders</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-supercharge-your-videos-with-powerful-tagging-techniques/"><u>[Updated] 2024 Approved Supercharge Your Videos with Powerful Tagging Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-mechanisms-that-govern-youtube-after-a-video-is-live/"><u>[Updated] Unveiling the Mechanisms That Govern YouTube After a Video Is Live</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-an-unforeseen-and-incredibly-resourceful-new-addition-to-your-smart-home-setup-zdnets-top-pick/"><u>Discover an Unforeseen and Incredibly Resourceful New Addition to Your Smart Home Setup – ZDNet's Top Pick!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-online-security-with-mullvad-browser-a-safer-alternative-to-tor-as-recommended-by-zdnet/"><u>Enhance Your Online Security with Mullvad Browser - A Safer Alternative to Tor, as Recommended by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-teamwork-in-libreoffice-a-guide-to-adjusting-comment-styles/"><u>Enhancing Teamwork in LibreOffice: A Guide to Adjusting Comment Styles</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-your-samsung-home-theaters-blu-ray-to-work-again-a-step-by-step-fix/"><u>Getting Your Samsung Home Theater's Blu-Ray to Work Again: A Step-by-Step Fix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-82-of-executives-are-embracing-remote-work-trends-over-the-next-couple-of-years-insights-from-zdnet/"><u>How 82% of Executives Are Embracing Remote Work Trends Over the Next Couple of Years – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-manage-and-prevent-discomfort-in-your-mice-operating-hand-tips-shared-by-zdnet/"><u>How to Manage and Prevent Discomfort in Your Mice-Operating Hand – Tips Shared by ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hybrid-work-success-top-5-tips-from-industry-experts-as-featured-on-zdnet/"><u>Hybrid Work Success: Top 5 Tips From Industry Experts as Featured on ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-tecno-spark-go-2024-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Tecno Spark Go (2024) to Protect Your Individual Information</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-notion-for-peak-productivity-a-comprehensive-reveal-of-its-benefits-and-usage/"><u>Leveraging Notion for Peak Productivity: A Comprehensive Reveal of Its Benefits and Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-pitch-perfection-how-to-persuade-decision-makers-of-the-value-in-your-revolutionary-idea-expert-tips-by-zdnet/"><u>Mastering Pitch Perfection: How to Persuade Decision-Makers of the Value in Your Revolutionary Idea | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-tab-management-in-the-arc-browser-boost-performance-by-utilizing-space-innovations/"><u>Mastering Tab Management in the Arc Browser: Boost Performance by Utilizing Space Innovations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-pova-5-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Pova 5 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-and-running-chatgpt-on-your-windows-machine/"><u>Step-by-Step Guide: Setting Up & Running ChatGPT on Your Windows Machine</u></a></li>
 </ul></div>
 

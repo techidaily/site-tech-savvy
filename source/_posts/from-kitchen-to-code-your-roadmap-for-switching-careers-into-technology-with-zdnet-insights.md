@@ -1,7 +1,7 @@
 ---
 title: "From Kitchen to Code: Your Roadmap for Switching Careers Into Technology with ZDNet Insights"
-date: 2024-09-19 19:12:44
-updated: 2024-09-20 10:48:51
+date: 2024-10-20T01:05:18.011Z
+updated: 2024-10-21T00:04:14.470Z
 tags:
   - professional-development
 categories:
@@ -30,6 +30,13 @@ Customers have needs and problems requiring quick solutions in both the tech wor
 * Problem-solving
 * Communication, including cross-team communication
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Technical roles available to former food service workers in tech
 
 The right tech role for you depends on your particular education, skills, and previous experience. Job requirements vary by position. Food service workers may be closer than they think to a [tech job with no degree](https://www.zdnet.com/education/computers-tech/tech-jobs-no-degree/) requirement.
@@ -46,7 +53,33 @@ The right tech role for you depends on your particular education, skills, and pr
 
 Computer support specialists come in two varieties: computer network support specialists and computer user support specialists. Computer network support specialists typically evaluate existing systems and perform needed maintenance. Computer user support specialists listen to clients' needs and help them solve software or hardware issues.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Software developer
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -107,6 +140,13 @@ Tech salespeople communicate with clients to sell their company's products and s
 * Computer proficiency
 
 A customer support specialist and customer success specialist may sound like the same thing. But a support specialist responds to customer needs while a success specialist anticipates customer needs. Customer service is an essential part of many tech jobs. A success specialist's main duty is to retain customers and expand their product adoption. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Procurement specialist
 
@@ -185,11 +225,27 @@ _Last reviewed March 31, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-charting-course-videos-as-catalysts-in-teaching/"><u>[Updated] Charting Course Videos as Catalysts in Teaching</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-instant-impact-facebook-vids-for-2024/"><u>[Updated] Instant Impact Facebook Vids for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722732325808-build-bonds-and-exchange-games-seamlessly-amongst-pals-on-xbox-one/"><u>Build Bonds & Exchange Games Seamlessly Amongst Pals on Xbox One.</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-strategies-for-dispelling-blue-screen-of-operation-requires-elevation-in-winos/"><u>Efficient Strategies for Dispelling Blue Screen of Operation Requires Elevation in WINOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enterprise-oriented-strategies-with-gpt-ai/"><u>Enterprise-Oriented Strategies with GPT AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-prediction-power-versus-astrological-guesses/"><u>GPT's Prediction Power Versus Astrological Guesses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-the-power-of-ai-note-taking-made-simple-by-chatgpt/"><u>Harness the Power of AI: Note-Taking Made Simple by ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c12-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C12 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-a-detailed-guide-to-streamlabs-obs/"><u>In 2024, A Detailed Guide to Streamlabs OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-artificial-intelligence-top-7-tricks-to-try/"><u>Masterful Artificial Intelligence: Top 7 Tricks to Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-creative-industries-with-chatgpt/"><u>Revolutionizing Creative Industries with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-next-generation-of-security-horizons/"><u>Unveiling the Next Generation of Security Horizons</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-battery-drivers-in-windows-easily/"><u>Update Battery Drivers in Windows. EASILY!</u></a></li>
+</ul></div>
+

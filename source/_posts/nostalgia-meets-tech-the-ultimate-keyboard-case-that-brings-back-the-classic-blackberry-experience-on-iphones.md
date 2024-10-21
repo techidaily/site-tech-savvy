@@ -1,7 +1,7 @@
 ---
 title: "Nostalgia Meets Tech: The Ultimate Keyboard Case That Brings Back the Classic BlackBerry Experience on iPhones."
-date: 2024-10-14T08:39:05.030Z
-updated: 2024-10-15T06:26:55.246Z
+date: 2024-10-16T01:49:10.814Z
+updated: 2024-10-21T02:20:01.664Z
 tags:
   - apple
 categories:
@@ -71,10 +71,10 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -94,10 +94,10 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -148,19 +148,20 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-bebop-2s-avian-spectacle-a-compreran-analysis/"><u>[New] Bebop 2'S Avian Spectacle – A Compreran Analysis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-stabilized-gimbals-for-smartphones-tablets-and-dslr-cameras/"><u>2024 Approved Pro Stabilized Gimbals for Smartphones, Tablets, and DSLR Cameras</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/child-engagement-with-gpt-implementing-five-safety-protocols/"><u>Child Engagement with GPT: Implementing Five Safety Protocols</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/confronting-the-fake-frontier-identifying-ai-compositions/"><u>Confronting the Fake Frontier: Identifying AI Compositions</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-a2pluswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi A2+with/without a PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/heres-what-10-global-tech-leaders-think-about-ai/"><u>Here's What 10 Global Tech Leaders Think About AI</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/1716164397391-how-to-post-a-vimeo-video-on-instagram/"><u>How to Post a Vimeo Video on Instagram?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis/"><u>In 2024, The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-dispels-notion-of-gpt-deterioration/"><u>OpenAI Dispels Notion of GPT Deterioration</u></a></li>
-<li><a href="https://win-community.techidaily.com/quick-steps-for-full-mysql-data-preservation-across-various-windows-environments-from-desktop-to-server-setup/"><u>Quick Steps for Full MySQL Data Preservation Across Various Windows Environments: From Desktop to Server Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolution-or-replacement-gpts-effect-on-academic-essays/"><u>Revolution or Replacement? GPT’s Effect on Academic Essays</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-writers-dilemma-balancing-human-skill-with-ai-assistance/"><u>The Writers' Dilemma: Balancing Human Skill with AI Assistance</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-iphone-photo-restoration-tool-bring-back-lost-images-with-ease/"><u>Ultimate iPhone Photo Restoration Tool: Bring Back Lost Images with Ease</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-8-undead-adventures-ultimate-zombie-game-guide/"><u>[New] 2024 Approved Top 8 Undead Adventures Ultimate Zombie Game Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlock-the-potential-of-fb-chronicles-with-free-apps/"><u>[Updated] 2024 Approved Unlock the Potential of FB Chronicles with Free Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-mystery-of-off-facebook-activity-what-to-know-and-do/"><u>2024 Approved The Mystery of Off-Facebook Activity What to Know & Do</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-iphone-data-preservation-using-icloud-and-mac-a-step-by-step-guide/"><u>Effortless iPhone Data Preservation Using iCloud and Mac - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-engagement-charting-the-10-paths-to-better-gpt/"><u>Enhanced Engagement: Charting the 10 Paths to Better GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/getting-acquainted-with-ai-enhanced-bing-registration-pathway/"><u>Getting Acquainted with AI-Enhanced Bing: Registration Pathway</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-jaunt-vr-uncovered-a-comprehensive-look/"><u>In 2024, Jaunt VR Uncovered A Comprehensive Look</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-multi-operating-systems-with-macbook-run-ubuntu-in-xcode-and-expand-your-tools-arsenal-guides-by-zdnet/"><u>Master Multi-Operating Systems with MacBook: Run Ubuntu in XCode and Expand Your Tools Arsenal | Guides by ZDNET</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/master-the-art-of-virtual-reality-from-videography-to-youtube-upload-for-2024/"><u>Master the Art of Virtual Reality From Videography to YouTube Upload for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ios-screen-capture-a-detailed-walkthrough-for-iphone-users/"><u>Mastering iOS Screen Capture: A Detailed Walkthrough for iPhone Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-windows-for-chatgpt/"><u>Optimizing Windows for ChatGPT</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/perfecting-sound-on-snapchat-master-your-vocal-effects-in-minutes-for-2024/"><u>Perfecting Sound on Snapchat Master Your Vocal Effects in Minutes for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/probleme-avec-handbrake-sur-windows-10-conseils-pour-reparer-ou-solutions-par-substitutions/"><u>Problème Avec HandBrake Sur Windows 10 - Conseils Pour Réparer Ou Solutions Par Substitutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/snap-to-gifs-making-twitter-video-freely-convertible-for-2024/"><u>Snap to GIFs Making Twitter Video Freely Convertible for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-possible-vulnerabilities-in-chatgpt/"><u>Unveiling Possible Vulnerabilities in ChatGPT</u></a></li>
 </ul></div>
 

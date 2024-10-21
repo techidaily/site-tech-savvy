@@ -1,7 +1,7 @@
 ---
 title: The Double-Edged Sword of Generative AI
-date: 2024-10-14T00:47:23.788Z
-updated: 2024-10-14T20:56:39.676Z
+date: 2024-10-18T18:00:51.690Z
+updated: 2024-10-20T20:46:31.796Z
 tags:
   - chatgpt
   - open-ai
@@ -43,15 +43,22 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -62,13 +69,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
@@ -84,16 +84,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -105,10 +99,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  It's crucial, then, to be able to [identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -153,16 +147,19 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-precision-in-video-documentation-windowsosxiphone-methods-for-2024/"><u>[Updated] Precision in Video Documentation Windows/OSX/iPhone Methods for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-rapid-process-converting-images-into-engaging-youtube-desktop-pics/"><u>[Updated] Rapid Process Converting Images Into Engaging YouTube Desktop Pics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-million-token-breakthrough-in-geminis-saga/"><u>$1 Million Token Breakthrough in Gemini's Saga</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-closer-look-at-how-gptzero-detects-non-human-writers/"><u>A Closer Look at How GPTZero Detects Non-Human Writers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-critical-look-at-auto-gpt-solo-use/"><u>A Critical Look at Auto-GPT Solo Use</u></a></li>
-<li><a href="https://win-forum.techidaily.com/banish-recurrent-crashes-in-windows-explorer-with-these-easy-fix-steps/"><u>Banish Recurrent Crashes in Windows Explorer with These Easy Fix Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721399919666-chatgpt-just-got-ios-friendly/"><u>ChatGPT Just Got iOS-Friendly</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-motorola-moto-g34-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Moto G34 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-mend-the-mist-of-talos-extender/"><u>How to Mend the Mist of Talos Extender</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-joins-pearsonback-buttonfilter-button/"><u>Mondly Joins PearsonBack ButtonFilter Button</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-guide-overcoming-youtube-short-hurdles-for-2024/"><u>Quick Guide Overcoming YouTube Short Hurdles for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-perfecting-obs-broadcasts-for-facebook-audience/"><u>[Updated] 2024 Approved Perfecting OBS Broadcasts for Facebook Audience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-quick-tips-for-nvidia-screen-capturing/"><u>[Updated] 2024 Approved Quick Tips for NVIDIA Screen Capturing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-depths-of-adobe-cloud-storages-plus-top-non-adobe-choices/"><u>[Updated] Exploring the Depths of Adobe Cloud Storages, Plus Top Non-Adobe Choices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-samsung-secrets-crafting-compelling-time-lapses/"><u>[Updated] Samsung Secrets Crafting Compelling Time Lapses</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-engagement-real-time-command-and-response/"><u>AI-Powered Engagement: Real-Time Command and Response</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/complete-diy-manual-restore-deleted-data-on-your-memory-stick-without-spending-money/"><u>Complete DIY Manual: Restore Deleted Data on Your Memory Stick Without Spending Money</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defending-chatbots-against-model-reconstruction/"><u>Defending Chatbots Against Model Reconstruction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nine-narratives-where-fantasy-and-science-meet/"><u>Nine Narratives Where Fantasy and Science Meet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/purrfect-playtime-game-for-cats-and-owners/"><u>Purrfect Playtime: Game for Cats & Owners</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125172010-rapid-plus-tct-2024-unleashed-breakthroughs-in-3d-printing-machines-filaments-and-more/"><u>Rapid + TCT 2024 Unleashed: Breakthroughs in 3D Printing Machines, Filaments & More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-the-best-ai-narrative-tools/"><u>The Ultimate Guide to the Best AI Narrative Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-meta-ai-the-future-of-technology-and-machine-learning-mastery/"><u>Understanding Meta AI: The Future of Technology and Machine Learning Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-ultimate-features-of-the-iphone-16-pro-a-must-read-for-gadget-fans-expert-review-at-zdnet/"><u>Unveiling the Ultimate Features of the iPhone 16 Pro: A Must-Read for Gadget Fans | Expert Review at ZDNET</u></a></li>
 </ul></div>
 

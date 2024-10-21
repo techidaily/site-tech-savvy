@@ -1,7 +1,7 @@
 ---
 title: "The Next Generation of Chatbots: Bard Vs. Bing Showdown"
-date: 2024-10-10T06:35:03.381Z
-updated: 2024-10-15T01:27:43.407Z
+date: 2024-10-13T20:41:29.360Z
+updated: 2024-10-21T00:29:46.943Z
 tags:
   - chatgpt
   - open-ai
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
@@ -47,22 +40,21 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
@@ -83,6 +75,19 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 ![Screenshot Bard CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
 ## Bing Chat vs. Google Bard: Ease of Use
@@ -99,18 +104,32 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As both platforms are going through rapid development, the user experience will continue to improve.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
 
@@ -121,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
  GPT-4 is a generative model. It generates answers based on the text it's been trained on. By contrast, [LaMDA works differently](https://www.makeuseof.com/what-is-google-lamda-ai/)—it is a discriminative model, meaning it can distinguish between various kinds of text.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
 
@@ -168,20 +180,24 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-steps-for-clear-ipad-recording-for-2024/"><u>[Updated] Essential Steps for Clear iPad Recording for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-extracting-fb-video-files-from-pcmac-for-2024/"><u>[Updated] Extracting FB Video Files From PC/Mac for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-elevating-your-online-presence-with-advanced-zoom-filters/"><u>2024 Approved Elevating Your Online Presence with Advanced Zoom Filters</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-code-why-writers-prefer-human-interaction/"><u>Beyond the Code: Why Writers Prefer Human Interaction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-revolutionizes-your-study-notes-strategy/"><u>ChatGPT Revolutionizes Your Study Notes Strategy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-unveiled-a-familys-perspective/"><u>ChatGPT Unveiled: A Family's Perspective</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/differentiating-between-osteolytic-and-osteoblastic-lesions-is-crucial-for-appropriate-treatment-planning-in-metastatic-cancer-patients/"><u>Differentiating Between Osteolytic and Osteoblastic Lesions Is Crucial for Appropriate Treatment Planning in Metastatic Cancer Patients</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-usb-drivers-on-your-asus-computer-quickly-and-easily/"><u>How to Update USB Drivers on Your ASUS Computer. Quickly & Easily!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-huawei-nova-y71-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Huawei Nova Y71 Phones? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-compelling-youtube-thumbnails/"><u>Leveraging AI for Compelling YouTube Thumbnails</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-v30-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme V30 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-data-management-top-4-ai-export-apps/"><u>Revolutionize Your Data Management - Top 4 AI Export Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-operational-dynamics-of-ai-at-edge-devices/"><u>Understanding the Operational Dynamics of AI at Edge Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-gpt-self-driven-tech-distinct-from-chatgpts-model/"><u>Unraveling GPT Self-Driven Tech: Distinct From ChatGPT’s Model</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-snapshots-and-snickers-the-art-of-memery/"><u>[New] Snapshots and Snickers The Art of Memery</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-captivating-audiences-on-a-shoestring-budget-youtube-shorts-success-tips-for-2024/"><u>[Updated] Captivating Audiences on a Shoestring Budget – YouTube Shorts Success Tips for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-media-player-replacements-for-vlc/"><u>[Updated] The Ultimate Guide to Media Player Replacements for VLC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-luxury-audio-how-this-yamaha-soundbar-matches-a-1000-jbl-at-half-price-insights-from-tech-expert/"><u>Affordable Luxury Audio: How This Yamaha Soundbar Matches a $1,000 JBL at Half Price - Insights From Tech Expert</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/amazons-latest-children-product-line-now-available-check-out-the-new-releases-on-zdnet/"><u>Amazon's Latest Children Product Line Now Available: Check Out the New Releases on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-giants-how-we-found-the-ultimate-audio-system-that-isnt-from-bose-or-polk-zdnet-review/"><u>Beyond Giants: How We Found The Ultimate Audio System That Isn't From Bose or Polk | ZDNet Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-sound-a-detailed-comparison-of-sonos-era-100-and-sonos-one-for-your-home-audio-needs/"><u>Choosing the Right Sound: A Detailed Comparison of Sonos Era 100 and Sonos One for Your Home Audio Needs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/forza-horizon-4-pc-crash-issues-resolved-solutions/"><u>Forza Horizon 4 PC Crash Issues - Resolved Solutions</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-reno-11-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo Reno 11 Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-and-your-pc-avoiding-launch-pitfalls-with-these-tips/"><u>Modern Warfare & Your PC : Avoiding Launch Pitfalls with These Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/ps4-connection-woes-follow-this-step-by-step-fixers-guide-for-nat-types/"><u>PS4 Connection Woes? Follow This Step by Step Fixer's Guide for NAT Types!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solomon-kr-et-al-2015-the-effects-of-glyphosate-on-amphibians-a-review-and-synthesis-environ-toxicol-pharmacol-403-899-906/"><u>Solomon KR., Et Al (2015). The Effects of Glyphosate on Amphibians: A Review and Synthesis. Environ Toxicol Pharmacol, 40(3), 899-906</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-a-smooth-gta-5-experience-without-crashes/"><u>Troubleshooting Tips for a Smooth GTA 5 Experience Without Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-building-your-perfect-vinyl-record-system-top-turntables-and-audio-equipment-recommendations-zdnet/"><u>Ultimate Guide to Building Your Perfect Vinyl Record System: Top Turntables & Audio Equipment Recommendations | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-portable-amplifier-showcases-impressive-clarity-and-range-for-every-type-of-song-a-review-by-zdnet/"><u>Unbeatable Portable Amplifier Showcases Impressive Clarity & Range for Every Type of Song - A Review by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-you-need-to-know-apple-releases-a-flurry-of-revolutionary-software-features-during-wwdc-event-coverage-zdnet/"><u>What You Need to Know: Apple Releases a Flurry of Revolutionary Software Features During WWDC Event Coverage | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-explores-amazons-new-alexa-version-with-anthropics-cutting-edge-ai-technology-claude/"><u>ZDNet Explores Amazon's New Alexa Version with Anthropic's Cutting-Edge AI Technology, Claude</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-explores-the-transformation-of-amazon-alexa-with-anthropics-advanced-ai-model-claude/"><u>ZDNet Explores the Transformation of Amazon Alexa with Anthropic's Advanced AI Model 'Claude'</u></a></li>
 </ul></div>
 

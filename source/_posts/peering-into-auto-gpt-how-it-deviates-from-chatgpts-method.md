@@ -1,7 +1,7 @@
 ---
 title: Peering Into Auto-GPT - How It Deviates From ChatGPT's Method
-date: 2024-10-11T20:30:41.824Z
-updated: 2024-10-14T16:19:51.722Z
+date: 2024-10-15T20:53:30.887Z
+updated: 2024-10-20T18:56:16.052Z
 tags:
   - chatgpt
   - open-ai
@@ -33,10 +33,10 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
  So, yes, Auto-GPT gives GPT the ability to act autonomously. Why is that cool? What makes Auto-GPT any different from ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does Auto-GPT Differ from ChatGPT?
@@ -48,10 +48,10 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
 ![ChatGPT plans birthday party](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plans-birthday-party.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT provided a list that told us to plan for the birthday theme, venue, gifts, food and drinks, decorations, guest lists, and all the usual suspects. The thing is, planning a birthday is complex with a subset of problems. So we took up two subsets of problems, sending invitations to our guest lists and shopping for gifts. This meant we had to prompt ChatGPT once again, this time asking how to plan our guest lists and send out invitations as well as gift ideas and the best places to get them.
@@ -71,10 +71,10 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
  Still not convincing? Well, there is the scary spawn of Auto-GPT called [Chaos-GPT](http://twitter.com/chaos%5Fgpt) that shares its supervillain manifesto on Twitter. A parody of some sort (we hope), Chaos-GPT is an Auto-GPT project tasked with the destruction of humanity. While the actions Chaos-GPT plans to take seem scary and practical, it's generally laughable because it doesn't have access to take those actions. But let's hope it never gets those accesses so we don't laugh our way to extinction.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does Auto-GPT Work?
@@ -88,16 +88,10 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
  So, Auto-GPT is basically GPT paired with a companion robot that tells GPT what to do. You tell the companion robot what your goal is, and the robot, in turn, uses GPT and several APIs to carry out every step needed to achieve whatever goal you've set for it.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Auto-GPT: An Exciting Future for AI
@@ -123,24 +117,22 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-breakthrough-practices-in-youtube-video-saving-for-2024/"><u>[New] Breakthrough Practices in YouTube Video Saving for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeos-video-mosaics-inserting-chapters-for-clarity/"><u>[New] In 2024, Vimeo's Video Mosaics Inserting Chapters for Clarity</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-step-by-step-tailoring-your-way-to-youtube-subtitles-srt/"><u>[New] Step-by-Step Tailoring Your Way to YouTube Subtitles (SRT)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/an-overview-what-is-openai/"><u>An Overview: What Is OpenAI?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-14-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 14 Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-digital-worlds-6-chatgpt-based-techniques-for-video-games/"><u>Crafting Digital Worlds: 6 ChatGPT-Based Techniques for Video Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-4-powerful-ai-story-generators-to-test/"><u>Discover 4 Powerful AI Story Generators to Test</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-lags-chatgpt-4-versus-its-predecessor-gpt-35/"><u>Exploring the Lags: ChatGPT-4 Versus Its Predecessor GPT-3.5</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-minecraft-lan-compatibility-problems-easily/"><u>How To Overcome 'Minecraft LAN Compatibility Problems' Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-timing-aids-the-best-clock-apps-for-your-big-day-for-2024/"><u>Ideal Timing Aids The Best Clock Apps For Your Big Day for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-essential-guide-for-youtube-video-clips/"><u>In 2024, Essential Guide for YouTube Video Clips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-transforming-instagram-footage-into-square-stories-using-imovie-tips/"><u>In 2024, Transforming Instagram Footage Into Square Stories Using iMovie Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-with-ease-into-ai-enhanced-bing-setup-guide/"><u>Navigate with Ease Into AI-Enhanced Bing: Setup Guide</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/photo-and-file-retrieval-for-mobile-devices/"><u>Photo and File Retrieval for Mobile Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quadruple-regulatory-routes-in-artificial-intelligence-by-government/"><u>Quadruple Regulatory Routes in Artificial Intelligence by Government</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-zte-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after ZTE has been deleted.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefine-your-document-creation-10-must-have-ai-apps/"><u>Redefine Your Document Creation: 10 Must-Have AI Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rising-sea-levels-are-not-just-coastal-concerns/"><u>Rising Sea Levels Are Not Just Coastal Concerns</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-benefits-for-microsoft-copilot-over-chatgpt-usage/"><u>Top Benefits for Microsoft Copilot OVER ChatGPT Usage</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-macbooks-camera-unleashed-recording-made-simple/"><u>[New] 2024 Approved MacBook's Camera Unleashed Recording Made Simple</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-ultimate-mp4-uploader-for-fb-for-2024/"><u>[New] Ultimate MP4 Uploader for FB for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-social-media-sphere-speaking-up-to-fans/"><u>[Updated] 2024 Approved The Social Media Sphere Speaking Up to Fans</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-dslrs-for-photo-animation-studios/"><u>[Updated] In 2024, Top DSLRs for Photo Animation Studios</u></a></li>
+<li><a href="https://solve-news.techidaily.com/ai-abbyy-abbyy/"><u>帳票処理の最新ソリューション: AIが主導する文書分類とデータ抽出技術について学ぶ - ABBYYではじめる | ABBYYブログ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-generated-gems-or-misleading-stones/"><u>AI-Generated Gems or Misleading Stones?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-you-track-blood-pressure-with-the-new-apple-watch-series-10-surprising-facts-revealed/"><u>Can You Track Blood Pressure with the New Apple Watch Series 10? Surprising Facts Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-crafting-multiples-with-canva-and-chatgpt/"><u>Efficiently Crafting Multiples with Canva & ChatGPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhance-your-audio-experience-with-windows-11-recording-tips/"><u>Enhance Your Audio Experience with Windows 11 Recording Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-biz-tools-embracing-chatgpt-and-whisper-apis/"><u>Next-Gen Biz Tools: Embracing ChatGPT & Whisper APIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stay-connected-on-the-go-messaging-and-calling-loved-ones-via-iphone-apps-from-your-apple-watch/"><u>Stay Connected on the Go: Messaging & Calling Loved Ones via iPhone Apps From Your Apple Watch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-cyber-predicament-hackers-and-ai-conversation/"><u>The Cyber Predicament: Hackers and AI Conversation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unique-angle/"><u>Unique Angle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-key-strategies-for-a-successful-turnaround-of-apples-vision-pro-a-breakdown-analysts/"><u>Unveiling Key Strategies for a Successful Turnaround of Apple's Vision Pro: A Breakdown Analysts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-im-choosing-the-new-iphone-16-pro-mini-over-the-iphone-16-pro-max-insights/"><u>Why I'm Choosing the New iPhone 16 Pro (Mini) Over the iPhone 16 Pro Max - Insights</u></a></li>
 </ul></div>
 

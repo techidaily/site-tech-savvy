@@ -1,7 +1,7 @@
 ---
 title: Costly Barriers Prevent Legacy iPhones From Getting New Apple AI Innovations – Insights for Tech Enthusiasts
-date: 2024-10-11T05:04:18.386Z
-updated: 2024-10-14T22:25:10.243Z
+date: 2024-10-17T02:47:05.751Z
+updated: 2024-10-21T01:15:42.675Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +60,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,10 +77,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -125,21 +125,24 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-adjustment-tips-for-subtle-audio-reduction-in-logic-pro/"><u>[New] Adjustment Tips for Subtle Audio Reduction in Logic Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-next-evaluation-diverse-solutions/"><u>2024 Approved Next Evaluation Diverse Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-twitch-vs-youtube-a-complete-comparison/"><u>2024 Approved Twitch Vs. Youtube – A Complete Comparison</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/benefits-vs-drawbacks-chatgpt-subscription/"><u>Benefits vs Drawbacks: ChatGPT Subscription</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/chromefirefoxm3u8/"><u>ChromeとFirefoxでM3U8動画を簡単にダウンロード</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comedy-codex-from-ai-unlocking-algorithmic-giggles/"><u>Comedy Codex From AI: Unlocking Algorithmic Giggles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delving-into-predictive-ai-techniques-and-processes-explained/"><u>Delving Into Predictive AI: Techniques and Processes Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emerging-tech-the-role-and-allure-of-chatbot-ai/"><u>Emerging Tech: The Role and Allure of Chatbot AI</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-runmusbx2-microphone-on-your-gaming-headset/"><u>How to Fix a Non-Functioning RUNMUSBX2 Microphone on Your Gaming Headset</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-fix-for-sudden-audio-gaps-in-obs-captures/"><u>In 2024, Fix for Sudden Audio Gaps in OBS Captures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-googles-data-tools/"><u>Integrating ChatGPT Into Google's Data Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-printer-settings-and-outputs-in-adobe-photoshop/"><u>Mastering Printer Settings and Outputs in Adobe Photoshop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/penning-pages-gpt-3-as-your-crafting-companion/"><u>Penning Pages: GPT-3 as Your Crafting Companion</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-essential-guide-to-a-bespoke-youtube-channel-url/"><u>The Essential Guide to a Bespoke YouTube Channel URL</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-4-cutting-edge-ai-storywrights/"><u>The Ultimate List of 4 Cutting-Edge AI Storywrights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-nine-leading-iphone-image-watermarking-tools-analysis/"><u>[New] Nine Leading iPhone Image Watermarking Tools Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-uncluttered-recorder-screen-log-for-win10-for-2024/"><u>[New] Uncluttered Recorder Screen Log for Win10 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-reaction-gurus-playbook-crafting-unforgettable-videos-in-under-5-minutes-each/"><u>[Updated] The Reaction Guru's Playbook Crafting Unforgettable Videos in Under 5 Minutes Each</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-comment-management-turn-it-on-or-off/"><u>2024 Approved YouTube Comment Management Turn It On or Off</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/declutter-email-effortlessly-learn-how-one-handy-trick-can-organize-your-mail-with-zero-complex-rules-featured-on-zdnet/"><u>Declutter Email Effortlessly: Learn How One Handy Trick Can Organize Your Mail with Zero Complex Rules, Featured on ZDNet!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-a14-4g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-teamwork-on-apple-pages-via-icloud-tips/"><u>Effective Strategies for Teamwork on Apple Pages via iCloud - Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-keys-for-the-modern-office-warrior-on-windows/"><u>Essential Keys for the Modern Office Warrior on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-offer-alert-get-up-to-700-off-new-apple-ipad-pros-for-labor-day-sale-digital-gadgets-hub/"><u>Exclusive Offer Alert! Get Up to $700 Off New Apple iPad Pros for Labor Day Sale | Digital Gadgets Hub</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-star-wars-squadrons-a-comprehensive-review-of-its-thrilling-dogfights-in-space/"><u>Exploring Star Wars: Squadrons - A Comprehensive Review of Its Thrilling Dogfights in Space</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 12 mini</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-it-time-to-switch-to-an-apple-m1-macbook-pro-from-a-previous-generation-model-tech-insights-by-zdnet/"><u>Is It Time to Switch to an Apple M1 MacBook Pro From a Previous Generation Model? | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-chatgpt-substitutes-unveiled/"><u>Leading ChatGPT Substitutes Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-upgraded-windows-10-streaming/"><u>Mending Upgraded Windows 10 Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-social-space-aided-by-gpt-technology/"><u>Navigating Social Space Aided by GPT Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-techniques-using-chatgpt-on-a-mac/"><u>Tailored Techniques: Using ChatGPT on a Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-se-cases-of-2022-ultimate-protection-and-style-reviewed-by-tech-experts-at-zdnet/"><u>Top Rated iPhone SE Cases of 2022: Ultimate Protection & Style Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-makes-your-chatgpt-experience-unique-directives-tailored-to-you/"><u>What Makes Your ChatGPT Experience Unique? Directives Tailored to You</u></a></li>
 </ul></div>
 

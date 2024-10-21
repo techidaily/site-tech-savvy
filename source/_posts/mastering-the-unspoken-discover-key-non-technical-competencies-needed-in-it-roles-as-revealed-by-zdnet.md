@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Unspoken: Discover Key Non-Technical Competencies Needed in IT Roles as Revealed by ZDNet"
-date: 2024-09-18 13:16:42
-updated: 2024-09-20 10:37:39
+date: 2024-10-17T19:17:57.640Z
+updated: 2024-10-20T21:02:15.743Z
 tags:
   - professional-development
 categories:
@@ -35,7 +35,21 @@ The following are among the most important soft skills for tech careers. Each sk
 
 [Computer science degrees](https://www.zdnet.com/education/computers-tech/best-online-computer-science-degree/) and other tech-related college programs teach these skills alongside hard skills. But you don't have to go back to college — you can cultivate these soft skills on your own time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Adaptability
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -67,6 +81,13 @@ Though tech professionals work with computer systems and software, they still ne
 
 You can work on your written and verbal communication skills by attending workshops or night classes. Some agencies in your city may even offer classes for improving communication skills. Read more often and brush up on your grammar. Self-edit to avoid typos and improve your confidence.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Leadership
 
 Leadership is a crucial soft skill for tech career advancement. Senior engineers, developers, and managers need to be good leaders. 
@@ -78,6 +99,13 @@ Try developing your leadership skills by speaking up more frequently in meetings
 Challenge yourself to try difficult projects that require flexing your creative muscles. You can also take business classes in leadership at your local college or earn a certificate or [master's in organizational leadership](https://www.zdnet.com/education/business-management/best-online-organizational-leadership-masters/).
 
 ### 5\. Self-motivation
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -112,11 +140,29 @@ Check out our favorite [productivity apps](https://www.zdnet.com/education/profe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-gadget-games-galore-quickest-quality-flash-titles/"><u>[New] In 2024, Gadget Games Galore Quickest Quality Flash Titles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-7-star-rated-apps-for-effortless-youtube-live-broadcast-from-iphone-and-android/"><u>[Updated] In 2024, 7 Star-Rated Apps for Effortless YouTube LIVE Broadcast From iPhone and Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-mfc-9130cw-secure-and-easy-printer-software-download/"><u>Brother MFC-9130CW - Secure and Easy Printer Software Download</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-decisions-is-myai-or-chatgpt-better-for-snapchat/"><u>Dialogue Decisions: Is MyAI or ChatGPT Better for Snapchat?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-distinct-qualities-of-claude-pro-vs-chatgptplus/"><u>Exploring the Distinct Qualities of Claude Pro vs ChatGPT+</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-free-download-for-your-realtek-usbpc-card-reader-on-windows-11/"><u>Get the Latest [Free Download] for Your RealTek USB/PC Card Reader on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guarding-against-misleading-medical-claims-on-ai-platforms/"><u>Guarding Against Misleading Medical Claims on AI Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy A15 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ios-leading-ps2-game-emulation-tools-for-2024/"><u>IOS Leading PS2 Game Emulation Tools for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-your-message-with-artificisions-ai-tech/"><u>Mastering Your Message with Artificision's AI Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-applications-top-6-with-chatgpts-translator-engine/"><u>Revolutionary Applications - Top 6 with ChatGPT's Translator Engine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-chores-claude-vs-generative-pro-ai/"><u>Simplifying Chores: Claude Vs. Generative Pro-AI</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-journey-to-origin-how-to-utilize-reverse-image-functionality-on-instagram/"><u>The Journey to Origin How to Utilize Reverse Image Functionality on Instagram</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-creative-cinema-for-kids-bring-your-imagination-to-life/"><u>Updated In 2024, Creative Cinema for Kids Bring Your Imagination to Life</u></a></li>
+</ul></div>
+

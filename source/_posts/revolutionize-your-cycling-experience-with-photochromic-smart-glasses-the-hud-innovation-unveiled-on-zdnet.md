@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Cycling Experience with Photochromic Smart Glasses - The HUD Innovation Unveiled on ZDNet
-date: 2024-10-08T22:34:53.089Z
-updated: 2024-10-15T14:40:49.675Z
+date: 2024-10-15T18:51:51.884Z
+updated: 2024-10-20T22:51:15.567Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -62,6 +62,13 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -77,13 +84,6 @@ With context on what is on your iPhone, iPad, or Mac and screen awareness, Siri 
 The voice assistant will also be able to perform hundreds of new actions across Apple and third-party apps, like opening articles from a Reading List or looking up a specific photo in your library. 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
 
@@ -109,6 +109,13 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -120,19 +127,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -162,13 +156,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -183,6 +170,13 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,16 +218,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-exploring-self-through-instagram-a-diverse-set-of-100-captions/"><u>[New] Exploring Self Through #Instagram - A Diverse Set of 100 Captions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-your-guide-to-studio-lights-and-equipment-17/"><u>[New] Your Guide to Studio Lights & Equipment (#17)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-comprehensive-coverage-coalition-picking-an-mcn/"><u>[Updated] 2024 Approved Comprehensive Coverage Coalition Picking an MCN</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-prosperous-gaming-vids-through-smart-hash-implementation/"><u>[Updated] Prosperous Gaming Vids Through Smart Hash Implementation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-newbies-compendium-of-best-cinematography-devices-35mm-pands/"><u>A Newbie's Compendium of Best Cinematography Devices (35Mm-P&S)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-content-detectors-dont-work-and-thats-a-big-problem/"><u>AI Content Detectors Don’t Work, and That’s a Big Problem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-your-reading-journey-top-5-ai-enhanced-book-platforms/"><u>Enhance Your Reading Journey - Top 5 AI-Enhanced Book Platforms</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/enhancing-viewer-interest-with-thumbnails-for-2024/"><u>Enhancing Viewer Interest with Thumbnails for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-guide-enhance-windows-bluetooth-device-with-full-sound-features/"><u>Fix Guide: Enhance Windows Bluetooth Device with Full Sound Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-the-chatgpt-is-at-capacity-right-now-error-on-windows/"><u>How to Fix the ChatGPT Is at Capacity Right Now Error on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-dietary-habits-using-ai-insights/"><u>Optimizing Dietary Habits Using AI Insights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-steps-for-accessing-google-meet-video-conferencing-for-2024/"><u>[New] Steps for Accessing Google Meet Video Conferencing for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-ultimate-guide-to-youtubes-most-captivating-storytellers-in-23-for-2024/"><u>[New] The Ultimate Guide to YouTube's Most Captivating Storytellers in '23 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-balancing-creativity-and-logic-in-gaming-videos/"><u>[Updated] 2024 Approved Balancing Creativity and Logic in Gaming Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-legacy-linkup-software/"><u>[Updated] Legacy Linkup Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-power-of-photo-editing-in-ps-novice-style/"><u>[Updated] Unlocking the Power of Photo Editing in PS, Novice Style</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-system-failures-the-definitive-guide-to-stable-dark-souls-3-play-sessions/"><u>Overcoming System Failures: The Definitive Guide to Stable Dark Souls 3 Play Sessions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/quasarrecovery-facility/"><u>QuasarRecovery Facility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/section-2a-understanding-labor-strikes-and-picketing/"><u>Section 2A: Understanding Labor Strikes and Picketing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surpassing-expectations-a-deep-dive-into-the-best-bosejbl-alternative-for-impressive-volume-and-clarity-in-bluetooth-speakers/"><u>Surpassing Expectations: A Deep Dive Into the Best Bose/JBL Alternative for Impressive Volume and Clarity in Bluetooth Speakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprisingly-superior-sound-quality-a-top-alternative-to-jbl-and-klipsch-uncovered-on-zdnet/"><u>Surprisingly Superior Sound Quality: A Top Alternative to JBL and Klipsch Uncovered on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-30-amazing-cyber-monday-coupons-exclusive-amazon-echo-offers-no-longer-available-techradar/"><u>Top 30 Amazing Cyber Monday Coupons: Exclusive Amazon Echo Offers No Longer Available | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-budget-friendly-wireless-speakers-of-2022-affordable-sound-solutions/"><u>Top Budget-Friendly Wireless Speakers of 2022: Affordable Sound Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-engaging-audio-experiences-a-deep-dive-into-non-sony-non-jbl-brands-featured-on-zdnet/"><u>Top Engaging Audio Experiences: A Deep Dive Into Non-Sony, Non-JBL Brands Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-october-discounts-on-amazon-echo-products-exclusive-cyber-monday-blowout-sales/"><u>Top October Discounts on Amazon Echo Products: Exclusive Cyber Monday Blowout Sales</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-pick-sound-equipment-showcased-at-ces-2024-insights-from-zdnet/"><u>Top Pick Sound Equipment Showcased at CES 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-start-menu-errors-heres-how-to-restore-functionality/"><u>Windows 11 Start Menu Errors? Here's How to Restore Functionality</u></a></li>
 </ul></div>
 

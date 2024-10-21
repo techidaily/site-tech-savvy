@@ -1,7 +1,7 @@
 ---
 title: The EU's Ethical Framework & Its Repercussions on Interactive Technologies Like ChatGPT
-date: 2024-10-10T19:45:38.856Z
-updated: 2024-10-15T00:48:53.167Z
+date: 2024-10-13T20:11:55.826Z
+updated: 2024-10-21T02:39:32.370Z
 tags:
   - chatgpt
   - open-ai
@@ -45,15 +45,22 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
  While the EU AI Act has several objectives, its main aim is to somewhat reign in AI. This will be done by assessing the risk levels of AI systems, ensuring they follow EU laws, and enforcing transparency requirements for AI systems.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Who Will Be Affected by the EU AI Act?
 
 ![wooden court hammer on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/court-hammer-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While the EU AI Act is still in the works, there are concerns over how it will affect AI researchers, developers, and users within the EU.
 
@@ -68,22 +75,15 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 
  Evidently, the scope is large, spanning the AI industry. Thousands of AI organizations may be affected by this act, including ChatGPT creator, OpenAI. This has led to contention between the EU and OpenAI CEO Sam Altman. In fact, Altman has threatened to pull OpenAI, and therefore ChatGPT, out of the EU because of it. So, why has he made such a striking statement?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Is Sam Altman Threatening to Pull ChatGPT From the EU?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
@@ -97,10 +97,10 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Interestingly, this threat came shortly after [Altman advocated for further AI regulation within the US](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/) to mitigate the risks of AI development. We'll leave how that looks up to you.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The EU's AI Act Could Alter AI Development
@@ -124,17 +124,22 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-memes-unleashed-ranking-the-best-templates-10-for-2024/"><u>[New] Memes Unleashed Ranking the Best Templates #10 for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-custom-whatsapp-ringtone-for-ios-and-android-users/"><u>2024 Approved Mastering Custom WhatsApp Ringtone for iOS and Android Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-claude-3-features-and-uses/"><u>Discovering Claude 3: Features & Uses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-the-legitimacy-of-truthgpt-tokens/"><u>Evaluating the Legitimacy of TruthGPT Tokens</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/excel-file-recovery-recover-corrupt-excel-files-easily-stellar-by-stellar-guide/"><u>Excel File Recovery – Recover Corrupt Excel Files Easily | Stellar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-strategies-separating-real-from-fake-apps/"><u>Expert Strategies: Separating Real From Fake Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-logitech-momo-racing-controller-pc-gaming-setup-guide/"><u>Get the Logitech MOMO Racing Controller - PC Gaming Setup Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/idea-storming-guide-mindmaps-gpt-3-partnership/"><u>Idea Storming Guide: Mindmaps, GPT-3 Partnership</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-ai-guiding-chatgpt-for-synth-creation-in-daws/"><u>Utilizing AI: Guiding ChatGPT for Synth Creation in DAWs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-choosing-the-right-display-elevate-your-xbox-series-x-experience/"><u>[New] In 2024, Choosing the Right Display - Elevate Your Xbox Series X Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-recording-advice-macbooks-camera-insights/"><u>[Updated] 2024 Approved Essential Recording Advice MacBook's Camera Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparing-high-end-drone-and-camera-tech/"><u>[Updated] Comparing High-End Drone & Camera Tech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-exclusive-list-of-affordable-video-conferencing-apps-a-business-and-education-edition/"><u>[Updated] In 2024, Exclusive List of Affordable Video Conferencing Apps A Business & Education Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mac-based-strategies-for-shorter-insta-videos-for-2024/"><u>[Updated] Mac-Based Strategies for Shorter Insta Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/12-amazing-websites-for-free-stock-photos/"><u>12 Amazing Websites for Free Stock Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-fixes-reviving-your-rusty-pc/"><u>AI-Powered Fixes: Reviving Your Rusty PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-microsoft-surface-pro-8-evaluation-the-ultimate-device-for-professionals-analysis/"><u>Comprehensive Microsoft Surface Pro 8 Evaluation: The Ultimate Device for Professionals? - Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-digital-masterpieces-with-ease-the-ultimate-guide-to-using-chatgpt-for-ai-generated-imagery/"><u>Crafting Digital Masterpieces with Ease: The Ultimate Guide to Using ChatGPT for AI-Generated Imagery</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-hid-keyboard-driver-updates-instantly/"><u>Get the Newest HID Keyboard Driver Updates Instantly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-g42-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia G42 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-evaluation-of-apples-latest-innovation-the-m2-chip-powered-ipad-air-your-ultimate-guide-for-purchase-decisions/"><u>In-Depth Evaluation of Apple's Latest Innovation: The M2 Chip Powered iPad Air - Your Ultimate Guide for Purchase Decisions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interpretation-at-scale-the-essence-of-chatgpts-code-processing/"><u>Interpretation at Scale: The Essence of ChatGPT's Code Processing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-common-chatgpt-faults-and-fixes/"><u>Navigating Through Common ChatGPT Faults & Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opengptconvos-subscriptions-shutdown-timeframe/"><u>OpenGPTConvos: Subscriptions Shutdown Timeframe</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-essential-7-ai-tools-for-success/"><u>Unleashing Potential: Essential 7 AI Tools for Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gptzeros-role-in-spotting-ai-content/"><u>Unveiling GPTZero's Role in Spotting AI Content</u></a></li>
 </ul></div>
 

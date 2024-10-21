@@ -1,7 +1,7 @@
 ---
 title: Activating Slack Alerts on Apple Watch - A Complete Guide
-date: 2024-10-13T19:24:26.573Z
-updated: 2024-10-15T03:19:50.194Z
+date: 2024-10-13T19:49:32.741Z
+updated: 2024-10-20T16:47:45.776Z
 tags:
   - apple
 categories:
@@ -55,10 +55,10 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
@@ -76,21 +76,22 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -109,13 +110,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -141,18 +135,18 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -193,22 +187,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-deactivating-instagrams-igtv-feature/"><u>[New] 2024 Approved Deactivating Instagram's IGTV Feature</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-reimagine-your-cinematography-mastering-these-7-color-techniques/"><u>2024 Approved Reimagine Your Cinematography Mastering These 7 Color Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bringing-the-brain-to-your-bands-chatgpts-top-6-smartwatch-upgrades/"><u>Bringing the Brain to Your Bands: ChatGPT's Top 6 Smartwatch Upgrades</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatai-breakdown-enhancing-crypto-exchanges-with-gpt/"><u>ChatAI Breakdown: Enhancing Crypto Exchanges with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-engage-in-real-time-conversation/"><u>ChatGPT: Engage in Real-Time Conversation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/entrepreneurs-guide-to-ai-essential-tools-for-todays-business-owners/"><u>Entrepreneur's Guide to AI: Essential Tools for Today’s Business Owners</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/facing-a-flood-of-promotions-prime-video-set-to-introduce-additional-ads-from-amazon/"><u>Facing a Flood of Promotions: Prime Video Set to Introduce Additional Ads From Amazon</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-idea-to-book-a-guide-to-chatgpt-and-poetic-creation/"><u>From Idea to Book: A Guide to ChatGPT and Poetic Creation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-100-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor 100 to Protect Your Individual Information</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-share-links-to-your-chatgpt-chats/"><u>How to Share Links to Your ChatGPT Chats</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>In 2024, An All-Inclusive Subtitle Handbook From Basics to Advanced Tips</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/navigating-office-setup-challenges-like-a-pro/"><u>Navigating Office Setup Challenges Like a Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-generation-language-models-expecting-gpt-5s-arrival/"><u>Next Generation Language Models: Expecting GPT-5's Arrival?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/proven-methods-for-skyrocketing-viewership-on-youtube-shorts/"><u>Proven Methods for Skyrocketing Viewership on YouTube Shorts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/screen-capturing-made-easy-best-apps-for-windows-10/"><u>Screen Capturing Made Easy Best Apps for Windows 10</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solutions-for-video-distortion-in-new-windows-10/"><u>Solutions for Video Distortion in New Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/surpassing-chatgpts-limits-with-new-options/"><u>Surpassing ChatGPT's Limits with New Options</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-9-techniques-for-attractive-and-engaging-unboxings-on-instagram/"><u>[New] 2024 Approved 9 Techniques for Attractive and Engaging Unboxings on Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-flarex-media-player-pro-versatile-music-app/"><u>[New] FlareX Media Player Pro Versatile Music App</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-cultivating-a-community-the-key-to-surpassing-1000-views/"><u>[Updated] 2024 Approved Cultivating a Community The Key to Surpassing 1000 Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-historical-explorations-10-must-see-educational-channels-on-yt-for-2024/"><u>[Updated] Historical Explorations - 10 Must-See Educational Channels on YT for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-frame-makers-revealed-2024-edition/"><u>[Updated] Top 10 Frame Makers Revealed 2024 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/35-deal-alert-the-ultimate-wireless-magnetic-charger-for-iphones-now-available/"><u>$35 Deal Alert: The Ultimate Wireless Magnetic Charger for iPhones, Now Available !</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlocking-higher-view-counts-through-sustained-compliance-with-youtube-cc/"><u>2024 Approved Unlocking Higher View Counts Through Sustained Compliance with YouTube CC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-msvcrt120dll-omission-on-pcs/"><u>Addressing Msvcrt120dll Omission on PCs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/direct-data-delivery-master-5-techniques-for-uploading-files/"><u>Direct Data Delivery Master 5 Techniques for Uploading Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-mac-models-according-to-experts/"><u>Discover the Leading Mac Models According to Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/do-you-need-a-dac-understanding-digital-to-analog-converters/"><u>Do You Need a DAC? Understanding Digital-to-Analog Converters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-win-conversations-the-freedgpt-method/"><u>Elevate Win Conversations: The FreedGPT Method</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/huge-labor-day-savings-get-the-new-2022-ipad-pro-up-to-700-cheaper-on-zdnet/"><u>Huge Labor Day Savings: Get the New 2022 iPad Pro Up To $700 Cheaper on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-your-apple-devices-powered-and-protected-with-our-top-pick-of-3-in-1-magsafe-chargers-innovative-tech-insights/"><u>Keep Your Apple Devices Powered & Protected with Our Top Pick of 3-in-1 MagSafe Chargers | Innovative Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-fix-guide-for-6-typical-sticker-setup-issues/"><u>The Ultimate Fix Guide for 6 Typical Sticker Setup Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-picking-between-macbook-pro-and-macbook-air-insights/"><u>The Ultimate Guide to Picking Between MacBook Pro and MacBook Air - Insights</u></a></li>
+<li><a href="https://fox-within.techidaily.com/transfer-live365-streams-to-high-quality-audio-formats-like-mp3-wav-and-aac-with-our-handy-downloader/"><u>Transfer Live365 Streams to High-Quality Audio Formats Like MP3, WAV, and AAC with Our Handy Downloader</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-dull-to-dynamic-top-5-ai-writing-catalysts/"><u>Transforming Dull to Dynamic: Top 5 AI Writing Catalysts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uniting-chatgpt-and-iphones-siri-a-guide/"><u>Uniting ChatGPT & iPhone's Siri: A Guide</u></a></li>
 </ul></div>
 

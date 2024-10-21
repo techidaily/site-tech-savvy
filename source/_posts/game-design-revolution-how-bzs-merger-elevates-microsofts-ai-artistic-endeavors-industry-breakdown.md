@@ -1,7 +1,7 @@
 ---
 title: "Game Design Revolution: How BZ's Merger Elevates Microsoft's AI Artistic Endeavors [Industry Breakdown]"
-date: 2024-10-08T03:41:17.032Z
-updated: 2024-10-15T06:54:26.527Z
+date: 2024-10-19T01:48:37.290Z
+updated: 2024-10-20T17:31:38.144Z
 tags:
   - chatgpt
   - open-ai
@@ -59,10 +59,16 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -94,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -129,10 +135,16 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -172,20 +184,16 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-acoustic-data-recording-sounds-and-speech/"><u>[New] Acoustic Data Recording Sounds & Speech</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ultimate-video-guide-from-youtube-to-twitter-for-2024/"><u>[New] Ultimate Video Guide From YouTube to Twitter for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-filmmaking-revolution-15-essential-gopro-luts-revealed/"><u>[Updated] Filmmaking Revolution 15 Essential GoPro LUTs Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-integral-applications-of-ai-for-digital-criminals/"><u>5 Integral Applications of AI for Digital Criminals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-hazards-to-consider-when-relying-on-ai-psychologists/"><u>6 Hazards to Consider When Relying on AI Psychologists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-modern-alternatives-matching-or-surpassing-gpts-mobile-feature-set/"><u>7 Modern Alternatives Matching or Surpassing GPT's Mobile Feature Set</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-easy-steps-to-mend-your-mobile-minds-chatgpt-issues/"><u>9 Easy Steps to Mend Your Mobile Mind's ChatGPT Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-superior-features-in-chatgpt-plus-membership/"><u>9 Superior Features in ChatGPT Plus Membership</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-guide-to-tranquility-with-gpt/"><u>A Guide to Tranquility with GPT</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-redmi-k70e-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi Redmi K70E Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721437336075-level-up-gaming-skills-with-these-top-chatgpt-games/"><u>Level Up Gaming Skills with These Top ChatGPT Games!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/restoring-clarity-resolving-iphones-blurry-photos-for-2024/"><u>Restoring Clarity Resolving iPhone's Blurry Photos for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-connectivity-problems-a-step-by-nstep-guide-to-repairing-your-kotion-each-g2000-mic/"><u>Solving Connectivity Problems: A Step-by-nStep Guide to Repairing Your Kotion Each G2000 Mic</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-cross-device-connectivity-easy-steps-to-view-icloud-photos-and-files-everywhere/"><u>Unlocking Cross-Device Connectivity: Easy Steps to View iCloud Photos and Files Everywhere</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44oa44km44oz44ot44o844oj5b6m44gn44kc6kgo56s644gv44km44gq44ge5yuv55s7ic0g5lia6iis55qe44gq6kej5rg6562w44ks44gu57s55lul/"><u>ダウンロード後でも表示されない動画 - 一般的な解決策をご紹介</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamlined-techniques-for-rapid-mac-screen-recording/"><u>[Updated] In 2024, Streamlined Techniques for Rapid Mac Screen Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-transformative-impact-on-presentation-tech/"><u>AI's Transformative Impact on Presentation Tech</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/complete-step-by-step-guide-resolving-iphone-doesnt-receive-messages/"><u>Complete Step-by-Step Guide: Resolving 'iPhone Doesn't Receive Messages'</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nt-delivery-comparison-vimeo-vs-youtube-vs-dailymotion-for-2024/"><u>Content Delivery Comparison Vimeo vs YouTube vs Dailymotion for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/farewell-to-itunes-apple-introduces-new-media-player-apps-on-windows-platform-detailed-coverage/"><u>Farewell to iTunes: Apple Introduces New Media Player Apps on Windows Platform - Detailed Coverage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/go-beyond-apple-with-the-ultimate-rechargeable-wallet-airtag-option-featured-as-a-must-buy/"><u>Go Beyond Apple with the Ultimate Rechargeable Wallet AirTag Option - Featured as a Must-Buy!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-set-up-twitch-green-screen/"><u>How to Set Up Twitch Green Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsoft-excel-tutorial-clearing-out-select-box-options-efficiently/"><u>Microsoft Excel Tutorial: Clearing Out Select Box Options Efficiently</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-your-routine-chatgpt-for-total-improvement/"><u>Revolutionizing Your Routine: ChatGPT for Total Improvement</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-and-swift-enhance-roblox-on-desktop/"><u>Smooth and Swift: Enhance Roblox on Desktop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-a-waterproof-smartwatch-expert-analysis-and-ratings/"><u>Ultimate Guide to Choosing a Waterproof Smartwatch : Expert Analysis and Ratings</u></a></li>
 </ul></div>
 

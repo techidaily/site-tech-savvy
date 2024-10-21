@@ -1,7 +1,7 @@
 ---
 title: "Next Phase in Machine Learning: The Advent of GPT-5?"
-date: 2024-10-08T21:24:11.129Z
-updated: 2024-10-15T02:10:35.679Z
+date: 2024-10-18T02:45:11.027Z
+updated: 2024-10-20T20:42:02.395Z
 tags:
   - chatgpt
   - open-ai
@@ -43,15 +43,22 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
  Here's a video of Altman's discussion below:
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -67,22 +74,15 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5\.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4\.
@@ -92,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5\.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -123,22 +123,17 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-gameboy-advance-mastered-android-emulator-selection/"><u>[New] 2024 Approved GameBoy Advance Mastered Android Emulator Selection</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-thorough-examination-gopro-silver-hero4-feature-test/"><u>[New] In 2024, Thorough Examination GoPro Silver HERO4 Feature Test</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-7-3d-modeling-software-for-animation-for-2024/"><u>[Updated] 7 3D Modeling Software for Animation for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-investigating-ffmpeg-for-intact-audio-preservation/"><u>[Updated] Investigating FFmpeg for Intact Audio Preservation</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-a78-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo A78 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-ai-prompting-tips-and-tricks-that-actually-work/"><u>7 AI Prompting Tips and Tricks That Actually Work</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-emerging-technologies-outclassing-gpt-apps-on-smartphones/"><u>7 Emerging Technologies Outclassing GPT Apps on Smartphones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-questions-and-requests-chatgpt-cannot-answer-or-process/"><u>7 Questions and Requests ChatGPT Cannot Answer or Process</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-next-level-ai-companions-for-your-smartphone-beyond-chatgpt/"><u>8 Next-Level AI Companions for Your Smartphone Beyond ChatGPT</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-insight-on-the-newly-redesigned-amazon-echo-dot-gen4/"><u>A Comprehensive Insight on The Newly Redesigned Amazon Echo Dot Gen4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-era-of-job-seeking-exploring-these-6-benefits-of-chatgpt-use/"><u>A New Era of Job Seeking: Exploring These 6 Benefits of ChatGPT Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-dedication-rejecting-unfair-help-from-ai/"><u>Academic Dedication: Rejecting Unfair Help From AI</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-breaking-the-monotony-innovative-yt-playlist-shuffling/"><u>In 2024, Breaking the Monotony Innovative YT Playlist Shuffling</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-end-stabilizers-perfecting-mobile-and-professional-shooting/"><u>In 2024, High-End Stabilizers Perfecting Mobile & Professional Shooting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-launch-troubles-heres-the-fix-for-a-smooth-gameplay-experience/"><u>Rainbow Six Siege Launch Troubles? Here's the Fix for a Smooth Gameplay Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721437615697-the-evolution-of-internet-search-ai-enhanced-bing/"><u>The Evolution of Internet Search: AI-Enhanced Bing.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721429142152-transform-challenges-into-cash-with-openais-bug-bounty-initiative/"><u>Transform Challenges Into Cash with OpenAI's Bug Bounty Initiative!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-guide-to-using-snap-on-zoom-webinars-for-2024/"><u>[Updated] Expert Guide to Using Snap on Zoom Webinars for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-100-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-todays-misinformation-landscape/"><u>AI's Role in Today's Misinformation Landscape</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029158351-dvdpc/"><u>DVD挿入・転送手順：PC上でのシンプルな操作と人気アプリ紹介</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-strategies-to-choose-top-app-store-games/"><u>Essential Strategies to Choose Top App Store Games</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-v29-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo V29</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-years-cyber-threats-and-prevention-insights-top-7/"><u>Next Year's Cyber Threats & Prevention Insights, Top 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfecting-iphone-photography-for-vr-spheres/"><u>Perfecting iPhone Photography for VR Spheres</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win-ethernet-no-internet-error/"><u>Resolving Win Ethernet No Internet Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-devices-an-experts-guide/"><u>Top-Ranking Mac Devices : An Expert's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-generative-ais-role-in-tech/"><u>Understanding Generative AI's Role in Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-gpts-own-writing-weaknesses/"><u>Understanding GPT's Own Writing Weaknesses</u></a></li>
 </ul></div>
 

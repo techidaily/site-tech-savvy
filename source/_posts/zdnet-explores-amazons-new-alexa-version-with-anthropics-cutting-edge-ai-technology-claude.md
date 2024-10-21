@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores Amazon's New Alexa Version with Anthropic's Cutting-Edge AI Technology, Claude
-date: 2024-09-17 19:46:38
-updated: 2024-09-20 12:30:21
+date: 2024-10-14T00:30:21.350Z
+updated: 2024-10-21T00:09:54.265Z
 tags:
   - speakers
 categories:
@@ -55,11 +55,38 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-top-rated-free-tools-for-high-res-youtube-cover-extraction/"><u>[New] 2024 Approved Top-Rated Free Tools for High-Res YouTube Cover Extraction</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-viral-vibes-the-best-bgm-to-complement-your-yt-short-creations/"><u>[Updated] Viral Vibes The Best BGM to Complement Your YT Short Creations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-52024/"><u>無料音声付画面録り:Windows 11 におすすめのトップ5機能【2024新着スキャン】</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-se-2020-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone SE (2020) & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-the-blur-effective-fixes-for-muted-icloud-settings-on-your-apple-device/"><u>Bypass the Blur: Effective Fixes for Muted iCloud Settings on Your Apple Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-pdf-understanding-via-chatgpts-4-tools/"><u>Enhance PDF Understanding via ChatGPT's 4 Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-ais-reliability-chatgpt-style/"><u>Evaluating AI's Reliability - ChatGPT Style</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-alternative-use-of-restricted-gpt-features/"><u>Examining Alternative Use of Restricted GPT Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exercise-plans-crafted-with-safety-and-efficiency-in-mind/"><u>Exercise Plans Crafted with Safety and Efficiency in Mind</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/extensive-physical-action-audit/"><u>Extensive Physical Action Audit</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-get-the-latest-microsoft-surface-pro-4-driver-software-for-windows-systems/"><u>How to Get the Latest Microsoft Surface Pro 4 Driver Software for Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-views-navigating-chatgpt-for-film-recommendations/"><u>Maximizing Views: Navigating ChatGPT for Film Recommendations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-of-claude-2-and-how-it-serves-you/"><u>The Essence of Claude 2 and How It Serves You</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-sifives-revolutionary-256-core-risc-v-processor-the-power-of-the-p870-d-series/"><u>Unveiling SiFive's Revolutionary 256-Core RISC-V Processor: The Power of the P870-D Series</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-tech-exploring-toms-hardware-insights/"><u>Unveiling the Latest in Tech: Exploring Tom's Hardware Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-first-look-at-ai/"><u>Your First Look at AI</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

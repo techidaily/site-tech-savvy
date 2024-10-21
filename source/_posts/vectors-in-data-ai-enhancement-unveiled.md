@@ -1,7 +1,7 @@
 ---
 title: "Vectors in Data: AI Enhancement Unveiled"
-date: 2024-10-09T01:19:17.526Z
-updated: 2024-10-14T21:54:34.354Z
+date: 2024-10-18T22:35:25.898Z
+updated: 2024-10-20T20:27:30.853Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/de6f02fe7abe4ced33765163ad97ca736d4fe362e
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/de6f02fe7abe4ced33765163ad97ca736d4fe362e
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/de6f02fe7abe4ced33765163ad97ca736d4fe362e
  Having the ability to plot the location of data in mathematical space allows computers to understand the relationship between data points and how strongly correlated they are to each other. By knowing the degree of correlation between each data point, an AI model will have the capability to understand queries in a contextual manner like a human would.
 
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Vector Databases Help Boost AI
 
@@ -91,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/de6f02fe7abe4ced33765163ad97ca736d4fe362e
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
@@ -102,6 +95,19 @@ thumbnail: https://thmb.techidaily.com/de6f02fe7abe4ced33765163ad97ca736d4fe362e
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -139,20 +145,16 @@ thumbnail: https://thmb.techidaily.com/de6f02fe7abe4ced33765163ad97ca736d4fe362e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-professional-filmmakers-pick-is-it-filmora-or-democreator/"><u>[New] Professional Filmmakers' Pick Is It Filmora or Democreator?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-from-first-use-to-expertise-a-comprehensive-fcp-guidebook/"><u>[Updated] In 2024, From First Use to Expertise A Comprehensive FCP Guidebook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725285149860-dvd/"><u>「レンタルDVDコピー手順と、それが合法的な行為であるか詳しく解析！」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/caveats-of-con-artist-created-ai-apps-to-watch-out-for/"><u>Caveats of Con Artist-Created AI Apps to Watch Out For</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chilling-out-cool-down-the-dough-just-right/"><u>Chilling Out: Cool Down the Dough Just Right</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-criteria-determining-chatgpts-role-in-emotional-wellness-care/"><u>Essential Criteria: Determining ChatGPT's Role in Emotional Wellness Care</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-11-proplus-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme 11 Pro+</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-twitter-visual-content-proportions/"><u>In 2024, Twitter Visual Content Proportions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-distractions-dealing-with-erratic-bluetooth-audio-playback-on-your-windows-computer/"><u>No More Distractions: Dealing with Erratic Bluetooth Audio Playback on Your Windows Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/replicating-human-like-dialogue-with-ai/"><u>Replicating Human-Like Dialogue with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revamping-ai-interactions-googles-gemini-vs-chatgpts-performance/"><u>Revamping AI Interactions – Google’s Gemini Vs. ChatGPT's Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-how-to-get-the-newest-dell-latitude-e6ns-windows-drivers-resolved/"><u>Step-by-Step Tutorial: How to Get the Newest Dell Latitude E6n's Windows Drivers [RESOLVED]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stepwise-deletion-of-previous-chatgpt-data/"><u>Stepwise Deletion of Previous ChatGPT Data</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-ps5-game-access-a-step-by-step-guide/"><u>Streamlining PS5 Game Access: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-flirting-gpt-powered-dating/"><u>The Future of Flirting: GPT-Powered Dating</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-splitting-screen-techniques-for-engaging-youtube-content/"><u>[Updated] In 2024, Splitting Screen Techniques for Engaging YouTube Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-free-android-calling-tools-ranked-by-cost/"><u>[Updated] Top Free Android Calling Tools Ranked by Cost</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-s24-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy S24 Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bash-basics-for-chatgpt-interaction-through-shellgpt/"><u>Bash Basics for ChatGPT Interaction Through ShellGPT</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-a23-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Samsung Galaxy A23 5G Face Lock?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ingenious-chatbot-creation-guided-by-gpt-principles/"><u>Ingenious Chatbot Creation: Guided by GPT Principles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leveraging-keywords-and-metadata-in-podcast-seo-for-2024/"><u>Leveraging Keywords and Metadata in Podcast SEO for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-siri-with-ai-how-apples-latest-innovation-boosts-smartphone-assistance-insights/"><u>Revolutionizing Siri with AI: How Apple’s Latest Innovation Boosts Smartphone Assistance - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scam-or-solution-delving-into-truthgpt-token/"><u>Scam or Solution? Delving Into TruthGPT Token</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-x50-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor X50 for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-computers-a-comprehensive-guide/"><u>Top-Rated Apple Computers - A Comprehensive Guide</u></a></li>
 </ul></div>
 

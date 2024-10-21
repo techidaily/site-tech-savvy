@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Smart Tech Integration: The Comprehensive Guide to AI Enhancements on iPhone, Mac, & iPad"
-date: 2024-10-12T09:37:38.456Z
-updated: 2024-10-14T19:42:16.171Z
+date: 2024-10-18T20:19:21.450Z
+updated: 2024-10-20T16:33:18.498Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,6 +74,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -118,16 +125,16 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -142,10 +149,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -164,13 +171,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -224,18 +224,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-ramp-up-visibility-strategies-for-engaging-shorts-on-youtub/"><u>[New] In 2024, Ramp Up Visibility Strategies for Engaging Shorts on YouTub</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-in-depth-look-at-the-gecata-game-capture-tool/"><u>[Updated] 2024 Approved In-Depth Look at the Gecata Game Capture Tool</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-watch-multiple-youtube-videos-at-one-time/"><u>[Updated] How To Watch Multiple YouTube Videos at One Time?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-captivating-content-the-basics-of-removing-background-from-videos/"><u>2024 Approved Captivating Content The Basics of Removing Background From Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721400487456-chatgpts-ios-application-launched/"><u>ChatGPT's iOS Application Launched!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortlessly-resolve-life-is-strange-glitches-true-colors-edition-unlocked/"><u>Effortlessly Resolve Life Is Strange Glitches - True Colors Edition Unlocked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-words-to-waves-mastering-sound-synthesis-via-ai/"><u>From Words to Waves: Mastering Sound Synthesis via AI</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-nokia-c12-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Nokia C12 Pro Face Lock?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-8-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-transform-your-food-blog-into-an-engaging-mukbang-show/"><u>In 2024, Transform Your Food Blog Into an Engaging Mukbang Show</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-hugging-face-concept-and-applications/"><u>Inside Hugging Face: Concept & Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-plots-creating-rpgs-in-the-gpt-realm/"><u>Pioneering Plots: Creating RPGs in the GPT Realm</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ubuntu-terminal-tactics-initiating-shellgpt-with-gpt/"><u>Ubuntu Terminal Tactics: Initiating ShellGPT with GPT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-banner-templates-and-makers-for-youtube/"><u>[New] In 2024, Free Banner Templates & Makers for YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-skys-limit-broken-by-djis-pro-drone-review/"><u>[Updated] 2024 Approved The Sky's Limit Broken by DJI’s Pro Drone Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-premier-open-source-switch-clones-for-2024/"><u>[Updated] Premier Open-Source Switch Clones for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-ping-pong-pads-and-free-coffee-unraveling-the-reasons-behind-escalating-resignations-in-tech-industry-zdnet/"><u>Beyond Ping-Pong Pads & Free Coffee: Unraveling the Reasons Behind Escalating Resignations in Tech Industry | ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581368773-black-friday-bonanza-learn-any-language-zero-cost/"><u>Black Friday Bonanza: Learn Any Language, Zero Cost!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparative-review-apple-watch-series-9-versus-fitbit-charge-6/"><u>Comparative Review: Apple Watch Series 9 Versus Fitbit Charge 6</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-how-to-seamlessly-transition-to-a-fresh-role-while-remaining-in-your-existing-job/"><u>Discover How to Seamlessly Transition to a Fresh Role While Remaining in Your Existing Job</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-motorola-edge-40-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Edge 40 Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfecting-your-response-mastering-the-tell-us-about-yourself-interview-pitch-insider/"><u>Perfecting Your Response: Mastering the 'Tell Us About Yourself' Interview Pitch | Insider</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-on-gaming-and-learn-to-code-games-at-a-steal-tips-and-tricks-for-cheap-xbox-live-gold-passes-and-coding-lessons-by-zdnet/"><u>Save Big on Gaming & Learn to Code Games at a Steal - Tips and Tricks for Cheap Xbox Live Gold Passes and Coding Lessons by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-entry-level-positions-in-technology-a-guide-for-beginners-by-zdnet/"><u>Securing Entry-Level Positions in Technology: A Guide for Beginners by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-no-cost-streaming-services-excellent-substitutes-for-netflix/"><u>Top 10 No-Cost Streaming Services: Excellent Substitutes for Netflix</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/uncover-the-beauty-and-hidden-rpg-depth-of-mlb-the-show-19-in-our-comprehensive-analysis/"><u>Uncover the Beauty and Hidden RPG Depth of MLB The Show 19 in Our Comprehensive Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-secrets-of-free-linkedin-premium-access-insider-tips-revealed/"><u>Unlock the Secrets of FREE LinkedIn Premium Access - Insider Tips Revealed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-full-potential-of-artificial-intelligence-bridging-the-data-divide-with-proven-strategies-zdnet/"><u>Unlocking the Full Potential of Artificial Intelligence: Bridging the Data Divide with Proven Strategies | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-value-how-these-two-top-tier-linkedin-premium-benefits-justify-your-investment-insights-from-zdnet/"><u>Unlocking Value: How These Two Top-Tier LinkedIn Premium Benefits Justify Your Investment | Insights From ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-camera-woes-heres-how-to-rectify-them-instantly/"><u>Zoom Camera Woes? Here's How to Rectify Them Instantly</u></a></li>
 </ul></div>
 

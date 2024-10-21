@@ -1,7 +1,7 @@
 ---
 title: Understanding GPT's Own Writing Weaknesses
-date: 2024-10-10T19:01:50.154Z
-updated: 2024-10-15T03:42:15.750Z
+date: 2024-10-13T17:25:35.964Z
+updated: 2024-10-20T19:43:13.862Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
  Well, there is. We could write an entire book on the difference between the two, but it won't matter much. So, if there's a difference, why is ChatGPT or any other AI tool unable to identify these differences and accurately point out AI-generated text from a human-written one? The answer lies in [how ChatGPT works and how it generates text](http://www.makeuseof.com/how-does-chatgpt-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How ChatGPT Generates Text
@@ -56,10 +56,16 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 ![Artificial intelligence and puny human are shaking hands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-power-of-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you ask ChatGPT to generate text, it tries to mimic the human writing process. Firstly, the model behind ChatGPT—Generative Pre-trained Transformer (GPT)—has been trained on a large corpus of human text. Everything from emails, health articles, tech articles, high school essays, and just about any text you can find online has been fed to the model during training. So ChatGPT understands how each of these types of texts should be written.
@@ -69,16 +75,10 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
  But there's a catch. Unlike how humans write, ChatGPT does not really understand what it is writing in a way that a human would. Instead, the chatbot tries to predict what would be the most plausible next word in a sentence until it completes the write-up.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How ChatGPT Writes by Prediction
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
  AI chatbots like ChatGPT are designed to mimic natural human language as much as possible. So while AI text may have discernable patterns, those patterns are not so obvious even to a powerful tool like ChatGPT. This is why ChatGPT can not spot its own writing, as well as [why AI-text detector tools do not work](https://www.makeuseof.com/ai-content-detectors-dont-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Recognize Its Own Writing In the Future?
@@ -123,19 +123,24 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-enhance-your-reel-with-rhythms-instagrams-music-guide/"><u>[New] In 2024, Enhance Your Reel with Rhythms Instagram's Music Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instant-clearing-the-best-ios-apps-for-precise-image-editing/"><u>[Updated] Instant Clearing The Best iOS Apps for Precise Image Editing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-deeper-look-into-magix-visual-processing/"><u>2024 Approved A Deeper Look Into MAGIX Visual Processing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-movies-the-best-18-4k-recorder-list/"><u>2024 Approved Mastering Movies The Best 18 4K Recorder List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-construction-revolutionized-by-chatbot-innovation/"><u>Content Construction Revolutionized by Chatbot Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/important-8-gpt-advice-for-enhancing-concentration-in-a-digital-era/"><u>Important 8 GPT Advice for Enhancing Concentration in a Digital Era</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-note-13-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi Note 13 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 13 mini</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-sony-xperia-5-v-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Sony Xperia 5 V Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-1-v-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 1 V Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-organizing-dialogues-with-ease/"><u>Mastering ChatGPT: Organizing Dialogues with Ease</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-8-sites-with-easy-access-to-free-3d-text-psd-images/"><u>Top 8 Sites with Easy Access to Free 3D Text PSD Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truthcoin-seeking-honesty-or-hype/"><u>TruthCoin: Seeking Honesty or Hype?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-makes-gpt-enterprises-stand-out/"><u>What Makes GPT Enterprises Stand Out?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>[New] 2024 Approved From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-drone-technology-mechanisms-and-applications-demystified/"><u>[New] Unraveling Drone Technology Mechanisms and Applications Demystified</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-leading-cost-free-switch-gaming-apps-for-2024/"><u>[Updated] Leading Cost-Free Switch Gaming Apps for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-methodologies-for-backdrop-purification-in-figma-design/"><u>Advanced Methodologies for Backdrop Purification in Figma Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-efficiency-mastering-the-developer-mindset-for-enhanced-team-performance/"><u>Boost Your Efficiency: Mastering the Developer Mindset for Enhanced Team Performance</u></a></li>
+<li><a href="https://facebook.techidaily.com/confirm-your-credibility-with-us-metacredentials/"><u>Confirm Your Credibility with U.S. Metacredentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquering-self-doubt-boosting-your-confidence-against-imposter-feelings-at-work/"><u>Conquering Self-Doubt: Boosting Your Confidence Against Imposter Feelings at Work</u></a></li>
+<li><a href="https://extra-information.techidaily.com/determining-the-top-2023-action-camera-champion/"><u>Determining the Top 2023 Action Camera Champion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-introverts-mastering-professional-networking/"><u>Effective Strategies for Introverts: Mastering Professional Networking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-does-the-current-uptick-in-employment-affect-careers-in-tech-exploring-with-zdnets-perspective/"><u>How Does the Current Uptick in Employment Affect Careers in Tech? Exploring with ZDNet's Perspective</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-launch-your-own-fb-stream-on-pc-mac-and-laptop-using-obs/"><u>In 2024, Launch Your Own FB Stream on PC, Mac & Laptop Using OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-telephone-job-interviews-proven-strategies-for-impressing-recruiters-and-advance-to-face-to-face-discussions/"><u>Mastering Telephone Job Interviews: Proven Strategies for Impressing Recruiters and Advance to Face-to-Face Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-literacy-in-the-workplace-secure-high-quality-roles-beyond-coding-skills-forbes/"><u>Tech Literacy in the Workplace: Secure High-Quality Roles Beyond Coding Skills | Forbes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tomorrows-tech-titans-today-the-experts-building-artificial-intelligence-as-featured-by-zdnet/"><u>Tomorrow's Tech Titans Today: The Experts Building Artificial Intelligence, as Featured by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-your-workout-the-airpods-pros-fitness-features-including-the-heart-rate-monitor-tech-insights-on-zdnet/"><u>Transform Your Workout: The AirPods Pro's Fitness Features, Including the Heart Rate Monitor - Tech Insights on ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-hp-laptop-webcam-issues-on-windows-10/"><u>Troubleshooting Guide: Solving HP Laptop Webcam Issues on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-peak-developer-performance-with-microsoft-solutions-insights-from-zdnet/"><u>Unlock Peak Developer Performance with Microsoft Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-crisis-in-tech-employment-the-link-between-recruitment-failures-and-developer-well-being/"><u>Unveiling the Crisis in Tech Employment: The Link Between Recruitment Failures and Developer Well-Being</u></a></li>
 </ul></div>
 

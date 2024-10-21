@@ -1,7 +1,7 @@
 ---
 title: Creating Captivating Presentations Through the Magic of ChatGPT
-date: 2024-10-13T19:50:27.853Z
-updated: 2024-10-15T12:35:05.623Z
+date: 2024-10-15T18:43:42.493Z
+updated: 2024-10-20T22:13:41.092Z
 tags:
   - chatgpt
   - open-ai
@@ -58,6 +58,19 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 
  If you want to make the whole process even easier and don't feel like editing the AI-generated text yourself, you can use yet another [AI writing tool](https://www.makeuseof.com/ai-writing-tools/) to edit ChatGPT's output.
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Install SlidesAI for Google Slides
 
  After generating the text for your presentation, the next step is to install [SlidesAI for Google Slides](https://workspace.google.com/marketplace/app/slidesaiio%5Fcreate%5Fslides%5Fwith%5Fai/904276957168). You can do this through the Google Slides add-ons store.
@@ -73,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Compile the Presentation With SlidesAI
 
  With SlidesAI installed, you can now begin creating your presentation. You can do this in the same blank presentation you made in the previous step. SlidesAI will automatically add new slides and fill them with appropriate content.
@@ -89,15 +95,22 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under **Enter text**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
 6. Check **Replace Existing Slides**.
 7. Go to the **Themes** tab and select a style.  
@@ -108,14 +121,14 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Add the Finishing Touches and Export the Presentation
 
@@ -124,16 +137,10 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 ![The Magic Write tool in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-magic-write.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There's a chance that SlidesAI adds irrelevant images to some slides. In that case, you can replace the image with SlideAI's Magic Write tool. This feature considers the slide's content and suggests relevant stock photos.
@@ -148,10 +155,10 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to **File > Download** and then select **Microsoft PowerPoint**.
@@ -183,24 +190,22 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-5-rapid-steps-unearthing-disappeared-reddit-posts/"><u>[New] 5 Rapid Steps Unearthing Disappeared Reddit Posts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-shut-down-instagram-suggestions-for-2024/"><u>[Updated] Shut Down Instagram Suggestions for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-apple-iphone-8-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the Apple iPhone 8 iCloud Lock</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/accelerate-your-websites-videos-top-tips-for-quick-and-efficient-compression-strategies/"><u>Accelerate Your Website's Videos: Top Tips for Quick and Efficient Compression Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoid-deception-true-tales-of-tech-and-false-fakes/"><u>Avoid Deception: True Tales of Tech & False Fakes</u></a></li>
-<li><a href="https://solve-news.techidaily.com/converteren-van-mode-naar-wmv-vrije-en-gratis-service-online-movavi/"><u>Converteren Van MODE Naar WMV - Vrije en Gratis Service Online - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-prompt-injection-in-ai-understanding-its-working-mechanism/"><u>Decoding Prompt Injection in AI - Understanding Its Working Mechanism</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-limitless-imagination-with-dall-e-3-bing/"><u>Discover Limitless Imagination with DALL-E 3 (Bing)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eliminating-faults-the-six-no-goes-of-ai-chatting/"><u>Eliminating Faults: The Six No-Goes of AI Chatting</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/evaluating-the-financial-returns-for-makers-on-youtube-shorts-for-2024/"><u>Evaluating the Financial Returns for Maker's on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-gt-3-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme GT 3 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instantaneous-itinerary-blueprints-the-finest-selection-of-7-budget-friendly-apps/"><u>Instantaneous Itinerary Blueprints – The Finest Selection of 7 Budget-Friendly Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/language-assistants-in-the-workplace-freelancers-choicebing-chat-or-chatgpt/"><u>Language Assistants in the Workplace: Freelancer's Choice—Bing Chat or ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-client-results-with-ai-driven-planning/"><u>Maximizing Client Results with AI-Driven Planning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/my-ai-assisted-adventure-in-podcast-scripting/"><u>My AI-Assisted Adventure in Podcast Scripting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-closer-insight-in-roblox-games/"><u>The Ultimate Guide to Closer Insight in Roblox Games</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/top-10-speedy-solutions-resolve-undetected-yet-spinning-hard-drive-issues/"><u>Top 10 Speedy Solutions: Resolve Undetected, Yet Spinning Hard Drive Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/venturing-into-the-realm-of-engaging-interactive-systems/"><u>Venturing Into the Realm of Engaging Interactive Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-the-landscape-of-ps3-capture-software/"><u>[New] 2024 Approved Navigating the Landscape of PS3 Capture Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-youtube-videos-without-spending-a-penny-the-best-tools-for-2024/"><u>[New] Elevate Your YouTube Videos Without Spending a Penny - The Best Tools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-vivid-visuals-unveiled-a-thorough-review-of-hp-envy-27-for-2024/"><u>[New] Vivid Visuals Unveiled A Thorough Review of HP Envy 27 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-tech-titans-sharexs-challengers-exposed-for-2024/"><u>[Updated] Tech Titans ShareX's Challengers Exposed for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-deception-recognize-the-scams/"><u>ChatGPT Deception: Recognize the Scams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-codegpt-real-world-coding-capabilities/"><u>Delving Into CodeGPT: Real-World Coding Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-dialogue-with-artificinas-our-top-5-ai-tools-for-prompts/"><u>Enhancing Dialogue with Artificinas: Our Top 5 AI Tools for Prompts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-music-on-the-go-agptek-a01t-review/"><u>Exploring Music on the Go: AGPTEK A01T Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-variety-a-comprehensive-guide-on-contrasting-video-formats-gadgets-and-beyond/"><u>Exploring the Variety: A Comprehensive Guide on Contrasting Video Formats, Gadgets & Beyond</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-itel-p40-devices-by-drfone-android/"><u>How to Reset Gmail Password on Itel P40 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-apples-enhanced-logic-pro-ai-powered-virtual-bandmates-for-ipad-and-mac-explore-the-future-of-music-creation/"><u>Introducing Apple's Enhanced Logic Pro: AI-Powered Virtual Bandmates for iPad & Mac - Explore the Future of Music Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-secrets-safe-in-custom-gpt-environments/"><u>Keeping Secrets Safe in Custom GPT Environments</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/master-top-rated-task-automation-with-microsoft-get-started-on-presidents-day-special-at-just-20-exclusive-offer/"><u>Master Top-Rated Task Automation with Microsoft: Get Started on President's Day Special at Just $20 - Exclusive Offer!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergizing-ai-and-messaging-for-excellent-support/"><u>Synergizing AI and Messaging for Excellent Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-duel-of-data-and-discourse-mistral-versus-gpt-3/"><u>The Duel of Data and Discourse: Mistral Versus GPT-3</u></a></li>
+<li><a href="https://facebook.techidaily.com/twitter-reanimation-trump-by-meta/"><u>Twitter Reanimation: Trump by Meta</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-ipad-air-outshines-the-ipad-pro-in-this-review-insider-tips-and-thoughts-from-zdnet/"><u>Why the iPad Air Outshines the iPad Pro in This Review - Insider Tips and Thoughts From ZDNet</u></a></li>
 </ul></div>
 

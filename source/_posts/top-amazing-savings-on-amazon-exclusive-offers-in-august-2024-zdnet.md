@@ -1,7 +1,7 @@
 ---
 title: Top Amazing Savings on Amazon - Exclusive Offers in August 2024 | ZDNet
-date: 2024-10-10T23:42:13.759Z
-updated: 2024-10-14T20:25:48.103Z
+date: 2024-10-15T03:39:47.176Z
+updated: 2024-10-20T23:03:46.735Z
 tags:
   - apple
 categories:
@@ -38,10 +38,10 @@ Jason Hiner/ZDNET
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,300 (save $500)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Amazon tech deals
@@ -57,13 +57,6 @@ Jason Hiner/ZDNET
 * [Bose QuietComfort Wireless Headphones](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-QuietComfort-Cancelling-Headphones-Bluetooth%2Fdp%2FB0D4Z9BZV2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $249 (save $100)
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $50 (save $50)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Amazon TV deals
 
 Jason Hiner/ZDNET
@@ -74,13 +67,6 @@ Jason Hiner/ZDNET
 * [Samsung 55-inch QLED 4K The Terrace TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-55-inch-Terrace-Outdoor-Built%2Fdp%2FB089B5X28G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $2,498 (save $1,002)
 * [Sony 65-inch OLED 4K Ultra Bravia 8 TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-Exclusive-Features-PlayStation-K-65XR80%2Fdp%2FB0CVQ6YLH7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,1998 (save $502)
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,197 (save $203)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best Amazon robot vacuum deals
 
@@ -93,6 +79,13 @@ Maria Diaz/ZDNET
 * [Eufy L60 Robot Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Feufy-Vacuum-Suction-Navigation-Cleaning%2Fdp%2FB0CDB56ZWV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $200 (save $80 with on-page coupon)
 * [Roborock S8 Pro Ultra Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $950 (save $650)
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $320 (save $280)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best Amazon home deals
 
@@ -116,15 +109,22 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -174,16 +174,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-instagram-live-guide-conversation-tools-unveiled/"><u>[New] In 2024, The Instagram Live Guide Conversation Tools Unveiled</u></a></li>
-<li><a href="https://win-blog.techidaily.com/decoding-wsappx-tips-for-managing-surge-in-storage-and-processor-utilization-on-your-device/"><u>Decoding WSAPPX: Tips for Managing Surge in Storage and Processor Utilization on Your Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-enrollment-register-for-chatgpt-and-telegram-quickly/"><u>Easy Enrollment: Register for ChatGPT and Telegram Quickly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-the-chatgpt-api/"><u>How to Use the ChatGPT API</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-lenovo-thinkphone-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Lenovo ThinkPhone to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-k11x-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo K11x to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-guide-to-perfect-gopro-videos/"><u>In 2024, Step-by-Step Guide to Perfect GoPro Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mistrust-in-zerogpt-when-detectors-are-blinded/"><u>Mistrust in ZeroGPT: When Detectors Are Blinded</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-inactive-graphics-card-not-found/"><u>Screen Inactive: Graphics Card Not Found</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/turings-gambit-seeking-artificial-superiority/"><u>Turing's Gambit: Seeking Artificial Superiority</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-disable-auditory-output-and-insert-novel-audio-elements-in-microsofts-video-creator/"><u>Updated In 2024, Disable Auditory Output & Insert Novel Audio Elements in Microsofts Video Creator</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-6-fixes-for-hogwarts-legacy-stuttering-2024/"><u>[SOLVED] 6 Fixes for Hogwarts Legacy Stuttering 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-instagrams-premier-status-6-practical-steps-for-enthusiasts/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Instagram's Premier Status 6 Practical Steps For Enthusiasts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-content-control-muting-followers-for-2024/"><u>[Updated] Mastering Content Control Muting Followers for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/captivating-tiktok-frames-creative-ideas-for-profile-standout/"><u>Captivating TikTok Frames Creative Ideas for Profile Standout</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-beatit-bt-d11-portable-charger-powerful-performance-unveiled/"><u>Expert Analysis of the Beatit BT-D11 Portable Charger: Powerful Performance Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-multiple-firefox-issues-a-fresh-start-guide-insights-from-zdnet/"><u>Fixing Multiple Firefox Issues: A Fresh Start Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/four-effective-strategies-small-enterprises-can-use-to-secure-additional-support/"><u>Four Effective Strategies Small Enterprises Can Use To Secure Additional Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-enabling-safaris-default-tab-opening-setting-tips-from-zdnet/"><u>Guide: Enabling Safari's Default Tab Opening Setting – Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-setting-up-your-chromebook-with-a-wireless-network-printer-easy-steps-from-zdnet/"><u>Guide: Setting Up Your Chromebook with a Wireless Network Printer – Easy Steps From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-find-n3-flip-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo Find N3 Flip Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-safeguard-personal-information-expert-tips-for-securing-browsing-activity-as-recommended-by-zdnet/"><u>How to Safeguard Personal Information: Expert Tips for Securing Browsing Activity, as Recommended by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-hybrid-work-pitfalls-proven-techniques-for-sustaining-effective-remote-and-office-integration-expert-advice-from-zdnet/"><u>Navigating Hybrid Work Pitfalls: Proven Techniques for Sustaining Effective Remote and Office Integration | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-s-best-video-merging-and-collage-apps-for-iphone-and-ipad-users/"><u>New In 2024, S Best Video Merging and Collage Apps for iPhone and iPad Users</u></a></li>
+<li><a href="https://discover-community.techidaily.com/the-ultimate-guide-converting-dvds-into-mp4-files-on-windows-11-and-macos-top-10-techniques/"><u>The Ultimate Guide: Converting DVDs Into MP4 Files on Windows 11 and macOS – Top 10 Techniques</u></a></li>
 </ul></div>
 

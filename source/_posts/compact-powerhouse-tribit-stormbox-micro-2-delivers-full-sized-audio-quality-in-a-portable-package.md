@@ -1,7 +1,7 @@
 ---
 title: "Compact Powerhouse: Tribit StormBox Micro 2 Delivers Full-Sized Audio Quality in a Portable Package"
-date: 2024-09-17 19:38:13
-updated: 2024-09-20 11:13:41
+date: 2024-10-17T01:15:57.224Z
+updated: 2024-10-20T19:17:46.865Z
 tags:
   - speakers
 categories:
@@ -55,11 +55,32 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-precision-viewing-top-5-gaming-displays-with-hdmi-21-support-ps5/"><u>[New] In 2024, Precision Viewing Top 5 Gaming Displays with HDMI 2.1 Support [PS5]</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-mastering-video-sharing-understanding-vimeo-membership-plans/"><u>[Updated] 2024 Approved Mastering Video Sharing Understanding Vimeo Membership Plans</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-8-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 8 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-an-effective-programmers-showcase-a-step-by-step-guide/"><u>Creating an Effective Programmer's Showcase: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/garrys-mod-crashes-no-more-updated-fix-guide-for-gamers/"><u>Garry's Mod Crashes No More - Updated Fix Guide for Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-remote-work-revolutionizes-office-dynamics-stay-alert-zdnet/"><u>How Remote Work Revolutionizes Office Dynamics - Stay Alert! | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-m6-pro-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco M6 Pro 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-6-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 6 without App | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-strategies-and-pitfalls-in-crafting-an-unforgettable-cybersecurity-cv-insights-from-zdnet/"><u>Key Strategies & Pitfalls in Crafting an Unforgettable Cybersecurity CV - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-your-pathway-into-apple-expert-strategies-and-confidential-guide/"><u>Mastering Your Pathway Into Apple: Expert Strategies and Confidential Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overwhelmed-by-tasks-learn-how-to-supercharge-your-workflow-using-the-pomodoro-technique-zdnet/"><u>Overwhelmed by Tasks? Learn How to Supercharge Your Workflow Using the Pomodoro Technique | ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

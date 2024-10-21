@@ -1,7 +1,7 @@
 ---
 title: Concerned About the Rise of 'Quiet Quitting'? Essential Do's & Don'ts to Prevent Workplace Issues | ZDNet
-date: 2024-09-18 12:19:39
-updated: 2024-09-20 12:56:59
+date: 2024-10-17T18:31:55.655Z
+updated: 2024-10-20T23:24:10.422Z
 tags:
   - professional-development
 categories:
@@ -35,9 +35,29 @@ Uncontrollable life factors often affect our workday, like sick children or car 
 
 "You know what, that's life," Deal says. "So, leaders \[need\] to model: 'I'm taking my child to soccer practice, I'll be back later. That gives people permission to say, 'This is okay.'"
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **DO: Allow your employees to create boundaries around communication at work**
 
 The lines between work and personal life have always blurred, even before remote and hybrid work became the norm. Being able to take work everywhere – and having colleagues that can contact you at any hour – can add to the stresses of work.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### More about remote work
 
@@ -52,6 +72,13 @@ This sentiment is particularly true for companies that have employees working ac
 Encourage direct messaging platforms for informal but essential messages, and emails for formal and less urgent messages. It's also good for employees to snooze notifications after a specific time, and – for example – to snooze Slack or other notifications during meetings to alleviate the pressure to respond immediately. 
 
 "One thing, a very simple thing, people put in their email, 'I may send things during this time, it doesn't mean I expect a response,'" Deal says. "Be really clear with people. Because quiet quitting is not about quitting; it's about doing a reasonable amount of work. Help people to find what reasonable is."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **DON'T: Lose contact with former employees**
 
@@ -78,6 +105,13 @@ Contrary to popular belief, it's not up to middle managers alone to resolve quie
 At it's worst, managers who aren't supported may [ignore struggling employees, which means quiet quitting and quiet firing happen at the same time](https://www.zdnet.com/education/professional-development/move-over-quiet-quitting-quiet-firing-is-the-new-trending-topic-in-the-workplace/). That combination creates a miserable cycle, which doesn't solve any problems and creates new ones.
 
 "Managers are also quiet quitting," Deal says. "Putting that burden on managers to fix it for employees is a little bit dangerous because you're just overburdening a group that's also struggling."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **DO: Invest in company culture and new human resources initiatives**
 
@@ -108,11 +142,28 @@ Deal suggests investing in opportunities for employees to connect outside the of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>[New] 2024 Approved Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-laughter-library-selecting-witty-content-for-short-youtube-videos/"><u>[New] Laughter Library Selecting Witty Content for Short YouTube Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-investigating-unmodified-audio-from-ffmpeg-output/"><u>[Updated] 2024 Approved Investigating Unmodified Audio From FFmpeg Output</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-craft-professional-episodes-a-comprehensive-guide-to-editing-in-garageband/"><u>[Updated] Craft Professional Episodes A Comprehensive Guide to Editing in GarageBand</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-transform-healthcare/"><u>Can ChatGPT Transform Healthcare?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-rising-the-transformation-of-digital-storytelling/"><u>Chatbots Rising: The Transformation of Digital Storytelling</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/comment-copying-disk-c-from-os-to-storage-on-ssdhdd-in-windows-11-10-8-or-7/"><u>Comment Copying Disk C From OS to Storage on SSD/HDD in Windows 11, 10, 8 or 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/disabling-recording-privacy-focused-tips-for-chatgpt-users/"><u>Disabling Recording: Privacy-Focused Tips for ChatGPT Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-mot3/"><u>MP4への変換: MOT制作者が気になる3つの無料ツール</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-advice-superior-iphone-audio-artists/"><u>Premier Advice Superior iPhone Audio Artists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-tasks-with-7-chatgpt-tips-for-optimal-output/"><u>Streamline Tasks with 7 ChatGPT Tips for Optimal Output</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-sites-to-download-copyright-free-meditation-music/"><u>Top 10 Sites to Download Copyright-Free Meditation Music</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-web-designs-using-ai-chatgpt-guide/"><u>Unlocking Potential Web Designs Using AI: ChatGPT Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-top-5-non-commercial-art-influencers/"><u>Unveiling Top 5 Non-Commercial Art Influencers</u></a></li>
+</ul></div>
+

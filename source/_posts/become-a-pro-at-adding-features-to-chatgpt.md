@@ -1,7 +1,7 @@
 ---
 title: Become a Pro at Adding Features to ChatGPT
-date: 2024-10-14T11:12:54.044Z
-updated: 2024-10-15T02:19:42.361Z
+date: 2024-10-17T17:38:20.659Z
+updated: 2024-10-21T00:10:10.558Z
 tags:
   - chatgpt
   - open-ai
@@ -43,16 +43,10 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -60,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can [sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on **Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -76,10 +70,16 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 4. Click **Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -107,16 +107,21 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-snappy-sharing-uploading-and-publishing-short-videos-online-for-2024/"><u>[Updated] Snappy Sharing Uploading and Publishing Short Videos Online for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/adding-depth-to-narratives-through-b-clips/"><u>Adding Depth to Narratives Through B-Clips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/correcting-inconsistent-web-browsing-data-in-iphones-screen-time-feature/"><u>Correcting Inconsistent Web Browsing Data in iPhone's Screen Time Feature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-interaction-top-9-upgrade-tips-to-chatgptplus/"><u>Enhance Interaction: Top 9 Upgrade Tips to ChatGPT+</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-f54-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy F54 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-nokia-c12-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Nokia C12 Location | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/launch-a-cost-free-windows-gpt-simulator-with-gpt4all/"><u>Launch a Cost-Free Windows GPT Simulator with GPT4All</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-4-techniques-for-reading-pdfs/"><u>Mastering ChatGPT: 4 Techniques for Reading PDFs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-job-search-with-chatgpt-expertise/"><u>Optimizing Job Search with ChatGPT Expertise</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-making-youtube-based-twitter-videos-hearable/"><u>[New] 2024 Approved Making YouTube-Based Twitter Videos Hearable</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-reasons-for-unexpected-cut-off-in-imovie/"><u>[New] 2024 Approved Reasons for Unexpected Cut-Off in iMovie</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-turn-your-instagram-footage-backwards-easily/"><u>[Updated] In 2024, Turn Your Instagram Footage Backwards Easily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-photos-create-masterpieces-with-leading-apps/"><u>2024 Approved Transform Photos, Create Masterpieces with Leading Apps</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/android-mastery-instantly-add-apps-directly-from-your-computer-with-a-simple-tap/"><u>Android Mastery: Instantly Add Apps Directly From Your Computer with a Simple Tap!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-the-trap-of-false-promises-in-binggpt-crypto/"><u>Avoiding the Trap of False Promises in BingGPT Crypto</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-video-calls-uncompromising-security-and-ease-for-startups/"><u>Best Video Calls Uncompromising Security & Ease for Startups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cybercriminals-and-ai-using-gpt-to-compromise-your-finances/"><u>Cybercriminals and AI: Using GPT to Compromise Your Finances</u></a></li>
+<li><a href="https://win-blog.techidaily.com/darkening-gridlines-easily-with-microsoft-excel/"><u>Darkening Gridlines Easily with Microsoft Excel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-ai-with-efficient-vector-database-architecture/"><u>Enhancing AI with Efficient Vector Database Architecture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-essay-writing-via-chatgpt/"><u>Enhancing Essay Writing via ChatGPT</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12r-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12R PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-the-chatgpt-widget-on-android/"><u>How to Use the ChatGPT Widget on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-resource-for-toms-computing-and-gear-tests/"><u>The Ultimate Resource for Tom's Computing and Gear Tests</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-chatbots-in-human-like-discussions/"><u>Understanding Chatbots in Human-Like Discussions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/virtual-cam-tech-made-simple-discover-manycam-for-seamless-live-video-broadcasting-and-online-presence/"><u>Virtual Cam Tech Made Simple: Discover ManyCam for Seamless Live Video Broadcasting and Online Presence</u></a></li>
 </ul></div>
 

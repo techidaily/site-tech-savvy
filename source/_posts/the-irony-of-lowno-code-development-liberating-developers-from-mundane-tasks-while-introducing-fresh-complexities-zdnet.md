@@ -1,7 +1,7 @@
 ---
 title: "The Irony of Low/No-Code Development: Liberating Developers From Mundane Tasks While Introducing Fresh Complexities | ZDNet"
-date: 2024-09-18 23:21:47
-updated: 2024-09-20 11:38:37
+date: 2024-10-14T20:42:44.271Z
+updated: 2024-10-20T19:35:28.845Z
 tags:
   - professional-development
 categories:
@@ -86,11 +86,46 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-rank-the-best-7-android-friendly-adblockers-reviewed/"><u>[New] Rank the Best 7 Android-Friendly AdBlockers Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-revolutionize-your-teams-productivity-with-these-tools/"><u>[Updated] 2024 Approved Revolutionize Your Team's Productivity with These Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-analysis-the-best-webcam-videotaping-tools-for-2024/"><u>[Updated] Expert Analysis The Best WebCam Videotaping Tools for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-guide-to-virtual-reality-gaming-gear/"><u>2024 Approved Ultimate Guide to Virtual Reality Gaming Gear</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-banners-makers-10plus-online-tools-to-create-channel-art/"><u>2024 Approved Youtube Banners Makers 10+ Online Tools to Create Channel Art</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/big-names-in-tech-shaping-the-future-of-ai/"><u>Big Names in Tech: Shaping the Future of AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detailed-comparison-auto-gpt-vs-chatgpt-unveiling-technological-nuances/"><u>Detailed Comparison: Auto-GPT vs ChatGPT – Unveiling Technological Nuances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gateway-to-anywheres-gpt-chatgpt-everywhere/"><u>Gateway to Anywhere's GPT: ChatGPT Everywhere</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-poco-x6-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Poco X6 to iPod | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-bot-discussions-private-and-safe/"><u>Keep Bot Discussions Private & Safe</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-revolutionary-tool-explained/"><u>OpenAI's Revolutionary Tool Explained</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/professional-recording-setup-simplified-the-incredible-tascam-cd-200bt-reviewed/"><u>Professional Recording Setup Simplified: The Incredible Tascam CD-200BT Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speculating-on-language-models-the-future-of-gpt-5/"><u>Speculating on Language Models: The Future of GPT-5?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-sharing-your-favorite-titles-on-the-steam-platform/"><u>Step-by-Step Guide: Sharing Your Favorite Titles on the Steam Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-voice-for-chatgpt-responsive-to-every-prompt/"><u>Transformative Voice for ChatGPT: Responsive to Every Prompt</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-fake-tech-real-versus-sham-chatgpt-tools/"><u>Unraveling Fake Tech: Real Versus Sham ChatGPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gpts-shortcomings-8-key-problems/"><u>Unveiling GPT's Shortcomings: 8 Key Problems</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer/"><u>Updated 2024 Approved Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

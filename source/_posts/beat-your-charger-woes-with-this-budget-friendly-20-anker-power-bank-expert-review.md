@@ -1,7 +1,7 @@
 ---
 title: Beat Your Charger Woes with This Budget-Friendly $20 Anker Power Bank - Expert Review
-date: 2024-10-08T10:46:44.991Z
-updated: 2024-10-15T10:13:01.675Z
+date: 2024-10-19T22:18:23.863Z
+updated: 2024-10-21T01:02:00.744Z
 tags:
   - apple
 categories:
@@ -38,6 +38,13 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 Lipstick-sized charger
 
@@ -53,13 +60,6 @@ To use the charger, all you have to do is flip the USB-C port up and let it hang
 
 With such a small form factor, you would think its charging power would be compromised. However, that was far from my experience. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Impressive charging power for its size
 
 The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-pro-hands-on-review/) to 68%, according to Anker. In my experience, it charged my Samsung Z Flip 4 from zero to 30% in half an hour. 
@@ -69,10 +69,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -88,10 +88,10 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -99,10 +99,10 @@ The charger comes in five colors: blue, black, white, green, and pink, matching 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://www.amazon.com/dp/B0C6XK77HJ?tag=zdnet-buy-button-20) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -139,22 +139,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-direct-comparison-weighing-obs-against-twitch-channel-space/"><u>[Updated] 2024 Approved Direct Comparison Weighing OBS Against Twitch Channel Space</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-becoming-a-leader-in-the-world-of-design-work/"><u>[Updated] Becoming a Leader in the World of Design Work</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-power-of-tags-boost-traffic-with-top-genres-and-keywords/"><u>[Updated] The Power of Tags Boost Traffic with Top Genres & Keywords</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-free-minecraft-youtube-banners-with-templates/"><u>2024 Approved Free Minecraft YouTube Banners with Templates</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-innovative-approaches-to-android-video-capture/"><u>2024 Approved Innovative Approaches to Android Video Capture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-for-starters-join-the-discussion-in-these-9-spaces/"><u>AI for Starters: Join the Discussion in These 9 Spaces</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/auditory-equipment-what-to-watch-out-for/"><u>Auditory Equipment: What to Watch Out For</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-the-progress-from-gpt-1-to-gpt-4/"><u>Charting the Progress: From GPT-1 to GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-the-mindful-soul-developing-regular-rituals/"><u>ChatGPT for the Mindful Soul: Developing Regular Rituals</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-ussd-a-detailed-guide-to-unstructured-supplementary-service-communication/"><u>Decoding USSD: A Detailed Guide to Unstructured Supplementary Service Communication</u></a></li>
-<li><a href="https://fox-http.techidaily.com/extensive-analysis-djis-latest-uav-inspire-1-for-2024/"><u>Extensive Analysis DJI's Latest UAV, Inspire 1 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-do-ai-chatbots-filter-language-and-what-it-means-for-users/"><u>How Do AI Chatbots Filter Language and What It Means for Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pocket-computer-mastery-minisforums-s10n-with-intel-core-i7-alder-lake-n-processor-and-advanced-connectivity-options/"><u>Pocket Computer Mastery: Minisforum's S10n with Intel Core I7-Alder Lake N Processor and Advanced Connectivity Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preventing-ai-forgery-the-artists-nightshade-approach/"><u>Preventing AI Forgery: The Artist's Nightshade Approach</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seeking-anonymity-for-chatgpt-vpn-applicability/"><u>Seeking Anonymity for ChatGPT: VPN Applicability?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/simplified-guide-a-step-by-step-process-of-transferring-audiobooks-from-audible-to-your-compact-disc/"><u>Simplified Guide: A Step-by-Step Process of Transferring Audiobooks From Audible to Your Compact Disc</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-speeches-with-these-7-ai-innovators/"><u>Streamlining Speeches with These 7 AI Innovators</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cut-costs-improve-videos-learn-free-vimeo-editing-for-2024/"><u>[Updated] Cut Costs, Improve Videos Learn Free Vimeo Editing for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-maximizing-view-count-secrets-to-staff-picks-on-vimeo-for-2024/"><u>[Updated] Maximizing View Count Secrets to Staff Picks on Vimeo for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-optimal-video-player-best-availability-on-multiple-systems-for-2024/"><u>[Updated] Optimal Video Player Best Availability on Multiple Systems for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-for-transforming-twitter-vids-to-mp3-audios/"><u>2024 Approved Techniques for Transforming Twitter Vids to MP3 Audios</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722884485536-decoding-the-mystery-of-emojis-10-shocking-facts-revealed/"><u>Decoding the Mystery of Emojis: 10 Shocking Facts Revealed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fall-update-exciting-new-capabilities-announced-for-select-apple-airpod-models-detailed-review-by-techradar/"><u>Fall Update: Exciting New Capabilities Announced for Select Apple AirPod Models - Detailed Review by TechRadar</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/flac-and-m4amovavi/"><u>FLAC & M4Aファイルを問わず、ワンクリックで変換！Movaviの無料ダウンロード</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/game-changing-hud-in-action-my-journey-biking-with-photochromic-glasses-reviewed/"><u>Game-Changing HUD in Action: My Journey Biking with Photochromic Glasses Reviewed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/journey-through-genres-top-5-apps-using-artificial-intelligence-for-reading/"><u>Journey Through Genres: Top 5 Apps Using Artificial Intelligence for Reading</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pros-and-cons-of-iphone-16-pro-vs-iphone-14-pro-making-an-informed-choice-for-your-next-smartphone-purchase/"><u>Pros and Cons of iPhone 16 Pro vs iPhone 14 Pro: Making an Informed Choice for Your Next Smartphone Purchase</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/should-users-treat-conversational-agents-like-chatgpt-alexa-and-siri-with-respectful-manners/"><u>Should Users Treat Conversational Agents Like ChatGPT, Alexa, and Siri with Respectful Manners?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-workflows-dive-into-8-customized-ai-models/"><u>Transform Workflows: Dive Into 8 Customized AI Models</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-commercial-potential-with-artificial-intelligence-in-document-management-spotlight-on-abys-presentation-san-francisco-summit/"><u>Unlocking Commercial Potential with Artificial Intelligence in Document Management – Spotlight on ABY's Presentation, San Francisco Summit</u></a></li>
 </ul></div>
 

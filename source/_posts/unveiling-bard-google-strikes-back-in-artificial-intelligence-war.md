@@ -1,7 +1,7 @@
 ---
 title: "Unveiling 'Bard': Google Strikes Back in Artificial Intelligence War"
-date: 2024-10-09T21:21:37.432Z
-updated: 2024-10-14T18:02:30.736Z
+date: 2024-10-19T18:19:30.819Z
+updated: 2024-10-21T02:37:10.545Z
 tags:
   - chatgpt
   - open-ai
@@ -39,15 +39,22 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
  Unlike ChatGPT, Sundar Pichai explained that Bard will initially only be available to a few trusted testers, with plans to scale to more users. The announcement also showcased what the initial release would look like with several examples—some of which look strikingly similar to what ChatGPT would do. So, is Bard going to be just another ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Google Bard Could Be Better Than ChatGPT
 
 ![An illustration of an AI bot performing meeting analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/AI-Meeting-Assistant-for-Online-Meetings-Featured-Image.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT was released on November 30, 2022, after a lengthy development period. The entire development process, including the base technology that powers it, spanned several years. At first glance, this would mean Google had less than three months to build a product to rival ChatGPT, a product built on years of evolving technology.
 
@@ -62,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
  In simpler terms, this would mean Google's Bard would be able to provide fresh, up-to-date responses while ChatGPT would, unfortunately, be limited to information relating to events, not beyond 2021 (ChatGPT's current data training cut-off).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Will Google Bard Work?
@@ -75,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
  However, in typical Google fashion, Google will almost certainly push to deeply integrate Bard into most of its products, including Google Search, akin to what Microsoft is trying to do with Bing and other Microsoft products using ChatGPT technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Google's Bard Demonstration Features Factual Issues
@@ -86,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
  But despite the interest and understandable hype with Google's Bard announcement, its first demonstration didn't go well. Eagle-eyed astronomers quickly pointed out that at least one of the "facts" delivered by Bard was completely wrong. For example, Bard stated that the James Webb Space Telescope "took the very pictures of a planet outside of our own solar system," but the European Very Large Telescope accomplished that accolade in 2004.
 
  Bard is still in its very early stages, but its false statement was a clear indicator of the issues of integrating conversational AI technology deeper into general internet search, where many will trust what is written.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will Google's Bard AI Be Better Than ChatGPT?
 
@@ -115,24 +115,18 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-strategies-for-keeping-your-youtube-video-under-cc-accessible/"><u>[New] 2024 Approved Strategies for Keeping Your YouTube Video Under CC Accessible</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unveiling-recmeisters-high-quality-screen-recording-capabilities/"><u>[New] 2024 Approved Unveiling Recmeister's High-Quality Screen Recording Capabilities</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-ideas-and-visuals-a-guide-to-using-chatgpt-for-scripts/"><u>Bridging Ideas and Visuals - A Guide to Using ChatGPT for Scripts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cryptocurrency-crusaders-guide-top-5-ai-trading-tips/"><u>Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-youtubes-clandestine-content-with-orderliness/"><u>Decoding YouTube's Clandestine Content with Orderliness</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/device-based-learning-techniques-unveiled-an-explanation/"><u>Device-Based Learning Techniques Unveiled: An Explanation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embracing-ai-the-ultimate-guide-for-teachers-8-reasons/"><u>Embracing AI: The Ultimate Guide for Teachers (8 Reasons)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-realm-of-specific-instructions-in-gpt-3-dialogues/"><u>Exploring the Realm of Specific Instructions in GPT-3 Dialogues</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-vimeo-vs-youtube-which-is-better/"><u>In 2024, Vimeo vs YouTube Which Is Better?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-6-strategies-for-an-excellent-dandd-guide/"><u>Mastering ChatGPT: 6 Strategies for an Excellent D&D Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-writing-hurdles-in-corporate-memos-aided-by-gpt/"><u>Overcoming Writing Hurdles in Corporate Memos, Aided by GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-essentials-for-elevating-ai-responses-with-chatgpt-prompts/"><u>Top 5 Essentials for Elevating AI Responses with ChatGPT Prompts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-your-videos-instantly-upload-mov-download-as-mp4-for-free-using-movavi-video-converter/"><u>Transform Your Videos Instantly - Upload MOV, Download as MP4 for Free Using Movavi Video Converter!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-storytelling-gopro-quik-video-editing-essentials-for-macbook/"><u>Updated Elevate Your Storytelling GoPro Quik Video Editing Essentials for MacBook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/your-ai-education-begins-here-engage-with-our-top-9-groups/"><u>Your AI Education Begins Here: Engage With Our Top 9 Groups</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-master-of-mayhem-top-10-roguelites-for-2024/"><u>[New] Master of Mayhem Top 10 Roguelites for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-screencast-software-on-the-market-bandicam-vs-camtasia/"><u>[Updated] Top Screencast Software on the Market Bandicam Vs. Camtasia</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unveiling-the-basics-of-vlogging-gear-and-software/"><u>2024 Approved Unveiling the Basics of Vlogging Gear & Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerate-image-enhancement-top-15-pixlr-tips-for-speed-and-efficiency/"><u>Accelerate Image Enhancement Top 15 Pixlr Tips for Speed and Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-apples-airpods-pro-launched-still-a-top-choice-for-audio-enthusiasts-insights-from-tech-experts-on-zdnet/"><u>Are Apple's AirPods Pro, Launched , Still a Top Choice for Audio Enthusiasts? Insights From Tech Experts on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-ai-conversational-capabilities-gpt-vs-huggingface/"><u>Assessing AI Conversational Capabilities: GPT Vs HuggingFace</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/building-a-channel-team-up-videography-guide-for-2024/"><u>Building a Channel Team-Up Videography Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exposing-the-risks-of-fraudgpt-how-to-fortify-digital-spaces/"><u>Exposing the Risks of FraudGPT: How to Fortify Digital Spaces</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/getting-acclimated-to-using-llama-2-for-professional-growth/"><u>Getting Acclimated to Using Llama 2 for Professional Growth</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-13-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 13 without Passcode or Face ID</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-175-beta-2-enables-apple-devices-to-install-desktop-apps-directly-learn-how-zdnet/"><u>IOS 17.5 Beta 2 Enables Apple Devices to Install Desktop Apps Directly - Learn How! | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-mobile-photography-how-apples-iphone-16-now-matches-up-with-google-lens-capabilities-insights-analysis/"><u>Revolutionizing Mobile Photography: How Apple's iPhone 16 Now Matches Up with Google Lens Capabilities, Insights Analysis</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-solution-for-sword-and-fairy-7-gameplay-interruptions-on-desktop-computers/"><u>Ultimate Solution for Sword & Fairy 7 Gameplay Interruptions on Desktop Computers</u></a></li>
 </ul></div>
 

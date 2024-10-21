@@ -1,7 +1,7 @@
 ---
 title: "AI Image Magic: Harnessing the Potential of GPT-4 & DALL-E"
-date: 2024-10-08T12:08:01.877Z
-updated: 2024-10-15T11:01:41.279Z
+date: 2024-10-18T02:53:07.928Z
+updated: 2024-10-20T23:26:50.513Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 * [How to Use DALL-E in a ChatGPT Chat](https://zonlipartnershipprogram.pxf.io/b0rbxy)
 * [How to Use DALL-E in the ChatGPT App](https://electronicx.pxf.io/xkwqkk)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * OpenAI has integrated DALL-E, its AI image generation tool, into ChatGPT's chats, allowing users to generate images by prompting the system.
@@ -47,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 
  While prompting may be easy enough, we’ll show you how to know what GPTs in ChatGPT support DALL-E’s image generation. We’ll also tell you how to prompt ChatGPT to generate images when and how you want.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Sign Up for ChatGPT Plus to Access DALL-E
 
  DALL-E’s image generation features on ChatGPT are locked behind OpenAI’s ChatGPT Plus (and Team) subscription. It’s just one of the many [reasons you should consider upgrading to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/). GPT-3.5 doesn’t have embedded image generation abilities, and you’ll be unable to access GPTs with DALL-E’s capabilities.
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 2. Click the **Upgrade plan** button in the bottom-left corner of the side panel, just above your name.  
 ![ChatGPT upgrade plan window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-02-26-am.png)
 3. Choose **Upgrade to Plus** (or **Upgrade to Team**).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Fill in your payment information and click **Subscribe**.
 
@@ -83,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 4. Feel free to use follow-up prompts to improve the image to get it exactly how you want.  
 ![ChatGPT generating an image in a different style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-08-39-am.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can download the image by clicking it and hitting the download button in the window's top-right corner.
 
  If you don’t want to use ChatGPT 4, you can use a dedicated DALL-E chat. Click **Explore** or **Explore GPTs** on the left-side menu. Look for **DALL-E** in the **By ChatGPT** section and click it. You can now follow the same instructions outlined above, or you can follow [this link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) to open a DALL-E chat.
@@ -93,30 +93,24 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 
 ![ChatGPT menu in the mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0104.PNG)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Choosing what GPT mode to use in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0105.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![ChatGPT generating an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0106.PNG)
 
 ![ChatGPT reworking an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0107.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -152,21 +146,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-melody-makers-best-places-for-free-skype-ringtones/"><u>[New] 2024 Approved Melody Makers Best Places for Free Skype Ringtones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unleash-your-potential-detailed-guide-for-ps4-recordings-with-obs/"><u>[Updated] In 2024, Unleash Your Potential Detailed Guide for PS4 Recordings with OBS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-comprehensive-guide-to-video-editing-with-filmora/"><u>2024 Approved The Comprehensive Guide to Video Editing with Filmora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-showdown-unveiling-the-powers-of-forefront-ai-vs-chatgpt/"><u>AI Showdown: Unveiling the Powers of Forefront AI vs ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beware-generative-ais-disinformation-capabilities/"><u>Beware: Generative AI's Disinformation Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgptplus-revolutionary-tech-for-fluent-multilingualism/"><u>ChatGPT+: Revolutionary Tech for Fluent Multilingualism</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/counteracting-text-slyness-openais-anti-deception-ai/"><u>Counteracting Text Slyness: OpenAI's Anti-Deception AI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/customizing-chromecast-display-simple-steps-to-change-the-wallpaper/"><u>Customizing Chromecast Display - Simple Steps to Change the Wallpaper</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-11-powerful-gpt-strategies-for-authenticity-in-fiction/"><u>Discovering 11 Powerful GPT Strategies for Authenticity in Fiction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-employment-skills-with-these-6-chatgpt-uses/"><u>Enhancing Employment Skills with These 6 ChatGPT Uses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-predictive-ai-techniques-and-processes-involved/"><u>Exploring Predictive AI: Techniques and Processes Involved</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-ultimate-hash-tag-guide-for-gamers-youtube-channels/"><u>In 2024, The Ultimate Hash Tag Guide for Gamers' YouTube Channels</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-blockchain-technology-into-your-computer-via-amd-drivers/"><u>Integrate Blockchain Technology Into Your Computer via AMD Drivers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-photo-distortion-techniques-in-ps/"><u>Mastering Photo Distortion Techniques in PS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snapchat-business-model-101-how-to-turn-snaps-into-dollars-for-2024/"><u>Snapchat Business Model 101 How to Turn Snaps Into Dollars for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-master-the-art-of-adding-snapchat-to-your-mac-os/"><u>[New] Master the Art of Adding Snapchat to Your Mac OS</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/avimac/"><u>AVI動画再生手順：Macユーザー向けの詳細ガイドと予期せぬトラブルシューティング</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-transforming-zoom-into-a-youtube-live-staple-for-2024/"><u>From Novice to Pro Transforming Zoom Into a YouTube Live Staple for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 11 Pro Max</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-discover-free-software-for-saving-your-desktop-display/"><u>In 2024, Discover Free Software for Saving Your Desktop Display</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-narzo-n55-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme Narzo N55 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interest-based-bargaining-ibb-focuses-on-finding-mutually-beneficial-solutions-rather-than-taking-adversarial-positions/"><u>Interest-Based Bargaining (IBB) Focuses on Finding Mutually Beneficial Solutions Rather than Taking Adversarial Positions.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/lullaby-videos-a-study-on-sleep-inducing-stories-for-2024/"><u>Lullaby Videos A Study on Sleep-Inducing Stories for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-global-networks-with-language-skills/"><u>Navigating Global Networks with Language Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-on-amazons-latest-innovation-the-echo-spot-alarm-clock-with-a-whopping-40-discount-during-prime-day-shop-now/"><u>Save Big on Amazon's Latest Innovation: The Echo Spot Alarm Clock with a Whopping 40% Discount During Prime Day – Shop Now!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapchat-boomerangs-demystified-your-comprehensive-guide-for-2024/"><u>Snapchat Boomerangs Demystified Your Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/superior-portable-sonic-performance-unveiled-in-latest-speaker-testing-high-fidelity-sound-across-genres-zdnet-insight/"><u>Superior Portable Sonic Performance Unveiled in Latest Speaker Testing | High Fidelity Sound Across Genres - ZDNet Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-gaming-headsets-comprehensive-reviews-and-testing-insights-techadvisor/"><u>Top-Rated Gaming Headsets : Comprehensive Reviews & Testing Insights | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-gaming-headsets-comprehensive-reviews-by-tech-experts-techradar/"><u>Top-Rated Gaming Headsets : Comprehensive Reviews by Tech Experts | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-non-sony-non-bose-soundbar-wows-with-unmatched-audio-experience-zdnet-insights/"><u>Top-Rated Non-Sony, Non-Bose Soundbar Wows With Unmatched Audio Experience | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-audio-experience-with-the-soul-s-storm-bluetooth-speaker-featuring-thunderous-bass-and-dazzling-led-display/"><u>Ultimate Audio Experience with the Soul S-Storm Bluetooth Speaker: Featuring Thunderous Bass & Dazzling LED Display</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-2024s-highest-performing-gaming-speakers-in-depth-analysis-and-reviews-zdnet/"><u>Ultimate List of 2024'S Highest Performing Gaming Speakers - In Depth Analysis & Reviews | ZDNet</u></a></li>
 </ul></div>
 

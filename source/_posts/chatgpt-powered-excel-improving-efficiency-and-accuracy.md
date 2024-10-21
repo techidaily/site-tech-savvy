@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT-Powered Excel: Improving Efficiency and Accuracy"
-date: 2024-10-08T11:20:10.540Z
-updated: 2024-10-14T18:16:45.558Z
+date: 2024-10-18T20:14:32.602Z
+updated: 2024-10-20T22:45:04.247Z
 tags:
   - chatgpt
   - open-ai
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
  By keeping these points in mind, you can use the chatbot more effectively and with greater confidence to overcome any fears you may have about working with spreadsheets.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use ChatGPT to Create Macros
@@ -89,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 ![Insert a module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/inssert-module.jpg)
 3. Here, enter the code that you copied from ChatGPT earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Close the dialog and clicking on **File** \> **Save as**.
 5. Expand the Save as type dropdown and choose **Excel Macro-Enabled Workbook**.
 6. Click **Save** to save the macro file.  
@@ -105,16 +98,23 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 9. Finally, hit **Run**.  
 ![Run the macro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-macro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This macro will now filter your data to show only the sales for the targeted region.
 
 ![Macro result in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/macro-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use ChatGPT to Automate Sending Emails
 
@@ -127,10 +127,16 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 ![Use ChatGPT to automate sending emails](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vba-to-automate-emails.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once we have the macro, we will save the module and run it by following the steps described above. As simple as that! Apart from these three methods we have listed of using ChatGPT in Excel, you can also use the chatbot to analyze and visualize data in Excel with the help of tools like Charts, and Data Analysis Toolpak. You can ask ChatGPT to explain how to use these tools effectively.
@@ -160,22 +166,18 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-dissecting-tunefabs-technology-for-flawless-capture/"><u>[New] Dissecting Tunefab's Technology for Flawless Capture</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tiktok-triumphs-in-twitter-land-toptiktoks-revealed-for-2024/"><u>[New] TikTok Triumphs in Twitter Land #TopTikToks Revealed for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-pinnacle-of-amusement-select-15-laughing-out-loud-channels/"><u>[Updated] In 2024, The Pinnacle of Amusement Select 15 Laughing-Out-Loud Channels</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-vanishing-acts-how-to-blur-faces-and-objects-online/"><u>[Updated] Vanishing Acts How to Blur Faces and Objects Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-compelling-justifications-for-snapchat-ais-significance/"><u>7 Compelling Justifications for Snapchat AI's Significance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-efficient-ai-methods-that-deliver-results/"><u>7 Efficient AI Methods That Deliver Results</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-key-approaches-to-elevate-chatgpt-interactions/"><u>7 Key Approaches to Elevate ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-comprehensible-explanation-of-gpt-3-shared-link-utilization/"><u>A Comprehensible Explanation of GPT-3 Shared Link Utilization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-stepwise-approach-to-leveraging-gpt-3-power-in-openai-playground/"><u>A Stepwise Approach to Leveraging GPT-3 Power in OpenAI Playground</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-newest-gaming-hardware-at-ifa-2023/"><u>Explore the Newest Gaming Hardware at IFA 2023</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721432610928-false-chatbots-spotted-potential-hackers-lurk-in-disguise/"><u>False ChatBots Spotted: Potential Hackers Lurk in Disguise!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-streaming-experience-six-insightful-quizzes-for-fandom-enthusiasts/"><u>In 2024, Elevate Your Streaming Experience Six Insightful Quizzes for Fandom Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721435409647-reinvigorate-your-iphones-mindfulness-with-these-fixes-to-try/"><u>Reinvigorate Your iPhone's Mindfulness with These Fixes to Try!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721421496939-sham-tech-outsmarted-keep-your-data-secure-from-fakes/"><u>Sham Tech Outsmarted: Keep Your Data Secure From Fakes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-kinemasters-mastery-plus-10-superior-editing-counterparts/"><u>Step-by-Step Guide to KineMaster's Mastery + 10 Superior Editing Counterparts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/synthesizing-best-canon-temporal-media-for-2024/"><u>Synthesizing Best Canon Temporal Media for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/remium-7-dslr-picks-for-ultimate-visual-storytelling-online/"><u>[New] Premium 7 DSLR Picks For Ultimate Visual Storytelling Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uick-resize-youtube-to-fit-mac-display-ratio-for-2024/"><u>[New] Quick Resize YouTube to Fit Mac Display Ratio for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-forgetful-fun-mobile-idle-escapes/"><u>[Updated] Top 10 Forgetful Fun Mobile Idle Escapes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-strategies-for-safeguarding-cloud-processed-ai-information-what-you-need-to-know-and-why-it-matters/"><u>Apple's Strategies for Safeguarding Cloud-Processed AI Information: What You Need to Know (and Why It Matters)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-generative-ai-beyond-imagination/"><u>Decoding Generative AI: Beyond Imagination</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deploy-low-cost-locally-executed-chatgpt-clone-on-pc/"><u>Deploy Low-Cost, Locally Executed ChatGPT Clone on PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-dialogues-shift-facebooks-rise-and-future-as-meta/"><u>Digital Dialogues Shift: Facebook’s Rise and Future as Meta</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engaging-gpt-3-in-poetic-creation-process/"><u>Engaging GPT-3 in Poetic Creation Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-core-vs-enhanced-gpt-interaction-tools/"><u>Evaluating Core Vs. Enhanced GPT Interaction Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/expanding-external-devices-in-explorers-side/"><u>Expanding External Devices in Explorer's Side</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expanding-opportunities-ai-in-the-employment-sphere/"><u>Expanding Opportunities: AI in the Employment Sphere</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-debug-call-of-duty-modern-warfares-error-6034-on-both-pc-and-xbox-systems/"><u>How to Debug Call of Duty: Modern Warfare's Error 6034 on Both PC and Xbox Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/windows-11-solving-steam-folder-read-only-issues/"><u>Windows 11: Solving Steam Folder Read-Only Issues</u></a></li>
 </ul></div>
 

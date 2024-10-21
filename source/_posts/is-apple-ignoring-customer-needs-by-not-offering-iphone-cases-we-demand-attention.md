@@ -1,7 +1,7 @@
 ---
 title: Is Apple Ignoring Customer Needs by Not Offering iPhone Cases? We Demand Attention!
-date: 2024-10-13T13:11:00.351Z
-updated: 2024-10-14T20:30:14.246Z
+date: 2024-10-16T23:17:53.728Z
+updated: 2024-10-21T00:53:07.851Z
 tags:
   - apple
 categories:
@@ -49,6 +49,13 @@ To help you make this decision, we've broken down all of the most important deta
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  1\. You'd benefit from Apple Intelligence features
 
 Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). Chief among them is the long-awaited Siri upgrade. The iOS assistant is much smarter than before as it is now aware of on-screen content, can better understand commands even if you stumble over your words, and can switch between text and voice inputs. This is just the tip of the iceberg, too, as Siri will fully integrate itself with [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/#link={) later in the year.
@@ -58,16 +65,16 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
+<span id="1983582">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
@@ -79,10 +86,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -103,13 +110,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
@@ -123,10 +123,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -171,19 +171,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fine-tuning-scalability-of-youtube-media/"><u>2024 Approved Fine-Tuning Scalability of YouTube Media</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alert-on-mimicry-genuine-ai-apps-versus-fake-ones/"><u>Alert on Mimicry: Genuine AI Apps Versus Fake Ones</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/bring-life-to-stills-motion-blur-technique/"><u>Bring Life to Stills Motion Blur Technique</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-meets-android-unleash-voicepower/"><u>ChatGPT Meets Android: Unleash VoicePower</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/coding-conversations-innovative-applications-of-chatgpt-in-game-writing/"><u>Coding Conversations: Innovative Applications of ChatGPT in Game Writing</u></a></li>
-<li><a href="https://win-online.techidaily.com/complete-tutorial-using-acer-aspire-recovery-feature-across-different-windows-versions/"><u>Complete Tutorial: Using Acer Aspire Recovery Feature Across Different Windows Versions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-sades-headset-drivers-securely-for-windows-guaranteed-safety/"><u>Download Sades Headset Drivers Securely for Windows - Guaranteed Safety</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-left-4-dead-2-ultimate-guide-to-resolving-game-crashes/"><u>Fixing Left 4 Dead 2: Ultimate Guide to Resolving Game Crashes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/on-set-questions-answered-quickly/"><u>On-Set Questions Answered Quickly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/shades-and-tones-elevating-your-visuals-for-2024/"><u>Shades and Tones Elevating Your Visuals for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-virtual-gadgets-for-excelling-at-instruction-design/"><u>Top 7 Virtual Gadgets for Excelling at Instruction Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-ideas-into-engaging-presentations-via-chatgpt/"><u>Transform Your Ideas Into Engaging Presentations via ChatGPT</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-tips-easily-installing-the-dell-mouse-driver-on-any-device/"><u>Troubleshooting Tips: Easily Installing the Dell Mouse Driver on Any Device</u></a></li>
-<li><a href="https://article-files.techidaily.com/unleashing-creativity-a-guide-to-innovative-gopro-video-editing/"><u>Unleashing Creativity A Guide to Innovative GoPro Video Editing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-experts-choice-the-best-windows-pc-screen-recorders/"><u>[New] 2024 Approved Expert's Choice The Best Windows PC Screen Recorders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-hobbyist-to-pro-selecting-top-drone-editing-tools/"><u>[New] From Hobbyist to Pro Selecting Top Drone Editing Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-text-manipulation-software-for-ae/"><u>[New] Premier Text Manipulation Software for AE</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-apples-immersive-3d-spatial-video-experience-on-your-meta-quest-3-easy-setup-guide/"><u>Access Apple’s Immersive 3D Spatial Video Experience on Your Meta Quest 3 – Easy Setup Guide!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/bring-back-disappearing-video-icon-on-fb-watch/"><u>Bring Back Disappearing Video Icon on FB Watch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/charging-solutions-recharge-your-smartphone-without-the-original-adapter/"><u>Charging Solutions: Recharge Your Smartphone without the Original Adapter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-max-token-limit-and-breaking-past-it/"><u>ChatGPT's Max Token Limit & Breaking Past It</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-dreame-bot-l10-pro-next-gen-mopping-and-vacuum-robot-powered-by-lidar/"><u>Comprehensive Guide to the Dreame Bot L10 Pro – Next-Gen Mopping and Vacuum Robot Powered by LiDAR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-information-harvesting-with-top-6-ai-apps/"><u>Efficient Information Harvesting with Top 6 AI Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ultra-thin-ipad-models-a-visit-to-the-apple-store-and-assessing-impact-of-just-008-thickness-techspot/"><u>Exploring Ultra-Thin iPad Models: A Visit to the Apple Store and Assessing Impact of Just 0.08 Thickness | TechSpot</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-narzo-60-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme Narzo 60 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/photoshop-stabilizers-role-crucial-for-creatives/"><u>Photoshop Stabilizer's Role - Crucial for Creatives?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-assistance-tailored-commands-for-everyone/"><u>Revolutionizing AI Assistance: Tailored Commands for Everyone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-price-of-love-and-tech-unveiling-the-sentiments-behind-an-apple-vision-pro-pitch-analysis-by-zdnet/"><u>The Price of Love and Tech: Unveiling the Sentiments Behind an Apple Vision Pro Pitch | Analysis by ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-5-ergonomic-desk-chairs-your-ultimate-guide-to-comfort-and-support/"><u>Top 5 Ergonomic Desk Chairs - Your Ultimate Guide to Comfort and Support</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-the-step-by-step-process-of-severing-spotify-and-fb-ties/"><u>Unraveling the Step-By-Step Process of Severing Spotify and FB Ties</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-top-6-ai-enhancements-in-ios-18-for-iphone-plus-upcoming-innovations-from-apple-zdnet/"><u>Unveiling the Future: Top 6 AI Enhancements in iOS 18 for iPhone, Plus Upcoming Innovations From Apple - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-how-homeos-makes-a-comeback-in-apples-new-tvos-beta-version-analysis/"><u>Unveiling the Secrets: How 'homeOS' Makes a Comeback in Apple's New tvOS Beta Version | Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-chatgpt-misses-the-mark-in-coin-forecasting/"><u>Why ChatGPT Misses the Mark in Coin Forecasting</u></a></li>
 </ul></div>
 

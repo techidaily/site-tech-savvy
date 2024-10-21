@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple Watch's Battery Longevity: Top 8 Essential Settings Tweaks for Enhanced Performance - ZDNet"
-date: 2024-10-13T13:10:08.762Z
-updated: 2024-10-15T14:46:09.988Z
+date: 2024-10-19T21:01:36.842Z
+updated: 2024-10-21T00:10:58.171Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
@@ -64,13 +70,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -90,18 +89,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -111,13 +110,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -126,11 +118,37 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -173,18 +191,20 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-guide-backing-up-camera-roll-to-snapchat-in-the-right-way-for-2024/"><u>[New] Guide – Backing Up Camera Roll to Snapchat In the Right Way for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-celebrating-masterpieces-top-15-outstanding-stop-motion-works-for-2024/"><u>[Updated] Celebrating Masterpieces Top 15 Outstanding Stop-Motion Works for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>[Updated] The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/10-ways-your-work-could-get-compromised-using-chatgpt/"><u>10 Ways Your Work Could Get Compromised Using ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-gemini-versus-chatgpt-the-ultimate-test/"><u>A Deep Dive: Gemini Versus ChatGPT – The Ultimate Test</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-process-for-local-llama-2-setup/"><u>A Step-By-Step Process for Local Llama 2 Setup</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-radar-detectors-for-budget-conscious-motorists-check-out-our-s55-analysis-from-scratch-to-screen/"><u>Affordable Radar Detectors for Budget-Conscious Motorists - Check Out Our 'S55' Analysis From Scratch to Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721364760663-alert-fake-gpt-programs-pose-threats-to-online-safety/"><u>Alert: Fake GPT Programs Pose Threats to Online Safety</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-functional-steam-remote-connectivity/"><u>Troubleshooting Non-Functional Steam Remote Connectivity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721427077410-unleash-ai-potential-with-personalized-premium-gpt-services/"><u>Unleash AI Potential with Personalized, Premium GPT Services</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-hp-officejet-pro-9015-driver-with-this-free-download/"><u>Update Your HP OfficeJet Pro 9015 Driver with This Free Download</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-updates-successfully-resolved-after-initial-failure/"><u>Windows Updates Successfully Resolved After Initial Failure</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximizing-your-viewing-experience-top-10-ios-video-apps/"><u>[New] Maximizing Your Viewing Experience Top 10 iOS Video Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-perfect-picture-presentation-tools/"><u>2024 Approved Perfect Picture Presentation Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessing-magixs-multimedia-capabilities/"><u>Assessing MAGIX's Multimedia Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enigma-online-join-the-adventure-of-4-cybernetic-mysteries/"><u>Enigma Online: Join the Adventure of 4 Cybernetic Mysteries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-dialogue-dominance-chatbot-showdown/"><u>Exploring Dialogue Dominance: ChatBot Showdown</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-s23-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy S23 Pattern Lock Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guidelines-to-maintain-discretion-in-ai-interactions/"><u>Guidelines to Maintain Discretion in AI Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-the-efficacy-of-codegpt-could-it-streamline-development/"><u>Probing the Efficacy of CodeGPT: Could It Streamline Development?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/sans-depenser-un-centime-transformez-facilement-vos-fichiers-avi-en-mp3-grace-a-movavi-online/"><u>Sans Dépenser Un Centime - Transformez Facilement Vos Fichiers AVI en MP3 Grâce À Movavi Online.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-this-season-discover-the-41-greatest-apple-discounts-for-festive-shopping-with-expert-insights/"><u>Save Big This Season: Discover the 41 Greatest Apple Discounts for Festive Shopping with Expert Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/saving-strategies-how-apple-could-turn-around-troubles-for-disheartened-sonos-owners-insights/"><u>Saving Strategies: How Apple Could Turn Around Troubles for Disheartened Sonos Owners - Insights</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/step-by-step-fix-for-persistent-error-0x80070643-during-windows-updates-on-windows-1110-platforms/"><u>Step-by-Step Fix for Persistent Error 0X80070643 During Windows Updates on WIndows 11/10 Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-basic-route-for-voice-switching-in-your-windows-flipper-edition/"><u>The Basic Route for Voice Switching in Your Windows Flipper Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-auto-gpt-systematic-setup/"><u>Unpacking Auto-GPT: Systematic Setup</u></a></li>
 </ul></div>
 

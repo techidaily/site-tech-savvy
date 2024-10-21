@@ -1,7 +1,7 @@
 ---
 title: "Unreliable: Flaws in ZeroGPT & Similar Tech Detectors"
-date: 2024-10-12T21:25:37.993Z
-updated: 2024-10-14T18:40:17.306Z
+date: 2024-10-20T02:10:04.282Z
+updated: 2024-10-20T21:00:56.796Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 
  For material, we thought it would be quite fun to give ChatGPT a crack at writing an intro for this article and then comparing it against the “human-generated” intro:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Test One: Comparing a Human and AI-Generated Article Intro
 
  The first thing we did was get ChatGPT to generate an introduction. We entered the title and gave it no further information. For the record, we used GPT-3.5 for the test.
@@ -54,24 +47,24 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 ![Screenshot of ZeroGPT incorrect response to AI intro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-incorrect-response-to-ai-intro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  An inconspicuous start, but it does illustrate just how effective AI chatbots are. To complete the test, we let ZeroGPT analyze a human-created draft intro.
 
 ![Screenshot of ChatGPT getting human generated intro correct](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-getting-human-generated-intro-correct.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  At least it got this part correct. Overall, ZeroGPT failed in this round. It did determine that at least part of the AI-generated introduction was suspect but failed to highlight specific issues.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Test Two: The False Positive Problem
 
@@ -82,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 ![Screenshot of ZeroGPT false positive result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-false-positive-result.jpg)
 
  To be fair, I was aiming for this result. I kept the text generic and used “salesy” language. But the point that a human wrote this remains just as valid. This is not an inconvenience or something that can just be shrugged off. Errors like this can have serious ramifications for writers, students, and other professionals who create written works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Test Three: Testing ZeroGPT on Fiction
 
@@ -97,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 
  As is apparent from the result, ZeroGPT is unable to tell fact from fiction when dealing with fiction!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Test Four: News Articles
 
  There is something unsettling about AI being able to inform us of what’s happening in the world around us. This is not always necessarily “fake news,” as it can be relevant and informative, but there are [definite ethical concerns about AI](https://www.makeuseof.com/ethical-dilemmas-in-artificial-intelligence/).
@@ -112,15 +105,22 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 
 ![Screenshot of ZeroGPT correctly identifying AI news article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-correctly-identifying-ai-news-article.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The tool so consistently flagged each news article as AI-generated that we decided to test it on a dummy news article that we wrote for the purpose.
 
 ![Screenshot of ZeroGPT misidentifying news story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-misidentifying-news-story.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It did at least identify some of the articles as human-generated, but it flagged over 70% as AI-generated. Again, we need to be fair here; this was a fairly basic re-hash of the Bing article and was hardly Pulitzer Prize quality.
@@ -141,6 +141,19 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 
  Another factor that must be considered is what constitutes AI-generated content. If AI-generated content is simply reworded, is it human or AI-generated content? This represents another major challenge—the blurring of the lines between the two makes defining machine-created content almost impossible.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Looking to the Future of AI Detection
 
 ![cyber-glasses-1938449_1280](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cyber-glasses-1938449_1280.jpg)
@@ -150,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
  These tools can’t be expected to face the challenges posed by chatbots on their own. But they can play a valuable part in a concerted and multifaceted effort to address the challenges of AI. They represent one piece of a larger puzzle that includes ethical AI practices, human oversight, and ongoing research and development.
 
  The challenges that these tools face are mirror images of the challenges that society faces as we grapple with the dilemmas associated with a new technological age.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AI or Not AI? That Is the Question
 
@@ -187,16 +193,24 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-itop-review-necessary-for-quality-recordings-for-2024/"><u>[New] ITop Review Necessary for Quality Recordings for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-record-a-webinar/"><u>[Updated] 2024 Approved How to Record a Webinar</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-simplify-your-youtube-presence-with-flawless-shorts-thumbnails/"><u>2024 Approved Simplify Your YouTube Presence with Flawless Shorts Thumbnails</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-step-by-step-telegram-web-setup-for-novices/"><u>2024 Approved Step-by-Step Telegram Web Setup for Novices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-the-boundaries-of-chatgpts-token-count/"><u>Charting the Boundaries of ChatGPT's Token Count</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-gpt-3-a-strategy-for-openai/"><u>Engaging with GPT-3: A Strategy for OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-pitfalls-crafting-perfect-text-with-chatgpt/"><u>Essential Pitfalls: Crafting Perfect Text with ChatGPT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-11-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 11 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spotlight-on-sham-dialogues-using-mentions-wisely/"><u>Spotlight on Sham Dialogues: Using Mentions Wisely</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-your-potential-with-troubleshootable-chatgpt-issues/"><u>Unleashing Your Potential with Troubleshootable ChatGPT Issues</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-archive-mastery-a-guide-to-gif-download-success/"><u>[New] In 2024, Twitter Archive Mastery A Guide to GIF Download Success</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-innovate-humorous-gifry-on-giphy-network-for-2024/"><u>[New] Innovate Humorous Gifry on Giphy Network for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-get-facebook-links-no-cash-required/"><u>[Updated] 2024 Approved Get Facebook Links, No Cash Required</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-likes-and-videos-fast-track-to-insta-dominance-guide/"><u>[Updated] In 2024, Likes & Videos Fast Track to Insta Dominance Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tiny-tycoons-car-contests/"><u>[Updated] Tiny Tycoons' Car Contests</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-video-editing-convert-avis-to-gifs-on-mac-and-pc-with-filmora/"><u>2024 Approved Streamlining Video Editing Convert AVIs to GIFs on Mac and PC with Filmora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-alternative-to-apples-xr-vision-therapy-beats-high-end-models-in-effectiveness-zdnet/"><u>Affordable Alternative to Apple's XR Vision Therapy Beats High-End Models in Effectiveness | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-for-bots-github-copilot-vs-chatgpt-in-programming/"><u>Best for Bots? GitHub Copilot Vs. ChatGPT in Programming</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-google-pixel-8-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Google Pixel 8 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/bigger-captures-intact-detail-quality/"><u>Bigger Captures, Intact Detail Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-bings-ai-chatbot-10-key-differences/"><u>ChatGPT Vs. Bing's AI Chatbot: 10 Key Differences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-gpt-4-for-all-plus-still-provides-an-exclusive-set-of-6-premium-features/"><u>Free GPT-4 for All! Plus Still Provides an Exclusive Set of 6 Premium Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-audio-gradients-in-ableton/"><u>In 2024, Streamlining Audio Gradients in Ableton</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jumpstart-your-experience-with-gpts-web-betas/"><u>Jumpstart Your Experience with GPT's Web Betas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/painting-in-a-digital-age-chatgpt-and-ai-art-collaboration/"><u>Painting in a Digital Age: ChatGPT & AI Art Collaboration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plagiarism-detection-chatgpt-under-the-microscope/"><u>Plagiarism Detection: ChatGPT Under the Microscope</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722874603857-samsung-galaxy-z-fold-6s-arrival-get-ahead-with-release-dates-pricing-info-and-key-features/"><u>Samsung Galaxy Z Fold 6'S Arrival: Get Ahead with Release Dates, Pricing Info and Key Features!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-social-implications-of-censorship-in-automated-dialogue-systems/"><u>The Social Implications of Censorship in Automated Dialogue Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-conversations-into-content-choices/"><u>Transforming Conversations Into Content Choices</u></a></li>
 </ul></div>
 

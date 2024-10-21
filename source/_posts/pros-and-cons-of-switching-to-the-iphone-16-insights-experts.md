@@ -1,7 +1,7 @@
 ---
 title: Pros & Cons of Switching to the iPhone 16 - Insights Experts
-date: 2024-10-13T01:39:08.262Z
-updated: 2024-10-15T12:53:29.140Z
+date: 2024-10-17T17:27:52.641Z
+updated: 2024-10-20T17:29:47.359Z
 tags:
   - apple
 categories:
@@ -33,13 +33,6 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. The camera
 
@@ -92,10 +85,10 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -108,6 +101,13 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -117,10 +117,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -130,16 +130,10 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -182,22 +176,22 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-perfecti-the-ultimate-guide-to-iphone-slideshows-xs-max/"><u>[Updated] In 2024, Perfecti The Ultimate Guide to iPhone Slideshows (XS Max)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-insiders-handbook-to-windows-11-video-mastery/"><u>[Updated] The Insider's Handbook to Windows 11 Video Mastery</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-video-potential-the-best-10-flv-to-youtube-tools-at-a-glance/"><u>[Updated] Unlock Video Potential The Best 10 Flv to YouTube Tools at a Glance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2-ways-to-download-youtube-audio-easily/"><u>2 Ways to Download Youtube Audio. Easily</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-lowering-the-quality-of-obs-streaming/"><u>2024 Approved Lowering the Quality of OBS Streaming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-tips-how-to-reset-and-clear-the-cache-in-google-chrome-efficiently/"><u>Expert Tips: How to Reset and Clear the Cache in Google Chrome Efficiently</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experts-choice-the-10-best-movie-making-cameras-for-2024/"><u>Expert's Choice The 10 Best Movie Making Cameras for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gemini-unleashed-1m-tokens-redefine-market-value/"><u>Gemini Unleashed - $1M Tokens Redefine Market Value</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808317441-how-to-overclock-your-cpu-a-beginners-guide/"><u>How to Overclock Your CPU: A Beginner's Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-z-flip-5-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy Z Flip 5 Phone?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-90-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor 90 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/opening-doors-to-public-engagement-with-chatgpt/"><u>Opening Doors to Public Engagement with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rewriting-the-rulebook-on-language-models-meet-palm-2-by-google/"><u>Rewriting the Rulebook on Language Models – Meet PaLM 2 by Google</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-integration-game-why-incorporating-chatgpt-for-health-is-key-in-7-reasons/"><u>The Integration Game: Why Incorporating ChatGPT for Health Is Key, in 7 Reasons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-scales-of-ai-capability-comparing-strong-and-weak/"><u>The Scales of AI Capability: Comparing Strong and Weak</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-iphoneipad-video-and-image-archive-for-2024/"><u>The Ultimate iPhone/iPad Video & Image Archive for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-from-free-to-fiscal-determining-view-counts-for-youtube-earnings/"><u>[New] 2024 Approved From Free to Fiscal Determining View Counts for YouTube Earnings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-best-avi-player-for-pc-and-mobile/"><u>2024 Approved Best AVI Player for PC and Mobile</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/can-i-browse-through-all-my-contacts-shared-videos-and-photos/"><u>Can I Browse Through All My Contact's Shared Videos & Photos?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-a-strategic-edge-for-job-seekers-and-employees-explore-the-top-six-reasons-why/"><u>ChatGPT Mastery: A Strategic Edge for Job Seekers & Employees - Explore the Top Six Reasons Why</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-on-mobile-devices-a-step-by-step-guide/"><u>ChatGPT on Mobile Devices: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-your-key-to-unlocking-the-full-power-of-free-gpt-4-turbo/"><u>Copilot: Your Key to Unlocking the Full Power of Free GPT-4 Turbo</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-high-precision-with-hp-envy-27-monitor-for-2024/"><u>Exploring High Precision with HP Envy 27 Monitor for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fraudulent-chrome-helper-harvests-social-media-passwords/"><u>Fraudulent Chrome Helper: Harvests Social Media Passwords</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-talk-chatgpt-podcast-creation/"><u>From Text to Talk: ChatGPT Podcast Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-education-the-shift-from-student-drafted-to-ai-generated-papers/"><u>GPT and Education: The Shift From Student-Drafted to AI-Generated Papers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Sony Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-track-archiving-chatgpt-dialogues/"><u>Keeping Track: Archiving ChatGPT Dialogues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/navigating-the-nuances-of-spotify-advertising/"><u>Navigating the Nuances of Spotify Advertising</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprise-chatgpt-games-that-will-keep-you-entertained/"><u>Surprise! ChatGPT Games That Will Keep You Entertained</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-gps-running-watches/"><u>Top Rated GPS Running Watches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-chatgpt-usage-tips/"><u>Unveiling ChatGPT Usage Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/yuneecs-aerodrone-typhoon-h-evaluation-report/"><u>Yuneec’s AeroDrone Typhoon H Evaluation Report</u></a></li>
 </ul></div>
 

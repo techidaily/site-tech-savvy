@@ -1,7 +1,7 @@
 ---
 title: The Next Generation AirPods From Apple Arrive with Find My Functionality and Improved Charging | ZDNet
-date: 2024-10-08T21:31:22.288Z
-updated: 2024-10-15T09:02:49.736Z
+date: 2024-10-13T18:15:07.744Z
+updated: 2024-10-20T23:34:02.903Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -89,10 +89,10 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,20 +131,22 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unveiling-the-power-of-three-tiers-in-crafting-fb-ad-engaging-messages/"><u>[New] 2024 Approved Unveiling the Power of Three Tiers in Crafting FB Ad Engaging Messages</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-save-and-stream-gotomeet-on-desktops-and-phones/"><u>2024 Approved Save and Stream GoToMeet on Desktops & Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chapter-1-registering-for-chatgpts-latest-extensions/"><u>Chapter 1: Registering for ChatGPT's Latest Extensions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-chatgpt-4s-dilatory-nature-vs-35-speed/"><u>Decoding ChatGPT-4's Dilatory Nature Vs. 3.5 Speed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/determining-the-perfect-aspect-ratio-for-2024/"><u>Determining the Perfect Aspect Ratio for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-pro-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 13 Pro Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-note-30-vip-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Note 30 VIP Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unravel-the-secrets-of-saving-and-playing-gifs-on-your-ios-device/"><u>In 2024, Unravel the Secrets of Saving & Playing GIFs on Your iOS Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/leading-2024-free-full-versions-of-windows-11-dvd-burning-software-top-picks-for-free-downloads/"><u>Leading 2024 Free Full Versions of Windows 11 DVD Burning Software: Top Picks for FREE Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-neural-networks-snapchat-ai-vs-gpt/"><u>Navigating Neural Networks: Snapchat AI vs GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/opt-for-basic-textual-chatgpt-or-enhanced-web-integrated-version/"><u>Opt for Basic Textual ChatGPT or Enhanced Web-Integrated Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-chuckles-by-code-from-laptops-to-vpn-safeguarding/"><u>The Art of Chuckles by Code: From Laptops to VPN Safeguarding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-voice-activated-chatgpt-in-cars/"><u>The Dawn of Voice-Activated ChatGPT in Cars</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-waterproof-smartwatches-in-depth-analysis-by-tech-experts/"><u>Top-Rated Waterproof Smartwatches : In-Depth Analysis by Tech Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-about-chatgpt-windows-apps-authenticity/"><u>Truth About ChatGPT Windows App's Authenticity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-video-performance-in-instagram-reels-mobile/"><u>[New] Enhancing Video Performance in Instagram Reels (Mobile)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unlock-creative-potential-with-premium-effects-extensions/"><u>[New] Unlock Creative Potential with Premium Effects Extensions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-advanced-techniques-developing-elapsed-time-features-in-obs-software/"><u>2024 Approved Advanced Techniques Developing Elapsed Time Features in OBS Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-concentration-effective-strategies-for-enhanced-productivity-when-telecommuting-insights-from-zdnet/"><u>Boosting Concentration: Effective Strategies for Enhanced Productivity When Telecommuting - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effortless-server-protection-mastering-quick-backups-on-windows-server-2012-three-simple-strategies/"><u>Effortless Server Protection: Mastering Quick Backups on Windows Server 2012 - Three Simple Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-unknown-emerging-job-positions-in-the-ai-era-deciphering-their-elusive-titles-on-zdnet/"><u>Exploring the Unknown: Emerging Job Positions in the AI Era - Deciphering Their Elusive Titles on ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-3-and-windows-11-compatibility-fixes-to-stop-your-game-from-freezing/"><u>Fallout 3 and Windows 11 Compatibility Fixes to Stop Your Game From Freezing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-write-a-winning-cybersecurity-resume-dos-and-donts-revealed-by-zdnet-experts/"><u>How to Write a Winning Cybersecurity Resume: Dos and Don'ts Revealed by ZDNet Experts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uable-list-of-costless-photographic-and-moving-images/"><u>Invaluable List of Costless Photographic and Moving Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kickstart-your-journey-into-artificial-intelligence-discover-the-top-5-essential-steps-zdnet/"><u>Kickstart Your Journey Into Artificial Intelligence: Discover the Top 5 Essential Steps | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-undercover-job-hunt-a-guide-for-prospective-employees-seeking-new-opportunures/"><u>Navigating the Undercover Job Hunt: A Guide for Prospective Employees Seeking New Opportunures</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-heat-levels-for-rig-performance-in-games/"><u>Optimal Heat Levels for Rig Performance in Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riding-the-wave-of-change-how-ai-will-phase-out-certain-careers-yet-spark-opportunities-in-novel-domains-zdnet/"><u>Riding the Wave of Change: How AI Will Phase Out Certain Careers Yet Spark Opportunities in Novel Domains | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-your-dream-position-in-technology-at-microsoft-strategies-from-zdnet/"><u>Securing Your Dream Position in Technology at Microsoft - Strategies From ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/skype-call-recording-tips-ensuring-clarity-across-platforms-for-2024/"><u>Skype Call Recording Tips - Ensuring Clarity Across Platforms for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/streamlining-multimedia-experiences-through-youtube-music-links-for-2024/"><u>Streamlining Multimedia Experiences Through YouTube Music Links for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-pay-transparency-understanding-its-impact-on-your-career-zdnet-insights/"><u>Upcoming Pay Transparency: Understanding Its Impact on Your Career | ZDNet Insights</u></a></li>
 </ul></div>
 

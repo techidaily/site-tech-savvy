@@ -1,7 +1,7 @@
 ---
 title: The Hidden Dangers of GPT in Bank Security & PC Vulnerabilities
-date: 2024-10-11T11:58:34.895Z
-updated: 2024-10-15T12:57:38.038Z
+date: 2024-10-16T18:13:59.578Z
+updated: 2024-10-20T23:30:55.772Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with [a successful phishing attack](http://www.makeuseof.com/what-is-phishing/). Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -106,20 +106,24 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-5-premier-cloud-platforms-revolutionizing-storage-for-2024/"><u>[New] 5 Premier Cloud Platforms Revolutionizing Storage for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-scan-the-market-identifying-the-top-9-free-mp3-grabbers-for-android/"><u>[New] Scan the Market Identifying the Top 9 Free MP3 Grabbers for Android</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/audifreextract-2024-comprehensive-user-experience-report/"><u>AudiFreeXtract 2024 Comprehensive User Experience Report</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-ways-to-experience-the-2024-summer-olympics-in-high-definition-online/"><u>Best Ways to Experience the 2024 Summer Olympics in High Definition Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-impact-on-modern-day-job-seekers/"><u>ChatGPT's Impact on Modern-Day Job Seekers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-compelling-verses-with-ai-powered-assistance/"><u>Crafting Compelling Verses with AI-Powered Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cybercrimes-calculated-courtship-schemes/"><u>Cybercrime’s Calculated Courtship Schemes</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/effortlessly-copy-and-convert-dvd-movies-into-macbook-format-enabling-smooth-full-screen-playback-experience/"><u>Effortlessly Copy and Convert DVD Movies Into MacBook Format, Enabling Smooth Full Screen Playback Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-gpt-4-for-everyone-nonetheless-select-plus-membership-continues-to-provide-unique-services/"><u>Free GPT-4 for Everyone; Nonetheless, Select Plus Membership Continues to Provide Unique Services</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-magic-6-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Magic 6 Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-meizu-21-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Meizu 21 to iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-creativity-with-chatgpts-advanced-image-recognition/"><u>Maximizing Creativity with ChatGPT's Advanced Image Recognition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimal-communication-with-9-advantages-in-chatgptplus/"><u>Optimal Communication with 9 Advantages in ChatGPT+</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-non-number-registration-guide-for-telegram-and-more/"><u>The Non-Number Registration Guide for Telegram & More</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-and-dxgidll-quick-fixes-for-the-missing-file/"><u>Win11 & Dxgi.dll: Quick Fixes for the Missing File</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-superior-online-sound-devices-ranked-for-recording-2023/"><u>[New] Superior Online Sound Devices Ranked for Recording 2023</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-gain-extensive-engagement-master-the-view-multiplier/"><u>[Updated] 2024 Approved Gain Extensive Engagement Master the View Multiplier</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-an-effective-programming-showcase-a-step-by-step-guide/"><u>Creating an Effective Programming Showcase: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-your-projects-with-elite-developers-unveiling-microsofts-strategy-for-success-zdnet/"><u>Empower Your Projects with Elite Developers – Unveiling Microsoft's Strategy for Success [ZDNet]</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhancing-user-experience-with-cookiebot-technology/"><u>Enhancing User Experience with Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-a-technology-professional-can-master-crafting-ideal-job-applications/"><u>How a Technology Professional Can Master Crafting Ideal Job Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-ios-175-brought-back-your-missing-photos-and-next-steps-unveiled-by-apple/"><u>How iOS 17.5 Brought Back Your Missing Photos and Next Steps - Unveiled by Apple</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-11-pro-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 11 Pro The Right Way</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-magic-v2-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Magic V2 Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-civi-3-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Civi 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-handling-interview-qanda-a-guide-to-impressing-employers/"><u>Mastering the Art of Handling Interview Q&A: A Guide to Impressing Employers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mathematical-acumen-meets-entrepreneurial-vision-ensuring-competitive-edge-in-the-age-of-artificial-intelligence-expert-analysis-by-zdnet/"><u>Mathematical Acumen Meets Entrepreneurial Vision: Ensuring Competitive Edge in the Age of Artificial Intelligence – Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-ai-talent-landscape-how-your-expertise-shapes-employer-demand-zdnet/"><u>Navigating the AI Talent Landscape: How Your Expertise Shapes Employer Demand | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/professional-tech-resume-design-ideas-and-resources-curated-selections-from-zdnet/"><u>Professional Tech Resume Design Ideas and Resources - Curated Selections From ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ranking-the-leading-free-srt-translation-tools-for-2024/"><u>Ranking the Leading Free SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolving-landscape-of-tech-hiring-moving-beyond-resumes-expert-perspectives-on-modern-recruiter-strategies/"><u>The Evolving Landscape of Tech Hiring: Moving Beyond Resumes | Expert Perspectives on Modern Recruiter Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-a-new-era-your-guide-to-windows-11-upgrade/"><u>Unveiling a New Era Your Guide to Windows 11 Upgrade</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-shift-each-worker-as-an-ai-creator-and-user-zdnet/"><u>Upcoming Shift: Each Worker as an AI Creator and User | ZDNet</u></a></li>
 </ul></div>
 

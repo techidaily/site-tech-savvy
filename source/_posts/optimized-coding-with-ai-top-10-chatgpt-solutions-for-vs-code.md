@@ -1,7 +1,7 @@
 ---
 title: "Optimized Coding with AI: Top 10 ChatGPT Solutions for VS Code"
-date: 2024-10-14T09:12:28.488Z
-updated: 2024-10-15T12:13:49.486Z
+date: 2024-10-17T21:44:16.010Z
+updated: 2024-10-20T21:05:09.149Z
 tags:
   - chatgpt
   - open-ai
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 2. To write a custom prompt, right-click on the highlighted code and select Ask GPT. Type your prompt in the chat box at the top and press **Enter**.  
 ![Debug prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/debug-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use the ChatGPT Extension With Your Code Base
 
  If you've opened VS Code to your code base directory and want ChatGPT to access underlying modules:
@@ -67,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 4. Press **Enter** or click the send icon.
 
  Now let's see the various ways to use ChatGPT in VS Code.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Refactor and Modify Code
 
@@ -100,6 +100,13 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
  The generated code above is more modular and reusable.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Debug Your Code
 
  If your code throws an error or doesn't work as it should, asking ChatGPT to debug it directly inside VS Code saves time.
@@ -111,10 +118,10 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 ![Debugged code output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/debugged-code-output-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Write Your Code in Another Language
@@ -145,6 +152,13 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![ChatGPT extension component prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-extension-component-prompt-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As done above, you might want to check the **Ask Codebase** box if you're dealing with a large code base.
 
  After referencing our code base, the VS Code ChatGPT extension provided a handy React component to use the provided endpoint:
@@ -159,6 +173,13 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![Code to to explain example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/code-to-to-explain-example.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It generated the following response:
 
 ![Code explained example output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/code-explained-example-output.jpg)
@@ -169,6 +190,13 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![User registration template example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/user-registration-template-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  But what if you're writing an application that renders data into HTML directly (a non-SPA) and wants a project-specific template? You can use the ChatGPT extension in VS Code to create HTML templates that display the backend data to users.
 
  For instance, if you're using an [MVT architecture-based framework like Django](https://www.makeuseof.com/django-mvt-architecture/), you can use the extension to forge HTML templates for your Django views.
@@ -178,16 +206,10 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
  Again, for this type of use case, you might want to click the **Ask Codebase** checkbox for ChatGPT to access your code base.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Unit-Test Your Code
@@ -200,13 +222,6 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![Unit test prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/unit-test-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It sampled the code base efficiently to generate the required unit test:
 
 ![Generated unit tests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generated-unit-tests.jpg)
@@ -217,27 +232,7 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![Security vulnerability prompt VS Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/security-vulnerability-prompt-vs-code.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To allow ChatGPT to scan your code base, use the **Ask Codebase** option (click the extension icon and check the **Ask Codebase** box).
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Ask VS Code-Related Questions
 
@@ -252,10 +247,10 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 ![VS Code specific prompt technical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/vs-code-specific-prompt-technical.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Write Documentation Directly From VS Code
@@ -265,19 +260,6 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
  For example, here's a detailed documentation of a Zoom link creation function (in HTML format) that we generated using the VS Code ChatGPT extension:
 
 ![Generated documentation example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generated-documentation-example.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Code Efficiently With ChatGPT in VS Code
 
@@ -302,18 +284,22 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-roundup-best-budget-friendly-virtual-calls-for-2024/"><u>[New] The Ultimate Roundup Best Budget-Friendly Virtual Calls for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-pro-editor-picks-craft-the-perfect-instagram-reel-masterpiece/"><u>[Updated] 2024 Approved Pro Editor Picks - Craft the Perfect Instagram Reel Masterpiece</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-tutorial-quickly-convert-youtube-audio-to-mp3-on-mac/"><u>[Updated] 2024 Approved Tutorial Quickly Convert YouTube Audio to MP3 on Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diving-into-digital-dialogue-googles-groundbreayer-palm-2/"><u>Diving Into Digital Dialogue: Google's Groundbreayer, PaLM 2</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-driver-updates-on-windows-10-using-the-handy-device-manager-feature/"><u>Effortless Driver Updates on Windows 10 Using the Handy Device Manager Feature</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-new-intel-irisplus-graphics-driver-update-speedy-hassle-free-install/"><u>Get the New Intel Iris+ Graphics Driver Update - Speedy, Hassle-Free Install</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo Phone? Unlock It Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-excel-solutions-achieved-via-chatgpt-use-cases/"><u>Innovative Excel Solutions Achieved via ChatGPT Use Cases</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-from-the-past-10-top-history-educational-channels-for-2024/"><u>Learning From the Past - 10 Top History Educational Channels for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/quickcapture-chromes-screen-recording-feature/"><u>QuickCapture Chrome's Screen Recording Feature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-complexity-transformative-techniques-for-3d-printing-with-chatgpt/"><u>Simplify Complexity: Transformative Techniques for 3D Printing with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailored-transformation-crafting-a-personalized-chatgpt/"><u>Tailored Transformation: Crafting a Personalized ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chat-comparison-coin-how-gpt-stacks-up-against-bingbot/"><u>The Chat Comparison Coin: How GPT Stacks Up Against BingBot</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-youtube-gains-a-comprehensive-approach-for-mobile-monetization/"><u>[New] In 2024, Maximizing YouTube Gains A Comprehensive Approach for Mobile Monetization</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-audio-booster-apps-to-quicken-playback/"><u>[New] Top Audio Booster Apps to Quicken Playback</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-blueprint-to-monitor-and-maximize-your-youtube-profits-for-2024/"><u>3-Part Blueprint to Monitor and Maximize Your YouTube Profits for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-intelligent-web-applications-using-chatgpt/"><u>Building Intelligent Web Applications Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/communicating-with-ai-the-importance-of-courteous-language/"><u>Communicating With AI: The Importance of Courteous Language</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/da-vincis-digital-dreamscapes-the-cutting-edge-of-visual-prompts/"><u>Da Vinci’s Digital Dreamscapes: The Cutting Edge of Visual Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-take-on-the-new-iphone-15-why-it-stands-out-for-tech-enthusiasts-insights-from-zdnet/"><u>Expert Take on the New iPhone 15: Why It Stands Out for Tech Enthusiasts | Insights From ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722887949350-get-ready-for-a-revolution-apples-touchscreen-macbook-dive-into-rumored-pricing-launch-date-and-tech-specs/"><u>Get Ready For a Revolution: Apple's Touchscreen MacBook – Dive Into Rumored Pricing, Launch Date & Tech Specs!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-resolve-frequent-windows-explorer-breakdowns-a-step-by-step-guide/"><u>How to Resolve Frequent Windows Explorer Breakdowns - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpts-my-gpt-bots-to-learn-board-games-create-images-and-much-more/"><u>How to Use ChatGPT's My GPT Bots to Learn Board Games, Create Images, and Much More</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-y28-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo Y28 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-lava-blaze-2-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Lava Blaze 2 Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-sign-in-hurdles-with-ease/"><u>Navigating ChatGPT Sign-In Hurdles with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-horizon-in-ai-unveiling-gpt-4/"><u>New Horizon in AI: Unveiling GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/risks-avoid-mobile-gpt-app-downloads/"><u>Risks: Avoid Mobile GPT App Downloads</u></a></li>
 </ul></div>
 

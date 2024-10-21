@@ -1,7 +1,7 @@
 ---
 title: "Spawning New Worlds: ChatGPT, Generative AI for Unique D&D Creatures"
-date: 2024-10-11T00:42:03.793Z
-updated: 2024-10-15T00:39:45.426Z
+date: 2024-10-13T21:52:32.358Z
+updated: 2024-10-20T16:45:41.876Z
 tags:
   - chatgpt
   - open-ai
@@ -43,22 +43,15 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 ![ChatGPT's detailed response to creating a backstory and background for a D&D character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-s-detailed-response-to-creating-a-backstory-and-background-for-a-d-d-character.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, ChatGPT isn’t very good with names. The name it generated for our Dragonborn was Draconis, which isn’t very original. You can prompt it to give you ideas for better names or just come up with your own instead. We ended up renaming the Dragonborn Anomander Rake.
 
  If you’re playing a homebrew campaign, type in as much as you know about the lore for ChatGPT and ask it to generate a relevant backstory and background for your character. You can keep prompting it till you find something you like.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### For Character Description
 
@@ -69,10 +62,17 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 ![D&D character Anomander Rake's physical description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/d-d-character-anomander-rake-s-physical-description.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### To Determine Character Traits and NPC Attributes
@@ -93,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 
  The prompt might be too long for DALL-E 2, but you can still ask ChatGPT to shorten it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### To Create a Character Image
 
  If you’re new to it, you should first learn [how to use DALL-E 2](https://www.makeuseof.com/how-to-use-dall-e-2/) so you know how to create an account and be aware of its workings. Once that’s done, you should add a few key things to the description you give DALL-E.
@@ -109,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 * Specify “portrait” if you want a bust image. Doing this will leave less room for DALL-E 2 to mess up the rest of the image.
 
 ![DALL-E 2's results from the prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dall-e-2-s-results-from-the-prompt.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're unhappy with the results, you can keep clicking**Generate** to create more images. If there’s an image close to what you want, click it and select**Variations** so that DALL-E can create more like that. If you find something you like, select it and click the**Download** button (represented by a download arrow) on the top right of the image. All your previously generated images are saved on the right menu, so don’t worry about losing them.
 
@@ -135,16 +135,14 @@ All images you download from DALL-E have watermarks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-gopro-hero5-black-vs-garmin-virb-ultra-30-which-better-2022-upda/"><u>[New] 2024 Approved GoPro Hero5 Black VS Garmin VIRB Ultra 30 Which Better? [2022 Upda]</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-raisingthebarbeyondmycam-cameras/"><u>[New] In 2024, RaisingTheBarBeyondMyCam Cameras</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-efficient-techniques-for-secure-and-effective-lecture-capturing-using-imac/"><u>[Updated] In 2024, Efficient Techniques for Secure and Effective Lecture Capturing Using iMac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-nubia-red-magic-9-proplus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Nubia Red Magic 9 Pro+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-navigating-personal-information-security/"><u>ChatGPT: Navigating Personal Information Security</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-pros-and-cons-of-local-language-models/"><u>Deciphering the Pros and Cons of Local Language Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-googles-ai-vision-an-exploration-into-geminis-mission-and-scope/"><u>Decoding Google's AI Vision - An Exploration Into Gemini’s Mission and Scope</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-red-magic-8s-proplus-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Red Magic 8S Pro+ by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-startech-usb-vga-graphic-card-drivers-get-your-free-copy/"><u>Latest StarTech USB VGA Graphic Card Drivers - Get Your Free Copy!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secure-play-end-fallout-4-crashes-on-windows/"><u>Secure Play: End Fallout 4 Crashes on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-veiled-algorithms-ai-black-boxes-demystified/"><u>Unveiling the Veiled Algorithms: AI Black Boxes Demystified</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-freeze-whole-website-panel/"><u>2024 Approved Freeze Whole Website Panel</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-selective-recommendations-for-advanced-voice-alteration-tools/"><u>2024 Approved Selective Recommendations for Advanced Voice Alteration Tools</u></a></li>
+<li><a href="https://discover-best.techidaily.com/abbyy-champions-international-campaign-for-building-confident-dependable-artificial-intelligence-systems/"><u>ABBYY Champions International Campaign for Building Confident, Dependable Artificial Intelligence Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/code-creation-contenders-github-copilot-vs-chatgpts-skills/"><u>Code Creation Contenders: GitHub Copilot Vs. ChatGPT's Skills</u></a></li>
+<li><a href="https://fox-search.techidaily.com/customize-journey-options-quickly-through-pathway-configuration-panel/"><u>Customize Journey Options Quickly Through Pathway Configuration Panel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-free-twitter-stream-linuss-hidden-tech-trojans-explained-and-ai-chatbot-woes/"><u>Emoji-Free Twitter Stream, Linus's Hidden Tech, Trojans Explained, & AI ChatBot Woes.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-career-goals-with-chatgpt/"><u>Maximizing Career Goals with ChatGPT</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-change-aspect-ratio-in-imovie/"><u>New In 2024, How to Change Aspect Ratio in iMovie</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overreliance-on-algorithms-in-patient-care-might-lead-to-wrong-treatment/"><u>Overreliance on Algorithms in Patient Care Might Lead to Wrong Treatment</u></a></li>
 </ul></div>
 

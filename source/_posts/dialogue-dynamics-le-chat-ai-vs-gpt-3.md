@@ -1,7 +1,7 @@
 ---
 title: "Dialogue Dynamics: Le Chat AI vs GPT-3"
-date: 2024-10-12T05:14:47.099Z
-updated: 2024-10-14T23:09:10.251Z
+date: 2024-10-17T20:13:50.711Z
+updated: 2024-10-20T21:01:57.566Z
 tags:
   - chatgpt
   - open-ai
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 
  But is this fledgling AI chatbot really worth the title? Is Mistral's Le Chat better than ChatGPT?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Mistral AI's Le Chat?
 
  Le Chat is a conversational AI chatbot developed by French AI startup Mistral AI. It is powered by several Mistral-owned large language models, including Mistral Large, Mistral Small, and Mistral Next, all of which you can choose to use when interacting with the AI chatbot. Although it is a relatively new entrant in the AI chatbot space, it is rated highly because of the performance of its AI models despite their smaller size when compared to industry heavyweights like Gemini and GPT-4\.
@@ -60,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 
  I've been wondering the same, and to find out, I tested Le Chat extensively to see how it compares to ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Le Chat vs. ChatGPT: Creativity
 
  Creativity is one of the most important metrics for judging the performance of a conversational AI chatbot. Remember, the purpose of an AI chatbot is to replicate or mimic the conversational abilities and creative flair of humans at scale. This makes creativity a very important strength for any AI chatbot. The world has experimented with ChatGPT for over a year, and its creative abilities are undeniable. But how does Le Chat compare? We put both chatbots to a series of creativity tests.
@@ -70,22 +70,15 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 
 ![ChatGPT describes itself-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-describes-itself-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And here's how Le Chat would describe itself as well:
 
 ![Le Chat Mistral describes itself](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-describes-itself.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Both responses were appropriate in their own unique ways. ChatGPT was more invested in using vivid imagery and metaphors to describe itself, demonstrating creative flair. On the other hand, Le Chat's response is very informational and focused on describing its essence as an AI chatbot. Some may say it lacks the creative flair and artistic approach that ChatGPT's response exhibits. However, I'll go out on a limb to say I prefer Le Chat's easier-to-imagine response to ChatGPT's abstract description.
@@ -96,16 +89,16 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 
 ![ChatGPT writes rap about cocumbers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-rap-about-cocumbers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And here's Le Chat's response:
 
 ![Le Chat Mistral writes song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-writes-song.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It might be a subjective issue, but ChatGPT's response seemed like the better option here. Le Chat's lyrics seemed quite wordy and didn't really read like something a rapper would put out. To test how both lyrics would sound if they were to be made into music, we used [Suno AI music generator to generate music](https://www.makeuseof.com/suno-ai-make-music-from-text-prompt/) from the lyrics. Three out of three trials, ChatGPT's lyrics sounded way better. Below are two samples from both AI chatbots, you can be the judge of which chatbot did better.
 
@@ -131,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Each time we repeated the prompt, ChatGPT created a functional to-do list app using different styles. In no instance did the generated code fail to work.
 
  When I tried the same prompt with Le Chat, it generated what appeared to be intelligible code, but when we tried running it on a browser, it wasn't functional. After repeating the prompt three times, no instance produced code that could complete the set task. It failed in one of the most basic coding tasks—red flag!
@@ -138,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
  Of course, I won't judge Le Chat on one failed test. Next, I asked both chatbots to generate JavaScript and PHP code for encrypting and decrypting text. In this second test, both ChatGPT and Le Chat produced functional code that could perform the set task. However, Le Chat's version seemed like what an inexperienced entry-level programmer would write. ChatGPT's code, on the other hand, was more complete and looked like it was written by an experienced programmer.
 
  I repeated a few more programming tests involving finding and fixing bugs, and ChatGPT consistently outperformed Le Chat. In some instances, Le Chat didn't even know what it was supposed to do. There's a good chance Le Chat can measure up to ChatGPT in some areas, but coding skills don't seem to be one of them.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Le Chat vs. ChatGPT: Common Sense and Logical Reasoning
 
@@ -159,6 +152,19 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
  Le Chat tried the same task and was able to solve the problem, although using a different approach.
 
 ![Le Chat Mistral logical reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-logical-reasoning.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Both chatbots performed comparably on this test.
 
@@ -195,24 +201,17 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unnoticed-consumers-of-fb-stories/"><u>[New] 2024 Approved Unnoticed Consumers of Fb Stories</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-excellent-sd-cards-compatible-with-gopro-hero-7-and-8-for-2024/"><u>[New] Excellent SD Cards Compatible with GoPro Hero 7 & 8 for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-speedy-engagement-the-how-to-for-video-speed-in-stories/"><u>[New] Speedy Engagement The How-To for Video Speed in Stories</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unlock-your-phone-camera-free-and-easy/"><u>[New] Unlock Your Phone Camera, Free & Easy</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-save-verbatim-audio-review-notes/"><u>[Updated] 2024 Approved Save Verbatim Audio, Review Notes</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-top-10-hexacopter-drone-breakthroughs/"><u>2024 Approved Top 10 Hexacopter Drone Breakthroughs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unforgettable-stop-motion-films-the-top-15-list/"><u>2024 Approved Unforgettable Stop-Motion Films - The Top 15 List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-showdown-gpt-3-vs-bard-who-leads-the-way/"><u>AI Showdown: GPT-3 Vs. Bard – Who Leads the Way?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/analysis-of-virtual-conversations-gpt-and-bing-compared/"><u>Analysis of Virtual Conversations: GPT & Bing Compared</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crypto-expectations-vs-chatgpt-realities-key-differences/"><u>Crypto Expectations Vs. ChatGPT Realities: Key Differences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-intelligence-discovering-this-years-top-5-technological-frontiers/"><u>Elevating Intelligence: Discovering This Year's Top 5 Technological Frontiers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-dialogue-support-merging-gpt-3-with-whatsapp/"><u>Enhanced Dialogue Support: Merging GPT-3 with WhatsApp</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicated-window-10-wide-view-issues/"><u>Eradicated Window 10 Wide-View Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-checkpoints-integrating-ai-assisted-mental-support-via-chatgpt/"><u>Essential Checkpoints: Integrating AI-Assisted Mental Support via ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-innovations-potential-se-engine-counterparts/"><u>GPT Innovations: Potential SE Engine Counterparts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-nokia-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Nokia Without PUK Codes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intellectual-abilities-of-chatgpt-upheld/"><u>Intellectual Abilities of ChatGPT Upheld</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-from-graphic-geniuses-to-sticker-stars-in-all-chat-apps/"><u>Step by Step From Graphic Geniuses to Sticker Stars in All Chat Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-comparison-chatbot-face-off-between-gpt-and-huggingchat/"><u>The Ultimate Comparison: Chatbot Face-Off Between GPT & HuggingChat</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-compelling-conversations-essential-expressions/"><u>[New] Crafting Compelling Conversations Essential Expressions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-getting-your-vlogging-started-key-items-and-software/"><u>[New] Getting Your Vlogging Started Key Items & Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamline-shorter-optimizing-youtube-videos-for-less-time-for-2024/"><u>[New] Streamline Shorter Optimizing YouTube Videos for Less Time for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-best-text-effects-for-your-video/"><u>[Updated] 10 Best Text Effects for Your Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-breaking-down-complex-gif-concepts-for-beginners/"><u>[Updated] Breaking Down Complex GIF Concepts for Beginners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wma-aac-movavi/"><u>網路上無成本 WMA AAC 格式切換 - 使用 Movavi 音頻編碼器</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/browse-or-plugin-deciding-on-the-ideal-chatgpt-experience-for-your-needs/"><u>Browse or Plugin? Deciding on the Ideal ChatGPT Experience for Your Needs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-navigating-lg-channels-top-tips-and-crucial-facts/"><u>Comprehensive Guide to Navigating LG Channels: Top Tips and Crucial Facts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fraudulent-chromatic-plugin-grabs-facebook-authentications/"><u>Fraudulent Chromatic Plugin: Grabs FACEBOOK Authentications</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-poco-c50-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Poco C50 Phone Screen?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-gpt-4-at-zero-cost-four-insider-tips/"><u>Navigating GPT-4 at Zero Cost: Four Insider Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergizing-tasks-through-smart-chatbot-dialogues/"><u>Synergizing Tasks Through Smart Chatbot Dialogues</u></a></li>
 </ul></div>
 

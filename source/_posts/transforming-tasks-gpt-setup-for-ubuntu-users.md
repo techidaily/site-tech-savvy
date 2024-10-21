@@ -1,7 +1,7 @@
 ---
 title: "Transforming Tasks: GPT Setup for Ubuntu Users"
-date: 2024-10-11T06:52:42.145Z
-updated: 2024-10-15T13:50:12.249Z
+date: 2024-10-16T00:17:41.794Z
+updated: 2024-10-20T19:54:06.647Z
 tags:
   - chatgpt
   - open-ai
@@ -64,10 +64,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 `cd Auto-GPT`
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 1: Configure Auto-GPT on Ubuntu
@@ -81,6 +81,19 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  To generate an API key, click on the **Create new secret key** button, add any name, and copy the API key by pressing **Ctrl + C** or clicking the copy icon. You'll use this key as credentials for your AI assistant to use OpenAI's GPT technology.
 
 ![Creating OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-get-api-key.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once copied, paste the key inside the **.env** file. The env file will store all the API keys that you use with Auto-GPT. If you don't need a backend vector database like Pinecone, your OpenAI API key should be enough to use Auto-GPT.
 
@@ -98,13 +111,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `sudo mv .env.template .env`
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 2: Install Auto-GPT Dependencies on Ubuntu
 
  Auto-GPT uses a lot of Python libraries. You will need to install all the packages using pip and the **requirements.txt** text file that comes with the AutoGPT source code.
@@ -115,18 +121,18 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Install Auto-GPT requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-install-requirements.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, try running Auto-GPT using:
 
 `python3 -m autogpt`
 
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
 
@@ -135,13 +141,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  With Auto-GPT installed, you can now make your own AI assistant. There are two modes when it comes to using Auto-GPT. In the default mode, you only need to provide a task. Based on the specified task, Auto-GPT will automatically generate your AI assistant's name, its role, and its goals.
 
 ![Auto-GPT auto mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-auto.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In manual mode, Auto-GPT will ask you to specify a name, a goal, and up to five goals you want the AI assistant to follow while doing its task. This mode allows you to be in control of how your AI assistant will function.
 
@@ -159,19 +158,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Input-Commands for Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-input-y.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can approve the AI's next action by typing "**y**" for yes. If you don't want the AI to continue with its plans, you can type "**n**" for no and exit.
 
  If you trust your AI assistant and don't want to continue monitoring all of its thoughts and actions, you can type "**y -(number)**". For example, if you want Auto-GPT to execute its next five actions, you can type "**y -5**". Furthermore, if you want to provide feedback to your AI assistant, you can also type your prompt as input.
@@ -184,6 +170,19 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
 
 ## Limitations of Auto-GPT
@@ -193,6 +192,19 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  A big part of this problem was the AI’s inability to handle website ads, cookies, log-in pages, and pop-ups. It was likely caused by the fact that Auto-GPT is still in its early development phase.
 
  So for now, you should only use Auto-GPT as a way to play and experiment with AI assistants.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Auto-GPT Will Keep Getting Better and Better
 
@@ -219,16 +231,22 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-transform-your-podcast-ideas-into-proficient-scriptwriting-techniques-samples/"><u>[Updated] In 2024, Transform Your Podcast Ideas Into Proficient Scriptwriting (Techniques, Samples)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-intellectual-quests/"><u>AI's Impact on Intellectual Quests</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auditory-instructions-for-effective-chatgpt-commanding/"><u>Auditory Instructions for Effective ChatGPT Commanding</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-itel-a70-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Itel A70</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-ais-potential-four-fee-less-approaches/"><u>Discovering AI's Potential: Four Fee-Less Approaches</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-engaging-eyes-most-favored-insta-filters/"><u>In 2024, Engaging Eyes Most Favored Insta Filters</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-ensure-lasting-tiktok-videos-proper-saving-on-phones/"><u>In 2024, Ensure Lasting TikTok Videos Proper Saving on Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-allure-of-ai-conversations-exploring-bot-usage/"><u>The Allure of AI Conversations: Exploring Bot Usage</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-10-iphone-optimization-tools-of-2cuary-simplify-your-device-with-the-ultimate-clean-up-apps/"><u>Top 10 iPhone Optimization Tools of 2Cuary: Simplify Your Device with the Ultimate Clean-Up Apps</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-features-of-the-samsung-galaxy-fit-a-review-tailored-to-active-individuals/"><u>Unveiling the Features of the Samsung Galaxy Fit - A Review Tailored to Active Individuals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/when-machines-mentored-humanity-the-dawn-of-ai/"><u>When Machines Mentored Humanity: The Dawn of AI</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-8-best-video-conferencing-software-for-small-business-safe-and-stable/"><u>[New] 2024 Approved 8 Best Video Conferencing Software for Small Business (Safe and Stable)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-price-scale-for-shooting-tunes-in-visual-narratives/"><u>[New] 2024 Approved Price Scale for Shooting Tunes in Visual Narratives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-shooter-showdown-our-best-picks/"><u>[Updated] In 2024, Ultimate Shooter Showdown - Our Best Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-film-a-beginners-guide-to-essential-shots/"><u>[Updated] Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2023-unveiled/"><u>2023 Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-efficiency-in-human-resources-discover-5-game-changing-chatgpt-shortcuts/"><u>Boost Efficiency in Human Resources: Discover 5 Game-Changing ChatGPT Shortcuts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-talk-directly-to-chatgpt/"><u>Discover: Talk Directly to ChatGPT!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-series-7-to-series-10-the-compelling-case-for-staying-with-my-current-smartwatch-on-zdnet/"><u>From Series ^7 to Series 10? The Compelling Case for Staying with My Current Smartwatch on ZDNET</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-google-pixel-fold-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Google Pixel Fold FRP Locks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-tech-choices-a-deep-dive-into-apples-top-tier-tablet-versus-macbook-alternatives/"><u>Navigating Tech Choices: A Deep Dive Into Apple's Top-Tier Tablet Versus MacBook Alternatives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/securing-high-quality-sound-from-anywhere-for-2024/"><u>Securing High-Quality Sound From Anywhere for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-troubleshooting-for-no-more-lines-on-your-iphone-error/"><u>Step-by-Step Troubleshooting for 'No More Lines on Your iPhone' Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-18-unbeatable-prime-day-laptop-offers-from-hp-apple-and-razer-exclusive-deals-for-savvy-shoppers/"><u>Top 18 Unbeatable Prime Day Laptop Offers From HP, Apple & Razer - Exclusive Deals for Savvy Shoppers</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-affordable-windows-laptop-picks-comparing-brands-like-acer-and-dell-expert-insights/"><u>Top Affordable Windows Laptop Picks: Comparing Brands Like Acer & Dell - Expert Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-budget-friendly-tablets-in-depth-analysis-and-comparisons-by-tech-experts-zdnet/"><u>Top Budget-Friendly Tablets : In-Depth Analysis & Comparisons by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-of-its-game-discover-enhanced-apple-vision-pro-demo-experiences-booking-guide-for-an-unbeatable-test-drive-zdnet/"><u>Top of Its Game: Discover Enhanced Apple Vision Pro Demo Experiences - Booking Guide for an Unbeatable Test Drive | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-apple-pay-later-transactions-now-reflected-on-experian-credit-reports-what-you-need-to-know/"><u>Upcoming Apple Pay Later Transactions Now Reflected on Experian Credit Reports: What You Need to Know</u></a></li>
 </ul></div>
 

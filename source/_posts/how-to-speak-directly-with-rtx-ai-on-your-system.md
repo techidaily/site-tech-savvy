@@ -1,7 +1,7 @@
 ---
 title: How to Speak Directly with RTX AI on Your System
-date: 2024-10-13T08:50:53.014Z
-updated: 2024-10-14T17:01:41.654Z
+date: 2024-10-17T02:43:56.327Z
+updated: 2024-10-21T01:30:04.749Z
 tags:
   - chatgpt
   - open-ai
@@ -48,16 +48,16 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
  If you want to try out Nvidia Chat with RTX, here's how to download, install, and configure it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Download and Install Chat with RTX
 
 ![Chat with RTX official web page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/download-chat-with-rtx.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Nvidia has made running an LLM locally on your computer much easier. To run Chat with RTX, you only need to download and install the app, just as you would with any other software. However, Chat with RTX does have some minimum specification requirements to install and use properly.
 
@@ -74,14 +74,14 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 * **Step 3:** Open the extracted folder and double-click **setup.exe**. Follow the onscreen instructions and check all the boxes during the custom installation process. After hitting **Next**​​​​​​, the installer will download and install the LLM and all dependencies.  
 ![Installation process of Chat with RTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/installing-wait.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Chat with RTX installation will take some time to finish as it downloads and installs a large amount of data. After the installation process, hit **Close**, and you're done. Now, it's time for you to try out the app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Nvidia Chat with RTX
 
@@ -96,13 +96,20 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 ![Create data folder for RAG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mmets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now your database is ready, you can set up Chat with RTX and start using it to answer your questions and queries.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Set Up Environment
 
@@ -114,36 +121,15 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
  You are now ready to use Chat with RTX.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Ask Chat with RTX Your Questions
 
  There are several ways to query Chat with RTX. The first one is to use it like a regular AI chatbot. I asked Chat with RTX about the benefits of using a local LLM and was satisfied with its answer. It wasn't enormously in-depth, but accurate enough.
 
 ![Using Chat with RTX like a regular chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/2-using-chat-with-rtx-as-regular-chatbot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But since Chat with RTX is capable of RAG, you can also use it as a personal AI assistant.
 
 ![Asking Chat with RTX personal questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/asking-personal-questions.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Above, I've used Chat with RTX to ask about my schedule. The data came from a PDF file containing my schedule, calendar, events, work, and so on. In this case, Chat with RTX has pulled the correct calendar data from the data; you'll have to keep your data files and calendar dates updated for features like this to work properly until there are integrations with other apps.
 
@@ -155,9 +141,23 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
 ![Set data path for YouTube](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/select-youtube-path.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Copy the YouTube URL you want to analyze and paste it below the drop-down menu. Then ask away!
 
 ![Using Chat with RTX to summarize a YouTube video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/5-chat-with-rxt-summarizing-youtube-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Chat with RTX's YouTube video analysis was pretty good and delivered accurate information, so it could be handy for research, quick analysis, and more.
 
@@ -194,21 +194,22 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-ethical-approaches-to-extract-mp4-from-youtube/"><u>[New] 2024 Approved Ethical Approaches to Extract MP4 From YouTube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-cutting-edge-science-education-through-yt-channels/"><u>2024 Approved Cutting Edge Science Education Through YT Channels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-principles-of-ai-use-for-effective-editing-and-writing/"><u>7 Principles of AI Use for Effective Editing and Writing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nubia-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nubia</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-developers-roadmap-to-building-intelligent-web-solutions-using-chatgpt/"><u>A Developer's Roadmap to Building Intelligent Web Solutions Using ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-guide-to-forging-poetry-with-gpt-3-help/"><u>A Guide to Forging Poetry with GPT-3 Help</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-world-of-ai-discover-insights-in-these-9-communities/"><u>A New World of AI: Discover Insights in These 9 Communities</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-your-content-access-free-vocal-sfx-for-2024/"><u>Boost Your Content Access Free Vocal SFX for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-but-impactful-music-shorts-on-youtube-unveiled/"><u>Brief but Impactful Music Shorts on YouTube Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721389813844-chatgpt-takes-the-ios-stage/"><u>ChatGPT Takes the iOS Stage!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-profitable-pathways-to-youtube-success-on-the-social-network-superstar/"><u>In 2024, Profitable Pathways to YouTube Success on the Social Network Superstar</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-sound-overcoming-voice-chat-glitches-in-destiny-2-gaming/"><u>Master the Sound: Overcoming Voice Chat Glitches in Destiny 2 Gaming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721420345678-no-emoji-tweets-on-twitter-linuss-insight-revealed-trojans-explained-and-chatgpt-concerns-addressed/"><u>No Emoji Tweets on Twitter, Linus's Insight Revealed, Trojans Explained, & ChatGPT Concerns Addressed</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719241276591-team-chat-freezing-heres-a-fix/"><u>Team Chat Freezing? Here’s a Fix!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/tips-and-solutions-preventing-darkest-dungeon-2-from-freezing-and-closing-windows/"><u>Tips & Solutions: Preventing Darkest Dungeon 2 From Freezing and Closing Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721366503700-unveiling-the-power-of-search-bings-ai-enters-your-devices/"><u>Unveiling the Power of Search: Bing's AI Enters Your Devices.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-guide-to-premium-extensions/"><u>[New] 2024 Approved Essential Guide to Premium Extensions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unlock-enhanced-video-playback-and-app-functionality-with-chromes-pip/"><u>[Updated] 2024 Approved Unlock Enhanced Video Playback and App Functionality with Chrome’s PIP</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-brand-with-these-10-keywords-on-facebook-for-2024/"><u>[Updated] Elevate Your Brand with These 10 Keywords on Facebook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fresh-take-on-the-enhanced-sony-s6500-media-device/"><u>[Updated] Fresh Take on the Enhanced Sony S6500 Media Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-revisiting-sonys-s6700-blu-ray/"><u>2024 Approved Revisiting Sony's S6700 Blu-Ray</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-conversational-ai-top-5-customized-gpt-techniques/"><u>Elevating Conversational AI: Top 5 Customized GPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-ipad-pro-embracing-apples-top-tier-tablet-that-defies-macbook-comparison-insights/"><u>Exploring the IPad Pro: Embracing Apple's Top-Tier Tablet That Defies MacBook Comparison Insights</u></a></li>
+<li><a href="https://techidaily.com/harnessing-cookiebot-technology-for-improved-online-engagement/"><u>Harnessing Cookiebot Technology for Improved Online Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-174-launches-featuring-enhanced-podcast-accessibility-fresh-emoji-additions-and-notable-updates-to-apples-eu-app-marketplace-tech-insights/"><u>IOS 17.4 Launches Featuring Enhanced Podcast Accessibility, Fresh Emoji Additions & Notable Updates to Apple's EU App Marketplace - Tech Insights</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-recoverable-videos-at-home/"><u>Reviving Recoverable Videos at Home</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategic-insights-dos-and-donts-of-incorcuating-chatgpt-in-writing-projects/"><u>Strategic Insights: Do’s and Don’ts of Incorcuating ChatGPT in Writing Projects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/talent-in-cocktails-chatgpts-evaluation/"><u>Talent in Cocktails: ChatGPT's Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-cognitive-behavior-and-ai-technologies/"><u>The Intersection of Cognitive-Behavior and AI Technologies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-temptation-of-tech-how-apples-usb-c-earpods-became-my-spontaneous-buy-during-prime-day/"><u>The Temptation of Tech: How Apple's USB-C EarPods Became My Spontaneous Buy During Prime Day</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-notch-laptop-bargains-in-july-2024-tech-insights-by-zdnet/"><u>Top Notch Laptop Bargains in July 2024 | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-iphone-16-and-pro-case-picks-comprehensive-protection-ratings-by-tech-experts-zdnets-review/"><u>Top-Ranked iPhone 16 & Pro Case Picks : Comprehensive Protection Ratings by Tech Experts | ZDNet's Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-does-my-pc-keep-restarting-comprehensive-troubleshooting-guide-for-windows-1110/"><u>Why Does My PC Keep Restarting? Comprehensive Troubleshooting Guide for Windows 11/10</u></a></li>
 </ul></div>
 

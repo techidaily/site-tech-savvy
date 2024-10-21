@@ -1,7 +1,7 @@
 ---
 title: "Exploring State-of-the-Art AIs: PaLM 2 Vs. GPT-4"
-date: 2024-10-11T01:18:23.271Z
-updated: 2024-10-15T12:22:38.791Z
+date: 2024-10-14T00:58:04.599Z
+updated: 2024-10-21T03:44:11.305Z
 tags:
   - chatgpt
   - open-ai
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
  Another obvious performance advantage that PaLM 2 carries over GPT-4 is its availability in different sizes. This means that different versions of the model, Gecko, for instance, can run on mobile devices, even without an internet connection, and provide onboard AI capabilities—something we're yet to see from GPT-4\. This kind of on-device processing gives PaLM 2 an edge over GPT-4 when it comes to accessibility and deployment.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Differences in GPT-4 and PaLM 2 Training Data
@@ -82,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
 ![Setting an emoji wallpaper on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/emoji-wallpapers-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Google I/O 2023 was filled with announcements about how PaLM 2 and generative AI integration will improve the Google Workspace experience with AI features coming to Google Docs, Sheets, Slides, Gmail, and just about every service the search giant offers. In addition, Google has confirmed that PaLM 2 has already been integrated into over 25 Google products, including Android and YouTube.
@@ -96,18 +96,18 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
 
 ![A screenshot of Microsoft's Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's not to say that developers won't be switching to or at least trying out PaLM 2, but Google still has to play catch-up with OpenAI on that front. The fact that PaLM 2 is open-source, instead of being locked behind a paid API, means it has the potential to be more widely adopted than GPT-4\.
 
  All things considered, at the moment, the PaLM 2-powered Bard appears to be the better choice when it comes to research as it is better at answering questions with relevant information and accessing the latest information on the internet about any given subject. [According to Bard's latest update](https://bard.google.com/updates), delivered on September 19, 2023, Bard is now using its "most capable model yet" with support for another 40 languages, in-depth coding assistance, the ability to present different perspectives on a given topic, and general quality and accuracy improvements.
 
  You also get the option of double-checking Bard's responses with Google searches. However, on the performance front, the model still takes longer to generate responses as compared to the GPT-4 powered ChatGPT or Bing Chat.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can PaLM 2 Take on GPT-4?
 
@@ -116,10 +116,16 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
  However, GPT-4 is still quite a capable model and, as mentioned before, beats PaLM 2 in quite a few comparisons. That said, PaLM 2's multiple smaller models give it an irrefutable edge. Gecko itself is so lightweight that it can work on mobile devices, even when offline. This means that PaLM 2 can support an entirely different class of products and devices that might struggle to use GPT-4\.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The AI Race Is Heating Up
@@ -145,20 +151,19 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-record-video-with-logitech-webcam-guide/"><u>[New] In 2024, Record Video with Logitech Webcam [Guide]</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-streamline-your-social-networking-joining-instagram-and-facebook-seamlessly/"><u>[New] In 2024, Streamline Your Social Networking Joining Instagram & Facebook Seamlessly</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/advanced-oversight-features-unveil-strategic-insights-within-the-abbyy-flexicapture-suite/"><u>Advanced Oversight Features Unveil Strategic Insights Within the ABBYY FlexiCapture Suite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beating-anxiety-with-innovative-5-chatbot-therapy/"><u>Beating Anxiety with Innovative 5 Chatbot Therapy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/driving-ai-innovation-the-crucial-function-of-vector-databases/"><u>Driving AI Innovation: The Crucial Function of Vector Databases</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-thresholds-what-it-cant-understand/"><u>GPT's Thresholds: What It Can't Understand</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-the-art-of-capturing-sims-4-essential-techniques-unveiled/"><u>In 2024, Mastering the Art of Capturing Sims 4 – Essential Techniques Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpts-troubleshooting-swift-solutions-for-errors/"><u>Mastering GPT's Troubleshooting: Swift Solutions for Errors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-written-expression-with-chatgpt-six-key-approaches/"><u>Mastering Written Expression with ChatGPT: Six Key Approaches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/principles-of-learning-not-relying-on-gpt-for-grades/"><u>Principles of Learning: Not Relying on GPT for Grades</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/quickmemes-your-meme-toolkit/"><u>QuickMemes Your Meme Toolkit</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-blade-a73-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Blade A73 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/taking-mobile-to-new-heights-how-ai-transforms-your-bing-experience-on-android/"><u>Taking Mobile to New Heights: How AI Transforms Your Bing Experience on Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-power-behind-snapchats-my-ai-explored-in-6-aspects/"><u>The Power Behind Snapchat's My AI Explored in 6 Aspects</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-precision-photography-the-most-exceptional-phones-for-4k-imaging/"><u>[New] In 2024, Precision Photography The Most Exceptional Phones for 4K Imaging</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unlock-youtube-success-proven-techniques-for-effective-tagging/"><u>[New] In 2024, Unlock YouTube Success Proven Techniques for Effective Tagging</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-full-spectrum-analysis-unpacking-xstudio-video-workshop-essentials/"><u>[Updated] 2024 Approved Full Spectrum Analysis Unpacking XStudio Video Workshop Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-your-videos-potential-with-smooth-narrative-flows/"><u>[Updated] Unlocking Your Videos' Potential with Smooth Narrative Flows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/avoiding-constant-printer-service-disruptions-on-win7win10/"><u>Avoiding Constant Printer Service Disruptions on Win7/Win10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-14-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 14 with a Broken Screen?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-images-scenery-for-engaging-online-audiences/"><u>Ideal Images Scenery for Engaging Online Audiences</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-engage-audiences-with-free-video-teasers/"><u>In 2024, Engage Audiences with Free Video Teasers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-vpn-promotions-available-today-exclusive-offers-by-zdnet/"><u>Top VPN Promotions Available Today - Exclusive Offers by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-fire-tv-stick-vpn-services-in-2ebyfiretvstickvpnscom/"><u>Top-Rated Fire TV Stick VPN Services in 2ebyfire_tv_stickVPNs.com</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mac-vpn-services-comprehensive-reviews-by-experts-choose-wisely/"><u>Top-Rated Mac VPN Services: Comprehensive Reviews by Experts - Choose Wisely!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mac-vpn-services-thoroughly-tested-and-reviewed-by-professionals-zdnet/"><u>Top-Rated Mac VPN Services: Thoroughly Tested & Reviewed by Professionals | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-vpn-providers-comprehensive-evaluations-by-tech-gurus-zdnet/"><u>Top-Rated VPN Providers : Comprehensive Evaluations by Tech Gurus - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-vpns-compatible-with-windows-comprehensive-analysis-and-reviews-techradar/"><u>Top-Rated VPNs Compatible with Windows: Comprehensive Analysis & Reviews | TechRadar</u></a></li>
 </ul></div>
 

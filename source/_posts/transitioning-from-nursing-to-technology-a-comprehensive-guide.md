@@ -1,7 +1,7 @@
 ---
 title: "Transitioning From Nursing to Technology: A Comprehensive Guide"
-date: 2024-09-19 19:19:20
-updated: 2024-09-20 10:36:11
+date: 2024-10-13T16:15:46.248Z
+updated: 2024-10-21T01:11:55.808Z
 tags:
   - professional-development
 categories:
@@ -29,9 +29,23 @@ While many of the hard skills in nursing might not appear transferable, analytic
 
 When considering a move into tech, make a list of your strengths with workplace examples for each one. This research can help you identify career paths and build strong [job applications](https://www.zdnet.com/education/tech-job-application-guide/).
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Technical roles for former nurses in tech
 
 This section introduces technical roles that play to nurses' strengths. Eligibility for these jobs depends on your education, skills, and prior experience.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Nursing informaticist
 
@@ -77,6 +91,13 @@ Junior web developers build websites that function smoothly. They create the vis
 
 Web developers typically need a college degree and some programming training. [Full-stack web development bootcamps](https://www.zdnet.com/education/bootcamps/full-stack-web-development-bootcamps-top-programs-and-what-to-expect/) and [web development certificates](https://www.zdnet.com/education/computers-tech/best-online-web-development-certificate/) may help people break in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Non-technical roles for former nurses in tech
 
 If you're curious about how to get into tech as a nurse and technical roles seem out of reach, consider some of the following non-technical jobs. Try researching computer science jobs without coding, too.
@@ -107,6 +128,13 @@ A healthcare background with experience in occupational or environmental health 
 
 Tech sales professionals discuss tech services and products with potential customers. They meet with clients, discuss their needs, and explain how to use different technologies. Professionals build strong relationships with clients, making these great tech jobs for extroverts. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Product manager
 
 **Minimum degree required:** Bachelor's  
@@ -120,6 +148,13 @@ Tech sales professionals discuss tech services and products with potential custo
 Product managers oversee a product's lifecycle from planning through development, production, and marketing. 
 
 They collect data on customer demand, create timelines for bringing a product to the market, and coordinate with manufacturing and engineering team members to complete a product.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips for how to get into tech from nursing
 
@@ -136,6 +171,13 @@ Our tips walk through the process of how to get into tech as a nurse.
 Before investing in a career change, carefully consider what type of role you want. Do your skills fit better with a technical or non-technical role? What industry would you prefer to work in? How much does work/life balance matter?
 
 When exploring [computer science careers](https://www.zdnet.com/education/computers-tech/best-careers-with-computer-science-degree/), you can also consider job growth numbers, [computer science salaries](https://www.zdnet.com/education/computers-tech/computer-science-salary/), and job duties.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Upskill
 
@@ -200,11 +242,33 @@ _Last reviewed March 31, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-transforming-tweets-into-audio-based-archives/"><u>2024 Approved Transforming Tweets Into Audio-Based Archives</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728497240428-4/"><u>他のサービスでも使える、アップルミュージックとは違う曲リスト共有方法4つ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-revelation-openais-gpt-4-unveiling/"><u>Cutting Edge Revelation: OpenAI's GPT-4 Unveiling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-ai-systems-transforming-internet-search/"><u>Cutting-Edge AI Systems Transforming Internet Search</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-artificial-authors-in-literary-works/"><u>Deciphering Artificial Authors in Literary Works</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-claude-pros-innovations-versus-gptplusplusplus/"><u>Dissecting Claude Pro's Innovations Versus GPT++Plus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-parse-errors-in-android-top-8-tactics-explained/"><u>Fixing Parse Errors in Android: Top 8 Tactics Explained</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-itel-a60-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Itel A60 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-s17-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo S17 to Roku | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-conversion-free-online-transformar-tu-foto-tiff-en-un-formato-optimizado-jpeg-gratis-desde-cualquier-dispositve/"><u>Movavi Conversion Free Online: Transformar Tu Foto TIFF en Un Formato Optimizado JPEG Gratis Desde Cualquier Dispositve</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/premium-aerial-choices-for-high-quality-gopro-recordings/"><u>Premium Aerial Choices For High-Quality GoPro Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-exceptional-cover-letters-with-gpt-3/"><u>Step by Step Guide to Exceptional Cover Letters with GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/take-command-of-your-data-leading-extensions-for-ai-dialogues/"><u>Take Command of Your Data: Leading Extensions for AI Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-impact-of-ai-on-content-creation-workflow/"><u>Transformative Impact of AI on Content Creation Workflow</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transformez-votre-fichier-flac-en-format-wma-sans-frais-tutorial-avec-movavi/"><u>Transformez Votre Fichier FLAC en Format WMA Sans Frais - Tutorial Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-chatgpt-platinum-its-merits-and-shortcomings/"><u>Unmasking ChatGPT Platinum - Its Merits and Shortcomings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-at-toms-electronics-hub/"><u>Unveiling the Latest in Computing at Tom's Electronics Hub</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-mastery-freeze-frames-slow-motion-and-beyond/"><u>Updated FCPX Mastery Freeze Frames, Slow Motion, and Beyond</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/website-creation-leveraging-gpts-4-key-strategies/"><u>Website Creation: Leveraging GPT's 4 Key Strategies</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "AI for Everyone: Start Your Journey with Our Top 9 Online Spaces"
-date: 2024-10-11T06:45:27.312Z
-updated: 2024-10-15T11:20:39.060Z
+date: 2024-10-18T16:18:44.519Z
+updated: 2024-10-21T01:08:19.897Z
 tags:
   - chatgpt
   - open-ai
@@ -44,27 +44,47 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 
 ![ChatGPT Prompts Repositories on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Anyone interested in AI should sign up for GitHub. It’s a paid source code-hosting site that lets users collaborate on coding and programming projects. You and your partners can take codes straight from repositories.
 
  Likewise, GitHub accommodates newbies. You can scroll through repositories and study resources with a free account. Find any topic you want. Just note that you’ll have limited collaborative freedom until you upgrade your membership.
 
  Let’s say you’re interested in ChatGPT. While you can’t train LLMs with other users, you can search for [effective ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. r/ChatGPTJailbreak
 
 ![ChatGPT Jailbreak Prompts on Reddit Communities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-for-chatgpt-prompts.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT has less rigid restrictions than other chatbots. For instance, Bing Chat automatically terminates conversations that go against its guidelines, while ChatGPT still responds. You can generate different outputs by rephrasing your prompts.
@@ -73,22 +93,15 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 
 ![ChatGPT Refusing to Act Like Tomie Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-rejecting-roleplay-request-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After rephrasing the instructions and adding more details, it quickly obliged.
 
 ![ChatGPT Accepts Roleplay Request and Starts Acting Like Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepts-roleplay-request-as-tomie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
@@ -96,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 ## 4\. ChatGPT Prompt Engineers
 
 ![A Facebook Group for Sharing and Posting ChatGPT Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/facebook-group-chatgpt-prompt-engineers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT Prompt Engineers is a decent community for beginners. Members just typically ask general knowledge questions about writing prompts and getting optimal outputs. You won’t have trouble keeping up with discussions.
 
@@ -142,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 
 ![Reddit Community for Stable Diffusion Prompts and Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stablediffusion-prompts-on-reddit.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  r/StableDiffusion is the largest subreddit dedicated to Stable Diffusion. The community allows sharing workflows. However, it primarily encourages users to post outputs and discuss relevant AI news—prompt engineering is merely a part of generating AI art.
 
  The group might be helpful if you prefer Stable Diffusion over Midjourney and Dall-E models. Study the system’s limits and capabilities. Users post various media forms, including 3D images, 2D portraits, and animations.
@@ -149,10 +162,10 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
  Meanwhile, artists who prefer other text-to-image models could use the group for comparisons. See which system provides the best outputs. You might even find Stable Diffusion users testing your preferred art styles frequently.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Sales, Marketing, Social Media, Artificial Intelligence (AI), ChatGPT Technology Innovation Network
@@ -160,10 +173,10 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 ![LinkedIn Group to Share AI Tips for Salespeople and Marketers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/linkedin-ai-group.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’s currently the largest AI community on LinkedIn. The group has around a million members worldwide, many of whom post regularly. It gets status updates every few minutes.
@@ -173,13 +186,6 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
  The admins are relatively active. Every few weeks, they upload relevant resources, like websites, PDFs, and tools. You can also connect with them for queries. Just don’t expect an immediate response unless you already have mutuals.
 
  Perhaps the only downside is the group gets plenty of spam. You might have to scroll through aggressive ads and campaigns before finding valuable content.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connect With Fellow Professionals in the AI Industry
 
@@ -206,17 +212,20 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-precision-editing-in-photopea-sculpting-cleaner-visual-space/"><u>[New] 2024 Approved Precision Editing in Photopea Sculpting Cleaner Visual Space</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-spotifys-ultimate-playlist-guide/"><u>[New] In 2024, Spotify's Ultimate Playlist Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-evolution-from-tools-to-smart-assistants/"><u>AI Evolution: From Tools to Smart Assistants</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/aomei-pxe-boot-tool-nutzung-eine-schritt-fur-schritt-anleitung/"><u>AOMEI PXE Boot Tool Nutzung: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-enhancing-vs-complicating-creative-endeavors/"><u>ChatGPT: Enhancing vs Complicating Creative Endeavors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhancing-in-car-audio-experience-with-the-lihan-lhfm1039-the-ultimate-wireless-fm-transmitter-review/"><u>Enhancing In-Car Audio Experience with the LIHAN LHFM1039: The Ultimate Wireless FM Transmitter Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-comical-caricatures-using-giphys-kit/"><u>In 2024, Craft Comical Caricatures Using Giphy's Kit</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-starting-a-successful-vlog-and-earning-potential/"><u>In 2024, Starting a Successful Vlog and Earning Potential</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mac-users-walkthrough-getting-started-with-microsoft-copilot-integration/"><u>Mac Users' Walkthrough: Getting Started with Microsoft Copilot Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-hidden-perils-of-ai-penned-literature/"><u>The Hidden Perils of AI-Penned Literature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-missing-self-editing-feature-in-gpt/"><u>The Missing Self-Editing Feature in GPT</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/zdnet-exclusive-mastering-ios-18s-control-center-personalization-techniques/"><u>ZDNET Exclusive: Mastering iOS 18'S Control Center Personalization Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-film-creation-guide-and-other-options-for-2024/"><u>[New] YouTube Film Creation Guide & Other Options for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-legal-landscape-what-to-watch-for/"><u>AI's Legal Landscape: What to Watch For?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/complete-tutorial-how-iphone-users-can-download-and-preserve-pdfs-from-whatsapp/"><u>Complete Tutorial: How iPhone Users Can Download and Preserve PDFs From WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-apple-airpods-pro-gen-3-evaluation-key-enhancements-and-performance-insights/"><u>Comprehensive Apple AirPods Pro (Gen 3) Evaluation: Key Enhancements & Performance Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/designing-an-emotional-film-flashback-frenzy/"><u>Designing an Emotional Film Flashback Frenzy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-privacy-measures-for-adaptive-chatgpt-applications/"><u>Enhancing Privacy Measures for Adaptive ChatGPT Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-red-dead-online-troubleshooting-steps-to-resolve-pc-crashes/"><u>Fixing Red Dead Online: Troubleshooting Steps to Resolve PC Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancers-opt-between-bing-chat-and-chatgptkey-decisions/"><u>Freelancers: Opt Between Bing Chat & ChatGPT—Key Decisions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/from-zero-to-zoom-expertise-in-a-flash/"><u>From Zero to Zoom Expertise in a Flash</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/post-turing-ponderings-new-lenses-for-intelligence-judgement/"><u>Post-Turing Ponderings: New Lenses for Intelligence Judgement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-auto-gpt-blueprint-in-contrast-to-chatgpts-design/"><u>The Auto-GPT Blueprint in Contrast to ChatGPT's Design</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-16-from-meizu-21-pro-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 16 from Meizu 21 Pro to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/transforming-audio-files-quick-and-simple-steps-for-switching-from-flac-to-ogg/"><u>Transforming Audio Files: Quick and Simple Steps for Switching From FLAC to Ogg</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-marvels-greatest-cartoon-hits-top-5-picks-for-collectors-edition-dvds/"><u>Ultimate Guide to Marvel's Greatest Cartoon Hits - Top 5 Picks for Collectors Edition DVDs</u></a></li>
 </ul></div>
 

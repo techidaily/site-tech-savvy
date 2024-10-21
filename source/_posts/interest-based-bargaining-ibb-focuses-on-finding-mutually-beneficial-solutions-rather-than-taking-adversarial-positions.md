@@ -1,7 +1,7 @@
 ---
 title: Interest-Based Bargaining (IBB) Focuses on Finding Mutually Beneficial Solutions Rather than Taking Adversarial Positions.
-date: 2024-09-17 13:22:56
-updated: 2024-09-20 12:33:17
+date: 2024-10-19T19:01:14.136Z
+updated: 2024-10-21T01:25:16.015Z
 tags:
   - speakers
 categories:
@@ -55,11 +55,32 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlock-creative-power-of-youtube-themes/"><u>[Updated] 2024 Approved Unlock Creative Power of YouTube Themes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-online-dialogues-ai-enforced-language-barriers-explained/"><u>Decoding Online Dialogues: AI-Enforced Language Barriers Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/determining-chatgpts-maximum-response-length/"><u>Determining ChatGPT’s Maximum Response Length</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-c33-2023-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme C33 2023 Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/metaverse-joke-ology-building-your-own-hilarious-memes-for-2024/"><u>Metaverse Joke-Ology Building Your Own Hilarious Memes for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-into-machine-learning-boon-or-bane-for-creative-writing/"><u>Probing Into Machine Learning: Boon or Bane for Creative Writing?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/say-goodbye-to-bloatware-with-these-44-superb-android-video-reducers-for-2024/"><u>Say Goodbye to Bloatware with These 44 Superb Android Video Reducers for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/seamless-video-restoration-platforms-online/"><u>Seamless Video Restoration Platforms Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-chrome-enhancers-leveraging-ai-for-efficiency-boosts/"><u>Top 8 Chrome Enhancers Leveraging AI for Efficiency Boosts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tweet-no-more-smiley-face-linuss-disclosure-trojan-explanation-and-gpt-problems-uncovered/"><u>Tweet No More Smiley Face, Linus’s Disclosure, Trojan Explanation, & GPT Problems Uncovered</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-entertainment-12-live-screening-suite/"><u>Ultimate Entertainment 12 Live Screening Suite</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

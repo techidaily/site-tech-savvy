@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Effective Free Artificial Intelligence Courses & Evaluate the Value of AI Certifications | Expert Analysis by ZDNET
-date: 2024-09-19 14:56:43
-updated: 2024-09-20 10:27:14
+date: 2024-10-19T20:46:30.600Z
+updated: 2024-10-20T17:01:52.211Z
 tags:
   - professional-development
 categories:
@@ -183,9 +183,23 @@ When it comes to the courses and programs I'm spotlighting here, there's no way 
 
 With all that, I will say that the absolute high point was [when I could get an AI to talk like a pirate](https://www.zdnet.com/article/i-used-chatgpt-to-rewrite-my-text-in-the-style-of-shakespeare-c3po-and-harry-potter/).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Some companies are promoting micro-degrees. They seem expensive, but fast, but are they any good?
 
 Let's be clear: A micro-degree is not a degree. It's a set of courses with a marketing name attached. Degrees are granted by accredited academic institutions, accredited by [regional accrediting bodies](https://en.wikipedia.org/wiki/Higher%5Feducation%5Faccreditation%5Fin%5Fthe%5FUnited%5FStates). I'm not saying you won't learn anything in those programs. But they're not degrees and they may cost more than just-as-good courses that don't have a fancy marketing name attached.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## So, do certificates have any value?
 
@@ -198,6 +212,13 @@ You can set a goal to learn a topic, and if you get a credential, you can be fai
 **See: [How to add a new credential to your LinkedIn profile, and why you should](https://www.zdnet.com/education/professional-development/how-to-add-a-new-credential-to-your-linkedin-profile-and-why-you-should/)**
 
 My advice: If you can get a certificate, and the price for getting it doesn't overly stretch your budget, go ahead and get it. It still is a resume point. But don't fork over bucks on the scale of a college tuition for some promise that you'll get qualified for a job faster and easier than, you know, going to college.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Other learning resources you'll probably love**
 
@@ -228,11 +249,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-video-creators-blueprint-to-legal-and-profitable-streaming/"><u>[New] 2024 Approved The Video Creator's Blueprint to Legal and Profitable Streaming</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-boost-your-video-virality-essential-tiktok-lyrics/"><u>[New] Boost Your Video Virality Essential TikTok Lyrics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-dive-into-photo-perfection-your-snapseed-guide/"><u>[New] Dive Into Photo Perfection Your Snapseed Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-retain-snapchat-moments-android-and-mac-solutions-for-2024/"><u>[New] Retain Snapchat Moments Android and Mac Solutions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/analyzing-dji-x4-fpv-helmet-functionality/"><u>Analyzing DJI X4 FPV Helmet Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/blizzard-and-microsoft-unite-pioneering-a-new-frontier-in-gaming-translation-and-ai-invention-audio-series-review/"><u>Blizzard & Microsoft Unite: Pioneering a New Frontier in Gaming, Translation & AI Invention [Audio Series Review]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-updated-information-collective-perk/"><u>ChatGPT's Updated Information: Collective Perk</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/differentiating-apples-true-chatgpt-offerings/"><u>Differentiating Apple's True ChatGPT Offerings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-ai-magic-utilizing-free-dall-e-3-on-bing/"><u>Dive Into AI Magic: Utilizing Free DALL-E 3 on Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-minds-explore-5-advanced-robot-bots/"><u>Empowering Minds: Explore 5 Advanced Robot Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-implications-of-chatgpt-on-confidentiality/"><u>Exploring the Implications of ChatGPT on Confidentiality</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-permanently-close-gpt-account/"><u>How to Permanently Close GPT Account</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterpiece-models-best-of-the-computer-world/"><u>In 2024, Masterpiece Models Best of the Computer World</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-x-flip-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo X Flip to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-windows-overloaded-chatgpt-limit-error/"><u>Solving Windows: Overloaded ChatGPT Limit Error</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo Y78+ (T1) Edition</u></a></li>
+</ul></div>
+

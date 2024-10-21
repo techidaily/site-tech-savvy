@@ -1,7 +1,7 @@
 ---
 title: Shaping a Safe AI Space - OpenAI’s Head of Policy Addresses Need
-date: 2024-10-14T01:41:15.526Z
-updated: 2024-10-14T19:18:34.838Z
+date: 2024-10-16T18:15:08.250Z
+updated: 2024-10-21T03:28:25.425Z
 tags:
   - chatgpt
   - open-ai
@@ -47,10 +47,10 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  So, it's evident that industry professionals and lawmakers are concerned about AI and its future impact. But what effect will further regulation have on the AI industry? Will it be a good or bad thing?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Will More Regulation Benefit the AI Industry?
@@ -66,10 +66,16 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Some also feel that it's far too soon to be talking about AI regulation, though the presence of AI in so many industries today would seem to contradict that view.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is AI Regulation Good News for OpenAI?
@@ -77,10 +83,10 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 ![openai logo on smartphone place on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-ai-phone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sam Altman's call for more AI regulation has raised questions about whether such constraints will actually benefit OpenAI.
@@ -92,10 +98,10 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  It isn't surprising that Altman has something of a bias here, as ChatGPT is the brainchild of the company he runs. But further regulation could lead to larger, pre-established AI companies having an advantage over smaller organizations, especially if licenses, permits, and long testing periods are made a legal requirement (as this could incur more costs and require more personnel).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Regulation Is a Point of Contention
@@ -119,21 +125,20 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pricing-your-way-to-higher-youtube-traffic/"><u>2024 Approved Pricing Your Way to Higher YouTube Traffic</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-on-the-move-mercedes-voice-control-meets-chatgpt/"><u>AI on the Move: Mercedes Voice Control Meets ChatGPT</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/best-no-cost-film-trimming-software-with-easy-to-follow-instructions/"><u>Best No-Cost Film Trimming Software with Easy-to-Follow Instructions!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-detection-failures-the-growing-crisis/"><u>Content Detection Failures: The Growing Crisis</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-hp-840-g3-driver-software-step-by-step-guide/"><u>Download & Install HP 840 G3 Driver Software: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-persistent-freezing-and-crashes-in-snowrunner-on-your-windows-laptop/"><u>Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-pedagogical-approaches-to-video-enhanced-education/"><u>In 2024, Pedagogical Approaches to Video-Enhanced Education</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-out-analyzing-the-benefits-and-limitations-of-chatgpt-plus/"><u>Inside Out: Analyzing the Benefits & Limitations of ChatGPT Plus</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/learn-any-language-without-spending-a-penny-top-5-apps-reviewed/"><u>Learn Any Language Without Spending a Penny : Top 5 Apps Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-in-ai-discovering-chatgpts-interpreter-masterpieces/"><u>Pioneering Progress in AI - Discovering ChatGPT's Interpreter Masterpieces</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-site-building-through-chatgpts-innovative-approaches/"><u>Revolutionize Site Building Through ChatGPT's Innovative Approaches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategizing-for-secure-interactions-with-adaptive-ai/"><u>Strategizing for Secure Interactions with Adaptive AI</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/toms-tech-review-in-depth-analysis-and-comparisons/"><u>Tom's Tech Review: In-Depth Analysis and Comparisons</u></a></li>
-<li><a href="https://extra-information.techidaily.com/true-to-life-shade-tweaker/"><u>True-to-Life Shade Tweaker</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/warning-signs-of-sham-chatgpt-portals-protecting-your-information/"><u>Warning Signs of Sham ChatGPT Portals: Protecting Your Information</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-video-converter-convert-twitter-video-to-audiomp4webm/"><u>[New] 2024 Approved Twitter Video Converter | Convert Twitter Video to Audio/MP4/WebM</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-photos-remove-background-with-ease/"><u>2024 Approved Transforming Photos Remove Background with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-barriers-unmasking-the-top-9-ai-bot-fallacies/"><u>Breaking Down Barriers: Unmasking the Top 9 AI Bot Fallacies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/choose-weatherproof-smart-plugs-over-regular-ones-why-durability-matters/"><u>Choose Weatherproof Smart Plugs Over Regular Ones: Why Durability Matters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciding-between-building-or-purchasing-your-own-computer-find-the-best-choice-for-you/"><u>Deciding Between Building or Purchasing Your Own Computer – Find the Best Choice for You!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-ios-18-now-ultimate-guide-to-installation-and-compatible-iphone-models-exclusive-info/"><u>Download IOS 18 Now: Ultimate Guide to Installation and Compatible iPhone Models - Exclusive Info</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/education-reinvented-with-ai-top-5-school-applications-of-chatgpt/"><u>Education Reinvented with AI: Top 5 School Applications of ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975291132-game-on-like-never-before-get-the-new-driver-update-for-your-nvidia-geforce-rtx-2080-ti-today/"><u>Game On Like Never Before - Get the New Driver Update for Your NVIDIA GeForce RTX 2080 Ti Today!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oneplus-nord-n30-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My OnePlus Nord N30 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-poco-c65-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Poco C65 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kid-friendly-smartphones-children-today-safe-and-fun/"><u>Kid-Friendly, Smartphones, Children Today, Safe, and Fun.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-a-budget-friendly-deal-with-the-apple-watch-series-10-at-only-99-by-preordering-through-best-buy-order-now-gadgetguru/"><u>Score a Budget-Friendly Deal with the Apple Watch Series 10 at Only $99 by Preordering Through Best Buy - Order Now! | GadgetGuru</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tactical-stealth-in-retaining-chatgpt-interactions/"><u>Tactical Stealth in Retaining ChatGPT Interactions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205213650-total-war-enthusiasts-rejoice-uncrash-your-rome-remastered-experience-here/"><u>Total War Enthusiasts Rejoice: Uncrash Your Rome Remastered Experience Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-gpt-3-openai-style/"><u>Unlocking Potential with GPT-3, OpenAI Style</u></a></li>
 </ul></div>
 

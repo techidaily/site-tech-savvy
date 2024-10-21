@@ -1,7 +1,7 @@
 ---
 title: Comprehending The Turing Test's Nature & Victory Limits
-date: 2024-10-13T06:47:04.348Z
-updated: 2024-10-15T02:39:43.574Z
+date: 2024-10-18T00:05:38.086Z
+updated: 2024-10-21T01:35:24.706Z
 tags:
   - chatgpt
   - open-ai
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Drawbacks of the Turing Test
@@ -66,11 +66,25 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Eugene Goostman
 
@@ -79,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
  Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Google's LaMBDA
 
@@ -106,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ChatGPT
@@ -117,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -152,18 +152,18 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-wit-warehouse-ideas-matching-every-festivity/"><u>[Updated] In 2024, Wit Warehouse Ideas Matching Every Festivity</u></a></li>
-<li><a href="https://win-latest.techidaily.com/windows-n-1-5/"><u>如何有效地在Windows N 1系统上备份信息：全面指南（包括 5 个策略）</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-journey-through-openais-gpt-generations/"><u>A Journey Through OpenAI’s GPT Generations</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-latency-expert-tips-to-fix-rainbow-six-siege-game-delays/"><u>Beat the Latency: Expert Tips to Fix Rainbow Six Siege Game Delays</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mg3600-driver-installation-step-by-step-guide-and-updates/"><u>Canon MG3600 Driver Installation: Step-by-Step Guide & Updates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-nlps-role-versus-mls-role/"><u>Deciphering NLP's Role Versus ML's Role</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-avoidance-of-ai-in-keys-can-secure-your-windows-11-install/"><u>How Avoidance of AI in Keys Can Secure Your Windows 11 Install</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-motorola-razr-40-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Motorola Razr 40 Ultra to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-essential-guide-to-writing-click-worthy-youtube-titles/"><u>In 2024, Essential Guide to Writing Click-Worthy Youtube Titles</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-guide-for-fortnites-ls-0013-startup-problem/"><u>Resolved: Troubleshooting Guide for Fortnite's LS-0013 Startup Problem</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshoot-with-a-click-clearing-the-icon-cache-for-smooth-windows-experience-on-78vista/"><u>Troubleshoot with a Click: Clearing the Icon Cache for Smooth Windows Experience on 7/8/Vista</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-ai-potential-browser-deployment-via-agentgpt/"><u>Unleashing AI Potential: Browser Deployment via AgentGPT</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-4-ways-to-set-up-your-youtube-talking-head-shots-for-2024/"><u>[Updated] 4 Ways To Set Up Your YouTube Talking-Head Shots for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-aurora-hdr-vs-standard-imagery-quality-analysis-for-2024/"><u>[Updated] Aurora HDR vs Standard Imagery Quality Analysis for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-5-best-video-converters-for-macos-sierra/"><u>[Updated] Top 5 Best Video Converters for macOS Sierra</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-peak-productivity-by-adopting-programming-principles-in-daily-workflows-insights-from-zdnet/"><u>Achieve Peak Productivity by Adopting Programming Principles in Daily Workflows | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/addressing-software-engineer-overwhelm-innovative-approaches-businesses-adopt-for-workforce-health/"><u>Addressing Software Engineer Overwhelm: Innovative Approaches Businesses Adopt for Workforce Health</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-unsolicited-file-explorer-activity/"><u>Addressing Unsolicited File Explorer Activity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-c50-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco C50</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-xiaomi-redmi-note-12-pro-4g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Xiaomi Redmi Note 12 Pro 4G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-productivity-with-top-10-workplace-time-management-techniques-zdnet-insights/"><u>Boost Your Productivity with Top 10 Workplace Time Management Techniques | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-admin-duties-with-windows-powershell-for-just-16-discover-the-secrets-at-zdnet/"><u>Streamline Your Admin Duties with Windows PowerShell for Just $16 | Discover the Secrets at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-expert-insights-on-computer-components-and-gadgets/"><u>Tom's Tech Hub: Expert Insights on Computer Components and Gadgets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-staffing-shifts-in-major-tech-companies-beyond-layoff-headlines/"><u>Understanding Staffing Shifts in Major Tech Companies: Beyond Layoff Headlines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-samsung-galaxy-z-fold-7-predicted-release-timeline-cost-estimates-and-rumored-features-explained/"><u>Upcoming Samsung Galaxy Z Fold 7 - Predicted Release Timeline, Cost Estimates & Rumored Features Explained</u></a></li>
 </ul></div>
 

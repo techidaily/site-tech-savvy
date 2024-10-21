@@ -1,7 +1,7 @@
 ---
 title: The Top 9 AI Chatbot Myths Debunked
-date: 2024-10-08T06:25:41.998Z
-updated: 2024-10-15T10:20:07.292Z
+date: 2024-10-15T17:07:16.247Z
+updated: 2024-10-20T20:10:49.548Z
 tags:
   - chatgpt
   - open-ai
@@ -46,24 +46,18 @@ thumbnail: https://thmb.techidaily.com/ed5e683d03ce80f42203b25af8dacdf35686ccffe
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, just to be clear, there are known limitations to ChatGPT and the age of the data it can reference. That question was deliberately set up to expose this. However, we asked Bard the same question when [comparing Google Bard vs. ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/), and it got it wrong too:
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
  Chatbots may be clever, but they aren’t capable of any type of task and will sometimes fail on the simplest of questions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Chatbots Are a Threat to Humanity
 
@@ -75,14 +69,14 @@ thumbnail: https://thmb.techidaily.com/ed5e683d03ce80f42203b25af8dacdf35686ccffe
 
 ![Screenshot of ChatGPT answering threat to humanity question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-threat-to-humanity-question.jpg)
 
- But it would say that. Wouldn't it?
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ But it would say that. Wouldn't it?
 
 ## 4\. AI Chatbots Are Infallible
 
@@ -92,18 +86,18 @@ thumbnail: https://thmb.techidaily.com/ed5e683d03ce80f42203b25af8dacdf35686ccffe
 
 [AI hallucinations are a common form of error](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) that all too often shows just how fallible these tools are.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Chatbots Will Replace Human Interaction
 
  The answer to this question can hark back to the section on sentience. Chatbots can mimic human responses and can certainly competently answer factual questions (mostly) and help in many ways. However, they cannot understand emotions, human experiences, and many of the nuances of conversation.
 
  Human interaction is a complex and multileveled process that involves such elements as empathy, critical thinking, emotional understanding, and intuition. None of these attributes are present in generative AI chatbots.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. AI Generative Chatbots Are Only Good for Text Interactions
 
@@ -125,14 +119,14 @@ thumbnail: https://thmb.techidaily.com/ed5e683d03ce80f42203b25af8dacdf35686ccffe
 
 ![Picture of mechanical typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/picture-of-mechanical-typewriter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Perhaps the most ludicrous myth is that behind every AI chatbot is a real human. This one is treading a delicate line between conspiracy theory and myth, we won’t dwell on this one other than to say that it's nonsense.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. AI Chatbots Can Program Themselves
 
@@ -143,10 +137,10 @@ thumbnail: https://thmb.techidaily.com/ed5e683d03ce80f42203b25af8dacdf35686ccffe
  The training process could be likened to the testing process of non-AI software. Training involves predefining their objectives, designing their architecture, and teaching them to generate responses based on the data in the relevant LLM. This entire progress still requires human intervention and programming expertise.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Chatbots: Separating Fact From Fiction
@@ -176,15 +170,17 @@ thumbnail: https://thmb.techidaily.com/ed5e683d03ce80f42203b25af8dacdf35686ccffe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-add-shimmer-to-photos-illustrators-motion-blur-guide/"><u>[New] Add Shimmer to Photos Illustrator's Motion Blur Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rocuring-legal-melodies-a-youtube-creators-guide-for-2024/"><u>[New] Procuring Legal Melodies A YouTube Creator's Guide for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-key-to-a-successful-tweet-including-aspect-ratio-details-for-2024/"><u>[Updated] The Key to a Successful Tweet Including Aspect Ratio Details for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-deciphering-the-covert-codes-of-snapchats-emojis/"><u>2024 Approved Deciphering the Covert Codes of Snapchat's Emojis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-in-action-future-of-website-content-discovery/"><u>AI in Action: Future of Website Content Discovery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-mediator-conquering-lifes-stresses/"><u>AI Mediator: Conquering Life's Stresses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-intelligence-progressive-approaches-post-turing/"><u>Assessing Intelligence: Progressive Approaches Post-Turing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/carve-out-your-chatai-masterpiece/"><u>Carve Out Your ChatAI Masterpiece</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nokia-g42-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nokia G42 5G</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-converting-vimeo-selections-the-pathway-to-memorable-gifs/"><u>[Updated] 2024 Approved Converting Vimeo Selections The Pathway to Memorable GIFs</u></a></li>
+<li><a href="https://win-unique.techidaily.com/discover-the-features-of-windows-11s-new-ai-integrated-update-launching-today-an-expert-breakdown-zdnet/"><u>Discover the Features of Windows 11'S New AI-Integrated Update Launching Today - An Expert Breakdown | ZDNet</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/easy-guide-to-transforming-your-mov-videos-into-mp4-format-using-a-mac/"><u>Easy Guide to Transforming Your MOV Videos Into MP4 Format Using a Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-attraction-of-gpt-for-hacking/"><u>Exploring the Attraction of GPT for Hacking</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tune-youtube-video-pacing-desktopmobile-for-2024/"><u>Fine-Tune YouTube Video Pacing - Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-video-controller-driver-issue-in-windows-11-easily/"><u>Fix Video Controller Driver Issue in Windows 11. Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-reno-8t-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo Reno 8T FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-the-audio-experience-strategies-for-apples-intervention-with-disappointed-sonos-owners/"><u>Reviving the Audio Experience: Strategies for Apple's Intervention with Disappointed Sonos Owners</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-alexa-device-effective-fixes-for-silent-assistant-troubles/"><u>Reviving Your Alexa Device: Effective Fixes for Silent Assistant Troubles</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-a1x-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo A1x 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visual-voyage-navigating-through-dall-e-iiis-imaginative-landscapes/"><u>Visual Voyage: Navigating Through DALL-E III’s Imaginative Landscapes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-there-be-a-gpt-5-when-will-gpt-5-launch/"><u>Will There Be a GPT-5? When Will GPT-5 Launch?</u></a></li>
 </ul></div>
 

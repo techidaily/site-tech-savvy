@@ -1,7 +1,7 @@
 ---
 title: "Interview with Stack Overflow Leader: Insights Into Building the Top Coding Platform"
-date: 2024-09-18 23:14:32
-updated: 2024-09-20 12:34:30
+date: 2024-10-13T18:01:49.418Z
+updated: 2024-10-20T17:27:01.548Z
 tags:
   - professional-development
 categories:
@@ -45,6 +45,13 @@ They enable people to lock in on a subject so that we can equally share the pain
 
 We're so popular because we have about 50 million questions and answers on every possible tech topic. It's all about empowering the world to develop technology through collective knowledge. Another reason we have so many visitors and members is that our public community platform is free and available to everybody worldwide.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [Labor Day weekend and sales are here. Here's what to know, and the best deals of the weekend](https://www.zdnet.com/article/labor-day-deals-everything-to-know-08-31-2024/)
@@ -77,6 +84,13 @@ Still, I think it's important, and I'm a believer. It's a great way to get peopl
 **PC:** "It's very much part of our vision for our company. We see Stack Overflow going from collective knowledge to collective learning. Having all the information is fine and dandy, but are you learning? Now, that [we're part of Prosus's edtech division](https://www.zdnet.com/article/stack-overflow-sold-to-europes-prosus-for-1-8bn/), we're very much looking forward to offering educational opportunities. Just as today, we can get knowledge to developers at the right place and time, we think we can deliver learning at just the right place and time. We believe we can make a huge impact with education and by potentially getting into the certification game. 
 
 **Also:** [**Why do 81% of tech employers still require job candidates to have college degrees?**](https://www.zdnet.com/education/professional-development/why-do-81-of-tech-employers-still-require-job-candidates-to-have-college-degrees/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -122,11 +136,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-fade-techniques-to-pare-down-audio-intensity-in-logic-pro/"><u>[New] 2024 Approved Fade Techniques to Pare Down Audio Intensity in Logic Pro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-experience-the-thrill-of-kinemaster-and-rank-10-online-alternatives-alike/"><u>[Updated] Experience the Thrill of KineMaster and Rank 10 Online Alternatives Alike</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/analyzing-the-strengths-and-weaknesses-of-webex-as-an-online-collaboration-platform/"><u>Analyzing the Strengths and Weaknesses of WebEx as an Online Collaboration Platform</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/chucklechamber-endless-options-to-spread-smiles/"><u>ChuckleChamber Endless Options to Spread Smiles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-fantasy-roleplay-gpt-and-ai-collaboration-in-dandd-creativity/"><u>Enhancing Fantasy Roleplay: GPT & AI Collaboration in D&D Creativity</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-earnings-engineering-crafting-a-high-yield-strategy-for-your-youtube-channel/"><u>In 2024, Earnings Engineering Crafting a High Yield Strategy for Your YouTube Channel</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-6s-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 6s With or Without Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scripting-stories-chatgpt-as-your-text-rpg-guide/"><u>Scripting Stories: ChatGPT as Your Text-RPG Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-digital-communications-with-gpt/"><u>Securing Digital Communications with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steering-techs-ethical-currents-correctly/"><u>Steering Tech's Ethical Currents Correctly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-ignorance-eliminating-superfluous-chatgpt-plugins/"><u>Strategic Ignorance: Eliminating Superfluous ChatGPT Plugins</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-complete-insight-into-vivacut-2024-features-and-functionality/"><u>The Complete Insight Into VivaCut 2024 Features & Functionality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-for-unfreezing-cod-vanguard-a-complete-guide/"><u>Troubleshooting Tips for Unfreezing COD: Vanguard – A Complete Guide</u></a></li>
+</ul></div>
+

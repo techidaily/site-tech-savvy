@@ -1,7 +1,7 @@
 ---
 title: "Preventing Post-Graduation Burnout: Effective Techniques for New Alumni Featured on ZDNet"
-date: 2024-09-19 18:59:49
-updated: 2024-09-20 12:14:33
+date: 2024-10-16T03:15:59.870Z
+updated: 2024-10-20T23:03:28.587Z
 tags:
   - professional-development
 categories:
@@ -21,6 +21,13 @@ Read on to learn about how you can change your thoughts and behavior to help pre
 
 ## What is burnout? 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [How to overcome new job anxiety New job anxiety can hinder your productivity and hurt your professional experience. Find out what anxiety is and what you can do to manage it.  Read now](https://www.zdnet.com/article/overcome-new-job-anxiety/)
@@ -39,6 +46,13 @@ People experience burnout in all jobs, but particularly those involving many ext
 * Doctors and nurses
 * Social workers and therapists
 * Teachers
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What causes burnout?
 
@@ -117,6 +131,13 @@ If you are able to access one, consider seeing a therapist. Mental health profes
 
 **7\. Recognize when it's time to leave.** 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 * [These are the least stressful jobs in tech](https://www.zdnet.com/article/least-stressful-jobs-in-tech/)
@@ -129,6 +150,13 @@ Use the downtime between jobs to recuperate and create an action plan for the ne
 * If your old job gave you little autonomy, your future job needs a more collaborative workplace culture.
 
 Not ready to leave yet, or just need a brief break? Make sure you're using your vacation time. You've earned it!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## In conclusion 
 
@@ -167,11 +195,28 @@ _Last reviewed March 24, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-enrich-social-media-content-with-auto-generated-speech-for-2024/"><u>[Updated] How to Enrich Social Media Content with Auto-Generated Speech for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-set-up-smooth-transitions-youtube-content-playback-on-facebook/"><u>[Updated] How to Set Up Smooth Transitions YouTube Content Playback on Facebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-video-recording-devices-for-quality/"><u>2024 Approved Premium Video Recording Devices for Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chaotic-quests-await-6-tips-to-enlist-gpt-as-your-dungeon-master-sidekick/"><u>Chaotic Quests Await: 6 Tips to Enlist GPT as Your Dungeon Master Sidekick</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhancing-engagement-with-solutions-to-common-shorts-challenges-for-2024/"><u>Enhancing Engagement with Solutions to Common Shorts Challenges for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/fallout-4-save-files-vanished-on-pc-quick-fixes-and-solutions/"><u>Fallout 4 Save Files Vanished on PC – Quick Fixes & Solutions!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-your-creative-genius-utilizing-free-dall-e-3-via-microsoft-bing/"><u>Harness Your Creative Genius: Utilizing Free DALL-E 3 via Microsoft Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-navigate-and-resolve-4-gpt-3-suspensions/"><u>How to Navigate and Resolve 4 GPT-3 Suspensions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-leveraging-costless-methods-for-integrating-videos-into-writing/"><u>In 2024, Leveraging Costless Methods for Integrating Videos Into Writing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spin-innovator-pack/"><u>In 2024, Spin Innovator Pack</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-stories-your-complete-guide-for-2024/"><u>Mastering Instagram Stories Your Complete Guide for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-next-gen-chromecast-contenders/"><u>The Next-Gen Chromecast Contenders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-supercharged-self-improvement-using-ai-conversations/"><u>The Ultimate Guide to Supercharged Self-Improvement Using AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-claude-ai-and-why-should-you-use-it/"><u>What Is Claude AI and Why Should You Use It?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Individualism at the Forefront: GPT's Unique Command Features"
-date: 2024-10-12T22:31:22.456Z
-updated: 2024-10-14T18:51:30.176Z
+date: 2024-10-17T22:29:29.126Z
+updated: 2024-10-21T03:24:44.902Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 
  The Custom Instructions feature is currently being rolled out to ChatGPT Plus users. According to [OpenAI's announcement](https://openai.com/blog/custom-instructions-for-chatgpt), Custom Instructions will be rolled out to all Chatgpt users subsequently. So, if you are using a free-tier account, you might have to wait a bit longer. As an aside, early access to new features is a good [reason to upgrade to a ChatGPT Plus account](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/). Without a doubt, the Custom Instructions feature is the single most important personalization feature introduced to ChatGPT since the chatbot was launched in November 2022\.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Turn On Custom Instructions in ChatGPT
 
  If you have a ChatGPT Plus account, you can turn on Custom Instructions in ChatGPT by following these steps:
@@ -51,15 +44,16 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 2. Click on **Settings & Beta**​​​​​.  
 ![settings and beta features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-and-beta-features.jpg)
 3. On the pop-up menu that comes up, click on **Beta features** on the left panel.
-4. Toggle **Custom instructions** to turn on the feature and exit the pop-up.  
-![toggling on custom instructions on ChatGPT Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/toggling-on-custom-instructions-on-chatgpt-settings-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Toggle **Custom instructions** to turn on the feature and exit the pop-up.  
+![toggling on custom instructions on ChatGPT Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/toggling-on-custom-instructions-on-chatgpt-settings-page.jpg)
 
  Once the feature is turned on, you have to provide instructions that you want ChatGPT to retain across all your chat sessions.
 
@@ -67,25 +61,33 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 2. You'll now find a new option labeled **Custom instructions**; click on it to reveal the Custom Instructions editor.  
 ![turning on the custom instructions feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turning-on-the-custom-instructions-feature.jpg)
 3. Up next, you'll find two fields for providing custom instruction. Click on **Show tips** below each editor to see some examples of what kind of instructions should be provided on both fields.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * For the first editor, provide information about yourself.  
    ![Answering custom instructions question 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/answering-custom-instructions-question-1.jpg)  
    * For the second editor, you can provide information about how you want ChatGPT's response to be.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    ![Answering custom instructions question 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/answering-custom-instructions-question-2.jpg)
 4. After entering your custom instructions on both fields, click **Save.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once your instructions have been saved, your account is ready to use the Custom Instructions feature. If you are still unsure what to do with this incredible new feature, we have a few ideas for you.
@@ -127,18 +129,24 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-best-jest-in-layout-and-edit-suite/"><u>[New] Best Jest in Layout & Edit Suite</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-get-to-know-discord-inside-out/"><u>[New] Get to Know Discord Inside Out</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-make-youtube-animated-subscribe-button-easily-in-filmora/"><u>[Updated] How to Make YouTube Animated Subscribe Button Easily in Filmora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-reasons-your-chatgpt-account-is-blocked-and-how-to-fix-it/"><u>4 Reasons Your ChatGPT Account Is Blocked (and How to Fix It)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-cutting-edge-replacements-for-the-gpt-mobile-experience/"><u>8 Cutting-Edge Replacements for the GPT Mobile Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-sweet-symphony-blending-ingredients-correctly/"><u>A Sweet Symphony: Blending Ingredients Correctly</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ancient-lexicons-ranking-the-worlds-time-tested-tongues/"><u>Ancient Lexicons: Ranking the World’s Time-Tested Tongues</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-at-60-vs-30-what-does-it-really-mean/"><u>Gaming at 60 Vs. 30: What Does It Really Mean?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-your-macbook-organized-the-all-in-one-stand-and-charger-with-port-hub-at-an-unbeatable-price-of-just-102-exclusively/"><u>Get Your MacBook Organized: The All-in-One Stand & Charger with Port Hub at an Unbeatable Price of Just $102 - Exclusively !</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721408314372-innovate-text-with-style-at-openais-custom-ai-gpt-store/"><u>Innovate Text With Style at OpenAI’s Custom AI GPT Store</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-reviewing-vn-video-editor-is-it-worth-it-for-pc-users/"><u>New Reviewing VN Video Editor Is It Worth It for PC Users?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-11-pro-max-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 11 Pro Max from iCloud</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721423304201-what-is-the-turing-test-and-will-it-ever-be-beaten/"><u>What Is the Turing Test and Will It Ever Be Beaten?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-choreographed-battle-top-5-martial-arts-video-game-list/"><u>[New] Choreographed Battle Top 5 Martial Arts Video Game List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-leveraging-edits-to-captivate-audiences-on-instagram/"><u>[New] Leveraging Edits to Captivate Audiences on Instagram</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-peak-performance-in-live-recording-software/"><u>[New] Peak Performance in Live Recording Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-content-crusaders-route-to-rapid-instagram-fame/"><u>[Updated] In 2024, Content Crusader’s Route to Rapid Instagram Fame</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-binary-envisioning-new-capabilities-for-gpt-5/"><u>Beyond Binary: Envisioning New Capabilities for GPT-5</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-gaming-setup-on-xbox-series-x-a-comprehensive-guide-to-high-res-mode/"><u>Cutting-Edge Gaming Setup on Xbox Series X – A Comprehensive Guide to High Res Mode</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/designing-secure-efficient-workout-schedules-by-chatgpt/"><u>Designing Secure, Efficient Workout Schedules by ChatGPT</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elevate-your-creative-workflow-detailed-insights-into-photoshops-background-eraser-feature-for-2024/"><u>Elevate Your Creative Workflow Detailed Insights Into Photoshop's Background Eraser Feature for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-iphone-functionality-with-apples-integration-of-the-gemini-project-from-google/"><u>Enhancing iPhone Functionality with Apple's Integration of the Gemini Project From Google</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/historic-low-apples-newly-priced-m2-mac-mini-hits-just-479-insights-by-zdnet/"><u>Historic Low: Apple's Newly Priced M2 Mac Mini Hits Just $479 - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-innovates-with-iphone-16s-camera-features-a-comprehensive-look-at-the-cutting-edge-camera-button/"><u>How Apple Innovates with iPhone 16'S Camera Features: A Comprehensive Look at the Cutting-Edge Camera Button</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-step-by-step-inserting-tracks-in-youtube-playlists/"><u>In 2024, Step-by-Step Inserting Tracks in YouTube Playlists</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-your-lost-iphone-xs-potentials-with-these-tricks/"><u>In 2024, Unlock Your Lost iPhone X's Potentials with These Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-lava-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Lava Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-at-apples-strategic-development-of-a-fortified-operating-system-for-advanced-ai-management-in-data-centers-exclusive-report/"><u>Inside Look at Apple's Strategic Development of a Fortified Operating System for Advanced AI Management in Data Centers | Exclusive Report</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/learning-about-claude-3-and-its-benefits/"><u>Learning About Claude 3 and Its Benefits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-work-utilizing-gpt-as-a-personal-aide/"><u>The Future of Work: Utilizing GPT as a Personal Aide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-generation-of-audio-tech-how-apples-latest-airpods-4-stack-up-against-previous-models/"><u>The Next Generation of Audio Tech - How Apple's Latest AirPods 4 Stack Up Against Previous Models</u></a></li>
 </ul></div>
 

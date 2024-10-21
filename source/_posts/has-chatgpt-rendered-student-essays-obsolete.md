@@ -1,7 +1,7 @@
 ---
 title: Has ChatGPT Rendered Student Essays Obsolete?
-date: 2024-10-13T17:34:53.319Z
-updated: 2024-10-14T21:03:37.501Z
+date: 2024-10-17T22:10:39.826Z
+updated: 2024-10-20T21:55:28.376Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
  So, for many professors, the student essay is an excellent tool for developing critical thinking. It's also not as taxing for the students since most essays are take-home assignments.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Libraries, Internet Search, and Analytical Thinking vs. ChatGPT
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
  Before the proliferation of the internet, students had to exert double effort to research and write their essays. So, their critical and analytical thinking skills are exercised in multiple ways—searching for related literature to their topic, analysis of existing data, and how they write and present and their learnings.
 
 ![a library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-library.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When online search peaked, research became much easier for students. They no longer had to go through tons of books, magazines, and articles across different libraries—type in some choice keywords and separate the wheat from the chaff in the results.
 
@@ -74,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 
  ChatGPT and generative AI generally do not analyze information for you. However, it will deliver results that previous writers have already processed. And, based on your question, it can also give you related results.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AI as a Learning Tool: Harnessing ChatGPT to Improve Understanding
 
  As we've discussed above, AI is a powerful tool for learning. Moreover, because it understands the nuances of language, it can deliver far more accurate results. For example, we asked Google and ChatGPT the following question:
@@ -87,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 ![was google search controversial chatgpt question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/was-google-search-controversial-chatgpt-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This result shows how AI and ChatGPT can make research faster and easier for students. And although ChatGPT did not reveal its sources, I can use its results as a springboard for further investigation.
@@ -101,16 +101,16 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 
  In short, AI is a powerful learning tool, but it's just a tool nonetheless. Students must still use their critical thinking to produce their final output. So, whether you're a student or a professional, you must ensure that you use ChatGPT ethically—and here are some [ways writers and editors can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AI as a Cheating Tool: Making Plagiarism Much Easier and Harder to Detect
 
 ![student cheating on an exam with their phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-cheating-on-an-exam-with-their-phone-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, as with any new technology, some students misuse it. Because ChatGPT answers questions by predicting the correct response, it will paraphrase its sources. So, it's tempting for many to copy and paste what ChatGPT regurgitated from the internet.
 
@@ -121,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
  The problem is, with ChatGPT around, it could be challenging to assess someone's knowledge on a topic using an essay, making the whole point of essays in the first place a bit redundant. Some people could use ChatGPT to understand a topic better, while others will use it to pretend that they learned what a class was teaching, or some mix in between.
 
  Because of this, educators must find ways to make student essays more robust. For example, they can no longer assign general topics—like a book report on The Great Gatsby—because it's easy for students to ask ChatGPT or any other generative AI tool to write it for them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Student Essays Need to Evolve to Survive AI
 
@@ -144,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
  The free version of ChatGPT, the most popular generative AI today, is only updated up to September 2021 at the time of writing. So, it would help to ask essay questions relating to events that happened in the past three months.
 
  However, students with access to ChatGPT Plus or GPT-4 get a fully updated version of ChatGPT. So, as part of checking essays, the teacher should also quiz the student on what they wrote.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Students Should Present Their Essays as Reports
 
@@ -184,21 +184,17 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/eleted-and-found-again-streaming-yts-forgotten-videos-for-2024/"><u>[New] Deleted and Found Again Streaming YT’s Forgotten Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-pinpointing-factors-that-influence-igtv-video-performance/"><u>[New] In 2024, Pinpointing Factors that Influence IGTV Video Performance</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-story-genius-over-a-hundred-story-ideas-to-elevate-your-social-narrative/"><u>[New] In 2024, Snapchat Story Genius Over a Hundred Story Ideas to Elevate Your Social Narrative</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-masterclass-in-mobile-video-viewing-10-leading-iphoneipad-apps/"><u>[New] Masterclass in Mobile Video Viewing 10 Leading iPhone/iPad Apps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-premium-online-vendors-for-artisanal-wrapping-solutions-for-2024/"><u>[New] Premium Online Vendors for Artisanal Wrapping Solutions for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-choose-folder-for-stored-mac-screenshots-for-2024/"><u>[Updated] Choose Folder for Stored Mac Screenshots for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-6-rise-of-creative-tools/"><u>Artificial Intelligence: 6 Rise of Creative Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-risk-with-ais-financial-forecasts-the-challenge/"><u>Balancing Risk with AI's Financial Forecasts: The Challenge</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-proplus-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Redmi Note 13 Pro+ 5G Phone Without Password?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ignite-creativity-unique-ai-art-with-the-power-of-microsofts-copilot/"><u>Ignite Creativity: Unique AI Art with the Power of Microsoft's Copilot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-imaginary-realms-with-ai-dialogue/"><u>Mastering Imaginary Realms with AI Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-pathway-of-earning-through-bug-hunting-at-openai/"><u>Navigating the Pathway of Earning Through Bug Hunting at OpenAI</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revolutionary-hacks-to-optimize-your-minecraft-experience-on-pc/"><u>Revolutionary Hacks to Optimize Your Minecraft Experience on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/shop-the-latest-mac-ipad-and-iphone-unveiled-at-wwdc-availability-and-preorders-explained-zdnet/"><u>Shop the Latest Mac, iPad & iPhone Unveiled at WWDC: Availability and Preorders Explained - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-emerging-ai-chipsets-revolutionizing-computing/"><u>Top 5 Emerging AI Chipsets Revolutionizing Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-written-work-with-gpt-4/"><u>Transform Written Work with GPT-4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conjuring-the-ideal-viewing-order-for-a-terrifying-movie-marathon/"><u>'Conjuring': The Ideal Viewing Order for a Terrifying Movie Marathon</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-master-your-images-top-10-pixlr-hacks-revealed/"><u>[New] In 2024, Master Your Images Top 10 Pixlr Hacks Revealed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-depth-look-at-vsdc-plus-top-competitors/"><u>[New] In-Depth Look at VSDC, Plus Top Competitors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-chuckle-chronicles-hilarious-meme-crafting-simplified-for-2024/"><u>[Updated] Chuckle Chronicles Hilarious Meme Crafting Simplified for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-first-flight-experience-the-best-beginner-drones/"><u>[Updated] First Flight Experience The Best Beginner Drones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-architects-at-work-exploring-the-skilled-professionals-shaping-tomorrows-technology-with-zdnet/"><u>AI Architects at Work: Exploring the Skilled Professionals Shaping Tomorrow's Technology with ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-v27-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo V27 is off? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/five-star-sierra-video-processing-tools-for-2024/"><u>Five-Star Sierra Video Processing Tools for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-k70e-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-remote-work-proven-strategies-for-maintaining-sharp-focus-at-home-insights-from-zdnet-experts/"><u>Mastering the Art of Remote Work: Proven Strategies for Maintaining Sharp Focus at Home, Insights From ZDNET Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-your-network-potential-how-linkedins-elite-tools-elevate-professional-connections/"><u>Maximizing Your Network Potential: How LinkedIn's Elite Tools Elevate Professional Connections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-first-month-of-your-remote-position-a-step-by-step-weekly-breakdown/"><u>Navigating the First Month of Your Remote Position - A Step-by-Step Weekly Breakdown</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crafting an Impressive Tech Resume: Tips From the Pros at ZDNet"
-date: 2024-09-19 21:10:13
-updated: 2024-09-20 11:22:42
+date: 2024-10-17T17:23:36.008Z
+updated: 2024-10-21T02:17:01.867Z
 tags:
   - professional-development
 categories:
@@ -56,6 +56,13 @@ In addition to your name, email address, and phone number, include hyperlinks to
 
 The header doesn't just tell recruiters how to reach you, it emphasizes what you can do.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Summary/objective
 
 The summary/objective section sits just below the header, but consider writing it last. That way, it can capture the spirit of your resume and describe how your experience and skills will bring value to the job you want.
@@ -63,6 +70,13 @@ The summary/objective section sits just below the header, but consider writing i
 This section should consist of just one or two sentences and include a couple of the job description's most important keywords.
 
 Using the Amazon example, a strong summary/objective might say, "Skilled software engineer seeking a position at Amazon Financial Technology where I can grow my 5+ years of software development experience with Java, Python, and C#/C++." 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Work experience
 
@@ -122,6 +136,13 @@ Don't have to include your GPA unless the job description specifically calls for
 
 You can also include internships you completed while in school and any software engineering or [coding bootcamps](https://www.zdnet.com/education/bootcamps/best-coding-bootcamp/) you've attended. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Additional sections
 
 If you have the space and additional sections will add depth to your resume, consider including the following.
@@ -180,6 +201,19 @@ Instead of listing 20 different skills that you might have picked up over time, 
 
 VS: I will want to set up an interview with a candidate when they're describing their prior experience and the impact or complexity is absolutely unambiguous. 
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### This article was reviewed by Sierra Gawlowski, PE
 
 [Sierra Gawlowski](https://www.linkedin.com/in/sierra-gawlowski/), PE, earned her BS in civil engineering and is a licensed professional engineer in the state of Washington. She has worked for a private engineering consulting firm as well as for public agencies. Sierra enjoys mentoring engineering students and junior staff. She also leads a project team for Engineers Without Borders and currently sits on the board of directors for Kilowatts for Humanity.
@@ -212,11 +246,31 @@ _Last reviewed May 23, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>[New] The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-backupmasters-expert-verdict/"><u>[Updated] In 2024, BackUpMasters Expert Verdict</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adjusting-excessive-load-alert-win-gpt-error/"><u>Adjusting Excessive Load Alert: Win GPT Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-bartender-or-just-a-computer/"><u>AI Bartender or Just a Computer?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/custom-chatai-builds-using-gpt-foundations/"><u>Custom ChatAI: Builds Using GPT Foundations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-ai-conversations-with-3-key-approaches-to-chatgpt-wolframlink/"><u>Elevating AI Conversations with 3 Key Approaches to ChatGPT-WolframLink</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-ai-medical-accuracy-how-to-verify-information/"><u>Enhancing AI Medical Accuracy: How to Verify Information</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-11-pro-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 11 Pro Without Backup? | Stellar</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-g2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo G2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-3-a-guide-for-openais-playground/"><u>Mastering GPT-3: A Guide for OpenAI's Playground</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-with-apple-devices/"><u>Navigating ChatGPT with Apple Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-european-unions-legal-framework-for-artificial-intelligence-effects-on-ai-platforms-like-chatgpt/"><u>Navigating the European Union's Legal Framework for Artificial Intelligence: Effects on AI Platforms Like ChatGPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/set-up-samsung-operating-system-for-your-computer/"><u>Set Up Samsung Operating System for Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-when-dsounddll-cant-be-located-or-is-lost/"><u>Step-by-Step Fix for When dsound.dll Can't Be Located or Is Lost</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/thing-your-private-playlist-sanctuary-on-youtube-for-2024/"><u>Unearthing Your Private Playlist Sanctuary on Youtube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlimited-christmas-classics-9-films-available-for-no-charge-in-2024/"><u>Unlimited Christmas Classics 9 Films Available for No Charge, In 2024</u></a></li>
+</ul></div>
+

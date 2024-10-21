@@ -1,7 +1,7 @@
 ---
 title: "Download iOS 18: Complete Guide for iPhone Owners – Compatibility & Installation Steps"
-date: 2024-10-14T06:06:39.047Z
-updated: 2024-10-14T22:46:57.561Z
+date: 2024-10-14T01:39:20.698Z
+updated: 2024-10-20T17:46:52.442Z
 tags:
   - apple
 categories:
@@ -32,31 +32,31 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -67,10 +67,16 @@ After installing the latest iOS update, your iPhone will restart.
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
@@ -82,13 +88,6 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -108,6 +107,13 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -169,22 +175,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-best-action-cameras-with-front-facing-screen-for-2024/"><u>[New] Best Action Cameras with Front Facing Screen for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-pathway-from-srt-to-subc-3-actionable-methods/"><u>2024 Approved Pathway From SRT to SUBC 3 Actionable Methods</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oppo-reno-11f-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Oppo Reno 11F 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104168643-fixing-bluetooth-disconnect-in-windows-11-quick-guide-solution-found/"><u>Fixing Bluetooth Disconnect in Windows 11 (Quick Guide) - Solution Found!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-to-the-frontier-of-ai-with-gpt-4-for-free/"><u>Getting to the Frontier of AI with GPT-4 for Free</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-restore-windows-alt-key-functionality/"><u>How to Restore Windows ALT Key Functionality</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mastering-low-light-photos-on-ios-11-for-2024/"><u>Mastering Low-Light Photos on iOS 11 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-new-web-capabilities-in-gpt-3s-beta-update/"><u>Navigating New Web Capabilities in GPT-3's Beta Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-gen-ai-methods-elevating-web-search-standards/"><u>Next-Gen AI Methods Elevating Web Search Standards</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pseudo-agent-program-snaffles-facebook-sign-ins/"><u>Pseudo-Agent Program: Snaffles Facebook Sign-Ins</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/rapid-routines-saving-presentations-ppt-wise-for-2024/"><u>Rapid Routines Saving Presentations PPT-Wise for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-writing-the-leading-5-ai-inspirational-tools/"><u>Revolutionize Writing: The Leading 5 AI Inspirational Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/semantic-showdown-chatgpt-versus-googles-accuracy/"><u>Semantic Showdown: ChatGPT Versus Google's Accuracy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quintessential-guide-to-writing-powerful-chatgpt-prompts/"><u>The Quintessential Guide to Writing Powerful ChatGPT Prompts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-career-potentials-with-these-6-reasons-to-learn-chatgpt/"><u>Unlock Career Potentials with These 6 Reasons to Learn ChatGPT</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/virtual-adventure-unlocked-mastering-kinemaster-and-top-alternatives-reviewed-for-2024/"><u>Virtual Adventure Unlocked Mastering KineMaster and Top Alternatives Reviewed for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-effortless-method-to-record-your-skype-sessions-on-pcmac/"><u>[New] Effortless Method to Record Your Skype Sessions on PC/Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860223471-new-effortlessly-create-a-cross-platform-conversation-space-on-skype-a-detailed-manual-for-users-of-all-os-platforms/"><u>[New] Effortlessly Create a Cross-Platform Conversation Space on Skype A Detailed Manual for Users of All OS Platforms.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-safe-fitness-program-design-for-you/"><u>AI-Powered, Safe Fitness Program Design for You</u></a></li>
+<li><a href="https://extra-information.techidaily.com/apex-screenplay-creations-segmented-by-movie-type-for-2024/"><u>Apex Screenplay Creations, Segmented By Movie Type for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-watch-woes-understanding-and-resolving-the-phantom-touch-dilemma-expert-advice/"><u>Apple Watch Woes: Understanding and Resolving the Phantom Touch Dilemma | Expert Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-gpt-and-huggingface-battling-for-top-spot/"><u>Are GPT and Huggingface Battling for Top Spot?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-videos-like-a-pro-microsoft-video-editor-for-windows-1087-for-2024/"><u>Edit Videos Like a Pro Microsoft Video Editor for Windows 10/8/7 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/extend-your-apple-watchs-endurance-top-8-settings-adjustments-to-enhance-battery-life-zdnet-insights/"><u>Extend Your Apple Watch's Endurance: Top 8 Settings Adjustments to Enhance Battery Life - ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-virtual-to-visual-selecting-movies-through-chatgpt/"><u>From Virtual to Visual: Selecting Movies Through ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-find-x7-ultra-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo Find X7 Ultra Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone SE Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interrogating-the-webs-blockade-on-gptbot-usage-policies/"><u>Interrogating the Web's Blockade on GPTBot Usage Policies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-portability-and-performance-transport-vast-data-storage-368tb-in-style-using-wd-ultrastar-transporters-cutting-edge-features/"><u>Maximize Portability & Performance - Transport Vast Data Storage (368TB) In Style Using WD Ultrastar Transporter's Cutting-Edge Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-video-games-discover-6-essential-ways-to-utilize-chatgpt-as-a-scriptwriter/"><u>Revolutionize Your Video Games: Discover 6 Essential Ways to Utilize ChatGPT as a Scriptwriter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-the-leading-10-live-streaming-networks/"><u>Ultimate Guide The Leading 10 Live Streaming Networks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-potential-of-apple-pay-for-seamless-shopping-experiences-stores-and-websites-explained-zdnet/"><u>Unlock the Potential of Apple Pay for Seamless Shopping Experiences - Stores and Websites Explained | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmatched-deal-alert-macbook-air-with-m1-chip-now-just-649-shop-smartly-with-zdnets-exclusive-offer/"><u>Unmatched Deal Alert: MacBook Air with M1 Chip Now Just $649 - Shop Smartly with ZDNet's Exclusive Offer!</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
 </ul></div>
 

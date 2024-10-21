@@ -1,7 +1,7 @@
 ---
 title: Learning About Claude 3 and Its Benefits
-date: 2024-10-13T18:36:13.125Z
-updated: 2024-10-14T20:30:49.812Z
+date: 2024-10-15T19:26:52.711Z
+updated: 2024-10-21T02:53:29.809Z
 tags:
   - chatgpt
   - open-ai
@@ -52,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
  All three issues have now been completely or at least partly addressed with the release of Claude 3\.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Can You Do With Claude 3?
 
 ![Claude AI chatbot interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-image-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Just like most cutting-edge generative AI models out there, Claude 3 can generate top-notch responses for various queries across different fields. Whether you need a quick algebra problem solved, a brand-new song written, an in-depth article drafted, code written for software, or a massive data set analyzed, Claude 3 fits the bill.
 
@@ -71,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
  So, Claude 3 lets you do most of the things you can do with Gemini and GPT-4 (minus image generation) without having to pay the $20 subscription fee for ChatGPT premium.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Claude 3 vs. ChatGPT
 
 ![ChatGPT vs Claude AI logos](https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae116eaf3e790989364bc8da0ce.jpg)
@@ -85,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
  A quick way to test the performance of an AI model is to check how well it stacks up against the best in the market: GPT-4\. Of course, I put both models to the test; how well does Anthropic's Claude 3 stack up against the colossal GPT-4?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Coding Skills
@@ -99,26 +92,27 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And here is Claude 3's result when asked to do the same.
 
 ![Claude 3 makes todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-makes-todo-list-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Both apps were functional to an extent, but it is clear Claude 3 did a better job on this one.
 
  After trying more complex programming tests, Claude was the better model in several cases, while GPT-4 also had its wins. While I can't conclusively say Claude 3 is better at programming logic, if there was a huge gap between the two models, that gap would almost certainly have shrunk.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Common Sense Reasoning
 
@@ -127,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
  Of five such questions, both models answered all five logically. We asked both chatbots one such question: If a spaceship from Mars breaks into two, with one part crashing into the Atlantic Ocean near Brazil and the other into the Pacific Ocean near Japan, where do you bury the survivors?
 
 ![ChatGPT answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-answers-trick-question.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT answered correctly even without GPT-4\. If you are wondering the reason for the choice of question, well, chatbots have historically failed woefully at this sort of questioning line. Up next was Claude's turn to answer.
 
@@ -144,18 +145,24 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 ![ChatGPT writes lyrics to a rap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-lyrics-to-a-rap-song.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And here's Claude's response, using the same prompt.
 
 ![Claude writes lyrics to a wrap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-writes-lyrics-to-a-wrap-song.jpg)
 
  It might be subjective, but Claude does seem to be the better option here. When both tools were tasked with drafting three articles on different topics, Claude provided the better option in all three instances. It produced a more human-like result and avoided patterns commonly associated with AI-generated texts, like exagerations, the use of complex words, and sporadic use of linking words.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Image Recognition Abilities
 
@@ -164,13 +171,6 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
  Unlike ChatGPT, Claude struggled with identifying buildings among others, and the failure rate increased if the building was not in the US or China. However, it had no problem identifying obfuscated versions of the Eiffel Tower or the Empire State Building.
 
 ![Empire state building identified by Claude 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/empire-state-building-identified-by-claude-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT is clearly better at this, but considering Claude 3 is Anthropic's first attempt at building a multimodal AI model, it wasn't a bad outing.
 
@@ -193,17 +193,19 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-efficient-techniques-for-obtaining-ios-audio-files-for-2024/"><u>[Updated] Efficient Techniques for Obtaining iOS Audio Files for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-openai-sora-alternatives-you-can-try-for-free/"><u>6 OpenAI Sora Alternatives You Can Try for Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-cybersecurity-trends-and-predictions/"><u>7 Cybersecurity Trends and Predictions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-developers-guide-top-10-chatgpt-enhancements-in-vs-code/"><u>A Developer's Guide: Top 10 ChatGPT Enhancements in VS Code</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/guia-completa-top-programas-de-respaldo-sin-coste-para-asegurar-su-windows-xp-y-sus-informaciones/"><u>Guía Completa: Top Programas De Respaldo Sin Coste Para Asegurar Su Windows XP Y Sus Informaciones</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-y200e-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo Y200e 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721408721327-intuitive-talking-to-ai-try-this-chrome-tool/"><u>Intuitive Talking to AI? Try This Chrome Tool!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-and-updated-fetch-your-corsair-keyboard-drivers-for-windows-directly-from-our-official-site/"><u>Secure and Updated: Fetch Your CORSAIR Keyboard Drivers for Windows Directly From Our Official Site</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721411226505-terminate-chatgpt-connection-now/"><u>Terminate ChatGPT Connection Now!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-dvd-burning-tools-for-pc-and-mac-in-202e-comprehensive-guide/"><u>Top Rated DVD Burning Tools for PC & Mac in 202E - Comprehensive Guide</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/troubleshooting-how-to-repair-server-manager-issues-on-windows-server-2019-with-six-effective-methods/"><u>Troubleshooting: How to Repair Server Manager Issues on Windows Server 2019 with Six Effective Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-livetv-and-facebook-integrating-fb-livestreams/"><u>[New] In 2024, LiveTV and Facebook Integrating FB Livestreams</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-navigating-the-social-sphere-of-tiktok-lives/"><u>[Updated] In 2024, Navigating the Social Sphere of TikTok Lives</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-redmi-note-12-4g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi Redmi Note 12 4G FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-extended-prime-day-tablet-bargains-for-savvy-shoppers-guide/"><u>Exclusive: Extended Prime Day Tablet Bargains for Savvy Shoppers Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/five-gpt-techniques-for-optimal-cryptocurrency-trading/"><u>Five GPT Techniques for Optimal Cryptocurrency Trading</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-visionary-creatives-for-backdrops-pixelpioneers-realm/"><u>In 2024, Visionary Creatives for Backdrops PixelPioneer's Realm</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/polite-practices-for-chatbot-engagements-examples-with-siri-and-others/"><u>Polite Practices for Chatbot Engagements: Examples with Siri & Others</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/utionize-your-room-strategies-to-record-clear-sound-for-2024/"><u>Revolutionize Your Room Strategies to Record Clear Sound for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-essence-of-superior-performance-in-mondly-application/"><u>The Essence of Superior Performance in Mondly Application</u></a></li>
+<li><a href="https://fox-info.techidaily.com/tick-tock-tally-calculating-pewdiepies-cash-for-2024/"><u>Tick-Tock Tally Calculating PewDiePie’s Cash for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-titanium-band-enhances-your-apple-watch-exclusive-review-on-zdnet/"><u>Top-Rated Titanium Band Enhances Your Apple Watch - Exclusive Review on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-if-employers-can-fire-for-deploying-chatgpt/"><u>Unpacking If Employers Can Fire for Deploying ChatGPT</u></a></li>
 </ul></div>
 

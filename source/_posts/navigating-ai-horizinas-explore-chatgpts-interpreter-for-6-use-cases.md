@@ -1,7 +1,7 @@
 ---
 title: "Navigating AI Horizinas: Explore ChatGPT's Interpreter for 6 Use-Cases"
-date: 2024-10-08T18:50:35.402Z
-updated: 2024-10-14T22:37:18.667Z
+date: 2024-10-16T18:45:29.893Z
+updated: 2024-10-20T23:44:35.132Z
 tags:
   - chatgpt
   - open-ai
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create and Edit Videos
 
  Just like images, ChatGPT's Code Interpreter can also perform manipulation tasks on videos. You can perform simple tasks like extracting metadata from video files or grabbing the frame from a particular timestamp. You can also:
@@ -76,18 +83,18 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Create and Modify Audio Files
 
@@ -114,16 +121,10 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
@@ -140,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
@@ -154,10 +148,10 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
@@ -185,18 +179,20 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-transforming-photos-with-easy-online-cropping-steps/"><u>[New] 2024 Approved Transforming Photos with Easy Online Cropping Steps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-fastest-video-recorder-clear-latency-free-action/"><u>[New] Fastest Video Recorder Clear, Latency-Free Action</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-20-youtube-bards-for-unforgettable-tales/"><u>2024 Approved Top 20 YouTube Bards for Unforgettable Tales</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-unconventional-ai-assistants-for-self-programmable-coding/"><u>7 Unconventional AI Assistants for Self-Programmable Coding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-ways-to-use-chatgpt-vision/"><u>8 Ways to Use ChatGPT Vision</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-strategies-harnessing-gpt-for-novel-drafting/"><u>9 Strategies: Harnessing GPT for Novel Drafting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-gpts-security-landscape/"><u>A Deep Dive Into GPT’s Security Landscape</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-aurora-vs-traditional-hdr-the-battle-for-best-quality/"><u>In 2024, Aurora vs Traditional HDR The Battle for Best Quality</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-fair-use-navigating-youtube-copyright-challenges/"><u>Mastering Fair Use Navigating YouTube Copyright Challenges</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-windows-8-moviemaker-step-by-step-guide-for-2024/"><u>Mastering Windows 8 Moviemaker Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/premium-top-8-smoothest-capture-tools-for-2024/"><u>Premium Top 8 Smoothest Capture Tools for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-audio-capture-a-comprehensive-look-at-whatsapp-call-recording-for-2024/"><u>[Updated] Advanced Audio Capture A Comprehensive Look at WhatsApp Call Recording for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-creativity-catalysts-for-writers/"><u>AI-Driven Creativity Catalysts for Writers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-sequential-visual-narratives-with-photos/"><u>Crafting Sequential Visual Narratives with Photos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-the-ios-181-preview-version-featuring-enhanced-ai-capabilities-from-apple-step-by-step-guide-techcrunch/"><u>Download the IOS 18.1 Preview Version Featuring Enhanced AI Capabilities From Apple – Step-by-Step Guide | TechCrunch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-web-creators-with-chatgpts-essential-tools-and-strategies/"><u>Empower Web Creators with ChatGPT's Essential Tools and Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-reasons-no-place-for-chatgpt-in-crypto-research/"><u>Essential Reasons: No Place for ChatGPT in Crypto Research</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor Lock Screen Password</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-acer-touchpad-drivers-compatible-with-windows-10-free-download/"><u>Latest Acer Touchpad Drivers Compatible with Windows 10: Free Download</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-video-downsizing-optimized-strategies-for-uploading-to-vimeo/"><u>Mastering Video Downsizing: Optimized Strategies for Uploading to Vimeo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-tech-budget-july-2024s-finest-deals-on-iphones-sleek-apple-watches-cutting-edge-ipads-and-more-discover-inside-secrets-at-zdnet/"><u>Maximize Your Tech Budget: July 2024'S Finest Deals on IPhones, Sleek Apple Watches, Cutting-Edge iPads & More - Discover Inside Secrets at ZDNET</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-retrograde-your-footage-easy-vhs-effects-in-final-cut-pro/"><u>New 2024 Approved Retrograde Your Footage Easy VHS Effects in Final Cut Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/superior-free-reproduction-tools-for-switch-games-for-2024/"><u>Superior Free Reproduction Tools for Switch Games for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-guide-to-uncaged-freegpt-on-windows/"><u>The Essential Guide to Uncaged FreeGPT on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-nuances-between-nlp-systems-and-ml-models/"><u>The Nuances Between NLP Systems & ML Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-crafts-brilliance-comparing-notion-ai-with-chatgpt/"><u>Who Crafts Brilliance? Comparing Notion AI with ChatGPT</u></a></li>
 </ul></div>
 

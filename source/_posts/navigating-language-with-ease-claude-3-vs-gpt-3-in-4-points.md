@@ -1,7 +1,7 @@
 ---
 title: "Navigating Language with Ease: Claude 3 vs GPT-3, In 4 Points"
-date: 2024-10-12T17:51:18.321Z
-updated: 2024-10-14T21:47:34.158Z
+date: 2024-10-19T18:35:11.935Z
+updated: 2024-10-20T16:12:16.356Z
 tags:
   - chatgpt
   - open-ai
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 
  In the AI chatbot space, ChatGPT has been the undisputed leader since its launch in November 2022\. However, with the release of Claude 3, it is increasingly looking like ChatGPT might be losing that title. Here are four reasons you should consider switching from ChatGPT to Claude.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  Claude Is Better at Creative Writing
 
  Besides occasional science homework, programming tasks, and fun games, one of the most popular use cases of AI chatbots is creative writing. Most users use [AI chatbots to help draft an email](https://www.makeuseof.com/use-chatgpt-write-work-emails/), cover letter, resume, article, or song lyrics—basically one creative write-up or another. While ChatGPT has clearly been the favored option owing mostly to its brand name and publicity, Claude has consistently delivered top-notch results even in earlier iterations of the AI chatbots. But it's not just about providing top-notch results. Claude, especially backed by the latest [Claude 3 model](https://www.makeuseof.com/what-is-claude-3/), outperforms ChatGPT in a wide range of creative writing tasks.
@@ -59,33 +52,36 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 1. Sample 1  
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
 
@@ -97,18 +93,18 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 
 ![Coconut to wealth by ChatGPT writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And here's Claude's take:
 
 ![Coconut to wealth by Claude writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-claude.jpg)
 
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2  Claude Offers Multimodality for Free
 
@@ -157,21 +153,20 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlock-facebook-popularity-discover-best-apps-from-androidiphone/"><u>[New] 2024 Approved Unlock Facebook Popularity Discover Best Apps From Android/iPhone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-surging-upstream-in-the-youtube-subscriber-pool/"><u>[New] Surging Upstream in the YouTube Subscriber Pool</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-crafting-a-chorus-of-images-and-sound-on-instagram/"><u>[Updated] In 2024, Crafting a Chorus of Images & Sound on Instagram</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-guide-to-saving-your-youtube-playlists/"><u>[Updated] Step-by-Step Guide to Saving Your YouTube Playlists</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-your-income-youtubes-new-rules/"><u>[Updated] Streamline Your Income YouTube's New Rules</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>2024 Approved How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-effective-methods-to-access-and-utilize-the-gpeditmsc-open-group-policy-editor-on-windows-10/"><u>5 Effective Methods to Access and Utilize the gpedit.msc Open Group Policy Editor on Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-windows-11-creators-update-uncovering-new-features-with-insider-preview-build-1503/"><u>A Deep Dive Into Windows 11 Creator’s Update: Uncovering New Features with Insider Preview Build 1503</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-changing-your-username-in-windows-11/"><u>A Step-by-Step Guide: Changing Your Username in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808324185-fortnite-is-blocked-at-your-school-heres-how-to-unblock-it/"><u>Fortnite Is Blocked at Your School? Here’s How to Unblock It.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-repairing-your-apex-legends-online-connection-woes/"><u>Guide: Repairing Your Apex Legends Online Connection Woes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808218067-how-to-import-chrome-bookmarks-to-firefox-quickly-and-easily/"><u>How to Import Chrome Bookmarks to Firefox. Quickly & Easily!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/most-efficient-power-units-to-boost-your-crypto-mining-ventures-with-ethereum-and-bitcoin/"><u>Most Efficient Power Units to Boost Your Crypto Mining Ventures with Ethereum and Bitcoin</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-to-absent-configurations-in-win11s-control-panel/"><u>Navigate to Absent Configurations in Win11's Control Panel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-to-get-and-run-kodi-on-your-xbox-one-easy-steps-inside/"><u>Ultimate Tutorial to Get and Run Kodi on Your Xbox One - Easy Steps Inside!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-of-your-computers-memory-how-to-test-genuine-ram-pace-in-latest-windows-environments/"><u>Unveiling the Secrets of Your Computer's Memory: How to Test Genuine RAM Pace in Latest Windows Environments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-capturing-quality-lens-recommendations-for-content-makers/"><u>[New] 2024 Approved Capturing Quality Lens Recommendations for Content Makers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-mac-screen-recorders-top-10-free-list/"><u>[New] In 2024, Essential Mac Screen Recorders – Top 10 FREE List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-to-use-the-top-10-mobile-live-streaming-apps-list/"><u>[Updated] Free to Use The Top 10 Mobile Live Streaming Apps List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-srt-files-into-text-a-speedy-expertise-guide/"><u>[Updated] Transforming SRT Files Into Text A Speedy Expertise Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-chatgpt-discovering-why-claude-takes-the-lead-with-4-traits/"><u>Beyond ChatGPT: Discovering Why Claude Takes the Lead with 4 Traits</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/convert-photos-to-pdf-free-of-cost-masterful-image-transformation-into-bulk-pdf-documents/"><u>Convert Photos to PDF Free of Cost - Masterful Image Transformation Into Bulk PDF Documents</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/detailed-strategies-for-altering-facial-gender-display-in-digital-media-for-2024/"><u>Detailed Strategies for Altering Facial Gender Display in Digital Media for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-ai-communication-unveil-top-9-pluses-for-chatgpt/"><u>Enhanced AI Communication: Unveil Top 9 Pluses for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-trustworthiness-of-ai-chat-apps/"><u>Evaluating the Trustworthiness of AI Chat Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/innovative-approaches-to-enhancing-google-meet-visibility/"><u>Innovative Approaches to Enhancing Google Meet Visibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligence-upheld-in-chatgpt-opensai-insists/"><u>Intelligence Upheld in ChatGPT, OpensAI Insists</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-slack-and-filmora-scheduling-meetings-flawlessly/"><u>Mastering Slack & Filmora Scheduling Meetings Flawlessly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/maximize-your-ipads-potential-with-these-3-effective-strategies-to-reclaim-space/"><u>Maximize Your iPad's Potential with These 3 Effective Strategies to Reclaim Space</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-communication-googles-introduction-to-palm-2/"><u>Revolutionizing Communication: Google's Introduction to PaLM 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-case-for-unchangeable-ai-language-mods/"><u>The Case for Unchangeable AI Language Mods</u></a></li>
 </ul></div>
 

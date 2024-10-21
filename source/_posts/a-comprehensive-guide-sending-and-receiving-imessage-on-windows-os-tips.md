@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Guide: Sending & Receiving iMessage on Windows OS - Tips"
-date: 2024-10-13T17:12:41.470Z
-updated: 2024-10-15T11:18:02.604Z
+date: 2024-10-19T01:07:14.208Z
+updated: 2024-10-21T03:07:22.930Z
 tags:
   - apple
 categories:
@@ -56,13 +56,6 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -80,10 +73,10 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
@@ -91,6 +84,13 @@ Screenshot by Lance Whitney/ZDNET
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -104,11 +104,25 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -119,13 +133,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -145,31 +152,24 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,21 +207,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-cyber-celebrity-surge-2024/"><u>[Updated] Cyber Celebrity Surge 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-expert-tips-for-streamlining-mov-recordings-on-win10/"><u>[Updated] In 2024, Expert Tips for Streamlining MOV Recordings on Win10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-icy-acceleration-olympics-best-from-2022-short-tracks/"><u>[Updated] In 2024, Icy Acceleration Olympics' Best From 2022 Short Tracks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mastering-full-rotation-shoots-9-must-follow-rules/"><u>[Updated] Mastering Full-Rotation Shoots 9 Must-Follow Rules</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-creation-operational-companies-and-techniques/"><u>AI-Driven Content Creation: Operational Companies & Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-potential-impact-on-cognitive-behavioral-therapy/"><u>ChatGPT's Potential Impact on Cognitive Behavioral Therapy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-user-experience-effortless-intuitive-conversation-via-chrome/"><u>Enhance User Experience: Effortless, Intuitive Conversation via Chrome</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-pathways-to-launching-windows-fix/"><u>Essential Pathways to Launching Windows FIX</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-eliminate-youtube-short-headaches-with-these-tips/"><u>In 2024, Eliminate YouTube Short Headaches with These Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-profits-a-guide-to-gpt-in-crypto-markets/"><u>Maximizing Profits: A Guide to GPT in Crypto Markets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-era-with-grok-ai-insights-from-elon-on-its-role-and-expense/"><u>New Era with Grok AI: Insights From Elon on Its Role & Expense</u></a></li>
-<li><a href="https://facebook.techidaily.com/secrets-for-untagging-without-losing-social-credibility/"><u>Secrets for Untagging Without Losing Social Credibility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-talk-made-simple-29-essential-ai-phrases/"><u>Tech Talk Made Simple: 29 Essential AI Phrases</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-setting-up-handbrake-presets-for-converting-videos-and-dvds-to-apple-ipad-format/"><u>Ultimate Guide: Setting Up Handbrake Presets for Converting Videos & DVDs to Apple iPad Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-fraudgpts-ploy-personal-protection-strategies/"><u>Understanding FraudGPT's Ploy: Personal Protection Strategies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-build-your-own-4k-video-editing-pc/"><u>[New] 2024 Approved How To Build Your Own 4K Video Editing PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-perfect-your-video-a-comprehensive-guide-to-ideal-thumbnail-heights/"><u>[New] In 2024, Perfect Your Video A Comprehensive Guide to Ideal Thumbnail Heights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-pros-approach-to-documenting-overwatch-battles/"><u>[New] In 2024, The Pro's Approach to Documenting Overwatch Battles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-optimizing-vr-video-quality-during-live-gaming/"><u>2024 Approved Optimizing VR Video Quality During Live Gaming</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-x8b-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-fear-to-proficiency-excel-and-chatgpt-duo/"><u>From Fear to Proficiency: Excel & ChatGPT Duo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-liquid-found-in-headphone-jack-of-iphone-two-effective-solutions/"><u>How to Fix Liquid Found in Headphone Jack of iPhone: Two Effective Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a14-4g-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy A14 4G Phone without PIN</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-upload-and-share-videos-on-twitter-made-easy/"><u>In 2024, Upload & Share Videos on Twitter Made Easy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-entrepreneurs-ai-toolkit-necessary-innovations-to-know/"><u>The Entrepreneur's AI Toolkit: Necessary Innovations to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zerogpt-inadequacy-doubting-detection-tools/"><u>ZeroGPT Inadequacy: Doubting Detection Tools</u></a></li>
 </ul></div>
 

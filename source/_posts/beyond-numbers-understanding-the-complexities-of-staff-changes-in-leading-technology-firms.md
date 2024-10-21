@@ -1,7 +1,7 @@
 ---
 title: "Beyond Numbers: Understanding the Complexities of Staff Changes in Leading Technology Firms"
-date: 2024-09-17 10:51:30
-updated: 2024-09-20 11:27:42
+date: 2024-10-19T01:54:44.822Z
+updated: 2024-10-20T18:20:51.240Z
 tags:
   - professional-development
 categories:
@@ -57,7 +57,27 @@ Contrary to recent moves by some tech companies to reduce their headcount, Rhona
 
 Carmichael told ZDNET: "Our report shows that many are planning additional technology investment next year as the number one board priority is to be operationally more efficient to help 'recession-proof' their business. In short, technology is still seen by many as a way of reducing operating costs even in the face of rising inflation."
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Remote work hiring trends upward
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** In Depth
 
@@ -83,9 +103,23 @@ Nash Squared's White also offered caution to tech leaders in the year ahead, tho
 
 Job cuts at big tech companies are understandably worrying for anyone working in tech, and job cuts are a terrible ordeal for those that have to go through it especially if the process is not handled with sensitivity and compassion. But big tech is not the whole tech industry, which is still a source of opportunity for many.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET'S MONDAY OPENER** 
 
 _ZDNet's Monday Opener is our opening take on the week in tech, written by members of our editorial team._ 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **PREVIOUSLY ON ZDNET'S MONDAY OPENER:**
 
@@ -119,11 +153,28 @@ _ZDNet's Monday Opener is our opening take on the week in tech, written by membe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boosting-views-with-captivating-intros-filmed-in-imovie-for-2024/"><u>[Updated] Boosting Views with Captivating Intros Filmed in iMovie for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-windows-10-photo-display/"><u>2024 Approved Prime Windows 10 Photo Display</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tutorial-unmask-your-youtube-audience/"><u>2024 Approved Tutorial Unmask Your YouTube Audience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/202cu4/"><u>推奨される202cuアプリケーションをご紹介！無損失オーディオ切り取りソフト4品目のレビュー</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chart-topping-excel-powers-unmatched-by-gpt/"><u>Chart-Topping Excel Powers Unmatched by GPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/icue-gadget-recognition-failure-diagnosis-and-repair-techniques-revealed/"><u>ICUE Gadget Recognition Failure: Diagnosis and Repair Techniques Revealed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-elite-camera-lineup-for-total-sphere-coverage/"><u>In 2024, Elite Camera Lineup for Total Sphere Coverage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-catalog-of-livestreaming-cameras-review/"><u>In 2024, The Complete Catalog of Livestreaming Cameras Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interaction-and-innovation-smartwatch-breakthroughs-from-gpt-talk/"><u>Interaction and Innovation: Smartwatch Breakthroughs From GPT Talk</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mobile-gpt-rethink-your-downloading-decision/"><u>Mobile GPT: Rethink Your Downloading Decision</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thought-innovation-ai-mindmaps-for-ideas/"><u>Thought Innovation: AI, Mindmaps for Ideas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-linguistic-powerhouses-gpt-and-bert-compared/"><u>Understanding Linguistic Powerhouses: GPT and BERT Compared</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-steering-clear-from-ai-chatbots-for-key-creation-is-advised/"><u>Why Steering Clear From AI Chatbots for Key Creation Is Advised</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Decoding Big Data's AI Language Masters
-date: 2024-10-10T22:20:36.937Z
-updated: 2024-10-15T10:29:22.265Z
+date: 2024-10-14T23:40:57.474Z
+updated: 2024-10-21T01:03:52.722Z
 tags:
   - chatgpt
   - open-ai
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
  Of course, having a huge database of text is one thing, but LLMs need to be trained to make sense of it to produce human-like responses. How it does this is what we cover next.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do LLMs Work?
 
  How do LLMs use these repositories to create their responses? The first step is to analyze the data using a process called deep learning.
@@ -60,13 +53,22 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
-
- In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
-
-![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
@@ -75,11 +77,22 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
+
+![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
+
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
  But LLMs go deeper than this. They can also tailor replies to suit the emotional tone of the input. When combined with contextual understanding, the two facets are the main drivers that allow LLMs to create human-like responses.
 
  To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are the Limitations of LLMs?
 
@@ -94,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 Examples of Popular LLMs
 
  The continuing advance of AI is now largely underpinned by LLMs. So while they aren't exactly a new technology, they have certainly reached a point of critical momentum, and there are now many models.
@@ -104,23 +124,9 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
  Generative Pre-trained Transformer (GPT) is perhaps the most widely known LLM. GPT-3.5 powers the ChatGPT platform used for the examples in this article, while the newest version, GPT-4, is available [through a ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Microsoft also uses the latest version [in its Bing Chat platform](https://www.makeuseof.com/chatgpt-vs-bing-chat-best-generative-ai-chatbot/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. LaMDA
 
  This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. BERT
 
@@ -166,20 +172,24 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-techniques-in-itunes-video-saving-for-2024/"><u>[New] Advanced Techniques in iTunes Video Saving for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-swift-guide-to-starting-conversations-on-instagram/"><u>[New] In 2024, A Swift Guide to Starting Conversations on Instagram</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-how-to-reactivate-video-playback-in-sony-a6400-for-2024/"><u>[Updated] How to Reactivate Video Playback in Sony A6400 for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/approach-recall-the-definitions-and-symptoms-of-reversible-and-irreversible-pulpitis/"><u>Approach: Recall the Definitions and Symptoms of Reversible and Irreversible Pulpitis.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-screen-time-with-ai-support/"><u>Crafting Personalized Screen Time with AI Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-gpts-influence-on-cybercriminal-activities/"><u>Dissecting GPT's Influence on Cybercriminal Activities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-vs-bert-dissecting-modern-nlp-giants-distinctions/"><u>GPT vs BERT: Dissecting Modern NLP Giants' Distinctions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-ai-chatbots-learn-to-communicate-like-us/"><u>How AI Chatbots Learn to Communicate Like Us</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Pro Max Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-mechanics-of-7-apps-boosted-by-gpt-4-technology/"><u>Inside Mechanics of 7 Apps Boosted by GPT-4 Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-domestic-functionality-with-chatgpt-innovations/"><u>Reimagining Domestic Functionality with ChatGPT Innovations</u></a></li>
-<li><a href="https://win-webster.techidaily.com/reparieren-von-beschadigten-systemdateien-unter-windows-111087/"><u>Reparieren Von Beschädigten Systemdateien Unter Windows 11/10/8/7</u></a></li>
-<li><a href="https://article-posts.techidaily.com/speedy-shutterbugs-iphones-quick-time-lapse-guide/"><u>Speedy Shutterbugs IPhone's Quick Time-Lapse Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-8-smarter-ways-to-approach-writing-tasks/"><u>Top 8 Smarter Ways to Approach Writing Tasks</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/transcoding-vimeo-to-mp3-audio-file/"><u>Transcoding Vimeo to MP3 Audio File</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/oosting-views-top-14-gaming-video-ideas-that-work/"><u>[New] Boosting Views Top 14 Gaming Video Ideas That Work</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-live-stream-gopro-to-facebook-and-periscope/"><u>[New] In 2024, How to Live Stream Gopro to Facebook and Periscope?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-windows-11-master-class-video-recorder/"><u>[Updated] In 2024, Windows 11 Master Class Video Recorder</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-method-for-producing-captivating-video-thumbnails-for-2024/"><u>[Updated] Step-by-Step Method for Producing Captivating Video Thumbnails for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-limits-10-ai-breakthroughs/"><u>Beyond the Limits: 10 AI Breakthroughs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-typing-crafting-stories-through-chatgpt/"><u>Beyond Typing, Crafting Stories Through ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-workplace-productivity-with-ai-powered-docspace-tools/"><u>Elevate Workplace Productivity with AI-Powered DocSpace Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/four-strong-arguments-to-forgo-ps5-buying/"><u>Four Strong Arguments to Forgo PS5 Buying</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-drive-more-traffic-effective-strategies-for-youtube-outros/"><u>In 2024, Drive More Traffic Effective Strategies for YouTube Outros</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-t2-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo T2 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-into-daily-schedules-easily/"><u>Integrating GPT Into Daily Schedules Easily</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lenovo-thinkphone-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lenovo ThinkPhone Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-windows-workspace-5-folder-tips-revealed/"><u>Master Your Windows Workspace: 5 Folder Tips Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-video-starts-get-them-for-free/"><u>Masterful Video Starts, Get Them for Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-content-through-ai/"><u>Revolutionize Your Content Through AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-key-to-smooth-conversations-intelligent-folder-strategy-for-chatgpt/"><u>The Key to Smooth Conversations: Intelligent Folder Strategy for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-promise-of-codegpt-ai-driven-software-generation/"><u>The Promise of CodeGPT: AI-Driven Software Generation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-effective-chatgpt-api-strategies/"><u>Unlocking Potential: Effective ChatGPT API Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-rights-holder-of-ai-productions/"><u>Unveiling the Rights Holder of AI Productions</u></a></li>
 </ul></div>
 

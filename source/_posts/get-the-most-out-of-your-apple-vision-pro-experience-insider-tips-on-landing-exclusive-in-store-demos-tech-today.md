@@ -1,7 +1,7 @@
 ---
 title: Get the Most Out of Your Apple Vision Pro Experience - Insider Tips on Landing Exclusive In-Store Demos | Tech Today
-date: 2024-10-14T00:44:27.018Z
-updated: 2024-10-15T08:46:10.428Z
+date: 2024-10-13T22:22:28.536Z
+updated: 2024-10-20T20:55:24.502Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -48,10 +41,10 @@ Tap on the Wallet app to open it.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
@@ -75,13 +68,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
@@ -113,6 +99,19 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -125,10 +124,10 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
@@ -139,6 +138,19 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I use Apple Pay online?
 
 In addition to using Apple Pay at stores, you also can use it in some apps and with the many online retailers that support it. In fact, the list of online retailers that _don't_ support Apple Pay is shrinking every day. As of this writing, Walmart and Home Depot are among the few major retailers that don't (yet) accept Apple Pay for online purchases.
@@ -148,13 +160,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -177,6 +182,13 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -212,24 +224,24 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-monetary-mastery-for-your-social-media-channel-fb-video-wisdom/"><u>[New] In 2024, Monetary Mastery for Your Social Media Channel FB Video Wisdom</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display-for-2024/"><u>[New] Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-makeup-trends-to-try-now/"><u>2024 Approved Makeup Trends to Try Now</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-monetizing-your-content-deciphering-the-minimum-views-needed/"><u>2024 Approved Monetizing Your Content Deciphering the Minimum Views Needed</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/creating-your-perfect-profile-photo-a-guide-for-ios-and-android-users/"><u>Creating Your Perfect Profile Photo: A Guide for iOS and Android Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-claude-3s-features-and-potential/"><u>Decoding Claude 3'S Features & Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elite-github-top-chatgpt-dialogue-ideas/"><u>Elite Github Top ChatGPT Dialogue Ideas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empathetic-algorithms-the-next-step-in-human-computer-interaction/"><u>Empathetic Algorithms: The Next Step in Human-Computer Interaction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-the-future-of-personal-handiwork/"><u>GPT-4: The Future of Personal Handiwork</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/hisense-40h5590f-smart-tv-review/"><u>Hisense 40H5590F Smart TV Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-not-to-use-chatgpt-as-a-student/"><u>How Not to Use ChatGPT as a Student</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-address-the-arduino-uno-driver-glitches-on-a-windows-pc/"><u>How to Address the Arduino Uno Driver Glitches on a Windows PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/nature-of-the-cosmos-select-sky-photography-websites-for-2024/"><u>Nature of the Cosmos Select Sky Photography Websites for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sarah-silverman-spearheads-anti-ai-artists-lawsuit/"><u>Sarah Silverman Spearheads Anti-AI Artists Lawsuit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/should-you-bypass-gpts-limits-considerations/"><u>Should You Bypass GPT's Limits? Considerations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/snapchat-ai-unraveling-its-multifaceted-value/"><u>Snapchat AI: Unraveling Its Multifaceted Value</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-youtube-creator-summit-a-getaway-for-top-talent-for-2024/"><u>The YouTube Creator Summit - A Getaway for Top Talent for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-why-chatgpt-could-shape-future-health-support/"><u>Understanding Why ChatGPT Could Shape Future Health Support</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-htc-u23-by-drfone-android/"><u>Universal Unlock Pattern for HTC U23</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-how-to-optimize-your-youtube-shorts-templates-effectively/"><u>[New] In 2024, How to Optimize Your YouTube Shorts Templates Effectively</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlock-efficiency-screen-recording-on-mac-via-keyboard-shortcuts/"><u>[New] In 2024, Unlock Efficiency Screen Recording on Mac via Keyboard Shortcuts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-conquer-iphone-photography-by-perfecting-motion-capture/"><u>2024 Approved Conquer iPhone Photography by Perfecting Motion Capture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automatic-closing-of-safari-tabs-in-macos-sonoma-step-by-step-guide/"><u>Automatic Closing of Safari Tabs in macOS Sonoma - Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/connectivity-compass-navigating-through-4-ways-of-net-speed-check/"><u>Connectivity Compass: Navigating Through 4 Ways of Net Speed Check</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-predictive-ai-its-method-and-mechanics-unfolded/"><u>Exploring Predictive AI: Its Method and Mechanics Unfolded</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-a-twitchy-pointer-in-your-desktop-environment/"><u>Fixing a Twitchy Pointer in Your Desktop Environment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-dvd-cloning-tools-ranked-discover-the-top-3-software-options-for-cost-free-dvd-duplication/"><u>Free DVD Cloning Tools Ranked! Discover the Top 3 Software Options for Cost-Free DVD Duplication</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-basics-to-best-achieving-superior-sound-via-zoom-for-podcasting-for-2024/"><u>From Basics to Best Achieving Superior Sound via Zoom for Podcasting for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-on-google-sheets-with-gpt-for-sheets-and-docs/"><u>How to Use ChatGPT on Google Sheets With GPT for Sheets and Docs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-fintech-figures-demand-thinking-revolution-not-simple-prompts-to-shape-ai-future/"><u>Leading Fintech Figures Demand Thinking Revolution, Not Simple Prompts, to Shape AI Future</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/phrase-phantom-fight-gpt-vs-google-in-translation/"><u>Phrase Phantom Fight: GPT Vs. Google in Translation</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/resolved-efficiently-access-your-shortcuts-by-linking-to-the-preferred-folder-in-this-collaborative-repository/"><u>Resolved: Efficiently Access Your Shortcuts by Linking to the Preferred Folder in This Collaborative Repository</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-ipad-calculator-app-so-sophisticated-youll-need-an-apple-pencil/"><u>Revolutionary iPad Calculator App: So Sophisticated, You'll Need an Apple Pencil!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-enterprise-productivity-top-5-companies-embrace-apple-vision-pros-game-changing-features-insights/"><u>Revolutionizing Enterprise Productivity: Top 5 Companies Embrace Apple Vision Pro's Game-Changing Features - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-health-monitoring-from-restroom-visits-to-real-time-data-analysis-discover-the-future-of-preventive-care/"><u>Revolutionizing Health Monitoring: From Restroom Visits to Real-Time Data Analysis - Discover the Future of Preventive Care</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safe-communication-for-youngsters-using-gpt-essentials-of-5-ways/"><u>Safe Communication for Youngsters Using GPT: Essentials of 5 Ways</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-tutorial-addressing-the-undetected-tpm-issue-in-windows-11-and-10-systems/"><u>Step-by-Step Tutorial: Addressing the Undetected TPM Issue in Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-retrieve-lost-airpods-and-avoid-misplacement-in-the-future/"><u>The Ultimate Guide : Retrieve Lost AirPods & Avoid Misplacement in the Future</u></a></li>
 </ul></div>
 

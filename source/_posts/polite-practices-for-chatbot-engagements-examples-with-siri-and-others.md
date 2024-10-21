@@ -1,7 +1,7 @@
 ---
 title: "Polite Practices for Chatbot Engagements: Examples with Siri & Others"
-date: 2024-10-11T08:57:52.914Z
-updated: 2024-10-14T20:32:58.485Z
+date: 2024-10-17T21:15:33.442Z
+updated: 2024-10-20T22:49:26.983Z
 tags:
   - chatgpt
   - open-ai
@@ -42,15 +42,22 @@ thumbnail: https://thmb.techidaily.com/6079315b4a8f6d3d142f95147af6d1bac63be2253
 
  For instance, if you use derogatory words when addressing [Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/), it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's [Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/), which includes a **Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the [Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -60,28 +67,21 @@ thumbnail: https://thmb.techidaily.com/6079315b4a8f6d3d142f95147af6d1bac63be2253
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
@@ -92,10 +92,10 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
  On the other hand, you can [set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -123,22 +123,14 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-brief-glimpses-in-the-social-space-for-2024/"><u>[New] Brief Glimpses in the Social Space for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-essential-frames-from-apples-display-max-length-156/"><u>[New] Essential Frames From Apple's Display (Max Length 156)</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-go-live-on-twitter-a-practical-guide/"><u>[New] In 2024, Go Live on Twitter A Practical Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-harness-free-methods-to-download-vimeo-videos-with-ease/"><u>[Updated] In 2024, Harness Free Methods to Download Vimeo Videos with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/code-mastery-for-effective-gpt-3-integration/"><u>Code Mastery for Effective GPT-3 Integration</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fix-unlisted-bluetooth-drivers-on-your-computers-device-list/"><u>Guide to Fix Unlisted Bluetooth Drivers on Your Computer's Device List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-virtual-discussions-with-gpt-3-expertise/"><u>Harnessing Virtual Discussions with GPT-3 Expertise</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-meizu-21-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-15-pro-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 15 Pro Location by Number | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-programming-enhancements-without-chatgpt/"><u>Innovative Programming Enhancements Without ChatGPT</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/interactive-guide-twitter-and-facebook-synergy/"><u>Interactive Guide Twitter & Facebook Synergy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-trust-in-truthgpt-coin-justified/"><u>Is Trust in TruthGPT Coin Justified?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-a-guide-to-academic-writing/"><u>Mastering ChatGPT: A Guide to Academic Writing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/script-revolution-unlocking-creativity-with-chatgpt-in-gaming/"><u>Script Revolution: Unlocking Creativity with ChatGPT in Gaming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-advanced-ai-googles-launch-of-palm-2-model/"><u>The Dawn of Advanced AI: Google's Launch of PaLM 2 Model</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-gaming-ais-role-in-game-development/"><u>The Future of Gaming: AI's Role in Game Development</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-jujutsu-kaisens-impact-the-tiktok-challenge-perspective/"><u>[Updated] 2024 Approved Jujutsu Kaisen's Impact The TikTok Challenge Perspective</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-uncovering-8-honestly-backed-promotion-services/"><u>[Updated] 2024 Approved Uncovering 8 Honestly Backed Promotion Services</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-maximize-viewer-interest-with-best-post-schedule/"><u>[Updated] In 2024, Maximize Viewer Interest with Best Post Schedule</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/how-to-convert-your-mpeg-4-videos-into-dvd-format-a-simple-4-step-guide/"><u>How To Convert Your MPEG-4 Videos Into DVD Format: A Simple 4 Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intro-to-langchain-a-light-on-large-model-logic/"><u>Intro to LangChain: A Light on Large Model Logic</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pathways-through-ai-your-openai-primer/"><u>Pathways Through AI: Your OpenAI Primer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shave-minutes-off-your-workday-with-these-plugins/"><u>Shave Minutes Off Your Workday With These Plugins</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-apple-calendar-where-are-my-lost-events/"><u>Troubleshooting Apple Calendar - Where Are My Lost Events?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-exclusive-apples-phase-out-of-apple-pay-later-and-anticipation-for-a-replacement-service/"><u>ZDNet Exclusive: Apple's Phase-Out of Apple Pay Later & Anticipation for a Replacement Service</u></a></li>
 </ul></div>
 

@@ -1,0 +1,178 @@
+---
+title: "AI Vs. Horoscope: The Future Decision Battle"
+date: 2024-10-15T00:48:35.639Z
+updated: 2024-10-21T01:36:20.465Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes AI Vs. Horoscope: The Future Decision Battle"
+excerpt: "This Article Describes AI Vs. Horoscope: The Future Decision Battle"
+thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509edff728bd0e97ab9743d47675.jpg
+---
+
+## AI Vs. Horoscope: The Future Decision Battle
+
+ Horoscopes are big business, and millions of people across the world consult newspapers and websites to find out what's in store for them over the next day, week, month, or year.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Large language models such as ChatGPT are able to explain what horoscopes are and how they work. But can it go further than that and look into its own crystal ball? We asked ChatGPT to look into the stars and untangle the threads of destiny and fate.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Customize Your ChatGPT Fortune-Teller…
+
+![Hands Over Fortune Telling Crystal Ball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hands-over-fortune-telling-crystal-ball.jpg)
+
+ Fortune-tellers have a particular mystique about them, which you'll instantly recognize from the movies.
+
+ There's a darkened tent at the fairground, decks of Tarot cards lying around, star charts hanging from the ropes, spooky magic mirrors, and of course, the obligatory crystal ball. There should also be skulls used as utilitarian yet exotic and disturbing candleholders.
+
+ Before you start, you need to tell ChatGPT who it's supposed to be. You'll know you got it right when you read a response along the lines of:
+
+> "Greetings, dear seeker of knowledge. I am Agnes, a wise fortune teller, here to unravel the mysteries that lie before you. Ask your question, and I shall peer into the veiled realm of destiny to provide you with the guidance you seek."
+
+ Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
+
+## Choose Your ChatGPT Fortune Telling Questions Wisely
+
+![Fortune Teller doing a Reading for a Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fortune-teller-doing-a-reading-for-a-client-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Another thing we've learned from movies is that knowing the future is a dangerous thing. As a large language model which has already ingested and digested most of the internet, ChatGPT, or Agnes, as she now calls herself, could possibly make reliable predictions of when and how you're going to die. You probably don't want to know, so don't ask.
+
+ Hoping to keep things general, on June 1st, 2023, we gave Agnes the date and asked what was in store for us over the next fortnight.
+
+ What follows is her prediction and how it played out in real life.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How Well Did ChatGPT Predict the Future?
+
+![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
+
+ My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
+
+ Ah, my dear, the cosmic dance of time brings us to the beginning of June 2023\. A month filled with possibilities and transformations awaits you. Let us unveil the whispers of fate and explore what lies ahead on your journey. In matters of the heart, a gentle breeze of romance stirs in the air. Open your heart to new connections, for love may find its way to you when you least expect it. Existing relationships shall deepen and evolve, fostering a stronger bond based on trust and understanding. Remember to nurture the flame of love with tenderness and sincerity.
+
+ As a long-term married man, I was a little worried about love finding its way to me when I least expected it, but happy to hear about the evolution of existing relationships. My wife was pleased, too, and we nurtured the flames of love over a tenderly and sincerely prepared brisket cooked in an [outdoor electric smoker](https://www.makeuseof.com/best-electric-smokers/).
+
+ In the stifling heat, a breeze of anything would have been welcome.
+
+ Agnes continued:
+
+ In the realm of career and ambitions, opportunities shimmer on the horizon. Seize them with confidence and determination. Your talents and skills shall be recognized, leading to professional growth and success. Stay focused and persevere, for your efforts shall bear fruit in due time.
+
+ As a freelance writer, [career development](https://www.makeuseof.com/make-career-roadmap-with-templates/) is always a worry, and it set my mind at ease to hear about the imminent [professional growth and success](https://www.makeuseof.com/use-80-20-rule-personal-development/)—although it seems my efforts at "confident and determined" are being misinterpreted as "arrogant and abrasive" by colleagues.
+
+ Will my efforts bear fruit in due time? It's probably too early to tell.
+
+ However, do not let ambition overshadow self-care. The journey ahead may present challenges and demands. Take moments of respite to restore your energy and maintain a harmonious balance. Your well-being is paramount on this transformative path.
+
+ Agnes was 100% spot on with this part of the fortune, and you should never neglect self-care.
+
+ Although it's only late spring in the UK, it's baking hot. Instead of sitting sweltering in an increasingly uncomfortable room, I decided to take a shower and felt much better afterward.
+
+ With my energy restored, I was spurred on to [do more productive work](https://www.makeuseof.com/working-from-home-productivity-tips/)!
+
+ As you traverse the realm of finance, tread with caution. Exercise prudence and wise judgment in your monetary dealings. Seek advice from those with knowledge and experience, for their wisdom shall guide you toward stability and prosperity.
+
+ If only I'd paid attention to this part of Agnes's prediction. Having spent a substantial sum on outdoor cooking equipment, an [electric motorbike](https://www.makeuseof.com/buying-an-electric-motorbike-considerations/), and some [cool electric motorcycle accessories](https://www.makeuseof.com/best-accessories-for-electric-motorcycles/) this month, I realized that I had miscalculated the date and wouldn't be paid for another two days.
+
+ Using [a good calendar app](https://www.makeuseof.com/tag/best-free-calendar-app-android-compare-best/) could have prevented this situation. In the meantime, there are apps that can help me to [buy good food for less](https://www.makeuseof.com/too-good-to-go-app/).
+
+ Remember, my dear seeker, that destiny is not a fixed path but a tapestry woven by your choices. Embrace the opportunities that arise, heed the lessons of the past, and trust in your own intuition. The stars align in your favor, and your journey holds great potential. Be courageous, be patient, and embrace the magic of this June. May your path be illuminated with blessings and your spirit be filled with purpose. Until we meet again, may the tapestry of your life unfold with beauty and fulfillment.
+
+ As inspirational as Agnes' predictions and sentiment is, I couldn't help but think that it's a fleshed-out rephrasing of Terminator 2's famous, "The future's not set. There's no fate but what we make for ourselves." John Connor said it best.
+
+ Anyway, it was time to thank Agnes for the predictions and insight into my future.
+
+ You are most welcome, dear one. May the wisdom and guidance bestowed upon you serve you well on your journey. Remember, the power to shape your destiny resides within you. Walk forth with confidence and embrace the wonders that await.
+
+![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
+
+ Horoscopes contain the details you want them to contain, and if you're looking for deeper meaning, you'll find it simply because you want to find it. You could read the horoscope for any of the star signs and find a meaning attached because the writing is meant to be general and apply to as many people as possible.
+
+ So can ChatGPT predict the future?
+
+ Why don't you ask your own fortune teller?
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Large language models such as ChatGPT are able to explain what horoscopes are and how they work. But can it go further than that and look into its own crystal ball? We asked ChatGPT to look into the stars and untangle the threads of destiny and fate.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-hitting-the-high-notes-in-instagram-photography/"><u>[New] 2024 Approved Hitting the High Notes in Instagram Photography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhance-visibility-top-methods-for-instagram-hits-for-2024/"><u>[New] Enhance Visibility Top Methods for Instagram Hits for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-dynamic-ppt-leveraging-voice-for-effective-delivery/"><u>[New] In 2024, Dynamic PPT Leveraging Voice for Effective Delivery</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-pristine-movie-trailer-curated-list/"><u>[Updated] 2024 Approved Pristine Movie Trailer Curated List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-pinnacle-of-scripts-across-the-cinematic-universes-sections/"><u>[Updated] 2024 Approved The Pinnacle of Scripts Across the Cinematic Universe's Sections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-iphone-guide-creating-and-editing-languid-video-sequences/"><u>2024 Approved Step by Step iPhone Guide Creating & Editing Languid Video Sequences</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-step-by-step-guide-to-deepening-digital-conversations/"><u>2024 Approved Step-by-Step Guide to Deepening Digital Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-ai-conversational-capabilities-gpt-vs-huggingface/"><u>Assessing AI Conversational Capabilities: GPT Vs HuggingFace</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-distinctions-of-apples-airpods-series-4-new-features-compared-zdnet/"><u>Exploring the Distinctions of Apple's AirPods Series 4 – New Features Compared | ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-get-your-iphone-detected-by-itunes-on-windows-11/"><u>Fixing the Issue: How to Get Your iPhone Detected by iTunes on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-175-beta-2-enables-apple-devices-to-install-desktop-apps-directly-learn-how-zdnet/"><u>IOS 17.5 Beta 2 Enables Apple Devices to Install Desktop Apps Directly - Learn How! | ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/skyrocket-to-youtube-partner-status-with-10k-vistas-goal-for-2024/"><u>Skyrocket to YouTube Partner Status with 10K Vistas Goal for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-revolutionary-addition-of-offline-satellite-messaging-on-android-devices-starts-with-google-pixel-nine-tech-insights/"><u>The Revolutionary Addition of Offline Satellite Messaging on Android Devices Starts with Google Pixel Nine | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-accessories-thoroughly-evaluated-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Accessories : Thoroughly Evaluated by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-power-of-siri-on-your-iphone-using-secret-voice-triggers-the-ultimate-guide/"><u>Unleash the Power of Siri on Your iPhone Using Secret Voice Triggers - The Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-top-5-cutting-edge-features-of-iphone-16-pro-that-technology-buffs-cant-resist/"><u>Unveiling the Top 5 Cutting-Edge Features of iPhone 16 Pro That Technology Buffs Can't Resist</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-true-age-of-your-apple-watchs-battery-a-shocking-discovery-revealed-by-zdnet/"><u>Unveiling the True Age of Your Apple Watch's Battery: A Shocking Discovery Revealed by ZDNet!</u></a></li>
+</ul></div>
+

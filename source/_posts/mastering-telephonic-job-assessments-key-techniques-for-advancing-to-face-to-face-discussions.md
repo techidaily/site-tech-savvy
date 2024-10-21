@@ -1,7 +1,7 @@
 ---
 title: "Mastering Telephonic Job Assessments: Key Techniques for Advancing to Face-to-Face Discussions"
-date: 2024-09-18 20:19:28
-updated: 2024-09-20 12:40:19
+date: 2024-10-19T21:47:11.540Z
+updated: 2024-10-20T22:25:40.063Z
 tags:
   - professional-development
 categories:
@@ -42,9 +42,29 @@ You've scheduled a phone interview for 1:00 p.m. on Wednesday. But what time zon
 
 During the phone interview, you'll want to demonstrate your enthusiasm for the position. Researching the company — and determining why you want to work for them — will go a long way toward landing a second interview. Learn about the company, its values, and its goals. Reach out to anyone in your network who's worked for the company to get an insider perspective.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Make an accomplishments cheat sheet
 
 The interviewer will want to know why they should hire you. Make a cheat sheet of your experiences, skills, and accomplishments. Read the job posting again and write down specific qualifications that the employer is looking for. Make sure you talk about these qualifications in your interview. Use the cheat sheet during the interview when they ask you to provide specific examples of your accomplishments. 
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Practice answering common questions
 
@@ -53,6 +73,13 @@ Many phone interviews start with an open-ended question like "tell me about your
 ### Plan out your salary answer
 
 Salary expectations might come up during a phone interview. Research the salary range for the role in your area to avoid undervaluing yourself. In fact, you might want to ask about the salary range to make sure the company's pay matches what you're looking for. Plan out how to answer the salary question without selling yourself short. For example, you can avoid saying an exact number but give a range. Or, you can ask the interviewer what the company's salary range is and base your answer off of their range.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prep three questions for the interviewer
 
@@ -65,6 +92,13 @@ What materials will you need during the phone interview? Some people must have a
 ### Do a practice round
 
 You've practiced your answers in front of the mirror, but consider a mock interview to get even more practice. Ask a friend, family member, or someone you trust to practice with you. Provide a list of questions and answer them as you would during the interview. Ask for constructive feedback to improve your answers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Get in the right mindset
 
@@ -84,6 +118,13 @@ During a phone interview, the hiring manager evaluates how you would fit in with
 
 It's natural to feel nervous during a phone interview, and we tend to speak faster when we're nervous. Make sure to breathe while you speak. Focus on enunciating your words and speaking slowly. If it helps you relax, pretend you're in a mock interview with someone you know well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Keep water (or coffee) nearby
 
 Don't let a dry throat or cough interrupt your interview. Make sure to start the call with a glass of water close at hand. Or if you prefer, bring a cup of coffee or tea for a little caffeine boost. Similarly, make sure you're not hungry (or overly full) when you start the interview.
@@ -91,6 +132,13 @@ Don't let a dry throat or cough interrupt your interview. Make sure to start the
 ### Ask follow-up questions
 
 Feel free to ask follow-up questions throughout the call. Asking questions shows the interviewer that you're listening and interested in the role. If the interviewer asks an unclear question, don't hesitate to ask for clarification. It's better to make sure you understand the question than to muddle through with a subpar answer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bring examples from your professional experience
 
@@ -114,6 +162,13 @@ Once you hang up the phone, what's next? While it's fresh in your mind, jot down
 
 After the interview, make sure to send a thank-you email to the interviewer. The email can be brief. Consider something like "I appreciate the opportunity to learn more about the role and company." Take the opportunity to express your enthusiasm for the next steps in the interview process.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Wait to reach out again
 
 You've sent a thank you email and waited several days. When should you reach out again? Wait at least a week before contacting the interviewer again, particularly if they gave you an idea of their timeline. For example, if they said you'd hear back in a week, wait at least a few days after that date to contact them again.
@@ -131,6 +186,13 @@ In either scenario, congratulate yourself for gaining confidence and experience 
 ### This article was reviewed by Dana Alqaq
 
 ![dana alqaq, a woman with long brown hair, smiles at the camera](https://www.zdnet.com/a/img/resize/cf11b0d5b20adb6fe3099cd1553dec264efc013a/2022/02/02/a3babff1-03ec-48a3-85ea-b0847e705985/dana-alqaq.png?auto=webp&width=1280)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Dana Alqaq](https://www.linkedin.com/in/dana-alqaq/) comes from a diverse and well-rounded background focusing on IT, cybersecurity, and HR. She is a corporate recruiter in northern Virginia for a government sector and holds bachelor's degrees in cybersecurity and business management. Dana has an extensive background in higher education with over five years of experience, as well as 15 years of experience in customer service. She stays up to date on changes in the tech industry through educational courses and training programs.
 
@@ -162,11 +224,28 @@ _Last reviewed Jan. 27, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-rectify-blank-page-views-on-social-media/"><u>[New] In 2024, Rectify Blank Page Views on Social Media</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-5-inspiring-book-trailers-for-2024/"><u>[New] Top 5 Inspiring Book Trailers for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-master-the-making-of-spectacular-slideshows-for-your-social-circle/"><u>[Updated] In 2024, Master the Making of Spectacular Slideshows for Your Social Circle</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-perfecting-audio-rates-in-youtube-playback-for-2024/"><u>[Updated] Perfecting Audio Rates in YouTube Playback for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-complex-workings-of-gpt4all/"><u>Decoding the Complex Workings of GPT4All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dont-install-macchatgpt-uncovered-risks/"><u>Don't Install MacChatGPT: Uncovered Risks!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/freezing-points-to-inviting-landscapes-for-2024/"><u>From Freezing Points to Inviting Landscapes for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-save-your-chatgpt-chats-for-later/"><u>How to Save Your ChatGPT Chats for Later</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-motorola-moto-g04-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Motorola Moto G04 Without PUK Codes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-overcoming-constant-crashing-in-minecraft-dungeons-for-windowsmac-osx/"><u>Step-by-Step Solution: Overcoming Constant Crashing in Minecraft Dungeons for Windows/Mac OSX</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-c67-5g-by-drfone-android/"><u>Universal Unlock Pattern for Realme C67 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocked-potential-speak-to-chatgpt-directly/"><u>Unlocked Potential: Speak To ChatGPT Directly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-ais-potential-for-home-artisans-gpt-4/"><u>Unveiling AI's Potential for Home Artisans: GPT-4</u></a></li>
+</ul></div>
+

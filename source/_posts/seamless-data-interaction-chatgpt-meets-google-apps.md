@@ -1,7 +1,7 @@
 ---
 title: "Seamless Data Interaction: ChatGPT Meets Google Apps"
-date: 2024-10-13T02:06:26.618Z
-updated: 2024-10-14T23:44:09.510Z
+date: 2024-10-17T17:10:33.716Z
+updated: 2024-10-20T17:10:17.973Z
 tags:
   - chatgpt
   - open-ai
@@ -46,15 +46,16 @@ thumbnail: https://thmb.techidaily.com/2da0b340f030211e0759ed7d171c4de004a02d38f
 3. Up next, you should be taken to the Google Workspace Marketplace. Locate the search bar in the top right corner of the screen and search for **GPT for Sheets and Docs**.  
 ![Google Workspace Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/google-workspace-marketplace.jpg)
 4. Click on the first extension, as seen in the screenshot above. On the next page, click on **Install** and then **Continue.**  
-![Installing GPT for Sheets and Docs on Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-gpt-for-sheets-and-docs-on-google-sheets.jpg)
-5. Select the Google account associated with your Google Sheets account and then tap **Allow** on the permission prompt to grant the extension access it needs to modify your spreadsheets.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Installing GPT for Sheets and Docs on Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-gpt-for-sheets-and-docs-on-google-sheets.jpg)
+5. Select the Google account associated with your Google Sheets account and then tap **Allow** on the permission prompt to grant the extension access it needs to modify your spreadsheets.
 
 6. After the installation, click **Next** and tap **Done** on the post-installation screen to complete the installation process.
 
@@ -69,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/2da0b340f030211e0759ed7d171c4de004a02d38f
 3. Up next, locate and click on the **Create new Secret key** button at the center of the page.
 4. If all goes well, a pop-up with your API keys and an "API Key Generated" notification should appear on your screen. Next, tap the green copy button beside your API key to copy the key to your clipboard.  
 ![OpenAI secret Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-secret-key.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Please make sure to keep a secure copy of your API key, as it cannot be recovered if lost. Additionally, do not share your API keys with third parties, as this may result in restrictions being placed on your access to OpenAI's GPT API in case of any misuse by malicious third parties.
 
@@ -88,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/2da0b340f030211e0759ed7d171c4de004a02d38f
 
  Well, the possibilities are endless.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Generate Text
 
  With GPT-powered Google Sheets, you can use regular ChatGPT prompts and get similar replies to ChatGPT right within Google Sheets. For instance, if you want to populate cell C3 with a story about Snapchat, you could type the formula **\=GPT("Write a short story about Snapchat")** right inside the cell.
@@ -107,22 +108,15 @@ Screenshot was taken by the author, Maxwell Timothy
 
 ![Run GPT functions by cell reference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-gpt-functions-by-cell-reference.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, we are dealing with a spreadsheet, so you probably need your results to span multiple cells. To do that, you can use the **\=GPT\_LIST** function. An example could be **\=GPT\_LIST("write five creative taglines for an ice-cream shop")** or **\=GPT\_LIST(A1)**.
 
 ![multi-cell response in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/multi-cell-response-in-gpt-for-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Translate Text
@@ -131,15 +125,29 @@ Screenshot was taken by the author, Maxwell Timothy
 
 ![translating with GPT on Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/translating-with-gpt-on-sheets.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Summarize Text
 
  To summarize text, you can either wrap a summarization prompt with the base =GPT function or use the **\=GPT\_SUMMARIZE** function. For instance, **\=GPT\_SUMMARIZE(C44)** will summarize the content of cell C44 into the active cell.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Classify Text
@@ -159,17 +167,16 @@ Screenshot was taken by the author, Maxwell Timothy
 ![GPT_TABLE function in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_table-function-in-gpt-for-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Copy Text Formatting
@@ -183,10 +190,10 @@ Screenshot was taken by the author, Maxwell Timothy
 ![Data Extraction using GPT functions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/data-extraction-using-gpt-functions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Boost Your Productivity With ChatGPT Prompts in Google Sheets
@@ -216,18 +223,19 @@ Screenshot was taken by the author, Maxwell Timothy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-precision-protests-unveiling-the-difference-between-hero5-black-and-session-for-2024/"><u>[Updated] Precision Protests Unveiling the Difference Between Hero5 Black and Session for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-turning-snaps-into-cashflow/"><u>[Updated] Turning Snaps Into Cashflow</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-typical-slip-ups-when-deploying-chatgpt-for-articles/"><u>4 Typical Slip-Ups When Deploying ChatGPT for Articles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-ways-ai-tools-enhance-your-academic-research/"><u>4 Ways AI Tools Enhance Your Academic Research</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-essential-warnings-before-choosing-ai-as-your-mental-health-companion/"><u>5 Essential Warnings Before Choosing AI as Your Mental Health Companion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-strategies-for-leveraging-chatgpts-visual-ai/"><u>7 Strategies for Leveraging ChatGPT's Visual AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-reasons-why-teachers-should-embrace-ai-instead-of-fearing-it/"><u>8 Reasons Why Teachers Should Embrace AI Instead of Fearing It</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721421565758-free-gpt-4-but-platinum-plan-holds-6-significant-perks-still-intact/"><u>Free GPT-4, but Platinum Plan Holds 6 Significant Perks Still Intact</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-dodge-repeated-network-logon-error-messages-on-windows/"><u>How to Dodge Repeated Network Logon Error Messages on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-problem-when-fifa-21-wont-open-solutions-worked/"><u>How to Fix the Problem When FIFA 21 Won't Open - Solutions Worked</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-thrifty-cloud-haven-budget-storage-bulk-files-handling/"><u>In 2024, Thrifty Cloud Haven Budget Storage, Bulk Files Handling</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-elite-selection-of-singing-machines-dominating-2024-markets/"><u>The Elite Selection of Singing Machines Dominating 2024 Markets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-a-course-to-your-signature-sphere/"><u>[New] In 2024, Charting a Course to Your Signature Sphere</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-spark-paves-way-but-will-mavic-air-top-the-gaming-scene/"><u>[New] In 2024, Spark Paves Way, But Will Mavic Air Top the Gaming Scene?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphone-hdr-techniques-and-tips/"><u>[Updated] The Ultimate Guide to iPhone HDR Techniques & Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-recruitment-unveiling-6-tactics/"><u>ChatGPT for Recruitment: Unveiling 6 Tactics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-copilot-basic-with-copilot-pro-insights-to-help-you-decide-on-upgrading-your-service/"><u>Comparing Copilot Basic With Copilot Pro: Insights to Help You Decide on Upgrading Your Service</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-more-with-your-iphone-the-advantages-of-apple-extending-nfc-capabilities-to-app-developers-insights/"><u>Experience More with Your iPhone: The Advantages of Apple Extending NFC Capabilities to App Developers - Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/honorable-highlights-elite-websites-for-obtaining-snapalert-beats-for-2024/"><u>Honorable Highlights Elite Websites for Obtaining SnapAlert Beats for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photo-motion-smear-for-realism-in-adobe/"><u>In 2024, Photo Motion Smear for Realism in Adobe</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maintain-your-iphone-13s-fresh-look-with-these-essential-accessories-suggested-by-zdnet/"><u>Maintain Your iPhone 13'S Fresh Look with These Essential Accessories, Suggested by ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-redmi-12-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Redmi 12</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-virtual-interaction-discover-our-top-5-ai-prompts-makers/"><u>Transforming Virtual Interaction: Discover Our Top 5 AI Prompts Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turbocharged-ai-how-copilot-makes-it-accessible-and-powerful/"><u>Turbocharged AI: How Copilot Makes It Accessible and Powerful</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/water-damage-alert-fluid-seen-in-your-iphones-lightning-cable-explore-two-effective-remedies/"><u>Water Damage Alert! Fluid Seen in Your iPhone's Lightning Cable? Explore Two Effective Remedies!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-isnt-helldivers-2-launching-on-steam-discover-how-to-resolve-this-problem/"><u>Why Isn't Helldivers 2 Launching on Steam? Discover How to Resolve This Problem</u></a></li>
 </ul></div>
 

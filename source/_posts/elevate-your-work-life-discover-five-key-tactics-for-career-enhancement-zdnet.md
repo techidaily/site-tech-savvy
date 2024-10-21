@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Work Life: Discover Five Key Tactics for Career Enhancement | ZDNet"
-date: 2024-09-19 23:17:50
-updated: 2024-09-20 12:39:31
+date: 2024-10-17T16:22:10.484Z
+updated: 2024-10-21T01:41:08.863Z
 tags:
   - professional-development
 categories:
@@ -38,6 +38,13 @@ Every organization needs information technology security and support. As ZDNet's
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AWS Certified DevOps Engineer — Professional   
 
 Companies in every business sector rely on Amazon Web Services (AWS) for cloud computing. Among them are Airbnb, Coursera, Johnson & Johnson, Samsung, and Unilever. If you've got at least two years of experience operating and managing AWS infrastructure and apps, consider earning the AWS [Certified DevOps Engineer — Professional](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2Fcertification%2Fcertified-devops-engineer-professional%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C99e33507-7f05-4d8c-bee5-32f8fe3b9c40%7Cdtp&dtb=1) certification. 
@@ -68,6 +75,13 @@ That's because AI technology has value in every industry. Educators and employer
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Essential tech skills include soft skills, too
 
 Education, experience, and job-related skills matter to hiring managers. But emotional intelligence, empathy, ethics, integrity, time management, communication, and teamwork matter too. 
@@ -86,6 +100,13 @@ If it's been a while since you've changed jobs, check out these guides for remin
 
 Tori Rubloff/ZDNet
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Prepare for an interview
 
 Whether you're an internal job candidate or applying for a position with another company, experts say that you should prepare for your interview. Researching the company, the position, and even the interviewer's background can also help you decide if the position matches your skills and career interests. 
@@ -99,6 +120,13 @@ Sixty-three percent of workers who voluntarily left their jobs in 2021 said [low
 The U.S. Bureau of Labor Statistics says the median annual salary for computer and IT occupations was [$97,430 in May 2021](https://www.bls.gov/ooh/computer-and-information-technology/home.htm). Negotiating your salary should be part of everyone's job upgrade process, whether you're staying with your current company or looking to join a new one.
 
 Want insight on how? Check out our guide: [How to negotiate your salary: A 5 W's approach](https://www.zdnet.com/education/professional-development/how-to-negotiate-salary/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Write a professional resignation letter
 
@@ -122,11 +150,33 @@ If you need some guidance, check out this guide: [Do's and don'ts for writing a 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-craft-your-countdown-adding-time-management-to-obs-sessions/"><u>[New] 2024 Approved Craft Your Countdown Adding Time Management to OBS Sessions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-elevating-presentations-with-adobe-captivate-skills-for-2024/"><u>[New] Elevating Presentations with Adobe Captivate Skills for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevate-views-the-power-of-synergistic-youtube-content-partnerships/"><u>[Updated] Elevate Views The Power of Synergistic YouTube Content Partnerships</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-action-cameras-for-stabilized-shots/"><u>2024 Approved Ideal Action Cameras for Stabilized Shots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/articulate-your-intentions-five-voice-commands-for-gpt/"><u>Articulate Your Intentions: Five Voice Commands for GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/authenticator-openais-device-to-identify-fake-chatgpt-texts/"><u>Authenticator: OpenAI's Device to Identify Fake ChatGPT Texts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-meets-artificial-intelligence-from-microsoft/"><u>Bing Meets Artificial Intelligence From Microsoft</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-predictive-ai-functionality-uncovered/"><u>Demystifying Predictive AI: Functionality Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fear-or-freedom-how-to-embrace-ai-for-todays-educators/"><u>Fear or Freedom? How to Embrace AI for Today's Educators</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free-for-2024/"><u>From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-reduce-ai-hallucination-with-these-6-prompting-techniques/"><u>How to Reduce AI Hallucination With These 6 Prompting Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-a18-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo A18 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-asus-rog-phone-8-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Asus ROG Phone 8 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cket-traffic-with-the-top-12-youtube-growth-methods/"><u>Skyrocket Traffic with the Top 12 YouTube Growth Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-chatbot-revolution-creating-from-create-a-gpt-foundations/"><u>The ChatBot Revolution: Creating From Create a GPT Foundations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-eu-blueprint-on-ai-insights-into-chatgpt-evolution/"><u>The EU Blueprint on AI: Insights Into ChatGPT Evolution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tips-and-tricks-for-activatingdeactivating-lan-search-in-windows-11-systems/"><u>Tips and Tricks for Activating/Deactivating LAN Search in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ubuntu-terminal-power-up-using-shellgpt-for-gpt-conversations/"><u>Ubuntu Terminal Power-Up: Using ShellGPT for GPT Conversations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-and-nvidia-unite-successfully/"><u>Windows and Nvidia Unite Successfully</u></a></li>
+</ul></div>
+

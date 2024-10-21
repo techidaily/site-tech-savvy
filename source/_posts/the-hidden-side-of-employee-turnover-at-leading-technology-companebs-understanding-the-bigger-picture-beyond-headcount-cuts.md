@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Side of Employee Turnover at Leading Technology Companebs: Understanding the Bigger Picture Beyond Headcount Cuts"
-date: 2024-09-17 21:33:29
-updated: 2024-09-20 10:35:37
+date: 2024-10-15T19:49:06.788Z
+updated: 2024-10-21T00:13:46.213Z
 tags:
   - professional-development
 categories:
@@ -57,7 +57,21 @@ Contrary to recent moves by some tech companies to reduce their headcount, Rhona
 
 Carmichael told ZDNET: "Our report shows that many are planning additional technology investment next year as the number one board priority is to be operationally more efficient to help 'recession-proof' their business. In short, technology is still seen by many as a way of reducing operating costs even in the face of rising inflation."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Remote work hiring trends upward
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** In Depth
 
@@ -83,9 +97,23 @@ Nash Squared's White also offered caution to tech leaders in the year ahead, tho
 
 Job cuts at big tech companies are understandably worrying for anyone working in tech, and job cuts are a terrible ordeal for those that have to go through it especially if the process is not handled with sensitivity and compassion. But big tech is not the whole tech industry, which is still a source of opportunity for many.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET'S MONDAY OPENER** 
 
 _ZDNet's Monday Opener is our opening take on the week in tech, written by members of our editorial team._ 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **PREVIOUSLY ON ZDNET'S MONDAY OPENER:**
 
@@ -119,11 +147,27 @@ _ZDNet's Monday Opener is our opening take on the week in tech, written by membe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-professional-tips-for-perfecting-your-srt-files/"><u>[New] In 2024, Professional Tips for Perfecting Your SRT Files</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-swift-transition-the-ultimate-guide-to-sierra-on-macs/"><u>[Updated] 2024 Approved Swift Transition The Ultimate Guide to Sierra on Macs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-chatter-on-the-hottest-tiktoks/"><u>[Updated] 2024 Approved Twitter Chatter on the Hottest TikToks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-tips-and-tricks-broadcasting-high-quality-360-videos-on-fb-for-2024/"><u>[Updated] Tips and Tricks Broadcasting High-Quality 360 Videos on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-time-rewind-mastery-in-media-refreshes/"><u>[Updated] YouTube Time Rewind Mastery in Media Refreshes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debating-the-ethical-use-of-ai-for-security-risks/"><u>Debating the Ethical Use of AI for Security Risks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-xiaomi-redmi-note-13-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Xiaomi Redmi Note 13 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-writing-with-ai-chatgpts-6-approaches/"><u>Innovative Writing with AI: ChatGPT's 6 Approaches</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insta-share-tips-for-posting-youtube-videos-for-2024/"><u>Insta-Share Tips for Posting YouTube Videos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-savings-step-by-step-strategies-for-accessing-student-discounts-on-dell-products/"><u>Maximize Your Savings: Step-by-Step Strategies for Accessing Student Discounts on Dell Products</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-innovation-unveiled-transfer-learning-in-artificial-intelligence/"><u>Tech Innovation Unveiled: Transfer Learning in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-path-to-ai-mastery-creating-a-unique-chatgpt/"><u>The Path to AI Mastery: Creating a Unique ChatGPT</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Cyber Threats Evolving: ChatGPT's Emergence as a Potential Risk"
-date: 2024-10-07T23:58:07.199Z
-updated: 2024-10-15T13:58:43.088Z
+date: 2024-10-20T01:11:47.327Z
+updated: 2024-10-21T01:43:54.882Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/ccf2cd6688a4adcaeda8d922b0b91ea561ec3cf29
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/ccf2cd6688a4adcaeda8d922b0b91ea561ec3cf29
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with [a successful phishing attack](http://www.makeuseof.com/what-is-phishing/). Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -73,16 +73,10 @@ thumbnail: https://thmb.techidaily.com/ccf2cd6688a4adcaeda8d922b0b91ea561ec3cf29
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -112,24 +106,16 @@ thumbnail: https://thmb.techidaily.com/ccf2cd6688a4adcaeda8d922b0b91ea561ec3cf29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-ultimate-iphone-x-handbook-for-users/"><u>[Updated] 2024 Approved The Ultimate iPhone X Handbook for Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-demystifying-zoom-sessions-into-smaller-groups-for-2024/"><u>[Updated] Demystifying Zoom Sessions Into Smaller Groups for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-revolutionize-mobile-broadcasting-integrating-obs-studio-into-android-for-2024/"><u>[Updated] Revolutionize Mobile Broadcasting Integrating OBS Studio Into Android for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-fast-loading-facebook-videos/"><u>[Updated] The Art of Fast-Loading Facebook Videos</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/brainpower-battlegrounds-gpt-and-google-bard-collide/"><u>Brainpower Battlegrounds: GPT & Google Bard Collide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-an-emerging-seo-hurdle/"><u>ChatGPT: An Emerging SEO Hurdle?</u></a></li>
-<li><a href="https://techidaily.com/download-drivers-get-canon-mf743cdw-printer-software-for-windows-systems/"><u>Download Drivers: Get Canon MF743CDW Printer Software for Windows Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Xiaomi Redmi A2+.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instant-gpt-worldwide-entry-via-chatgpt-everywhere/"><u>Instant GPT Worldwide Entry via ChatGPT Everywhere</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-14-evaluation-adequate-performance-for-users-needs-as-analyzed-by-zdnet-reviewers/"><u>IPhone 14 Evaluation: Adequate Performance for Users' Needs, as Analyzed by ZDNET Reviewers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/labor-landscapes-altered-by-ais-advances/"><u>Labor Landscapes Altered by AI's Advances</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-ai-for-reading-pdfs-with-these-four-tactics/"><u>Leverage AI for Reading PDFs with These Four Tactics</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/masterclass-review-the-mavix-m9-your-key-to-effortless-hours-of-gaming-comfort/"><u>Masterclass Review: The Mavix M9 - Your Key to Effortless Hours of Gaming Comfort</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-originality-openais-gpt-output-detector/"><u>Protecting Originality: OpenAI's GPT Output Detector</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-forbidden-queries-for-ai-engagement/"><u>The Forbidden Queries for AI Engagement</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/trasforma-i-tuoi-file-3gp-in-animazioni-flash-swf-senza-costo-con-movavi/"><u>Trasforma I Tuoi File .3GP in Animazioni Flash SWF Senza Costo Con Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmatched-efficiency-choosing-the-top-5-expert-ai-prompt-creators/"><u>Unmatched Efficiency: Choosing the Top 5 Expert AI Prompt Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/write-winning-cover-letters-with-the-help-of-chatgpt/"><u>Write Winning Cover Letters with the Help of ChatGPT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-iphone-video-clarity-top-4-fixes-using-premiere-pros-hdr-tools/"><u>[New] Maximizing iPhone Video Clarity Top 4 Fixes Using Premiere Pro's HDR Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-cross-promotion-savvy-integrating-youtube-with-fb/"><u>2024 Approved Cross-Promotion Savvy Integrating YouTube with FB</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-landscape-post-vlc-dominance/"><u>2024 Approved Navigating the Landscape Post-VLC Dominance</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/fy-your-vlog-presence-with-tubebuddys-tools/"><u>Amplify Your Vlog Presence with TubeBuddy's Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-latest-349-ipad-takes-center-stage-at-unpredictable-event-covered/"><u>Apple's Latest $349 iPad Takes Center Stage at Unpredictable Event Covered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-rechargeable-tracking-devices-for-your-essentials-top-apple-airtag-substitutes-reviewed/"><u>Best Rechargeable Tracking Devices for Your Essentials: Top Apple AirTag Substitutes Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/breaking-into-the-elite-6-steps-for-becoming-an-instagram-certified-account/"><u>Breaking Into the Elite 6 Steps for Becoming an Instagram Certified Account</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enter-the-realm-of-bug-hunting-uncover-rewards-at-openai/"><u>Enter the Realm of Bug Hunting; Uncover Rewards at OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-for-ios-177-release-secure-now-and-save-on-future-updates-with-insights/"><u>Get Ready for IOS 17.7 Release – Secure Now and Save on Future Updates with Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-privacy-prevent-openai-scrape-attempts/"><u>Online Privacy: Prevent OpenAI Scrape Attempts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transcode-fichier-m4a-vers-format-wma-sans-frais-gratuit-en-ligne-via-movavi/"><u>Transcode Fichier M4A Vers Format WMA Sans Frais - Gratuit en Ligne via Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Pivotal Factors Behind CrowdStrike and Windows Meltdown in 2N24 - A Historical Analysis"
-date: 2024-10-10T18:17:26.881Z
-updated: 2024-10-14T22:05:11.370Z
+date: 2024-10-13T21:29:40.780Z
+updated: 2024-10-20T21:03:46.339Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,20 +181,22 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-boosting-your-yt-subs-a-complete-strategy-guide/"><u>[New] 2024 Approved Boosting Your YT Subs A Complete Strategy Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-pioneering-top-vr-movies-for-enjoyment/"><u>[New] Pioneering Top VR Movies for Enjoyment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-empathy-abilities-using-conversational-agent-chatgpt/"><u>Boost Your Empathy Abilities Using Conversational Agent ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-image-interpretation-8-ways-to-gain-edge/"><u>ChatGPT’s Image Interpretation: 8 Ways to Gain Edge</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oneplus-open-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of OnePlus Open Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/imaginative-scriptwriting-with-ais-assistance/"><u>Imaginative Scriptwriting with AI's Assistance</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-oneplus-11r-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on OnePlus 11R Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-sound-collection-no-cost-top-luts-listed-here/"><u>In 2024, Premium Sound Collection No-Cost, Top LUTs Listed Here</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/laughable-phone-melodies-essential-sites-listed-for-2024/"><u>Laughable Phone Melodies Essential Sites Listed for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-the-impact-of-transfer-learning-techniques/"><u>Revolutionizing AI: The Impact of Transfer Learning Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplified-guide-setup-and-utilize-microsoft-copilot-on-mac/"><u>Simplified Guide: Setup and Utilize Microsoft Copilot on Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-sudden-and-complete-cessation-of-chatgpt-in-italy/"><u>The Sudden and Complete Cessation of ChatGPT in Italy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-a-comprehensive-review-of-the-corsair-e27t-ssd-the-ultimate-1tb-m2-solution/"><u>Unveiling the Best: A Comprehensive Review of the Corsair E27T SSD - The Ultimate 1TB M.2 Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/who-benefits-from-nvidias-adaptable-generative-ai/"><u>Who Benefits From NVIDIA’s Adaptable Generative AI?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-and-skype-audio-problems-solutions-for-non-working-microphones/"><u>Windows 11 and Skype Audio Problems - Solutions for Non-Working Microphones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-types-of-facebook-video-aspect-ratios-and-how-to-adjust-it/"><u>[Updated] 2024 Approved Types of Facebook Video Aspect Ratios & How to Adjust It</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fb-content-design-the-right-orientation-for-your-videos/"><u>[Updated] FB Content Design The Right Orientation for Your Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-as-your-ally-composing-confidential-company-emails/"><u>AI as Your Ally: Composing Confidential Company Emails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-intellectual-ladder-high-to-low-rungs/"><u>AI's Intellectual Ladder: High to Low Rungs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-the-kitchen-7-applications-of-ai-in-cooking/"><u>Conquer the Kitchen: 7 Applications of AI in Cooking</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-when-you-cant-watch-netflix-solutions-inside/"><u>Diagnosing & Repairing When You Can't Watch Netflix – Solutions Inside!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1726030281099-geforce-experience/"><u>GeForce Experienceを使ってゲームだけのオーディオクリップを記録するコツ</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-g2-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo G2 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-make-your-mark-stand-out-with-youtube-studio-editing/"><u>In 2024, Make Your Mark Stand Out with YouTube Studio Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-memory-allocation-elevating-minecraft-experience/"><u>In 2024, Mastering Memory Allocation Elevating Minecraft Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-look-at-apples-latest-monitor-comprehensive-guide-on-specifications-features-and-more-techworld/"><u>In-Depth Look at Apple's Latest Monitor: Comprehensive Guide on Specifications, Features & More | TechWorld</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intellects-edge-beyond-alan-turings-legacy/"><u>Intellect's Edge: Beyond Alan Turing's Legacy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/make-your-creative-dreams-come-true-dall-e-3-on-microsoft-bing-free/"><u>Make Your Creative Dreams Come True: DALL-E 3 on Microsoft Bing (Free)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-uncover-digital-entertainment-auditory-elements-for-2024/"><u>New Uncover Digital Entertainment Auditory Elements for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prompt-perfection-top-5-ai-tutorials-online/"><u>Prompt Perfection: Top 5 AI Tutorials Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-most-durable-and-stylish-ipad-air-cases-of-2n24-a-rigorous-evaluation-zdnet/"><u>Ultimate Guide to the Most Durable and Stylish iPad Air Cases of 2N24: A Rigorous Evaluation | ZDNet</u></a></li>
 </ul></div>
 

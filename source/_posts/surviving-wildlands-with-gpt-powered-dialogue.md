@@ -1,7 +1,7 @@
 ---
 title: Surviving Wildlands with GPT-Powered Dialogue?
-date: 2024-10-10T05:24:48.175Z
-updated: 2024-10-14T22:28:27.910Z
+date: 2024-10-20T02:54:08.949Z
+updated: 2024-10-20T17:45:16.441Z
 tags:
   - chatgpt
   - open-ai
@@ -40,15 +40,22 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
  So it's tempting while planning a wilderness vacation to eschew a trained guide and rely on ChatGPT to keep you safe in the great outdoors. But the question is, should you?
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fight Off a Bear
 
 ![a brown bear looking mean](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-brown-bear-looking-mean.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Bears are found on every continent except Africa, and if you're backpacking through the wild and untamed spaces of the world, it's not inconceivable that you might encounter one. Unfortunately, while Wikipedia's [Bear Danger](https://en.wikipedia.org/wiki/Bear%5Fdanger) page contains some of the information we needed, there's little concrete advice. In a dangerous situation, we wouldn't have time to scan through the 1,042-word article.
@@ -67,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 ![fresh salmon on ice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fresh-salmon-on-ice.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're off-grid and out-of-touch, keeping yourself fed has to be a priority. Fortunately, in our scenario, there's a river nearby, and you can see the silver flashes of salmon as they swim upstream to the spawning grounds. Unfortunately, you don't have any rods or nets.
 
  After acknowledging that "catching salmon without fishing equipment can be challenging, as they are typically caught using fishing gear such as rods, reels, and lures," ChatGPT was remarkably helpful.
@@ -82,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 ## How to Survive the Night in a Blizzard With No Shelter
 
 ![an igloo style snow shelter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/an-igloo-style-snow-shelter.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The weather's taken a turn for the worse, and having escaped the bears and enjoyed raw salmon for supper, you find yourself cold and afraid as high winds and snow whip around you. So you turn to your friendly chatbot for help.
 
@@ -99,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 ![Young Wolves Biting Each Other on Snow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/young-wolves-biting-each-other-on-snow-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Evading predators should always be high on your list while wilderness exploring, and ChatGPT's advice is similar to that offered when asked how to fight a bear.
 
  Broadly speaking, you should stay calm, not run, make yourself look big, and maintain eye contact. If the wolves begin to attack, ChatGPT advises using "any available objects as weapons to protect yourself. Focus on targeting their sensitive areas such as the eyes, nose, and throat."
@@ -118,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 ![Person Cleaning Hands under running Water](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/person-cleaning-hands-under-running-water.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Water is even more important than food, but drinking from a polluted water source can make you ill or even cause death.
 
  After informing ChatGPT that there was a dead sheep in the only available water source, the LLM suggested finding another water source—a reasonable proposition, but one which ignored part of the prompt.
@@ -135,29 +142,9 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
  Telling us to find another water source when we've explicitly stated there isn't one is not helpful. And while boiling water or using purification chemicals will kill bacteria, portable water filters won't. Additionally, ChatGPT failed to give the most obvious answer: move upstream of the dead sheep.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Help! I've Now Fallen Down an Abandoned Mineshaft in the Dark, and Can't Walk or Call for Help
 
 ![rough collie in snow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rough-collie-in-snow.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You should always take care while wandering unfamiliar environs at night, and you should also know that a [good rechargeable flashlight](https://www.makeuseof.com/best-rechargeable-flashlights/) is an essential part of any survival kit. Maybe you fell in while delirious after drinking the contaminated water.
 
@@ -186,6 +173,13 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
  The best advice is to wait for rescue. It's a known fact that certain Collie breeds are attracted to mineshafts and have been known to bring help from settlements in the area.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You Can't Depend on ChatGPT in an Emergency
 
  ChatGPT's advice was middling at best. Most of the answers it gave were common sense, and in several cases, it completely ignored parts of the prompt.
@@ -213,21 +207,19 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-the-2023-dive-into-apeaksofts-video-capture-marvels-for-2024/"><u>[Updated] The 2023 Dive Into Apeaksoft’s Video Capture Marvels for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-htc-u23-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For HTC U23 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/apples-new-contender-ipad-air-4-against-samsung-galaxy-tab-s7plus-reviewed/"><u>Apple's New Contender: IPad Air 4 Against Samsung Galaxy Tab S7+ Reviewed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cautionary-tales-in-the-age-of-digital-psychiatry/"><u>Cautionary Tales in the Age of Digital Psychiatry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-podcast-wisdom-for-cheap-phones/"><u>ChatGPT's Podcast Wisdom for Cheap Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-winning-proposals-the-chatgpt-method/"><u>Crafting Winning Proposals: The ChatGPT Method</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-science-of-openai-ai/"><u>Discover the Science of OpenAI AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721431815367-free-access-now-however-platinum-plans-6-benefits-are-still-compelling/"><u>Free Access Now! However, Platinum Plan's 6 Benefits Are Still Compelling.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-driver-update-for-your-aoc-monitor-with-windows-compatibility-guide/"><u>Get the Newest Driver Update for Your AOC Monitor with Windows Compatibility Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/guilty-gear-strives-latency-dilemma-addressed-and-fixed/"><u>Guilty Gear Strive's Latency Dilemma Addressed & Fixed!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-6-principles-to-propel-your-professional-life/"><u>Harnessing AI: 6 Principles to Propel Your Professional Life</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-character-customization-with-ease-and-excitement/"><u>In 2024, Navigating Character Customization with Ease and Excitement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-gaming-universe-expanded-how-bzs-innovation-meets-microsofts-ai-prowess-interview-series/"><u>The Gaming Universe Expanded: How BZ's Innovation Meets Microsoft's AI Prowess [Interview Series]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tomorrows-threat-landscape-a-glimpse-at-7-predictions/"><u>Tomorrow's Threat Landscape: A Glimpse at 7 Predictions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/sh-gaming-potential-top-30-strategies-to-increase-video-popularity-for-2024/"><u>Unleash Gaming Potential Top 30 Strategies to Increase Video Popularity for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-luminosity-boost-for-low-light-mobile-video/"><u>[New] Luminosity Boost for Low-Light Mobile Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/8-best-photo-grid-online-makers-to-polish-your-pictures-for-2024/"><u>8 Best Photo Grid Online Makers to Polish Your Pictures for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/atomparks-2021-marketing-insights-and-trends-a-forecast-from-the-best-mailing-tool/"><u>AtomPark's 2021 Marketing Insights & Trends: A Forecast From the Best Mailing Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-evaluation-marshall-active-noise-cancellation-features-on-techreviewzdnetcom/"><u>Expert Evaluation: Marshall Active Noise Cancellation Features on TechReviewZDNet.com</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-15-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 15 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-8-best-video-call-app-for-android-more-than-4-participants/"><u>In 2024, 8 Best Video Call App for Android (More than 4 Participants)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-exclusive-list-elite-4k-tv-selection/"><u>In 2024, Exclusive List Elite 4K TV Selection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/just-released-discover-whats-new-in-amazon-kids-with-our-latest-post-on-zdnet/"><u>Just Released! Discover What's New in Amazon Kids with Our Latest Post on ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-tackling-printer-error-xfffee/"><u>The Ultimate Guide to Tackling Printer Error XFFFEE</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unbelievable-soundbar-swap-why-i-traded-up-for-a-jbl-and-what-you-need-to-know-expert-insights/"><u>The Unbelievable Soundbar Swap: Why I Traded Up for a JBL and What You Need to Know | Expert Insights</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-11-pro-max-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 11 Pro Max Location | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-affordable-bluetooth-speakers-below-100-reviewed-by-tech-experts-gadgetzdnet/"><u>Top 5 Affordable Bluetooth Speakers Below $100 Reviewed by Tech Experts - GadgetZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-2024-sonos-sound-systems-featured-and-analyzed-the-latest-audio-innovations-by-tech-experts/"><u>Top-Rated 2024 Sonos Sound Systems Featured & Analyzed - The Latest Audio Innovations by Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-proven-solar-powered-bluetooth-speakers-expertly-selected-options-cnet/"><u>Ultimate List of Proven Solar-Powered Bluetooth Speakers : Expertly Selected Options | CNET</u></a></li>
 </ul></div>
 

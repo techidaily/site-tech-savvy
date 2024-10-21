@@ -1,7 +1,7 @@
 ---
 title: "Building a Productive Workforce: Harnessing Generative AI Securely - Insider's Guide (ZDNet)"
-date: 2024-09-18 13:40:26
-updated: 2024-09-20 10:48:18
+date: 2024-10-17T16:46:26.141Z
+updated: 2024-10-20T23:00:37.237Z
 tags:
   - professional-development
 categories:
@@ -47,6 +47,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Bonomi explained how the three-stage training process helps people across Rakuten to upskill in AI.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 1: Foundations
 
 While it's easy for people to believe everyone is aware of generative AI, Bonomi says the reality is different. Many people need to be taught the basics.
@@ -63,6 +70,13 @@ Before the program started, 78% of employees felt uncomfortable using AI. Today,
 
 "But with AI, we're inverting that approach. Businesses will be built for growth and sustainability, and we must think about what that shift means and how tasks will change."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 2: Certifications
 
 With the foundations to help people understand AI, some employees are building on this platform and moving to stage two.
@@ -77,6 +91,13 @@ She then ran one-hour labs with ELB to hone staff knowledge.
 
 The workshops and labs are bolstered through certification: "The second level is about training and developing the skills you need to use AI tools. We're establishing certifications to show people have acquired knowledge."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 3: Tasks
 
 Bonomi said she expects people to start entering stage three this year. At this final level, the people who have been trained and certified will move on to task-specific use cases.
@@ -90,6 +111,13 @@ Bonomi said she expects people to start entering stage three this year. At this 
 Bonomi said it's at this third level that Rakuten will expose and explore potential role changes due to the introduction of AI.
 
 "This stage is all about saying, 'OK, now you know how to use ChatGPT and leverage it. How will you start embedding the technology into the organization and your role?' At that point, we'll work with HR reps to help us with the process."
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Taking AI to the next level
 
@@ -134,11 +162,30 @@ Her advice for other business leaders who want to boost their company's AI skill
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-a-comprehensive-guide-to-using-chrome-pip-across-devices-for-2024/"><u>[New] A Comprehensive Guide to Using Chrome PIP Across Devices for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-uniting-your-network-with-cross-platform-skype-chat-groups-a-how-to-guide/"><u>[New] In 2024, Uniting Your Network with Cross-Platform Skype Chat Groups A How-To Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unexpected-angle-alterations-in-instagram-video-posts/"><u>[New] Unexpected Angle Alterations in Instagram Video Posts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-ultimate-collection-of-popular-tiktok-reactions/"><u>[Updated] 2024 Approved The Ultimate Collection of Popular TikTok Reactions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-essential-8-tools-for-quick-subs-to-srt-on-windows-osx-and-more-for-2024/"><u>[Updated] Essential 8 Tools for Quick Subs to SRT on Windows, OSX and More for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-expert-selection-ranking-the-finest-6-head-mounted-gopros/"><u>2024 Approved Expert Selection Ranking the Finest 6 Head-Mounted GOPROs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-memorable-tweets-using-ai-assistance/"><u>Crafting Memorable Tweets Using AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-ailment-claims-fact-checking-ai-sources-for-wellness/"><u>Debunking Ailment Claims: Fact-Checking AI Sources for Wellness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delineating-responsible-owners-of-ai-outputs/"><u>Delineating Responsible Owners of AI Outputs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/digital-cinemas-on-iphone-apples-no1-freepluspaid-movie-app-guide-for-2024/"><u>Digital Cinemas on iPhone Apple's No.1, FREE+PAID Movie App Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-deciphers-chatgpt-and-google-translate-face-off/"><u>Digital Deciphers: ChatGPT & Google Translate Face-Off</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-visual-clarity-with-updated-vga-drivers-free-download-inside/"><u>Enhance Visual Clarity with Updated VGA Drivers - Free Download Inside</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78plus-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y78+ Bootloader Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-ai-in-your-android-with-chatgpt-widget/"><u>Integrating AI in Your Android with ChatGPT Widget</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-6-masterful-uses-of-code-interpreter/"><u>The Ultimate Guide: 6 Masterful Uses of Code Interpreter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncovering-the-best-in-botting-with-bard-and-bing/"><u>Uncovering the Best in Botting with Bard & Bing</u></a></li>
+</ul></div>
+

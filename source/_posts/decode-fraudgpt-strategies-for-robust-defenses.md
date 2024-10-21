@@ -1,7 +1,7 @@
 ---
 title: "Decode FraudGPT: Strategies for Robust Defenses"
-date: 2024-10-10T23:02:22.350Z
-updated: 2024-10-14T19:57:00.637Z
+date: 2024-10-13T17:58:39.196Z
+updated: 2024-10-21T02:55:31.993Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/dedd47ee71c6540e2cfffac02b623f1cf3c7cf338
  To better picture the tool, you can think of FraudGPT as ChatGPT but for fraud. But how exactly does FraudGPT work, and how are cybercriminals using it?
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does FraudGPT Work?
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/dedd47ee71c6540e2cfffac02b623f1cf3c7cf338
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
@@ -75,10 +75,16 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 ![worrying about red flags online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/thinking-person-using-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Despite being a new kind of tool, the threat posed by FraudGPT is not fundamentally different. You could say it introduces more automation and efficiency to already established methods of executing cybercrime.
@@ -95,16 +101,16 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
 
 <!-- affiliate ads begin -->
-<span id="1982508">
+<span id="1983471">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay Informed to Protect Yourself
@@ -132,19 +138,21 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-enhance-multitasking-pip-configuration-on-iphone-youtube/"><u>[New] In 2024, Enhance Multitasking PIP Configuration on iPhone YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-streaming-software-spectacle-choosing-between-virusmix-and-castpro/"><u>[New] In 2024, Streaming Software Spectacle Choosing Between VirusMix and CastPro</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-top-10-online-stores-for-personalized-box-designs/"><u>[Updated] In 2024, Top 10 Online Stores for Personalized Box Designs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-luts-for-stunning-visual-results/"><u>2024 Approved Leveraging LUTs for Stunning Visual Results</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-vr-wave-crafting-engaging-360-video-narratives-for-youtube-audiences/"><u>2024 Approved The VR Wave Crafting Engaging 360 Video Narratives for YouTube Audiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/android-powered-unleashing-chatgpts-potential/"><u>Android Powered: Unleashing ChatGPT's Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-your-digital-exploration-go-for-perplexity-ai/"><u>Enhance Your Digital Exploration – Go for Perplexity AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/googles-gemini-ai-is-here-but-is-it-better-than-chatgpt/"><u>Google's Gemini AI Is Here, but Is It Better Than ChatGPT?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-magic-6-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor Magic 6 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi 12? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-proven-strategies-for-precise-web-based-photo-cropping/"><u>In 2024, Proven Strategies for Precise Web-Based Photo Cropping</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-workflows-10-essential-chatgpt-integrations-in-vs-code/"><u>Optimize Your Workflows: 10 Essential ChatGPT Integrations in VS Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-process-behind-gpt4all-functioning/"><u>The Process Behind GPT4All Functioning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/writing-superiority-how-to-outshine-ai-writing-services/"><u>Writing Superiority: How to Outshine AI Writing Services</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-cutting-edge-techniques-for-ios-users-uploading-videos-to-youtube-for-2024/"><u>[New] Cutting-Edge Techniques for iOS Users Uploading Videos to YouTube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-discovering-the-best-5-web-based-title-artists-of-today/"><u>[New] In 2024, Discovering the Best 5 Web-Based Title Artists of Today</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-step-by-step-add-vimeo-in-instagram-reels/"><u>[New] In 2024, Step-by-Step Add Vimeo in Instagram Reels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-single-frame-snipping-capturing-stillness-from-videos-in-photos/"><u>[Updated] Single-Frame Snipping Capturing Stillness From Videos in Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-transformative-new-functions-in-final-cut-pro-x-for-ipad-unleash-creativity-insights-from-an-independent-film-producer/"><u>1. Transformative New Functions in Final Cut Pro X for iPad Unleash Creativity: Insights From an Independent Film Producer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-your-writing-partner-for-youtube-videos/"><u>ChatGPT as Your Writing Partner for YouTube Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-cybersecurity-potential-risks-to-your-financial-assets/"><u>ChatGPT Cybersecurity: Potential Risks to Your Financial Assets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/directing-authenticity-in-machine-learning-six-prompt-solutions/"><u>Directing Authenticity in Machine Learning: Six Prompt Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-poco-c50-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Poco C50 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/increase-output-with-top-8-chrome-plug-ins-powered-by-ai/"><u>Increase Output with Top 8 Chrome Plug-Ins Powered by AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027162755-mp4/"><u>MP4動画を最高品質で切り取るテクニック: 劣化なし・再エンコードなし</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-audiospeed-editors-mobile-and-desktop-edition/"><u>Premier Audiospeed Editors Mobile & Desktop Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-gaming-and-creativity-with-gpt-my-bots-insights/"><u>Revolutionize Gaming & Creativity with GPT-My Bots Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-crafted-by-musk-ai-insight/"><u>The Future Crafted by Musk: AI Insight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-when-bluetooth-doesnt-appear-in-windows-device-manager/"><u>Troubleshooting Tips When Bluetooth Doesn't Appear in Windows Device Manager</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Possibilities: How Apple's Latest Innovations Enable Eye Gaze Control on iOS, Transforming User Experience with Advanced Accessibility Options | ZDNET"
-date: 2024-10-12T23:46:57.809Z
-updated: 2024-10-14T17:52:55.206Z
+date: 2024-10-19T21:25:34.059Z
+updated: 2024-10-20T16:31:06.718Z
 tags:
   - apple
 categories:
@@ -44,15 +44,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -64,10 +77,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -76,19 +89,6 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -96,16 +96,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -142,17 +136,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-complete-handbook-to-securing-product-sponsorships-on-youtube/"><u>[New] 2024 Approved The Complete Handbook to Securing Product Sponsorships on Youtube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ackwards-viewing-a-new-lens-for-analyzing-youtube-content-for-2024/"><u>[New] Backwards Viewing A New Lens for Analyzing YouTube Content for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-chatgpt-therapist-bots-and-ai-apps-to-relieve-mental-health-problems/"><u>5 ChatGPT Therapist Bots and AI Apps to Relieve Mental Health Problems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721414326797-chatgpt-memories-safely-store-em/"><u>ChatGPT Memories, Safely Store 'Em</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721408515538-innocuous-names-hidden-dangers-a-guide-to-authentic-chatbots/"><u>Innocuous Names, Hidden Dangers: A Guide to Authentic ChatBots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721418285267-liberating-gpt-4-for-all-plus-membership-consider-these-6-persisting-benefits/"><u>Liberating GPT-4 for All; Plus Membership? Consider These 6 Persisting Benefits</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-gamified-views-selecting-the-best-webcams-for-players/"><u>Mastering Gamified Views Selecting the Best Webcams for Players</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/maximizing-audio-quality-in-lectures-with-macos/"><u>Maximizing Audio Quality in Lectures with MacOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-for-fixing-airpods-that-fail-to-reset-themselves-successfully/"><u>Solutions for Fixing AirPods That Fail to Reset Themselves Successfully</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-one-stop-guide-to-simplified-podcast-live-broadcasting/"><u>The One Stop Guide to Simplified Podcast Live Broadcasting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-techno-titans-earnings-forecast-on-gaming-channels/"><u>[New] Techno Titans Earnings Forecast on Gaming Channels</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-pathway-to-popularity-strategies-for-soaring-viewership-for-2024/"><u>[New] The Pathway to Popularity Strategies for Soaring Viewership for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-flat-text-into-3d-masterpieces-photo/"><u>[Updated] Transforming Flat Text Into 3D Masterpieces PHOTO</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-design-memes-that-speak-to-your-audience/"><u>2024 Approved Design Memes That Speak to Your Audience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-samsung-galaxy-s24plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Samsung Galaxy S24+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoid-game-disruptions-solving-maplestory-crash-issues-for-windows-11-users/"><u>Avoid Game Disruptions: Solving MapleStory Crash Issues for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-ai-vs-chatgpt-spotlight-on-four-game-changing-differences/"><u>Claude AI vs ChatGPT: Spotlight on Four Game-Changing Differences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discerning-dialogue-dynamos-is-gemini-pro-or-plus-chatgpt-superior/"><u>Discerning Dialogue Dynamos: Is Gemini Pro or Plus-ChatGPT Superior?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-enhanced-capabilities-of-your-apple-watch-with-watchos-11-top-improvements-revealed/"><u>Discover the Enhanced Capabilities of Your Apple Watch with WatchOS 11: Top Improvements Revealed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-your-work-from-home-setup-ipad-pro-integration-strategies-for-productivity-boosts/"><u>Empower Your Work-From-Home Setup: IPad Pro Integration Strategies for Productivity Boosts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-apples-smart-tech-integration-the-comprehensive-guide-to-ai-enhancements-on-iphone-mac-and-ipad/"><u>Exploring Apple's Smart Tech Integration: The Comprehensive Guide to AI Enhancements on iPhone, Mac, & iPad</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flattening-lines-easy-curve-transformation-for-2024/"><u>Flattening Lines Easy Curve Transformation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptzero-simplified-identifying-authentic-vs-artificial-texts/"><u>GPTZero Simplified: Identifying Authentic Vs. Artificial Texts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-s18e-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-engaging-users-with-instagrams-interactive-survey-feature/"><u>In 2024, Engaging Users with Instagram's Interactive Survey Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-dominates-seizing-1st-7th-place-in-worldwide-mobile-market-a-new-record-technews/"><u>IPhone Dominates: Seizing 1St-7th Place in Worldwide Mobile Market - A New Record! | TechNews</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-concealed-images-on-your-iphone/"><u>Uncovering Concealed Images on Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-chatgpt-and-academic-work/"><u>Unleashing Potential: ChatGPT & Academic Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-zoom-support-on-vision-pro-headsets-how-it-might-change-your-video-calls-tech-news/"><u>Upcoming Zoom Support on Vision Pro Headsets: How It Might Change Your Video Calls | Tech News</u></a></li>
 </ul></div>
 

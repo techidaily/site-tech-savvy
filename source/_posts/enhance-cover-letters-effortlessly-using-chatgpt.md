@@ -1,7 +1,7 @@
 ---
 title: Enhance Cover Letters Effortlessly Using ChatGPT
-date: 2024-10-09T02:34:23.047Z
-updated: 2024-10-15T06:19:08.391Z
+date: 2024-10-13T18:50:12.707Z
+updated: 2024-10-20T19:30:25.763Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
  ChatGPT-4 has a limit of 25 messages every three hours, costing $20 monthly. If you’re wondering what other artificial intelligence options exist besides ChatGPT, you might be interested in learning about [the best alternatives to ChatGPT](https://www.makeuseof.com/best-alternatives-chatgpt/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enter Your Custom Instructions
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 
  You can change the custom instructions at any time, but it will only affect the answers given after the changes are made. If you’re new to the platform, you may ask: [What is ChatGPT and what can you do with generative AI?](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/ "What Is ChatGPT and What Can You Do With Generative AI?"). We recommend checking out that guide if you're not too sure.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Submit a Job Description
 
 ![Screenshot of job description provided to ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-job-description-provided-to-chatgpt.jpg)
@@ -69,20 +76,27 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 
  You may be wondering what ChatGPT means for the future of writers and if it means enormous unemployment lines are in your future. You might find some comfort in learning the [reasons why ChatGPT won’t take your writing job](https://www.makeuseof.com/why-chatgpt-wont-take-writing-job/ "5 Reasons Why ChatGPT Won’t Take Your Writing Job").
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Prompt ChatGPT to Write the Elements of Your Cover Letter
 
  Once you’ve submitted the job description, the next step is to ask for a cover letter. Instead of asking it to write one document, you can ask it to focus on each part of your cover letter to create a more focused one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Introductory Paragraph
 
 ![Screenshot of introductory paragraph by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-introductory-paragraph-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The first paragraph is where you provide basic details about who you are and why you want the job. You can also give a general overview of why you’re the right candidate for the job and why the position excites you.
 
@@ -92,24 +106,24 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 
  The next part of your cover letter summarizes your experience and qualifications and how they apply to the job you’re applying for. This is where you can include stories about relevant projects or situations to give the hiring manager or recruiter some insight into how you work.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Explain How You Align With the Company’s Values and Goals
 
 ![Screenshot of aligning with values and goals of organization by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-aligning-with-values-and-goals-of-organization-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this section of your cover letter, you want to illustrate that you understand the company’s mission and have done your research on the company. You want to focus on how your goals align with the organization’s, and you can also include positive factors you’ve heard about the company culture.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Close With a Call to Action
@@ -124,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 
 ![Image of a math mistake](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-of-a-math-mistake.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the AI generates the different parts of your cover letter, you can put them together and read it out loud to see if it makes sense.
 
  Use the content ChatGPT generates as the foundation of your cover letter. You can add elements that add a personal touch to the cover letter, giving the reader an idea about your personality.
@@ -138,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
  The content generated by ChatGPT can help you create a cover letter focused on what the organization hiring you is looking for. It would be best to remember that the platform is available to everyone, and you’re probably not the only one using it to help them apply for the job.
 
  This is why adding what makes you unique to the letter ChatGPT generates can be a vital part of using the platform for job applications and getting noticed. If you enjoy using the platform, you may be interested in learning about the [amazing ChatGPT Chrome extensions for better AI prompts and answers in browsers](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/ "6 Amazing ChatGPT Chrome Extensions for Better AI Prompts and Answers in Browsers").
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Work Smarter, Not Harder With ChatGPT
 
@@ -171,24 +171,17 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-boost-your-content-reach-the-expert-guide-to-youtubes-featured-channels/"><u>[New] 2024 Approved Boost Your Content Reach The Expert Guide to Youtube's Featured Channels</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-quick-thumbnail-tips-for-youtube-success/"><u>[New] In 2024, Quick Thumbnail Tips for YouTube Success</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-convert-your-sbt-to-cutting-edge-srt-with-our-top-8-software-for-desktop-users/"><u>2024 Approved Convert Your SBT to Cutting-Edge SRT with Our Top 8 Software for Desktop Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964487791-get-the-pro-level-logitech-g502-hero-at-an-amazing-price-only-35-experience-ultra-high-definition-controls-and-25k-dpi-sensitivity/"><u>Get the Pro-Level Logitech G502 Hero at an Amazing Price - Only $35! Experience Ultra-High Definition Controls and 25K DPI Sensitivity.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-to-submit-your-podcast-successfully-for-2024/"><u>Guide to Submit Your Podcast Successfully for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-12-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 12</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-mac-interface-with-speech-recognition-software-review/"><u>In 2024, Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-itel-p55t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Itel P55T IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/leading-makers-premium-instagram-highlight-craftsmen/"><u>Leading Makers Premium Instagram Highlight Craftsmen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/service-host-local-system-svchostexe-high-disk-usage-on-windows-10-solved/"><u>Service Host: Local System (svchost.exe) High Disk Usage on Windows 10 [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-guide-updating-your-video-card-driver-on-windows-11-step-by-step/"><u>Simple Guide: Updating Your Video Card Driver on Windows 11 - Step-by-Step</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-your-laptops-screen-with-ease/"><u>Step-by-Step Guide: Capturing Your Laptop's Screen with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-boot-issues-where-computer-starts-but-has-zero-display-output/"><u>Troubleshooting Boot Issues Where Computer Starts But Has Zero Display Output</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-excessive-cpu-load-issues-in-windows-10-effective-solutions-and-tips/"><u>Troubleshooting Excessive CPU Load Issues in Windows 10 – Effective Solutions and Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-boosting-your-minecraft-performance/"><u>Ultimate Guide: Boosting Your Minecraft Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-how-to-pair-a-wireless-mouse-with-windowsmac-os-devices/"><u>Ultimate Tutorial: How to Pair a Wireless Mouse with Windows/Mac OS Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/update-usb-drivers-in-windows-10-7-8-and-81-easily/"><u>Update USB Drivers in Windows 10, 7, 8 & 8.1. Easily!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-know-about-the-next-gen-samsung-galaxy-s25-price-forecast-release-info-and-specs/"><u>What to Know About the Next Gen Samsung Galaxy S25: Price Forecast, Release Info & Specs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-10-high-cpu-usage-troubleshooting-the-module-installer/"><u>Windows 10 High CPU Usage: Troubleshooting the Module Installer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-the-art-of-high-quality-video-production-in-obs-for-2024/"><u>[New] Mastering the Art of High-Quality Video Production in OBS for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-setting-the-mood-fading-to-black/"><u>[New] Setting the Mood Fading To Black</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-fantasy-to-reality-vrs-path/"><u>2024 Approved From Fantasy to Reality VR’s Path</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-and-fixing-invalid-inf-installation-sections/"><u>Addressing and Fixing Invalid INF Installation Sections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-dramas-weaving-tales-with-chatgpt-rpgs/"><u>AI-Driven Dramas: Weaving Tales with ChatGPT RPGs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-we-rely-on-chatgpts-honesty/"><u>Can We Rely on ChatGPT's Honesty?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-news-update-what-you-need-to-know/"><u>Google News Update: What You Need to Know</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/protect-your-data-with-ease-a-beginners-tutorial-for-windows-file-backups/"><u>Protect Your Data with Ease: A Beginner's Tutorial for Windows File Backups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-easy-changing-dall-e-webp-images-into-jpegpng/"><u>Quick & Easy: Changing DALL-E WebP Images Into JPEG/PNG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-personalizing-chatgpts-language/"><u>The Art of Personalizing ChatGPT's Language</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-reno-11-pro-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Reno 11 Pro 5G without backup.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/turning-live-radio-into-a-personal-archive-step-by-step-instructions-for-2024/"><u>Turning Live Radio Into a Personal Archive Step-by-Step Instructions for 2024</u></a></li>
 </ul></div>
 

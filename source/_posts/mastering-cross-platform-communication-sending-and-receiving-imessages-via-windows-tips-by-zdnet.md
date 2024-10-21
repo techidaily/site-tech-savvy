@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Communication: Sending & Receiving iMessages via Windows (Tips by ZDNet)"
-date: 2024-10-12T16:18:23.740Z
-updated: 2024-10-15T02:32:40.402Z
+date: 2024-10-16T20:31:32.092Z
+updated: 2024-10-21T03:04:54.466Z
 tags:
   - apple
 categories:
@@ -44,6 +44,19 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -55,13 +68,6 @@ Microsoft added iPhone support to Phone Link in Windows 11 in early 2023\. To ma
 Next, confirm that you're running the latest version of Phone Link. To do this, open the Microsoft Store app from the Start menu and click the Library icon. Click the Get Updates button and allow all your installed apps to be updated, including Phone Link if necessary.
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
 
@@ -79,24 +85,31 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -111,10 +124,10 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Intel Unison
@@ -126,13 +139,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -152,18 +158,18 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -207,18 +213,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-10plus-incredible-free-youtube-intro-makers/"><u>[New] 2024 Approved 10+ Incredible Free YouTube Intro Makers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-screencast-lifeline-crucial-knowledge-for-success/"><u>[New] 2024 Approved The Screencast Lifeline Crucial Knowledge for Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-full-scrutiny-uncovering-the-dji-inspire-1-features/"><u>[New] Full Scrutiny Uncovering the DJI Inspire 1 Features</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-tweet-trailblazers-1-10-social-sensations-for-2024/"><u>[Updated] Tweet Trailblazers #1-#10 Social Sensations for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-on-professionals-the-cutting-edge-soundtracked-photovideo-artists/"><u>2024 Approved Spotlight on Professionals The Cutting-Edge, Soundtracked Photo/Video Artists</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-12-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 12 Pro Max</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/controlled-innovation-how-governments-can-monitor-ai-tools/"><u>Controlled Innovation: How Governments Can Monitor AI Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decrypting-artificial-intelligences-mysteries-inside-black-boxes/"><u>Decrypting Artificial Intelligence's Mysteries: Inside Black Boxes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-drivers-for-your-brother-mfc-j480dw-windows-printer/"><u>Download the Newest Drivers for Your Brother MFC-J480DW Windows Printer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ideation-powerhouse-mindmapping-and-generative-ai/"><u>Ideation Powerhouse: Mindmapping & Generative AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-nightshade-protocols-for-safekeeping-art-against-ai/"><u>Navigating Nightshade Protocols for Safekeeping Art Against AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quintessential-crypto-exchanges-using-gpt/"><u>Quintessential Crypto Exchanges Using GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-langchain-and-large-language-models/"><u>Understanding LangChain and Large Language Models</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-enhancing-photo-coexistence-on-devices/"><u>[New] In 2024, Enhancing Photo Coexistence on Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-fostering-friendship-through-conversations-with-viewers/"><u>[Updated] 2024 Approved Fostering Friendship Through Conversations With Viewers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-crafting-a-legacy-youtubers-playbook-for-success/"><u>[Updated] Crafting a Legacy YouTuber’s Playbook for Success</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-dividing-opinions-is-mirrorless-better-than-dslr-for-vids/"><u>[Updated] Dividing Opinions Is Mirrorless Better than DSLR for Vids?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-peeling-back-sharex-critical-analysis-and-alternatives/"><u>[Updated] Peeling Back ShareX Critical Analysis & Alternatives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-factors-decide-on-integrating-ai-like-chatgpt-into-therapy/"><u>Critical Factors: Decide on Integrating AI Like ChatGPT Into Therapy</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-poco-x6-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Poco X6 Pro Device SIM</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/from-shot-to-spectacle-pro-tips-for-transformative-photographic-edits-for-2024/"><u>From Shot to Spectacle Pro Tips for Transformative Photographic Edits for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-stop-chatgpt-from-saving-your-conversations/"><u>How to Stop ChatGPT From Saving Your Conversations</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/troubleshooting-tips-for-the-mystery-of-hidden-shorts-thumbnails-for-2024/"><u>Troubleshooting Tips for the Mystery of Hidden Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/turboinsta-video-boosting-online-and-mobile-fixes-for-2024/"><u>TurboInsta Video Boosting Online & Mobile Fixes for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-chatgpt-fails-to-review-its-own-words/"><u>Why ChatGPT Fails to Review Its Own Words</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/world-building-with-depth-how-chatgpt-aids-novel-craft/"><u>World-Building With Depth: How ChatGPT Aids Novel Craft</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-on-the-edge-8-pioneering-ai-software-choices/"><u>Writing on the Edge: 8 Pioneering AI Software Choices</u></a></li>
 </ul></div>
 

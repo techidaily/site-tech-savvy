@@ -1,7 +1,7 @@
 ---
 title: Optimizing ChatGPT with New Plugins
-date: 2024-10-13T17:27:21.283Z
-updated: 2024-10-15T07:20:36.890Z
+date: 2024-10-16T01:38:39.791Z
+updated: 2024-10-20T22:00:41.079Z
 tags:
   - chatgpt
   - open-ai
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 * [How to Use a ChatGPT Plugin](https://atezr.pxf.io/752omg)
 * [ChatGPT's Plugins Need More Work](https://newchic.sjv.io/jzg4zq)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ChatGPT Plugins enhance the AI by providing links to web services, but were removed due to redundancy in custom GPTs.
@@ -57,22 +44,29 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are third-party extensions designed to extend the functionality of ChatGPT. According to OpenAI, "Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services."
 
 ![chatgpt plugins on chatgpt plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins-on-chatgpt-plus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The core function of a ChatGPT Plugin is to bring more useful information into ChatGPT, making the generative AI chatbot more useful.
 
  For example, you could use the Kayak and Expedia ChatGPT Plugins when you want to use ChatGPT to create a trip itinerary or the Polygon Plugin to get up-to-date information on crypto markets, stocks, and forex.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Many ChatGPT Plugins Are There?
 
@@ -89,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 ![chatgpt enable beta features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-enable-beta-features.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![chatgpt plugin store option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-store-option.jpg)
@@ -117,6 +111,13 @@ Close
 
  It's also worth remembering that ChatGPT Plugins are still a beta feature. The ChatGPT Plugin ecosystem isn't fully up and running yet, and despite the number of available plugins, not all of them work as they should—or as we might like.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Planning a Trip
 
  For example, we took the Kayak, Expedia, and Trip.com plugins for a spin in an attempt to book a trip to Malta from the UK for a family of five. Unfortunately, the results and time taken to achieve those results weren't particularly impressive, to say the least.
@@ -130,10 +131,10 @@ Close
 ![skyscanner flights to malta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/skyscanner-flights-to-malta.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -148,33 +149,20 @@ Close
 
 ![chatgpt kayak plugin plans trip to new york](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-kayak-plugin-plans-trip-to-new-york.jpg)
 
- For now, you might be better off searching for yourself or using a [GPT-enabled trip-planning app](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/).
-
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ For now, you might be better off searching for yourself or using a [GPT-enabled trip-planning app](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/).
 
 ### Planning Meals and Searching for Recipies
 
  Other ChatGPT Plugins have similar issues. I first asked the Tasty ChatGPT Plugin to "[help craft a week of healthy evening meals](https://www.makeuseof.com/create-healthy-meal-plan-using-chatgpt/) for a family of five," stipulating that all meals should be vegetarian. It found three recipes in its vast library of recipes that fit the bill. Realizing that wasn't good enough, it tried to search again but failed—twice.
 
 ![chatgpt tasty plugin meal planning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tasty-plugin-meal-planning.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![chatgpt tasty plugin meal planning failure to list all meals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tasty-plugin-meal-planning-failure-to-list-all-meals.jpg)
 
@@ -192,31 +180,31 @@ Close
 
 ![chatgpt playlistai pluging create playlist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-pluging-create-playlist.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt playlistai plugin hip hop suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-hip-hop-suggestions.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![chatgpt playlistai plugin track suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-track-suggestions.jpg)
 
-![chatgpt playlistai plugin playlist in spotify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-playlist-in-spotify.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![chatgpt playlistai plugin playlist in spotify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-playlist-in-spotify.jpg)
 
 Close
 
@@ -245,19 +233,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-convenient-tips-for-iphone-screen-recording-setup/"><u>[New] Convenient Tips for iPhone Screen Recording Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-innovative-approaches-to-refine-gpt-interaction-quality/"><u>7 Innovative Approaches to Refine GPT Interaction Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-leaner-approach-to-user-personas-via-chatgpt-innovation/"><u>A Leaner Approach to User Personas via ChatGPT Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-world-without-boundaries-with-gpt-4/"><u>A World Without Boundaries with GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721383520275-guard-your-data-from-malware-disguised-as-ai-helpers/"><u>Guard Your Data From Malware Disguised as AI Helpers!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-x90s-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo X90S to Protect Your Individual Information</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/revolutionize-your-online-presence-with-manycam-leading-live-streaming-virtual-camera-tech-for-content-creators/"><u>Revolutionize Your Online Presence with ManyCam: Leading Live Streaming, Virtual Camera Tech for Content Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721398147316-revolutionizing-ai-communication-explore-openais-tailored-store/"><u>Revolutionizing AI Communication: Explore OpenAI’s Tailored Store</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/seamless-video-meetings-from-home-a-guide-to-proficient-use-of-skypes-screen-sharing-for-2024/"><u>Seamless Video Meetings From Home A Guide to Proficient Use of Skype's Screen Sharing for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/setup-smart-energy-saving-with-automatic-wakesleep-mode/"><u>Setup Smart Energy Saving with Automatic Wake/Sleep Mode</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721428001769-talk-directly-with-chatgpt/"><u>Talk Directly with ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-power-of-live-view-enhance-your-google-maps-experience/"><u>Unlock the Power of Live View: Enhance Your Google Maps Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitchconverter-tweets-to-streams/"><u>2024 Approved TwitchConverter Tweets to Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-video-download-tools-for-streaming-f4v-content-across-pc-and-mac/"><u>Best Video Download Tools for Streaming F4V Content Across PC and Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuita-y-facil-de-flac-a-mkv-en-linea-descubre-como-utilizar-movavi-para-mejorar-tus-proyectos-multimedia/"><u>Conversión Gratuita Y Fácil De FLAC a MKV en Línea: Descubre Cómo Utilizar Movavi Para Mejorar Tus Proyectos Multimedia</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-side-hustles-and-console-revival/"><u>Digital Side Hustles & Console Revival</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-gpts-latest-marvels-focus-on-crucial-enhancements/"><u>Discover GPT's Latest Marvels: Focus on Crucial Enhancements</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-reno-10-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo Reno 10 5G Device SIM</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excel-automation-unlocked-with-three-key-chatgpt-tools/"><u>Excel Automation Unlocked with Three Key ChatGPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fraudulent-chatgpt-adapter-captures-fb-passwords/"><u>Fraudulent ChatGPT Adapter: Captures FB Passwords</u></a></li>
+<li><a href="https://article-helps.techidaily.com/hidden-windows-11-techniques-for-effortless-import-tasks/"><u>Hidden Windows 11 Techniques for Effortless Import Tasks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-live-broadcasts-obs-tips-for-youtube-and-twitch-for-2024/"><u>Mastering Live Broadcasts OBS Tips for YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-youtube-money-policy-overhaul-details-for-2024/"><u>Mastering YouTube Money Policy Overhaul Details for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-vivo-y36-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Vivo Y36</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-patient-engagement-through-chatgpt-innovation/"><u>Redefining Patient Engagement Through ChatGPT Innovation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolved-issues-with-starting-steam-titles-on-windows-11-system/"><u>Resolved: Issues with Starting Steam Titles on Windows 11 System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-business-strategies-with-these-five-pioneering-ai-applications/"><u>Smart Business Strategies with These Five Pioneering AI Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-new-realities-with-apples-spatial-videos-now-streamable-on-your-oculus-meta-quest-3-tips-and-tricks-virtualtech-today/"><u>Step Into New Realities with Apple’s Spatial Videos, Now Streamable on Your Oculus Meta Quest 3 - Tips & Tricks | VirtualTech Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-desired-visionos-enhancements-what-apple-should-reveal-at-wwdc-insights-from-tech-experts-zdnet/"><u>Top 10 Desired VisionOS Enhancements: What Apple Should Reveal at WWDC - Insights From Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

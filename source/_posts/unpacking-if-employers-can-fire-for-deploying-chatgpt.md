@@ -1,7 +1,7 @@
 ---
 title: Unpacking If Employers Can Fire for Deploying ChatGPT
-date: 2024-10-10T00:15:07.229Z
-updated: 2024-10-15T05:44:35.349Z
+date: 2024-10-17T23:58:47.883Z
+updated: 2024-10-20T22:55:45.091Z
 tags:
   - chatgpt
   - open-ai
@@ -38,18 +38,18 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  Explore [responsible ways of writing with AI](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) instead. ChatGPT streamlines non-writing tasks, like researching topics, editing drafts, and analyzing reader personas.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Automating Employee Performance Reviews Through ChatGPT
 
  ChatGPT’s sophisticated [natural language processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) (NLP) system understands input and produces corresponding responses. Some employees rely on it for drafting performance reports. They make ChatGPT write customized reviews by submitting their subordinates’ key performance indicators (KPIs).
 
  However, using ChatGPT this way is deceitful—it doesn’t have enough context to assess your employees accurately. You’ll definitely get fired for submitting erroneous ratings. Workers might even file lawsuits against you depending on the gravity of the situation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Asking ChatGPT to Draft Legal Documents and Contracts
 
@@ -67,16 +67,16 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  And make sure you double-check the figures that ChatGPT presents. Blindly trusting AI’s formulas will cause errors in your computations, which might get you into trouble. Employers could also fire you if you consistently submit erroneous data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Making ChatGPT Reply to Messages
 
 ![Copy-Pasting Message from ChatGPT to Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-replying-to-message.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A study by [McKinsey & Company](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) shows that employees spend 28 percent of the workweek answering and reading messages. To save time, you might consider automating some responses. ChatGPT can compose customized output based on the messages and instructions you input.
 
@@ -89,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
  Like automated AI replies, workers rarely get fired for sending ChatGPT-generated emails. It just makes them look unprofessional. Use AI to generate writing prompts and create outlines, but you should still compose messages yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Doing Research and Analyses on ChatGPT
@@ -102,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
  You won’t get fired if you research responsibly. As with any other online resource, it’s best to verify information multiple times before presenting it. Compare data from other sources. Solely relying on ChatGPT’s output puts you at risk of spreading misinformation, a potentially career-ending mistake.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Using Code Snippets Written by ChatGPT
@@ -118,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  Explore [ethical ways of using ChatGPT in programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/). Most employers are okay with their dev team researching algorithms, generating placeholders, and refracting snippets on AI tools, but you must write and edit codes manually.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Editing Articles and Papers With ChatGPT
 
  ChatGPT can help you edit drafts. Its sophisticated language model detects awkward sentences, grammatical errors, and even incoherent statements. Take the below conversation as an example. We asked for constructive criticism based on our preferred style guide and tonality.
@@ -125,19 +132,6 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 ![ChatGPT Editing Paragraph Based on AP Styleguide](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-acting-as-an-editor.jpg)
 
  It’s not unethical for employees to edit with chatbots. But if you’re an editor who publishes articles edited by ChatGPT, you’ll likely get fired. Your employer pays you to correct drafts yourself. Just running them through AI-driven tools and platforms is unethical and violates your contract.
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Analyzing Financial Charts on ChatGPT
 
@@ -174,18 +168,18 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-stay-updated-the-latest-on-changing-win11-walls/"><u>[New] Stay Updated The Latest on Changing Win11 Walls</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tips-for-quickly-locating-the-epicenter-of-youtubes-video-creation/"><u>[New] Tips for Quickly Locating the Epicenter of YouTube's Video Creation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-top-10-igtv-channels-you-should-start-following-now-for-2024/"><u>[New] Top 10 IGTV Channels You Should Start Following Now for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-low-cost-pc-monitoring-solutions-reviewed-and-compared/"><u>[Updated] Low-Cost PC Monitoring Solutions Reviewed & Compared</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/apowerunlock-installer-walkthrough-simple-tutorial-for-quick-setup/"><u>ApowerUnlock Installer Walkthrough - Simple Tutorial For Quick Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/connect-and-learn-new-android-app-chatgpt/"><u>Connect and Learn: New Android App, ChatGPT!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dissecting-the-yuneec-typhoon-hs-aerial-capabilities/"><u>Dissecting the Yuneec Typhoon H's Aerial Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/human-insight-triumphs-outsmarting-algorithmic-writing-tools/"><u>Human Insight Triumphs: Outsmarting Algorithmic Writing Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-visual-stories-best-online-collage-software/"><u>In 2024, Create Stunning Visual Stories Best Online Collage Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-persuasive-business-proposals/"><u>Leveraging ChatGPT for Persuasive Business Proposals</u></a></li>
-<li><a href="https://techtrends.techidaily.com/network-discovery-settings-toggle-steps-for-windows-11-operating-system/"><u>Network Discovery Settings Toggle: Steps for Windows 11 Operating System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalize-gpts-dialogue-power/"><u>Personalize GPT's Dialogue Power</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-found-for-unreachable-error-in-steam-contact-list-feature/"><u>Solution Found for 'Unreachable' Error in Steam Contact List Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-your-phones-personality-with-a-customized-whatsapp-tone/"><u>[New] Unlock Your Phone's Personality with a Customized WhatsApp Tone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ace-your-charger-connection-discover-the-1-sale-priced-magsafe-compatible-wallet-not-from-apple-or-anker-insight/"><u>Ace Your Charger Connection: Discover the #1 Sale-Priced MagSafe Compatible Wallet - Not From Apple or Anker Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-sound-mastery-with-sonos-s2-app-unveiled-benefits-and-surprises-revealed-by-zdnet/"><u>Effortless Sound Mastery with Sonos S2 App Unveiled: Benefits and Surprises Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/establish-trust/"><u>Establish Trust</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/futureai-enhancements-gpt-5s-upcoming-improvements/"><u>FutureAI Enhancements: GPT-5's Upcoming Improvements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4s-edge-over-gpt-35-explored-in-detail/"><u>GPT-4's Edge Over GPT-3.5 Explored in Detail</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-artificial-intelligence-in-story-making/"><u>Harnessing the Power of Artificial Intelligence in Story Making</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-c55-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme C55 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-how-to-download-filmora-for-free-without-risking-your-pc-for-2024/"><u>New How to Download Filmora for Free Without Risking Your PC for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/techniques-pour-reparer-le-demarrage-dun-ordinateur-portable-sur-cddvd-sous-windows-nouvelles-fonctionnalites-de-lancement/"><u>Techniques Pour Réparer Le Démarrage D'un Ordinateur Portable Sur CD/DVD Sous Windows Nouvelles Fonctionnalités De Lancement</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-insta-archivists-playbook-for-mastery/"><u>The Insta Archivist's Playbook for Mastery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-science-behind-how-electric-bikes-function/"><u>The Science Behind How Electric Bikes Function</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Decoding Complexity: The Functioning of AI Black Boxes"
-date: 2024-10-08T02:14:52.184Z
-updated: 2024-10-14T22:32:05.002Z
+date: 2024-10-13T23:22:08.238Z
+updated: 2024-10-20T21:00:18.073Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
  We will set the concerns aside for the moment as we look at how AI black boxes work.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How AI Black Boxes Work
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
  Once the training phase is completed, the black boxes can be deployed to make independent decisions based on the learned algorithms and patterns. However, the lack of transparency about how decisions are reached is one of the primary concerns surrounding AI black boxes.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Challenges and Risks of AI Black Boxes
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
  These are known challenges, and efforts are underway to develop more accountable and transparent AI systems that can "show their workings."
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does the Future Hold for AI Black Boxes?
@@ -100,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
  This is still a raw technology, one which is straining ethical and legal boundaries. Addressing the concerns around AI black boxes is critical to its future and development.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Black Boxes: An Ethical Dilemma
@@ -133,24 +133,17 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-stepwise-protocols-for-capturing-superior-vimeo-content/"><u>[New] 2024 Approved Stepwise Protocols for Capturing Superior Vimeo Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-a-complete-walkthrough-on-editing-your-videos-covers-on-fb/"><u>[Updated] A Complete Walkthrough on Editing Your Videos' Covers on FB</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-solution-of-iphone-x-face-id-not-working/"><u>2024 Approved The Ultimate Solution of iPhone X Face ID Not Working</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-challenges-can-gpt-enhance-your-side-hustle/"><u>8 Challenges: Can GPT Enhance Your Side Hustle?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridge-to-everywheres-chatgpt-with-ease/"><u>Bridge to Everywhere's ChatGPT with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-tech-and-treatment-gpt-for-effective-cognitive-strategies/"><u>Bridging Tech and Treatment: GPT for Effective Cognitive Strategies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/building-an-intriguing-vlog-conversation-guide-for-2024/"><u>Building an Intriguing Vlog Conversation Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-nlp-mastery-comparing-gpt-and-bert-systems/"><u>Demystifying NLP Mastery: Comparing GPT and BERT Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-downloading-and-upgrading-your-hid-keyboards-software/"><u>Effortless Guide to Downloading & Upgrading Your HID Keyboard's Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-rtx-ai-on-pc-a-step-by-step-guide/"><u>Engaging with RTX AI on PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-claude-pro-a-deep-dive-into-its-capabilities/"><u>Introducing Claude Pro: A Deep Dive Into Its Capabilities</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-row-organization-tips-for-efficiently-grouping-and-collapsing-in-excel/"><u>Mastering Row Organization: Tips for Efficiently Grouping & Collapsing in Excel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpts-potential-in-academia/"><u>Maximizing ChatGPT's Potential in Academia</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-ai-tools-transforming-online-information-hunts/"><u>Revolutionary AI Tools Transforming Online Information Hunts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-dnssddll-file-missing-issues-a-step-by-step-guide/"><u>Solving dnssd.dll File Missing Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-display-recovered-from-graphics-hiccup/"><u>System Display Recovered From Graphics Hiccup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talk-your-way-through-ai-mastering-chatgpt-via-vocal-commands/"><u>Talk Your Way Through AI: Mastering ChatGPT via Vocal Commands</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-neurological-ease-of-kids-learning-new-linguistics/"><u>The Neurological Ease of Kids Learning New Linguistics</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-driverpowerstateerror-on-your-computer/"><u>Troubleshooting DRIVER_POWER_STATE_ERROR on Your Computer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-macs-leading-10-screen-capture-and-recorder-software/"><u>[Updated] 2024 Approved Mac's Leading 10 Screen Capture & Recorder Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/80-budget-friendly-portable-speaker-with-exceptional-audio-quality-for-all-genres-techradar/"><u>$80 Budget-Friendly Portable Speaker with Exceptional Audio Quality for All Genres - TechRadar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ces-202n4s-audio-innovations-ranked-discover-the-leading-tech-in-this-comprehensive-review-by-zdnet/"><u>CES 202N4's Audio Innovations Ranked! Discover the Leading Tech in This Comprehensive Review by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/echo-showdown-picking-between-the-echo-pop-or-echo-dot-for-optimal-alexa-experience-techreview/"><u>Echo Showdown: Picking Between the Echo Pop or Echo Dot for Optimal Alexa Experience | TechReview</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/harnessing-the-power-of-mov-recording-in-windows-10-for-2024/"><u>Harnessing the Power of MOV Recording in Windows 10 for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s23-ultra-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S23 Ultra Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-marvel-8-proven-steps-to-fix-guardians-of-the-galaxy-pc-game-crashes/"><u>Master Marvel: 8 Proven Steps to Fix Guardians of the Galaxy PC Game Crashes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-takes-center-stage-with-its-revolutionary-new-phone-lineup/"><u>Samsung Takes Center Stage with Its Revolutionary New Phone Lineup</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-selection-of-premium-stereo-sound-systems-in-2n1ear-best/"><u>ZDNet's Ultimate Selection of Premium Stereo Sound Systems in 2#N1Ear, Best !</u></a></li>
 </ul></div>
 

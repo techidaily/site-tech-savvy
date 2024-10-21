@@ -1,7 +1,7 @@
 ---
 title: "1. The Artisans of Tomorrow's Tech: Unveiling AI Experts at Work - Explore on ZDNet"
-date: 2024-09-17 12:20:25
-updated: 2024-09-20 11:50:13
+date: 2024-10-14T19:58:20.875Z
+updated: 2024-10-20T17:22:07.809Z
 tags:
   - professional-development
 categories:
@@ -82,11 +82,40 @@ The roles of engineers aren't going away anytime soon, "but they will most likel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-earning-as-a-video-game-geek-for-2024/"><u>[Updated] Earning as a Video Game Geek for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-friends-sharing-seeking-complete-viewability-via-smschat-services/"><u>[Updated] Friends’ Sharing Seeking Complete Viewability via SMS/Chat Services</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-building-brand-voice-via-micro-business-videos/"><u>[Updated] In 2024, Building Brand Voice via Micro-Business Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/1717974402124-updated-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>[Updated] Photography Tutorial_ How to Shoot and Create Impressive HDR Portraits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-impact-of-luts-on-professional-photography/"><u>[Updated] The Impact of LUTs on Professional Photography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-leap-critical-upgrades-expected-in-gpt-5/"><u>AI's Leap: Critical Upgrades Expected in GPT-5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automating-mundane-hr-tasks-through-gpt/"><u>Automating Mundane HR Tasks Through GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-creativity-the-best-ai-text-synthesizers/"><u>Boost Creativity: The Best AI Text Synthesizers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decoding-darkened-twitch-displays/"><u>Decoding Darkened Twitch Displays</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-financial-justification-in-premium-ai-use/"><u>Dissecting the Financial Justification in Premium AI Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-talk-ai-breathing-life-into-prompts-and-commands/"><u>From Text to Talk: AI Breathing Life Into Prompts and Commands</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ideal-online-audio-equipment-top-7-picks-2023/"><u>Ideal Online Audio Equipment Top 7 Picks 2023</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-league-up-which-translator-takes-the-prize/"><u>Language League-Up: Which Translator Takes the Prize?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-quadro-rtx-6000-software-update/"><u>NVIDIA Quadro RTX 6000 Software Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/parameters-to-ponder-choosing-chatgpt-for-counseling-purposes/"><u>Parameters to Ponder: Choosing ChatGPT for Counseling Purposes</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stepping-into-the-arena-of-interactive-design/"><u>Stepping Into the Arena of Interactive Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-5-primary-reasons-enterprises-limit-chatgpt-access/"><u>The 5 Primary Reasons Enterprises Limit ChatGPT Access</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-techniques-for-shrinking-your-videos-using-vlc-player-a-step-by-step-guide/"><u>Top 5 Techniques for Shrinking Your Videos Using VLC Player: A Step-by-Step Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

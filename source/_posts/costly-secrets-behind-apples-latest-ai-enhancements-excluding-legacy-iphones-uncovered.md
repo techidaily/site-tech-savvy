@@ -1,7 +1,7 @@
 ---
 title: Costly Secrets Behind Apple’s Latest AI Enhancements Excluding Legacy iPhones – Uncovered
-date: 2024-10-08T04:19:24.245Z
-updated: 2024-10-15T00:27:26.350Z
+date: 2024-10-15T18:28:50.553Z
+updated: 2024-10-21T02:10:05.658Z
 tags:
   - apple
 categories:
@@ -45,16 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -66,10 +60,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -83,10 +77,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -131,20 +125,14 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-share-the-screen-with-zoom/"><u>[New] 2024 Approved How to Share the Screen with Zoom</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-grandest-video-humor-studio/"><u>2024 Approved Grandest Video Humor Studio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/build-a-budget-oriented-chatgpt-replica-locally/"><u>Build a Budget-Oriented ChatGPT Replica Locally</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-4s-speed-a-comparative-glance-with-gpt-35/"><u>ChatGPT-4's Speed: A Comparative Glance with GPT-3.5</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-and-test-the-new-ios-181-public-beta-get-insider-info-on-apples-latest-features-techinsights/"><u>Download and Test the New IOS 18.1 Public Beta: Get Insider Info on Apple's Latest Features | TechInsights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-zexmt-smartphone-compatible-bluetooth-driver-for-windows-11-8-and-7/"><u>Download the Latest ZEXMT Smartphone Compatible Bluetooth Driver for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-steps-to-install-llama-2-locally/"><u>Essential Steps to Install Llama 2 Locally</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/expert-reviews-find-the-best-8-5k-computer-displays/"><u>Expert Reviews - Find the Best 8 5K Computer Displays</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/i-primissimi-6-convertitori-di-formato-mp4-gratis-e-piu-efficienti-scambio-video-con-facilita/"><u>I Primissimi 6 Convertitori Di Formato MP4 Gratis E Più Efficienti: Scambio Video Con Facilità!</u></a></li>
-<li><a href="https://howto.techidaily.com/samsung-galaxy-s24plus-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24+ Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721418556638-streamlined-chatgpt-chrome-extension-your-new-partner/"><u>Streamlined ChatGPT: Chrome Extension, Your New Partner</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-sticker-setups-solutions-to-top-6-technical-hurdles/"><u>Streamlining Sticker Setups: Solutions to Top 6 Technical Hurdles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailored-to-you-engage-with-8-specialized-ai-tools/"><u>Tailored to You: Engage with 8 Specialized AI Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-photographers-blueprint-for-stunning-hdr-portraits-for-2024/"><u>The Photographer's Blueprint for Stunning HDR Portraits for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-performance-and-price-select-top-asmr-microphone-picks/"><u>2024 Approved Unmatched Performance & Price - Select Top ASMR Microphone Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bank-cio-demands-innovative-thinkers-over-simplistic-prompt-creators-in-the-battle-against-ai-zdnet/"><u>Bank CIO Demands Innovative Thinkers Over Simplistic Prompt Creators in the Battle Against AI | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-taps-to-coding-inspiring-stories-of-transitioning-from-pub-management-to-information-technology-careers-the-verge/"><u>From Taps to Coding: Inspiring Stories of Transitioning From Pub Management to Information Technology Careers | The Verge</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-11ipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 11/iPad/iPod</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-13-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 13? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-11-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme 11 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-take-your-chromebook-to-the-next-level-installing-linux-made-easy/"><u>New Take Your Chromebook to the Next Level Installing Linux Made Easy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-a-tech-internship-a-step-by-step-strategy-the-ultimate-guide/"><u>Securing a Tech Internship: A Step-by-Step Strategy - The Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-strategy-for-developing-your-own-coding-portfolio/"><u>ZDNet's Ultimate Strategy for Developing Your Own Coding Portfolio</u></a></li>
 </ul></div>
 

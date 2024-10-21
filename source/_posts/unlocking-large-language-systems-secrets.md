@@ -1,0 +1,183 @@
+---
+title: Unlocking Large Language Systems' Secrets
+date: 2024-10-14T22:32:31.323Z
+updated: 2024-10-20T17:55:33.471Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Unlocking Large Language Systems' Secrets
+excerpt: This Article Describes Unlocking Large Language Systems' Secrets
+thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd851c23bc5b8909b9f9daa190b.jpg
+---
+
+## Unlocking Large Language Systems' Secrets
+
+ Large language models (LLMs) are the underlying technology that has powered the meteoric rise of generative AI chatbots. Tools like ChatGPT, Google Bard, and Bing Chat all rely on LLMs to generate human-like responses to your prompts and questions.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ But just what are LLMs, and how do they work? Here we set out to demystify LLMs.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## What Is a Large Language Model?
+
+ In its simplest terms, an LLM is a massive database of text data that can be referenced to generate human-like responses to your prompts. The text comes from a range of sources and can amount to billions of words.
+
+ Among common sources of text data used are:
+
+* **Literature**: LLMs often contain enormous amounts of contemporary and classical literature. This can include books, poetry, and plays.
+* **Online content**: An LLM will most often contain a large repository of online content, including blogs, web content, forum questions & responses, and other online text.
+* **News and current affairs**: Some, but not all, LLMs can access current news topics. Certain LLMs, like GPT-3.5, are restricted in this sense.
+* **Social Media**: Social media represents a huge resource of natural language. LLMs use text from major platforms like Facebook, Twitter, and Instagram.
+
+ Of course, having a huge database of text is one thing, but LLMs need to be trained to make sense of it to produce human-like responses. How it does this is what we cover next.
+
+## How Do LLMs Work?
+
+ How do LLMs use these repositories to create their responses? The first step is to analyze the data using a process called deep learning.
+
+ Deep learning is used to identify the patterns and nuances of human language. This includes gaining an understanding of grammar and syntax. But importantly, it also includes context. Understanding context is a crucial part of LLMs.
+
+ Let's look at an example of how LLMs can use context.
+
+ The prompt in the following image mentions seeing a bat at night. From this, ChatGPT understood that we were talking about an animal and not, for instance, a baseball bat. Of course, other chatbots like [Bing Chat or Google Bard](https://www.makeuseof.com/google-bard-vs-bing-chat-best-chatbot/) may answer this completely differently.
+
+![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
+
+![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
+
+ In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
+
+![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
+
+ To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
+
+ But LLMs go deeper than this. They can also tailor replies to suit the emotional tone of the input. When combined with contextual understanding, the two facets are the main drivers that allow LLMs to create human-like responses.
+
+ To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
+
+## What Are the Limitations of LLMs?
+
+![woman frustrated at response from computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/woman-frustrated-at-response-from-computer.jpg)
+
+ LLMs represent an impressive technological achievement. But the technology is far from perfect, and there are still plenty of limitations as to what they can achieve. Some of the more notable of these are listed below:
+
+1. **Contextual understanding:** We mentioned this as something LLMs incorporate into their answers. However, they don't always get it right and are often unable to understand the context, leading to inappropriate or just plain wrong answers.
+2. **Bias:** Any biases present in the training data can often be present in responses. This includes biases towards gender, race, geography, and culture.
+3. **Common sense:** Common sense is difficult to quantify, but humans learn this from an early age simply by watching the world around them. LLMs do not have this inherent experience to fall back on. They only understand what has been supplied to them through their training data, and this does not give them a true comprehension of the world they exist in.
+4. **An LLM is only as good as its training data:** Accuracy can never be guaranteed. The old computer adage of "Garbage In, Garbage Out" sums this limitation up perfectly. LLMs are only as good as the quality and quantity of their training data allow them to be.
+
+ There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 3 Examples of Popular LLMs
+
+ The continuing advance of AI is now largely underpinned by LLMs. So while they aren't exactly a new technology, they have certainly reached a point of critical momentum, and there are now many models.
+
+ Here are some of the most widely used LLMs.
+
+### 1\. GPT
+
+ Generative Pre-trained Transformer (GPT) is perhaps the most widely known LLM. GPT-3.5 powers the ChatGPT platform used for the examples in this article, while the newest version, GPT-4, is available [through a ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Microsoft also uses the latest version [in its Bing Chat platform](https://www.makeuseof.com/chatgpt-vs-bing-chat-best-generative-ai-chatbot/).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 2\. LaMDA
+
+ This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
+
+### 3\. BERT
+
+ BERT stands for Bi-directional Encoder Representation from Transformers. The bidirectional characteristics of the model differentiate [BERT from other LLMs like GPT](https://www.makeuseof.com/what-is-bert-language-model-how-differ-gpt/).
+
+ Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## The Future of LLMs
+
+ These will undoubtedly shape the way we interact with technology in the future. The rapid uptake of models like ChatGPT and Bing Chat is a testament to this fact. In the short term, [AI is unlikely to replace you at work](https://www.makeuseof.com/reasons-artificial-intelligence-cant-replace-humans/). But there is still uncertainty about just how big a part in our lives these will play in the future.
+
+ Ethical arguments may yet have a say in how we integrate these tools into society. However, putting this to one side, some of the expected LLM developments include:
+
+1. **Improved Efficiency**:With LLMs featuring hundreds of millions of parameters, they are incredibly resource hungry. With improvements in hardware and algorithms, they are likely to become more energy-efficient. This will also quicken response times.
+2. **Improved Contextual Awareness**:LLMs are self-training; the more usage and feedback they get, the better they become. Importantly, this is without any further major engineering. As technology progresses, this will see improvements in language capabilities and contextual awareness.
+3. **Trained for Specific Tasks**:The Jack-of-all-trade tools that are the public face of LLMs are prone to errors. But as they develop and users train them for specific needs, LLMs can play a large role in fields like medicine, law, finance, and education.
+4. **Greater Integration**: LLMs could become personal digital assistants. Think of Siri on steroids, and you get the idea. LLMs could become virtual assistants that help you with everything from suggesting meals to dealing with your correspondence.
+
+ These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
+
+## LLMs Transforming and Educating
+
+ LLMs are opening up an exciting world of possibilities. The rapid rise of chatbots such as ChatGPT, Bing Chat, and Google Bard is evidence of the resources being poured into the field.
+
+ Such a proliferation of resources can only see these tools becoming more powerful, versatile, and accurate. The potential applications of such tools are vast, and at the moment, we are only scratching the surface of an incredible new resource.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ But just what are LLMs, and how do they work? Here we set out to demystify LLMs.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/nnovative-split-screen-videos-for-youtube-sharing-for-2024/"><u>[New] Innovative Split-Screen Videos for YouTube Sharing for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-value-capture-affordable-cam-options-for-2024/"><u>[New] Value Capture Affordable Cam Options for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-crafting-an-inviting-subscribe-icon-for-youtube-videographers/"><u>[Updated] 2024 Approved Crafting an Inviting Subscribe Icon for YouTube Videographers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audience-augmentation-made-simple-5-solutions-available/"><u>[Updated] In 2024, Audience Augmentation Made Simple - $5 Solutions Available</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage/"><u>2024 Approved Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/become-a-hero-in-code-with-openais-flaw-hunting-bonus-program/"><u>Become a Hero in Code with OpenAI's Flaw Hunting Bonus Program</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-moba-games-on-android-top-10-selection/"><u>Best MOBA Games on Android - Top 10 Selection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-top-9-wellness-innovations-for-modern-living/"><u>ChatGPT’s Top 9 Wellness Innovations for Modern Living</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-unique-in-digital-dialogue/"><u>Discovering the Unique in Digital Dialogue</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-instagram-to-tik-tok-a-social-pivot-blueprint/"><u>In 2024, Instagram to Tik Tok - A Social Pivot Blueprint</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/night-photography-perfection-with-iphones/"><u>Night Photography Perfection with iPhones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-persuasive-edge-of-apples-new-iphone-16-pro-vs-max-model-what-to-know-before-you-upgrade-this-year-expert-analysis-at-zdnet/"><u>The Persuasive Edge of Apple's New iPhone 16 Pro Vs. Max Model: What to Know Before You Upgrade This Year | Expert Analysis at ZDNET</u></a></li>
+</ul></div>
+

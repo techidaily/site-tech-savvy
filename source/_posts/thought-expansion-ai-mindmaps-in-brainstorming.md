@@ -1,7 +1,7 @@
 ---
 title: "Thought Expansion: AI, Mindmaps in Brainstorming"
-date: 2024-10-11T04:36:40.423Z
-updated: 2024-10-14T19:06:14.544Z
+date: 2024-10-18T02:29:48.040Z
+updated: 2024-10-21T00:04:09.514Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 
  Its ability to analyze data and think outside the box makes it a handy tool for brainstorming ideas and successfully bringing them to life. So, let's look at how you can use a mind map and ChatGPT to brainstorm ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Write Out Your Goals
 
  A mind map is a great way to kick-start the brainstorming process. It gives you a visual representation of your thought process and helps you get organized. To get started, write your goal and objectives using a note-taking app or a SMART goal template by [Smartsheet](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) or similar.
@@ -46,18 +53,24 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 
 ![Set project goals with the SMART goals worksheet template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/AnyConvcom__Resized_Vertex42_SMART-Goals.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Smart Goals Template
 
  Write down your main topic, such as "productivity." Next, decide on keywords or categories representing each branch's key concepts.
 
  For instance, if you're brainstorming on productivity as an idea, consider using keywords like "productivity tips for remote teams," or "productivity tools," etc., so that each branch has a clear focus and doesn't get too broad or general, and note it down on the sheet.
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Use Mind Map Templates or Tools
 
@@ -66,13 +79,6 @@ Smart Goals Template
  One of the tools you can use is [Taskade's mind map generator](https://www.taskade.com/templates/ai/mind-map-generator). To get started, simply sign up for an account, and go to **Home > Create with AI > Mind Map for...**
 
 ![Taskade AI prompt generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/taskade1-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Similarly, [Canva](https://www.canva.com/mind-maps/templates/) also offers several templates for creating mind maps using different colors, fonts, and shapes. These templates make it easy to create connections and view relationships between different ideas. Not only that, you can add notes of your own and follow a well-defined structure.
 
@@ -85,10 +91,10 @@ Smart Goals Template
 ![ChatGPT responses to topic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/mi-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Such an approach can lead to a more thoughtful and creative exploration of ideas rather than a scattershot approach that may result in a jumble of disconnected concepts.
@@ -98,6 +104,13 @@ Smart Goals Template
  If you're stuck on what to brainstorm, you can ask ChatGPT to improvise and develop new ideas and conversation topics without detailed prompts. This approach might just help you land some unexpected insights and creative solutions.
 
 ![improvement suggestions for resume from ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/improvement-suggestions.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try specific prompts like "What should I do next after X process ?" or "Can you give me a suggestion on X?" ChatGPT will respond with unique and creative ideas.
 
@@ -116,16 +129,10 @@ Smart Goals Template
  Keep repeating the process until you have a fully fleshed-out idea.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Use Mind-Mapping Apps for Your Brainstorming Sessions
@@ -141,13 +148,6 @@ Smart Goals Template
  The tool also allows you to integrate with other apps, such as Google Drive and Trello, granting you more extensive control over your projects.
 
 **Download:** Miro for [Windows and Mac](https://miro.com/apps/) | [iOS](https://apps.apple.com/app/miro-collaborative-whiteboard/id1180074773) | [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2026441/https://play.google.com/store/apps/details?id=com.realtimeboard) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Improve Brainstorming Workflows With ChatGPT
 
@@ -176,19 +176,22 @@ Smart Goals Template
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-iphone-x-vs-galaxy-comparing-facial-authentication-systems/"><u>2024 Approved IPhone X Vs. Galaxy Comparing Facial Authentication Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-wellness-chatgpt-driven-meal-plans/"><u>Crafting Wellness: ChatGPT-Driven Meal Plans</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-eq-through-ais-perspective-on-social-dynamics/"><u>Enhance EQ Through AI's Perspective on Social Dynamics</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/from-capture-to-share-reviewing-the-newest-sprout-version/"><u>From Capture to Share Reviewing the Newest Sprout Version</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-s23-fe-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy S23 FE Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pristine-story-conception-in-eight-genre-divisions/"><u>In 2024, Pristine Story Conception in Eight Genre Divisions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/most-recent-download-cross-platform-bluetooth-card-driver-for-windows-users/"><u>Most Recent Download: Cross-Platform Bluetooth Card Driver for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-website-visibility-with-ai-insights/"><u>Redefining Website Visibility with AI Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-data-in-gpt-based-communication/"><u>Safeguarding Data in GPT-Based Communication</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-race-for-excellence-comparing-gemini-and-chatgpt/"><u>The Race for Excellence: Comparing Gemini and ChatGPT</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-10-online-screen-video-recorders/"><u>Top 10 Online Screen Video Recorders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/twitters-cleared-of-smileys-linuss-uncovering-trojans-breakdown-and-ai-gpt-issues-displayed/"><u>Twitters Cleared of Smileys, Linus's Uncovering, Trojans Breakdown, & AI GPT Issues Displayed.</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unleash-your-creativity-best-time-lapse-video-apps-for-mobile/"><u>Updated In 2024, Unleash Your Creativity Best Time-Lapse Video Apps for Mobile</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-obscured-feedback-on-youtube-videos/"><u>[New] Exploring Obscured Feedback on YouTube Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ashing-it-out-best-tags-to-transform-views-and-profit/"><u>[New] Hashing It Out Best Tags to Transform Views & Profit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/academic-insight-essential-checks-for-gpts-learning-algorithm/"><u>Academic Insight: Essential Checks for GPT's Learning Algorithm</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adopt-smart-installers-handbook-for-auto-gpt/"><u>Adopt Smart: Installer's Handbook for Auto-GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-gpt-3-and-user-data-safety/"><u>Analyzing GPT-3 and User Data Safety</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chromecast-firmware-update-process-explained/"><u>Chromecast Firmware Update Process Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-smooth-exchange-correcting-chatgpt-and-service-errors/"><u>Ensuring Smooth Exchange: Correcting ChatGPT and Service Errors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/from-zero-to-hero-establishing-a-new-social-media-presence-facebook/"><u>From Zero to Hero Establishing a New Social Media Presence (Facebook)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722897910174-get-ready-for-amazon-prime-day-2amday2024-essential-info-you-cant-miss/"><u>Get Ready for Amazon Prime Day 2Amday_2024 – Essential Info You Can't Miss!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-as-a-literary-polishing-agent/"><u>GPT as a Literary Polishing Agent?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opt-out-of-chatgpt-choose-microsoft-copilot-reasons/"><u>Opt Out of ChatGPT: Choose Microsoft CoPilot Reasons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/propel-your-professional-life-with-these-6-chatgpt-insights/"><u>Propel Your Professional Life with These 6 ChatGPT Insights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-lenovo-screens-input-disregard/"><u>Resolving Lenovo Screen's Input Disregard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/separating-the-sincere-from-the-synthetic-in-machine-learning-outputs/"><u>Separating the Sincere From the Synthetic in Machine Learning Outputs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-ndissys-bsod-issues-in-windows-systems/"><u>Step-by-Step Solution for NDIS.sys BSOD Issues in Windows Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-escort-max-360-featuring-gps-and-extra-safety-functions/"><u>Ultimate Guide to the Escort Max 360: Featuring GPS and Extra Safety Functions</u></a></li>
 </ul></div>
 

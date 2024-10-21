@@ -1,7 +1,7 @@
 ---
 title: Improve Your Python Skills with LinkedIn's Complimentary AI Training Program - Insights From ZDNet
-date: 2024-09-18 13:36:57
-updated: 2024-09-20 11:40:53
+date: 2024-10-18T20:04:54.689Z
+updated: 2024-10-20T20:38:22.476Z
 tags:
   - professional-development
 categories:
@@ -41,6 +41,13 @@ I have to give a big shout-out to LinkedIn for this offering. Normally, companie
 
 That turns this from what I originally thought was just another marketing scheme into full-on good work. It's up to you to cram as many courses as you can into the next 30 days, but if you can give up enough sleep, you can learn a lot for free. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The classes I took 
 
 In this article, I've spotlighted 14 of the courses I think are most interesting. My favorite (although I'm partial because the author is a colleague) has to be the [ChatGPT Tips for the Help Desk](https://www.linkedin.com/learning/chatgpt-tips-for-the-help-desk/welcome) by Pam Baker. A seasoned technology journalist, Pam is also the author of [ChatGPT for Dummies](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChatGPT-Dummies-Computer-tech%2Fdp%2F1394204639%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0d8c3ec8-3f07-45ec-ae51-7d5cb989a922%7Cdtp&dtb=1). She knows her stuff. 
@@ -54,6 +61,13 @@ I also took the two-hour [Machine Learning with Python: Foundations](https://www
 I learned a lot in this course, especially about how to collect and prepare data for machine learning. I also was able to stretch my Python programming knowledge, specifically about how a machine learning model can be built in Python. In just two hours, I felt like I got a friendly and comprehensive brain dump. 
 
 There are many other helpful courses. Let's break them down into categories and look at some examples. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  General AI literacy 
 
@@ -77,6 +91,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AI courses for recruiting, finance, and support professionals
 
 AI has some very special capabilities that can be applied in a wide range of professional fields. I chose three -- recruiting, support, and finance -- to show you how you can learn AI in the context of your profession. 
@@ -92,6 +113,19 @@ This course provides a comprehensive exploration of generative AI in finance and
 [**ChatGPT Tips for the Help Desk**](https://www.linkedin.com/learning/chatgpt-tips-for-the-help-desk/welcome)   
 **4.5 stars (47 ratings)** 
 In this course, Pam Baker covers everything from using ChatGPT to help with strategic planning, prompt engineering, and agent scripting, to self-help repositories and problem resolution, as well as other topics of high interest to help desk managers.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  For tech professionals and power users 
 
@@ -175,11 +209,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-digital-to-physical-crafting-flawless-dvds-on-a-mac/"><u>[New] From Digital to Physical Crafting Flawless DVDs on a Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-photo-perfection-in-pixels-a-compreran-guide-to-polarrs-features/"><u>[New] Photo Perfection in Pixels A Compreran Guide to Polarr’s Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-through-a-headsets-lens-a-history-of-vr/"><u>[Updated] Through a Headset's Lens A History of VR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-new-era-four-governmental-interventions-to-consider/"><u>AI's New Era: Four Governmental Interventions to Consider</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-nutritionally-sound-menus-with-chatgpt/"><u>Creating Nutritionally Sound Menus with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/distinguishing-diverse-ai-usage-scenarios/"><u>Distinguishing Diverse AI Usage Scenarios</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-download-to-execution-winchatgpt/"><u>From Download to Execution: WinChatGPT</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-vs-2-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic Vs 2 Phone without Any Data Loss</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-earnings-potential-with-youtube-adsense-payments-per-1k-viewer/"><u>In 2024, Unlocking Earnings Potential with Youtube AdSense Payments Per 1K Viewer</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-honor-100-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-conversation-five-ways-to-steer-chatgpt/"><u>The Art of Conversation: Five Ways to Steer ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-epson-tm-t88v-printers-driver-to-enhance-printing-performance-on-windows-systems/"><u>Update Your EPSON TM-T88V Printer's Driver to Enhance Printing Performance on Windows Systems</u></a></li>
+</ul></div>
+

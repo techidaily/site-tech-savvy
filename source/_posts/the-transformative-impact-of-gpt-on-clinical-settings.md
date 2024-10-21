@@ -1,7 +1,7 @@
 ---
 title: The Transformative Impact of GPT on Clinical Settings
-date: 2024-10-09T16:45:35.765Z
-updated: 2024-10-15T13:53:03.962Z
+date: 2024-10-14T17:17:19.843Z
+updated: 2024-10-20T19:43:28.946Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/5070ff282ccb187d0c91a9e169ae0c941c19518a9
 
  What makes ChatGPT special is that it is simpler, user-friendly, and can have human-like conversations. Although both ChatGPT and existing NLP systems in healthcare are not perfect, they can help meet the growing demands of patient care worldwide. NLP is one of the important [medical technologies shaping healthcare's future](https://www.makeuseof.com/medical-technologies-future-healthcare/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT in Healthcare
 
 ![chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/jonathan-kemper-mmuzs5qzuus-unsplash.jpg)
@@ -45,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/5070ff282ccb187d0c91a9e169ae0c941c19518a9
  Currently, ChatGPT is mainly used in the administrative side of healthcare, and it's proving to be a game-changer for healthcare professionals. It can do many things to make their lives easier, like handling paperwork, checklists, and logs. In a recent survey by [Jackson Healthcare](https://www.healthleadersmedia.com/nursing/nurses-say-distractions-cut-bedside-time-25), most nurses admitted spending 25% of their shift on non-patient tasks, and ChatGPT aims to reduce that burden.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using ChatGPT to Sort Unstructured Data
@@ -57,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/5070ff282ccb187d0c91a9e169ae0c941c19518a9
 
  ChatGPT can quickly analyze massive amounts of data—even diagnostics data. Just ask it a specific question with the sorting criteria you need, and it will give you the structured data you are looking for. You can copy its response, save it on a notepad, and open the file in Microsoft Excel to finish the process—problem solved!
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Remote Patient Monitoring With ChatGPT
 
  Even though doctors can't be with their patients all the time, patients need to keep track of their symptoms. This is where remote patient monitoring comes in. Patients track vital signs—like blood pressure, heart rate, and blood glucose levels—and share this data with their doctor. The doctor then reviews the information and provides feedback to the patient. It's a way to stay connected and care for patient health even when not in the same place.
@@ -71,16 +77,10 @@ thumbnail: https://thmb.techidaily.com/5070ff282ccb187d0c91a9e169ae0c941c19518a9
  But clinicians receive a lot of vital signs data from patients every single day, which can be overwhelming to examine. Luckily, ChatGPT can analyze the information collected by home health monitoring systems and provide clear insights for both patients and healthcare professionals. All patients have to do is share their results, and ChatGPT will let them know if everything is normal or not. After all, ChatGPT passed the USMLE exam!
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ChatGPT as a Virtual Assistant for Patient Care
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/5070ff282ccb187d0c91a9e169ae0c941c19518a9
  ChatGPT can be like having a personal assistant available all the time for doctors. It can handle client communication, schedule appointments, and even help create emails. Moreover, you can rely on it to summarize clinical notes and the patient's medical history, making your preparation for visits much easier. And with ChatGPT-4's plugin feature, using it has become even simpler. Here's [how you can make the most of ChatGPT plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Has Potential in Healthcare, But Be Careful
@@ -119,19 +119,24 @@ thumbnail: https://thmb.techidaily.com/5070ff282ccb187d0c91a9e169ae0c941c19518a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-quick-screen-grabs-for-win-11-users/"><u>[Updated] 2024 Approved Quick Screen Grabs for Win 11 Users</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-night-mode-magic-with-iphone-cameras/"><u>[Updated] In 2024, Night Mode Magic with iPhone Cameras</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eliminating-streaming-glitches-on-chatgpt-platform/"><u>Eliminating Streaming Glitches on ChatGPT Platform</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-insights-ai-versus-astrological-fortune-telling/"><u>Future Insights: AI versus Astrological Fortune Telling</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/get-back-every-piece-of-information-from-your-iphone-using-stellar-shop-now/"><u>Get Back Every Piece of Information From Your iPhone Using Stellar – Shop Now</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-make-unseen-seagate-hd-show-up-in-win11/"><u>How To Make Unseen Seagate HD Show Up in Win11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ai-journey-simplified-edition/"><u>The AI Journey, Simplified Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-art-of-elevating-your-pc-with-windows-11-update/"><u>The Art of Elevating Your PC with Windows 11 Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-parents-guide-to-chatgpt-and-generative-ai/"><u>The Parents Guide to ChatGPT and Generative AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-job-application-stature-chatgpt-resume-tactics/"><u>Transform Your Job Application Stature (ChatGPT Resume Tactics)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/turning-text-to-audio-with-ais-help/"><u>Turning Text to Audio with AI's Help</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-13t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi 13T IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-ultimate-picks-for-costless-subtitle-extraction-tools/"><u>[New] 2024 Approved Ultimate Picks for Costless Subtitle Extraction Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bring-order-to-your-digital-memories-ios-album-structure-and-icloud-backup-synergy/"><u>[New] Bring Order to Your Digital Memories IOS Album Structure & iCloud Backup Synergy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-recapture-image-purity-with-these-premium-photo-editors-online/"><u>[New] Recapture Image Purity with These Premium Photo Editors Online</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-uncovering-facebooks-fresh-favorites-our-picks-of-top-vids/"><u>[Updated] 2024 Approved Uncovering Facebook's Fresh Favorites Our Picks of Top Vids</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-easy-pc-capture-tool-windows-10-free-version/"><u>[Updated] Easy PC Capture Tool - Windows 10 Free Version</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y78-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y78 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-did-crowdstrikes-windows-meltdown-event-unfold-a-historical-analysis-revealed/"><u>How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-devising-visual-temporal-anomalies-effects/"><u>In 2024, Devising Visual Temporal Anomalies Effects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-farm-tastic-fun-and-games-the-ultimate-agricompanion-titles/"><u>In 2024, Farm-Tastic Fun & Games The Ultimate AgriCompanion Titles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-openais-customizable-cutting-edge-gpt-stores/"><u>Introducing OpenAI's Customizable, Cutting-Edge GPT Stores!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-special-save-big-and-grab-the-new-apple-pencil-for-only-95-the-perfect-time-to-upgrade-with-zdnet-deals/"><u>Labor Day Special! Save Big and Grab the New Apple Pencil for Only $95 - The Perfect Time to Upgrade with ZDNet Deals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/langchain-an-easy-entry-point-for-newcomers/"><u>LangChain: An Easy Entry Point for Newcomers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/presidents-day-special-offer-save-200-on-the-latest-macbook-pro-with-apple-silicon-m3-pro-chipset-available-now-at-zdnet/"><u>President's Day Special Offer: Save $200 on the Latest MacBook Pro with Apple Silicon - M3 Pro Chipset, Available Now at ZDNet!</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-itel-a70-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Itel A70</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ai-facilitated-journey-of-my-podcast-creation/"><u>The AI-Facilitated Journey of My Podcast Creation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-the-blue-screen-of-death-and-what-it-really-means-for-your-pc/"><u>The Complete Guide to the Blue Screen of Death and What It Really Means for Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-productivity-apps-for-ipad-streamline-your-task-management-and-boost-efficiency-insights-from-zdnet/"><u>Top Productivity Apps for iPad: Streamline Your Task Management & Boost Efficiency - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-documentation-with-artificayer-insights/"><u>Transforming Documentation with Artificayer Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-explores-potential-apple-pencil-style-for-new-vision-pro-gamepad-insights-from-latest-patent/"><u>ZDNet Explores Potential Apple Pencil Style for New Vision Pro Gamepad: Insights From Latest Patent</u></a></li>
 </ul></div>
 

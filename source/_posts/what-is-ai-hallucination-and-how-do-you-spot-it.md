@@ -1,7 +1,7 @@
 ---
 title: What Is AI Hallucination, and How Do You Spot It?
-date: 2024-10-10T01:16:30.449Z
-updated: 2024-10-15T12:51:06.748Z
+date: 2024-10-18T23:16:38.991Z
+updated: 2024-10-21T03:31:58.940Z
 tags:
   - chatgpt
   - open-ai
@@ -42,16 +42,22 @@ thumbnail: https://thmb.techidaily.com/157b4e9d1934c1c32aca2d6b6705f77b73d99232e
 
 ![ChatGPT's response to where Elon Musk's house is located](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181459.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On further query, ChatGPT turned up with this:
 
 ![A ChatGPT prompt further querying where elon musk's factory is at in brazil](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181530.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### AI Hallucination in Computer Vision
 
@@ -88,15 +94,22 @@ thumbnail: https://thmb.techidaily.com/157b4e9d1934c1c32aca2d6b6705f77b73d99232e
 ![Screenshot of ChatGPT giving multiple wrong answers to a prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wrong-answer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So why is ChatGPT unable to give an accurate answer to these prompts?
 
  It could be that the language model is unequipped to handle rather complex prompts such as these or that it cannot interpret the prompt accurately, ignoring the prompt on giving a similar word with a specific alphabet.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do You Spot AI Hallucination?
 
@@ -109,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/157b4e9d1934c1c32aca2d6b6705f77b73d99232e
 ![Picture showing Bing Chat and ChatGPT on arrowed sigsn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-showing-bing-chat-and-chatgpt-on-arrowed-sigsn.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Although rare, if you notice a grammatical error in the content produced by a large processing model, such as ChatGPT, that should raise an eyebrow and make you suspect a hallucination. Similarly, when text-generated content doesn't sound logical, correlate with the context given, or match the input data, you should suspect a hallucination.
@@ -129,28 +142,15 @@ thumbnail: https://thmb.techidaily.com/157b4e9d1934c1c32aca2d6b6705f77b73d99232e
 
  So to spot a computer vision hallucination, compare the output generated to what a \[normal\] human is expected to see.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Self-Driving Cars
 
 ![Ford Blue Cruise 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ford-blue-cruise-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedmedia.viewmore.image.html/content/fordmedia/fna/us/en/news/2021/04/14/ford-mother-of-all-road-trips-bluecruise-hands-free-driving/jcr:content/rightRailPar/relatedmedia.html)
@@ -160,16 +160,10 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
  If you own one of such cars, you would want to know if your AI car is hallucinating. One sign will be if your vehicle seems to be deviating from its normal behavior patterns while driving. For example, if the vehicle brakes or swerves suddenly without any obvious reason, your AI vehicle might be hallucinating.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Systems Can Hallucinate Too
@@ -197,22 +191,18 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-business-idea-to-boardroom-on-instagram/"><u>[New] In 2024, From Business Idea to Boardroom on Instagram</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-10plus-incredible-free-youtube-intro-makers/"><u>[Updated] 2024 Approved 10+ Incredible Free YouTube Intro Makers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-influencing-up-a-comprehensive-instagram-growth-strategy/"><u>[Updated] In 2024, Influencing Up A Comprehensive Instagram Growth Strategy</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-video-transfer-from-youtube-to-instagram/"><u>[Updated] Seamless Video Transfer From YouTube to Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/10-leading-applications-eclipsing-gpts-functionality-on-devices/"><u>10 Leading Applications Eclipsing GPT's Functionality on Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/15-tips-for-effective-auto-gpt-utilization/"><u>15 Tips for Effective Auto-GPT Utilization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-ways-chatgpt-can-help-with-crypto-trading/"><u>5 Ways ChatGPT Can Help With Crypto Trading</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-common-flubs-when-harnessing-ml-power/"><u>7 Common Flubs When Harnessing ML Power</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-trailblazing-tech-beyond-chatgpt-for-programmers-delight/"><u>7 Trailblazing Tech Beyond ChatGPT for Programmers' Delight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-guide-to-openais-gpt-evolution-gpt-1-4/"><u>A Guide to OpenAI's GPT Evolution (GPT-1-4)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-study-on-the-accessibility-and-utility-of-the-global-virtual-library-internet/"><u>A Study on the Accessibility and Utility of the Global Virtual Library (Internet)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/craft-your-ais-voice-integrating-your-dataset-with-a-homemade-chatgpt-model/"><u>Craft Your AI's Voice: Integrating Your Dataset with a Homemade ChatGPT Model</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 15 Pro</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-unlocking-social-connections-facetime-tutorials-for-android/"><u>In 2024, Unlocking Social Connections Facetime Tutorials for Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721409225660-tweet-without-smileys-linus-disclosed-techniques-trojan-inspection-and-chatbot-limitations/"><u>Tweet Without Smileys, Linus Disclosed Techniques, Trojan Inspection, & ChatBot Limitations.</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-tivo-vs-comcast-x1-which-dvr-offers-the-most-bang-for-your-buck/"><u>Updated 2024 Approved TiVo vs Comcast X1 Which DVR Offers the Most Bang for Your Buck ?</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-motorola-moto-g34-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Moto G34 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-typography-the-3d-text-technique-explained-psx/"><u>[New] Transform Your Typography The 3D Text Technique Explained PSX</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-lightening-your-day-with-humor-comical-facebook-detention-memes/"><u>[Updated] In 2024, Lightening Your Day with Humor Comical Facebook Detention Memes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-infinix-hot-30-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Infinix Hot 30 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-first-look-at-apple-vision-pro-starting-pre-orders-on-january-19th-product-launches-february-2nd-insights-from-zdnet/"><u>Get First Look at Apple Vision Pro: Starting Pre-Orders on January 19Th, Product Launches February 2Nd | Insights From ZDNET</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimized-auditory-experience-choosing-the-best-audio-device/"><u>In 2024, Optimized Auditory Experience Choosing the Best Audio Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-revolutionize-viewing-with-these-6-ultimate-youtube-shorts-downloader-apps/"><u>In 2024, Revolutionize Viewing with These 6 Ultimate YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-discussions-with-underused-chatgpt-capabilities/"><u>Mastering AI Discussions with Underused ChatGPT Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-mobile-market-leader-emerges-how-samsung-outshipped-apple-and-rose-through-the-ranks-insights/"><u>New Mobile Market Leader Emerges: How Samsung Outshipped Apple and Rose Through the Ranks - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/section-3-advanced-topic-climate-change-mitigation-strategies/"><u>Section 3: Advanced Topic - Climate Change Mitigation Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snag-the-new-apple-pencil-2nd-generation-at-a-steep-discount-only-95-this-labor-day-dont-miss-out/"><u>Snag the New Apple Pencil (2Nd Generation) at a Steep Discount - Only $95 This Labor Day: Don't Miss Out!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-restoring-accidentally-erased-emails-from-your-inbox/"><u>Step-by-Step Guide: Restoring Accidentally Erased Emails From Your Inbox</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-iphone-14-assessment-meeting-requirements-precisely-and-effectively/"><u>The iPhone 14 Assessment : Meeting Requirements Precisely and Effectively</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unlock-creative-potential-image-curve-magic-in-ps/"><u>Unlock Creative Potential Image Curve Magic in PS</u></a></li>
 </ul></div>
 

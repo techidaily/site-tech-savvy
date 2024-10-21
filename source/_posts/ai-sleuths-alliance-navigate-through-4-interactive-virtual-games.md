@@ -1,7 +1,7 @@
 ---
 title: "AI Sleuths Alliance: Navigate Through 4 Interactive Virtual Games"
-date: 2024-10-07T18:12:25.651Z
-updated: 2024-10-15T04:26:07.668Z
+date: 2024-10-19T17:24:40.981Z
+updated: 2024-10-20T23:30:24.819Z
 tags:
   - chatgpt
   - open-ai
@@ -40,22 +40,15 @@ Author Screenshot by Mihir Patkar - No attribution required
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Gron
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Author Screenshot by Mihir Patkar - No attribution required
@@ -66,15 +59,22 @@ Author Screenshot by Mihir Patkar - No attribution required
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Mystery-o-Matic
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Author Screenshot by Mihir Patkar - No attribution required
@@ -84,13 +84,6 @@ Author Screenshot by Mihir Patkar - No attribution required
  The wording on the site isn't crystal clear, so here's the explanation. There are three people (Alice, Eddie, and Carol), one of whom will be murdered. There are four rooms (kitchen, living room, bedroom, and bathroom), and you'll have to pay attention to the daily layout to see how the rooms are connected. Any character can move from one room to another in 15 minutes, but not two rooms in 15 minutes. You'll also be told about four possible murder weapons (knife, gun, poison, rope) and where they were located. Finally, you'll get a few statements from the three characters involved or based on what the police found.
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Murdle
 
@@ -103,6 +96,19 @@ Author Screenshot by Mihir Patkar - No attribution required
  Murdle follows a similar system to Mystery-o-Matic, giving you three or four suspects, three or four locations, and three or four murder weapons every day. The mysteries get more difficult with each day, with Monday being the easiest and Sunday requiring the skills of Sherlock Holmes.
 
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
 
@@ -129,15 +135,16 @@ Author Screenshot by Mihir Patkar - No attribution required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-nostalgic-snapshots-from-your-camera-roll-on-snapchat-for-2024/"><u>[New] Nostalgic Snapshots From Your Camera Roll on Snapchat for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-simplifying-android-screen-recordings-a-user-friendly-method-for-2024/"><u>[New] Simplifying Android Screen Recordings A User-Friendly Method for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-youtubers-income-average-ad-revenues-per-play/"><u>[Updated] Understanding Youtuber's Income Average Ad Revenues per Play?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-affordable-asmr-microphones-with-peak-performance-quality-crest/"><u>2024 Approved Affordable ASMR Microphones with Peak Performance, Quality Crest</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-live-tv-saving-made-simple-with-free-software-tools/"><u>2024 Approved Live TV Saving Made Simple with Free Software Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-at-the-helm-unveiling-the-top-8-productive-chrome-extensions/"><u>AI at the Helm: Unveiling the Top 8 Productive Chrome Extensions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/communicate-instantly-with-chatgpt/"><u>Communicate Instantly with ChatGPT</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>New In 2024, Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-your-coding-process-with-chatgpt-in-vs-code/"><u>Streamline Your Coding Process with ChatGPT in VS Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-best-5-ai-prompt-generators-for-any-ai-tool/"><u>The Best 5 AI Prompt Generators For Any AI Tool</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-quick-fixes-enhancing-your-snaps-with-snapchat-edits/"><u>[New] In 2024, Quick Fixes Enhancing Your Snaps with Snapchat Edits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-durecorder-handbook-insights-and-evaluation/"><u>[Updated] Ultimate DuRecorder Handbook Insights & Evaluation</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/drive-engagement-and-sales-using-the-cookiebot-system/"><u>Drive Engagement and Sales Using the Cookiebot System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-instructions-installing-and-setting-up-router-vpn-services/"><u>Easy Instructions: Installing and Setting Up Router VPN Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-to-activate-vpn-on-windows-11-expert-advice-from-zdnet/"><u>Easy Steps to Activate VPN on Windows 11 - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-vpn-service-rankings-in-depth-reviews-and-performance-checks-zdnet/"><u>Elite VPN Service Rankings : In-Depth Reviews & Performance Checks | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expanded-security-google-one-now-includes-vpn-on-select-tiers-with-dark-web-tracking-capability/"><u>Expanded Security: Google One Now Includes VPN on Select Tiers with Dark Web Tracking Capability</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-pictures-to-prose-photo-text-alteration-techniques/"><u>In 2024, From Pictures to Prose Photo Text Alteration Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-video-spin-perfecting-instagram-posts/"><u>Mastering Video Spin Perfecting Instagram Posts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-comfort-in-every-game-the-mavix-m9-gaming-chair-experience/"><u>Ultimate Comfort in Every Game: The MAVIX M9 Gaming Chair Experience</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-trim-and-refine-a-step-by-step-guide-to-cropping-videos-in-avidemux/"><u>Updated Trim and Refine A Step-by-Step Guide to Cropping Videos in Avidemux</u></a></li>
 </ul></div>
 

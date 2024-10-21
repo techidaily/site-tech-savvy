@@ -1,7 +1,7 @@
 ---
 title: "Emotional Intelligence Bots: Safe Counseling Guidelines"
-date: 2024-10-07T19:29:03.712Z
-updated: 2024-10-15T07:13:00.852Z
+date: 2024-10-18T23:42:10.216Z
+updated: 2024-10-20T18:22:16.644Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
  No, it doesn't have a framed degree hanging on its wall or years of expensive training from an Ivy League university. However, it can mimic therapeutic techniques based on your prompts. And even though it's not a real person, [ChatGPT can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), if you know how to use it correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The Art of Prompting for Mental Health Information
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
  Remember though, your AI pal is not psychic. It won't remember past conversations or know your personal history unless you tell it. So, the more details you can provide ahead of your question, the more tailored ChatGPT's response will be. Don't shy away from providing some context with your prompts.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Advanced Chat GPT Training
@@ -72,31 +72,18 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
 
 ![Screenshot of ChatGPT giving Stoic advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-06-50-am.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By providing this additional context, you're helping ChatGPT generate more specific, tailored advice. Or, let's say you're struggling with a personal relationship. You could ask, "I had an argument with my friend because of a misunderstanding, and it's causing me a lot of distress. What would a therapist suggest I do to resolve this situation?"
 
  By layering your prompts in this way, you're training ChatGPT to provide more specific, relevant advice. You can also supercharge your prompt by adding something like, "Ask any follow-up questions to understand the situation better before providing a response". This will result in a response that more closely approximates a conversation with a mental health coach.
 
 ![Stoic advice provided by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-04-47-am.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Setting Healthy Boundaries With Your AI
 
@@ -109,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
  Next, avoid sharing overly sensitive personal information. Remember, while ChatGPT doesn't store personal data, it's good practice to keep highly personal or sensitive topics offline. You never know where your words will end up.
 
  Also, make sure to balance your use of AI with friends and family and if necessary, other mental health resources. ChatGPT is a supplement, not a substitute. Keep up with your real-world people and never replace them with a chatbot.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Know When to Seek Human Help
 
@@ -145,20 +139,22 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-innovate-in-fb-advertising-access-no-cost-video-tools/"><u>[New] Innovate in FB Advertising - Access No-Cost Video Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-maximizing-your-iphone-for-podcast-listening/"><u>[New] Maximizing Your iPhone for Podcast Listening</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-suggestions-prime-frame-addition-software-2023-update/"><u>[Updated] Expert Suggestions - Prime Frame Addition Software, 2023 Update</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-getting-started-with-vlc-screen-recordings/"><u>[Updated] Getting Started with VLC Screen Recordings</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-essential-guide-to-mac-based-lecture-recording/"><u>2024 Approved The Essential Guide to Mac-Based Lecture Recording</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/altman-out-does-it-perturb-the-path-of-gpt/"><u>Altman Out - Does It Perturb the Path of GPT?</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/backup-e-ripristino-di-un-computer-con-configurazione-hardware-diversa-avvio-sicuro/"><u>Backup E Ripristino Di Un Computer Con Configurazione Hardware Diversa - Avvio Sicuro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-guide-understanding-the-11-most-popular-audiobook-file-types/"><u>Essential Guide: Understanding the 11 Most Popular Audiobook File Types</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fighting-algorithmic-infringement-artists-sue-openai-and-meta/"><u>Fighting Algorithmic Infringement: Artists Sue OpenAI and Meta</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-with-siri-on-your-iphone/"><u>How to Use ChatGPT With Siri on Your iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-your-cooking-routine-using-these-7-chatgpt-strategies/"><u>Innovate Your Cooking Routine Using These 7 ChatGPT Strategies</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-realme-gt-neo-5-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme GT Neo 5? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-invisible-hand-deciphering-chatgpts-language-algorithm/"><u>The Invisible Hand: Deciphering ChatGPT's Language Algorithm</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-blunders-in-harnessing-chatgpt-for-writing/"><u>Top 4 Blunders in Harnessing ChatGPT for Writing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-shift-from-chatgpt-to-claudio-3s-innovations/"><u>Understanding the Shift From ChatGPT to Claudio 3'S Innovations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-brightening-up-your-online-videos/"><u>[New] In 2024, Brightening Up Your Online Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-obs-vs-wirecast-which-should-you-trust-for-live/"><u>[New] OBS Vs. Wirecast - Which Should You Trust for Live?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-dissecting-fraps-screen-capture-features/"><u>[Updated] Dissecting Fraps Screen Capture Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-harmonize-your-preferences-how-to-create-an-engaging-youtube-playlist/"><u>[Updated] Harmonize Your Preferences How to Create an Engaging YouTube Playlist</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-perfect-picture-creation-discover-these-top-5-android-editors/"><u>[Updated] In 2024, Perfect Picture Creation Discover These Top 5 Android Editors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-evaluating-vegaspros-progressive-changes-2019/"><u>2024 Approved Evaluating VegasPro's Progressive Changes (2019)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brainstorm-breakthroughs-mindmap-plus-ai-dialogue/"><u>Brainstorm Breakthroughs: Mindmap + AI Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-expertise-and-ai-for-better-3d-printing/"><u>Bridging Human Expertise and AI for Better 3D Printing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-between-human-creativity-and-ai-with-nightshade/"><u>Bridging the Gap Between Human Creativity and AI with Nightshade</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-take-on-acid-pro-and-competitive-analysis-for-2024/"><u>Expert Take on ACID Pro and Competitive Analysis for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ais-text-generation-usage-by-leading-firms/"><u>Exploring AI's Text Generation: Usage by Leading Firms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-everything-you-need-for-your-apple-gadgets-detailed-manuals-specifications-and-fix-it-tips-on-zdnet/"><u>Find Everything You Need for Your Apple Gadgets: Detailed Manuals, Specifications, and Fix-It Tips on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-concept-to-reality-googles-latest-leap-palm-2/"><u>From Concept to Reality: Google's Latest Leap, PaLM 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-in-other-languages/"><u>How to Use ChatGPT in Other Languages</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-a78-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo A78 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-ai-strategies-for-hr-tasks/"><u>Innovative AI Strategies for HR Tasks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ordered-guide-viewing-all-of-taylor-swifts-films/"><u>Ordered Guide: Viewing All of Taylor Swift's Films</u></a></li>
 </ul></div>
 

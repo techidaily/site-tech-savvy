@@ -1,7 +1,7 @@
 ---
 title: "Bridging Gaps: EU AI Act and Its Consequences for ChatGPT"
-date: 2024-10-11T06:59:44.116Z
-updated: 2024-10-15T14:30:17.134Z
+date: 2024-10-17T16:27:06.428Z
+updated: 2024-10-20T18:00:49.823Z
 tags:
   - chatgpt
   - open-ai
@@ -44,15 +44,22 @@ thumbnail: https://thmb.techidaily.com/8d7927945f03c1a6cf48bac233c269180a3c469aa
 
  While the EU AI Act has several objectives, its main aim is to somewhat reign in AI. This will be done by assessing the risk levels of AI systems, ensuring they follow EU laws, and enforcing transparency requirements for AI systems.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who Will Be Affected by the EU AI Act?
 
 ![wooden court hammer on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/court-hammer-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While the EU AI Act is still in the works, there are concerns over how it will affect AI researchers, developers, and users within the EU.
@@ -69,16 +76,10 @@ thumbnail: https://thmb.techidaily.com/8d7927945f03c1a6cf48bac233c269180a3c469aa
  Evidently, the scope is large, spanning the AI industry. Thousands of AI organizations may be affected by this act, including ChatGPT creator, OpenAI. This has led to contention between the EU and OpenAI CEO Sam Altman. In fact, Altman has threatened to pull OpenAI, and therefore ChatGPT, out of the EU because of it. So, why has he made such a striking statement?
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Is Sam Altman Threatening to Pull ChatGPT From the EU?
@@ -86,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/8d7927945f03c1a6cf48bac233c269180a3c469aa
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
@@ -101,13 +102,6 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Altman hasn't outright stated that ChatGPT won't comply with these rules. In fact, the CEO would like to cooperate, but only if it is technically possible for OpenAI. [Time](https://time.com/6282325/sam-altman-openai-eu/) reports that Altman stated OpenAI would attempt to comply, but the company has criticized how the EU AI Act proposal is currently worded.
 
  Interestingly, this threat came shortly after [Altman advocated for further AI regulation within the US](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/) to mitigate the risks of AI development. We'll leave how that looks up to you.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The EU's AI Act Could Alter AI Development
 
@@ -130,19 +124,21 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-perfected-practice-of-combining-youtube-videos/"><u>[New] In 2024, The Perfected Practice of Combining YouTube Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-easy-guide-turning-your-favorite-youtube-videos-into-animated-gifs/"><u>2024 Approved Easy Guide Turning Your Favorite YouTube Videos Into Animated GIFs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nokia-150-2023-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nokia 150 (2023) to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/31-maximizing-email-potential-with-chatgpt-and-inbox-summarizers/"><u>31 Maximizing Email Potential with ChatGPT & Inbox Summarizers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-ingenious-ways-to-leverage-chatgpt-for-employment/"><u>5 Ingenious Ways to Leverage ChatGPT for Employment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-ai-powered-pdf-tools-unveiled-by-gpt/"><u>6 AI Powered PDF Tools Unveiled by GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-reasons-to-view-snapchats-ai-as-essential-not-extras/"><u>6 Reasons to View Snapchat's AI as Essential, Not Extras</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-essential-free-ai-apps-for-email-crafting/"><u>8 Essential Free AI Apps for Email Crafting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-to-utilizing-openais-language-power/"><u>A Step-by-Step Guide to Utilizing OpenAI’s Language Power</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-download-and-update-for-your-dell-printer-software/"><u>Effortless Download and Update for Your Dell Printer Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-prevent-and-fix-vrchat-crashes-8-reliable-methods-for-pc-users/"><u>How to Prevent and Fix VRChat Crashes: 8 Reliable Methods for PC Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-found-eliminating-slow-response-times-from-your-windows-11-keyboard/"><u>Solution Found: Eliminating Slow Response Times From Your Windows 11 Keyboard</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-t2x-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo T2x 5G without backup.</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktok-speak-up-a-step-by-step-instructional-guide-for-2024/"><u>TikTok Speak Up A Step-by-Step Instructional Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pro-filmmaking-lenses-the-ten-most-critical-choices/"><u>[New] Pro Filmmaking Lenses The Ten Most Critical Choices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-essential-techniques-to-avert-windows-11-photos-crashes-for-2024/"><u>[Updated] Essential Techniques to Avert Windows 11 Photos Crashes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-simple-approach-to-youtube-statistics-review/"><u>[Updated] In 2024, A Simple Approach to YouTube Statistics Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-obs-live-video-to-insta-platform/"><u>[Updated] In 2024, OBS Live Video to Insta Platform</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-thriving-as-a-team-on-youtube-perfect-pairings-for-success/"><u>[Updated] Thriving as a Team on YouTube Perfect Pairings for Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevating-your-social-media-game-horizontal-videos-on-igtv/"><u>2024 Approved Elevating Your Social Media Game Horizontal Videos on IGTV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-chatgpts-co-pilot-features-and-functionality-insights/"><u>Demystifying ChatGPT's Co-Pilot: Features and Functionality Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-convert-and-add-cd-music-to-iphone-without-costing-you-a-penny/"><u>Effortless Guide: Convert and Add CD Music to iPhone Without Costing You a Penny</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-options-beyond-gpts-max-input/"><u>Exploring Options Beyond GPT’s Max Input</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-basics-to-bots-understanding-openais-api-strengths/"><u>From Basics to Bots: Understanding OpenAI’s API Strengths</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-uses-of-chatgpt-wolframalpha-fusion-tools/"><u>Innovative Uses of ChatGPT-WolframAlpha Fusion Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-apple-watchs-endurance-top-8-settings-tweaks/"><u>Revolutionize Your Apple Watch's Endurance: Top 8 Settings Tweaks !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smarter-living-starts-here-9-powerful-chatgpt-methods/"><u>Smarter Living Starts Here: 9 Powerful ChatGPT Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-unpairing-devices-from-a-windows-10-pc-tips/"><u>Troubleshooting Steps for Unpairing Devices From a Windows 10 PC (Tips )</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-years-finest-mp3-devices-featured/"><u>Ultimate Guide to the Year's Finest MP3 Devices – Featured</u></a></li>
 </ul></div>
 

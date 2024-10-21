@@ -1,7 +1,7 @@
 ---
 title: The Perils of Ignoring Potential Fallibility in Artificial Intelligence
-date: 2024-10-09T14:32:18.017Z
-updated: 2024-10-15T00:07:12.766Z
+date: 2024-10-18T23:40:52.005Z
+updated: 2024-10-20T19:19:12.818Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ AI is transforming the world as we know it, with its impact felt across every in
  While this is just the nature of AI right now, you can see how this can become a problem. Most people don't fact-check their Google searches, and it's the same here with chatbots like ChatGPT. This can lead to misinformation, and we already have plenty of that to go around—which brings us to the second point.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. It Can Easily Be Used to Manipulate Information
@@ -55,28 +55,15 @@ AI is transforming the world as we know it, with its impact felt across every in
 
  Sure, you can easily write this off as a bug or a one-off mistake. However, this does not change the fact that these AI tools are imperfect, and we should proceed cautiously.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. It Can Hinder Your Creativity
 
 ![man with head on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-with-head-on-desk.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many professionals, such as writers and designers, are now using AI to maximize efficiency. However, it's important to understand that AI should be viewed as a tool rather than a shortcut. While the latter certainly sounds tempting, it can severely impact your creativity.
@@ -87,6 +74,13 @@ AI is transforming the world as we know it, with its impact felt across every in
 
  Using AI to supplement your research is different from solely relying on it to generate ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. AI Can Easily Be Misused
 
  AI has brought about numerous breakthroughs across various fields. However, as with any technology, there is also the risk of misuse that can lead to dire consequences.
@@ -96,6 +90,19 @@ AI is transforming the world as we know it, with its impact felt across every in
  The use of AI-generated deepfakes to create explicit photos of unsuspecting women is a disturbing trend. Cybercriminals are also using AI-driven DoS attacks to prevent legitimate users from accessing certain networks. Such attacks are becoming increasingly complex and challenging to stop since they exhibit human-like characteristics.
 
  The availability of AI capabilities as open-source libraries have enabled anyone to access technologies like image and facial recognition. This poses a significant cybersecurity risk, as terrorist groups could use these technologies to launch terror attacks
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Limited Understanding of Context
 
@@ -116,13 +123,6 @@ AI is transforming the world as we know it, with its impact felt across every in
  For example, if you ask an AI system to choose between two books, it may recommend the one with higher ratings, but it cannot consider your personal taste, reading preferences, or the purpose for which you need the book.
 
  On the other hand, a human reviewer can provide a more nuanced and personalized review of the book by evaluating its literary value, relevance to the reader's interests, and other subjective factors that cannot be measured objectively.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Be Careful With Artificial Intelligence
 
@@ -147,24 +147,22 @@ AI is transforming the world as we know it, with its impact felt across every in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-360-video-editors-how-to-upload-360-video-to-youtube/"><u>[New] 2024 Approved 360 Video Editors How to Upload 360 Video to YouTube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-designing-captivating-instagram-feed-summaries/"><u>[New] In 2024, Designing Captivating Instagram Feed Summaries</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-quick-guide-to-firefoxs-innovative-pip-mode/"><u>2024 Approved A Quick Guide to Firefox's Innovative PIP Mode</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/acer-aspire-c27-compact-mastery-meets-comprehensive-tech-features-in-one-desktop-unit/"><u>Acer Aspire C27: Compact Mastery Meets Comprehensive Tech Features in One Desktop Unit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-combine-iphones-siri-with-chatgpt/"><u>Bridging the Gap: Combine iPhone's Siri with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/combatting-fraudgpt-essential-self-defense-tips/"><u>Combatting FraudGPT: Essential Self-Defense Tips</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-to-performing-a-clean-install-of-windows-11-using-system-restore/"><u>Complete Guide to Performing a Clean Install of Windows 11 Using System Restore</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/establish-a-low-cost-chatbot-clone-for-pc-users/"><u>Establish a Low-Cost Chatbot Clone for PC Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-for-us-chatgpt-plus-now-available-at-20-mo/"><u>Exclusive for U.S.: ChatGPT Plus Now Available at $20 Mo</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-reviews-leading-17-inch-laptop-models-dominating-2024/"><u>Expert Reviews: Leading 17-Inch Laptop Models Dominating 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ai-conversations-mistral-vs-chatgpt/"><u>Exploring AI Conversations: Mistral vs ChatGPT</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-11-pro-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 11 Pro? Learn All 4 Methods</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/starlink-unlocks-potential-4-significant-advantages-explored/"><u>Starlink Unlocks Potential: 4 Significant Advantages Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/techniques-to-customize-ai-writing-your-voice-your-way/"><u>Techniques to Customize AI Writing: Your Voice, Your Way</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/toms-tech-hub-exploring-latest-computer-hardware-trends/"><u>Tom's Tech Hub: Exploring Latest Computer Hardware Trends</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-therapy-the-role-of-gpt-in-cbt/"><u>Transforming Therapy: The Role of GPT in CBT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voices-of-the-future-leveraging-chatgpt-for-dynamic-game-dialogues/"><u>Voices of the Future: Leveraging ChatGPT for Dynamic Game Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-professionals-should-prioritize-learning-chatgpt-the-6-key-points/"><u>Why Professionals Should Prioritize Learning ChatGPT - The 6 Key Points</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-channeling-creativity-get-green-screen-tips-from-youtube/"><u>[Updated] Channeling Creativity Get Green Screen Tips From YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unleashing-creativity-capturing-and-editing-impressive-videos-in-adobe-connect/"><u>[Updated] In 2024, Unleashing Creativity Capturing & Editing Impressive Videos in Adobe Connect</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-critique-on-splitcam-does-it-top-video-tech/"><u>2024 Approved Critique on SplitCam Does It Top Video Tech?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-live-streaming-scenery-ideas/"><u>2024 Approved Optimal Live Streaming Scenery Ideas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-watch-notifications-effortlessly-staying-connected-with-loved-ones/"><u>Apple Watch Notifications: Effortlessly Staying Connected with Loved Ones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-best-wireless-magnetic-phone-charger-for-iphones-at-an-unbeatable-price-of-35-endorsed-by-zdnet/"><u>Get Your Hands on the Best Wireless Magnetic Phone Charger for iPhones at an Unbeatable Price of $35 - Endorsed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/identifying-covert-tracks-with-apple-airtags-a-guide-for-privacy-protection/"><u>Identifying Covert Tracks with Apple AirTags: A Guide for Privacy Protection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ticklishtones-selecting-the-best-ringtones-for-smiles/"><u>In 2024, TicklishTones Selecting the Best Ringtones for Smiles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-mobile-filmmaking-how-apple-transforms-the-iphone-into-a-pro-video-studio-with-final-cut-insights/"><u>Revolutionizing Mobile Filmmaking: How Apple Transforms the iPhone Into a Pro Video Studio with Final Cut | Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secret-strategies-to-harness-gpt-powerfully/"><u>Secret Strategies to Harness GPT Powerfully</u></a></li>
+<li><a href="https://driver-download.techidaily.com/successful-steps-to-install-the-epson-xp-830-printer-driver-a-comprehensive-guide/"><u>Successful Steps to Install the Epson XP-830 Printer Driver: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-strides-identifying-five-drives-of-chatgpts-triumph/"><u>Swift Strides: Identifying Five Drives of ChatGPT's Triumph</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-personalizing-gpt-with-10-tweaks/"><u>The Ultimate Guide to Personalizing GPT with 10 Tweaks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-reddit-presence-with-these-tactics-for-2024/"><u>Transform Your Reddit Presence with These Tactics for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbelievably-versatile-and-compact-how-this-budget-8-in-1-usb-hub-outperforms-expectations/"><u>Unbelievably Versatile & Compact: How This Budget 8-in-1 USB Hub Outperforms Expectations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/web-based-gratis-converter-tvshow-vod-mp4-movavi/"><u>Web-Based Gratis Converter: TVShow 이미지와 VOD MP4 변환 - Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/your-guide-to-masterful-photo-editing-with-gimp-a-detailed-breakdown-of-the-best-gratis-option-for-all-operating-systems/"><u>Your Guide to Masterful Photo Editing with GIMP – A Detailed Breakdown of the Best Gratis Option for All Operating Systems</u></a></li>
 </ul></div>
 

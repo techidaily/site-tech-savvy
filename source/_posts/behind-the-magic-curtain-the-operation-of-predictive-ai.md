@@ -1,7 +1,7 @@
 ---
 title: "Behind the Magic Curtain: The Operation of Predictive AI"
-date: 2024-10-08T04:21:53.266Z
-updated: 2024-10-15T00:58:04.734Z
+date: 2024-10-13T18:25:00.083Z
+updated: 2024-10-20T16:21:27.272Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
  You've probably heard of generative AI, but how much do you know about predictive AI? They sound similar, but have some key differences, along with a heap of ways you're probably already using it!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Predictive AI, and How Does It Work?
 
  Predictive AI uses information from things that have already happened to make predictions and projections for what might happen in the future. To be used successfully, it requires access to high-quality data and subject matter expertise from humans to correctly identify trends.
@@ -58,6 +51,19 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  Predictive AI is already used in multiple industries, and you may even have experienced this technology in action yourself. For example, companies use predictive AI to detect potential data breaches, and smartphone providers can help you type more accurately.
 
  Below are some of the best examples of predictive AI in action.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Predictive Text
 
@@ -75,27 +81,20 @@ Close
 
  You'll often receive an email or text message warning you of an unusual sign-in and prompting you to take action if needed. Requesting to change your password can also prompt such notifications. To ensure that you don't fall victim to security breaches, it's worth learning about [takeover fraud and how to prevent these threats](https://www.makeuseof.com/what-is-account-takeover-fraud/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. App and Content Suggestions
 
 ![Spotify's niche mixes are playlists made for you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/spotify-niche-mixes-desktop.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your smartphones and apps are becoming much better at offering recommendations, largely because of predictive AI. For example, if you use Google Drive, you may see a "You often open around this time" message on your main documents. You'll also see "Based on past activity" or "You've opened frequently."
 
  If you use your smartphone, you'll often see that recommendations for opening apps and other actions change depending on your habits at each time of the day. Apps also use your consumption behaviors to deliver better recommendations; for example, [Spotify uses AI](https://www.makeuseof.com/how-spotify-uses-ai/) to recommend (and create) playlists.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Economic Projections
 
@@ -104,10 +103,10 @@ Close
  This technology can also predict stock market movements and cryptocurrency price changes. If you plan on trading with AI, it's worth checking out these [AI-based crypto tools](https://www.makeuseof.com/top-ai-based-crypto-tools/) as a starting point.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Weather Forecasts
@@ -121,6 +120,13 @@ Close
  Companies use predictive AI to make better decisions and projections for the coming year. Since predictive AI is very good at measuring consumer behaviors, businesses can accurately determine the success of their current products and offerings over 6-12 months. To fill gaps in the market, they can also use the information they gather to launch and test new products.
 
  With predictive AI, businesses can also decide what to include in advertising campaigns. Moreover, they can determine where they should allocate their budgets more effectively. We've written a round-up of [essential AI tools for business owners to know about](https://www.makeuseof.com/ai-tools-for-business-owners/) if you're interested in learning more.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Is Predictive AI Different From Generative AI?
 
@@ -147,16 +153,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-beyond-whats-visible-insights-into-instagram-story-consumers-for-2024/"><u>[New] Beyond What's Visible Insights Into Instagram Story Consumers for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-androidiphones-leading-top-10-cost-free-photo-enhancements-for-2024/"><u>[Updated] Android/iPhone's Leading Top 10 Cost-Free Photo Enhancements for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/automatisierte-sicherungssoftware-fur-externe-speichermedien-einfach-und-effizient/"><u>Automatisierte Sicherungssoftware Für Externe Speichermedien - Einfach Und Effizient</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/configure-module-attributes-window-a-comprehensive-guide/"><u>Configure Module Attributes Window: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-the-essence-of-gptzero-in-ai-detection/"><u>Dissecting the Essence of GPTZero in AI Detection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exit-dialogue-with-chatgpt-quickly/"><u>Exit Dialogue with ChatGPT Quickly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrate-smoothly-using-chatgpts-api/"><u>Integrate Smoothly: Using ChatGPT's API</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-next-chapter-in-operating-systems-windows-11/"><u>The Next Chapter in Operating Systems Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-presentations-with-chatgpt-expertise/"><u>Transform Your Presentations with ChatGPT Expertise</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://fox-http.techidaily.com/virtual-reality-vistas-exploring-sci-fi-worlds-in-top-movies/"><u>Virtual Reality Vistas Exploring Sci-Fi Worlds in Top Movies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-navigating-azure-speech-recognition-efficiently/"><u>[New] In 2024, Navigating Azure Speech Recognition Efficiently</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review/"><u>[New] The Ultimate Breakdown Decoding Comprehensiveness of XVideo Hub Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-hd-cameras-for-wildlife-enthusiasts/"><u>[New] Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anthropic-unveils-new-generation-ai-claude-the-next-evolution-for-amazons-acclaimed-alexa-insights-on-tech/"><u>Anthropic Unveils New-Generation AI, Claude: The Next Evolution for Amazon's Acclaimed Alexa - Insights on Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assistant-top-picks-evaluated-and-reviewed-by-industry-professionals-zdnet/"><u>Assistant - Top Picks , Evaluated and Reviewed by Industry Professionals | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/audio-mastery-with-the-premier-soundbars-of-2024-professional-endorsements-zdnet/"><u>Audio Mastery with the Premier Soundbars of 2024: Professional Endorsements | ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/insiders-choice-best-picks-for-snappable-soundtracks/"><u>Insider's Choice Best Picks for Snappable Soundtracks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-techniques-for-editing-copious-amounts-of-tiktoks-for-2024/"><u>Master Techniques for Editing Copious Amounts of TikToks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-kids-audio-gear-guide-authoritative-selections-featured-on-zdnet/"><u>Ultimate Kids Audio Gear Guide : Authoritative Selections Featured on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-it-stands-out-as-todays-top-rated-smart-hub-and-speaker/"><u>Why It Stands Out as Today's Top-Rated Smart Hub and Speaker</u></a></li>
 </ul></div>
 
